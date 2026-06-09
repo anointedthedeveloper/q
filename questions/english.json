@@ -23503,6 +23503,25 @@
     "category": "others"
   },
   {
+    "id": 1520,
+    "question": "He is <i>notorious</i> for his drunkenness",
+    "option": {
+      "a": "popular",
+      "b": "known",
+      "c": "well known",
+      "d": "renowned"
+    },
+    "section": "Choose the option opposite in meaning to the word(s) or phrase in italics. ",
+    "image": "",
+    "answer": "d",
+    "solution": "Notorious means famous or well known for some bad qualities.\n\nRenowned means famous for something for good qualities",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 37,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1521,
     "question": "The <i>severity</i> of the harmattan helped me to complete my writing assignment in record time because i had no choice but to lock myself indoors",
     "option": {
