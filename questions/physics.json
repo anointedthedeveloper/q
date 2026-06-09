@@ -3040,6 +3040,22 @@
     "examyear": "2017"
   },
   {
+    "id": 239,
+    "question": "Which of the following statements is NOT correct?",
+    "option": {
+      "a": "Molecules of a liquid are stationary",
+      "b": " Brownian motion is an evidence of particle nature of matter",
+      "c": "Matter is made up of molecules",
+      "d": "The molecules of matter are in constant motion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Molecules of a liquid are stationary is NOT correct because liquid molecules are constantly in random motion, not stationary.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 240,
     "question": "A block and tackle pulley arrangement has 6 pulleys in which an effort of 50N supports a load of 200N, calculate the efficiency of the machine",
     "option": {
@@ -3616,6 +3632,22 @@
     "examyear": "2018"
   },
   {
+    "id": 284,
+    "question": "Which of the following does NOT describe the Image formed by a plane minor?",
+    "option": {
+      "a": "Erect",
+      "b": " Laterally inverted",
+      "c": "Same distance from mirror as object",
+      "d": "Magnified"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A plane mirror does NOT produce a magnified image. The image is always the same size as the object with a magnification of 1.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 287,
     "question": "Cathode rays are",
     "option": {
@@ -3804,6 +3836,22 @@
     "image": "",
     "answer": "a",
     "solution": "One of the key features of nuclear fission is that it can lead to a chain reaction because neutrons released from one fission event can trigger additional fission events.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 302,
+    "question": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 15.00cm³ at 0°C, what is the volume at 100°C?",
+    "option": {
+      "a": " 16.03cm³",
+      "b": "15.09cm³",
+      "c": " 16.00cm³",
+      "d": "15.03cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\nInitial volume (V₀) = 15.00 cm³\nInitial temperature (T₀) = 0°C\nFinal temperature (T) = 100°C\nTemperature change (ΔT) = 100°C\nFinal volume (V) = ?\n\nRelationship between linear and volume expansivity:\nVolume expansivity (γ) ≈ 3α (for small expansions)\nγ = 3 × 2 × 10⁻⁵ = 6 × 10⁻⁵ °C⁻¹\nFormula for volume expansion:\nV = V₀(1 + γΔT)\nSubstituting values:\nV = 15.00(1 + 6 × 10⁻⁵ × 100)\nV = 15.00(1 + 0.006)\nV = 15.00(1.006)\nV = 15.09 cm³",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -7648,6 +7696,22 @@
     "examyear": "2004"
   },
   {
+    "id": 607,
+    "question": "In a reverse biased junction diode, current flows in by",
+    "option": {
+      "a": "positive holes alone",
+      "b": "majority carriers",
+      "c": "electron alone",
+      "d": "minority carriers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a reverse biased junction diode only a very small current flows in, carried by the minority carriers which are the negative charges in the n-semi conductor",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 608,
     "question": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance X_L and X_C respectively are related as",
     "option": {
@@ -9664,6 +9728,22 @@
     "examyear": "2007"
   },
   {
+    "id": 764,
+    "question": "In a large telecommunications auditorium, perforated absorbent materials are used to line the ceiling so as to",
+    "option": {
+      "a": " Increase the reverberation of sound in the hall",
+      "b": " increase the amount of echo in the hall",
+      "c": "reduce the hight of the ceiling from the floor",
+      "d": "reduce the reverberation of sound in the hall"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a large auditorium perforated, absorbent materials are used to line the ceiling so as to reduce the effect of multiple reflection of echo called reverberation",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 765,
     "question": "The phenomenon of light bending round an obstacle is?",
     "option": {
@@ -11644,6 +11724,22 @@
     "image": "",
     "answer": "d",
     "solution": "High voltage and low current are used to prevent overheating of the transmission lines.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 928,
+    "question": "Two inductors of inductance 5 mll and 15 mll are connected in series and a current of 5A flows through them. the total energy stored in the inductor is?",
+    "option": {
+      "a": " 500.0J",
+      "b": "250.0J",
+      "c": "62.5J",
+      "d": "50.0J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nL₁ = 5 mll (likely meaning henries, as millihenries would give a very small energy not matching options)\nL₂ = 15 mll\nCurrent I = 5 A\nSeries connection.\n\nSolution:\n\nStep 1: Total inductance in series\nL = L₁ + L₂ = 5 + 15 = 20 H\n\nStep 2: Energy stored in an inductor\nEnergy E = ½ L I²\n\nStep 3: Substitute values\nE = ½ × 20 × (5)² = ½ × 20 × 25 = 10 × 25 = 250 J",
     "examtype": "utme",
     "examyear": "2010"
   },
