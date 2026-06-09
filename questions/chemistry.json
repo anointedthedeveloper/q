@@ -1952,6 +1952,22 @@
     "examyear": "2004"
   },
   {
+    "id": 156,
+    "question": "Aluminium hydroxide is used in the dyeing industry as a",
+    "option": {
+      "a": "Salt",
+      "b": "Dye",
+      "c": "Mordant",
+      "d": "Dispersant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 157,
     "question": "Alloys are best prepared by",
     "option": {
@@ -5328,6 +5344,22 @@
     "examyear": "2017"
   },
   {
+    "id": 422,
+    "question": "The salt formed from a weak acid and a strong base hydrolyzes in water to form",
+    "option": {
+      "a": "A saturated solution",
+      "b": "an acidic solution",
+      "c": "a buffer solution",
+      "d": "an alkaline solution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A salt formed from a weak acid and a strong base (e.g., CH₃COONa from acetic acid + NaOH) undergoes hydrolysis in water. The anion of the weak acid accepts a proton from water, producing OH⁻ ions. This makes the solution alkaline (pH > 7).",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 424,
     "question": "When ΔH is negative, a reaction is said to be",
     "option": {
@@ -7664,6 +7696,22 @@
     "examyear": "2021"
   },
   {
+    "id": 609,
+    "question": "Neutrons were discovered by?",
+    "option": {
+      "a": "James Chadwick",
+      "b": "Ernest Rutherford",
+      "c": "J.J Thompson",
+      "d": "John Dalton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "James Chadwick discovered the neutron in 1932 by bombarding beryllium with alpha particles and detecting the uncharged particle emitted. Rutherford discovered the proton and the nucleus, J.J. Thomson discovered the electron, and Dalton proposed the atomic theory but discovered no subatomic particles.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 610,
     "question": "Which of the following is a form of calcium carbonate? I. limestone  II. marble  III. chalk  IV. egg-shells",
     "option": {
@@ -8622,6 +8670,22 @@
     "solution": "Hard water contains high concentrations of dissolved calcium (Ca²⁺) and magnesium (Mg²⁺) ions. These ions come from the dissolution of limestone and dolomite rocks as water passes through them. Hard water reduces the lathering ability of soap and forms scale in pipes and boilers. Nitrogen, phosphorus, and helium ions do not cause water hardness.",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 675,
+    "question": "What happens to the position of equilibrium, if a reversible exothermic reaction is subjected to a decrease in temperature?",
+    "option": {
+      "a": "The position of equilibrium shifts to the left",
+      "b": "The position of equilibrium shifts to the right.",
+      "c": "The position of equilibrium remains unchanged",
+      "d": "The reaction stops"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "For a reversible exothermic reaction, the forward reaction releases heat. By Le Chatelier's principle, decreasing temperature removes heat from the system. The equilibrium shifts in the direction that produces more heat, which is the forward (exothermic) direction. The equilibrium position therefore shifts to the right, increasing the yield of products.",
+    "examtype": "utme",
+    "examyear": "2023"
   },
   {
     "id": 676,
