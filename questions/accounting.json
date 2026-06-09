@@ -752,6 +752,22 @@
     "examyear": "2013"
   },
   {
+    "id": 76,
+    "question": "One of (he following errors will affect the agreement of the trial balance ",
+    "option": {
+      "a": "error of omission ",
+      "b": "trial balance error ",
+      "c": "principle error ",
+      "d": "error of original entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 77,
     "question": "Which of the following is a fictitious asset? ",
     "option": {
@@ -775,6 +791,22 @@
       "b": "the  correction of errors ",
       "c": "writing off bad debts ",
       "d": "none of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 79,
+    "question": "…………………checks the arithmetical accuracy of double entry accounts ",
+    "option": {
+      "a": "trading account ",
+      "b": "profit and loss account ",
+      "c": "balance sheet ",
+      "d": "trial lance"
     },
     "section": "",
     "image": "",
@@ -1083,6 +1115,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 108,
+    "question": "The Public Accounts Committee is an organ of",
+    "option": {
+      "a": "military regime.",
+      "b": "parliament.",
+      "c": "presidency.",
+      "d": "councilors."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 109,
+    "question": "The balance at the end of the period is",
+    "option": {
+      "a": " 270,000.",
+      "b": "139,000.",
+      "c": "131,000.",
+      "d": "120,000."
+    },
+    "section": "Aminn local Government prepared its receipts and payments account from the following: Fines [ 20,000 ] Market rates [120,000], Salaries [ 60,000] Maintenance of vehicles [49,000 ], Park collections [ 100,000]",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -2368,6 +2432,22 @@
     "examyear": "1997"
   },
   {
+    "id": 210,
+    "question": "When a share is sold for less than its nominal value, the difference is called",
+    "option": {
+      "a": "discount",
+      "b": "reserve",
+      "c": "premium",
+      "d": "loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 211,
     "question": "Which of the following serves the same purpose as a Trading Account?",
     "option": {
@@ -2811,6 +2891,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 244,
+    "question": "Which of the following is not a debit item in a creditor’s control \taccount?",
+    "option": {
+      "a": "Cash paid",
+      "b": "Returns outwards",
+      "c": "Purchases",
+      "d": "Discounts received"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -3451,6 +3547,22 @@
     "section": "Use the following information to answer questions:: Cash in hand\t[D 1,440]; Cash at Bank [D 2,440]; Stock [D 2,500]; Furniture and fittings [D 2,200]; Creditors [D 1,000]",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 300,
+    "question": "The liability is",
+    "option": {
+      "a": "D7,580",
+      "b": "D6,580",
+      "c": "D5,380",
+      "d": "D1,000"
+    },
+    "section": "Use the following information to answer questions:: Cash in hand\t[D 1,440]; Cash at Bank [D 2,440]; Stock [D 2,500]; Furniture and fittings [D 2,200]; Creditors [D 1,000]",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -5760,6 +5872,22 @@
     "examyear": "2015"
   },
   {
+    "id": 526,
+    "question": "Prime cost is one of the following",
+    "option": {
+      "a": "expenses which can be identified with an allocated to cost centers",
+      "b": "aggregate direct material cost, direct labour cost and variable direct expenses",
+      "c": "the cost taken into account in the production process whether direct or indirect",
+      "d": "the cost of commodities supply to an undertaking"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "prime cost is the direct cost of a commodity in terms of the materials and labour involved in its production, excluding fixed costs.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 527,
     "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it can be used for more than one year is",
     "option": {
@@ -6604,6 +6732,22 @@
     "image": "",
     "answer": "c",
     "solution": "supplementary estimates means a statement of unforeseen expenditure for a financial year presented by the Treasurer to the Legislative Assembly for the purpose of obtaining supplementary appropriation for that expenditure",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 603,
+    "question": "A business organization prepares departmental account in order to",
+    "option": {
+      "a": "asertian the contribution of each department to the organization",
+      "b": "ascertain interdepartmental transfer",
+      "c": "build other branches",
+      "d": " know the number of departments in the organization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The main objectives of departmental accounting are: To check out an interdepartmental performance. To evaluate the performance of the department with the previous period result. The gross profit of each department can be ascertained.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -9120,6 +9264,22 @@
     "examyear": "2021"
   },
   {
+    "id": 840,
+    "question": "Which of the following is a debit item in the purchase ledger control account?",
+    "option": {
+      "a": "balance b/d",
+      "b": "cheque dishonoured",
+      "c": "balance c/d",
+      "d": "purchases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In the Purchases Ledger Control Account (i.e., the Creditors Control Account), a dishonoured cheque is recorded on the debit side because it reverses (cancels) a payment that had previously been debited there, thereby increasing the outstanding liability again. ",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 843,
     "question": "Which of the following should not be adjusted for in the profit and loss account?",
     "option": {
@@ -10316,6 +10476,38 @@
     "image": "",
     "answer": "a",
     "solution": "Bookkeeping is the process of recording all financial transactions of a business in a systematic and chronological order.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 966,
+    "question": "Which of the following accounting conventions suggests that accountants should use a method of valuation that understates rather than over-states results?",
+    "option": {
+      "a": "Conservatism",
+      "b": "Historical",
+      "c": "Monetary",
+      "d": "Cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The conservatism (or prudence) convention in accounting states that when there is uncertainty, accountants should choose the method that is least likely to overstate assets or income and more likely to recognize potential losses early.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 968,
+    "question": "One basic assumption of the double entry theory is that it allows?",
+    "option": {
+      "a": "two credit entries at the same time",
+      "b": " two debit entries at the same time",
+      "c": "debit and credit two credit entries at the same time",
+      "d": "debit and credit two credit entries in corresponding account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Explanation: the double-entry principle means every transaction has two effects — a debit in one account and a credit in a corresponding account for the same amount, keeping the books balanced.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -11712,6 +11904,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1098,
+    "question": "<b>Use the information below to answer questions 33 and 34</b>\n\nThe depreciation to be charged to department T is ?",
+    "option": {
+      "a": "₦300",
+      "b": "₦400",
+      "c": "₦500",
+      "d": "₦940"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662591/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q33-34_if0cr9.png",
+    "answer": "d",
+    "solution": " 1,000  (Total depreciation)\n-   60  (Depreciation for S)\n──────\n   940",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1100,
     "question": "Discounts granted branch customers are treated as a debit to branch?",
     "option": {
@@ -12300,6 +12508,22 @@
     "image": "",
     "answer": "b",
     "solution": "A Development Fund Warrant authorizes expenditure from the development (capital) fund and is used to finance capital projects. The provisional general warrant and supplementary warrant relate to recurrent or additional votes, while reserved expenditure warrants are for specific reserved charges—not the normal capital development fund.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1157,
+    "question": "<b>Use the information below to answer questions 43 and 44</b>\n\nGoods from head office................₦13,400\nReturns to head office ...............₦118\nRates and insurance paid .............₦188\nWages paid ...........................₦913\nCash remitted to head office..........₦16,625\nStock at 1/1/2000.....................₦1,875\nRents paid ...........................₦325\nStock at 31/12/2000 ..................₦1,975\nSundry expenses ......................₦200\n\nThe profit realized from the trade is?",
+    "option": {
+      "a": "₦4 069",
+      "b": "₦1 817",
+      "c": "₦1 440",
+      "d": "₦1 328"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Goods supplied net of returns = 13,400 − 118 = 13,282\nOpening stock = 1,875\nClosing stock = 1,975\n\nCost of goods sold = Opening + Goods supplied − Closing\n                    = 1,875 + 13,282 − 1,975\n                    = ₦13,182\n\nSales (taken as cash remitted) = ₦16,625\nBranch expenses (paid) = 188 + 913 + 325 + 200 = ₦1,626\n\nProfit = Sales − COGS − Expenses\n       = 16,625 − 13,182 − 1,626\n       = ₦1,817",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -14400,6 +14624,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1340,
+    "question": "The difference between the factory cost of production and the prime cost of production is?",
+    "option": {
+      "a": "direct materials",
+      "b": "direct labour",
+      "c": "selling expenses",
+      "d": "overhead"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Prime Cost includes:\n\nDirect materials\n\nDirect labor\n\nDirect expenses\n\nFactory Cost of Production (also called Total Manufacturing Cost) =\nPrime Cost + Factory Overheads (i.e., indirect costs like factory rent, supervisor salary, depreciation of machines, etc.)",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1341,
     "question": "Receipt and payments account of a non-profit making organization is principally a summary of the?",
     "option": {
@@ -15212,6 +15452,22 @@
     "image": "",
     "answer": "d",
     "solution": "When goods are transferred to a department at the selling price, the department must separate the cost and the markup. The markup portion is removed from the stock valuation by debiting the Mark-up Account.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1410,
+    "question": "The difference between the closure of the books of a branch and those of a separate company is that?",
+    "option": {
+      "a": "there is retained earnings account on the branch books",
+      "b": "the revenue and expenses account is closed to branch current account",
+      "c": "there is no retained earnings account on the branch",
+      "d": "the revenue and expenses account is not closed to the home office current account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The key distinction is that a branch does not maintain its own retained earnings account; instead, its revenue and expense accounts are closed into the Branch Current Account with the head office.",
     "examtype": "utme",
     "examyear": "199"
   },
