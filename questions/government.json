@@ -64,6 +64,22 @@
     "examyear": "2008"
   },
   {
+    "id": 83,
+    "question": "The second military coup data in Nigeria took place on ",
+    "option": {
+      "a": "15-Jan-66",
+      "b": "1-Oct-66",
+      "c": "29-Jul-66",
+      "d": "13-Feb-76"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 107,
     "question": "Proportional representation favours a ",
     "option": {
@@ -75,6 +91,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 116,
+    "question": "Which of the these was the main organ of the defunct OAU? ",
+    "option": {
+      "a": "The liberation committee ",
+      "b": "The Council of Ministers  ",
+      "c": "The commission for Mediation, Conciliation and Arbitration ",
+      "d": "the Assembly of Heads of the state and Government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -94,6 +126,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 153,
+    "question": "The European Union (EU) is an  ",
+    "option": {
+      "a": "Economic organization  ",
+      "b": "Association of former British Colonies ",
+      "c": "Organization of European States ",
+      "d": "Union European organization "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 182,
@@ -224,6 +272,22 @@
     "examyear": "2013"
   },
   {
+    "id": 322,
+    "question": "One instrument for safeguarding the rights of citizens is",
+    "option": {
+      "a": "judicial interpretation",
+      "b": "presidential pardon",
+      "c": "legislative intervention",
+      "d": "writ of habeas corpus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 334,
     "question": "The Independence constitution can be described as",
     "option": {
@@ -251,6 +315,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 346,
+    "question": "Rate are usually collected in Nigeria by",
+    "option": {
+      "a": "ministries of commerce in the states",
+      "b": "local government councils",
+      "c": "the department of Inland Revenue",
+      "d": "the traditional rulers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -384,6 +464,22 @@
     "examyear": "2010"
   },
   {
+    "id": 486,
+    "question": "In Nigeria, the agency mainly responsible for the maintenance of internal peace and security is the",
+    "option": {
+      "a": "Army",
+      "b": "Navy",
+      "c": "Civil Defense Corps",
+      "d": "Police."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 495,
     "question": "Military intervention in Nigeria arose from",
     "option": {
@@ -395,6 +491,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 497,
+    "question": "The main focus of Nigeria’s foreign policy since independence centres on",
+    "option": {
+      "a": "south-south cooperation",
+      "b": "sub-regionalism",
+      "c": "globalism",
+      "d": "Afrocentric."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 500,
+    "question": "The structure of the African Union includes",
+    "option": {
+      "a": "The Court of Justice, Pan African Congress and People’s Assembly",
+      "b": "Pan African Parliament, the Court of Justice and the Peace and Security Council",
+      "c": "Specialized Technical Commission, the Court of Justice and Humanitarian Board",
+      "d": "People’s Assembly, Humanitarian Board and the Peace and Security Council."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -432,6 +560,54 @@
     "examyear": "2013"
   },
   {
+    "id": 515,
+    "question": "One major advantage of the unitary system is that it tends to make government",
+    "option": {
+      "a": "strong and stable",
+      "b": "free of controversy",
+      "c": "distant from the people",
+      "d": "popular among the masses."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 529,
+    "question": "The indirect rule system of administration was more successful in Northern Nigeria because",
+    "option": {
+      "a": "the people were mainly interested in being governed indirectly",
+      "b": "of the existence of an organized structure in the area",
+      "c": "the Europeans ensured that the farmlands of the natives were not confiscated",
+      "d": "the natives showed little or no resistance."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 558,
+    "question": "In a democratic political system, the political sovereign is usually the",
+    "option": {
+      "a": "constitution",
+      "b": "political parties",
+      "c": "electorate",
+      "d": "legislature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 566,
     "question": "Which of the following is a feature of checks and balances?",
     "option": {
@@ -448,6 +624,22 @@
     "examyear": "2014"
   },
   {
+    "id": 567,
+    "question": "Laws made by military governments at the state level are called",
+    "option": {
+      "a": "decrees",
+      "b": "bye-laws",
+      "c": "edicts",
+      "d": "acts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 583,
     "question": "The President of Nigeria was indirectly elected through secret ballot for a period of five years by the senate in",
     "option": {
@@ -459,6 +651,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 593,
+    "question": "The review of Nigeria foreign policy under the Murtala/Obasanjo regime was done by",
+    "option": {
+      "a": "Udoji Committee",
+      "b": "Aboyade Committee",
+      "c": "Adedeji Commission",
+      "d": "Philips Commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 597,
+    "question": "Nigeria is regarded as a frontline state because she",
+    "option": {
+      "a": "sent policemen for peacekeeping in Namibia",
+      "b": "assisted the liberation struggle in Southern Africa",
+      "c": "assisted ECOMOG troops in Liberia",
+      "d": "sent troops for peacekeeping Somalia."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -491,6 +715,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 642,
+    "question": "Nigeria became a federation of 19 states in",
+    "option": {
+      "a": "1875",
+      "b": "1976",
+      "c": "1967",
+      "d": "1978"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -567,6 +807,22 @@
       "b": "Nigeria",
       "c": "the Soviet Union",
       "d": "all European countries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 714,
+    "question": "When there is a conflict between the regional and federal laws under the concurrent legislative list, the",
+    "option": {
+      "a": "Federal laws would prevail",
+      "b": "Federal laws would be declared null and void",
+      "c": "regional laws would prevail",
+      "d": "Head of State would settle the conflict"
     },
     "section": "",
     "image": "",
@@ -656,6 +912,22 @@
     "examyear": "2017"
   },
   {
+    "id": 762,
+    "question": "An important element of the doctrine of separation of powers is __",
+    "option": {
+      "a": "Delegation of power",
+      "b": " Checks and Balances",
+      "c": "Rule of Law",
+      "d": "Concentration diffusion of powers."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The doctrine of separation of powers ensures that the three branches of government (executive, legislative, and judiciary) operate independently. However, to prevent abuse of power, each branch has mechanisms to check and balance the powers of the others.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 765,
     "question": "The essence of ECOWAS is to________",
     "option": {
@@ -670,6 +942,22 @@
     "solution": "The Economic Community of West African States (ECOWAS) is a regional organisation of 15 West African countries established on 28 May 1975. Its main goal is the promotion of the economic integration among its members. Indeed, ECOWASis one the five regional pillars of the African Economic Community (AEC).",
     "examtype": "UTME",
     "examyear": "2017"
+  },
+  {
+    "id": 789,
+    "question": "Delegated legislation is suitable for",
+    "option": {
+      "a": "relieving the parliament of its workload",
+      "b": " enthroning the rule of law",
+      "c": "ensuring the fusion of powers",
+      "d": "checking the executive arm of government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Delegated legislation allows the executive and agencies to make laws under parliamentary supervision.",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 832,
@@ -718,6 +1006,38 @@
     "solution": "A collegiate system refers to a system where leadership is shared or rotated among members rather than being permanently held by one entity.\n\nIn ECOWAS (Economic Community of West African States), the Chairmanship is rotational among member states, meaning no single country or leader permanently dominates the organization.\nThis makes ECOWAS a collegiate body, where power is collectively exercised and shared.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 874,
+    "question": "A constitution is a legal document _________",
+    "option": {
+      "a": "drawn up by lawyers",
+      "b": "enacted by military decrees",
+      "c": "forming the basis upon which a government rules the country",
+      "d": "only likely to succeed in countries where there is union government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A constitution is defined as a body of agreed rules and principles stating how the powers of governing a country are given and how these powers are to be exercised.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 877,
+    "question": "Which of the following was not established by the 1979 Nigerian constitution?",
+    "option": {
+      "a": " Police Service Commission",
+      "b": "National Universities Commission",
+      "c": "Federal Electoral Commission",
+      "d": "National Population Commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The National Universities Commission (NUC) was established earlier, in 1962, by the Federal Government of Nigeria to oversee the development of higher education in the country. The 1979 Constitution of Nigeria established the Police Service Commission, the Federal Electoral Commission (now known as the Independent National Electoral Commission or INEC), and the National Population Commission.",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 878,
@@ -800,6 +1120,22 @@
     "examyear": "2021"
   },
   {
+    "id": 945,
+    "question": "In the First Republic, the official opposition party was the ..........",
+    "option": {
+      "a": "National Council of Nigeria and Cameroons",
+      "b": "Northern Elements Progressive Union",
+      "c": " Action Group",
+      "d": " Northern People's Congress"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The official opposition party in the First Republic was the Action Group.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 951,
     "question": "One of the duties of the legislature is to_______",
     "option": {
@@ -828,6 +1164,22 @@
     "image": "",
     "answer": "c",
     "solution": "A group of people with different natures, opinions, and goals with complicated networks of social relation is referred to as a society. ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 969,
+    "question": "The Judicial Service Commission is vested with the power to recommend suitable persons for appointment of the _____",
+    "option": {
+      "a": "National Judicıal Council",
+      "b": "President, Federal Republic of Nigeria",
+      "c": "Presıdent of the Senate",
+      "d": "Chief Justice of Nigeria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Judicial Service Commission is vested with the power to recommend suitable persons for the appointment of the Chief justice of Nigeria.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -862,6 +1214,22 @@
     "solution": "Pressure groups may prioritize their own interests over the public interest. This is because pressure groups are formed by individuals or organizations with specific interests or objectives. They aim to influence public policy and decision-making in favor of their interests, which may not always align with the broader public interest.",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 1046,
+    "question": "The main argument against the 1999 Constitution is that ",
+    "option": {
+      "a": " it was imposed by the military",
+      "b": " it was imposed by the military",
+      "c": " It is expensive to operate",
+      "d": " It did not create additional states"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The main argument against the 1999 constitution is that it is costly to run. The constitution operates a Presidential System of government with comprehensive duplication of political function at the federal, state and local levels. The separation of the Legislative and the Executive arm as well as the duplication of political functions make this system expensive to operate. ",
+    "examtype": "utme",
+    "examyear": "2024"
   },
   {
     "id": 1055,
@@ -960,6 +1328,38 @@
     "examyear": "2001"
   },
   {
+    "id": 1154,
+    "question": "Proportional representation is a system of allocating seats in the legislature based on",
+    "option": {
+      "a": "gender participation in polities",
+      "b": "an area",
+      "c": "contribution to the national economy",
+      "d": "total votes in an election."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Proportional representation is a system of allocating seats in the legislature based on total votes in an election.\n\nThis system is used to secure representation in the legislation in such a way that each political party get seats in proportion to the percentage of votes cast in favour of a political party. The more the percentage of votes cast in favour of a political party, the more the more the seats will be allocated to it.\n\nThis system is used in multi-member constituencies",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1158,
+    "question": "The absence of the rule of law in government will bring about",
+    "option": {
+      "a": "human rights abuse",
+      "b": "treasonable offences",
+      "c": "corrupt practices",
+      "d": "political apathy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The absence of the rule of law in government will bring about human rights abuse.\n\nThis is so as the rule of law refers to the constitutional provision which emphasizes the supremacy of the law, the equality before the law and existence of fundamental human rights.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1162,
     "question": "A major way of maintaining confidence in the electoral process is by ensuring that",
     "option": {
@@ -972,6 +1372,22 @@
     "image": "",
     "answer": "b",
     "solution": "Maintaining confidence in the electoral process primarily depends on ensuring that elections are free, fair, and transparent. This means that all participants have equal opportunities to participate, vote, and be represented, thereby fostering trust in the outcomes and integrity of the electoral system.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1163,
+    "question": "The principle of checks and balances reinforces separation of powers in order to",
+    "option": {
+      "a": "protect the powers of the executive",
+      "b": "make the legislature more powerful",
+      "c": " prevent an unconstituional change of government",
+      "d": "prevent the emergence of dictatorship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The principle of checks and balances reinforces separation of powers in order to prevent the emergence of dictatorship.\n\nAnyaele (1995) maintains that the principle of checks and balances prevents the excessive use of powers by the organs of government and that it also prevents the emergence of a dictator.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1040,6 +1456,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1227,
+    "question": "In the First Republic,politics in the Northern region was dominated by the",
+    "option": {
+      "a": "NEPU",
+      "b": "UMBC",
+      "c": "NCNC",
+      "d": "NPC"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In the First Republic,politics in the Northern region was dominated by the NPC.\nThe Northern People's Congress (NPC) was founded in October 1951. It sprang up from the northern cultural organization known as Jamiyy or Mutanen Arewa which was founded in 1949. NPC was highly dominated by the Hausa Fulani. Throughout its existence, it controlled the northern regional government. In the centre, it some times formed coalition government with NCNC.\n\nUMBC and NEPU were some of its oppsing political parties in the northern regional house of assembly.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1241,
     "question": "The headquarters of the International Court of Justice is in",
     "option": {
@@ -1052,6 +1484,22 @@
     "image": "",
     "answer": "d",
     "solution": "The headquarters of the International Court of Justice is at Hague in the Court of Justice is at Hague in the Netherlands.\n\nThe court is composed of fifteen judges. The judges are elected independently by the security council and the general assembly. It elects its own president and vice president, a registrar and other officers. Only nations and not individuals can bring cases to the court.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1243,
+    "question": "The tenure of the President of the UN Security Council is",
+    "option": {
+      "a": "two years",
+      "b": "one month",
+      "c": "six months",
+      "d": "one year"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The President of the United Nations Security Council serves a tenure of one month, with the position rotating among the 15 member states (5 permanent and 10 non-permanent) in alphabetical order (based on English country names). This monthly rotation ensures equitable representation and shared leadership.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -1086,6 +1534,22 @@
     "solution": "A distinctive feature of the Richards Constitution was its provision for a Legislative Council for the whole of Nigeria.\n\nNorthern and Southern Niger were brought together under one Legislative Council. That is, the same laws were made for the whole country by the same legislature.",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 1349,
+    "question": "A key characteristics of the civil service is",
+    "option": {
+      "a": "transparency",
+      "b": "patriotism",
+      "c": "merit system",
+      "d": "quota system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A key characteristic of the civil service is Merit System.\n\nRecruitment into the Civil Service should be based on merit and not on quota or favouritism.\n\nThis is to enable the Civil Servants to perform their functions very well and then ensure the success of the government.",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 1350,
@@ -1150,6 +1614,86 @@
     "solution": "socialism an economic system that encourages even distribution of wealth in the society.\n\nSocialism is the system of government in which there is a public ownership of production and the establishment of a society in which every person is equal.",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 1375,
+    "question": "Nigeria hosted the Commonwealth conference which eventually led to the independence of",
+    "option": {
+      "a": "Mozambique",
+      "b": "Malawi",
+      "c": "Namibia",
+      "d": "Zimbabwe"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nigeria hosted the Commonwealth conference which eventually led to the independence of Zimbabwe.\n\nWhen Nigeria was plunging very deep into political crises, the Nigerian Prime Minister, Sir Abubakar Tafawa Balewa preferred to focus all attention on the Rhodesian crisis. The country actually hosted a Commonwealth meeting on the Rhodesian question till the 15th of January, 1966.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1428,
+    "question": "A political entity that possesses independence is a",
+    "option": {
+      "a": "community",
+      "b": "nation",
+      "c": "society",
+      "d": "state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A political entity that possesses independence is a state.\n\nThe state must posses supreme authority within its territory. It must be independent of any foreign control.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1438,
+    "question": "In order to dispense justice impartially, the judiciary primarily needs",
+    "option": {
+      "a": "discipline",
+      "b": "logistics",
+      "c": "motivation",
+      "d": "independence"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The judiciary needs independence primarily in order to dispense justice impartially. Judges must be free from the absolute control of either the executive or the legislature. That means that the judiciary should not be controlled any how.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1439,
+    "question": "A state with a hegemonic political party is one in which",
+    "option": {
+      "a": "there is one dominant party",
+      "b": " there is no opposition party",
+      "c": "there is only one party",
+      "d": " other parties are officially recognized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A State with a hegemonic political party is one in which there is only one dominant party. In this system, one party is firmly established in office. The party has hegemony, that is, it enjoys unchallenged authority. The law does not operate formally against any opposition, but clearly the state concerned is effectively single-party for longer period of many years. For example, South Africa was an example of a hegemonic party. There, the National party came into power in 1948, and it only left when Dr. Nelson Mandela was elected president in 1994.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1452,
+    "question": "The main role of pressure groups is to",
+    "option": {
+      "a": " influence the legislature to make decision favourable to them",
+      "b": "inject emotion and selfish debates",
+      "c": " influence the public",
+      "d": "use all means, including bribery, to achieve their objectives"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The primary role of pressure groups is to advocate for specific policies or interests by influencing legislators and policymakers. They achieve this through lobbying, submitting proposals, organizing campaigns, and testifying at hearings. For example, environmental groups push for climate legislation, while trade unions advocate for labor rights.",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 1453,
