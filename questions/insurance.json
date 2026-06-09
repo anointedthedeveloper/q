@@ -512,6 +512,22 @@
     "examyear": "2014"
   },
   {
+    "id": 43,
+    "question": "To which of the following parties does the principle of utmost good faith apply in a contract of insurance?",
+    "option": {
+      "a": "The proposer only",
+      "b": "The insurer only",
+      "c": "The insurer and proposer",
+      "d": "The third party and insured"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 44,
     "question": "Insurers A and B cover a risk at the ratio of 2:5 for the sum insured of N= 1,800. How much would insurer  A get from the risk?",
     "option": {
@@ -663,6 +679,22 @@
       "b": "obligation",
       "c": "interest",
       "d": "premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 58,
+    "question": "In insurance contract the insured is the",
+    "option": {
+      "a": "offeror",
+      "b": "offeree",
+      "c": "Actuary",
+      "d": "Ofree"
     },
     "section": "",
     "image": "",
@@ -1611,6 +1643,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 136,
+    "question": "The amount given to the insured if he does not want the contract to continue is called",
+    "option": {
+      "a": "Insurance broker",
+      "b": "Premium",
+      "c": "Surrender value",
+      "d": "Assessor loss adjuster"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -2571,6 +2619,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 217,
+    "question": "Indemnity is not applicable in",
+    "option": {
+      "a": "assurance contract",
+      "b": "insurance contract",
+      "c": "insurance terms",
+      "d": "insurance content"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
