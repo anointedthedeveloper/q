@@ -208,6 +208,38 @@
     "examyear": "2014"
   },
   {
+    "id": 36,
+    "question": "From this dialogue, it is very likely that Wanja will be exhibiting the following characters except",
+    "option": {
+      "a": "disobedience to constituted authority",
+      "b": "truancy and perpetual lateness to school",
+      "c": "hospitable attitude towards people",
+      "d": "arrogance and unruly behaviour."
+    },
+    "section": "Ada:      Wanja, where are you going to in this ungodly hour of the night? <br> \tWanja:   I am heading towards my usual joint to enjoy myself <br>\t \tAda:       Which joint?<br> \tWanja:   XYZ. Night Club, where I take marijuana and alcoholic beverages. I really want to be high \t\t\t      tonight so that when people see me tomorrow, they will fear and respect me.<br> \tAda:     Remember, people who work under the influence of hard drugs and alcoholic beverages are prone to either psychiatric problems or premature death. Softly young man, imbibe good - natured character, you have the world at your feet and a destiny to fulfil. Pray you will not be the architect of your own misfortune.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following governmental agencies is the most capable of controlling the activities of Wanja and his group?",
+    "option": {
+      "a": "National Agency for Food and Drug Administration and Control (NAFDAC)",
+      "b": "National Orientation Agency (NO A)",
+      "c": "National Emergency Management Agency (NEMA)",
+      "d": "National Drug Law Enforcement Agency (NDLEA)"
+    },
+    "section": "Ada:      Wanja, where are you going to in this ungodly hour of the night? <br> \tWanja:   I am heading towards my usual joint to enjoy myself <br>\t \tAda:       Which joint?<br> \tWanja:   XYZ. Night Club, where I take marijuana and alcoholic beverages. I really want to be high \t\t\t      tonight so that when people see me tomorrow, they will fear and respect me.<br> \tAda:     Remember, people who work under the influence of hard drugs and alcoholic beverages are prone to either psychiatric problems or premature death. Softly young man, imbibe good - natured character, you have the world at your feet and a destiny to fulfil. Pray you will not be the architect of your own misfortune.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 43,
     "question": "A major benefit of youth empowerment is",
     "option": {
@@ -411,6 +443,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 86,
+    "question": "Which of the following bodies is responsible for defending the country against external aggression? The",
+    "option": {
+      "a": "Army",
+      "b": "Civil defense.",
+      "c": "Customs.",
+      "d": "Police."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "neco",
     "examyear": "2014"
@@ -656,6 +704,22 @@
     "examyear": "2012"
   },
   {
+    "id": 132,
+    "question": "The following are the reasons why people do not participate in polities except",
+    "option": {
+      "a": "illiteracy",
+      "b": "lack of justice",
+      "c": "multi-party system",
+      "d": "religion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 133,
     "question": "............... is the prejudicial treatment of fellow human being",
     "option": {
@@ -683,6 +747,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 140,
+    "question": "One of the following is a regulatory prohibitory sign",
+    "option": {
+      "a": "stop police",
+      "b": "speed limit",
+      "c": "t junction",
+      "d": "ferry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -1008,6 +1088,22 @@
     "examyear": "2013"
   },
   {
+    "id": 211,
+    "question": "The process in which every qualified citizen of a state has the right to vote is called ............ suffrage",
+    "option": {
+      "a": "universal adult",
+      "b": "democratic",
+      "c": "tax payer",
+      "d": "communal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 212,
     "question": "The armed forces and the police are part of the ........ organ of government",
     "option": {
@@ -1136,6 +1232,22 @@
     "examyear": "2013"
   },
   {
+    "id": 233,
+    "question": "The principle of equality before the law is the same as",
+    "option": {
+      "a": "social equality",
+      "b": "social injustices",
+      "c": "checks and balances",
+      "d": "democratic justices"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 235,
     "question": "The illegal sales and transportation of human beings for economic and some other selfish purpose is termed",
     "option": {
@@ -1200,6 +1312,22 @@
     "examyear": "2013"
   },
   {
+    "id": 250,
+    "question": "When a constitution is difficult to amend it is said to be",
+    "option": {
+      "a": "rigid",
+      "b": "flexible",
+      "c": "written",
+      "d": "federal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 251,
     "question": "If Omonigho had taken the tablet one three times a day for six days his action constitutes a kind of",
     "option": {
@@ -1227,6 +1355,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 261,
+    "question": "On a particular day in 2014, the National flag was flown half mask. This act symbolizes",
+    "option": {
+      "a": "National tailors day",
+      "b": "National mourning",
+      "c": "Children’s day",
+      "d": "Golden jubilee celebration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -1392,6 +1536,22 @@
     "examyear": "2013"
   },
   {
+    "id": 293,
+    "question": "The followings are symptoms of Ebola excepts",
+    "option": {
+      "a": "sudden fever and vomiting",
+      "b": "headaches and diarrhea",
+      "c": "muscle pains",
+      "d": "frequent hunger and increase thirst for water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 297,
     "question": "HIV and Ebola can be contacted through contact with",
     "option": {
@@ -1451,6 +1611,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 313,
+    "question": "In Lagos state, the BRT lane is reserved for ....... only",
+    "option": {
+      "a": "The governor",
+      "b": "Soldiers",
+      "c": "Commercial buses",
+      "d": "BRT buses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -1531,6 +1707,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 329,
+    "question": "The NYSC was established in the year .................",
+    "option": {
+      "a": "May 22, 1973",
+      "b": "June 15, 1960",
+      "c": "May 22, 1963",
+      "d": "August 20,1993"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -1664,6 +1856,22 @@
     "examyear": "2016"
   },
   {
+    "id": 367,
+    "question": "Youth empowerment promotes",
+    "option": {
+      "a": "self-reliance",
+      "b": "youthful exuberance",
+      "c": "pursuit of higher education",
+      "d": "foreign scholarship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
     "id": 372,
     "question": "One of reasons leaders fail to protect the interest of their followers is",
     "option": {
@@ -1703,6 +1911,22 @@
       "b": "Refresher courses",
       "c": "The use of Code Conduct Bureau",
       "d": "Reformation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
+    "id": 378,
+    "question": "Children that are not cared for are mostly prone to",
+    "option": {
+      "a": "criminal attitudes",
+      "b": "terminal diseases",
+      "c": "examination failure",
+      "d": "forced migration"
     },
     "section": "",
     "image": "",
@@ -1776,6 +2000,22 @@
     "examyear": "2015"
   },
   {
+    "id": 392,
+    "question": "Two forms of road signs are regulatory and",
+    "option": {
+      "a": "punitive",
+      "b": "informative",
+      "c": "persuasive",
+      "d": "inhibitive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 393,
     "question": "Which of the following factors does not affect interpersonal relationship?",
     "option": {
@@ -1815,6 +2055,38 @@
       "b": "1996",
       "c": "1999",
       "d": "2001"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 396,
+    "question": "National Agency for the Prohibition of Traffic in Persons (NAPTIP) is an initiative of",
+    "option": {
+      "a": "Federal Government of Nigeria",
+      "b": "United States Agency for International Development",
+      "c": "Woman Trafficking and Child Labour Eradication \tFoundation",
+      "d": "United Nations Office on Drugs and Crime"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 399,
+    "question": "In order to avoid undue interference in the process of governance, there should be",
+    "option": {
+      "a": "clear cut separation of governmental powers",
+      "b": "proper fusion of governmental powers and functions",
+      "c": "more roles for traditional rulers in the governmental process",
+      "d": "additional responsibility for local government council"
     },
     "section": "",
     "image": "",
