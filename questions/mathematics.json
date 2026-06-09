@@ -320,6 +320,22 @@
     "examyear": "2007"
   },
   {
+    "id": 31,
+    "question": "The expression a 3 + b 3 is equal  to ",
+    "option": {
+      "a": "(a2 +b)(a-ab+b2 )",
+      "b": "(a+b)(a2 –ab+b2 )  ",
+      "c": "(a-b2)(a2-  ab+b)",
+      "d": "(a­-b)(a2+ab+b2)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 32,
     "question": "Factorize 16(3x +2y)2 -25(a+2b)2  ",
     "option": {
@@ -2400,6 +2416,22 @@
     "examyear": "2003"
   },
   {
+    "id": 246,
+    "question": "If y = 3 sin(-4x), dy/dx is",
+    "option": {
+      "a": "12x cos (4x)",
+      "b": " -12x cos (-4x)",
+      "c": " -12 cos (-4x)",
+      "d": "12 sin (-4x)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = 3 sin(-4x)\ndy/dx = 3 x - 4 cos (-4x)\n= -12 cos (-4x)",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 248,
     "question": "By how much is the mean of 30, 56, 31, 55, 43 and 44 less than the median?",
     "option": {
@@ -3324,6 +3356,22 @@
     "image": "",
     "answer": "d",
     "solution": "Gradient of the line y + 2x = 5 = -2\nGradient of the line perpendicular to\ny + 2x + 5 = 1/2\nequation of a line perpendicular to\ny + 2x = 5 at the point (4, 3)\ny - y1 = m(x - x1)\ny - 3 = 1/2(x - 4)\n2y - 6 = x -4\n2y - x = 2",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 349,
+    "question": "If sin θ = -1/2 for 0 < θ < 360°, the value of θ is",
+    "option": {
+      "a": "30° and 150°",
+      "b": "150° and 210°",
+      "c": "210° and 330°",
+      "d": "150° and 330°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "sin θ = -1/2\n= -0.5\nθ = sin-1 (0.5)\nθ = 30°\nSince θ is negative\nθ = 180 + 30 = 210°\nθ = 360 - 30 = 330°\n∴θ = 210° and 330°",
     "examtype": "utme",
     "examyear": "2005"
   },
