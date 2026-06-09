@@ -342,6 +342,25 @@
     "category": "others"
   },
   {
+    "id": 124,
+    "question": "The team got <i>an ecstatic</i> welcome from the crowd.",
+    "option": {
+      "a": "An unexpected",
+      "b": "a joyous",
+      "c": "a cold",
+      "d": "a thunderous"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 128,
     "question": "The town was in such a <i>turmoil</i> that the dance was called off.",
     "option": {
@@ -760,6 +779,25 @@
     "category": "others"
   },
   {
+    "id": 288,
+    "question": "He gave himself up by his <i>plebeian</i> tastes",
+    "option": {
+      "a": "robust ",
+      "b": "voracious ",
+      "c": "patrician   ",
+      "d": "laughable"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 289,
     "question": "<i>No sooner had</i> he arrived than it started to rain",
     "option": {
@@ -999,6 +1037,25 @@
     "section": "choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 327,
+    "question": "The Vice-Chancellor <i>relinquished</i> power at the end of busterm ",
+    "option": {
+      "a": "abandoned   ",
+      "b": "wielded  ",
+      "c": "gave up",
+      "d": " clung on to."
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007",
@@ -1520,6 +1577,25 @@
     "category": "others"
   },
   {
+    "id": 465,
+    "question": "Most of his latest actions are <i>militant</i> in nature ",
+    "option": {
+      "a": "commanding ",
+      "b": "civil ",
+      "c": "zealous ",
+      "d": "passionate. "
+    },
+    "section": "Choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 470,
     "question": "We were <i>collectively</i> responsible for keeping the machine in good shape.",
     "option": {
@@ -1569,6 +1645,25 @@
     "section": "choose the option nearest in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 479,
+    "question": "His poetry is said to be <i>inscrutable  </i> ",
+    "option": {
+      "a": "ludicrous",
+      "b": "unlearnable ",
+      "c": "inseparable ",
+      "d": "mysterious."
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -1919,6 +2014,44 @@
     "category": "others"
   },
   {
+    "id": 593,
+    "question": "captivity ",
+    "option": {
+      "a": "captiviTY   ",
+      "b": "captiVIty  ",
+      "c": "capTlvity",
+      "d": "CAPtivity"
+    },
+    "section": "choose the most appropriate stress pattern from the options. The stressed syllable are written in capital letter(s)",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 629,
+    "question": "Neither Agbo nor his parents ...... the meetings now?",
+    "option": {
+      "a": "attended",
+      "b": "attend",
+      "c": " has attended",
+      "d": "attends"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 33,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 633,
     "question": "Of course we all saw the culprit ....... and hit the man on the head?",
     "option": {
@@ -2052,6 +2185,25 @@
     "category": "others"
   },
   {
+    "id": 681,
+    "question": "The solution lies in choosing between various negative alternatives?",
+    "option": {
+      "a": "the solution can be found in one of negative options",
+      "b": "the solution lies in choosing between the positively and the negative and the negative",
+      "c": "the solutions are many",
+      "d": " the solution is a negative one"
+    },
+    "section": "<b>In each of questions 81 to 85, select the option that best explains the information conveyed in the sentence.</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 85,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 689,
     "question": "The men were <u>tardy</u> in offering help?",
     "option": {
@@ -2166,6 +2318,25 @@
     "category": "others"
   },
   {
+    "id": 743,
+    "question": "The man declared his intention from the -----",
+    "option": {
+      "a": "outset",
+      "b": "inset",
+      "c": "onset",
+      "d": "offset"
+    },
+    "section": "<b>In each of questions 41 to 62, fill the gap with the most appropriate option from the list provided.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "onset simply means the beginning of something. in the statement above, it means the man made his intentions known from the beginning. option C best fits into the statement. ",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 47,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 749,
     "question": "The warring factions need words of…….\n",
     "option": {
@@ -2257,6 +2428,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 82,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 779,
+    "question": "It is time for all concerned to first <u>pick to pieces</u> the strike action before proffering solutions? ",
+    "option": {
+      "a": "embrace joyfully",
+      "b": "critically analyse",
+      "c": "stop abruptly",
+      "d": "commend highly"
+    },
+    "section": "<b>In each of questions 68 to 84, choose from the option nearest in meaning to the word underlined.</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 83,
     "hasPassage": 0,
     "category": "others"
   },
@@ -2413,6 +2603,25 @@
     "category": "others"
   },
   {
+    "id": 881,
+    "question": "My UNCLE retired from the police?",
+    "option": {
+      "a": " Did your brother resign from the police?",
+      "b": " Did your sister resign from the police?",
+      "c": "Did your uncle retire from the army",
+      "d": "Did your brother retire from the police?"
+    },
+    "section": "<b>In each of questions 81 to 85, the word in capital letters has the emphatic stress. Choose the option that best fits the expression in the sentence.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 85,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 887,
     "question": "He is <u>notorious</u> for his drunkenness?",
     "option": {
@@ -2508,6 +2717,25 @@
     "category": "others"
   },
   {
+    "id": 949,
+    "question": "Agoshito is a <u>callow</u> youth', said the teacher?",
+    "option": {
+      "a": "an ignorant",
+      "b": "an experienced",
+      "c": "an idle",
+      "d": "an organized"
+    },
+    "section": "In each of the questions 49 to 63 choose the word that is <b>opposite</b> in meaning to the underlined word.",
+    "image": "",
+    "answer": "b",
+    "solution": "Callow; (of a young person) inexperienced and immature.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 54,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 950,
     "question": "What you are asking me to do is a <u>herculean</u> task?",
     "option": {
@@ -2599,6 +2827,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 72,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 974,
+    "question": "I want to .......this chance to acquaint you the latest development?",
+    "option": {
+      "a": "size",
+      "b": "seize",
+      "c": "sieze",
+      "d": "cease"
+    },
+    "section": "<b>In each of the questions 64 to 83, choose the option that best completes the gap(s).</b> \n",
+    "image": "",
+    "answer": "b",
+    "solution": "I want to  seize  this chance to acquaint you the latest development?\n\nseize; to take (an opportunity) eagerly and decisively.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 79,
     "hasPassage": 0,
     "category": "others"
   },
@@ -3021,6 +3268,25 @@
     "category": "others"
   },
   {
+    "id": 1145,
+    "question": "The war against malaria keeps <u>waxing</u>",
+    "option": {
+      "a": "Decreasing",
+      "b": "increasing",
+      "c": "wavering",
+      "d": "happening"
+    },
+    "section": "In each of questions 46 to 55, choose the option <b>opposite</b> in meaning to the word or phrase underlined.\n",
+    "image": "",
+    "answer": "a",
+    "solution": "waxing; to grow larger or stronger.\n\n ",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 53,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1150,
     "question": "Mohammed does his work with so much <u>ardour</u>",
     "option": {
@@ -3093,6 +3359,25 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 21,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1240,
+    "question": "Conventional",
+    "option": {
+      "a": "conVENtional",
+      "b": "CONventional",
+      "c": "convenTIOnal",
+      "d": "conventioNAL"
+    },
+    "section": "choose the option with the correct emphatic stress indicated in capital letters from the options lettered A-D\n",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 47,
     "hasPassage": 0,
     "category": "others"
   },
@@ -3610,6 +3895,25 @@
     "category": "others"
   },
   {
+    "id": 1451,
+    "question": "Aliya was advised to be mindless of popular perception about her…",
+    "option": {
+      "a": "when it comes to her self esteem",
+      "b": " when it comes to applying",
+      "c": " whenever she is in love with anyone",
+      "d": "eventhough she craves for freedom like the hawking girls"
+    },
+    "section": "<b>Questions below are based on Bolaji Abdullahi's \"Sweet Sixteen\"</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "Bunmi continously made jest of Aliya as fat, her father however, encouraged her (Aliya) to be proud of her body structure as beauty lies in the eyes of the beholder and not in what people ordinarily think.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 78,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1457,
     "question": "The novelist noted that stereoscopic people should be",
     "option": {
@@ -3701,6 +4005,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 12,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1496,
+    "question": "Choose the option that best completes the gap. The chairman refused to shake __________ with the secretary",
+    "option": {
+      "a": "hand",
+      "b": "his hand",
+      "c": "hands",
+      "d": " his hands"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When you shake hands with someone you take their right hand in your own for a few moments, often moving it up and down slightly",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 13,
     "hasPassage": 0,
     "category": "others"
   },
@@ -3952,6 +4275,25 @@
     "category": "others"
   },
   {
+    "id": 1587,
+    "question": "Choose the options that have the same consonant as the ones represented by the letter(s) underlined\n\nlei<u>s</u>ure",
+    "option": {
+      "a": "sure",
+      "b": "ledger",
+      "c": "treasure",
+      "d": "judge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Leisure has the same consonant sound as in treasure",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 24,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1589,
     "question": "choose the option opposite in meaning to the word or phrase in italics\n\nThey come here on bootless <i>errand</i>",
     "option": {
@@ -3967,6 +4309,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 26,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1590,
+    "question": "Choose the option to which the given sentence relates\n\nAderonke STATED she had a right to her privacy",
+    "option": {
+      "a": "Did Omowunmi state she had a right to her privacy?",
+      "b": "Did Aderonke lament she had a right to her privacy?",
+      "c": "Did Aderonke state she had a right to her openness?",
+      "d": "did Aderonke state she had a right to his privacy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Stated' has been emphasized in the question, therefore Option B is the answer because the verb lament contradicts the emphasized word as used in the question",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 27,
     "hasPassage": 0,
     "category": "others"
   },
@@ -4043,6 +4404,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 3,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1617,
+    "question": "Ansa licked his lips and said furtively, look this is between you and me. Jimi would be angry if i told you but his brother is ---- well, we suspect he sometimes sells drugs and...'\n\nFrom the excerpt above, Ansa was talking to",
+    "option": {
+      "a": "Risikat and Nene",
+      "b": "Novi",
+      "c": "Caro",
+      "d": "Efua and Nene"
+    },
+    "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 5,
     "hasPassage": 0,
     "category": "others"
   },
@@ -4518,6 +4898,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 27,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1788,
+    "question": "All the researchers were asked to  <u>gather</u> information on the new viral infection.",
+    "option": {
+      "a": "Give.",
+      "b": "Collect.",
+      "c": "Disseminate.",
+      "d": "Distort."
+    },
+    "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "b",
+    "solution": "gather; to collect, assemble, congregate ",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 29,
     "hasPassage": 0,
     "category": "others"
   },
