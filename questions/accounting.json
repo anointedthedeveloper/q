@@ -768,6 +768,22 @@
     "examyear": "2013"
   },
   {
+    "id": 78,
+    "question": "  Which of the following is not part of the main uses of the journal ",
+    "option": {
+      "a": " purchase and sale   of   fixed   assets   on  credit   ",
+      "b": "the  correction of errors ",
+      "c": "writing off bad debts ",
+      "d": "none of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 80,
     "question": "The distinguishing feature between a two-column and three-columncash book is",
     "option": {
@@ -6764,6 +6780,22 @@
     "image": "",
     "answer": "b",
     "solution": "Appropriation account is the account into which the net profit found in the profit and loss account of the partner will be carried down to and will be shared according to their sharing ratio",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 619,
+    "question": "Given:\nI. Cash refunds\nII. Debit note issued\nIII. Dishonored cheque\nIV. Purchases\nThe item on the credit side of purchases ledger control account includes",
+    "option": {
+      "a": " I, II and III only",
+      "b": " I and II only",
+      "c": "III and IV only",
+      "d": "I, III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The credit side of the Purchases Ledger Control Account shows items that increase the amount you owe to suppliers. These are:\n\nIII. Dishonoured cheque, because a bounced cheque reverses a payment and increases your outstanding balance.\n\nIV. Purchases, as credit purchases directly raise your payables.\n\nCash refunds (I) and debit notes issued (II) reduce what you owe and therefore appear on the debit side.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -15197,6 +15229,22 @@
     "answer": "a",
     "solution": "The primary purpose of accounting is to generate financial information that helps users (managers, investors, creditors, etc.) make better economic decisions",
     "examtype": "UTME",
+    "examyear": "1997"
+  },
+  {
+    "id": 1416,
+    "question": "In preparing accounting records, the owner of a business and the business are treated as",
+    "option": {
+      "a": "the same person",
+      "b": " having business relationship",
+      "c": "separate legal entities",
+      "d": "partners"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Under the entity (or business) assumption in accounting, the business’s transactions are recorded and reported separately from the personal transactions of its owner. This allows the financial statements to reflect only the business’s financial performance and position.",
+    "examtype": "utme",
     "examyear": "1997"
   },
   {
