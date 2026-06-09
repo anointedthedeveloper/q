@@ -2736,6 +2736,22 @@
     "examyear": "2002"
   },
   {
+    "id": 182,
+    "question": "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?",
+    "option": {
+      "a": "2π",
+      "b": "5π",
+      "c": " π",
+      "d": "4π"
+    },
+    "section": " ",
+    "image": "",
+    "answer": "a",
+    "solution": "Area of the circle (A) = πr<sup>2</sup>\ndA/dr = 2πr\nr = 5cm\n; dr/dt=0.2\ndA/dt = dA/dr.dr/dt\ndA/dt=2π × 5 × 0.2 = 2π",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 183,
     "question": "If y=x<sup>2</sup>−1x. find dy/dx",
     "option": {
