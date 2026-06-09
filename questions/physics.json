@@ -1792,6 +1792,22 @@
     "examyear": "2012"
   },
   {
+    "id": 123,
+    "question": "The process by which solid change directly to vapour is called ",
+    "option": {
+      "a": "Evaporation",
+      "b": "Fusion ",
+      "c": "Condensation ",
+      "d": "Sublimation "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 124,
     "question": "A coin is at the bottom of a bucket filled with a liquid whose refractive index is 1.35. The coin appears to be 12.0cm below the surface of the liquid. Calculate the depth of the liquid.",
     "option": {
@@ -4880,6 +4896,22 @@
     "examyear": "2018"
   },
   {
+    "id": 329,
+    "question": "A force of 5N acts at a point Y on a rod XYZ as shown in this diagram. If XYZ is 2m, what is the moment of the force about point X?",
+    "option": {
+      "a": "0 Nm",
+      "b": "3 Nm",
+      "c": "7 Nm",
+      "d": "10 Nm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611795/ALOC-Questions/Physics/2018/2018_Q_50_ru9ogm.jpg",
+    "answer": "a",
+    "solution": "Given information:\n\nForce (F) = 5 N (acting at point Y)\nDistance XY = 2 m\nMoment about point X = ?\n\nUnderstanding the diagram:\n\nThe force acts along the line of the rod (from the arrow direction)\nThe force appears to act along the rod's length\n\nFormula for moment:\nMoment = Force × Perpendicular distance\nKey point:\nSince the force acts along the rod (parallel to XY), the perpendicular distance from the line of action of the force to point X is zero.\nCalculating moment:\nMoment = F × perpendicular distance\nMoment = 5 × 0 = 0 Nm\nExplanation:\nFor a moment to exist, the force must have a component perpendicular to the line joining the pivot point and the point of application. Since the force acts along the rod, it produces no turning effect about point X.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 330,
     "question": "The limiting frictional force between two surface depends on\n\nI. the gaseous reaction between the surfaces\n\nII. the nature of the surfaces in contact\n\nIII. the relative velocity between the surfaces",
     "option": {
@@ -6732,6 +6764,22 @@
     "image": "",
     "answer": "b",
     "solution": "There are 3 overtones between 40Hz and 180Hz (specifically at 80Hz, 120Hz, and 160Hz).",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 455,
+    "question": "A man stands 4m in front of a plane mirror. If the mirror is moved 1m towards the man, the distance between him and his new image is?",
+    "option": {
+      "a": " 3m",
+      "b": "5m",
+      "c": "6m",
+      "d": "10m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Objects distance (u) = image distance (v)\n\nobject distance = 3m\n\n|uv| = 3 + 3 = 6m",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -11100,6 +11148,22 @@
     "image": "",
     "answer": "b",
     "solution": "High volume expansivity means the liquid expands significantly for a small temperature increase, causing a larger movement of the liquid column. This directly enhances sensitivity",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 759,
+    "question": "2 kg of water is heated with a heating coil which draws 3.5 A from a 200 V mains for 2 minutes. What is the increase in temperature of the water? [specific heat capacity of water = 4200 Jkg⁻¹K⁻¹]",
+    "option": {
+      "a": "30°",
+      "b": "25°",
+      "c": "15°",
+      "d": "10°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nMass of water (m) = 2 kg\nCurrent (I) = 3.5 A\nVoltage (V) = 200 V\nTime (t) = 2 minutes = 2 × 60 = 120 seconds\nSpecific heat capacity of water (c) = 4200 J/(kg·K)\nTemperature increase (ΔT) = ?\n\nStep 1: Calculate electrical power\nP = VI\nP = 200 × 3.5\nP = 700 W\nStep 2: Calculate electrical energy supplied\nEnergy = Power × Time\nE = 700 × 120\nE = 84,000 J\nStep 3: Calculate temperature increase\nAssuming all electrical energy is converted to heat:\nHeat gained by water = Electrical energy\nmcΔT = E\nRearranging:\nΔT = E/(mc)\nSubstituting values:\nΔT = 84,000/(2 × 4200)\nΔT = 84,000/8,400\nΔT = 10°C",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -15484,6 +15548,22 @@
     "image": "",
     "answer": "a",
     "solution": "Boiling point of a liquid depends on external pressure. At sea level (standard atmospheric pressure), water boils at 100 °C. Below sea level, atmospheric pressure is higher because there is more air above.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1057,
+    "question": "The rise or fall of a liquid in a narrow tube is because of the",
+    "option": {
+      "a": " viscosity of the liquid",
+      "b": "surface tension of the liquid",
+      "c": "friction between the walls of the tube and the liquid",
+      "d": "osmotic pressure of the liquid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The rise or fall of a liquid in a narrow tube (capillary action) is because of the surface tension of the liquid. Surface tension, combined with adhesive and cohesive forces, creates a curved meniscus that generates a pressure difference, causing the liquid to rise (when it wets the tube) or fall (when it doesn't wet the tube).\nExamples in nature:\n\nWater in plants: Surface tension helps pull water up from roots to leaves\nWater in soil: Capillarity retains moisture in narrow pores\nPaper towels: Water rises through narrow spaces between fibers\nMercury barometer: Mercury depresses in narrow tubes\n\nRemember:\n\nSurface tension causes capillary action\nViscosity affects rate but doesn't cause it\nNarrower tubes → greater rise/fall",
     "examtype": "utme",
     "examyear": "2013"
   },
