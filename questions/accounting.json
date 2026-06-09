@@ -960,6 +960,22 @@
     "examyear": "2013"
   },
   {
+    "id": 71,
+    "question": " On December 31, 2012, Infinite Grace had a note payable due on August 1, 2013. On January 20, 2013, Infinite Grace signed a financing agreement to borrow the balance of the note payable from a lending institution to refinance the note. The agreement does not expire within one year, and no violation of any provision in the financing agreement exists. On  February 1, 2013. Infinite Grace was informed by its financial advisor that the lender is not expected to be financially capable of honouring the agreement. Infinite Grace's financial statements were issued on March 31, 2013. How should Infinite Grace classify the note on its balance sheet at December 31,2012? ",
+    "option": {
+      "a": "as a current liability because the financing agreement was signed after the balance sheet datecapable of honouring the agreement   ",
+      "b": "as a current liability because the leader is not expected to be financially ",
+      "c": " as   a   long-term   liability because  the agreement  does   not  expire within one year ",
+      "d": " as a long-term liability because no violation of any provision in the financing agreement exists."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 72,
     "question": "A business shows total debtors' balance of N400,000 in its ledger at the end of its financial customer owing N40,00 are bankrupt, and there is no  possibility of getting the debt paid. A further 2% of the debt is considered doubtful. What debtor’ total will be included as a current asset in the balance sheet? ",
     "option": {
@@ -2535,6 +2551,22 @@
       "b": "record sales",
       "c": "record purchases",
       "d": "correct errors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 174,
+    "question": "To correct an error, the Purchases Account was debited while Suspense Account was credited. Which  of  the following was the cause of the error?",
+    "option": {
+      "a": "Under casting of purchases",
+      "b": "Overcasting of purchases",
+      "c": "Original entry.",
+      "d": "Transportation of returns outwards"
     },
     "section": "",
     "image": "",
@@ -9536,6 +9568,22 @@
     "examyear": "2017"
   },
   {
+    "id": 653,
+    "question": "Which of the following is used to service all operations of government?",
+    "option": {
+      "a": "Consolidated Revenue Fund",
+      "b": "Consolidated Reserve Fund",
+      "c": "Special Operational Fund",
+      "d": "General-Reserve Fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "consolidation revenue fund generate its revenue through allocation from the federation account, court fees and fines etc and is used to finance government operation e g cost, overhead",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 655,
     "question": "What is the effect of transaction when cash is paid into the bank",
     "option": {
@@ -13008,6 +13056,22 @@
     "examyear": "2023"
   },
   {
+    "id": 903,
+    "question": "The effect of transaction when cash is paid into the bank is?",
+    "option": {
+      "a": "bank balance decrease and cash balance increase",
+      "b": "cash balance decrease and bank balance increase",
+      "c": " bank balance decrease and cash balance decrease",
+      "d": "cash balance increase and bank balance increase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When cash is paid into the bank, the cash balance decreases because you are taking cash out of your possession and depositing it into the bank. On the other hand, your bank balance increases because you are adding money to your bank account. Therefore, the effect of the transaction is that the cash balance decreases and the bank balance increases.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 904,
     "question": "Which of these is not a subsidiary books?",
     "option": {
@@ -16156,6 +16220,22 @@
     "image": "",
     "answer": "b",
     "solution": "Reason: banking the cash means you debit the Bank (increase bank balance) and credit Cash (cash in hand decreases).",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1122,
+    "question": "Which accounting concept supports the assertion that economic reality takes precedence over legal issues?",
+    "option": {
+      "a": "Realization concept",
+      "b": "Substance over form",
+      "c": "Conservatism",
+      "d": "Measurement concept"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Reason: this concept requires transactions to be recorded according to their economic substance rather than their legal form, so economic reality takes precedence over legal form.",
     "examtype": "utme",
     "examyear": "2003"
   },
