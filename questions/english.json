@@ -1729,6 +1729,25 @@
     "category": "others"
   },
   {
+    "id": 221,
+    "question": "Your mother CAN cook the meal",
+    "option": {
+      "a": " Who will cook the meal?",
+      "b": "Can my father cook the meal?",
+      "c": "Isn't my mother able to cook the meal7",
+      "d": "What can my mother do?"
+    },
+    "section": "the word in capital letters has the emphatic stress. Choose the option to which the given sentence relates",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 223,
     "question": "The police claim that a number of stolen cars…… recovered ",
     "option": {
@@ -2204,6 +2223,25 @@
     "category": "others"
   },
   {
+    "id": 292,
+    "question": "The chief said he would use the power <i>inherent</i> in his office to stop the celebration",
+    "option": {
+      "a": " unrelated to ",
+      "b": " common to ",
+      "c": " allotted to ",
+      "d": " impervious to"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 293,
     "question": "In our last play, Segun acted the <i>hero</i>",
     "option": {
@@ -2215,6 +2253,25 @@
     "section": "choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 295,
+    "question": "The point you have made is quite <i>apt</i>",
+    "option": {
+      "a": "illogical ",
+      "b": "helpful ",
+      "c": "irrelevant ",
+      "d": "insensitive"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006",
@@ -7600,6 +7657,25 @@
     "category": "others"
   },
   {
+    "id": 1026,
+    "question": "I wouldn't have responded to his rude talk, if l were you",
+    "option": {
+      "a": "the advice was taken by the respondent so he did not respond to the talk",
+      "b": "the adviser put himself in the respondent's position, so he did not respond to the talk",
+      "c": " the respondent replied to the speaker's talk, althought he ought not have done so",
+      "d": "what was advisable was that the respondent gave it back to the speaker"
+    },
+    "section": "<b>LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of question 26 to 35, select the option \nthat best explains the information conveyed in \nthe sentence",
+    "image": "",
+    "answer": "c",
+    "solution": "Two people are involved in this conversation. The adviser and the respondent. The adviser puts himself in the respondent position, and advised that  it was needless in responding to the rude conversation the respondent had with someone .\n\nThis means that, the respondent reacted to the rude talk, but the adviser wished he had ignored the talk instead.",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 32,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1027,
     "question": "He could not speak out because he had a feet of clay.",
     "option": {
@@ -8052,6 +8128,25 @@
     "examtype": "utme",
     "examyear": "2012",
     "questionNub": 75,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1070,
+    "question": "Everyone makes mistakes occasionally, nobody is.........",
+    "option": {
+      "a": "incorrigible",
+      "b": "imperfect",
+      "c": "infallible",
+      "d": "indestructible"
+    },
+    "section": "<b>In each of the question 66 to 85 choose the option that best completes the gap(s)</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "Infallible; incapable of making mistakes or being wrong.\n\nEveryone makes mistakes occasionally, nobody is infallible",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 76,
     "hasPassage": 0,
     "category": "others"
   },
@@ -9804,6 +9899,25 @@
     "category": "others"
   },
   {
+    "id": 1336,
+    "question": "Many a ____________ to understand me",
+    "option": {
+      "a": " man fail",
+      "b": "man fails",
+      "c": "men fail",
+      "d": "men fails"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "b",
+    "solution": "In the rule of Concord, 'when many-a is used, the verb and the noun that follows must be singular'\n\nOption B is the correct answer.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 23,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1337,
     "question": "It is you that __________ to write the letter",
     "option": {
@@ -9823,6 +9937,25 @@
     "category": "others"
   },
   {
+    "id": 1342,
+    "question": "Thank you for the __________ of presenting my paper.",
+    "option": {
+      "a": "privelege",
+      "b": "priviledge",
+      "c": "privilege",
+      "d": "preveledge"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "c",
+    "solution": "Option C, 'Privilege' is the appropriate spelling",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 29,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1343,
     "question": "My brother graduated from university last year; he will soon_________",
     "option": {
@@ -9838,6 +9971,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 30,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1344,
+    "question": "You need to __________your points\n",
+    "option": {
+      "a": "expanciate",
+      "b": "expaciate",
+      "c": "expatiate",
+      "d": "expantiate"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "c",
+    "solution": "Option C, 'Expatiate' is the appropriate spelling",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 31,
     "hasPassage": 0,
     "category": "others"
   },
@@ -10066,6 +10218,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 52,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1366,
+    "question": "Rather than make <u>derogatory<u/> remarks about the host, a guest should make ________ ones",
+    "option": {
+      "a": "polite",
+      "b": "complimentary",
+      "c": "interesting",
+      "d": "honest"
+    },
+    "section": "From the list of words or group of words lettered A to D, choose the one that is most nearest opposite in meaning to the underlined word or group of words and that will, at the same time correctly fill in the gap in the sentence. ",
+    "image": "",
+    "answer": "b",
+    "solution": "Derogatory implies 'to lessen one's value'. However, complimentary is an expression of praise.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 53,
     "hasPassage": 0,
     "category": "others"
   },
@@ -11020,6 +11191,25 @@
     "category": "others"
   },
   {
+    "id": 1530,
+    "question": "The patient is suffering from ____________",
+    "option": {
+      "a": "reumatism",
+      "b": "rheumantism",
+      "c": "rhuematism",
+      "d": "rheumatism"
+    },
+    "section": "Choose the word(s) or phrase(s) which best fill(s) the gap. ",
+    "image": "",
+    "answer": "d",
+    "solution": "The options contain miss spellings of the word, RHEUMATISM.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 47,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1534,
     "question": "The shipping company advertised for ____________ accountants",
     "option": {
@@ -11320,6 +11510,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 9,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1574,
+    "question": "Choose the option nearest in meaning to the word or phrase in italics\n\nThis event was a <i>watershed</i> in the company",
+    "option": {
+      "a": "landmark",
+      "b": "blot",
+      "c": "publicity",
+      "d": "stain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The question has the word <i>watershed</i> italicized. The word means an event or perfect marking a turning point in a situation. It is synonymous to the word landmark which means an event or discovering marking an important stage or turning point in something",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 11,
     "hasPassage": 0,
     "category": "others"
   },
@@ -12198,6 +12407,25 @@
     "category": "others"
   },
   {
+    "id": 1691,
+    "question": "What did Wole pick up from Jimi’s Table beside Jimi’s music CD’s, chemisty and Mathematics Textbooks?",
+    "option": {
+      "a": "a pen",
+      "b": "a watch",
+      "c": "a book",
+      "d": "a toy"
+    },
+    "section": " This question is from the novel 'The Last Days at Forcados High school'.\n",
+    "image": "",
+    "answer": "b",
+    "solution": "After Wole had look round the room and found everything still intact, he picked up a watch beside Jimi’s music CDs with his exact words in chapter 1’ man, this is some watch. Must have cost a mountain, You always get all the nicest things,why…?’\n\nSee page 2",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 4,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1693,
     "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho was the teacher to whom the students called “cane”?",
     "option": {
@@ -12498,6 +12726,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 28,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1717,
+    "question": "Choose the option that best fills the gap.\n\nThe trader complained that he ------------------ robbed",
+    "option": {
+      "a": "had been",
+      "b": "has been",
+      "c": "was being",
+      "d": "is being"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "the trader ''complained'' is a (past tense) and (past participle). this means that, the event had already taken place in the past. \n\nthe word ''robbed'' is in its past tense as well. \n\nhad  is also a (past tense) and a (past participle) mostly used to narrate an event or experience undergone in the past. it rightly completes the space on the question.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 30,
     "hasPassage": 0,
     "category": "others"
   },
