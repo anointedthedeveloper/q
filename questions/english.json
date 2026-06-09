@@ -19,6 +19,25 @@
     "category": "others"
   },
   {
+    "id": 2,
+    "question": "The reason why he was not offered admission was …………… his results could not be found.",
+    "option": {
+      "a": "that   ",
+      "b": "when  ",
+      "c": "owing to ",
+      "d": "because "
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 3,
     "question": "Course………….  writers are to reflect local colour",
     "option": {
@@ -904,6 +923,25 @@
     "section": "choose the option nearest in meaning to the word(s) or phrase in italics.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 67,
+    "question": "He shared his room with a person whose behaviour was quite <i>nauseating</i> ",
+    "option": {
+      "a": "disgusting ",
+      "b": "disrespectful ",
+      "c": "disagraceful ",
+      "d": "discouraging "
+    },
+    "section": "choose the option nearest in meaning to the word(s) or phrase in italics.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003",
@@ -4712,6 +4750,25 @@
     "category": "others"
   },
   {
+    "id": 368,
+    "question": "The woman won't have lived through the night. ",
+    "option": {
+      "a": "It was likely that the woman died before morning ",
+      "b": "The woman survived her ordeal but not without some help .   ",
+      "c": "From all indications, the woman was taken much worse, though she overcame her ordeal",
+      "d": "The woman might not have lived if she hadn’t got the right support"
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 369,
     "question": "There's a door at either end of the building.",
     "option": {
@@ -4723,6 +4780,25 @@
     "section": "select the option that best explains the information conveyed in the sentence.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 371,
+    "question": "There should be a level playing field for women entering  politics.  ",
+    "option": {
+      "a": "Women should not be allowed to enter  politics   ",
+      "b": "Sports facilities should be provided for women entering politics.",
+      "c": "Special privileges should be  given to women who want to enter politics",
+      "d": "Men and women should be able to compete are political arena on an equal basis."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007",
@@ -7296,6 +7372,25 @@
     "category": "others"
   },
   {
+    "id": 553,
+    "question": "The <i> panacea</i>  for a country's economic mess lies in systematic planning and hard work ",
+    "option": {
+      "a": "cure  ",
+      "b": "hope",
+      "c": "foresight ",
+      "d": "trouble"
+    },
+    "section": "choose the option nearest  in meaning to the word or phrase in Italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 554,
     "question": "Thousands of workers have been victims of  <i>retrenchment</i>  since the military came back to power.",
     "option": {
@@ -9348,6 +9443,25 @@
     "category": "others"
   },
   {
+    "id": 777,
+    "question": "That punch by the young boxer prove to be <u>fatal</u>?",
+    "option": {
+      "a": "effective",
+      "b": "hard",
+      "c": "deadly",
+      "d": "belated"
+    },
+    "section": "<b>In each of questions 68 to 84, choose from the option nearest in meaning to the word underlined.</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "fatal; means causing death. \n\nNearest in meaning is deadly.",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 81,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 778,
     "question": "The presence of the security men in the area will provide a <u>moment of respite</u> for the residents?",
     "option": {
@@ -9420,6 +9534,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 89,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 786,
+    "question": "The striking workers have vowed not to return to work until the decision is <u>rescinded</u>? ",
+    "option": {
+      "a": "changed",
+      "b": "dismissed",
+      "c": "implemented",
+      "d": "incorporated"
+    },
+    "section": "In each of questions 85 to 100, choose from the option <b>opposite</b> in meaning to the word underlined.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 90,
     "hasPassage": 0,
     "category": "others"
   },
@@ -11662,6 +11795,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 93,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 991,
+    "question": "Uche LOVES Toyota cars?",
+    "option": {
+      "a": "Who loves Toyota cars?",
+      "b": " What brand of car Uche love?",
+      "c": "Does Uche hate Toyota cars?",
+      "d": " Does Uche love bicycle?"
+    },
+    "section": "<b>In each of the questions 93 to 98 choose the appropriate stress pattern from the options. The syllables are written in capital letters.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "In responding to questions on emphatic stress, Interrogative sentence that contradicts the emphasized word is the correct option. This means that, the statement that does not have the emphasized word in it is the correct answer. ",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 96,
     "hasPassage": 0,
     "category": "others"
   },
@@ -14402,6 +14554,25 @@
     "category": "others"
   },
   {
+    "id": 1253,
+    "question": "He travels every WEEKEND",
+    "option": {
+      "a": " Does he sleep every weekend?",
+      "b": " Does he wash every week days?",
+      "c": " Does he travel every month?",
+      "d": "Does he travel every day?"
+    },
+    "section": "choose the option that best answers the question from the options lettered A-D",
+    "image": "",
+    "answer": "c",
+    "solution": "Option c is the correct answer because WEEKEND contradicts the phrase 'every month'",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 60,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1254,
     "question": "What did the author of the book study?",
     "option": {
@@ -16929,6 +17100,25 @@
     "category": "others"
   },
   {
+    "id": 1503,
+    "question": "<u>For all he cared: the game was as good as lost</u>",
+    "option": {
+      "a": "He did not care if the game as lost",
+      "b": "He could not care less if the game was lost",
+      "c": "He was almost certain that the game would be lost",
+      "d": "He was afraid the game would be lost"
+    },
+    "section": "Choose the option nearest in meaning to the underlined.",
+    "image": "",
+    "answer": "c",
+    "solution": "For all I care' is used to say that a person is not worried/ uninterested about what happened to someone or something. 'As good as' indicates a comparison between 'the game' and 'a lost'\n\nOption C is the best answer",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 20,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1504,
     "question": "The meeting was <u>cancelled</u> because of the convocation",
     "option": {
@@ -17267,6 +17457,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 49,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1533,
+    "question": "The answers to the questions were discussed ____________ the students",
+    "option": {
+      "a": "between",
+      "b": "by",
+      "c": "for",
+      "d": "to"
+    },
+    "section": "Choose the word(s) or phrase(s) which best fill(s) the gap. ",
+    "image": "",
+    "answer": "b",
+    "solution": "By' is the best answer to this question. Between can not be considered because the question did not explicitly tell us the number of students involved.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 50,
     "hasPassage": 0,
     "category": "others"
   },
@@ -18711,6 +18920,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 24,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1639,
+    "question": "The film was shot in <i>decrepit</i> police station.",
+    "option": {
+      "a": "an improved",
+      "b": " a damaged",
+      "c": "an impoverished",
+      "d": "a dilapidated"
+    },
+    "section": "For this question, choose the option opposite in meaning to the word or phrase in italics ",
+    "image": "",
+    "answer": "a",
+    "solution": "<i>decrepit</i>  ; worn out or ruined because of age or neglect.\nimproved; having become or been made better.",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 27,
     "hasPassage": 0,
     "category": "others"
   },
