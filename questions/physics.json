@@ -176,6 +176,22 @@
     "examyear": "2006"
   },
   {
+    "id": 12,
+    "question": "The most suitable type of mirror used for the construction of search light is the: ",
+    "option": {
+      "a": "concave mirror ",
+      "b": "Convex mirror ",
+      "c": "Spherical mirror ",
+      "d": "Parabolic Mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 13,
     "question": "Light wave and ripples of water are similar because both",
     "option": {
@@ -779,6 +795,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following  is common to evaporation and boiling, they ",
+    "option": {
+      "a": "take place at any temperature ",
+      "b": "are surface phenomena ",
+      "c": "involve change of state ",
+      "d": "take place at a definite pressure "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -3008,6 +3040,22 @@
     "examyear": "2016"
   },
   {
+    "id": 215,
+    "question": "Which of the following statements about wave motion is correct?",
+    "option": {
+      "a": "Electromagnetic waves are transverse",
+      "b": "Transverse waves do not require a medium for propagation",
+      "c": "Longitudinal waves vibrate perpendicular to the direction of travel",
+      "d": "All mechanical waves are longitudinal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Electromagnetic waves are transverse waves with electric and magnetic fields oscillating perpendicular to the direction of propagation.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 216,
     "question": "A satellite revolving around the earth is kept on its orbit by?",
     "option": {
@@ -5196,6 +5244,22 @@
     "image": "",
     "answer": "d",
     "solution": "A man exerts the greatest pressure when standing on the toes of one foot because this position has the smallest contact area, and pressure is inversely proportional to area.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 374,
+    "question": "Gases conduct electricity under",
+    "option": {
+      "a": " high pressure & high voltage",
+      "b": "low pressure & low voltage",
+      "c": "normal pressure & low voltage",
+      "d": "low pressure & high voltage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gases conduct electricity under low pressure & high voltage",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -8960,6 +9024,22 @@
     "examyear": "2004"
   },
   {
+    "id": 646,
+    "question": "A man exerts a pressure of 2.8 × 10³ Nm⁻² on the ground and has 4 × 10⁻² m² of his feet in contact with the ground. The weight of the man is",
+    "option": {
+      "a": " 102N",
+      "b": "70N",
+      "c": "140N",
+      "d": "112N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPressure, P = 2.8 × 10³ Nm⁻²\nContact area, A = 4 × 10⁻² m²\nWeight, W = ?\n\nSolution:\nStep 1: Recall pressure formula\nFormula: P = F/A\nWhere:\n\nP = pressure\nF = force (weight in this case)\nA = area\n\nStep 2: Rearrange for force\nF = P × A\nSince the man is standing on the ground:\nWeight, W = P × A\nStep 3: Substitute values\nW = 2.8 × 10³ × 4 × 10⁻²\nW = (2.8 × 4) × (10³ × 10⁻²)\nW = 11.2 × 10¹\nW = 112 N",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 648,
     "question": "A cell whose internal resistance is 0.5Ω delivers a current of 4A to an external resistor,The loss voltage of the cell is",
     "option": {
@@ -10364,6 +10444,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430720/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_48_ixllq2.png",
     "answer": "b",
     "solution": "Diagram B correctly represents two isolated unlike poles, with clear, symmetric field lines joining N to S",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 748,
+    "question": "Use the figures above to answer the question below\n\nWhich of the following diagrams represents correctly an n-p-n transistor?",
+    "option": {
+      "a": "A",
+      "b": "B ",
+      "c": "C",
+      "d": "D"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430743/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_49_ofsda0.png",
+    "answer": "b",
+    "solution": "Arrow is on the emitter and points outward, with correct labeling of b, c, e.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -11968,6 +12064,22 @@
     "examyear": "2009"
   },
   {
+    "id": 863,
+    "question": "If the pressure of the vapor on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed?",
+    "option": {
+      "a": " room temperature",
+      "b": "boiling point",
+      "c": " freezing point",
+      "d": "standard temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Liquid boils when its saturated vapor pressure is equal to the (external) atmospheric pressure.\n\nI.e. Boiling point at 100°c ",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 864,
     "question": "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. The time required to boil the water is?\n[Specific latent heat of vaporization of water = 2.3 × 10⁶ J kg⁻¹]",
     "option": {
@@ -13104,6 +13216,22 @@
     "examyear": "2010"
   },
   {
+    "id": 945,
+    "question": "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives?",
+    "option": {
+      "a": "the energy released",
+      "b": "the electrochemical equivalent",
+      "c": "the current flowing",
+      "d": " the charge released"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In Faradays law of electrolysis\nM = It = Q\nWhere M is the mass of substance deposit . Q is the quantity of charge. A graph of m against Q is a straight line passing through the origin with slope equal to the electrochemical equivalent.Z",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 947,
     "question": "An object is weighed at different locations on the Earth. What will be the right observation?",
     "option": {
@@ -13740,6 +13868,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774439348/ALOC-Questions/Physics/2011/PHYSICS_2011_Q_41_p3q4wh.png",
     "answer": "a",
     "solution": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 991,
+    "question": "The correct expression for the potential at a point distance r from a charge q in an electric field is?",
+    "option": {
+      "a": "q²/(4πε₀r²)",
+      "b": " q²/(4πε₀r)",
+      "c": "q/(4πε₀r²)",
+      "d": "q/(4πε₀r)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding electric potential:\nElectric potential (V) at a point is the work done per unit charge in bringing a test charge from infinity to that point.\nFormula for electric potential due to a point charge:\nV = kq/r = q/(4πε₀r)\nwhere:\n\nV = electric potential\nq = source charge\nr = distance from the charge\nk = Coulomb's constant = 1/(4πε₀)\nε₀ = permittivity of free space\n\nComparing with electric field:\nElectric field (E):\nE = kq/r² = q/(4πε₀r²)\n\nUnits: N/C or V/m\nVector quantity\nProportional to 1/r²\n\nElectric potential (V):\nV = kq/r = q/(4πε₀r)\n\nUnits: Volts (V) or J/C\nScalar quantity\nProportional to 1/r\n\nThe correct expression for electric potential at distance r from charge q is V = q/(4πε₀r).",
     "examtype": "utme",
     "examyear": "2011"
   },
