@@ -1264,6 +1264,22 @@
     "examyear": "2001"
   },
   {
+    "id": 143,
+    "question": "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q.",
+    "option": {
+      "a": " 040°",
+      "b": " 070°",
+      "c": "280°",
+      "d": " 320°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 147,
     "question": "If the gradient of the curve y = 2kx<sup>2</sup> + x + 1 at x = 1 is 9, find k.",
     "option": {
@@ -1388,6 +1404,22 @@
     "image": "",
     "answer": "b",
     "solution": "The mean X = sumation x/n = 30/6 = 5\\ Variance = (sumation (x-x)<sup>2</sup>) /n = 30/6= 5",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 161,
+    "question": "Triangle SPT is the solution of the linear inequalities",
+    "option": {
+      "a": "2y - x - 2 ≤ 0, y + 2x + 2 ≥ 0, -2 ≤ x ≤ - 1",
+      "b": " -2 ≤ x ≤ 2, y ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0",
+      "c": " 2y - x - 2 ≤ 0, y + 2x + 2 ≤ 0, y ≥ 0, x ≤ 0",
+      "d": "2y - x - 2 ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696566/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_40_wirh19.jpg",
+    "answer": "a",
+    "solution": "Δ SPT is the solution of the inequalities\n2y - x - 2 ≤ 0\n2y ≤ 2 + x\ny ≤ 2/2 + x/2\ny ≤ 1 + 1/2x\ny + 2x + 2 ≥ 0,\ny ≥ -2 -2x\n∴ the solution of the inequalities\n2y - x - 2 ≤ 0,\ny + 2x + 2 ≥ 0\n= -2 ≤ x ≤ -1",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -1840,6 +1872,22 @@
     "examyear": "2002"
   },
   {
+    "id": 210,
+    "question": "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set.",
+    "option": {
+      "a": "105",
+      "b": "100",
+      "c": " 95",
+      "d": " 110"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let the sum of the first five numbers and the sixth number be x and t respectively.\n\n(x+t)/6 = 60 ⟹ x + t = 360\nx/5 = 50 ⟹ x = 250\n∴ t = 360 − 250 = 110",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 213,
     "question": "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
     "option": {
@@ -2028,6 +2076,22 @@
     "image": "",
     "answer": "a",
     "solution": "U = {2,4,6,8,10,12,14,16,18,20,22,24,26,28,30}\nP = {6,12,18,24,30}\nQ = {4,8,12,16,20,24,28}\nP∪Q = {4,6,8,12,16,18,20,24,28,30}\n(P∪Q)c = {2,10,14,22,26}",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 233,
+    "question": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3?",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "6",
+      "d": "9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "x ∝ uv/u+v. x = kuv/u+v. K =x(u+v)/uv. 3(3+1)/3 × 1. 3 × 4/3. k = 4. x = 4uv/u+v. x = 4 × 3 × 3 3 +3. x = 36/6. x = 6",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -3148,6 +3212,22 @@
     "image": "",
     "answer": "c",
     "solution": "U = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}\nA = {x/x is divisible by 2}\nA = {2,4,6,8,10,12,14,16,18,20}\nB = {x/x is divisible by 3}\nA ∩ B = {6, 12, 18}\nP(Number divisible by both 2 and 3)\n= 3/20",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 365,
+    "question": "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) ≥ 0.\n ",
+    "option": {
+      "a": "x ≥ 2",
+      "b": " 0 ≥ x ≥ 2",
+      "c": " -2 ≥ x ≥ 0, x ≤\n 2",
+      "d": " x ≥ -2, 0 ≥\n x ≥\n 2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702450/ALOC-Questions/Mathematics/2005/math_2005_q44_bnvtsf.jpg",
+    "answer": "c",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -4300,6 +4380,22 @@
     "image": "",
     "answer": "d",
     "solution": "Exterior angle = 360 / n\n= 360 / 12\n= 30°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 496,
+    "question": "Find the area of the figure above\n[π = 22/7]",
+    "option": {
+      "a": "12.5 cm2",
+      "b": "75.0 cm2",
+      "c": "78.5 cm2",
+      "d": "84.8 cm2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546154/ALOC-Questions/Mathematics/2008/MATH_2008_Q25_stpony.jpg",
+    "answer": "d",
+    "solution": "Area of the figure = Area of rect + area of semi circle                                   =L×h+1/2 πr<sup>2</sup> 5×15+1/2×22/7×〖(5/2)〗<sup>2</sup>=75+((22×25))/(2×7)=75+9 23/28=84.8cm",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -8432,6 +8528,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1001,
+    "question": "Simplify 81<sup>(−3/4)</sup> x 25<sup>(1/2)</sup>\n x 243<sup>2/5</sup>",
+    "option": {
+      "a": "2/5",
+      "b": "3/5",
+      "c": "5/2",
+      "d": "5/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "81<sup>(−34)</sup>\n x 25<sup>(1/2)<?sub>\n x 243<sup>(2/5)</sup>\n= (4√81)<sup>−3</sup> × √25 × (5√243)<sup>2</sup>\n= 5×3<sup>2</sup>/3<sup>3</sup>= 5/3",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 1002,
     "question": "Find the value of ((0.5436)<sup>3</sup>)/(0.017×0.219) to 3 significant figures.",
     "option": {
@@ -8716,6 +8828,22 @@
     "image": "",
     "answer": "d",
     "solution": "234 - 4x<sup>2</sup> = 182<sup>2</sup>  - (2x)<sup>2</sup> = (18 - 2x)(18 + 2x)\n\n2x + 18 = 2x + 18 = (2x + 18)\n\n18 - 2x = 2(a - x) or -2(x - a) \n\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1033,
+    "question": "A crate of soft drinks contains 10 bottle of Coca-Cola 8 of Fanta and 6 of Sprite. If one bottle is selected at random, what is the probability that it is Not a Coca-Cola bottle? ",
+    "option": {
+      "a": "5/12",
+      "b": "1/3",
+      "c": "3/4",
+      "d": "7/12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Coca-Cola = 10 bottles, Fanta = 8 bottles, Spirite = 6 bottles \n\nTotal = 24\n\nP(Coca-Cola) = 10/24; P(not Coca-Cola) \n\n1 - (10/24) \n\n(24−10)/24 = 14/24 = 7/12\n ",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -9052,6 +9180,22 @@
     "image": "",
     "answer": "a",
     "solution": "√27 + 3√3\n= √(9×3) + (3×√3/(√3 ×√3)\n= 3√3 + √3\n= 4√3",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1072,
+    "question": "Three brothers in a business deal share the profit at the end of a contract. The first received 13\n of the profit and the second 23\n of the remainder. If the third received the remaining N12000.00 how much profit did they share?",
+    "option": {
+      "a": "N60 000.00",
+      "b": "N54 000.00",
+      "c": "N48 000.00",
+      "d": "N42 000.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "use \"T\" to represent the total profit. The first receives 1/3 T\n\nremaining, 1 - 1/3 = 2/3T\n\nThe seconds receives the remaining, which is 2/3  also\n\n2/3 x 2/3 x 4/9\n\nThe third receives the left over, which is 2/3T - 4/9T = ((6−4)/9)/T\n= 2/9T\n\nThe third receives 2/9T which is equivalent to N12000\n\nIf 2/9T = N12, 000\nT = 12000/(2/9)\n\n\n= N54, 000",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -10684,6 +10828,22 @@
     "image": "",
     "answer": "b",
     "solution": "Percentage birthrate = 62/6250 × 100\n= 6200/6250\n= 0.992% ≈ 1.0%.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1237,
+    "question": "Simplify 1¼ ÷ (2 ÷ ¼ of 28)",
+    "option": {
+      "a": "1 (3/8)",
+      "b": "2 (3/4)",
+      "c": "4 (3/8)",
+      "d": "3 (1/5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "1¼ ÷ [ 2 ÷ ¼] of 28\n\nApply BODMAS rules\n\n5/4 ÷ [ 2 ÷ ¼ × 28 ]\n\n5/4 ÷ 2/7\n\n\n\n5/4 × 7/2\n\n\n35/8\n\n\n= 4(3/8)",
     "examtype": "utme",
     "examyear": "2015"
   },
