@@ -752,6 +752,22 @@
     "examyear": "1999"
   },
   {
+    "id": 318,
+    "question": "In a federal constitution, legislative powers that are shared by two levels of government are referred to as",
+    "option": {
+      "a": "exclusive",
+      "b": "extra-ordinary",
+      "c": "residual",
+      "d": "concurrent."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 321,
     "question": "Which of the following best describes the role of the civil service?",
     "option": {
@@ -1344,6 +1360,22 @@
     "examyear": "2013"
   },
   {
+    "id": 537,
+    "question": "The party system practiced in Nigeria’s Third Republic was",
+    "option": {
+      "a": "multi-party",
+      "b": "two-party",
+      "c": "zero-party",
+      "d": "one-party."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 543,
     "question": "A major source of revenue in the post -1976 local government in Nigeria is",
     "option": {
@@ -1355,6 +1387,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 546,
+    "question": "Under the Technical Aid Corps, Nigerian experts are deployed to",
+    "option": {
+      "a": "Asia, Africa and the Pacific",
+      "b": "Africa, the Pacific and the Caribbean",
+      "c": "Europe, South America and Asia",
+      "d": "the Pacific, the Caribbean and Europe."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -1591,6 +1639,22 @@
       "b": "State commissioners",
       "c": "State governors",
       "d": "the State Governors and the Head of State."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 629,
+    "question": "In the Oyo traditional political system, the Alaafin of Oyo was elected or chosen by a group known as the",
+    "option": {
+      "a": "Bales",
+      "b": "Obas",
+      "c": "Ogboni",
+      "d": "Oyomesi."
     },
     "section": "",
     "image": "",
@@ -2108,6 +2172,22 @@
     "image": "",
     "answer": "a",
     "solution": "Delegated legislation allows the executive and agencies to make laws under parliamentary supervision.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 797,
+    "question": "Which of the following did not generate political crisis in Nigeria?",
+    "option": {
+      "a": "Adoption of Abuja as the New Federal General Elections Capital",
+      "b": " Motion for self government in 1956 by Enahoro",
+      "c": "1965 election in the Western Region",
+      "d": "1964 General Elections"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "While other events caused political crises, Abuja’s adoption did not.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2880,6 +2960,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1148,
+    "question": "The delineation of constituencies is a major duty of the",
+    "option": {
+      "a": "national assembly",
+      "b": "political parties",
+      "c": "boundary commission",
+      "d": "electoral commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The delineation of constituencies, which means drawing electoral boundaries, is a key function of the Electoral Commission. In Nigeria, the Independent National Electoral Commission (INEC) is responsible for reviewing and defining electoral constituencies in accordance with constitutional guidelines and demographic changes.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1154,
     "question": "Proportional representation is a system of allocating seats in the legislature based on",
     "option": {
@@ -2992,6 +3088,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1182,
+    "question": "The United Nations charter is an instrument that",
+    "option": {
+      "a": "sets out the rights and obligations of member states",
+      "b": "provides for funding of memeber states",
+      "c": "facilitates the resolution of disputes among member states",
+      "d": "determines the admission of member states"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The United Nations charter is an instrument that sets out the rights and obligations of member states.\n\nIt should be recalled that one of the aims and objectives of U.N.O is to promote respect for Fundamental Human Rights among Nations.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1187,
     "question": "Which of the following is a founding member of OPEC?",
     "option": {
@@ -3004,6 +3116,22 @@
     "image": "",
     "answer": "c",
     "solution": "Venezuela is a founding member of OPEC.\n\nOther founding members are Iran, Iraq, Kuwait and Saudi Arabia.\n\nThe Organization was formed in September 1960.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1189,
+    "question": "Who among the following served as Secretary General of OPEC?",
+    "option": {
+      "a": "Jibril Aminu",
+      "b": "Aret Adams",
+      "c": " Dan Etete",
+      "d": "Rilwanu Lukman"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Rilwanu Lukman, a Nigerian engineer and technocrat, served as the Secretary General of OPEC from 1995 to 2000. During his tenure, he played a crucial role in managing the organization’s policies and navigating the complexities of global oil markets. His leadership is often noted for its contributions to stabilizing oil production levels and addressing the challenges faced by member countries.",
     "examtype": "utme",
     "examyear": "2002"
   },
