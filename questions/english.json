@@ -57,6 +57,25 @@
     "category": "others"
   },
   {
+    "id": 53,
+    "question": "The witness decided to <i>conceal</i> the evidence ",
+    "option": {
+      "a": "waive ",
+      "b": "divulge ",
+      "c": "hide",
+      "d": "destroy "
+    },
+    "section": "opposite in meaning to the word(s) or phrase in italics ",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 68,
     "question": "From what she said, one may <i>infer</i> that she does not like the course",
     "option": {
@@ -201,6 +220,25 @@
     "section": "choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 128,
+    "question": "The town was in such a <i>turmoil</i> that the dance was called off.",
+    "option": {
+      "a": "mourning state",
+      "b": "rainy state",
+      "c": "state of darkness",
+      "d": "state of confusion"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004",
@@ -380,6 +418,25 @@
     "category": "others"
   },
   {
+    "id": 239,
+    "question": "Everybody is allowed to ………. his views on state matters ",
+    "option": {
+      "a": "Air ",
+      "b": "hear ",
+      "c": "show ",
+      "d": "share "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 253,
     "question": "Ogiri takes after his father, he fawns upon anyone with influence.",
     "option": {
@@ -429,6 +486,25 @@
     "section": "choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 297,
+    "question": "The notice reads, No <i>cash</i> transactions in this hall'",
+    "option": {
+      "a": "money   ",
+      "b": "gainful ",
+      "c": "business ",
+      "d": "cheque"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006",
@@ -589,6 +665,25 @@
     "category": "others"
   },
   {
+    "id": 334,
+    "question": "capitalism    ",
+    "option": {
+      "a": "capiTAIism   ",
+      "b": "capitaLIsm",
+      "c": "caPItalism ",
+      "d": "CApitalism."
+    },
+    "section": "choose the appropriate stress pattern from the options. The syllables are written in capital letters.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 348,
     "question": "When they examined his body, they found that he ...",
     "option": {
@@ -665,6 +760,25 @@
     "category": "others"
   },
   {
+    "id": 364,
+    "question": "My advice to Tolu was: 'Look before you leap.'",
+    "option": {
+      "a": "Tolu was advised to consider her opinions before reaching any decisions.",
+      "b": "Tolu was advised to consider the possible consequences before taking action.",
+      "c": "Tolu was advised to weigh her decisions by looking and leaping.  ",
+      "d": "Tolu was advised to leap only after looking."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 373,
     "question": "He needn't have bought that new table ",
     "option": {
@@ -722,6 +836,25 @@
     "category": "others"
   },
   {
+    "id": 401,
+    "question": "Our teacher described Agbo's story as a <i>phantom</i>",
+    "option": {
+      "a": "scary  ",
+      "b": "realistic ",
+      "c": "fanciful   ",
+      "d": "interesting "
+    },
+    "section": "choose the option nearest in meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 408,
     "question": "The  man would not <i>withdraw</i>  what hi hid ",
     "option": {
@@ -733,6 +866,25 @@
     "section": "choose the option nearest in meaning to the word or phrase In Italics",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 433,
+    "question": "Sc<u>oo</u> led ",
+    "option": {
+      "a": "cold ",
+      "b": "could ",
+      "c": "court",
+      "d": "you"
+    },
+    "section": "choose the option that has the same vowel sound as the represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008",
@@ -779,6 +931,25 @@
     "category": "others"
   },
   {
+    "id": 451,
+    "question": "I couldn't buy the biscuit because of the hold-up in the supermarket. ",
+    "option": {
+      "a": "The shop had not opened.",
+      "b": "The attendant was slow  ",
+      "c": " Armed robbers were",
+      "d": " There was nobody to attend to me."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 455,
     "question": "He was injured by friend fire. ",
     "option": {
@@ -790,6 +961,25 @@
     "section": "select the option that best explains the information conveyed in the sentence. ",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 456,
+    "question": "Kola visits us on occasions, and I don't like that.",
+    "option": {
+      "a": "I do not like Kola because he visits us only when an event is being celebrated. ",
+      "b": "I hate the fact that Kola only visits us when something is being celebrated.",
+      "c": "That Kola does not visit us often is something I object to.   ",
+      "d": "Kola seldom visits us and that is because he is a fair-weather friend."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -836,6 +1026,25 @@
     "category": "others"
   },
   {
+    "id": 471,
+    "question": "His comment was not <i>printable</i>",
+    "option": {
+      "a": "punishable  ",
+      "b": "suitable ",
+      "c": "offensive ",
+      "d": "unfair."
+    },
+    "section": "Choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 499,
     "question": "1 missed the match though it was shown on television on  two…….. nights. ",
     "option": {
@@ -855,6 +1064,25 @@
     "category": "others"
   },
   {
+    "id": 505,
+    "question": "I am told that the market is.-, in to the interests of people from all ………….of life",
+    "option": {
+      "a": "tuned/walks ",
+      "b": "constructed /places ",
+      "c": "designed/places  ",
+      "d": "set/works "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 511,
     "question": "  re<u>s</u>t",
     "option": {
@@ -862,6 +1090,25 @@
       "b": "show",
       "c": "unasked",
       "d": "wise"
+    },
+    "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 512,
+    "question": "  <u>th</u>ought",
+    "option": {
+      "a": "taught",
+      "b": "weather",
+      "c": "theatre",
+      "d": "fate"
     },
     "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined.",
     "image": "",
@@ -923,6 +1170,25 @@
     "section": "choose the option nearest  in meaning to the word or phrase in Italics.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 582,
+    "question": "c<u>oup</u> ",
+    "option": {
+      "a": "whup  ",
+      "b": "shoot ",
+      "c": "couple ",
+      "d": "scout"
+    },
+    "section": "choose the option that has the same vowel sound as the one represented by the letters underlined.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010",
@@ -1026,6 +1292,63 @@
     "category": "others"
   },
   {
+    "id": 666,
+    "question": "As these boys never act in public, the police are now worried about their <u>convert</u> activities?",
+    "option": {
+      "a": "ignoble",
+      "b": "evil",
+      "c": "open",
+      "d": "cryptic"
+    },
+    "section": "<b>In each of questions 63 to 77,choose the option opposite in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 70,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 676,
+    "question": "They FLEW to Abuja?",
+    "option": {
+      "a": " Did they go Abuja by road?",
+      "b": "Did they fly to jos?",
+      "c": " How will they get to Abuja?",
+      "d": "Where did they fly to?"
+    },
+    "section": "<b>In each of questions 78 to 80, the word in capital letters has an emphatic stress. Choose the option that best fits the expression in the sentence.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 80,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 678,
+    "question": "You must not attend the end-of year party?",
+    "option": {
+      "a": "It is not necessary that you attend the party",
+      "b": " It is necessary that you attend the party",
+      "c": "You do not have to decided whether to attend the party or not",
+      "d": "You have to decided whether to attend the party or not"
+    },
+    "section": "<b>In each of questions 81 to 85, select the option that best explains the information conveyed in the sentence.</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "'You must not attend the end-of year party'' this statement means that, attending the party is not compulsory or a necessity. it is optional",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 82,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 730,
     "question": "HONOUR?",
     "option": {
@@ -1098,6 +1421,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 76,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 793,
+    "question": "Hypertension is a <u>debilitating</u> disease that everyone should prevent?",
+    "option": {
+      "a": "a mortal",
+      "b": "an enervating",
+      "c": " an energizing",
+      "d": "a horrible"
+    },
+    "section": "In each of questions 85 to 100, choose from the option <b>opposite</b> in meaning to the word underlined.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 97,
     "hasPassage": 0,
     "category": "others"
   },
@@ -1235,6 +1577,25 @@
     "category": "others"
   },
   {
+    "id": 967,
+    "question": "There are many ways to kill a rat, so we should be..... in our approach to the task ahead of us?",
+    "option": {
+      "a": "ecletic",
+      "b": "eclectic",
+      "c": "eclektic",
+      "d": "eclectik"
+    },
+    "section": "<b>In each of the questions 64 to 83, choose the option that best completes the gap(s).</b> \n",
+    "image": "",
+    "answer": "b",
+    "solution": "There are many ways to kill a rat, so we should be eclectic  in our approach to the task ahead of us?\n\nEclectic; /ɪˈklɛktɪk/ deriving ideas, style, or taste from a broad and diverse range of sources.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 72,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 985,
     "question": "Fuel? ",
     "option": {
@@ -1288,6 +1649,44 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 100,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1033,
+    "question": "Bola always looks <u>sober</u>",
+    "option": {
+      "a": "excited",
+      "b": "serious",
+      "c": "worried",
+      "d": "hapless"
+    },
+    "section": "In each of the questions 36 to 50 choose the option <b>opposite</b> in meaning to the underlined word or phrase.\n",
+    "image": "",
+    "answer": "a",
+    "solution": "sober;serious, sensible, and solemn",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 39,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1044,
+    "question": "The way the workshop was organized was rather <u>hit-and-miss</u>",
+    "option": {
+      "a": "systematic",
+      "b": "hasty",
+      "c": "slow",
+      "d": "funny"
+    },
+    "section": "In each of the questions 36 to 50 choose the option <b>opposite</b> in meaning to the underlined word or phrase.\n",
+    "image": "",
+    "answer": "a",
+    "solution": "Hit-and-miss; done or occurring at random.\n\nSystematic; done or acting according to a fixed plan or system; methodical.",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 50,
     "hasPassage": 0,
     "category": "others"
   },
@@ -1482,6 +1881,44 @@
     "category": "others"
   },
   {
+    "id": 1269,
+    "question": "What was Omar's JAMB exam score?",
+    "option": {
+      "a": "230",
+      "b": "250",
+      "c": "220",
+      "d": "260"
+    },
+    "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 16,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1273,
+    "question": "It might be said that there is some kind of sibling rivalry between",
+    "option": {
+      "a": "Teemah and Bint",
+      "b": "Teemah and Omar",
+      "c": "Jamila and Omar",
+      "d": "Jamila and Teemah"
+    },
+    "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 20,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1288,
     "question": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nNa<u>t</u>ional\n\n\n",
     "option": {
@@ -1501,6 +1938,25 @@
     "category": "others"
   },
   {
+    "id": 1300,
+    "question": "My account with the bank is in the red. This means that my account is",
+    "option": {
+      "a": "heavy",
+      "b": "in danger",
+      "c": "overdrawn",
+      "d": " written in red ink"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Self-explanatory.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 47,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1345,
     "question": "ll the people in the bus died in that _________  accident",
     "option": {
@@ -1516,6 +1972,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 32,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1355,
+    "question": "I went through his work; it was <u>gibberish</u>",
+    "option": {
+      "a": "meaningless",
+      "b": "meaningful",
+      "c": "brutal",
+      "d": "too simple"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence\n\n ",
+    "image": "",
+    "answer": "a",
+    "solution": "Gibberish is a meaningless speech or writing. Option A is the correct answer",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 42,
     "hasPassage": 0,
     "category": "others"
   },
@@ -1592,6 +2067,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 84,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1467,
+    "question": "All the Nigerian footballers have itchy feet",
+    "option": {
+      "a": "the footballers have insured feet",
+      "b": "the footballers use their feet to steer",
+      "c": "the footballers like to travel",
+      "d": "the footballers like play skillfully"
+    },
+    "section": "Choose the correct interpretations of the statement given, for the question",
+    "image": "",
+    "answer": "c",
+    "solution": "The footballers like to travel is the best answer. 'Itchy' means not static, by implication.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 94,
     "hasPassage": 0,
     "category": "others"
   },
@@ -1729,6 +2223,25 @@
     "category": "others"
   },
   {
+    "id": 1609,
+    "question": "In the book \"Independence\" Tayo's uncle, Kayode, wanted to study Engineering in _______?",
+    "option": {
+      "a": "Britain",
+      "b": "U.S.A",
+      "c": "France",
+      "d": "Germany"
+    },
+    "section": "This question is based on S. L. Manyika's INDEPENDENCE",
+    "image": "",
+    "answer": "c",
+    "solution": "In chapter sixteen, Tayo's uncle, Kayode, revealed to him that he was considering studying engineering at the Insitute du Petrole in France",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 46,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1612,
     "question": "According to Tayo the two major problems of Nigeria were",
     "option": {
@@ -1744,6 +2257,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 49,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1615,
+    "question": "In the novel, Ansa looked around glumly when Jimi was engrossed in laughter and chatter because he was",
+    "option": {
+      "a": "neglected by Jimi",
+      "b": "anxious to go home",
+      "c": "distracted by a band playing on the field",
+      "d": "given twelve strokes of the cane by the principal"
+    },
+    "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 3,
     "hasPassage": 0,
     "category": "others"
   },
@@ -1801,6 +2333,44 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 39,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1660,
+    "question": "'D<u>oo</u>r''",
+    "option": {
+      "a": "food",
+      "b": "cough",
+      "c": "sure",
+      "d": "board"
+    },
+    "section": "For these questions, choose the option that has the same vowel sound as the ones represented by the letter (s) underlined",
+    "image": "",
+    "answer": "d",
+    "solution": "door: /dɔː/\n\nboard: /bɔːd/",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 48,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1662,
+    "question": "'<u>ch</u>oice''",
+    "option": {
+      "a": "schedule",
+      "b": "teach",
+      "c": "leisure",
+      "d": "machine"
+    },
+    "section": "For these questions, choose the option that have the same consonant sound as the ones represented by the letter (s) underlined",
+    "image": "",
+    "answer": "b",
+    "solution": "choice: /tʃɔɪs/\nteach: /tiːtʃ/",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 50,
     "hasPassage": 0,
     "category": "others"
   },
@@ -1881,6 +2451,25 @@
     "category": "others"
   },
   {
+    "id": 1700,
+    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\n“Nene, this is my niece Efua Coker”. Who made this statement?",
+    "option": {
+      "a": "Moni",
+      "b": "Efua",
+      "c": "Mrs. Ekpo",
+      "d": "none"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This statement was made by Aunt Moni while she was introducing Efua to Mrs Ekpo (Nene’s mum) and Nene to Efua",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 13,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1713,
     "question": "The brave officer ---------- the time bomb\n",
     "option": {
@@ -1934,6 +2523,44 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1766,
+    "question": "Adeola doesn't have to go to the farm today.",
+    "option": {
+      "a": "Adeola may go to the farm today if he so wishes.",
+      "b": "Adeola ought not to have gone to the farm today.",
+      "c": "Adeola must not go to the farm today.",
+      "d": "Adeola should not go to the farm today."
+    },
+    "section": "Select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "a",
+    "solution": "If Adeola wishes to go to the farm, he is free to",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 7,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1769,
+    "question": "Many workers are not happy because they live a hand-to-mouth life.",
+    "option": {
+      "a": "They work hard with their hands.",
+      "b": "They are voracious and avaricious.",
+      "c": "They are barely surviving.",
+      "d": "They have rejected the use of spoons."
+    },
+    "section": "Select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "c",
+    "solution": "(from) hand to mouth; satisfying only one's immediate needs because of lack of money for future plans and investments.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 10,
     "hasPassage": 0,
     "category": "others"
   },
