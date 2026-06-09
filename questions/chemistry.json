@@ -848,6 +848,22 @@
     "examyear": "2002"
   },
   {
+    "id": 76,
+    "question": "Which of the following is a physical change",
+    "option": {
+      "a": "Burning kerosene",
+      "b": "Freezing ice-cream",
+      "c": "Exposing white phosphorus to air",
+      "d": "Dissolving calcium in water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 78,
     "question": "The filter in a cigarette reduces the nicotine content by",
     "option": {
@@ -1200,6 +1216,22 @@
     "examyear": "2003"
   },
   {
+    "id": 107,
+    "question": "Which of the following statements is true of sulphur (IV) oxide",
+    "option": {
+      "a": "It forms Tetraoxosulphate (VI) acid with water",
+      "b": "It is an odourless gas",
+      "c": "It is an acid anhydride",
+      "d": "It forms white precipitate with acidified barium chloride"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 110,
     "question": "Chlorine gas turns a damp starch-iodide paper",
     "option": {
@@ -1223,6 +1255,22 @@
       "b": "Oxidation",
       "c": "Blast reduction",
       "d": "Treatment with alkalis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 113,
+    "question": "Carbohydrates are compounds containing carbon, hydrogen and oxygen in the ratio",
+    "option": {
+      "a": "3:01:01",
+      "b": "2:01:01",
+      "c": "1:02:01",
+      "d": "1:01:01"
     },
     "section": "",
     "image": "",
@@ -2064,6 +2112,22 @@
     "examyear": "2005"
   },
   {
+    "id": 196,
+    "question": "In the purification of impure samples of ethyl ethanoate synthesized by esterification, concentrated sodium trioxocarbonate(IV) solution is used to remove",
+    "option": {
+      "a": "Water",
+      "b": "Acidic impurities",
+      "c": "Basic impurities",
+      "d": "Ethoxyethane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 197,
     "question": "A substance that is used as a ripening agent for fruits is",
     "option": {
@@ -2379,6 +2443,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 225,
+    "question": "The solution that will conduct the highest amount of electricity is",
+    "option": {
+      "a": "2.0 moldm-3 of ethanoic acid",
+      "b": "0.5 mol dm-3 of ethanoic acid",
+      "c": "2.0 mol dm-3 of hydrochloric acid",
+      "d": "0.5 moldm-3 of hydrochloric acid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -3168,6 +3248,22 @@
     "examyear": "2010"
   },
   {
+    "id": 294,
+    "question": "The residual solids from the fractional distillation of petroleum are used as",
+    "option": {
+      "a": "Raw materials for the cracking process",
+      "b": "Fuel for driving tractors",
+      "c": "Fuel for jet engines",
+      "d": "Coatings for pipes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 295,
     "question": "Which of the following is used as fuel in miners’ lamp",
     "option": {
@@ -3376,6 +3472,22 @@
     "examyear": "2015"
   },
   {
+    "id": 313,
+    "question": "When salt loses its water of crystallization to the atmosphere on exposure, the process is said to be",
+    "option": {
+      "a": "efflorescence",
+      "b": "déliquescence",
+      "c": "effervescence",
+      "d": "fluorescence"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a salt loses its water of crystallization to the atmosphere on exposure, the process is efflorescence. The hydrated crystals spontaneously lose water and become powdery.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 314,
     "question": "Atomicity of ozone is",
     "option": {
@@ -3516,6 +3628,22 @@
     "image": "",
     "answer": "b",
     "solution": "Concentrated NaCl solution is added during soap production to decrease the solubility of soap (salting out). The high ionic strength of NaCl reduces the solubility of soap in water, causing it to precipitate out and separate from the glycerol and excess reactants.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 324,
+    "question": "A liquid that will dissolve fat is",
+    "option": {
+      "a": "hydrochloric acid",
+      "b": "calcium hydrochloride",
+      "c": "kerosene",
+      "d": "water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Kerosene is a non-polar organic solvent that dissolves fats by the principle \"like dissolves like.\" Fats are non-polar molecules, so they dissolve in non-polar solvents like kerosene, not in polar solvents like water or acids.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3708,6 +3836,22 @@
     "image": "",
     "answer": "d",
     "solution": "The third period (Period 3) contains elements with atomic numbers 11–18: Na, Mg, Al, Si, P, S, Cl, and Ar. Option D (Na, Mg, S, Ar) are all correctly in Period 3. The other options contain Period 2 elements (Li, Be, B, C, N, O).",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 346,
+    "question": "Which of the following results in the fall of acid rain?",
+    "option": {
+      "a": "oxide of lead",
+      "b": "particulate matter",
+      "c": "oxides of sulphur",
+      "d": "gaseous hydrocarbon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Oxides of sulphur (SO₂ and SO₃), released mainly from burning fossil fuels, react with water vapour in the atmosphere to form sulphurous and sulphuric acids, which fall as acid rain. Oxides of nitrogen also contribute, but among the options given, oxides of sulphur is correct.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -4448,6 +4592,22 @@
     "examyear": "2017"
   },
   {
+    "id": 411,
+    "question": "The acid anhydride that will produce weak acid in water is",
+    "option": {
+      "a": "SO₃",
+      "b": "NO₂",
+      "c": "SO₂",
+      "d": "CO₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "CO₂ dissolves in water to form carbonic acid (H₂CO₃), which is a weak acid: CO₂ + H₂O ⇌ H₂CO₃. SO₃ forms strong H₂SO₄; NO₂ forms strong HNO₃ (and weak HNO₂ in equal measure); SO₂ forms weak H₂SO₃ — but CO₂ producing carbonic acid is the clearest example of a weak acid from an acid anhydride.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 412,
     "question": "The process that occurs when two equivalent forms of a compound are in equilibrium is",
     "option": {
@@ -5036,6 +5196,22 @@
     "image": "",
     "answer": "b",
     "solution": "Consecutive members of a homologous series differ by one CH₂ (methylene) unit, with a molar mass difference of 14 g mol⁻¹. For example: methane (CH₄) → ethane (C₂H₆) → propane (C₃H₈), each differing by CH₂.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 467,
+    "question": "A correct electrochemical series can be obtained from Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging",
+    "option": {
+      "a": "Al and Mg",
+      "b": "Zn and Fe",
+      "c": "Zn and Pb",
+      "d": "Pb and H"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The correct reactivity/electrochemical series order is: Na, Ca, Mg, Al, Zn, Fe, Pb, H, Cu, Hg, Ag, Au. In the given series, Al and Mg are swapped (Al appears before Mg, but Mg is more reactive). Interchanging Al and Mg corrects the series.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5696,6 +5872,22 @@
     "examyear": "2019"
   },
   {
+    "id": 531,
+    "question": "The heat of formation of ethene, C₂H₄ is 50 kJ mol⁻¹ and that of ethane, C₂H₆ is -82 kJ mol⁻¹. Calculate the heat evolved in the process: C₂H₄ + H₂ → C₂H₆",
+    "option": {
+      "a": "-122 kJ",
+      "b": "-132 kJ",
+      "c": "-88 kJ",
+      "d": "-60 kJ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Using Hess's Law: ΔH(reaction) = ΔHf(products) - ΔHf(reactants). ΔH = ΔHf(C₂H₆) - ΔHf(C₂H₄) - ΔHf(H₂) = -82 - 50 - 0 = -132 kJ mol⁻¹. The negative sign confirms the hydrogenation of ethene to ethane is exothermic.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 532,
     "question": "Which of the following statements about catalyst is false?",
     "option": {
@@ -6144,6 +6336,22 @@
     "examyear": "2020"
   },
   {
+    "id": 575,
+    "question": "A few drops of conc HCl are added to about 10cm³ of a solution of pH 3.4. The pH of the resulting mixture is?",
+    "option": {
+      "a": "less than 3.4",
+      "b": "greater than 3.4",
+      "c": "unaltered",
+      "d": "the same as that of the pure water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "pH 3.4 means the solution is already acidic. Adding concentrated HCl (a strong acid) increases the concentration of H⁺ ions in the solution. A higher H⁺ concentration means a lower pH. Therefore the resulting pH will be less than 3.4.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 576,
     "question": "Chromatography is used to separate components of a mixture which differ in their rates of?",
     "option": {
@@ -6300,6 +6508,22 @@
     "image": "",
     "answer": "b",
     "solution": "Cathode rays are streams of electrons, which are negatively charged particles. When these electrons are deflected onto the electrode of an electrometer, they deposit negative charge on it. The electrometer therefore becomes negatively charged. This experiment by J.J. Thomson helped confirm the negative charge of cathode rays.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 591,
+    "question": "An electron can be added to a halogen atom to form a halide ion with?",
+    "option": {
+      "a": "8 valence electrons",
+      "b": "7 valence electrons",
+      "c": "2 valence electrons",
+      "d": "3 valence electrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Halogens have 7 valence electrons in their outermost shell. When one electron is added, the halide ion formed has 7 + 1 = 8 valence electrons, achieving a stable noble gas configuration (octet). For example, Cl (7 valence electrons) + e⁻ → Cl⁻ (8 valence electrons).",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -6608,6 +6832,22 @@
     "examyear": "2021"
   },
   {
+    "id": 616,
+    "question": "The inherited traits of an organism are controlled by?",
+    "option": {
+      "a": "RNA molecules",
+      "b": "Nucleotides",
+      "c": "DNA molecules",
+      "d": "Enzymes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "DNA (deoxyribonucleic acid) molecules carry the genetic information that determines inherited traits in organisms. Genes are segments of DNA that encode specific proteins and traits passed from parents to offspring. RNA is involved in protein synthesis but does not store hereditary information. Enzymes are proteins that catalyse reactions.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 617,
     "question": "The most abundant rare gas in the atmosphere is?",
     "option": {
@@ -6896,6 +7136,22 @@
     "examyear": "2022"
   },
   {
+    "id": 642,
+    "question": "An organic compound which liberates carbon(iv)oxide from trioxocarbonate(iv) solution is likely to be?",
+    "option": {
+      "a": "C₂H₅OH",
+      "b": "C₃H₄",
+      "c": "C₆H₆",
+      "d": "CH₃COOH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A compound that liberates CO₂ from a carbonate (trioxocarbonate) solution must be an acid stronger than carbonic acid. Ethanoic acid (CH₃COOH) reacts with sodium carbonate: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂. Ethanol, propyne, and benzene are not acidic enough to displace CO₂ from carbonate solutions.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 644,
     "question": "A chemical widely used as a fertilizer is?",
     "option": {
@@ -7004,6 +7260,22 @@
     "image": "",
     "answer": "a",
     "solution": "In this reaction, zinc (Zn) goes from an oxidation state of 0 in the element to +2 in ZnCl₂. A loss of electrons and an increase in oxidation number constitutes oxidation. Zinc is therefore oxidised. Hydrogen simultaneously goes from +1 in HCl to 0 in H₂ gas, meaning hydrogen is reduced. Zinc is the reducing agent.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 651,
+    "question": "An organic functional group which can likely decolourise ammoniacal silver nitrate is?",
+    "option": {
+      "a": "alkene",
+      "b": "alkane",
+      "c": "alkyne",
+      "d": "alkanol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Ammoniacal silver nitrate (Tollens' reagent) is used to test for terminal alkynes (those with a C≡C-H bond). Terminal alkynes react with ammoniacal silver nitrate to form a white precipitate of silver acetylide, effectively decolourising the reagent. Alkanes are unreactive, alkenes do not react with Tollens' reagent, and alkanols do not produce this reaction.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -8012,6 +8284,22 @@
     "image": "",
     "answer": "c",
     "solution": "Ag⁺ + e⁻ → Ag. One Faraday deposits 1 mole (108g) of Ag. Moles of Ag = 180 ÷ 108 = 1.667 mol. Faradays required = 1.667 × 1 = 1.67F.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 734,
+    "question": "What would be the order of the electrolytic cell in an industry intending the production of silver plated spoons?",
+    "option": {
+      "a": "Cathode is the spoon; anode is a silver rod; electrolyte is a soluble silver salt",
+      "b": "Cathode is a silver rod; anode is the spoon; electrolyte is a soluble silver salt",
+      "c": "Cathode is the spoon; anode is any rod; electrolyte is a soluble silver salt",
+      "d": "Cathode is any rod; anode is the spoon; electrolyte is a soluble salt"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In electroplating, the object to be plated is always the cathode (where metal ions are deposited). The spoon is therefore the cathode. The anode must be made of the plating metal (silver rod) so it dissolves to replenish silver ions in solution. The electrolyte is a soluble silver salt such as silver trioxonitrate(V). This setup ensures a continuous supply of silver ions for uniform plating.",
     "examtype": "utme",
     "examyear": "2024"
   },
