@@ -1152,6 +1152,22 @@
     "examyear": "2005"
   },
   {
+    "id": 100,
+    "question": "Given\n    N\n Sales    15 000\n Opening stock  5 600\n Purchases   9 700\n Closing stock  4 400\n Gross profit  4 500\n Net profit   2 000\nFrom the data above, calculate the rate of turnover \n",
+    "option": {
+      "a": " 3.50 times ",
+      "b": "3.00 times ",
+      "c": " 2.00 times ",
+      "d": " 2.18 times."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 102,
     "question": "Tourism can be classified as ",
     "option": {
@@ -2192,6 +2208,22 @@
     "examyear": "2007"
   },
   {
+    "id": 193,
+    "question": "The selling of new shares to existing shareholders is referred to as ",
+    "option": {
+      "a": "public issue ",
+      "b": "offer for sale",
+      "c": "rights issue  ",
+      "d": "bonus issue."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 194,
     "question": "A new company requiring a large amount of equity finance may source funds from the",
     "option": {
@@ -2704,6 +2736,22 @@
     "examyear": "2008"
   },
   {
+    "id": 233,
+    "question": "The development of tourism in Nigeria  will enhance ",
+    "option": {
+      "a": "agriculture ",
+      "b": "revenue generation ",
+      "c": "export ",
+      "d": "labour mobility "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 234,
     "question": "A historical building is a feature of ",
     "option": {
@@ -2779,6 +2827,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 241,
+    "question": "The body charged with divesting government interests in public enterprises is ",
+    "option": {
+      "a": "SON",
+      "b": "NPC",
+      "c": "BPE ",
+      "d": "NDE"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -7408,6 +7472,22 @@
     "examyear": "1990"
   },
   {
+    "id": 633,
+    "question": "The main purpose of branding is to",
+    "option": {
+      "a": "increase the quantity of goods demanded",
+      "b": "differentiate goods from other similar goods made by other producers",
+      "c": "increase the selling price of goods",
+      "d": "enhance turnover of goods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
     "id": 634,
     "question": "An individual who makes the final use of goods and services provided by a firm is the",
     "option": {
@@ -7499,6 +7579,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 641,
+    "question": "Which of the following is a public corporation? The",
+    "option": {
+      "a": "Nigeria Breweries Limited",
+      "b": "Nigerian Ports Authority",
+      "c": "Lagos Chamber of Commerce",
+      "d": "Nigerian Bottling Company"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1990"
@@ -10016,6 +10112,22 @@
     "examyear": "2003"
   },
   {
+    "id": 848,
+    "question": "The basic function of the Nigerian Ports Authority is to",
+    "option": {
+      "a": "ensure that the right caliber of personnel is  employed at the ports",
+      "b": "coordinate and regulate the activities of  shipping lines",
+      "c": "facilitate and control the movement of goods and services into and out of the country",
+      "d": "coordinate the activities of all the seaports in the country"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 849,
     "question": "The concept that refers to the sale, transfer or exchange of goods and services is",
     "option": {
@@ -10235,6 +10347,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 865,
+    "question": "Which of these factors of production is relatively fixed in supply?",
+    "option": {
+      "a": "Capital",
+      "b": "Entrepreneur",
+      "c": "Human resources",
+      "d": "Natural resources"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 866,
+    "question": "The location of a business is mostly influenced by",
+    "option": {
+      "a": "market outlet",
+      "b": "management decision",
+      "c": "capital",
+      "d": "environment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
