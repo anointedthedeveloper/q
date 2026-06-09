@@ -4192,6 +4192,22 @@
     "examyear": "2010"
   },
   {
+    "id": 305,
+    "question": "The filter in the cigarette reduce the nicotine construct by",
+    "option": {
+      "a": "burning",
+      "b": "adsorption",
+      "c": "evaporation",
+      "d": "Absorption"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The filter in cigarettes reduces nicotine content by adsorption. The filter's dense network of cellulose acetate fibers provides a large surface area onto which nicotine molecules and other smoke particles adhere (stick to the surface), preventing them from reaching the smoker's lungs.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 306,
     "question": "Which of these require crystallization most?",
     "option": {
@@ -4220,6 +4236,22 @@
     "image": "",
     "answer": "a",
     "solution": "Water gas shift reaction:\n\nCO + H₂O → CO₂ + H₂\nThis produces hydrogen but also carbon dioxide as a byproduct.\nCO₂ removal method:\n\nIn industrial hydrogen production from water gas, CO₂ is removed by washing under pressure, where the gas mixture is passed through water under high pressure to dissolve and remove the carbon dioxide.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 309,
+    "question": "The gas that is most useful in protecting humans against solar marathon is",
+    "option": {
+      "a": "chlorine",
+      "b": "ozone",
+      "c": "carbon IV oxide",
+      "d": "hydrogen sulphide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Ozone layer (O₃) in the stratosphere absorbs harmful ultraviolet (UV) radiation from the sun, particularly UV-B and UV-C rays that cause skin cancer, cataracts, and damage to DNA.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -4716,6 +4748,22 @@
     "image": "",
     "answer": "c",
     "solution": "Oxides of sulphur (SO₂ and SO₃), released mainly from burning fossil fuels, react with water vapour in the atmosphere to form sulphurous and sulphuric acids, which fall as acid rain. Oxides of nitrogen also contribute, but among the options given, oxides of sulphur is correct.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 347,
+    "question": "The furring of kettles is caused by the presence of what compound in water?",
+    "option": {
+      "a": "calcium tetraoxosulphate (IV)",
+      "b": "calcium hydrogentrioxocarbonate (IV)",
+      "c": "calcium hydroxide",
+      "d": "calcium trioxocarbonate (IV)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Furring (scale/limescale) in kettles is caused by calcium hydrogentrioxocarbonate (IV), Ca(HCO₃)₂, present in temporary hard water. On heating, it decomposes: Ca(HCO₃)₂ → CaCO₃↓ + H₂O + CO₂, depositing insoluble calcium trioxocarbonate as scale.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -7392,6 +7440,22 @@
     "examyear": "2019"
   },
   {
+    "id": 548,
+    "question": "In the reaction: M + N → P, ΔH = +Q kJ. Which of the following would increase the concentration of the product?",
+    "option": {
+      "a": "Adding a suitable catalyst",
+      "b": "Increasing the concentration of P",
+      "c": "Increasing the temperature",
+      "d": "Decreasing the temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "ΔH = +Q kJ means the forward reaction is endothermic. By Le Chatelier's principle, increasing temperature favours the endothermic (forward) reaction, shifting equilibrium to the right and increasing the concentration of product P. A catalyst increases the rate but does not shift equilibrium. Increasing concentration of P shifts equilibrium backward.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 549,
     "question": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180. Find the molecular formula. [H = 1, C = 12, O = 16]",
     "option": {
@@ -8156,6 +8220,22 @@
     "image": "",
     "answer": "b",
     "solution": "Mercury is a pure element (Hg), a liquid metal at room temperature with a fixed composition and definite physical properties. Air is a mixture of gases, milk is a colloidal mixture of fats, proteins, and water, and cement is a mixture of calcium silicates and aluminates. Only mercury is a pure substance.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 602,
+    "question": "Which of the following is a non-metal that remains liquid at room temperature?",
+    "option": {
+      "a": "Chlorine",
+      "b": "Phosphorus",
+      "c": "Bromine",
+      "d": "Helium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Bromine (Br₂) is the only non-metal that exists as a liquid at room temperature (melting point −7°C, boiling point 59°C). Chlorine and helium are gases at room temperature, while phosphorus exists as a solid. Bromine is a reddish-brown, volatile, corrosive liquid.",
     "examtype": "utme",
     "examyear": "2021"
   },
