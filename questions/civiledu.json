@@ -16,6 +16,22 @@
     "examyear": "2014"
   },
   {
+    "id": 2,
+    "question": "Rule of Law means",
+    "option": {
+      "a": "supremacy of the law",
+      "b": "absence of legal immunity",
+      "c": "peace, order and stability",
+      "d": "obedience to any authority"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 3,
     "question": "A major characteristic of civil society is",
     "option": {
@@ -2880,6 +2896,22 @@
     "examyear": "2013"
   },
   {
+    "id": 198,
+    "question": "The primary duty of the police force is to",
+    "option": {
+      "a": "Make law",
+      "b": "Interpret the law",
+      "c": "Deal with danfo and okada drivers",
+      "d": "Non of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 200,
     "question": "Which of the following is NOT an offence",
     "option": {
@@ -3803,6 +3835,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 260,
+    "question": "The first known outbreak of Ebola was in ................",
+    "option": {
+      "a": "2014, in Sierra Leone",
+      "b": "1976, in a remote village near the Ebola River in Congo",
+      "c": "2014, in port Harcourt, Nigeria",
+      "d": "Enugu, during the Nigeria - Biafra war"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -5968,6 +6016,22 @@
     "examyear": "2015"
   },
   {
+    "id": 407,
+    "question": "Cultism in tertiary institutions in Nigeria was originally introduced to",
+    "option": {
+      "a": "perpetuate the use of local gin and alcohol",
+      "b": "harass opponents of university administrators",
+      "c": "fight colonialism and oppressive rules",
+      "d": "promote inter-communal marriages."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 408,
     "question": "Which of the following is not a function of the National Drug Law Enforcement Agency (NDLEA)?",
     "option": {
@@ -6299,6 +6363,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 430,
+    "question": "Nationalism ensures the following except",
+    "option": {
+      "a": "national consciousness",
+      "b": "secession in a country",
+      "c": "national integration",
+      "d": "unity in a country"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
