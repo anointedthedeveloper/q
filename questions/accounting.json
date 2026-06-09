@@ -7888,6 +7888,22 @@
     "examyear": "2015"
   },
   {
+    "id": 540,
+    "question": "Sales ledger control account contains the total amount in respect of",
+    "option": {
+      "a": "creditors",
+      "b": "debtors",
+      "c": "investors",
+      "d": "shareholders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The sales ledger control account is used to monitor the amounts owed by customers to your business. \n\nThe sales ledger control account is also known as debtors control account and includes all entries of debtors as if only one existed.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 541,
     "question": "The following account are prepared when goods are sent to branch except",
     "option": {
@@ -8380,6 +8396,22 @@
     "image": "",
     "answer": "a",
     "solution": "Accrued expense is expense which has been incurred but not yet paid. Expense must be recorded in the accounting period in which it is incurred. Therefore, accrued expense must be recognized in the accounting period in which it occurs rather than in the following period in which it will be paid.\n\nIt can be found on the liabilities part of a balance sheet of a limited liability company",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 573,
+    "question": "The documents that provide instant information to firms on their tranactions with banks are",
+    "option": {
+      "a": "bank statement and debit note",
+      "b": "cheque book and cashbook",
+      "c": "cheque stub and deposit slip",
+      "d": "payslip and credit invoice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Bank statement is a printed record of the balance in a bank account and the amounts that have been paid into it and withdrawn from it, issued periodically to the holder of the account.\n\nA debit note is a document sent by a buyer to seller or in other words a purchaser to a vendor notifying that a debit has been made to their accounts. A debit memo on a company's bank statement refers to a deduction by the bankfrom the company's bank account. In other words, a bank debit memo reduces thebank account balance similar to a check drawn on the bank account.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -19184,6 +19216,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1327,
+    "question": "Asa Company bought a vehicle worth ₦20,000 and the vehicle is to be depreciated at 5%. Using the reducing balance method of depreciation, what would be the value of the asset after 3 years?",
+    "option": {
+      "a": "₦19,000.00",
+      "b": "₦18,050.50",
+      "c": "₦17,147.50",
+      "d": "16,290.13"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To find the value of the asset after 3 years using the reducing balance method, Apply the 5% depreciation rate to the remaining balance each year.\nGiven information:\n\nOriginal cost: ₦20,000\nDepreciation rate: 5% per annum\nMethod: Reducing balance\nPeriod: 3 years\n\nYear-by-year calculation:\nYear 1:\n\nDepreciation = ₦20,000 × 5% = ₦1,000\nBook value = ₦20,000 - ₦1,000 = ₦19,000\n\nYear 2:\n\nDepreciation = ₦19,000 × 5% = ₦950\nBook value = ₦19,000 - ₦950 = ₦18,050\n\nYear 3:\n\nDepreciation = ₦18,050 × 5% = ₦902.50\nBook value = ₦18,050 - ₦902.50 = ₦17,147.50\n\nAlternative formula method:\nBook value = Original cost × (1 - depreciation rate)^number of years\nBook value = ₦20,000 × (1 - 0.05)³\nBook value = ₦20,000 × (0.95)³\nBook value = ₦20,000 × 0.857375\nBook value = ₦17,147.50",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1328,
     "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\t\t\t\t  ₦\nCapital: Opening balance \t307,000\nClosing balance \t\t342,000\n₦et profit for the period \t121,600\nOpening stock \t\t\t98,800\nPurchases \t\t\t706,000\nCarriage inwards \t\t17,500\nCost of goods sold \t\t740,700\nTotal selling, general and\nAdministrative expenses  \t526,000\nDiscount received \t\t9,650\n\n\nWhat is the closing stock for the period?",
     "option": {
@@ -19436,6 +19484,22 @@
     "image": "",
     "answer": "c",
     "solution": "A credit balance means total receipts exceeded total payments, indicating more cash was received than paid out",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1344,
+    "question": "Goodwill can be valued in partnership when?",
+    "option": {
+      "a": "a partners make profits",
+      "b": "large losses are made",
+      "c": "a partner retires",
+      "d": "a new branch is opened"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a partner retires, goodwill must be valued to determine the retiring partner's fair share of the business value, including intangible assets like goodwill.",
     "examtype": "utme",
     "examyear": "1999"
   },
@@ -20828,6 +20892,22 @@
     "image": "",
     "answer": "c",
     "solution": "Closing work-in-process (WIP) is subtracted when calculating the cost of goods manufactured (COGM):\n\nCOGM = Opening WIP + Manufacturing costs − Closing WIP\nIf the closing WIP is understated, the amount subtracted is too small, making the COGM too high (overstated).",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1443,
+    "question": "Emeka Manufacturing Company (Extract) Manufacturing Account.\nDirect material = ₦5,000\n\nDirect labour = ₦4,500\n\nDirect expenses = ₦3,000\n\nFactory overhead = ₦2,500\n\nSelling & distribution = ₦1,500 \n\nCalculating the production cost?",
+    "option": {
+      "a": " ₦16 500",
+      "b": "₦15 000",
+      "c": "₦14 000",
+      "d": "₦12 500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given:\nDirect material = ₦5,000\n\nDirect labour = ₦4,500\n\nDirect expenses = ₦3,000\n\nFactory overhead = ₦2,500\n\nSelling & distribution = ₦1,500 (not included)\n\nCalculation:\nProduction cost = 5,000 + 4,500 + 3,000 + 2,500 = ₦15,000",
     "examtype": "utme",
     "examyear": "1997"
   },
