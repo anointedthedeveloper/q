@@ -703,6 +703,25 @@
     "category": "others"
   },
   {
+    "id": 49,
+    "question": "<i>Gregarious</i> animals can be found in the zoo.",
+    "option": {
+      "a": "lonely ",
+      "b": "tame ",
+      "c": "wild ",
+      "d": "various "
+    },
+    "section": "opposite in meaning to the word(s) or phrase in italics ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 50,
     "question": "I am <i>loath</i> to do the assignment ",
     "option": {
@@ -6262,6 +6281,25 @@
     "section": "choose the option  best completes the gap(s) .",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 429,
+    "question": "They have had their debt written ........... by their creditors.",
+    "option": {
+      "a": "down ",
+      "b": "on ",
+      "c": "up ",
+      "d": "off"
+    },
+    "section": "choose the option  best completes the gap(s) .",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008",
@@ -14402,6 +14440,25 @@
     "category": "others"
   },
   {
+    "id": 1086,
+    "question": "Demarcation",
+    "option": {
+      "a": "demar<u>CA</u>tion",
+      "b": " <u>DE</u>marcation",
+      "c": "de<u>MAR</u>cation",
+      "d": "demarca<u>TION</u>"
+    },
+    "section": "<b>In each of questions, 92 to 94, choose the appropriate stress pattern from the options. The syllables are underlined in capital letters.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "Words ending with ''tion'' are stressed on the syllable before the ''tion''. Hence demarcation would be stressed as;\nde-mar-CA-tion",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 92,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1087,
     "question": "Impossible",
     "option": {
@@ -14854,6 +14911,25 @@
     "examtype": "utme",
     "examyear": "2013",
     "questionNub": 48,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1141,
+    "question": "The Novel laureate's activity in the field of science is <u>heinous</u>",
+    "option": {
+      "a": "Laudable",
+      "b": "Deplorable",
+      "c": "forgettable",
+      "d": "Indelible"
+    },
+    "section": "In each of questions 46 to 55, choose the option <b>opposite</b> in meaning to the word or phrase underlined.\n",
+    "image": "",
+    "answer": "a",
+    "solution": "Heinous; (of a person or wrongful act, especially a crime) utterly odious or wicked.\n\nLaudable; (of an action, idea, or aim) deserving praise and commendation.",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 49,
     "hasPassage": 0,
     "category": "others"
   },
@@ -17157,6 +17233,25 @@
     "category": "others"
   },
   {
+    "id": 1328,
+    "question": "Mr Bello is a/an _______ by profession in the novel?",
+    "option": {
+      "a": "accountant",
+      "b": "engineer",
+      "c": "nurse",
+      "d": "journalist"
+    },
+    "section": "This question is based on Bolaji Abdullahi's Sweet Sixteen",
+    "image": "",
+    "answer": "d",
+    "solution": "Mr Bello is a Journalist. \n\nSee page 1, Paragraph 5.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 15,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1329,
     "question": "Choose the one with the different stress pattern",
     "option": {
@@ -18107,6 +18202,25 @@
     "category": "others"
   },
   {
+    "id": 1403,
+    "question": "Bobo proved Mr Bello's advice on infatuation as right when he",
+    "option": {
+      "a": "presented a gift to Aliya",
+      "b": "flirts with other girls",
+      "c": " eventually left for Ireland without saying a word to Aliya",
+      "d": "proclaimed his love for Aliya"
+    },
+    "section": "<b>Questions are based on Bolaji Abdullahi's \"Sweet Sixteen\"</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "The fact that Bobo later travelled to Ireland without even informing Aliya finally and undoubtedly cements Mr Bello's advice that his love for her was temporary.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 30,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1406,
     "question": "Aliya's choice of wanting to study medicine …",
     "option": {
@@ -18221,6 +18335,25 @@
     "category": "others"
   },
   {
+    "id": 1414,
+    "question": "Bridget denied that she wasn't there. This means that",
+    "option": {
+      "a": "She confessed that she wasn't there",
+      "b": "She owned up not to be there",
+      "c": "She maintained she was there",
+      "d": "She maintained she wasn't there"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Deny'' is to say that something is not true.\n\n'that she wasn't there' is the accusation.\n\nFor Bridget to deny that she wasn't there, she is simply saying it is untrue to say she wasn't there.  Therefore, she was there.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 41,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1415,
     "question": "Hadn't it rained, it wouldn't have been so bad",
     "option": {
@@ -18274,6 +18407,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 44,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1418,
+    "question": "After the wedding, the wife became <u>anorexic</u>",
+    "option": {
+      "a": "obese",
+      "b": "melancholic",
+      "c": "excited",
+      "d": "skinny"
+    },
+    "section": "Choose the one opposite in meaning to the word(s) underlined.",
+    "image": "",
+    "answer": "a",
+    "solution": "To be anorexic means to have an eating disorder resulting to an abnormally low body weight. Consequently, the direct opposite herein, is to be obese or fat.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 45,
     "hasPassage": 0,
     "category": "others"
   },
