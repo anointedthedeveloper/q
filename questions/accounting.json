@@ -1040,6 +1040,22 @@
     "examyear": "2013"
   },
   {
+    "id": 92,
+    "question": "The double entry principle states that",
+    "option": {
+      "a": "every debit entry must have a corresponding credit entry",
+      "b": "every credit entry must have a corresponding double entry",
+      "c": "every debit entry must have a corresponding double entry",
+      "d": "every asset must have a corresponding liability."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 93,
     "question": "Which of the following is a nominal account?",
     "option": {
@@ -7840,6 +7856,22 @@
     "examyear": "2017"
   },
   {
+    "id": 640,
+    "question": "One of the options below have the same features as the profit and loss account in non-profit organization",
+    "option": {
+      "a": "Income and expenditure account",
+      "b": " profit and loss account",
+      "c": "receipts and payment account",
+      "d": "Non profit account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Income and expenditure : This is the type of account that operate same features as the profit and loss account it takes in consideration all arrears and prepayments",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 641,
     "question": "Two departments A and B have the following information: Department A has Sales ₦250,000, Purchases ₦150,000, Discount received ₦24,000, and Discount allowed ₦15,000. Department B has Sales ₦500,000 and Purchases ₦250,000. Calculate the discount received in Department B.",
     "option": {
@@ -8796,6 +8828,22 @@
     "image": "",
     "answer": "b",
     "solution": "Subscriptions in Income and Expenditure Account = Cash received + Closing arrears - Opening arrears\nFrom the Receipts and Payment Account:\n\nCash received for subscriptions = ₦7,500\n\nFrom the additional information:\n\nOpening subscription in arrears (1/1/99) = ₦700\nClosing subscription in arrears (31/12/99) = ₦600\n\nCalculation:\nSubscriptions = ₦7,500 + ₦600 - ₦700 = ₦7,400\nTherefore, the subscriptions in the Income and Expenditure Account is ₦7,400.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 732,
+    "question": "Based on the Receipts and Payment Account extract showing: balance brought forward ₦3,650, subscription ₦7,500 less ₦2,000 equals ₦1,000, fees ₦8,500, insurance ₦900, rate ₦11,700, and balance carried down ₦8,050, with totals of ₦20,650 on both sides, and given the following additional information as at 1st January 1999 and 31st December 1999 respectively: rates owing ₦3,600 and ₦2,000, insurance prepaid ₦50 and ₦1,000, subscription in arrears ₦700 and ₦600, The figure ₦1000 represent what in the balance sheet.",
+    "option": {
+      "a": "Assets",
+      "b": "Liability",
+      "c": "capital",
+      "d": "Subscription"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The figure ₦1,000 represents B. Liability in the balance sheet.\nThis ₦1,000 is derived from ₦7,500 (total cash received for subscriptions) minus ₦2,000 (subscription received in advance). The ₦2,000 that was deducted represents money received from members for future periods, creating an obligation to provide services later. This makes it a liability on the balance sheet - specifically \"subscription received in advance\" or \"deferred subscription income.\"",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -13600,6 +13648,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1149,
+    "question": "<b>Use the information below to answer questions 34 and 35</b>\n\nTotal sales of ticket.......................₦300 000\nAmount received from the sales..............₦260 000\nCash purchase of club house.................₦100 000\nCredit purchase of equipment ...............₦60 000\nElectricity bill paid ......................₦5 000\nSalaries owed ..............................₦2 000\n\nWhat is the balance of the income and expenditure account?",
+    "option": {
+      "a": "₦300 000",
+      "b": "₦293 000",
+      "c": "₦193 000",
+      "d": "₦133 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Income:\n  Total ticket sales (accrual) = ₦300,000\n\nExpenditure (accrual):\n  Electricity paid               = ₦5,000\n  Salaries owed (accrual)        = ₦2,000\n  Total expenditure               = ₦7,000\n\nSurplus (Income − Expenditure)   = ₦300,000 − ₦7,000 = ₦293,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1150,
     "question": "The first step in converting as single entry to a double entry system of bookkeeping is to prepare a?",
     "option": {
@@ -13948,6 +14012,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Total assets\nShareholders’ interest = ₦240m\nCurrent liabilities = ₦20m\nSo:\nTotal assets = ₦240m + ₦20m = ₦260m\n\nStep 2: Known assets\nCurrent assets = ₦110m\nFixed assets = ₦140m\nSum = ₦110m + ₦140m = ₦250m\n\nStep 3: Trade investment\nTrade investment = Total assets − (Current assets + Fixed assets)\n= ₦260m − ₦250m\n= ₦10m",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1179,
+    "question": "<b>Use the information below to answer questions 15 and 16.</b>\n\nThe gross profit ratio for the company is 25%.\n\nIf the total expenses is ₦20,845, what will be the net profit for the company during the month?",
+    "option": {
+      "a": "₦19,149",
+      "b": "₦16,168",
+      "c": "₦21,655",
+      "d": "₦18,405"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665371/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q15-16_nkt1he.png",
+    "answer": "d",
+    "solution": "Step 1: Calculate Gross Profit\nGross profit ratio = (Gross Profit ÷ Net Sales) × 100%\n25% = (Gross Profit ÷ ₦157,000) × 100%\nGross Profit = 25% × ₦157,000\nGross Profit = 0.25 × ₦157,000 = ₦39,250\nStep 2: Calculate Net Profit\nNet Profit = Gross Profit - Total Expenses\nNet Profit = ₦39,250 - ₦20,845\nNet Profit = ₦18,405\nAnswer: ₦18,405",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -14848,6 +14928,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1250,
+    "question": "On the dissolution of a partnership business,the net book value of the assets is transferred to?",
+    "option": {
+      "a": "debit of realization account",
+      "b": "credit of realization account",
+      "c": "credit of bank account",
+      "d": "debit of bank account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "On dissolution, each asset’s net book value is debited to the Realisation Account (and its asset account is credited to remove it from the books).\n\nSo the net book value of assets is transferred to the debit of Realisation Account",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1252,
     "question": "Where a company acquires controlling shares of another and the consideration is paid in cash, the entries in the books of the purchases are debit?`",
     "option": {
@@ -14860,6 +14956,22 @@
     "image": "",
     "answer": "a",
     "solution": "The correct entry is to debit Investment (to recognize the acquisition of the subsidiary’s shares) and credit Cash (to record the outflow of cash).",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1253,
+    "question": "Given: Capital ₦200,000, Liabilities ₦10,000, Total assets ₦210,000. If the business is purchased at a price including a goodwill of ₦20,000, what must have been the purchase price?",
+    "option": {
+      "a": "₦190,000",
+      "b": "₦210,000",
+      "c": "₦220,000",
+      "d": "₦230,000."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Calculate the net worth of the business\nNet Worth = Total Assets - Total Liabilities\nNet Worth = ₦210,000 - ₦10,000 = ₦200,000\n(This also equals the Capital as shown: ₦200,000)\nStep 2: Calculate the purchase price\nPurchase Price = Net Worth + Goodwill\nPurchase Price = ₦200,000 + ₦20,000 = ₦220,000",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -14988,6 +15100,22 @@
     "image": "",
     "answer": "b",
     "solution": "You would debit the Bad Debts account and credit the Debtor’s (Accounts Receivable) account.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1267,
+    "question": "In order to make the cash book balance equal to the bank statement, it is usual to add?",
+    "option": {
+      "a": "uncredited cheques",
+      "b": "direct payments by bank",
+      "c": "bank charges",
+      "d": "unpresented cheques"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "These are receipts the bank has credited directly to your account (e.g., interest, direct lodgments) that haven’t yet been recorded in your cash book, so you add them in when reconciling.",
     "examtype": "utme",
     "examyear": "2000"
   },
