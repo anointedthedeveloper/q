@@ -3824,6 +3824,38 @@
     "examyear": "2013"
   },
   {
+    "id": 255,
+    "question": "The Chick’s commission was set up to look into the issue of revenue allocation in",
+    "option": {
+      "a": "1946",
+      "b": "1951",
+      "c": "1953",
+      "d": "1957"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 256,
+    "question": "In the Igbo pre-colonial administration, the council of elders was normally presided over by",
+    "option": {
+      "a": "Eze",
+      "b": "Obi",
+      "c": "Okpara",
+      "d": "Onowu"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 257,
     "question": "In Nigeria, the head of the electoral commission is called the",
     "option": {
@@ -8503,6 +8535,22 @@
       "b": "political parties",
       "c": "electorate",
       "d": "legislature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 559,
+    "question": "One basic feature of a monarchical form of government is that",
+    "option": {
+      "a": "separation of powers is absolute",
+      "b": "members of the executive are elected",
+      "c": "succession is through heredity",
+      "d": "the ruler has a fixed tenure"
     },
     "section": "",
     "image": "",
