@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 39,
+    "question": "Desert soil are usually deficient in ",
+    "option": {
+      "a": "fertility  ",
+      "b": "light grey colour  ",
+      "c": "humus content  ",
+      "d": "horizons "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 47,
     "question": "Oxbow lakes are found in  ",
     "option": {
@@ -160,6 +176,38 @@
     "examyear": "2012"
   },
   {
+    "id": 185,
+    "question": "A traveler crossing the international Date line from America to Asia at 1.00 P.M. on Saturday, July 13th, 2013, would have to change his watch to 1.00 P.m. on",
+    "option": {
+      "a": "Sunday, July 14th, 2013",
+      "b": "Friday, July 12th 2013",
+      "c": "Saturday, July 13th, 2013",
+      "d": "Monday, July 15th, 2013"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 230,
+    "question": "……...Refers to the nature of the surface of an area and the features that abound therein above the sea level",
+    "option": {
+      "a": "Barchans ",
+      "b": "Relief   ",
+      "c": "Plateaux   ",
+      "d": "Plain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 245,
     "question": "What is the size, in square kilometers of the area covered by the map?",
     "option": {
@@ -187,6 +235,22 @@
     "section": "",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2016_13_to_17_iprrih.jpg",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 260,
+    "question": "The port that specializes in receiving and re-exporting goods is known as",
+    "option": {
+      "a": "Entrepot",
+      "b": "International port",
+      "c": "Sea port",
+      "d": "Jetty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -224,6 +288,70 @@
     "examyear": "2017"
   },
   {
+    "id": 306,
+    "question": "Pastoral nomadism was not native to the American Continents or Australia because",
+    "option": {
+      "a": "The natives were more interested in hunting",
+      "b": "Pasture lands were sparse",
+      "c": "The environments were unfavourable for animal rearing",
+      "d": "They were heavily infested by tsetse fly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 316,
+    "question": "A weather element controlled mainly by latitude is",
+    "option": {
+      "a": "Humidity",
+      "b": "Cloud cover",
+      "c": "Rainfall",
+      "d": "Sunshine"
+    },
+    "section": "",
+    "image": "",
+    "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 360,
+    "question": "With which of the following processes are drumlins boulder clay and terminal moraines associated?",
+    "option": {
+      "a": "River deposition",
+      "b": "Wind deposition",
+      "c": "Glacial erosion",
+      "d": "River erosion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 369,
+    "question": "Station Y is located in the Northern Hemisphere because the",
+    "option": {
+      "a": "Highest rainfall is in August",
+      "b": "Annual range of temperature is 9.4°C",
+      "c": "Coolest period is from November to February",
+      "d": "Rainfall pattern is seasonal"
+    },
+    "section": "Study the table below, which shows the mean climatic conditions at Station Y , and answer question 12 to 14",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2019_12_to_14_kwqvds.jpg",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 380,
     "question": "The captain of a ship in the mid sea observed that it was local noon as he was listening to 08.00 hour BBC world news. On which longitude was his ship?",
     "option": {
@@ -238,5 +366,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 409,
+    "question": "The progressive widening of joints and cracks in limestone by solutions, initially lead to the formation of ",
+    "option": {
+      "a": "Cliff and dry valleys",
+      "b": "Caves and caverns",
+      "c": "Grits and clints",
+      "d": "Stalactities and stalagmites"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 436,
+    "question": "Nigeria's three steel rolling mills are located around",
+    "option": {
+      "a": "Katsina, Oshogbo, and Jos",
+      "b": "Ilesha, Ilorin,and Kaduna",
+      "c": "Aladija, Ajaokuta and Gombe",
+      "d": "Enugu, Asaba, and Ajaokuta"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
   }
 ]
