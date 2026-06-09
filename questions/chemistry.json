@@ -1488,6 +1488,22 @@
     "examyear": "2004"
   },
   {
+    "id": 130,
+    "question": "An electron can be added to a halogen atom to form a halide ion with",
+    "option": {
+      "a": "2 valence electrons",
+      "b": "3 valence electrons",
+      "c": "7 valence electrons",
+      "d": "Valence electrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 132,
     "question": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecule is its",
     "option": {
@@ -4288,6 +4304,22 @@
     "examyear": "2016"
   },
   {
+    "id": 375,
+    "question": "Which of the following compounds is used as a gaseous fuel?",
+    "option": {
+      "a": "CH₃-CH₂-CHO₂-COOH",
+      "b": "CH₃-C≡CH",
+      "c": "CH₃-CH₂-CH₂-CH₃",
+      "d": "CH₂=CH-CH₃"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "CH₃-CH₂-CH₂-CH₃ is butane, a saturated alkane widely used as a gaseous fuel in LPG (liquefied petroleum gas). Option B is propyne (an alkyne), D is propene (an alkene) — both are flammable but not common domestic gaseous fuels. Option A is not a real stable compound.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 376,
     "question": "The products formed when primary alkanols are oxidized using acidified potassium tetraoxomanganate (VII) are what?",
     "option": {
@@ -5936,6 +5968,22 @@
     "examyear": "2019"
   },
   {
+    "id": 515,
+    "question": "Which of the following metals is the most essential in the regulation of blood volume, blood pressure and osmotic equilibrium?",
+    "option": {
+      "a": "Zinc",
+      "b": "Manganese",
+      "c": "Sodium",
+      "d": "Iron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Sodium (Na) is the most essential metal in regulating blood volume, blood pressure, and osmotic equilibrium. Na⁺ ions are the principal extracellular cations in the body; they control fluid balance via osmosis, maintain blood pressure through their effect on fluid volume, and are regulated by the kidneys with hormones such as aldosterone.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 516,
     "question": "Which of the following alkaline earth metals react more spontaneously with water?",
     "option": {
@@ -5948,6 +5996,22 @@
     "image": "",
     "answer": "d",
     "solution": "Reactivity of alkaline earth metals with water increases down Group II: Be < Mg < Ca < Sr < Ba. Strontium (Sr) is the most reactive among the options given, reacting vigorously and spontaneously with cold water to give Sr(OH)₂ and H₂. Be barely reacts with water; Mg reacts only with steam; Ca reacts with cold water but less vigorously than Sr.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 517,
+    "question": "When chlorine water is exposed to bright sunlight, the following products are formed",
+    "option": {
+      "a": "HCl(aq) and Cl₂",
+      "b": "HOCl(aq) and Cl₂",
+      "c": "HCl(aq) and O₂",
+      "d": "HOCl(aq) and O₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Chlorine water contains Cl₂, HCl, and HOCl in equilibrium: Cl₂ + H₂O ⇌ HCl + HOCl. On exposure to bright sunlight, the HOCl decomposes: 2HOCl → 2HCl + O₂. The overall result is the production of HCl(aq) and O₂. This is why chlorine water bleaches more rapidly in sunlight.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -5996,6 +6060,22 @@
     "image": "",
     "answer": "c",
     "solution": "X (1s²2s²2p⁴) is oxygen (6 valence electrons, forms O²⁻). Y (1s²2s²2p⁶3s²3p¹) is aluminium (3 valence electrons, forms Al³⁺). To balance charges: 2Al³⁺ + 3O²⁻ → Al₂O₃. In the formula Y₂X₃: Y = Al, X = O, giving Al₂O₃. The formula is Y₂X₃.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 523,
+    "question": "By what amount must the temperature of 200 cm³ of nitrogen at 27°C be increased to double the pressure if the final volume is 150 cm³? (Assume ideality)",
+    "option": {
+      "a": "150°C",
+      "b": "177°C",
+      "c": "75°C",
+      "d": "120°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using the general gas law: P₁V₁/T₁ = P₂V₂/T₂. T₁ = 27 + 273 = 300 K, V₁ = 200 cm³, P₂ = 2P₁, V₂ = 150 cm³. T₂ = T₁ × (P₂ × V₂)/(P₁ × V₁) = 300 × (2 × 150)/200 = 300 × 1.5 = 450 K. Increase in temperature = 450 - 300 = 150 K = 150°C.",
     "examtype": "utme",
     "examyear": "2019"
   },
