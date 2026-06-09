@@ -1472,6 +1472,22 @@
     "examyear": "2012"
   },
   {
+    "id": 127,
+    "question": "Two 2µF capacitors are connected in parallel. The combination is connected in series with a 6µF capacitor. What is the equivalent capacitor for the combination?",
+    "option": {
+      "a": "10.0µF  ",
+      "b": "8.0µF  ",
+      "c": "1.5µF  ",
+      "d": "2.4µF"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 129,
     "question": "To convert an a.c generator to d.c generator, one needs to ",
     "option": {
@@ -9068,6 +9084,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nOriginal length (L₀) = 4 m\nExtension₁ (e₁) = 0.02 m\nMass = 0.4 kg, so Force₁ (F₁) = 0.4 × 10 = 4 N (assuming g = 10 m/s²)\nApplied force₂ (F₂) = 15 N\nFinal length = ?\n\nUsing Hooke's Law:\nExtension is proportional to applied force (for elastic materials):\nF ∝ e\nSetting up proportion:\nF₁/e₁ = F₂/e₂\nSolving for e₂:\n4/0.02 = 15/e₂\ne₂ = (15 × 0.02)/4\ne₂ = 0.30/4\ne₂ = 0.075 m\nCalculate final length:\nFinal length = Original length + Extension\nFinal length = 4 + 0.075\nFinal length = 4.075 m ≈ 4.08 m",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 790,
+    "question": "The difference observed in solids, liquids and gases can be accounted for by",
+    "option": {
+      "a": "The different molecules in each of them",
+      "b": "The spaces and forces acting between the molecules",
+      "c": "Thier melting points",
+      "d": "Their relative massess"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Spaces and Forces: The differences observed in solids, liquids, and gases can primarily be attributed to the arrangement, spacing, and intermolecular forces acting between the molecules.\n\nSolids: Tightly packed molecules with strong intermolecular forces, giving a definite shape and volume.\nLiquids: Close molecules that can move past each other, resulting in a definite volume but no definite shape.\nGases: Widely spaced molecules with weak intermolecular forces, filling the entire container.",
     "examtype": "utme",
     "examyear": "2007"
   },
