@@ -1728,6 +1728,22 @@
     "examyear": "2016"
   },
   {
+    "id": 171,
+    "question": "The gross profit on manufacture is",
+    "option": {
+      "a": "N 6,120",
+      "b": "N 6,100",
+      "c": "N 5,100",
+      "d": "N  5,000"
+    },
+    "section": "Materials consumed  16,600;\tDirect cost 5,400; Factory rent 2,300; Factory  lighting 1,200 \tCost of production to be transferred at cost plus 20% mark-up. ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 172,
     "question": "The market value of goods produced is",
     "option": {
@@ -3488,6 +3504,22 @@
     "examyear": "2015"
   },
   {
+    "id": 325,
+    "question": "Which of the following is not revealed by a firm’s accounting records?",
+    "option": {
+      "a": "Profit of a period",
+      "b": "Quality of labour force",
+      "c": "Credit worthiness",
+      "d": "Value of assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 327,
     "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it will be used for more than one year is",
     "option": {
@@ -4923,6 +4955,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 470,
+    "question": "Calculate the balance in the bank statement",
+    "option": {
+      "a": "N 10 740",
+      "b": "N11 860",
+      "c": "N 17 500",
+      "d": "N16,380."
+    },
+    "section": "Use the Information below to answer questions: Balance as per cash book [N13, 560 ]; Unpresented cheques [N5, 120]; Uncredited lodgments [N2, 300] ; Dividend received not entered in the cash book  [N2, 000]; Bank charges [280 ]; Standing order payments [N600] Balance as per bank statement \t[?]",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -7468,6 +7516,22 @@
     "image": "",
     "answer": "c",
     "solution": "In the double-entry principle, we debit income and credit expenses.\n\nThe rent account will be debited with the sum of ₦50,000 in regards to the landlord (because money has been paid in as rent, e.i income), while the bank column will be credited with N50,000 (money has gone out of Mr. Rio bank account via the cheque that was issued to the landlord)",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 717,
+    "question": "A statement in a double-entry system in which are recorded all the transactions of one specific class, which takes place during the period is called",
+    "option": {
+      "a": "Double entry system",
+      "b": "Ledger",
+      "c": "Cash Book",
+      "d": "Petty Cash Book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A ledger is a separate record within the general ledger that is assigned to a specific asset, liability, equity item, revenue type, or expense type. Examples of ledger accounts are: Cash, Accounts receivable.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -10080,6 +10144,22 @@
     "examyear": "2008"
   },
   {
+    "id": 982,
+    "question": "<b>Use the information below to answer questions 17 to 18.</b>\n\nAug. 1 Received 20 units at ₦60 each\nAug. 6 Received 20 units at ₦68 each\nAug. 10 Issued 16 units\nAug. 20 Received 40 units at ₦80 each\nAug. 31 Issued 48 units\n\nUsing the FIFO method, what is the value of the closing stock?",
+    "option": {
+      "a": "₦1280",
+      "b": "₦1184",
+      "c": "₦1024",
+      "d": "₦960"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: After Aug. 1\n\nStock:\n\n20 units @ ₦60\n\nStep 2: After Aug. 6\n\nStock:\n\n20 units @ ₦60\n\n20 units @ ₦68\n\nStep 3: Aug. 10 issue (16 units) – FIFO means take oldest stock first\n\nTake 16 from the 20 units @ ₦60 → leaves 4 units @ ₦60\n\nRemaining from Aug. 6: 20 units @ ₦68\n\nStock after issue:\n\n4 units @ ₦60\n\n20 units @ ₦68\n\nStep 4: Aug. 20 receive 40 units @ ₦80\n\nStock now:\n\n4 units @ ₦60\n\n20 units @ ₦68\n\n40 units @ ₦80\n\nStep 5: Aug. 31 issue (48 units) – FIFO\n\nTake 4 from ₦60 batch → 0 left\n\nTake 20 from ₦68 batch → 0 left\n\nNeed 48 - 4 - 20 = 24 units from ₦80 batch → leaves 16 units @ ₦80\n\nStep 6: Closing stock\n\n16 units @ ₦80 = ₦1,280",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 983,
     "question": "In a period of inflation, which of the following method normally gives a lower closing stock value?",
     "option": {
@@ -10556,6 +10636,22 @@
     "image": "",
     "answer": "a",
     "solution": "Explanation: In a three-column cash book, discount allowed is recorded on the debit side because it is an expense to the business and is given to customers who pay promptly.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1026,
+    "question": "A rent received by a trader for sub-letting part of his business premises should be added to the?",
+    "option": {
+      "a": "gross profit",
+      "b": "total profit",
+      "c": " net profit",
+      "d": "total revenue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Explanation: Rent received from subletting is other income and is added after gross profit when calculating net profit.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -11740,6 +11836,22 @@
     "image": "",
     "answer": "d",
     "solution": "Assets:\n\nCash: ₦70,000\nInventory: ₦58,000\nMachines: ₦100,000\nTotal Assets = ₦70,000 + ₦58,000 + ₦100,000 = ₦228,000\n\nLiabilities:\n\nCreditors: ₦85,000\nBank Loan: ₦60,000\nTotal Liabilities = ₦85,000 + ₦60,000 = ₦145,000\n\nCalculation:\nCapital at start = Total Assets - Total Liabilities\nCapital at start = ₦228,000 - ₦145,000 = ₦83,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1152,
+    "question": "Receipts and payments accounts is the summary of?",
+    "option": {
+      "a": "income and expenditure",
+      "b": " cash book",
+      "c": "balance sheet",
+      "d": " profit and loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A receipts & payments account is simply a cash summary — it records all cash and bank receipts and payments for a period (opening balance, cash in, cash out, closing balance). It’s a summary of the cash book, not an accrual statement like the income & expenditure account or a balance sheet.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -13484,6 +13596,22 @@
     "image": "",
     "answer": "b",
     "solution": "The primary benefit of reconciling branch and head office records is to ensure that all inter‐company transfers, stock movements, and adjustments have been correctly recorded, allowing the head office to determine the true profit or loss generated by the branch.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1314,
+    "question": "Haial Limited with three departments has a total of ₦7,200,000 as net debtors for the year ended 31/12/97.\nThe company's policy provides for 15% bad debt annually. Which of the following represents the total balance of debtors before adjustment?",
+    "option": {
+      "a": "₦6,120,000",
+      "b": "₦6,120,300",
+      "c": "₦8,280,000",
+      "d": "₦8820000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To “bracket back” from the net debtors figure to the unadjusted (gross) debtors balance given a policy of providing 15% on outstanding debtors, we add back the provision, which under some interpretations is taken on the net amount:\n\nProvision on net debtors = 7,200,000 × 15% = 1,080,000\n\nGross debtors before adjustment\n= 7,200,000 + 1,080,000 = 8,280,000\n",
     "examtype": "utme",
     "examyear": "2000"
   },
