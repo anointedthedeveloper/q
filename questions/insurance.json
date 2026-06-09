@@ -2896,6 +2896,22 @@
     "examyear": "3"
   },
   {
+    "id": 183,
+    "question": "Which of these is insurable?",
+    "option": {
+      "a": "Fire",
+      "b": "Inflation",
+      "c": "Bad publicity",
+      "d": "Riot and war"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 184,
     "question": "The principle that requires all material facts to be disclosed is known as",
     "option": {
@@ -4475,6 +4491,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 288,
+    "question": "Marine  losses are divided into",
+    "option": {
+      "a": "actual total and total loss",
+      "b": "total loss and partial loss",
+      "c": "partial loss and actual loss",
+      "d": "average loss and partial loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
