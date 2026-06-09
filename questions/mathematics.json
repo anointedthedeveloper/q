@@ -256,6 +256,22 @@
     "examyear": "2007"
   },
   {
+    "id": 21,
+    "question": "A bearing of 310o, expressed as a compass bearing is: ",
+    "option": {
+      "a": "N50oW  ",
+      "b": "N40oW  ",
+      "c": "S40oW  ",
+      "d": "S50oW"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 22,
     "question": "Which of the following specified sets of data is not necessarily sufficient for the construction of a triangle? ",
     "option": {
@@ -480,6 +496,22 @@
     "examyear": "2009"
   },
   {
+    "id": 50,
+    "question": "If 32y – 6(3y) = 27, find y ",
+    "option": {
+      "a": "3",
+      "b": "-1",
+      "c": "2",
+      "d": "-3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 52,
     "question": "A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ",
     "option": {
@@ -487,6 +519,22 @@
       "b": "N 165 ",
       "c": "N15   ",
       "d": "N 200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 53,
+    "question": "Two fair dice are rolled. What is the probability that both show up the same number of point?",
+    "option": {
+      "a": "1/36 ",
+      "b": "7/36 ",
+      "c": "½ ",
+      "d": "1/6"
     },
     "section": "",
     "image": "",
@@ -1520,6 +1568,22 @@
     "examyear": "2001"
   },
   {
+    "id": 171,
+    "question": "The histogram shows the distribution of passengers in taxis at a certain motor park. How many taxis have more than 4 passengers?",
+    "option": {
+      "a": "17",
+      "b": "16",
+      "c": "15",
+      "d": "14"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696982/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_50_mmhkhv.jpg",
+    "answer": "a",
+    "solution": "no. of passengers 0.5−2.5, 2.5−4.5, 4.5−6.5, 6.5−8.5, 8.5−10.5, 10.5−12.5                        Number of taxis 3, 4, 7, 5, 4, 1.      Total 24\n \nThus, the taxi with more than 4 passengers\n\n= 7 + 5 + 4 + 1 = 17",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 172,
     "question": "Without using tables, evaluate (343)<sup>(1/3)</sup> × (0.14)<sup>−1</sup> × (25)<sup>(−1/2)</sup>",
     "option": {
@@ -1952,6 +2016,22 @@
     "examyear": "2002"
   },
   {
+    "id": 218,
+    "question": "The distribution above shows the number of days a group of 260 students were absents from school in a particular term. How many students were absent for at least four days in the term",
+    "option": {
+      "a": "210",
+      "b": "40",
+      "c": "120",
+      "d": "160"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698298/ALOC-Questions/Mathematics/2002/math_2000_Q47_pfgllk.jpg",
+    "answer": "d",
+    "solution": "20 + X + 50 + 40 + 2X + 60 = 260\n3X + 170 = 260\n3X = 260 - 170\n3x = 90\nx = 30\nAbsent for at least 4 days\n\n4,\t5,\t6\n40,\t2x,\t60,\n\ni.e 40 + 2x + 60 = 40 + (2 x 30) + 60\n= 40 + 60 + 60\n= 160",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 221,
     "question": "The triangle POR is",
     "option": {
@@ -1996,6 +2076,22 @@
     "image": "",
     "answer": "c",
     "solution": "You can either multiply directly in base 4 or you can decide to convert to base 10 and do the multiplication and re-convert.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 224,
+    "question": "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat\nematics and Physics?",
+    "option": {
+      "a": "20",
+      "b": "16",
+      "c": "8",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using a venn diagram, let x = number who offer both Maths and Physics. So that (32-x) offer Maths and another (24-x) offer Physics.\n(32-x) + (24-x) + (x) + (4 who offer neither) = 40\n=> 60 - x = 40\n=> -x = -20\nTherefore x = 20.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -2928,6 +3024,22 @@
     "examyear": "2004"
   },
   {
+    "id": 324,
+    "question": "Simplify 3(1/2) - (2(1/3) * 1(1/4) + 3/5",
+    "option": {
+      "a": "2(11/60)",
+      "b": " 2(1/60)",
+      "c": "1(11/60)",
+      "d": "1(1/60)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "3(1/2) - (2(1/3) * 1(1/4)) + 3/5\n= 7/2 - (7/3 * 5/4) + 3/5\n= 7/2 - 35/12 + 3/5\n= L.C.M = 60\n= (210 - 175 + 36)/60\n= 71/60\n= 1(11/60)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 326,
     "question": "Three boys shared some oranges. The first received 1/3 of the oranges and the second received 2/3 of the remaining. If the third boy received the remaining 12 oranges, how many oranges did they share",
     "option": {
@@ -2956,6 +3068,22 @@
     "image": "",
     "answer": "b",
     "solution": "(81<sup>(3/4)</sup> - 27<sup>(1/3)</sup>)/(3×2<sup>3</sup> )=((3<sup>(3-3/4)</sup>-33<sup>(3-3/4)</sup>))/(3×2<sup>3</sup> )=(3<sup>3</sup> -3)/(3 ×8) = (27 - 3 ) / 24 = 24/24 = 1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 328,
+    "question": "If Log<sub>10</sub> 2 = 0.3010 and Log<sub>10</sub>3 = 0.4771, evaluate Log<sub>10</sub>4.5",
+    "option": {
+      "a": "0.9542",
+      "b": " 0.6532",
+      "c": "0.4771",
+      "d": " 0.3010"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Log<sub>10</sub> 2 = 0.3010 and Log<sub>10</sub>3 = 0.4771\nLog<sub>10</sub> 4.5= Log<sub>10</sub> 4(1/2)\n= Log<sub>10</sub>9/2\n= Log<sub>10</sub>9 - Log<sub>10</sub> 2\n= Log<sub>10</sub>3<sup>2</sup> -Log<sub>10</sub> 2\n= 2Log<sub>10</sub>3 - Log<sub>10</sub> 2\n= 2(0.4771) - 0.3010\n= 0.9542 - 0.3010\n= 0.6532",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -3148,6 +3276,22 @@
     "image": "",
     "answer": "a",
     "solution": "∫<sub>0</sub><sup>(π/2</sup>sin2xdxx = [-1/2cos 2x + C]<sup>(π/2</sup, <sub>0</sub>\n\n=[-1/2 cos 2 * π/2 + C] - [-1/2 cos 2 * 0]\n= [-1/2 cos π] - [-1/2 cos 0]\n= [-1/2x - 1] - [-1/2 * 1]\n= 1/2 -(-1/2) = 1/2 + 1/2 = 1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 357,
+    "question": "The grades of 36 students in a test are shown in the pie chart above. How many students had excellent?",
+    "option": {
+      "a": "7",
+      "b": "8",
+      "c": "9",
+      "d": "12"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702357/ALOC-Questions/Mathematics/2005/math_2005_q36_jdk6q5.jpg",
+    "answer": "a",
+    "solution": "Angle of Excellent\n= 360 - (120+80+90)\n= 360 - 290\n= 70o\nIf 360o represents 36 students\n1o will represent 36/360\n50o will represent 36/360 * 70/1\n= 7",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -3564,6 +3708,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542656/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q25_vybvn4.jpg",
     "answer": "c",
     "solution": "Area of rectangle PQRS\n= 10 x 7 = 70 cm2\nArea of semi circle\nQR = Dπ = 7 x 22/7 = 22cm2\n∴Area of the figure = 70 + 22\n= 92cm<sup>2</sup>\n= 90cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 397,
+    "question": "If tan θ = 5/4, find sin<sup>2</sup>θ - cos<sup>2</sup>θ.",
+    "option": {
+      "a": "5/4",
+      "b": "41/9",
+      "c": "9/41",
+      "d": "1\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Tan θ = 5/4\nx<sup>2</sup> = 5<sup>2</sup> + 42\n= 25 + 16\n= 41\nx = √41\nsin<sup>2</sup>θ - cos<sup>2</sup>θ = (5/√41)<sup>2</sup> - (4/√41)<sup>2</sup>\n= 25/41 - 16/41\n= 9/41",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -5616,6 +5776,22 @@
     "examyear": "2011"
   },
   {
+    "id": 631,
+    "question": "Make R the subject of the formula if T = KR<sup>2</sup>+M/3",
+    "option": {
+      "a": "√((3T-K)/M)",
+      "b": "√((3T-M)/K)",
+      "c": "√((3T+K)/M)",
+      "d": "√((3T-K)/M)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "T = KR<sup>2</sup>+M/3\n\n\n3T = KR<sup>2</sup> + M\n\nKR2<sup>2</sup> = 3T - M\n\nR<sup>2</sup> = 3T−M/K\n\n\nR = √3T−M/K",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 634,
     "question": "Solve for x and y respectively in the simultaneous equations -2x - 5y = 3. x + 3y = 0",
     "option": {
@@ -5676,6 +5852,22 @@
     "image": "",
     "answer": "b",
     "solution": "x2 + 2x > 15\n\nx2 + 2x - 15 > 0\n\n(x2 + 5x) - (3x - 15) > 0\n\nx(x + 5) - 3(x + 5) >0\n\n(x - 3)(x + 5) > 0\n\ntherefore, x = 3 or -5\n\ni.e. x< 3 or x > -5",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 640,
+    "question": "The seconds term of a geometric series is 4 while the fourth term is 16. Find the sum of the first five terms",
+    "option": {
+      "a": "60",
+      "b": "62",
+      "c": "54",
+      "d": "64"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "T<sub>2</sub>  = 4, T<sub>4</sub>  = 16\n\nT<sub>x</sub>  = ar<sup>n-1</sup>\n\nT<sub>2</sub>  = ar<sp>2-1</sup> = 4 i.e. ar<sup>3</sup> = 16, i.e. ar = 4\n\nT<sub>4</sub>  = ar<sup>4-1</sup>\n\ntherefore, T<sub>4</sub> /T<sub>r</sub> \n = ar<sup>3</sup>/ar = 16/4\n\n\nr<sup>2</sup> = 4 and r = 2\n\nbut ar = 4\n\na = 4/r = 4/2\n\n\na = 2\n\nS<sup>n</sup> = a(r<sup>n</sup>−1)/r−1\n\n\nS<sup>5</sup> = 2(2<sup>5</sup>−1)/2−1\n\n\n= 2(32−1)/2−1\n\n\n= 2(31)\n\n= 62",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -5820,6 +6012,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129744/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q33_qgwykn.jpg",
     "answer": "d",
     "solution": "Mode = L<sub>1</sub> + (D<sub>1</sub/D<sub>1</sub>+D<sub>2</sub>)C\n\nD<sub>1</sub> = frequency of modal class - frequency of the class before it\n\nD<sub>1</sub> = 5 - 2 = 3\n\nD<sub>2</sub> = frequency of modal class - frequency of the class that offers it\n\nD<sub>2</sub> = 5 - 3 = 2\n\nL<sub>1</sub> = lower class boundary of the modal class\n\nL<sub>1</sub> = 5 - 5\n\nC is the class width = 8 - 5.5 = 3\n\nMode = L<sub>1</sub> + (D<sub>1</sub>/D<sub>1</sub>+D<sub>2</sub>)C\n\n= 5.5 + 3/(2+3)C\n\n= 5.5 + 3/5 x 3\n\n= 5.5 + 9/5\n\n= 5.5 + 1.8\n\n= 7.3 ≈ = 7",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 655,
+    "question": "Find the value of x at the minimum point of the curve y = x<sup>3</sup> + x<sup>2</sup> - x + 1",
+    "option": {
+      "a": "1/3",
+      "b": "1/3",
+      "c": "1",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "y = x<sup>3</sup> + x<sup>2</sup> - x + 1\n\ndy/dx = d(x<sup>3</sup>)/dx + d(x<sup>2</sup>)/dx - d(x)/dx + d(1)/dx\n\n\ndy/dx = 3x<sup>2</sup> + 2x - 1 = 0\n\ndy/dx = 3x<sup>2</sup> + 2x - 1\n\nAt the maximum point dy/dx\n = 0\n\n3x<sup>2</sup> + 2x - 1 = 0\n\n(3x<sup>2</sup> + 3x) - (x - 1) = 0\n\n3x(x + 1) -1(x + 1) = 0\n\n(3x - 1)(x + 1) = 0\n\ntherefore x = 1/3 or -1\n\nFor the maximum point\n\nd<sup>2</sup>y/dx<sup>2</sup> < 0\n\nd<sup>2</sup>y/dx<sup>2</sup> 6x + 2\n\nwhen x = 1/3\n\n\ndx<sup>2</sup>/dx<sup>2</sup>\n = 6(1/3) + 2\n\n= 2 + 2 = 4\n\nd<sup>2</sup>y/dx<sup>2</sup>, > o which is the minimum point\n\nwhen x = -1\n\nd<sup>2</sup>y/dx<sup>2</sup> = 6(-1) + 2\n\n= -6 + 2 = -4\n\n-4 < 0\n\ntherefore, d<sup>2</sup>y/dx<sup>2</sup> < 0\n\nthe minimum point is 1/3",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -6524,6 +6732,22 @@
     "image": "",
     "answer": "a",
     "solution": "(√5(√147-√12)/√15           = (√5(√(49×3)-√(4×3))/√(5×3) = (√5(7√3-2√3)/(√5×√3) = (√3(7-2)/√3 = 5",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 777,
+    "question": "if P = {x:x is odd, −1<x≤20\n} and Q is {y:y is prime, −2 < y ≤ 25, find P ∩ Q",
+    "option": {
+      "a": "{3,5,7,11,17,19}",
+      "b": "{3,5,11,13,17,19}",
+      "c": "{3,5,7,11,13,17,19}",
+      "d": " {2,3,5,7,11,13,17,19}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "P = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19}\n\nQ = {-1, 3, 5, 7, 11, 13, 17, 19, 23}\n\nP ∩\n Q = {3, 5, 7, 11, 13, 17, 19}",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -7340,6 +7564,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003254/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q47_sxav6d.jpg",
     "answer": "a",
     "solution": "3 + 2 + 5 + 5 + + 5 + 10 + 4 + 3 + 1 + 2 = 40",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 866,
+    "question": "Determine the mean score of the student that took the mathematics test?",
+    "option": {
+      "a": "4.5",
+      "b": "4.3",
+      "c": "4.2",
+      "d": " 4.6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003306/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q48_cmhnqy.jpg",
+    "answer": "c",
+    "solution": "(3 x 0) + (1 x 2) + (5 x 2) + (5 x 3) + (5 x 4) +\n(10 x 5) + (4 x 6) + (3 x 7) + (1 x 8) + (2 x 9) ÷\n 40\n\n= 168/40 = 4.2",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -8448,6 +8688,22 @@
     "examyear": "2019"
   },
   {
+    "id": 984,
+    "question": "From the cyclic quadrilateral MNOP above, find the value of x.",
+    "option": {
+      "a": "16°",
+      "b": "25°",
+      "c": "42°",
+      "d": "39°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The sum of two opposite angles of a cyclic quadrilateral = 180°\n\n∴\n (2x + 18)° + 84° = 180°\n\n2x + 102° = 180° ⟹\n 2x = 78°\n\nx = 39°",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 985,
     "question": "If 4sin2x−3=0, find the value of x, when 0° ≤ x ≤ 90°",
     "option": {
@@ -8876,6 +9132,22 @@
     "image": "",
     "answer": "b",
     "solution": "Equation through (5,7) parallel to the line \n\n7x + 5y = 12\n\n5y = 7x + 12 \n\ny = −7x/5 + 12/5\nGradient = −7/5\n \nRequired equation = (y−7)/(x − 5) = −7/5\ni.e. 5y - 35 = -7x + 35\n\n5y + 7x = 70",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1039,
+    "question": "A number is selected at random between 20 and 30, both numbers inclusive. Find the probability that the number is a prime. ",
+    "option": {
+      "a": "2/11",
+      "b": "5/11",
+      "c": "6/11",
+      "d": "8/11"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Possible outcomes are 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30. Prime numbers have only two factors, itself and 1. The prime numbers among the group are 23, 29. \n\nThe probability of choosing a prime number \n\n= Number of PrimeNo. of Total/ Possible Outcome\n= 2/11\n ",
     "examtype": "2020",
     "examyear": "utme"
   },
