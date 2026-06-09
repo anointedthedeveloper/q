@@ -96,6 +96,22 @@
     "examyear": "2014"
   },
   {
+    "id": 15,
+    "question": "Which of the following is not a benefit covered under a personal accident policy?",
+    "option": {
+      "a": "Death",
+      "b": "Temporary disablement",
+      "c": "Loss of baggage",
+      "d": "Medical expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 19,
     "question": "A policy that combines cover for many perils as a single policy  to  suit  the  insurance  needs of  an insured is",
     "option": {
@@ -139,6 +155,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 24,
+    "question": "Ade insured his property for N= 350,000.00. The property is subject to average condition. He suffered a loss amounting to N= 30,000.00 with the value of the property at the time of loss to be N= 370,000.00. How much will the insurer pay?",
+    "option": {
+      "a": "N= 14,583.33",
+      "b": "N= 28,378.38",
+      "c": "N= 30,000.00",
+      "d": "N= 31,714.29"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -912,6 +944,22 @@
     "examyear": "2"
   },
   {
+    "id": 115,
+    "question": "Insurance  feature  that  emphasized   the  fact  that insurance contract is a contract between the insurer and  the  insured  and  which states  that  the insured must  adhere to  the  agreement  is  called",
+    "option": {
+      "a": "Disclosure",
+      "b": "Warranty",
+      "c": "Adhesion",
+      "d": "Material facts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 116,
     "question": "The principle that requires the insured to disclose to the insurer all matters relating to the object of insurance is called",
     "option": {
@@ -923,6 +971,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following is not a principle of insurance",
+    "option": {
+      "a": "Indemnity",
+      "b": "Insurable risk",
+      "c": "Subrogation",
+      "d": "Insurable interest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -1063,6 +1127,22 @@
       "b": "Levy",
       "c": "Premium",
       "d": "Charge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 133,
+    "question": "When an insured person admits that he has indemnified, he means that",
+    "option": {
+      "a": "The damage proper by has been recovered",
+      "b": "He was paid premium fully",
+      "c": "The insurance company has restored him to his former position",
+      "d": "He was paid his premium fully"
     },
     "section": "",
     "image": "",
@@ -1904,6 +1984,22 @@
     "examyear": "4"
   },
   {
+    "id": 223,
+    "question": "Which of the following cannot enter into an insurance contract?",
+    "option": {
+      "a": "adult",
+      "b": "insured",
+      "c": "minor",
+      "d": "insurer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 227,
     "question": "Inter company agreement in which insurers agreed to waive their right against each other for loss is",
     "option": {
@@ -2411,6 +2507,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 304,
+    "question": "In which of the following classes of insurance is no <em>claim discount</em> applicable?",
+    "option": {
+      "a": "Money insurance",
+      "b": "Marine insurance",
+      "c": "Motor insurance",
+      "d": "Aviation insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
