@@ -768,6 +768,22 @@
     "examyear": "2013"
   },
   {
+    "id": 83,
+    "question": "Which of the following is not a characteristic of a Trial Balance?",
+    "option": {
+      "a": "It has columns for debit and credit balances",
+      "b": "Total of debit balance equals total of credit balance",
+      "c": "It is a statement",
+      "d": "It is an account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 84,
     "question": "The capital of a sole trader changes as a result of",
     "option": {
@@ -955,6 +971,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 106,
+    "question": "Which of the following is a recurrent expenditure in public sector accounting?",
+    "option": {
+      "a": "Purchase of vehicles",
+      "b": "Purchase of drugs",
+      "c": "Construction of boreholes",
+      "d": "Construction of buildings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -2304,6 +2336,22 @@
     "examyear": "2006"
   },
   {
+    "id": 223,
+    "question": "If  no profit is to be retained, proposed preference shares dividend is",
+    "option": {
+      "a": "N  28,000",
+      "b": "N  16,000",
+      "c": "N  12,000.",
+      "d": "N  4,000"
+    },
+    "section": "Ordinary shares of  N1each  [500,000], 8% preference shares of  N1each [200,000], Interim dividends paid:  - ordinary shares [40,000], - preference shares [12,000], Profit for the year [100,000]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 226,
     "question": "A customer who returns goods to the supplier because they are defective is issued a",
     "option": {
@@ -3376,6 +3424,22 @@
     "examyear": "2015"
   },
   {
+    "id": 327,
+    "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it will be used for more than one year is",
+    "option": {
+      "a": "materiality",
+      "b": "accrual",
+      "c": "going concern",
+      "d": "business entity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 329,
     "question": "The accounting concept that states that a firm’s financial affairs must be separated from that of the owner’s private transactions is",
     "option": {
@@ -3502,6 +3566,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
+  },
+  {
+    "id": 345,
+    "question": "The source document used to make entries in the purchases day book is",
+    "option": {
+      "a": "debit note",
+      "b": "credit note",
+      "c": "invoice",
+      "d": "receipt"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
   },
   {
     "id": 347,
@@ -4704,6 +4784,22 @@
     "examyear": "2007"
   },
   {
+    "id": 465,
+    "question": "The purchases ledger control account showed a credit balance of N 525 000 on April 30, 2006. This amount shows",
+    "option": {
+      "a": "what the debtors of a business enterprise owed the business",
+      "b": "the total amount which each debtor owed the business",
+      "c": "what a business enterprise owed its creditors",
+      "d": "the total amount which a business enterprise owed each creditor."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 466,
     "question": "Find the value of the total assets?",
     "option": {
@@ -4715,6 +4811,22 @@
     "section": "Use the information below to answer question: Net loss [N2,300]; Capital [N10,500]; Liabilities [N7, 200]",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 468,
+    "question": "Journal proper is used in recording",
+    "option": {
+      "a": "transactions that are not regular",
+      "b": "returns from customers",
+      "c": "credit sales",
+      "d": "the receipt and payment of  money"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -5196,6 +5308,22 @@
     "image": "",
     "answer": "a",
     "solution": "The defining feature of a revenue expense is that it’s incurred in the normal course of earning income and directly contributes to the business’s operating results for the period.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 519,
+    "question": "An entry in a subsidiary book which does not form part of the double entry system is a",
+    "option": {
+      "a": " contra entry",
+      "b": "single entry",
+      "c": "journal entry",
+      "d": "memorandum entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A memorandum entry is not a complete journal entry because it does not contain debit and credit amounts e.g. stock split which does not affect the common stock account.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -6044,6 +6172,22 @@
     "image": "",
     "answer": "c",
     "solution": "supplementary estimates means a statement of unforeseen expenditure for a financial year presented by the Treasurer to the Legislative Assembly for the purpose of obtaining supplementary appropriation for that expenditure",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 604,
+    "question": "The objective of departmental account is to",
+    "option": {
+      "a": "ascertain the amount of profits or losses for the enterprise",
+      "b": "ascertain the amount of profits or losses for each department",
+      "c": "ascertain the cost of running the organization",
+      "d": "offset the loss of each department"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The main objectives of departmental accountingare: To check out an interdepartmental performance. To evaluate the performance of the department with the previous period result. The gross profit of each department can be ascertained.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -7632,6 +7776,22 @@
     "examyear": "2020"
   },
   {
+    "id": 773,
+    "question": "Given the following information: stock on 1/4/94 was ₦800, purchases of flour ₦2,450, sales ₦4,745, wages of bakery staff ₦675, carriage outwards ₦50, salary of administrative staff ₦22, stock on 31/3/95 was ₦940, and capital ₦1,540, calculate the cost of goods sold.",
+    "option": {
+      "a": " ₦3,925",
+      "b": " ₦3,250",
+      "c": " ₦2,985",
+      "d": "₦2,575"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "From the given information:\n\nOpening Stock (1/4/94) = ₦800\nPurchases of flour = ₦2,450\nWages of bakery staff (direct labor) = ₦675\nClosing Stock (31/3/95) = ₦940\n\nCost of Goods Sold = ₦800 + ₦2,450 + ₦675 - ₦940\nCost of Goods Sold = ₦3,925 - ₦940 = ₦2,985\nTherefore, the cost of goods sold is ₦2,985.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 774,
     "question": "In a control account, provision for bad debts is found on the",
     "option": {
@@ -8300,6 +8460,22 @@
     "image": "",
     "answer": "a",
     "solution": "Owner’s equity (total shareholders’ funds) is the sum of:\n\nPaid‑up capital: ₦200,000\n\nShare premium: ₦15,000\n\nRetained profit (Profit & Loss account): ₦60,000\n\nSo,\n\n\nOwner’s Equity = 200,000 + 15,000 + 60,000 = ₦275,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 831,
+    "question": "The prime cost is the total of the",
+    "option": {
+      "a": " direct materials+direct labour+direct wages",
+      "b": " production cost+selling expenses",
+      "c": "administrative expenses+selling expenses+distribution expenses",
+      "d": "direct materials+work overhead expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Prime cost is the sum of all direct production costs—namely the cost of materials that go into the product, the labour directly involved in making it, and any direct wages or direct expenses tied to production.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -10000,6 +10176,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1009,
+    "question": "<b>Use the information below to answer question 44 to 45.</b>\n\nTrading Account (Extract)\n\nOpening stock .......... ₦19,500\nAdd: Purchases ........ ₦68,700\nGoods available for sale .. ₦88,200\n\nSales .................. ₦96,000\nLess: Closing stock ..... ?\nCost of goods sold ..... ?\nGross profit c/d ....... ?\n\nGross profit margin = 20%\n\nDetermine the closing stock",
+    "option": {
+      "a": "₦76 800",
+      "b": "₦67 800",
+      "c": "₦14 100",
+      "d": "₦11 400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given:\n  Opening stock = ₦19,500\n  Purchases     = ₦68,700\n  Goods available = 19,500 + 68,700 = ₦88,200\n\n  Sales = ₦96,000\n  Gross profit margin = 20% of sales\n  Gross profit = 0.20 × 96,000 = ₦19,200\n\n  Cost of goods sold = Sales − Gross profit\n                     = 96,000 − 19,200\n                     = ₦76,800\n\n  Closing stock = Goods available − Cost of goods sold\n                = 88,200 − 76,800\n                = ₦11,400",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1010,
     "question": "Given:\nI. Ascertainment of the particulars of the proposed company\nII. Preparation of the incorporation documents\nIII. Filling of the documents\nIV. Registration of the company\n\nFrom the information above, the stages involved in the formation of a company are",
     "option": {
@@ -10400,6 +10592,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1043,
+    "question": "<b>Use the information below to answer questions 29 to 30</b>\n\n\nsubscription.....................₦5420\nCanopy rent......................₦400\nWages............................₦1100\nPost-ages........................₦300\nloss from bar....................₦160\nPurchases of new furniture.......₦120\nPremises.........................₦4000\nFurniture at the beginning.......₦1120\n\nWhat is the cash balance in the receipts and payments account?",
+    "option": {
+      "a": "₦2520",
+      "b": "₦2600",
+      "c": "₦3000",
+      "d": "₦140"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Receipts\n\nSubscriptions = ₦5,420\n\nCanopy rent = ₦400\nTotal receipts = ₦5,820\n\nPayments\n\nWages = ₦1,100\n\nPostages = ₦300\n\nLoss from bar = ₦160\n\nPurchase of new furniture = ₦120\n\nPremises = ₦4,000\nTotal payments = ₦5,680\n\nClosing cash balance = Total receipts − Total payments = ₦5,820 − ₦5,680 = ₦140",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1044,
     "question": "<b>Use the information below to answer questions 29 to 30</b>\n\n\nsubscription.....................₦5420\nCanopy rent......................₦400\nWages............................₦1100\nPost-ages........................₦300\nloss from bar....................₦160\nPurchases of new furniture.......₦120\nPremises.........................₦4000\nFurniture at the beginning.......₦1120\n\nDetermine the accumulated fund value?",
     "option": {
@@ -10684,6 +10892,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Find how many months the rates payment covers\n\nRates paid = ₦2,250\n\nRate per month = ₦125\n\nMonths covered = ₦2,250 ÷ ₦125 = 18 months\n\nStep 2: Determine months prepaid\nIf the accounting period is 12 months, then:\nPrepaid months = 18 − 12 = 6 months\n\nStep 3: Value of prepaid rates\nPrepaid amount = 6 months × ₦125 = ₦750",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1078,
+    "question": "<b>Use the information below to answer questions 14 and 15</b>\n\nWhat is the value of raw materials issued on May 17th based ion the LIFO method?",
+    "option": {
+      "a": "₦60",
+      "b": "₦61",
+      "c": "₦62",
+      "d": "₦64"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662538/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q14-15_u5ld3i.png",
+    "answer": "d",
+    "solution": "Working (LIFO):\nOn May 17, the latest stock available is 50 units @ ₦3.20 (from May 10).\nIssue 20 units from this latest batch: \n\n20 × ₦3.20 = ₦64.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -11920,6 +12144,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1207,
+    "question": "Control accounts help to verify the arithmetic accuracy of the postings from the?",
+    "option": {
+      "a": "subsidiary books into the trial balance",
+      "b": "ledger into the trial balance",
+      "c": " journals into the ledgers",
+      "d": "subsidiary books into the ledgers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: control accounts summarise totals from subsidiary books (like sales/purchases ledgers) and are used to check that the individual postings into the ledger agree with those subsidiary totals.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1209,
     "question": "Given:\n\nSales ............................₦195,200\nStock 1st January.................₦34,000\nPurchases ........................₦126,000\nSales returns ....................₦1,200\nPurchases returns ................₦2,000\n\nIf the gross profit is ₦66,000, what is the value of stock at 31st December?",
     "option": {
@@ -12640,6 +12880,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1280,
+    "question": "<b>Use the information below to answer questions 15 and 16</b>\nCost of raw materials consumed ₦300,600, carriage inwards ₦6,700, returns of raw materials ₦10,800, closing stock of raw materials ₦100,250, raw materials purchased during the year ₦350,000, manufacturing wages ₦27,000, and lighting, power, insurance and rent in relation to the factory are apportioned 1/3, 2/5, 1/6 and 1/7 with totals ₦30,000, ₦75,000, ₦36,000 and ₦56,000 respectively.\nThe production cost of finished goods is",
+    "option": {
+      "a": "₦ 524,600",
+      "b": "₦408,600",
+      "c": "₦381,600",
+      "d": "₦327,600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Production Cost = Raw Materials Consumed + Direct Labor + Factory Overheads\nStep 1: Raw Materials Consumed\n= ₦300,600\nStep 2: Direct Labor (Manufacturing Wages)\n= ₦27,000\nStep 3: Factory Overheads\nCalculate the factory portions of each overhead:\n\nLighting: 1/3 × ₦30,000 = ₦10,000\nPower: 2/5 × ₦75,000 = ₦30,000\nInsurance: 1/6 × ₦36,000 = ₦6,000\nRent: 1/7 × ₦56,000 = ₦8,000\n\nTotal Factory Overheads = ₦10,000 + ₦30,000 + ₦6,000 + ₦8,000 = ₦54,000\nStep 4: Calculate Total Production Cost\nProduction Cost = ₦300,600 + ₦27,000 + ₦54,000 = ₦381,600",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1281,
     "question": "Amin Ltd. Creditor Ledger Control Account (Extracts)\n\nBeginning control account\nBalance: Debit 32,000\nCredit 61,000\nPurchases during the year:\nCash 30,000\nCredit 60,000\nPayment to suppliers:\nCash 13,000\nCheque 29,000\nDebtor's contra 6,000\nThe closing control account balance is",
     "option": {
@@ -13324,6 +13580,22 @@
     "image": "",
     "answer": "d",
     "solution": "When a municipality donates land to a corporation:\n\nThe corporation receives an asset (land) without giving anything in return.\n\nThis increases total assets and simultaneously increases shareholders' equity (typically recorded under a capital surplus or donation reserve account).",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1351,
+    "question": "If a promoter pays a lawyer ₦5,000 for services rendered in preparing a Memorandum of Incorporation, the journal entry is to debit?",
+    "option": {
+      "a": "preliminary expenses, credit cash accounts",
+      "b": " promoter, credit creditors' accounts",
+      "c": "lawyer's credit cash accounts",
+      "d": " cash , credit incorporation accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a promoter pays ₦5,000 to a lawyer for preparing a Memorandum of Incorporation, it's considered a pre-incorporation expense (also called preliminary expenses), since it's incurred before the company is officially formed.",
     "examtype": "utme",
     "examyear": "1999"
   },
@@ -14588,6 +14860,22 @@
     "image": "",
     "answer": "c",
     "solution": "Invoice price = ₦2,000\n\nDiscount rate = 5%\n\nDiscount amount:\n\n\n₦2,000 × 5% = ₦100\nCash remitted to the head office:\n\nInvoice price − Discount = ₦2,000 − ₦100 = ₦1,900",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1463,
+    "question": "Public sector accounting is based on",
+    "option": {
+      "a": "cash",
+      "b": "accrual",
+      "c": "budgets",
+      "d": "consolidated fund."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Traditionally, public sector accounting is based on the cash basis, where transactions are recorded only when cash is received or paid. (Note: Some modern public sector entities are now adopting accrual basis, but cash basis is the traditional foundation.)",
     "examtype": "utme",
     "examyear": "1997"
   }
