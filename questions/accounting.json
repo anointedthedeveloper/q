@@ -3168,6 +3168,22 @@
     "examyear": "2015"
   },
   {
+    "id": 344,
+    "question": "The quality of output information depends on the",
+    "option": {
+      "a": "quality of input data",
+      "b": "time of processing",
+      "c": "speed of processing",
+      "d": "quantity of output device"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 351,
     "question": "Net turnover is referred to as",
     "option": {
@@ -3195,6 +3211,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 354,
+    "question": "Which of the following is used to record the disposal of a fixed asset?",
+    "option": {
+      "a": "Journal  Proper",
+      "b": "Petty  Cash  Book",
+      "c": "Sales Day Book",
+      "d": "Purchases Day Book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -4096,6 +4128,22 @@
     "examyear": "2007"
   },
   {
+    "id": 457,
+    "question": "Stock valuation is useful because it informs the sales department on the",
+    "option": {
+      "a": "prices of the competing goods",
+      "b": "prices that will affect profitability",
+      "c": "number of goods to produce",
+      "d": "number of goods to sell."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 458,
     "question": "Using the straight-line method, the depreciation of the asset in \tthe first year was",
     "option": {
@@ -4576,6 +4624,22 @@
     "examyear": "2009"
   },
   {
+    "id": 510,
+    "question": "The book value per share is obtained by dividing",
+    "option": {
+      "a": "shareholders equity by outstanding shares",
+      "b": "total assets by outstanding shares",
+      "c": "gross profit by outstanding shares",
+      "d": "net profit by outstanding shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 514,
     "question": "One of the reasons for the existence of the public sector is to",
     "option": {
@@ -4908,6 +4972,22 @@
     "image": "",
     "answer": "b",
     "solution": "In government account, assets are written off in their year of purchase.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 549,
+    "question": "Which of the following accounts is debited when a delivery van is sold for cash?",
+    "option": {
+      "a": "sales account",
+      "b": "delivery van account",
+      "c": " cash account",
+      "d": "profit and loss accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "if there was a Loss on sale, we Debit cash for the amount received, debit all accumulated depreciation, debit the loss on sale of asset account, and credit the fixed asset.\nif there was a Gain on sale. Debit cash for the amount received, debit all accumulated depreciation, credit the fixed asset, and credit the gain on sale of asset account.\n\nCash is received and expected to be debited going by the principles of double entry.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -6416,6 +6496,22 @@
     "examyear": "2019"
   },
   {
+    "id": 731,
+    "question": "Based on the Receipts and Payment Account extract showing: balance brought forward ₦3,650, subscription ₦7,500 less ₦2,000 equals ₦1,000, fees ₦8,500, insurance ₦900, rate ₦11,700, and balance carried down ₦8,050, with totals of ₦20,650 on both sides, and given the following additional information as at 1st January 1999 and 31st December 1999 respectively: rates owing ₦3,600 and ₦2,000, insurance prepaid ₦50 and ₦1,000, subscription in arrears ₦700 and ₦600, calculate the subscriptions in the Income and Expenditure Account.",
+    "option": {
+      "a": "₦8400",
+      "b": "₦7400",
+      "c": "₦6400",
+      "d": "₦7200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Subscriptions in Income and Expenditure Account = Cash received + Closing arrears - Opening arrears\nFrom the Receipts and Payment Account:\n\nCash received for subscriptions = ₦7,500\n\nFrom the additional information:\n\nOpening subscription in arrears (1/1/99) = ₦700\nClosing subscription in arrears (31/12/99) = ₦600\n\nCalculation:\nSubscriptions = ₦7,500 + ₦600 - ₦700 = ₦7,400\nTherefore, the subscriptions in the Income and Expenditure Account is ₦7,400.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 737,
     "question": "A fall or decrease in the economic service potential of an asset as a result of wear, tear and obsolescence is referred to as",
     "option": {
@@ -6764,6 +6860,22 @@
     "image": "",
     "answer": "b",
     "solution": "\nTrade discount (5%) reduces the list cost and isn’t separately recorded in the books:\n\n10 × ₦500 = ₦5,000 ⟹ ₦5,000 × 5% = ₦250\nNet after trade discount = ₦5,000 − ₦250 = ₦4,750.\n\nCash discount (12%) is the one actually recorded as “Discount Received”:\n\n₦4,750 × 12% = ₦570.\nHence, the company will record ₦570 as discount received.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 774,
+    "question": "In a control account, provision for bad debts is found on the",
+    "option": {
+      "a": "credit side of the sales ledger control account",
+      "b": "debit side of the purchases ledger control açcount",
+      "c": "debit side of the sales ledger control account",
+      "d": " credit side of the purchases ledger control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The provision for bad debts reduces the net amount owed by customers, so it is recorded as a credit in the Sales Ledger Control Account to offset (reduce) the balance of debtors.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -7600,6 +7712,22 @@
     "examyear": "2022"
   },
   {
+    "id": 867,
+    "question": "The fund in which all government receipt are paid is?",
+    "option": {
+      "a": "consolidated revenue fund",
+      "b": "development fund",
+      "c": "trust fund",
+      "d": "contingency fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fund in which all government receipts are paid is the consolidated revenue fund.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 868,
     "question": "Given:\n\nCapital ...........₦1000\nLiabilities........₦500\nAssets.............₦1500\nThe accounting equation can be expressed as?",
     "option": {
@@ -7980,6 +8108,22 @@
     "image": "",
     "answer": "c",
     "solution": "The methods of stock valuation are: FIFO, LIFO, Weighted Average Price Method, Simple Average Price Method, Base stock method.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 911,
+    "question": "The account where the profit are distributed to the partner in their profit sharing ratio in partnership",
+    "option": {
+      "a": "appropriation account",
+      "b": "profit and loss account",
+      "c": "balance sheet",
+      "d": "trading account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "For a partnership, the primary purpose of the appropriation account is to show how profits are distributed among the partners.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -9692,6 +9836,22 @@
     "image": "",
     "answer": "a",
     "solution": "Section 80 of the 1999 Constitution requires that all revenues or other moneys raised or received by the Federation shall be paid into and form one Consolidated Revenue Fund of the Federation",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1114,
+    "question": "The statement of assets and liabilities in the public sector can be described as the?",
+    "option": {
+      "a": "income and expenditure accountof government",
+      "b": "appropriation account of government",
+      "c": " balance sheet of government",
+      "d": "funds flow statement of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation: a statement of assets and liabilities is essentially a balance sheet, it shows what the government owns (assets) and what it owes (liabilities) at a point in time.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -12540,6 +12700,22 @@
     "image": "",
     "answer": "a",
     "solution": "Books of original entry (also called journals) are where transactions are first recorded in chronological order before being posted to the ledger accounts.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1422,
+    "question": "The term 'posting' in Accounting refers to",
+    "option": {
+      "a": "recording entries in the journal",
+      "b": "transferring the balance in the ledger to the trial balance",
+      "c": "tracing amounts from the journal to the ledger to find errors",
+      "d": " transferring entries to the ledger from the journal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "“Posting” is the process of taking each transaction that’s been initially recorded in the journal and entering it into the appropriate accounts in the general ledger. This ensures that each ledger account reflects all related transactions for accurate account balances.",
     "examtype": "utme",
     "examyear": "1997"
   },
