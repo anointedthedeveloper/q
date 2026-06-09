@@ -1152,6 +1152,22 @@
     "examyear": "2013"
   },
   {
+    "id": 86,
+    "question": "A dishonoured cheque is",
+    "option": {
+      "a": "debited in the cash book.",
+      "b": "credited in the cash book.",
+      "c": "double entry in the cash book.",
+      "d": "credited in the bank book."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 88,
     "question": "Which of the following is not a book of original entry?",
     "option": {
@@ -1307,6 +1323,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 98,
+    "question": "Which of the following is recorded on the debit side of the Trial Balance?",
+    "option": {
+      "a": "Bank overdraft",
+      "b": "Returns outwards",
+      "c": "Purchases",
+      "d": "Capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -6016,6 +6048,22 @@
     "examyear": "2007"
   },
   {
+    "id": 441,
+    "question": "Expenses paid during the conversion of a partnership to a \tcompany are",
+    "option": {
+      "a": "debited to the partners’ capital account",
+      "b": "debited to the realization account",
+      "c": "debited to the cash account.",
+      "d": "credited to the realization account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 442,
     "question": "In the trading and profit and loss account of a manufacturing organization, purchases is",
     "option": {
@@ -6526,6 +6574,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 476,
+    "question": "Which of the following branches of accounting was first developed?",
+    "option": {
+      "a": "Cost accounting",
+      "b": "Financial accounting",
+      "c": "Management accounting",
+      "d": "Petroleum accounting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
   },
   {
     "id": 477,
@@ -9264,6 +9328,22 @@
     "examyear": "2018"
   },
   {
+    "id": 669,
+    "question": "The office responsible for ascertaining whether all public expenditures and appropriations are in line with approved guidelines is the________",
+    "option": {
+      "a": "Accountant general",
+      "b": "Finance minister",
+      "c": "Auditor general",
+      "d": "Permanent secretory."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Appropriation is the amount that government reserves for a particular purpose. Public expenditure is the spending made by government of a country on collective needs",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 671,
     "question": "A Trading account for the year ended 31st December 2009 shows the following information:\nOpening Stock: ₦32,000\nPurchases: ₦40,000\nCarriage inwards: ₦1,000\nLess Returns: ₦2,000\nSales: ₦48,000\nLess Returns: ₦2,000\nClosing Stock: ₦9,000\nCalculate:\n\nWhat is the cost of goods sold?",
     "option": {
@@ -9948,6 +10028,22 @@
     "image": "",
     "answer": "a",
     "solution": "Retained profit is part of the part of the profits of an organization not distributed as dividends but ploughed back into the business for expansion.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 730,
+    "question": "Ojo, Sam and Ade are in partnership sharing profit in the ratio 4:3:1 respectively. From their books for the year ended, interest on drawings and capital is allowed at 5% respectively, and profit for the year amounted to ₦4,950. Given that Ojo has capital of ₦5,000, Sam has capital of ₦4,000, and Ade has capital of ₦6,000, what is the interest on capital for Ade?",
+    "option": {
+      "a": "₦250",
+      "b": "₦200",
+      "c": "₦300",
+      "d": "₦400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Interest on Capital for Ade = Capital Balance × Interest Rate\nInterest on Capital for Ade = ₦6,000 × 5% = ₦300",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -11068,6 +11164,22 @@
     "image": "",
     "answer": "b",
     "solution": "Carriage outwards (distribution or delivery expense) varies directly with sales activity and is therefore apportioned to departments based on their relative turnover. Carriage inwards relates to purchases, while discount received and returns outwards aren’t selling‐related expenses.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 812,
+    "question": "During the year, the business had an opening debtors balance of ₦25,000. Cheques totalling ₦255,000 were received from debtors, and the closing debtors balance was ₦15,000. What was the total credit sales for the year?",
+    "option": {
+      "a": " ₦245,000",
+      "b": "₦215,000",
+      "c": ". ₦295,000",
+      "d": " ₦265,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using the debtors control account formula:\nSales = Receipts from debtors + Closing debtors – Opening debtors\nSales = ₦255,000 + ₦15,000 – ₦25,000 = ₦245,000.",
     "examtype": "utme",
     "examyear": "2021"
   },
