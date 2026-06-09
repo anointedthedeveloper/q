@@ -1,5 +1,21 @@
 [
   {
+    "id": 12,
+    "question": "Expand the expression (x2-2x-3)(x2+x+1).  ",
+    "option": {
+      "a": "x4-4x2-5x-3  ",
+      "b": "–x3-4x2+5x-3",
+      "c": "x4-x3-4x2-5x-3  ",
+      "d": "x4-4x2-5x -3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 28,
     "question": "The smallest section of a rod which can be cut 36cm in length is",
     "option": {
@@ -80,6 +96,22 @@
     "examyear": "2000"
   },
   {
+    "id": 101,
+    "question": "\nIf the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation.",
+    "option": {
+      "a": "0",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mean = {0 + (x+2) + (3x+6) + (4x+8)}/4 = 4\n=> 0 + (x+2) + (3x+6) + (4x+8) = 16\n8x + 16 = 16\nx = 0\nNow prepare a table showing the deviation of each of 0, (x+2), (3x+6) and (4x+8), adding the deviations will give 12.\nThus M.D = 12/4 = 3\n",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 108,
     "question": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)? ",
     "option": {
@@ -110,6 +142,22 @@
     "solution": "The locus of X is the perpendicular bisector of PQ",
     "examtype": "utme",
     "examyear": "2000"
+  },
+  {
+    "id": 131,
+    "question": "Find the integral values of x and y satisfying the inequality 3y + 5x( less than equal to)\n 15, given that y > 0, y < 3 and x > 0.",
+    "option": {
+      "a": "(1,1), (1,2), (1,3)",
+      "b": "(1,1), (2,1), (1,3)",
+      "c": "(1,1), (3,1), (2,2)",
+      "d": "(1,1), (1,2), (2,1)\n"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>&#x2264;</mo>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "Hint: Sketch the inequality graph for the 3 conditions given and read out your points from the co-ordinates.",
+    "examtype": "utme",
+    "examyear": "2001"
   },
   {
     "id": 141,
@@ -240,6 +288,22 @@
     "examyear": "2002"
   },
   {
+    "id": 216,
+    "question": "In the diagram above, a cylinder is summounted by a hemisphere bowl. Calculate the volume of the solid.",
+    "option": {
+      "a": "180 πcm<sup>3</sup>",
+      "b": "162 πcm<sup>3</sup>",
+      "c": "216 πcm<sup>3</sup>",
+      "d": "198 πcm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698127/ALOC-Questions/Mathematics/2002/math_2000_q45_lfrxg3.jpg",
+    "answer": "d",
+    "solution": "Volume of cylinder = πr<sup>2</sup>h\n= π x 3<sup>2</sup> x 20\n= π x 9 x 20\n= 180 πcm<sup>3</sup>\nVolume of hemisphere = 2/3πr<sup>3</sup>\n= 2/3 x π x 3<sup>2</sup>\n= 2 x π x 3<sup>2</sup>\n= 2 x π x 9\n= 18π\n= Volume of the solid = 180π x 18π\n= 198πcm<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 250,
     "question": "Triangle OPQ is the solution of the inequalities",
     "option": {
@@ -316,6 +380,38 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702037/ALOC-Questions/Mathematics/2005/math_2005_q15_h5gfn6.jpg",
     "answer": "c",
     "solution": "The graph of the function f(x) is a curve that starts at (-2,0) and ends at (2,0) with a peak at (0,1). The range of values of x for which f(x) ≥ 0 is the interval where the graph of the function is above or touches the x-axis. From the given graph, we can see that this interval is [-2, 2]. Therefore, the correct answer is -2 ≤ x ≤ 0, x ≥ 2",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 343,
+    "question": "In the diagram above, O is the center of the circle,\n\n∠UOT = 70° and ∠RST = 100°. Calculate ∠RUO.",
+    "option": {
+      "a": "20°",
+      "b": "25°",
+      "c": "50°",
+      "d": "80°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702214/ALOC-Questions/Mathematics/2005/math_2005_q22_oa6al3.jpg",
+    "answer": "b",
+    "solution": "∠OUT = ∠OTU = a (Base ∠s of 180 Δ)\n∴ a + a + 70 = 180° (sum of ∠s of a Δ)\n2a = 180° - 70°\n2a = 110°\na = 55°\nBut ∠RUT + ∠RBT = 180° (opposite ∠s of a Cyclic quad)\n∴ x + a = 100 = 180\nx + 55 + 100 = 180\nx = 180 - 155\nx = 25\nso ∠RUO = x = 25°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 359,
+    "question": "The model height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r respectively. Find m+2r.",
+    "option": {
+      "a": "1.35",
+      "b": "1.65",
+      "c": "1.95",
+      "d": "3.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20\nModal height = 1.35\nRange (r) = 1.50 - 1.20\n= 0.30\n∴m + 2r = 1.35 + 2(0.30)\n= 1.35 + 0.60\n= 1.95",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -430,6 +526,38 @@
     "solution": "If the point of intersection is (1, -2), it implies that x = 1 and y = -2 when the two equation are solved simultaneously.\n∴ substitute x = 1 and y = -2 in any of the equations\n2y - k x + 2 = 0\n2(-2) - k(1) + 2 = 0\n-4 - k + 2 = 0\n-4 + 2 = k\n-2 = k",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 471,
+    "question": "Calculate the length of an arc of a circle diameter 14 cm, which subtends an angle of 90°\n at the center of the circle",
+    "option": {
+      "a": "7π/2 cm",
+      "b": "7π cm",
+      "c": "14π cm",
+      "d": "7π/4 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 486,
+    "question": "If x - 3 is directly proportional to the square of y and x = 5 when y =2, find x when y = 6.",
+    "option": {
+      "a": "30",
+      "b": "21",
+      "c": "16",
+      "d": "12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(x – 3) ∝ y<sup>2</sup>\nX-3 = Ky<sup>2</sup>\nK = X-3 / y<sup>2</sup>\n= 5-2/2<sup>2</sup>\n= 2/4\n= 1/2\n∴X-3 = 1/2y<sup>2</sup>\nX-3 = 1/2 (6)<sup>2</sup>\nX-3 = 1/2 x 36/1\nX-3 = 18\nX = 21",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 503,
@@ -590,6 +718,38 @@
     "solution": "x(x - 1) > 0\n\nx < -1 or x > 1",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 628,
+    "question": "Rationalize 2−√5/3−√5",
+    "option": {
+      "a": "1−√5/2",
+      "b": "1−√5/4",
+      "c": "√5−1/2",
+      "d": "1+√5/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2−√5/3−√5 x 3+√5/3+√5 ((2-√5)(3+√5))/((3-√5)(3+√5)) = (6+2√5-3√5-√2 5)/(9+3√5-3√5-√2 5) = (6-√5-5)/(9-5) = (1-√5)/4",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 659,
+    "question": " From the table above, find the median and range of the data respectively.",
+    "option": {
+      "a": "(8,5)",
+      "b": "(3, 5)",
+      "c": "(5 , 8)",
+      "d": " (5 , 3)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>N</mi>\n        <mi>o</mi>\n      </mtd>\n      <mtd>\n        <mn>0</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mi>F</mi>\n        <mi>r</mi>\n        <mi>e</mi>\n        <mi>q</mi>\n        <mi>u</mi>\n        <mi>e</mi>\n        <mi>n</mi>\n        <mi>c</mi>\n        <mi>y</mi>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>8</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129770/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q38_a2z1n7.jpg",
+    "answer": "b",
+    "solution": "Median = ∑fx/∑f \n \n\n∑fx = 0 + 4 + 6 + 24 + 8 + 25 = 67\n\n∑f = 23\n\nMedian = ∑fx/∑f = 67/23 =2.913\n\n= ≈ 3\n\nRange = 5 - 0 = 5\n\n(3, 5)",
+    "examtype": "utme",
+    "examyear": "2011"
   },
   {
     "id": 745,
@@ -832,6 +992,22 @@
     "examyear": "2018"
   },
   {
+    "id": 947,
+    "question": "Find the equation of the line through (5,7) parallel to the line 7x + 5y = 12 ",
+    "option": {
+      "a": "5x + 7y = 20",
+      "b": " 7x + 5y = 70",
+      "c": " xy = 7",
+      "d": "15x + 17y = 90"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 952,
     "question": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/",
     "option": {
@@ -860,6 +1036,22 @@
     "image": "",
     "answer": "b",
     "solution": "Locus is the path traced at by a point which moves in accordance with a certain law. It is also the set of all possible position occupied by an object The path traced from all possible location of 4cm from a given point P form a circle of radius 4cm with centre P.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 965,
+    "question": "Convert 0.04945 to two significant figures",
+    "option": {
+      "a": "0.040",
+      "b": "0.049",
+      "c": "0.050",
+      "d": "0.49"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "0.04945 to 2s.f is 0.049",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -908,6 +1100,22 @@
     "image": "",
     "answer": "c",
     "solution": "∫<sub>(-1)</sub><sup>2</sup>(2x<sup>2</sup> + x)dx = [(2x<sup>(2+1)</sup>)/3+x<sup>(1+1)</sup>/2 ]<sub>(-1)</sub><sup>2</sup> = [(2x<sup>3</sup>)/3 + x<sup>2</sup>/2 ]<sub>(-1)</sub><sup>2</sup> = ((2(2)<sup>3</sup> )/3+2<sup>2</sup> 2 ) -((2(-1)<sup>3</sup> )/3+((-1)+M31<sup>2</sup> )/2) = (16/3+2)-((-2)/3+1/2) = 22/3-(-1/6) = 22/3 + 1/6 = 7(1/2)",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1002,
+    "question": "Find the value of ((0.5436)<sup>3</sup>)/(0.017×0.219) to 3 significant figures.",
+    "option": {
+      "a": "46.2",
+      "b": "43.1",
+      "c": "534",
+      "d": "431"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "= 0.16063/0.017 × 0.219\n= 43.1 (to 3 s.f)",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -972,6 +1180,22 @@
     "image": "",
     "answer": "b",
     "solution": "sample space = 16\n\nsum of nos. removed are (2), 3, (4), 5\n\n3, (4), 5, (6)\n\n(4), 5, (6), 7\n\n(5), 6, 7, (8)\n\nEven nos. = 8 of them\n\nPr(even sum) = 8/16\n\n\n= 1/2",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1085,
+    "question": "A car travels from calabar to Enugu, a distance of P km with an average speed of U km per hour and continues to benin, a distance of Q km, with an average speed of Wkm per hour. Find its average speed from Calabar to Benin",
+    "option": {
+      "a": "(p+q)/(pw + qu)",
+      "b": "(uw(p+q))/(pw + qu)",
+      "c": "uw(p+q)/pw",
+      "d": "uwpw+qu"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Average speed = totalDistance/TotalTime\n\n\nfrom Calabar to Enugu in time t1, hence\n\nt1 = P/U\nAlso from Enugu to Benin\n\nt2 = q/w\n\n\nAv. speed = (p + q)/(t1 + t2)\n\n\n= (p + q)/((p/u) + (q/w))\n\n\n= p + q x (uw)/(pw + qu)\n\n\n= (uw(p+q))/(pw + qu)",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -1148,6 +1372,22 @@
     "image": "",
     "answer": "d",
     "solution": "n(X ∪ Y) = n(X) + n(Y) − n(X ∩ Y)\n\n= 15 + 12 − 7\n\n∴ n(X ∪ Y) = 20",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1262,
+    "question": "Find x if 132<sub>x</sub>  = 70 <sub>eight</sub> .",
+    "option": {
+      "a": "5",
+      "b": "3",
+      "c": "6",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "132<sub>x</sub> = 70<sub>8</sub>\n\n1 × x<sup>2</sup> + 3 × x<sup>1</sup> + 2 × x<sup>0</sup> \n\n\n7 × 8<sup>1</sup> + 0 ×8<sup>0</sup> \n\n\nx<sup>2</sup> +3x + 2 −56 = 0\n\n\nx<sup>2</sup> + 3x −54 = 0\n\n\nx(x + 9) −6(x + 9) = 0\n\n(x + 9)(x − 6) = 0\n\nEither (x + 9) = 0 or (x − 6) = 0\n\nx = − 9 or +6\n\nThe positive values for x = 6\n\nThe base number for 132<sub>x</sub>  = 132<sub>6</sub> ",
     "examtype": "utme",
     "examyear": "2015"
   },
