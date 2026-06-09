@@ -912,6 +912,22 @@
     "examyear": "2004"
   },
   {
+    "id": 58,
+    "question": "The type of reproduction that is common to both Hydra and yeast is",
+    "option": {
+      "a": "conjugation",
+      "b": "binary fission",
+      "c": "grafting  ",
+      "d": "Budding"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 59,
     "question": "The eggs of birds contain relatively larger quantities of yolk than those of amphibians and reptiles because",
     "option": {
@@ -4971,6 +4987,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 316,
+    "question": "I. Test tube containing cane sugar and water  II. Test tube containing cane sugar and dilute acid  III Test tube containing cane sugar and its degrading enzyme \nThe enzyme involved in the hydrolysis is\n",
+    "option": {
+      "a": "erepsin  ",
+      "b": "perilymph   ",
+      "c": "maltase  ",
+      "d": "rennin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 317,
+    "question": "The part of the mammalian ear responsible for the maintenance of balance is the ",
+    "option": {
+      "a": "pinna   ",
+      "b": " perilymph  ",
+      "c": " Ossicles   ",
+      "d": " cochlea"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
