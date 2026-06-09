@@ -576,6 +576,22 @@
     "examyear": "2002"
   },
   {
+    "id": 61,
+    "question": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in a vessel with a total pressure of 0.7 atmosphere. What is the partial pressure of oxygen in the mixture",
+    "option": {
+      "a": "0.55 atmosphere",
+      "b": "0.44 atmosphere",
+      "c": "0.33 atmosphere",
+      "d": "0.22 atmosphere"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 62,
     "question": "The processes which return carbon(IV) oxide to the atmosphere include",
     "option": {
@@ -1680,6 +1696,22 @@
     "examyear": "2005"
   },
   {
+    "id": 183,
+    "question": "What is the valence shell electron configuration of the element with atomic number 17",
+    "option": {
+      "a": "1s22s22p63s23p5",
+      "b": "1s22s22p63s23p4",
+      "c": "3s23p5",
+      "d": "2s22p6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 184,
     "question": "A heterogeneous mixture can be defined as any mixture",
     "option": {
@@ -2544,6 +2576,22 @@
     "examyear": "2010"
   },
   {
+    "id": 272,
+    "question": "Substances employed as drying agents are usually",
+    "option": {
+      "a": "Hygroscopic",
+      "b": "Efflorescent",
+      "c": "Acidic",
+      "d": "Amphoteric"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 273,
     "question": "Calculate the solubility in mol dm -3 of 40g of Cu So4 dissolved in 100g of water at 1200C  {Cu = 64, S = 32, 0 = 16}",
     "option": {
@@ -2683,6 +2731,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 287,
+    "question": "2H2(g) +    O2(g)  ⇌ 2H2O(g)    ΔH   =  - ve  What happens to the equilibrium constant of the reaction above if the temperature is increased?",
+    "option": {
+      "a": "It becomes zero",
+      "b": "It decreases",
+      "c": "It increases",
+      "d": "It is unaffected"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -2892,6 +2956,22 @@
     "image": "",
     "answer": "c",
     "solution": "Dilute sulfuric acid (H₂SO₄) is used in the electrolysis of water because it's non-volatile, chemically stable, and provides ions for conductivity without interfering with the water decomposition reaction (2H₂O → 2H₂ + O₂).",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 314,
+    "question": "Atomicity of ozone is",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The atomicity of ozone is 3 because each ozone molecule contains three oxygen atoms (O₃).",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3872,6 +3952,22 @@
     "examyear": "2017"
   },
   {
+    "id": 425,
+    "question": "²²⁶₈₈Ra → ˣ₈₆Rn + alpha particle. What is the value of x?",
+    "option": {
+      "a": "226",
+      "b": "220",
+      "c": "227",
+      "d": "222"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In alpha decay, the mass number decreases by 4 and the atomic number decreases by 2. Mass number of Rn = 226 - 4 = 222. Atomic number of Rn = 88 - 2 = 86. Therefore x = 222, giving ²²²₈₆Rn.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 426,
     "question": "The shape of ammonia molecules is",
     "option": {
@@ -4204,6 +4300,22 @@
     "image": "",
     "answer": "a",
     "solution": "In [Cu(NH₃)₄]²⁺ (tetraamminecopper II complex), the four NH₃ ligands donate lone pairs of electrons to the Cu²⁺ ion to form dative (coordinate) bonds. Both electrons in each bond come from the nitrogen atom of NH₃. This type of bonding — where one atom provides both electrons — is called coordinate (dative covalent) bonding.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 461,
+    "question": "Which of the following is an example of a chemical change?",
+    "option": {
+      "a": "dissolution of salt in water",
+      "b": "rusting of iron",
+      "c": "melting of ice",
+      "d": "separating a mixture by distillation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Rusting of iron is a chemical change because a new substance (iron III oxide, Fe₂O₃·XH₂O) with different properties is formed and the process is irreversible. Dissolution of salt, melting of ice, and distillation are all physical changes — no new substances are formed and the changes are reversible.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5488,6 +5600,22 @@
     "examyear": "2021"
   },
   {
+    "id": 613,
+    "question": "The mass number of a nucleus is?",
+    "option": {
+      "a": "Always less than its atomic number",
+      "b": "The sum of the number of protons and neutrons present in the nucleus",
+      "c": "Always more than the atomic weight",
+      "d": "A fraction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The mass number (A) of an atom is defined as the total number of nucleons (protons and neutrons) in the nucleus. Mass number = number of protons + number of neutrons. It is always a whole number. The atomic number is only the number of protons, and the atomic weight is an average that may be a decimal due to isotopes.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 615,
     "question": "220g of carbon dioxide contains how many moles?",
     "option": {
@@ -5580,6 +5708,22 @@
     "image": "",
     "answer": "d",
     "solution": "Copper has well-established antibacterial (oligodynamic) properties. Copper ions are toxic to bacteria and disrupt their cell membranes and enzyme systems, killing them on contact. This property is used in copper plumbing, hospital surfaces, and medical devices to reduce bacterial contamination. Iron, sodium, and aluminium do not possess significant antibacterial properties.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 625,
+    "question": "A chemical process in which there is a gain of electrons is known as?",
+    "option": {
+      "a": "Sublimation",
+      "b": "Reduction",
+      "c": "Oxidation",
+      "d": "Distillation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Reduction is the chemical process in which an atom, ion, or molecule gains electrons. This results in a decrease in oxidation number. The mnemonic OIL RIG (Oxidation Is Loss, Reduction Is Gain) summarises this: oxidation involves loss of electrons while reduction involves gain of electrons.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -6108,6 +6252,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777639629/ALOC-Questions/Chemistry/UTME/2022/Chemistry_2022_Q39_dvzam2.png",
     "answer": "a",
     "solution": "On earth: N₂ ≈ 78%, O₂ ≈ 21%, CO₂ ≈ 0.04%. On planet X: CO₂ = 4%, N₂ = 72%, O₂ = 24%. Comparing each gas: CO₂ on planet X (4%) is far higher than on earth (0.04%). O₂ on planet X (24%) is higher than on earth (21%). N₂ on earth (78%) is higher than on planet X (72%). The gases present in higher percentages on planet X compared to earth are CO₂ and O₂.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 674,
+    "question": "Hard water is water with high concentrations of dissolved ions, in particular calcium and?",
+    "option": {
+      "a": "magnesium ions",
+      "b": "nitrogen ions",
+      "c": "phosphorus ions",
+      "d": "helium ions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Hard water contains high concentrations of dissolved calcium (Ca²⁺) and magnesium (Mg²⁺) ions. These ions come from the dissolution of limestone and dolomite rocks as water passes through them. Hard water reduces the lathering ability of soap and forms scale in pipes and boilers. Nitrogen, phosphorus, and helium ions do not cause water hardness.",
     "examtype": "utme",
     "examyear": "2022"
   },
