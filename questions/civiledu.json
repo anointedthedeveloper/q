@@ -864,6 +864,22 @@
     "examyear": "2014"
   },
   {
+    "id": 59,
+    "question": "The symbol for the campaign against AIDs is Ribbon",
+    "option": {
+      "a": "black",
+      "b": "blue",
+      "c": "green",
+      "d": "red"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 60,
     "question": "ln 2013, Nigeria celebrated her ______ independence anniversary",
     "option": {
@@ -2843,6 +2859,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
+    "id": 192,
+    "question": "Colonization of Africa was mainly motivated by",
+    "option": {
+      "a": "security consideration",
+      "b": "economic reasons",
+      "c": "religious reasons",
+      "d": "cultural factor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2012"
@@ -5739,6 +5771,22 @@
     "section": "Oh Motherland, you were a precious country, a beacon of hope and aspiration as well as toga of pride of your citizens at independence. However, today you are bedeviled with evil, engulfed in darkness and to say the obvious, at the edge of total moral collapse. Corruption, fraud, deception and dishonesty are prevalent; drug peddlers are having a field day. In schools and colleges, radicalism, prostitution, cultism, examination malpractice among other social vices are order of the day.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
+    "id": 382,
+    "question": "The most important contribution of responsible parenthood to national development is that it",
+    "option": {
+      "a": "increases youthful population",
+      "b": "fosters national integration",
+      "c": "augments the nation workforce",
+      "d": "breeds dependable citizenry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2016"
