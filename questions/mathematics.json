@@ -912,6 +912,22 @@
     "examyear": "2013"
   },
   {
+    "id": 70,
+    "question": "Solve the equation  = 25x+4 ",
+    "option": {
+      "a": "-4, 2 ",
+      "b": " -4,-2 ",
+      "c": "4, -2",
+      "d": "4, 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 71,
     "question": "What is the coordinate of centre of the circle X2+y2+2x-4y =10?  ",
     "option": {
