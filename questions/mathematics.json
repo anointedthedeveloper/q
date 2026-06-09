@@ -6896,6 +6896,22 @@
     "examyear": "2008"
   },
   {
+    "id": 478,
+    "question": "simplify 〖16〗<sup>((-1)/2)</sup> × 4<sup>((-1)/2)</sup>×〖27〗<sup>(1/3)</sup>",
+    "option": {
+      "a": "3/8",
+      "b": "2/3",
+      "c": "3/4",
+      "d": "3/2"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mn>16</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mrow>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mrow>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mo>&#x00D7;<!-- × --></mo>\n  <msup>\n    <mn>4</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mrow>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mrow>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mo>&#x00D7;<!-- × --></mo>\n  <msup>\n    <mn>27</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mn>1</mn>\n        <mn>3</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mn>1</mn>\n    <msup>\n      <mn>16</mn>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mfrac>\n          <mn>1</mn>\n          <mn>2</mn>\n        </mfrac>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>1</mn>\n    <msup>\n      <mn>4</mn>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mfrac>\n          <mn>1</mn>\n          <mn>2</mn>\n        </mfrac>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <msup>\n    <mn>27</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mn>1</mn>\n        <mn>3</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mn>1</mn>\n    <msqrt>\n      <mn>16</mn>\n    </msqrt>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>1</mn>\n    <msqrt>\n      <mn>4</mn>\n    </msqrt>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mi>s</mi>\n  <mi>q</mi>\n  <mi>r</mi>\n  <mi>t</mi>\n  <mo stretchy=\"false\">[</mo>\n  <mn>3</mn>\n  <mo stretchy=\"false\">]</mo>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mn>27</mn>\n  </mrow>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>4</mn>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>3</mn>\n    <mn>1</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mn>3</mn>\n    <mn>8</mn>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "16<sup>(-1/2)</sup> × 4<sup>(-1/2)</sup> ×27<sup>(1/3)</sup>=1/16<sup>(1/2)</sup> × 1/4<sup>(1/2)</sup>) × 27 <sup>(1/3)</sup>=1/√16×1/√4 × sqrt[3]27 = 1/4 × 1/2 × 3/1 = 3/8",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 479,
     "question": "〖log〗<sub>(x<sup>1/2</sup>)</sub><sup>64</sup> = 3,  find the value of x",
     "option": {
@@ -12688,6 +12704,22 @@
     "examyear": "2018"
   },
   {
+    "id": 928,
+    "question": "Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm",
+    "option": {
+      "a": "1920cm<sup>2</sup>",
+      "b": "592cm<sup>2</sup>",
+      "c": "296cm<sup>2</sup>",
+      "d": "148cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Total surface area of a cupboard is given by the equation A = 2(lb + bh + lh) L = 12, b = 10, h = 8\n\n  A = 2((12 x 10) + (10 x 8) + (12 x 8))\n\n  A = 2(120 + 80 + 96)\n\n  A = 2 x 296\n\nA = 592cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 930,
     "question": "The probabilities that John and James pass an examination are 3/4 and 3/5 respectively. Find the probability of both boys failing the examination.",
     "option": {
@@ -13116,6 +13148,22 @@
     "image": "",
     "answer": "d",
     "solution": "log<sub>2</sub> 8 – log<sub>3</sub> 1/9\n  = log<sub>2</sub> 2<sup>3</sup> – log<sub>3</sub> 9<sup>−1</sup>\n= log<sub>2</sub>2<sup>3</sup>\n – log<sub>3</sub> 3<sup>−2</sup>\n  Based on law of logarithm\n\n  = 3 log<sub>2</sub> 2 – (-2 log<sub>3</sub> 3)\n\n  Butlog<sub>2</sub> 2 = 1,\n\nlog<sub>3</sub> 3= 1\n\n  So, = 3 + 2\n\n  = 5",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 958,
+    "question": "Tanθ is positive and Sinθ is negative. In which quadrant does θ lies",
+    "option": {
+      "a": "Second only",
+      "b": "Third only",
+      "c": "Fourth only",
+      "d": "First and third only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "  First quadrant: Sin, Cos and Tan are all positive\n\n  Second quadrant: Sin is positive, Cos is negative and Tan is negative\n\n  Third quadrant: Tan is positive, Sin is negative and Cos is negative\n\n  Fourth quadrant: Cos is positive, Sin is negative and Tan is negative\n\n  The correct option is the third quadrant only where Tanθ is positive and Sinθ is negative",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -15232,6 +15280,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1098,
+    "question": "Solve for k in the equation 1/8<sup>k+2</sup>\n = 1",
+    "option": {
+      "a": " 2",
+      "b": " -4",
+      "c": "-2",
+      "d": " 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(8<sup>−1</sup>)<sup>k+2</sup>\n = (8<sup>0</sup>)\nbase 8 cancel out on both sides\n\n-1(k+2) = 0\n\n-k -2 = 0\n\n: k = -2",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1099,
     "question": "Evaluate (101<sub>two</sub>)<sup>3</sup>",
     "option": {
@@ -16860,6 +16924,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206533/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q23_zwoj2v.jpg",
     "answer": "d",
     "solution": "= 0(28 - 40) - 3(4 - 0) + 2(5 - 0)\n\n= 0(-12) - 3(4) + 2(5)\n\n= 0 - 12 + 10\n\n= -2",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1209,
+    "question": "How many sides has a regular polygon whose interior angle is 135°?",
+    "option": {
+      "a": "12",
+      "b": "10",
+      "c": "9",
+      "d": "8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "If each interior angle of the polygon is 135°, then each exterior angle is 180° - 135° = 45°.\n\nHence, number of sides =\n\n360°/one exterior angle\n\n\n360°/45°\n\n\n= 8",
     "examtype": "utme",
     "examyear": "2014"
   },
