@@ -1824,6 +1824,22 @@
     "examyear": "2011"
   },
   {
+    "id": 149,
+    "question": "Which of the following does not described a party system? ",
+    "option": {
+      "a": "one dominant party system  ",
+      "b": "two party system  ",
+      "c": "three party system  ",
+      "d": "multi-party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 150,
     "question": "Laws made by local governments are called  ",
     "option": {
@@ -6576,6 +6592,22 @@
     "examyear": "2013"
   },
   {
+    "id": 555,
+    "question": "The necessary attributes of a state are",
+    "option": {
+      "a": "resources, population, sovereignty and government",
+      "b": "sovereignty, police, army and immigration",
+      "c": "definite territory, population, sovereignty and government",
+      "d": "police, army, sovereignty custom."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 556,
     "question": "The process of taking part in political and public affairs can be termed political",
     "option": {
@@ -6864,6 +6896,22 @@
     "examyear": "2014"
   },
   {
+    "id": 576,
+    "question": "The General Strike of 1945 was caused primarily by the",
+    "option": {
+      "a": "harshness in trade laws as it concerns the Africans",
+      "b": "government’s rejection of a demand for an increase of 50 percent in the cost of living allowance",
+      "c": "persistent implementation of discriminatory laws",
+      "d": "disparity in the criteria for employment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 577,
     "question": "Before 1945, the component units of Nigeria were",
     "option": {
@@ -7099,6 +7147,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 596,
+    "question": "The granting of asylum to Charles Taylor by Nigeria was to",
+    "option": {
+      "a": "protect Nigerians in Liberia",
+      "b": "promote peace in Liberia",
+      "c": "defy the western powers",
+      "d": "Control Liberia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -9852,6 +9916,22 @@
     "image": "",
     "answer": "d",
     "solution": "The second reading is where debate, argumentation, negotiation, and deliberation on the subject matter of a bill begin. At this stage:\n\nLawmakers discuss the general principles of the bill.\nThey debate its merits and implications before deciding whether it should progress to the next stage.\nIf the bill passes the second reading, it moves to the committee stage for detailed examination.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 834,
+    "question": "A vote of no confidence means______",
+    "option": {
+      "a": "the same as impeachment in a presidential system",
+      "b": " the ability of the head of state to dissolve the parliament when collective responsibility fails to hold",
+      "c": "the act of showing disapproval to the prime minister having breached the collective responsibility doctrine",
+      "d": " the disapproval with dismissal in effect, the ministers and its head"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A vote of no confidence is a formal motion passed by the legislature (parliament) to indicate that the government (headed by the Prime Minister) no longer has the support of the majority. When passed:\n\nThe Prime Minister and the entire cabinet must resign.\nIt usually leads to the formation of a new government or a call for fresh elections.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -14480,6 +14560,38 @@
     "examyear": "2003"
   },
   {
+    "id": 1224,
+    "question": "Financial allocations to local governments by the federal or the state government to supplement the cost of a project is called",
+    "option": {
+      "a": "revenue allocation",
+      "b": "reimbursement",
+      "c": "statutory allocation",
+      "d": "matching grant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Financial allocations to local government by the federal or the state governments to supplement the cost of a project is called matching grants.\n\nLocal governments in turn give matching grants to communities or institutions for completion of certain projects such as schools.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1225,
+    "question": "A problem of Nigeria federalism that was resolved by the supreme court between the federal government and littoral states centered on resource",
+    "option": {
+      "a": "maximization",
+      "b": "generation",
+      "c": "derivation",
+      "d": "control"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A problem of Nigeria federalism that was resolved by the supreme court between the federal government and littoral states centered on resource control",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1226,
     "question": "The military Head of State during the Third Republic was",
     "option": {
@@ -15084,6 +15196,22 @@
     "image": "",
     "answer": "c",
     "solution": "The law of libel limits a citizen's right to freedom of expression.\n\nOthers are the laws of slander and sedition",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1274,
+    "question": "The fundamental assumption on which the idea of the rule of law is based is",
+    "option": {
+      "a": " supremacy of the constitution",
+      "b": "rationality of human beings",
+      "c": " equality of human beings",
+      "d": " love for social justice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fundamental assumption on which the idea of rule of law is based on the supremacy of the constitution",
     "examtype": "utme",
     "examyear": "2004"
   },
