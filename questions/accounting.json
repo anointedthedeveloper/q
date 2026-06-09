@@ -5568,6 +5568,22 @@
     "examyear": "2004"
   },
   {
+    "id": 404,
+    "question": "At the year end, the purchases ledger showed a debit balance of N 108. The total on the debit side of the purchases ledger control account will be",
+    "option": {
+      "a": "N 22,966",
+      "b": "N 22,156",
+      "c": "N 21,834",
+      "d": "N 21,054"
+    },
+    "section": "Opening balance [N 10,640 ]; Purchases [N 26,912 ]; Returns inwards [N 492 ]; Returns outwards [N 810 ]; Cash discount received [N 1,348 ]; Cash discount allowed [N 1,560 ]; Cash paid to suppliers [N 20,808 ] ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 405,
     "question": "The balancing figure in the purchases ledger control account is",
     "option": {
@@ -9504,6 +9520,22 @@
     "examyear": "2018"
   },
   {
+    "id": 680,
+    "question": "Why are adjustments in the profit and loss account necessary?",
+    "option": {
+      "a": "To cover some expenses of the following year",
+      "b": "To show the provisions made during the year",
+      "c": "To show the total expenses paid and income received during the year",
+      "d": "To ascertain the actual expenses incurred and income earned during the year"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Fundamental principle of preparing P&L account is that expenses and income relating to only the trading period are taken to the trading profit and loss account.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 681,
     "question": "Which of the following is not a type of branch?",
     "option": {
@@ -11616,6 +11648,22 @@
     "examyear": "2021"
   },
   {
+    "id": 842,
+    "question": "Lankoh Company Ltd has the following financial information: Stock valued at ₦3,600,000, Cash at hand of ₦800,000, Cash in bank amounting to ₦2,400,000, Debtors of ₦580,000, Trade creditors of ₦920,000, Bank overdraft of ₦200,000, Tax liabilities of ₦600,000, and Salary owed to staff of ₦180,000. What is the working capital?",
+    "option": {
+      "a": "₦5,480,000",
+      "b": "₦6,480,000",
+      "c": "₦8,480,000",
+      "d": "₦7,380,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Working capital is calculated as Current Assets minus Current Liabilities.\nCurrent Assets:\n\nStock: ₦3,600,000\nCash at hand: ₦800,000\nCash in bank: ₦2,400,000\nDebtors: ₦580,000\nTotal Current Assets = ₦7,380,000\n\nCurrent Liabilities:\n\nTrade creditors: ₦920,000\nBank overdraft: ₦200,000\nTax liabilities: ₦600,000\nSalary owed to staff: ₦180,000\nTotal Current Liabilities = ₦1,900,000\n\nWorking Capital = ₦7,380,000 - ₦1,900,000 = ₦5,480,000\nThe working capital of Lankoh Company Ltd is ₦5,480,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 843,
     "question": "Which of the following should not be adjusted for in the profit and loss account?",
     "option": {
@@ -12988,6 +13036,22 @@
     "image": "",
     "answer": "b",
     "solution": "A trial balance is a worksheet that summarizes the ending balances of all ledger accounts after a specific accounting period. It lists each account title and its corresponding debit or credit balance.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 948,
+    "question": "The net worth of a business is the",
+    "option": {
+      "a": " bank loan",
+      "b": "capital",
+      "c": "asset",
+      "d": "debenture"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The net worth of a business represents the value that belongs to the owner(s) after all debts and liabilities have been settled. This is calculated as:\nNet Worth = Total Assets - Total Liabilities\nThis net worth represents the capital or owner's equity in the business.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -14672,6 +14736,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1076,
+    "question": "The balance on the provision for depreciation account is?",
+    "option": {
+      "a": " added to fixed assets on the balance sheet",
+      "b": "deducted from the fixed assets on the balance sheet",
+      "c": " deducted from the profitand loss account",
+      "d": "added to current liabilities of the account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Reason: Provision for depreciation (accumulated depreciation) is a contra-asset account, it reduces the gross carrying amount of fixed assets to show their net book value on the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1077,
     "question": "Given:\nRates paid during the year amounted to ₦2,250 at ₦125 per month and 1,035 was paid for electricity in the same period at ₦115 per month.\nDetermine the amount of prepaid rates?",
     "option": {
@@ -15292,6 +15372,22 @@
     "image": "",
     "answer": "b",
     "solution": "Reason: banking the cash means you debit the Bank (increase bank balance) and credit Cash (cash in hand decreases).",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1123,
+    "question": "The transaction that completes its double entry in the same ledger account appears in?",
+    "option": {
+      "a": "cash account and personal account",
+      "b": " bank account and general ledger",
+      "c": "discount received and discount allowed",
+      "d": "cash account and bank accont"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: transfers between cash and bank (contra entries) debit the Bank and credit Cash, both sides are recorded in the same cash book/ledger, so the double entry is completed within the same ledger.",
     "examtype": "utme",
     "examyear": "2003"
   },
