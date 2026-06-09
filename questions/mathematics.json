@@ -3568,6 +3568,22 @@
     "examyear": "2003"
   },
   {
+    "id": 234,
+    "question": "Find the range of the value of x satisfying the inequalities 5 + x ≤ 8 and 13 + x ≥ 7",
+    "option": {
+      "a": " -3 ≤ x ≤ 3",
+      "b": " 3 ≤ x ≤ 6",
+      "c": " -6 ≤ x ≤ 3",
+      "d": " -6 ≤ x ≤ -3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "5 + x ≤ 8 and 13 + x ≥ 7\n5 + x ≤ 8\nX ≤ 8 – 5\nX ≤ 3\nAnd 13 + x ≥ 7\nX ≥ 7 – 15\nX ≥ -7\nCombining the two together\n-6 ≤ x ≤ 3",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 235,
     "question": "The graph of the function y = x<sup>2</sup> + 4 and a straight line PQ are drawn to solve the equation x<sup>2</sup>\n - 3x + 2 = 0. What is the equation of PQ?",
     "option": {
