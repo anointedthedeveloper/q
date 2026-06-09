@@ -532,6 +532,25 @@
     "category": "others"
   },
   {
+    "id": 48,
+    "question": "The members of the congregation were <i>inspired</i> by the sermon ",
+    "option": {
+      "a": "enthralled ",
+      "b": "disenchanted ",
+      "c": "disoriented ",
+      "d": "bewitched "
+    },
+    "section": "opposite in meaning to the word(s) or phrase in italics ",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 51,
     "question": "Only those who are <i>gullible</i> fall victim to his trickery ",
     "option": {
@@ -4313,6 +4332,25 @@
     "category": "others"
   },
   {
+    "id": 386,
+    "question": "Men from the agency went into the market in search of <i>unwholesome</i>  food items ",
+    "option": {
+      "a": "banned ",
+      "b": "imported ",
+      "c": "healthy ",
+      "d": "uncooked "
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 388,
     "question": "The plan to merge the two local government areas has met with much <i>apathy.</i>",
     "option": {
@@ -4552,6 +4590,25 @@
     "section": "choose the option nearest in meaning to the word or phrase In Italics",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 407,
+    "question": "I cannot stand Simon, I find his attitude <i>offensive</i>",
+    "option": {
+      "a": "unapproachable   ",
+      "b": " obnoxious ",
+      "c": "wicked",
+      "d": "  unpardonable"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008",
@@ -6555,6 +6612,25 @@
     "category": "others"
   },
   {
+    "id": 586,
+    "question": "<u>h</u>igh ",
+    "option": {
+      "a": "what  ",
+      "b": "honest ",
+      "c": "who ",
+      "d": "vehicle"
+    },
+    "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 588,
     "question": "boys ",
     "option": {
@@ -6874,6 +6950,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 49,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 646,
+    "question": "..... told of his impending arrival, I worked hard to make his short stay very comfortable?",
+    "option": {
+      "a": "Have being",
+      "b": "Have been",
+      "c": "Have I been",
+      "d": "Having been"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 50,
     "hasPassage": 0,
     "category": "others"
   },
@@ -9728,6 +9823,25 @@
     "category": "others"
   },
   {
+    "id": 981,
+    "question": "L<u>ea</u>ch?",
+    "option": {
+      "a": "gear",
+      "b": "cedar",
+      "c": "cheer",
+      "d": "death"
+    },
+    "section": "<b>In each of the questions 84 to 89 choose the option that has the same vowel sound as the one represented by the underlined letter(s).</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "leach; /liːtʃ/\n\ncedar; /ˈsiːdə/",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 86,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 982,
     "question": "Men<u>t</u>ion?",
     "option": {
@@ -10982,6 +11096,25 @@
     "category": "others"
   },
   {
+    "id": 1123,
+    "question": "It can be inferred from the novel that Mr, \nEze was Terkura Atsen’s ",
+    "option": {
+      "a": " business partner",
+      "b": "uncle",
+      "c": " role model",
+      "d": "boss."
+    },
+    "section": "<b>Questions 31 - 35 are based on Jerry Agada’s \nThe Successors.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 31,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1124,
     "question": "From the novel, David thought Ifenne \nshould be involved in politics because he \nwanted him to ………",
     "option": {
@@ -11871,6 +12004,25 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 25,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1220,
+    "question": "Barely six months after his father's demise, he has nothing left again of his <u>patrimony</u>",
+    "option": {
+      "a": "inheritance",
+      "b": "property",
+      "c": "reputation",
+      "d": "valuables"
+    },
+    "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+    "image": "",
+    "answer": "a",
+    "solution": "Patrimony: property inherited from one's father or male ancestor. Also, valued things passed down from previous generations.",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 27,
     "hasPassage": 0,
     "category": "others"
   },
@@ -13562,6 +13714,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 59,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1376,
+    "question": "Justice is difficult to enforce because people are unwilling to accept any loss of [sovereignty]",
+    "option": {
+      "a": "positing",
+      "b": "leadership",
+      "c": "autonomy",
+      "d": "kingdom"
+    },
+    "section": "Choose the one nearest in meaning to the word(s) in bracket",
+    "image": "",
+    "answer": "c",
+    "solution": "Autonomy is the correct answer. Sovereignty means a situation of self-sufficiency and self-governance.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 3,
     "hasPassage": 0,
     "category": "others"
   },
