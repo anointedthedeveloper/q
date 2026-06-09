@@ -1,5 +1,21 @@
 [
   {
+    "id": 8,
+    "question": "What did God create on the fifth day? ",
+    "option": {
+      "a": "the firmament  ",
+      "b": "the two great light ",
+      "c": "water under the heaven ",
+      "d": "living Creature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 19,
     "question": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) What was his wish? ",
     "option": {
@@ -14,6 +30,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
+  },
+  {
+    "id": 43,
+    "question": "The meaning of Ephphatha is ",
+    "option": {
+      "a": "be opened ",
+      "b": "be still ",
+      "c": "be silent ",
+      "d": "little girl, arise"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   },
   {
     "id": 46,
@@ -128,6 +160,22 @@
     "examyear": "2009"
   },
   {
+    "id": 108,
+    "question": "The commander of David’s army was ",
+    "option": {
+      "a": "Abner ",
+      "b": "Joab ",
+      "c": "Abiathar ",
+      "d": "Adonijah"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 110,
     "question": "What is the meaning of Emmanuel? ",
     "option": {
@@ -208,6 +256,22 @@
     "examyear": "2012"
   },
   {
+    "id": 177,
+    "question": "“Talitha cumi” means",
+    "option": {
+      "a": "Dorcas, Arise   ",
+      "b": "Little girl, I say to you, arise  ",
+      "c": "Thy will be done",
+      "d": "Jesus is coming"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 182,
     "question": "In one of the missionary journeys, Paul was stoned   to a state of coma in  ",
     "option": {
@@ -224,6 +288,22 @@
     "examyear": "2013"
   },
   {
+    "id": 202,
+    "question": "When Saul and his troops came after David in the wilderness of Ziph, David and Abishai went to Saul’s camp \t\tto",
+    "option": {
+      "a": "slay him",
+      "b": "surprise him",
+      "c": "capture him alive",
+      "d": "dialogue with him"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 205,
     "question": "A good example of parental responsibility was demonstrated by",
     "option": {
@@ -238,6 +318,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
+  },
+  {
+    "id": 264,
+    "question": "“Unbind him, and let him go.” The statement was made by Jesus when",
+    "option": {
+      "a": "He raised to life the dead Lazarus",
+      "b": "He healed the son of the widow at Nain",
+      "c": "He healed the centurion’s servant",
+      "d": "a boy bound by Satan was brought to Him."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
   },
   {
     "id": 266,
@@ -352,6 +448,22 @@
     "examyear": "2011"
   },
   {
+    "id": 343,
+    "question": "‘Pay all of  them their dues, taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honour to whom honour is due’. Paul made the statement above to the Church at",
+    "option": {
+      "a": "Thessalonica",
+      "b": "Rome",
+      "c": "Corinth",
+      "d": "Ephesus."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 364,
     "question": "In spite of Israel’s faithlessness, Jeremiah saw a ray of hope for them if only they should",
     "option": {
@@ -427,6 +539,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 441,
+    "question": "When Christians give freely, God will supply",
+    "option": {
+      "a": "only for those that give",
+      "b": "their needs according to His riches in glory",
+      "c": "their needs according to the measure they give",
+      "d": "their needs day by day."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -512,6 +640,38 @@
     "examyear": "2010"
   },
   {
+    "id": 581,
+    "question": "Before Barnabas and Saul were sent on missionary journey, the elders, laid hands on them. The laying on of  hands signifies",
+    "option": {
+      "a": "confirmation.",
+      "b": "selection.",
+      "c": "commissioning.",
+      "d": "protection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 590,
+    "question": "What advice did Peter give to the elders of the church in their relationship with the younger members?",
+    "option": {
+      "a": "Work as if being under external constraint",
+      "b": "Work without a domineering spirit",
+      "c": "Work with a desire for material gains",
+      "d": "Control their flocks with firm hands"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 603,
     "question": "How did king Asa prove to be a godly king?",
     "option": {
@@ -539,6 +699,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 630,
+    "question": "The message of the risen Christ to the women who came early to the tomb was to be relayed to the disciples and (Mark 16:7)",
+    "option": {
+      "a": "the Jews",
+      "b": "the Sadducees",
+      "c": "Thomas",
+      "d": "Peter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -603,6 +779,54 @@
     "section": "",
     "image": "",
     "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 731,
+    "question": "Summarily, St Paul in his teaching on 'New Life In Christ' advised Christains to ______",
+    "option": {
+      "a": "Endeavor to be baptized by immersion",
+      "b": "Pray for the Grace of God",
+      "c": "Forsake only adultery and murder",
+      "d": "Dwell richly in the word of God"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 754,
+    "question": "Josiah sent _____the priest to inquire of the Lord from Huldah",
+    "option": {
+      "a": "Shallim",
+      "b": "Huldah",
+      "c": "Hilkiah",
+      "d": "Shapham"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 765,
+    "question": "For how long did the Lord supply the children of Israel with manna in the wilderness?",
+    "option": {
+      "a": "Forty Years",
+      "b": "Thirty-eight years",
+      "c": "Eleven months",
+      "d": "Twenty two years"
+    },
+    "section": "",
+    "image": "",
+    "answer": " a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -800,6 +1024,22 @@
     "examyear": "2013"
   },
   {
+    "id": 941,
+    "question": "Eve was to have pains at childbirth because she ",
+    "option": {
+      "a": "seduced Adam. ",
+      "b": "conversed with the serpent. ",
+      "c": "ate of the tree of life.   ",
+      "d": "ate of the tree of good and evil."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 944,
     "question": "By removing his sandals before the burning bush, Moses was showing a sense of ",
     "option": {
@@ -832,6 +1072,54 @@
     "examyear": "2011"
   },
   {
+    "id": 987,
+    "question": "According to Paul, God gives us victory over death through ",
+    "option": {
+      "a": "Adam",
+      "b": "Jesus",
+      "c": " the Holy Spirit",
+      "d": "Angels"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 992,
+    "question": "Moses was bom at a period when the Hebrews were",
+    "option": {
+      "a": "suffering.   ",
+      "b": ".   increasing",
+      "c": "backsliding",
+      "d": "rejoicing."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1043,
+    "question": "When Eve was about to be created, God did all the following except.",
+    "option": {
+      "a": "causing a deep sleep to fall on Adam ",
+      "b": "taking a rib from Adam’s side. ",
+      "c": "covering where he removed the rib with a bone. ",
+      "d": "using the rib to create Eve"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 1050,
     "question": "Saul lied to Samuel when the (Saul)",
     "option": {
@@ -843,6 +1131,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1058,
+    "question": "Which of the following events could be attributed to Josiah? ",
+    "option": {
+      "a": "Establishing relationship with Assyria ",
+      "b": "Reconstruction of the valley of Hinnon ",
+      "c": "Revival of the feast of the Passover ",
+      "d": "Building walls around Jerusalem"
+    },
+    "section": "      ",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
