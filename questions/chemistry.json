@@ -11584,6 +11584,22 @@
     "examyear": "2024"
   },
   {
+    "id": 729,
+    "question": "How many isomers has the organic compound represented by the formula C₃H₈O?",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "C₃H₈O can be alcohols or ethers. Alcohols: propan-1-ol (CH₃CH₂CH₂OH), propan-2-ol (CH₃CHOHCH₃). Ether: methoxyethane (CH₃OCH₂CH₃). These give 3 structural isomers in total for C₃H₈O.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 730,
     "question": "When a few drops of Millon's reagent is added to egg-white solution in a test tube, the white precipitate changes to",
     "option": {
