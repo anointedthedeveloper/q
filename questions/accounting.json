@@ -80,6 +80,22 @@
     "examyear": "2010"
   },
   {
+    "id": 7,
+    "question": "A debit balance on a bank statement indicates that ",
+    "option": {
+      "a": "bank is a debtor to the customer ",
+      "b": "customer is a debtor to the bank ",
+      "c": "bank is not a creditor to the customer ",
+      "d": "customer is not a debtor to the bank"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 8,
     "question": "At the end of a trading period, wages will be  ",
     "option": {
@@ -443,6 +459,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 38,
+    "question": "Prime cost is",
+    "option": {
+      "a": "Direct cost of production",
+      "b": "Cost of raw materials consume:",
+      "c": "Cost of raw materials purchase-:",
+      "d": "Indirect cost of production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -1344,6 +1376,22 @@
     "examyear": "2013"
   },
   {
+    "id": 118,
+    "question": "The prime cost is",
+    "option": {
+      "a": "GHc 64,500.",
+      "b": "GHc 64,000.",
+      "c": "GHc 58,500.",
+      "d": "GHc 52,500."
+    },
+    "section": "Use the following information to answer question:  Stock of raw materials 1/1/09  [ 5,000 ], Stock of raw materials 31/12/09   [ 5,500], Purchase of raw materials [ 50,000], Carriage inwards [3,000], Direct labour [ 12,000], Factory overhead [17,500]",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 119,
     "question": "Which of the following relates to the essence of partnership? To",
     "option": {
@@ -1527,6 +1575,22 @@
       "b": "income and expenditure extract",
       "c": "balance sheet extract",
       "d": "fund accounting."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 134,
+    "question": "An item in the balance sheet of a limited liability company is",
+    "option": {
+      "a": "accrued expenses",
+      "b": "lighting and heating",
+      "c": "salaries and wages",
+      "d": "general expenses."
     },
     "section": "",
     "image": "",
@@ -1915,6 +1979,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 161,
+    "question": "Which of the following is accounted for in receipts and payments account?",
+    "option": {
+      "a": "Accrued expenses on annual dances",
+      "b": "Subscriptions due but not yet received",
+      "c": "Interest on bank deposit",
+      "d": "Depreciation of the club house."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -4432,6 +4512,22 @@
     "examyear": "2014"
   },
   {
+    "id": 371,
+    "question": "The accounting concept underlying the treatment of personal expenses of the business owner as drawing is",
+    "option": {
+      "a": "periodicity",
+      "b": "accrual",
+      "c": "entity",
+      "d": "materiality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 374,
     "question": "When shares are issued above their nominal value, the \texcess above the nominal value is",
     "option": {
@@ -4443,6 +4539,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 375,
+    "question": "Shares issued below nominal value are referred to as shares at",
+    "option": {
+      "a": "premium",
+      "b": "discount",
+      "c": "face value",
+      "d": "cumulative value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -5616,6 +5728,22 @@
     "examyear": "2007"
   },
   {
+    "id": 472,
+    "question": "The fourth stage of the accounting information system is",
+    "option": {
+      "a": "recording",
+      "b": "interpreting",
+      "c": "summarizing",
+      "d": "classifying."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 474,
     "question": "The total of the trial balance is",
     "option": {
@@ -5977,6 +6105,22 @@
       "d": "Sule ,2/5, Ahmad and 1/5 Khadija 2/5"
     },
     "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 507,
+    "question": "The share premium account would be",
+    "option": {
+      "a": "credited with application and allotment  N 187,500",
+      "b": "debited with application and allotment  N 375,000",
+      "c": "credited with application and allotment  N 375,000",
+      "d": "debited with application and allotment  N 187,500"
+    },
+    "section": "Use the information below to answer questions 43 and 44\t A company advertised and issued 750,000,12% preference shares of  N 1 each to be issued at  N 1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on pro-rata basis.",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -7344,6 +7488,22 @@
     "examyear": "2016"
   },
   {
+    "id": 613,
+    "question": "The ratio that gives the indication of the efficiency of a firm's sales with respect to cost of goods sold is a",
+    "option": {
+      "a": "return on capital employed ",
+      "b": "gross profit margin",
+      "c": "net profit margin",
+      "d": "return on equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Return on capital employed or ROCE is a profitability ratio that measures how efficiently a company can generate profits from its capital employed by comparing net operating profit to capital employed.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 614,
     "question": "What is the ledger entry for sale of generator on credit to Patrick?",
     "option": {
@@ -7884,6 +8044,22 @@
     "image": "",
     "answer": "b",
     "solution": "\nCOGS = 2,000 + 4,000 + 500 = ₦6,500\n\nGross Profit = Sales − COGS = 9,000 − 6,500 = ₦2,500",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 658,
+    "question": "The correct expression of accounting equation is",
+    "option": {
+      "a": " Assets = Liabilities + Equity",
+      "b": "Net assets = Liabilities + Equity",
+      "c": "Assets + Liabilities = Equity",
+      "d": "Assets = Equity - liabilities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fundamental accounting equation is Asset = Capital + Liabilities\nAsset = Liabilities + Equity the total assets of the company is generated through liabilities to outsiders that the company is still enjoying in addition with the equity by the owners of the business",
     "examtype": "utme",
     "examyear": "2017"
   },
