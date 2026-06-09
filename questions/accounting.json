@@ -768,6 +768,22 @@
     "examyear": "2013"
   },
   {
+    "id": 68,
+    "question": "At the end the fiscal year, account receivable has a balance of Nl00,000 and allowance for  doubtful   account  has a balance   of N7,000. The expected net realized value of the account receivable is: ",
+    "option": {
+      "a": "Nl07,000 ",
+      "b": "N100,000 ",
+      "c": "N93,000 ",
+      "d": "N7,000 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 69,
     "question": "A debit balance of Nl50,000 in a cash account   shows   that   ",
     "option": {
@@ -1547,6 +1563,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 130,
+    "question": "The major advantage of the journal proper is that it",
+    "option": {
+      "a": "helps in the preparation of the balance sheet",
+      "b": "prevents fraud and theft of item of the business",
+      "c": "serves as a book of instruction to the bookkeeper",
+      "d": "helps the banking industry to be efficient."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -6256,6 +6288,22 @@
     "examyear": "2015"
   },
   {
+    "id": 517,
+    "question": "Calculate the total purchase of a business from the given information, cash purchases ₦3,000; payments to creditors ₦53,000; creditors at the beginning ₦4,000; creditors at the end ₦2,000",
+    "option": {
+      "a": "₦52,000",
+      "b": "₦54,000",
+      "c": "₦55,000",
+      "d": "₦50,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Formula:\nTotal Purchases = Cash Purchases + Credit Purchases\nFinding Credit Purchases:\nCredit Purchases = Payments to Creditors + Closing Creditors - Opening Creditors\nCalculation:\n\nCash Purchases = 3,000\nPayments to Creditors = 53,000\nOpening Creditors = 4,000\nClosing Creditors = 2,000\n\nCredit Purchases = 53,000 + 2,000 - 4,000 = 51,000\nTotal Purchases:\nTotal Purchases = Cash Purchases + Credit Purchases\nTotal Purchases = 3,000 + 51,000 = 54,000\nThe total purchases of the business amount to ₦54,000",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 518,
     "question": "An expenses is said to be revenue in nature if it",
     "option": {
@@ -9984,6 +10032,22 @@
     "examyear": "2021"
   },
   {
+    "id": 822,
+    "question": "If a company values its stock in the period of rising prices using LIFO method, there is a tendency for it to",
+    "option": {
+      "a": " have a higher cost of goods sold",
+      "b": "have a higher value of closing stock",
+      "c": " have a higher gross profit",
+      "d": "pay higher income tax"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Under LIFO (Last‑In, First‑Out) during periods of rising prices, the most recently purchased (higher‑cost) inventory is charged to cost of goods sold first. This results in a higher COGS, lower closing stock, and thus a lower gross profit compared to other methods.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 823,
     "question": "The major objectives of departmental account is to ascertain the",
     "option": {
@@ -11084,6 +11148,22 @@
     "image": "",
     "answer": "c",
     "solution": "In a Sales Ledger Control Account, the figure ₦19,075 (appearing on the debit side) represents credit sales only — not total sales or cash sales.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 919,
+    "question": "An advantage of FIFO method of stock valuation is that",
+    "option": {
+      "a": " it is calculated at the end of the year",
+      "b": " its flow of cost is in sequence with the flow of stock",
+      "c": " it is progressive in nature",
+      "d": " it serves as a control during inflation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "One of the advantages of FIFO method is that the stock received first will be issued out first thereby reducing the problem of deterioration or obsolesence and also items are issued in order of receipt therefore, it is realistic.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -13676,6 +13756,22 @@
     "image": "",
     "answer": "b",
     "solution": "Payment 1:\nJan 20 — ₦24,000 for 4 months → Jan 20 to May 19, 2001\n\nAll months are within 2001, so no overpayment.\n\nPayment 2:\nMay 16 — ₦30,000 for 5 months → May 16 to Oct 15, 2001\n\nAll months are within 2001, so no overpayment.\n\nPayment 3:\nOct 15 — ₦36,000 for 6 months → Oct 15, 2001 to Apr 14, 2002\n\nFrom Oct 15 to Dec 31, 2001 → 2.5 months belong to 2001 (paid expense).\n\nFrom Jan 1 to Apr 14, 2002 → 3.5 months belong to 2002 (prepaid).\n\nStep 2 – Calculate prepaid portion from Payment 3\nCost per month = ₦36,000 ÷ 6 = ₦6,000/month\n\nPrepaid = 3.5 months × ₦6,000 = ₦21,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1140,
+    "question": "four broad classifications of overheads are?",
+    "option": {
+      "a": "production, selling, distribution and material",
+      "b": "production, selling, distribution and administration",
+      "c": "selling, distribution and production and wages",
+      "d": " distribution, selling, administration and material"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "These four categories comprehensively cover all types of indirect costs in a business organization.",
     "examtype": "utme",
     "examyear": "2003"
   },
