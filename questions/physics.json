@@ -1232,6 +1232,22 @@
     "examyear": "2016"
   },
   {
+    "id": 225,
+    "question": "In the diagram above, the direction of the force between N and S in the magnetic field is",
+    "option": {
+      "a": " MP",
+      "b": "SN",
+      "c": "NS",
+      "d": "PM"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610508/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_46_vlldts.jpg",
+    "answer": "c",
+    "solution": "Magnetic field lines flow from the north pole to the south pole. The force direction is from the north pole (N) toward the south pole (S).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 228,
     "question": "An electron in a hydrogen atom makes a transition from the ground level to the third level. If the energy at the ground level, calculate the energy at the third level. [h = 6.6 × 10⁻³⁴ Js; f = 10¹⁵ Hz]",
     "option": {
@@ -1916,6 +1932,22 @@
     "image": "",
     "answer": "b",
     "solution": "When sound passes from air into water, its speed and wavelength both increase while its frequency remains constant.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 398,
+    "question": "A convex mirror is used as a driving mirror because \n\nI. its image is erect     \n\nII. It has a large field of view\n\nIII. It has a long focal length \n\nIdentify the CORRECT statement(s) ",
+    "option": {
+      "a": "I and III only",
+      "b": "I and II only",
+      "c": " II and IIII only",
+      "d": "I, II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Convex mirrors are used as driving mirrors because they produce erect images (I) and have a large field of view (II). Statement III about focal length is not a primary reason for their use in vehicles.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -3360,6 +3392,22 @@
     "examyear": "2005"
   },
   {
+    "id": 692,
+    "question": "If the distance between two point charges is increased by a factor of four, the magnitude of the electrostatic force between them will be",
+    "option": {
+      "a": "1/4 of its former value",
+      "b": "1/16 of its former value",
+      "c": " 1/2 of its former value",
+      "d": "4 times its former value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Coulomb's Law\nFormula: F = kq₁q₂/r²\nWhere:\n\nF = electrostatic force\nk = Coulomb's constant\nq₁, q₂ = charges\nr = distance between charges\n\nStep 2: Initial force\nF₁ = kq₁q₂/r²\nStep 3: New force when distance becomes 4r\nF₂ = kq₁q₂/(4r)²\nF₂ = kq₁q₂/16r²\nStep 4: Find ratio of new force to initial force\nF₂/F₁ = [kq₁q₂/16r²] / [kq₁q₂/r²]\nF₂/F₁ = 1/16\nStep 5: Conclusion\nF₂ = F₁/16\nThe force becomes 1/16 of its former value.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 694,
     "question": "A force of 200N acts between two objects at a certain distance apart. The value of the force when the distance is halved is",
     "option": {
@@ -3548,6 +3596,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nHalf-life, T₁/₂ = 4 days\nTime elapsed, t = 16 days\nFraction decayed = ?\n\nSolution:\nStep 1: Calculate number of half-lives\nNumber of half-lives, n = t/T₁/₂\nn = 16/4 = 4 half-lives\nStep 2: Calculate fraction remaining\nAfter each half-life, half of the substance remains.\nFraction remaining = (1/2)ⁿ\nFraction remaining = (1/2)⁴\nFraction remaining = 1/16\nStep 3: Calculate fraction decayed\nFraction decayed = 1 - Fraction remaining\nFraction decayed = 1 - 1/16\nFraction decayed = 15/16",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 734,
+    "question": "A submarine is observed to rise from a real depth of 80 m to 60 m in water. Calculate the change in apparent depth.\n[Refractive index of water = 4/3]",
+    "option": {
+      "a": "45 m",
+      "b": " 80 m",
+      "c": "15 m",
+      "d": "60 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nInitial real depth, h₁ = 80 m\nFinal real depth, h₂ = 60 m\nRefractive index of water, n = 4/3\n\nSolution:\n\nStep 1: Formula for apparent depth\nFor near‑vertical viewing, apparent depth d ≈ real depth / n.\n\nStep 2: Compute initial apparent depth\nd₁ = h₁ / n = 80 m / (4/3) = 80 m × 3/4 = 60 m\n\nStep 3: Compute final apparent depth\nd₂ = h₂ / n = 60 m / (4/3) = 60 m × 3/4 = 45 m\n\nStep 4: Calculate change in apparent depth\nChange = d₁ – d₂ = 60 m – 45 m = 15 m",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -5148,6 +5212,22 @@
     "image": "",
     "answer": "a",
     "solution": "X-rays are used in medicine for various purposes including imaging, treatment, and analysis.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1039,
+    "question": "The p-n junction diodes can act as rectifiers because they",
+    "option": {
+      "a": "conduct current when forward-biased",
+      "b": " conduct current when reverse-biased",
+      "c": "block current when forward-biased",
+      "d": "conduct current in both directions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "p-n junction diodes act as rectifiers because they conduct current when forward-biased.",
     "examtype": "utme",
     "examyear": "2012"
   },
