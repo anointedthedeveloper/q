@@ -4704,6 +4704,22 @@
     "examyear": "2016"
   },
   {
+    "id": 361,
+    "question": "Decree 34 of 1966 was unacceptable to many Nigeria because it was",
+    "option": {
+      "a": "seen as an instrument of impoverishment",
+      "b": "perceived to abolish the federal system",
+      "c": "promulgated without consultation with the people",
+      "d": "considered as alien"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 362,
     "question": "The Mid-Western Region was created in Nigeria in",
     "option": {
@@ -6363,6 +6379,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 476,
+    "question": "The primary aim of pressure groups is to",
+    "option": {
+      "a": "attract people’s attention",
+      "b": "protects the interest of members",
+      "c": "capture political power",
+      "d": "fight corrupt officials."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -10352,6 +10384,22 @@
     "examyear": "2018"
   },
   {
+    "id": 785,
+    "question": "Political sovereignty belongs to",
+    "option": {
+      "a": " the people",
+      "b": "government",
+      "c": "military",
+      "d": "the parliament"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In a democracy, political sovereignty rests with the people.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 787,
     "question": "In a republic parliamentary system of government, the ceremonial Head of State is the",
     "option": {
@@ -13404,6 +13452,22 @@
     "image": "",
     "answer": "c",
     "solution": "The Kano riots were a series of violent clashes in Northern Nigeria in 1953. The riots were sparked by political and ethnic tensions over proposed reforms in the Northern House of Assembly. The British colonial authorities suspended Nigeria's constitution and declared a state of emergency to restore order, leading to the dissolution of democratic regional governments. The Kano riots highlighted the challenges Nigeria faced during the transition from colonial rule to self-governance.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1026,
+    "question": "Which of the following countries operate a direct democracy?",
+    "option": {
+      "a": "Russia",
+      "b": "United Kingdom",
+      "c": "United States of America",
+      "d": "Switzerland"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Switzerland operates a direct democracy. In a direct democracy, citizens have the right to vote on every issue that affects them, rather than their elected representatives making those decisions. This is different from a representative democracy, where citizens elect representatives who make decisions on their behalf, which is the system used in the United Kingdom, United States, and Russia.",
     "examtype": "utme",
     "examyear": "2023"
   },
