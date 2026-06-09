@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 2,
+    "question": "What implication does resources scarcity have for the satisfaction of wants?",
+    "option": {
+      "a": "not all wants can be satisfied ",
+      "b": "we will never be faced with the need to make choice ",
+      "c": "we must develop ways to decreases our individual wants ",
+      "d": "the discovery of new resource."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 3,
     "question": "In economics , rational decision-making requires that: ",
     "option": {
@@ -1904,6 +1920,22 @@
     "examyear": "2012"
   },
   {
+    "id": 127,
+    "question": "When Lump-sun tax is paid by a producer, it means that;  ",
+    "option": {
+      "a": "The tax is paid proportional to the quantity of output produced  ",
+      "b": "The tax is paid regardless of volume of output  ",
+      "c": "The tax is paid in arrears  ",
+      "d": "The tax is returned to the producer after the payment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 128,
     "question": "The following is not correct  ",
     "option": {
@@ -3287,6 +3319,22 @@
       "b": "a proprotionate fall in price",
       "c": "a rise in prices",
       "d": "an unequal fall in prices"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 219,
+    "question": "Which of the following is the most liquid asset?",
+    "option": {
+      "a": "Bank notes",
+      "b": "Silver",
+      "c": "Bank deposit",
+      "d": "Cheques"
     },
     "section": "",
     "image": "",
@@ -7211,6 +7259,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 473,
+    "question": "Division of labour is limited by",
+    "option": {
+      "a": "the size of the market",
+      "b": "the productivity of capital",
+      "c": "cost of production",
+      "d": "factors of production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
