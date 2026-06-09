@@ -1,5 +1,21 @@
 [
   {
+    "id": 3,
+    "question": "The umbrella-shaped fruiting body of a fully developed mushroom is the",
+    "option": {
+      "a": "pileus  ",
+      "b": "Mycelium",
+      "c": "basidium  ",
+      "d": "Stipe"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 7,
     "question": "The cell component that is present in a prokaryotic cell is the",
     "option": {
@@ -139,6 +155,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 19,
+    "question": "An example of a caryopsis is",
+    "option": {
+      "a": "guava   ",
+      "b": "maize grain",
+      "c": "coconut",
+      "d": "tomato"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -315,6 +347,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 35,
+    "question": "A feature association with the Y- chromosome in humans is  ",
+    "option": {
+      "a": "Drosophila melanogaster",
+      "b": "prominent fingernails  ",
+      "c": "facial hairs  ",
+      "d": "enlarged breast"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -672,6 +720,22 @@
     "examyear": "2004"
   },
   {
+    "id": 74,
+    "question": "Paternity disputes can most accurately be resolved though the use of",
+    "option": {
+      "a": "Gringer printing   ",
+      "b": "blood group typing   ",
+      "c": "DNA analysis   ",
+      "d": "tongue rolling"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 77,
     "question": "Sex –linked genes are located on",
     "option": {
@@ -699,6 +763,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 81,
+    "question": "The sports and stripes of the leopard and tiger and example of",
+    "option": {
+      "a": "cryptic colouration  ",
+      "b": "warning colouration  ",
+      "c": "Disruptive colouration  ",
+      "d": "counter shading"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -864,6 +944,22 @@
     "examyear": "2005"
   },
   {
+    "id": 95,
+    "question": "The only vein that caries pure oxygenated blood is the  ",
+    "option": {
+      "a": "renal vein  ",
+      "b": "Pulmonary vein  ",
+      "c": "hepatic vein",
+      "d": "sciatic vein"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 96,
     "question": "The function of the fluid filled pericardium is to",
     "option": {
@@ -891,6 +987,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 100,
+    "question": "Excess water  in plants is excreted as water vapour and droplets respectively through  ",
+    "option": {
+      "a": "respiration and guttation  ",
+      "b": "transpiration and guttation",
+      "c": "photosynthesis and guttation",
+      "d": "guttation and condensation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -1054,6 +1166,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 121,
+    "question": "Mendel, s second law of inheritance states that",
+    "option": {
+      "a": "alleles separate predictably  ",
+      "b": "alleles segregate  independently",
+      "c": "chromosomes segregate independently  ",
+      "d": "alleles combine randomly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
   },
   {
     "id": 123,
@@ -1360,6 +1488,22 @@
     "examyear": "2006"
   },
   {
+    "id": 155,
+    "question": "The process of shedding the exoskeleton of an arthropod is known as",
+    "option": {
+      "a": "instar formation",
+      "b": "metamorphosis  ",
+      "c": "tagmosis  ",
+      "d": "Ecdysis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 158,
     "question": "Which of the following has the most primitive respiratory system?",
     "option": {
@@ -1648,6 +1792,22 @@
     "examyear": "2007"
   },
   {
+    "id": 184,
+    "question": "The type of protective adaptation exhibited by the animals is  ",
+    "option": {
+      "a": "flash colouration   ",
+      "b": "disruptive  colouration",
+      "c": "warming colouration",
+      "d": "countershading  colouration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 185,
     "question": "An example of a fish that aestivates is",
     "option": {
@@ -1723,6 +1883,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 192,
+    "question": "The most abundant group of organism in the animal kingdom is",
+    "option": {
+      "a": "Mammalian",
+      "b": "Aves  ",
+      "c": "Annelida  ",
+      "d": "Insecta"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -1856,6 +2032,22 @@
     "examyear": "2008"
   },
   {
+    "id": 205,
+    "question": "During ovulation, an egg is released from the",
+    "option": {
+      "a": "corpus luteum  ",
+      "b": "ovarian funnel  ",
+      "c": "Graafian follicle",
+      "d": "fallopian tube"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 208,
     "question": "Which of the following associations is an example of mutalism?",
     "option": {
@@ -1867,6 +2059,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 209,
+    "question": "In a typical freshwater habitat, the edge of the stream or pond constitutes the",
+    "option": {
+      "a": "tidal zone  ",
+      "b": "interidal zone  ",
+      "c": "littoral zone  ",
+      "d": "euphotic zone"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -2016,6 +2224,22 @@
     "examyear": "2009"
   },
   {
+    "id": 234,
+    "question": "The part of the alimentary system of a bird where food is  ground into small particles is the",
+    "option": {
+      "a": "cloaca  ",
+      "b": "stomach  ",
+      "c": "crop  ",
+      "d": "gizzard"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 235,
     "question": "Which of the following describes the sequence of blood flow fro the heart to a tissue?",
     "option": {
@@ -2027,6 +2251,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 236,
+    "question": "The enzymes of the glycolytic pathway are located in  the",
+    "option": {
+      "a": "mitochondria  ",
+      "b": "gastric juice",
+      "c": "plasma",
+      "d": "cytoplasm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -2256,6 +2496,22 @@
     "examyear": "2009"
   },
   {
+    "id": 261,
+    "question": "According to Darwin, the driving force behind evolutionary change is",
+    "option": {
+      "a": "atural selection",
+      "b": "genetic drift  ",
+      "c": "mutation",
+      "d": "gene flow"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 262,
     "question": "Which of the following characterizes a mature plant cell?",
     "option": {
@@ -2432,6 +2688,22 @@
     "examyear": "2010"
   },
   {
+    "id": 279,
+    "question": "Chemosynthetic organism are capable  of manufacturing their food  from simple inorganic substances through the process of",
+    "option": {
+      "a": "oxidation",
+      "b": "denitrification",
+      "c": "reduction",
+      "d": "phosphorylation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 281,
     "question": "I. Stomata _ spirogyra   II alveoli _ earthworm  III malpighian tubule_mammal Iv.Contractile vacuole _protozoa \nWhich of the above structures is correctly matched with the organisms in which it is found? \n",
     "option": {
@@ -2555,6 +2827,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 292,
+    "question": "The vector for yellow fever is  ",
+    "option": {
+      "a": "edges mosquito  ",
+      "b": "anopheles mosquito  ",
+      "c": "tsetse fly  ",
+      "d": "blackly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -3104,6 +3392,22 @@
     "examyear": "2012"
   },
   {
+    "id": 350,
+    "question": "An arthropod that is destructive at the early stage of its life cycle is",
+    "option": {
+      "a": "butterfly  ",
+      "b": "mosquito  ",
+      "c": "bee",
+      "d": "millipede"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 351,
     "question": "An animal body that can be cut along its axis in any plane to give two identical parts is said to be  ",
     "option": {
@@ -3195,6 +3499,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 363,
+    "question": "An example of a fruit  that develops from a single carpel is",
+    "option": {
+      "a": "(a)okro  ",
+      "b": "tomato",
+      "c": "bean  ",
+      "d": "orange"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 368,
+    "question": "Organisms living in an estuarine habitat are adapted to  ",
+    "option": {
+      "a": "withstand   wide fluctuations in temperature   ",
+      "b": "survive only in water with low salinity   ",
+      "c": "withstand wide fluctuations in salinity   ",
+      "d": "feed only on phytoplankton and dead organic matter."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
