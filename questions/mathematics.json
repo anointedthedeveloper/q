@@ -1,0 +1,242 @@
+[
+  {
+    "id": 28,
+    "question": "The smallest section of a rod which can be cut 36cm in length is",
+    "option": {
+      "a": "90cm ",
+      "b": "180cm ",
+      "c": "360cm  ",
+      "d": "540cm."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 52,
+    "question": "A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ",
+    "option": {
+      "a": "N180 ",
+      "b": "N 165 ",
+      "c": "N15   ",
+      "d": "N 200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 141,
+    "question": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.",
+    "option": {
+      "a": "6",
+      "b": "2",
+      "c": "3",
+      "d": "8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Let the ext. angle = x\nThus int. angle = 2x\nBut sum of int + ext = 180 (angle of a straight line).\n2x + x = 180\n3x = 180\nx = 180/3 = 60\n\nEach ext angle = 360/n\n=> 60 = 360/n\nn = 360/60 = 6",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 205,
+    "question": "Find the mean of the data: 7, -3, 4, -2, 5, -9, 4, 8, -6, 12",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "1",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Mean: [7+(−3)+4+(−2)+5+(−9)+4+8+(−6)+12]/(10) = 20/10\n \n= 2",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 367,
+    "question": "From the diagram given, find the bearing of R from S",
+    "option": {
+      "a": "226°",
+      "b": "224°",
+      "c": "136°",
+      "d": "134°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702538/ALOC-Questions/Mathematics/2005/math_2005_q46_dluvgl.jpg",
+    "answer": "b",
+    "solution": "The bearing of R from S = 180 + 44 = 224°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 368,
+    "question": "In the diagram above calculate the value of x",
+    "option": {
+      "a": "60°",
+      "b": "100°",
+      "c": "120°",
+      "d": "140°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "p + 40° = 100° (exterior ∠ = sum of two interior opp ∠s)\np = 100° - 40°\nP = 60°\nBut q + p = 180° (∠s on a straight line)\nq + 60°\nq = 180° - 60°\nq = 120°\nx = q (corresponding ∠)\n∴x = 120°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 612,
+    "question": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5).",
+    "option": {
+      "a": "3",
+      "b": "2",
+      "c": "5",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let (x1, y1) = (1, 1) and (x2, y2)= (2, 5)\n\nthen gradient m of PQ¯ is\n\nm = y<sub>2</sub>−y<sub>1</sub>/x2−x1 = 5−1/2−1\n\n= 4/1\n\n= 4",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 813,
+    "question": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = 1/12 Calculate the value of",
+    "option": {
+      "a": "√108 cm",
+      "b": "9 cm",
+      "c": "√92 cm",
+      "d": " 10 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using the cosine rule, we have\n\np<sup>2</sup> = q<sup>2</sup> + r<sup>2</sup> − 2qrcosP\np<sup>2</sup> = 8<sup>2</sup> + 6<sup>2</sup> − 2(8)(6)(1/12)\n= 64 + 36 − 8\np<sup>2</sup> = 92∴ p = √9cm",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 871,
+    "question": "If U = {x : x is an integer and 1 ≤ x ≤ 20 }\nE1 = {x: x is a multiple of 3}\nE2 = {x: x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E2",
+    "option": {
+      "a": "3/4",
+      "b": "3/10",
+      "c": "1/4",
+      "d": "1/20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}\n\nE1 = {3, 6, 9, 12, 15, 18}\n\nE2 = {4, 8, 12, 16, 20}\n\nProbability of E2 = 5/20 i.e Total number inE<sup>2</sup>/Entire number in set\n\n\nProbability of set E2 = 1 − 5/20\n\n\n= 15/20\n\n\n= 3/4",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 911,
+    "question": "Find the range of the following set of numbers 0.4, −0.4, 0.3, 0.47, −0.53, 0.2 and −0.2",
+    "option": {
+      "a": "1.03",
+      "b": "0.07",
+      "c": "0.03",
+      "d": "1.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "0.4, −0.4, 0.3, 0.47, −0.53, 0.2, −0.2\n\nRange is the difference between the highest and lowest value\n\ni.e Highest − Lowest\n\n− 0.53, −0.4, −0.2, 0.2, 0.3, 0.4, 0.47\n\n0.47 is the highest\n\n− 0.53 is the lowest\n\n∴ = 0.47 − (− 0.53)\n\n∴0.47 + 0.53\n\n= 1.0",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 961,
+    "question": "What is the loci of a distance 4cm from a given point P?",
+    "option": {
+      "a": "A straight line of length 4cm",
+      "b": " a circle of radius 4cm",
+      "c": " perpendicular to point P at 4cm",
+      "d": "a circle of diameter 4cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Locus is the path traced at by a point which moves in accordance with a certain law. It is also the set of all possible position occupied by an object The path traced from all possible location of 4cm from a given point P form a circle of radius 4cm with centre P.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 997,
+    "question": "Integrate ∫<sub>(-1)</sub><sup>2</sup>(2x<sup>2</sup> + x)dx",
+    "option": {
+      "a": "4(1/2)",
+      "b": "3(1/2)",
+      "c": "7(1/2)",
+      "d": "5(1/24)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msubsup>\n  <mo stretchy=\"false\">(</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>+</mo>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">d</mi>\n  </mrow>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "∫<sub>(-1)</sub><sup>2</sup>(2x<sup>2</sup> + x)dx = [(2x<sup>(2+1)</sup>)/3+x<sup>(1+1)</sup>/2 ]<sub>(-1)</sub><sup>2</sup> = [(2x<sup>3</sup>)/3 + x<sup>2</sup>/2 ]<sub>(-1)</sub><sup>2</sup> = ((2(2)<sup>3</sup> )/3+2<sup>2</sup> 2 ) -((2(-1)<sup>3</sup> )/3+((-1)+M31<sup>2</sup> )/2) = (16/3+2)-((-2)/3+1/2) = 22/3-(-1/6) = 22/3 + 1/6 = 7(1/2)",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1046,
+    "question": "Find the value of x if √2/(x+√2)= 1/√(x−2)\n ",
+    "option": {
+      "a": "3√2 + 4",
+      "b": "3 - 2√2 ",
+      "c": "4 + 2√2 ",
+      "d": "3√2 + 7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "√2/(x + 2) = x - 1/√2\nx√2 (x - √2) = x + √2 (cross multiply)\n\nx√2 - 2 = x + √2 \n\n= x√2 - x \n\n= 2 + √2\nx (√2 - 1) = 2 + √2\n= (2+√2)/(√2 − 1) × (√2+1)/(√2 + 1)\nx = (2√2 + 2 + 2 + √2)/(2 − 1)\n \n\n= 3√2 + 4 ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1202,
+    "question": "Evaluate the inequality x/2+3/4≤ 5x/6 − 7/12",
+    "option": {
+      "a": " x≥4",
+      "b": "x≤3",
+      "c": "x≥−3",
+      "d": "x≤−4"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mi>x</mi>\n    <mn>2</mn>\n  </mfrac>\n  <mo>+</mo>\n  <mfrac>\n    <mn>3</mn>\n    <mn>4</mn>\n  </mfrac>\n  <mo>&#x2264;<!-- ≤ --></mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mi>x</mi>\n    </mrow>\n    <mn>6</mn>\n  </mfrac>\n  <mo>&#x2212;<!-- − --></mo>\n  <mfrac>\n    <mn>7</mn>\n    <mn>12</mn>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "x/2 + 3/4 ≤ 5x/6 −7/12\n\n\n12(x/2) + 12(3/4) ≤ 12(5x/6) −12(7/12)\n\n\n6x + 9 ≤ 10x - 7\n\n6x - 10x ≤ - 7 - 9\n\n-4x ≤ -16\n\n-4x/-4 ≥ -16/-4\n\nx ≥ 4",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1263,
+    "question": "A man sells his new brand car for N420,000 at a gain of 15%. What did it cost him?",
+    "option": {
+      "a": "N410,000",
+      "b": "N365, 217",
+      "c": "N157, 250",
+      "d": "N257,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Cost Price:\n\nSelling price = 100 : (100 + 15)\n\n= 100 : 115\n\nCost Price\n\n= 100 ÷ 115 of selling price (i.e N420,000)\n\n= 100 ÷ 115 × N420,000\n\n= N365,217.4\n\n∴ Cost Price = N365, 217",
+    "examtype": "utme",
+    "examyear": "2015"
+  }
+]
