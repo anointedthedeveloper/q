@@ -464,6 +464,22 @@
     "examyear": "2004"
   },
   {
+    "id": 52,
+    "question": "The most important benefit of insurance is that it Provides ",
+    "option": {
+      "a": "control over activities",
+      "b": "the insured with a right to premium",
+      "c": "the insured with a right to full compensation",
+      "d": "protection against risks."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 53,
     "question": "Which part of the computer system does the keyboard device belong to? ",
     "option": {
@@ -1227,6 +1243,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 156,
+    "question": "Which of the following best describes inputs for any production activity?   ",
+    "option": {
+      "a": "Natural resources.",
+      "b": " Business resources.",
+      "c": "Human resources.",
+      "d": "Material resources."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -2496,6 +2528,22 @@
     "examyear": "2010"
   },
   {
+    "id": 306,
+    "question": "The comparison of a country’s visible and invisible exports and imports expressed in monetary term is ",
+    "option": {
+      "a": "balance of payment ",
+      "b": "terms of trade",
+      "c": "balance of trade",
+      "d": "terms of payment "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 309,
     "question": "The document issued to a port authority when goods are deposited is a ",
     "option": {
@@ -3579,6 +3627,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 438,
+    "question": "Modern mans of payment is greatly facilitated by ",
+    "option": {
+      "a": "e-commerce ",
+      "b": "paper money ",
+      "c": "e-banking ",
+      "d": "D credit transfer "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 440,
+    "question": "A business organization must always consider the overall effect of its actions on the ",
+    "option": {
+      "a": "competitor ",
+      "b": "product ",
+      "c": "profit ",
+      "d": "society "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -4672,6 +4752,22 @@
     "examyear": "2013"
   },
   {
+    "id": 572,
+    "question": "Which of the following does NOT appear on a cheque on presentation for payment?",
+    "option": {
+      "a": "Amount in words and figures",
+      "b": "Date of withdrawal",
+      "c": "Name of the cashier",
+      "d": "Name of the payee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 574,
     "question": "The actual gain made by a business after all expenses has been deducted is called",
     "option": {
@@ -5408,6 +5504,22 @@
     "examyear": "2016"
   },
   {
+    "id": 660,
+    "question": "Commission on turnover is usually a benefit accruable to the",
+    "option": {
+      "a": "drawer",
+      "b": "drawee",
+      "c": "payer",
+      "d": "payee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 662,
     "question": "The component of balance of payments which shows how the balance of both current and capital accounts are settled is \t\t\tknown as",
     "option": {
@@ -5943,6 +6055,22 @@
       "b": "profit",
       "c": "technology",
       "d": "efficiency."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 736,
+    "question": "The composite functions of management are",
+    "option": {
+      "a": "planning, supervising, communicating",
+      "b": "planning, controlling, organizing and directing",
+      "c": "coordinating,  supervising,  staffing  and communicating",
+      "d": "directing,  supervising, motivating and controlling."
     },
     "section": "",
     "image": "",
