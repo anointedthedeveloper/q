@@ -5415,6 +5415,25 @@
     "category": "others"
   },
   {
+    "id": 328,
+    "question": "The students were <i>undeterred</i> by the noisy lecture environment. ",
+    "option": {
+      "a": "frustrated  ",
+      "b": "encouraged",
+      "c": "discouraged",
+      "d": "challenged."
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 329,
     "question": "For anything to do with academic work, he has a great  a <i>version</i>",
     "option": {
@@ -25456,6 +25475,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 35,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1723,
+    "question": "This question is from the novel The Last Days at Forcados High school.\n\n__________ had been expelled from two different schools and kicked out of the university.",
+    "option": {
+      "a": "jolly",
+      "b": "Jimi",
+      "c": " nene ekpo",
+      "d": "wole"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In the latter part of chapter two, Jimi was actually thinking about all that had happened and recounting how his brother “wole” has been expelled from two different school and kicked out of the university. He also thought about about how he (wole) has falsified his father’s signature and made with a lot of money. The answer is (d) Wole",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 36,
     "hasPassage": 0,
     "category": "others"
   },
