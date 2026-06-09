@@ -11488,6 +11488,22 @@
     "examyear": "2024"
   },
   {
+    "id": 752,
+    "question": "When Sulphur(IV)oxide is passed into solution of acidified tetraoxomanganate(VII), the colour changes from",
+    "option": {
+      "a": "blue to green",
+      "b": "pink to yellow",
+      "c": "purple to colourless",
+      "d": "Orange to green"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Acidified potassium tetraoxomanganate(VII) (KMnO₄) is purple in colour. SO₂ acts as a reducing agent, reducing the purple MnO₄⁻ ions (Mn oxidation state +7) to colourless Mn²⁺ ions (oxidation state +2). The SO₂ is simultaneously oxidised to SO₄²⁻. The purple colour of the KMnO₄ solution is therefore discharged, turning the solution colourless.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 753,
     "question": "Water gas obtained from the gasification of coke is made up of",
     "option": {
