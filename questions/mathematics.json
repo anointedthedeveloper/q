@@ -13344,6 +13344,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1160,
+    "question": "Calculate the mean deviation of the first five prime numbers.",
+    "option": {
+      "a": "2.72",
+      "b": "5.6",
+      "c": " 5.25",
+      "d": "13.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The first five prime numbers are 2, 3, 5, 7 and 11\n\nM.D = ∑(x−x̄ )/n\nn = 5\n\nx̄ =∑x/n = (2 + 3 + 5 + 7 + 11)/5 = 28/5 = 5.6\nM.D = ((2 − 5.6) + (3 − 5.6) + (5 − 5.6) + (7 − 5.6)) + (11 − 5.6)/5\n= ((−3.6) + (−2.6) + (−0.6) + (1.4) + (5.4))/5=13.6/5\nTake the absolute value of all numbers in bracket\n\n= (3.6 + 2.6 + 0.6 + 1.4 + 5.4)/5 = 13.6/5\n∴M.D = 2.72",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1161,
     "question": "Determine the area of the region bounded by y = 2x<sup>2</sup> + 10 and Y = 4x + 16\n.",
     "option": {
@@ -13484,6 +13500,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008016/ALOC-Questions/Mathematics/2023/MATH_2023_Q34_sissn4.jpg",
     "answer": "a",
     "solution": "Number of students who scored atleast 25% = 5 + 3 + 8 = 16",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1173,
+    "question": "Solve the following quadratic inequality: x<sup>2</sup> − x - 4 ≤ 2",
+    "option": {
+      "a": "−3 < x < 2",
+      "b": "−2 ≤ x ≤ 3",
+      "c": "x ≤ −2, x ≤ 3",
+      "d": " −2 < x < 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x<sup>2</sup> − x − 4 ≤ 2\n\nSubtract two from both sides to rewrite it in the quadratic standard form:\n= x<sup>2</sup> − x −4 −2 ≤ 2 −2\n\n= x<sup>2</sup> − x − 6 ≤ 0\n\nNow set it = 0 and factor and solve like normal.\n= x<sup>2</sup> − x - 6 =0\n= (x − 3)(x + 2) = 0\nx + 2 = 0 or x - 3 = 0\nx = -2 or x = 3\nSo the two zeros are -2 and 3, and will mark the boundaries of our answer interval. To find out if the interval is between -2 and 3, or on either side, we simply take a test point between -2 and 3 (for instance, x = 0) and evaluate the original inequality.\n= x<sup>2</sup> − x − 4 ≤ 2\n\n= (0)<sup>2</sup> − (0) − 4 ≤ 2\n\n= 0 − 0 − 4 ≤ 2\n\n−4 ≤ 2\n\nSince the above is a true statement, we know that the solution interval is between -2 and 3, the same region where we picked our test point. Since the original inequality was less than or equal, we include the endpoints.\n∴ −2 ≤ x ≤ 3.",
     "examtype": "utme",
     "examyear": "2023"
   },
