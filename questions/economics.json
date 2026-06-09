@@ -1,5 +1,21 @@
 [
   {
+    "id": 5,
+    "question": "If the price of Pepsi decrease relative to the price of coke and 7-up the demand for ",
+    "option": {
+      "a": "coke will decrease ",
+      "b": "7-up will decrease ",
+      "c": "coke and 7-up will increase",
+      "d": "coke and 7-up will decrease."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 6,
     "question": "Suppose wages paid by a firm increase what would reasonably be expected to happen to the equilibrium price and equilibrium quantity for the firm’s output? ",
     "option": {
@@ -352,6 +368,22 @@
     "examyear": "2008"
   },
   {
+    "id": 73,
+    "question": "If a person receives a higher wage than would be necessary to induce him to work, he is be receiving",
+    "option": {
+      "a": "rent ",
+      "b": "profit ",
+      "c": " interest ",
+      "d": " gain "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 75,
     "question": "A characteristic of a debenture is that ",
     "option": {
@@ -363,6 +395,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 78,
+    "question": "Deflation is persistence fall in price in the general price level and is usually caused by ",
+    "option": {
+      "a": "A reduction in total demand ",
+      "b": " An increase in government spending ",
+      "c": " an increase in money supply to banks ",
+      "d": "An increase in aggregate demand "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -750,6 +798,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
+  },
+  {
+    "id": 186,
+    "question": "Economic problems arise because",
+    "option": {
+      "a": "resources are scarce relative to wants",
+      "b": "man is insatiable",
+      "c": "money is scarce",
+      "d": "man engages in too many economic activities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
   },
   {
     "id": 189,
@@ -1424,6 +1488,22 @@
     "examyear": "2009"
   },
   {
+    "id": 329,
+    "question": "In a regulated market, price is determined by",
+    "option": {
+      "a": "Consumers",
+      "b": "producers",
+      "c": "auction",
+      "d": "government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 331,
     "question": "Production takes place when",
     "option": {
@@ -1559,6 +1639,22 @@
       "b": "always measured from the median",
       "c": "the most representative of averages",
       "d": "a measure of dispersion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 372,
+    "question": "The most popular sizes of dresses and shoes are determined by the",
+    "option": {
+      "a": "Range",
+      "b": "mode",
+      "c": "mean",
+      "d": "median"
     },
     "section": "",
     "image": "",
@@ -2603,6 +2699,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 619,
+    "question": "The demand for beans in bags is given by the function Q - 36 + 0.4P = 0. Where P is price in Naira and Q is quantity, find Q when P = 20 Naira.",
+    "option": {
+      "a": "12 bags",
+      "b": "24 bags",
+      "c": "28 bags",
+      "d": "30 bags"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
