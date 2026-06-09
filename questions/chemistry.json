@@ -352,6 +352,22 @@
     "examyear": "2001"
   },
   {
+    "id": 40,
+    "question": "A burning candle produces water and",
+    "option": {
+      "a": "Carbon(II)oxide",
+      "b": "Carbon(IV) oxide",
+      "c": "Oxygen",
+      "d": "Hydrogen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 41,
     "question": "The gas that can best be collected by downward displacement of air is",
     "option": {
@@ -416,6 +432,22 @@
     "examyear": "2002"
   },
   {
+    "id": 46,
+    "question": "A compound contains 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formular of the compound",
+    "option": {
+      "a": "KCLO3",
+      "b": "KCLO4",
+      "c": "KCLO",
+      "d": "KCLO2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 48,
     "question": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from",
     "option": {
@@ -459,6 +491,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 53,
+    "question": "The property which makes alcohol soluble in water is the",
+    "option": {
+      "a": "Hydrogen bonding",
+      "b": "Covalent nature",
+      "c": "Ionic character",
+      "d": "Boiling point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
@@ -1296,6 +1344,22 @@
     "examyear": "2004"
   },
   {
+    "id": 143,
+    "question": "ZnO(s) + CO (g) → Zn(s) + CO2 (g). ",
+    "option": {
+      "a": "Decomposed",
+      "b": "Displaced",
+      "c": "Oxidized",
+      "d": "Reduced"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 145,
     "question": "In the electrolysis of brine, the anode is",
     "option": {
@@ -1808,6 +1872,22 @@
     "examyear": "2005"
   },
   {
+    "id": 206,
+    "question": "The gas that is the most dangerous pollutant to humans is",
+    "option": {
+      "a": "Carbon(IV) oxide",
+      "b": "Nitrogen (II)oxide",
+      "c": "Hydrogen sulphide",
+      "d": "Sulphur(IV) oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 207,
     "question": "In which of the following reactions can the oxidation number of nitrogen be said to have increased",
     "option": {
@@ -1927,6 +2007,22 @@
       "b": "Is strongly oxidizing",
       "c": "Is volatile",
       "d": ""
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 221,
+    "question": "Forms a layer of oxide on the metal   If the heat of combustion of hydrogen is -285.8kJ. what is the heat of formation of water",
+    "option": {
+      "a": "-285.8Kj",
+      "b": "-571.6kJ",
+      "c": "+571kJ",
+      "d": "+285.8kJ"
     },
     "section": "",
     "image": "",
@@ -2080,6 +2176,22 @@
     "examyear": "2006"
   },
   {
+    "id": 238,
+    "question": "An example of aliphatic unsaturated hydrocarbon is",
+    "option": {
+      "a": "Butanol",
+      "b": "Propene",
+      "c": "Pentane",
+      "d": "Benzene"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 240,
     "question": "CH3-CH2-C = CH  The hybridization in the compound above is",
     "option": {
@@ -2187,6 +2299,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 250,
+    "question": "Dynamic equilibrium describes a situation where",
+    "option": {
+      "a": "A reaction gives back the reactants",
+      "b": "Reactants are converted to products",
+      "c": "The concentration of reactants and products is equal",
+      "d": "Both forward and reverse reaction proceed at the same rate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -3232,6 +3360,22 @@
     "examyear": "2016"
   },
   {
+    "id": 376,
+    "question": "The products formed when primary alkanols are oxidized using acidified potassium tetraoxomanganate (VII) are what?",
+    "option": {
+      "a": "CH₃CH₂CHO and H₂O",
+      "b": "CH₃CHO and CO₂",
+      "c": "CH₃CH₂COOH and H₂",
+      "d": "CH₃COOH and CO₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a primary alkanol such as propan-1-ol (CH₃CH₂CH₂OH) is oxidized with acidified KMnO₄ under mild/controlled conditions, it first forms an aldehyde (CH₃CH₂CHO, propanal) and water. Further oxidation gives the carboxylic acid, but the initial oxidation product of the primary alkanol is the aldehyde.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 378,
     "question": "Which of the following is not an alkali?",
     "option": {
@@ -3260,6 +3404,22 @@
     "image": "",
     "answer": "b",
     "solution": "Tin (Sn) ore, cassiterite (SnO₂), is concentrated using a magnetic separator because the ore is weakly magnetic (or the gangue minerals are), allowing separation of the ore from impurities. This method is used in tin's extraction process at the concentration/dressing stage.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 381,
+    "question": "An example of an acidic oxide is",
+    "option": {
+      "a": "NO",
+      "b": "CO",
+      "c": "SO₂",
+      "d": "CuO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "SO₂ is an acidic oxide — it dissolves in water to form sulphurous acid (H₂SO₃) and reacts with bases to form salts. NO and CO are neutral oxides (they do not react with acids or bases to form salts). CuO is a basic oxide (reacts with acids, not with bases).",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3600,6 +3760,22 @@
     "examyear": "2017"
   },
   {
+    "id": 412,
+    "question": "The process that occurs when two equivalent forms of a compound are in equilibrium is",
+    "option": {
+      "a": "Isotopy",
+      "b": "Resonance",
+      "c": "Isomerism",
+      "d": "Reforming"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Resonance occurs when a molecule can be represented by two or more equivalent Lewis structures (resonance structures) that are in equilibrium or, more accurately, whose combination represents the true structure. The actual molecule is a hybrid of all contributing resonance structures. A classic example is benzene.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 413,
     "question": "In the laboratory preparation of ethyl ethanoate, the water present in the mixture is removed using",
     "option": {
@@ -3740,6 +3916,22 @@
     "image": "",
     "answer": "b",
     "solution": "Tin is resistant to corrosion at ordinary temperatures because of its weak electropositive (low reactivity) character. It has a low tendency to lose electrons and oxidize in air. This weak electropositive character means it does not readily react with oxygen or moisture at room temperature, making it useful as a protective coating (tinning).",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 429,
+    "question": "Calculate the amount in moles of silver deposited when 9650 C of electricity is passed through a solution of silver salt [F = 96500 C mol⁻¹]",
+    "option": {
+      "a": "0.05",
+      "b": "10.8",
+      "c": "10",
+      "d": "0.1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ag⁺ + e⁻ → Ag (one mole of electrons deposits one mole of Ag). Moles of electrons = charge/F = 9650/96500 = 0.10 mol. Therefore moles of Ag deposited = 0.10 mol.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4080,6 +4272,22 @@
     "examyear": "2018"
   },
   {
+    "id": 470,
+    "question": "Which of the following statements is correct about the periodic table?",
+    "option": {
+      "a": "Elements in the same period have the same number of valence electrons",
+      "b": "The valence electrons of the elements in the same period increase progressively across the period",
+      "c": "Elements in the same group have the same number of electron shells",
+      "d": "The non-metallic properties of the elements tend to decrease across each period"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Across a period, the number of valence electrons increases progressively from left to right (e.g., Period 3: Na=1, Mg=2, Al=3, Si=4, P=5, S=6, Cl=7, Ar=8). Elements in the same group have the same valence electrons (not shells); elements in the same period have the same number of electron shells. Non-metallic properties increase (not decrease) across a period.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 471,
     "question": "The periodic classification is an arrangement of the elements in order of their",
     "option": {
@@ -4204,6 +4412,22 @@
     "image": "",
     "answer": "d",
     "solution": "Reaction: 2H₂ + O₂ → 2H₂O. Molar ratio H₂:O₂ = 2:1. O₂ required to react with 8 cm³ H₂ = 8/2 = 4 cm³. O₂ remaining = 20 - 4 = 16 cm³.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 482,
+    "question": "If one of the following oxides is heated with hydrogen or carbon using a Bunsen burner, it is not reduced to the metal. Which one is it?",
+    "option": {
+      "a": "Lead oxide",
+      "b": "Magnesium oxide",
+      "c": "Copper oxide",
+      "d": "Tin oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Magnesium is a very reactive metal (high in the electrochemical series) and its oxide (MgO) is very stable. It cannot be reduced by hydrogen or carbon at Bunsen burner temperatures. Lead oxide, copper oxide, and tin oxide are oxides of less reactive metals and can be reduced to their metals by H₂ or C at moderate temperatures.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -4880,6 +5104,22 @@
     "examyear": "2020"
   },
   {
+    "id": 572,
+    "question": "The volume occupied by 1.58g of a gas at S.T.P is 500cm³. What is the relative molecular mass of the gas? [G.M.V at S.T.P = 22.4dm³]",
+    "option": {
+      "a": "28",
+      "b": "32",
+      "c": "44",
+      "d": "71"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "At STP, 500 cm³ = 0.5 dm³ of gas has mass 1.58 g. Moles of gas = volume ÷ GMV = 0.5 ÷ 22.4 = 0.02232 mol. Molar mass = mass ÷ moles = 1.58 ÷ 0.02232 = 70.8 ≈ 71 g/mol. Relative molecular mass = 71.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 573,
     "question": "Which of the following gases will rekindle a brightly glowing splint?",
     "option": {
@@ -5164,6 +5404,22 @@
     "image": "",
     "answer": "b",
     "solution": "Carbon dioxide (CO₂) is the primary greenhouse gas responsible for global warming. It traps heat from the sun in the earth's atmosphere by absorbing infrared radiation, preventing it from escaping into space. Human activities such as burning fossil fuels and deforestation increase CO₂ levels, intensifying the greenhouse effect.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 606,
+    "question": "Oxygen is absent in?",
+    "option": {
+      "a": "Kerosene",
+      "b": "Soil",
+      "c": "Glass",
+      "d": "Cement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Kerosene is a hydrocarbon mixture containing only carbon and hydrogen atoms, with no oxygen in its composition. Soil contains water and oxides, glass contains silicon dioxide (SiO₂) and metal oxides, and cement contains calcium silicates and aluminates, all of which contain oxygen. Kerosene is the only substance listed that contains no oxygen.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -6764,6 +7020,22 @@
     "image": "",
     "answer": "d",
     "solution": "Reduction is the gain of electrons (decrease in oxidation state). Cl₂ goes from oxidation state 0 to -1 in NaCl, so it gains electrons and undergoes reduction. Na goes from 0 to +1, so Na is oxidized.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 768,
+    "question": "The sublimation of solid to gas involves",
+    "option": {
+      "a": "energy absorption",
+      "b": "vapourization",
+      "c": "melting",
+      "d": "osmotic diffusion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sublimation is an endothermic process in which a solid converts directly to gas without passing through the liquid state. Energy must be absorbed to overcome intermolecular forces, so the process involves energy absorption.",
     "examtype": "utme",
     "examyear": "2025"
   },
