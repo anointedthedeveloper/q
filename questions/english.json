@@ -11533,6 +11533,25 @@
     "category": "others"
   },
   {
+    "id": 674,
+    "question": "YOUR sister should come with us tomorrow?",
+    "option": {
+      "a": "Should your brother come with us tomorrow?",
+      "b": "Should our brother come with us tomorrow?",
+      "c": "Should Ado's sister come with us tomorrow?",
+      "d": "Should my sister come with us tomorrow?"
+    },
+    "section": "<b>In each of questions 78 to 80, the word in capital letters has an emphatic stress. Choose the option that best fits the expression in the sentence.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "In answering questions on emphatic stress, the statement which contradicts the emphasized word is usually the correct option.\n\nFrom the question above, the emphatic stress is placed on 'YOUR', and the option which contradicts it, is option 'C'.\n\nShould ADO's sister come with us tomorrow? No!\n\nYOUR sister should come with us tomorrow?",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 78,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 675,
     "question": "My neighbour BRUISED his thigh while playing football?",
     "option": {
