@@ -480,6 +480,22 @@
     "examyear": "2000"
   },
   {
+    "id": 85,
+    "question": "if (x - 1), (x + 1) and (x - 2) are factors of the polynomial ax<sup>3</sup> + bx<sup>2</sup> + cx - 1, find a, b, c in that order.\n",
+    "option": {
+      "a": "-1/2, 1., 1/2",
+      "b": "1/2, 1, 1/2",
+      "c": " 1/2, 1, -1/2",
+      "d": " 1/2, -1, 1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This is a polynomial of the 3rd order, thus x should have three answers. Use the factors given to get values of x as 1, -1 and -2.\nForm three equations, and carry out elimination and subsequent substitution to get a = -1/2, b = 1, and c = 1/2",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 90,
     "question": "P is a point on one side of the straight line UV and P moves in the same direction as UV. If the straight line ST is on the locus of P and angle VUS = 60°, find angle UST.",
     "option": {
@@ -1200,6 +1216,22 @@
     "examyear": "2002"
   },
   {
+    "id": 181,
+    "question": "Evaluate ∫sin3xdx",
+    "option": {
+      "a": " (2/3) cos 3x + c",
+      "b": "(1/3) cos 3x + c",
+      "c": "(-1/3) cos 3x + c",
+      "d": "(-2/3) cos 3x + c"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>&#x222B;<!-- ∫ --></mo>\n  <mi>sin</mi>\n  <mo>&#x2061;<!-- ⁡ --></mo>\n  <mn>3</mn>\n  <mi>x</mi>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">d</mi>\n  </mrow>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "∫sin3xdx=−cos3x/3 + c\n= −1/3 (cos 3x) + c",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 183,
     "question": "If y=x<sup>2</sup>−1x. find dy/dx",
     "option": {
@@ -1680,6 +1712,22 @@
     "examyear": "2003"
   },
   {
+    "id": 249,
+    "question": "The histogram above shows the ages of the victims of a pollution. How many people were involved in the pollution?",
+    "option": {
+      "a": "15",
+      "b": "18",
+      "c": "20",
+      "d": " 21"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699321/ALOC-Questions/Mathematics/2003/math_2003_q28_fhor2c.jpg",
+    "answer": "c",
+    "solution": "age\tPeople\n10\t3\n20\t4\n30\t5\n40\t6\n50\t2\n                    20",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 250,
     "question": "Triangle OPQ is the solution of the inequalities",
     "option": {
@@ -1740,6 +1788,22 @@
     "image": "",
     "answer": "a",
     "solution": "Black balls = 5\nRed balls = 3/8\nP(B) = 5/8, P(R) = 3/8\nP( a Black and a Red) = BR + RB\n= (5/8) * (3/7) * (3/8) * (5/7)\n= (15/56) + (15/56)\n= 30/56\n= 15/28",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 259,
+    "question": "An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc.",
+    "option": {
+      "a": "11cm",
+      "b": "22cm",
+      "c": "44cm",
+      "d": "66cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "θ = 30 x 2(∠ at center twice ∠ at θ)\n∴ θ = 60°\nLength of arc = θ/360 x 2πr = 60/360 x 2 x 22/7 x 21/1 = 22cm\n \n \n \n ",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -1852,6 +1916,22 @@
     "image": "",
     "answer": "a",
     "solution": "Midpoint = (x<sub>1</sub>+x<sub>2</sub>)/2; (y<sub>1</sub>+y<sub>2</sub>)/2 = (−3+5)/2; (5−3)/2 = 2/2; 2/2 = (1, 1)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 280,
+    "question": "The locus of a point which is 5 cm from the line LM is a",
+    "option": {
+      "a": "line distance 10 cm from LM and parallel to LM",
+      "b": "pair of line on opposite sides of LM and parallel to it, each distance 5 cm from LM",
+      "c": " line parallel to LM and 5 cm from LM",
+      "d": "pair of parallel lines on one side of LM and parallel to LM"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The locus of a point which is 5cn from the line LM is a pair of lines on opposite sides of LM and parallel to it, each distance 5cm from LM",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -2016,6 +2096,22 @@
     "examyear": "2004"
   },
   {
+    "id": 305,
+    "question": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive?",
+    "option": {
+      "a": "8/15",
+      "b": "11/25",
+      "c": "12/25",
+      "d": " 13/25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "First teacher received 2/5\n ∴Remainder =1−2/5=3/5\n\n2nd teacher received; 2/15 of 3/5 = 2/15 × 3/5 = 2/25\n\n3rd teacher will receive; 1−2/5 – 2/25 = (25−10−2)/15 = 13/25",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 308,
     "question": "Given that 3√4<sup>2x</sup>  = 16, find the value of x",
     "option": {
@@ -2028,6 +2124,22 @@
     "image": "",
     "answer": "c",
     "solution": "4<sup>2x</sup>  = 16\nthis implies that (3√4<sup>2x</sup>)<sup>3</sup>. 4<sup>2x</sup>  = 4<sup> 2*3</sup>\n4<sup>2x</sup>= 4<sup>6</sup>\n∴ 2x = 6\nx = 3",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 309,
+    "question": "Evaluate  (1/10×2/3+1/4)/((1/2)/(3/5)-1/4)",
+    "option": {
+      "a": "7/12",
+      "b": "19/35",
+      "c": "2/25",
+      "d": "19/60"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mfrac>\n        <mn>1</mn>\n        <mn>10</mn>\n      </mfrac>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mfrac>\n        <mn>2</mn>\n        <mn>3</mn>\n      </mfrac>\n      <mo>+</mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n    </mrow>\n    <mrow>\n      <mfrac>\n        <mfrac>\n          <mn>1</mn>\n          <mn>2</mn>\n        </mfrac>\n        <mfrac>\n          <mn>3</mn>\n          <mn>5</mn>\n        </mfrac>\n      </mfrac>\n      <mo>&#x2212;<!-- − --></mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n    </mrow>\n  </mfrac>\n</math>\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mfrac>\n        <mn>1</mn>\n        <mn>10</mn>\n      </mfrac>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mfrac>\n        <mn>2</mn>\n        <mn>3</mn>\n      </mfrac>\n      <mo>+</mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n    </mrow>\n    <mrow>\n      <mfrac>\n        <mfrac>\n          <mn>1</mn>\n          <mn>2</mn>\n        </mfrac>\n        <mfrac>\n          <mn>3</mn>\n          <mn>5</mn>\n        </mfrac>\n      </mfrac>\n      <mo>&#x2212;<!-- − --></mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(1/10×2/3+1/4)/((1/2)/(3/5)-1/4) Numerator 1/10×2/3+1/4=1/5+1/4=(4+15)/60=19/60 denominator=(1/2)/(3/5)-1/4=1/2×5/3-1/4=5/6-1/4=(10-3)/12=7/12  Numerator/denominator=(19/60)/(7/12)=19/60×12/7=19/35",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -2304,6 +2416,22 @@
     "examyear": "2005"
   },
   {
+    "id": 355,
+    "question": "Evaluate  ∫<sub>0</sub>, <sup>(π/2</sup>sin2xdx",
+    "option": {
+      "a": "1",
+      "b": "Zero",
+      "c": "-1/2",
+      "d": "-1"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mn>0</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mi>&#x03C0;<!-- π --></mi>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msubsup>\n  <mi>s</mi>\n  <mi>i</mi>\n  <mi>n</mi>\n  <mn>2</mn>\n  <mi>x</mi>\n  <mi>d</mi>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "∫<sub>0</sub><sup>(π/2</sup>sin2xdxx = [-1/2cos 2x + C]<sup>(π/2</sup, <sub>0</sub>\n\n=[-1/2 cos 2 * π/2 + C] - [-1/2 cos 2 * 0]\n= [-1/2 cos π] - [-1/2 cos 0]\n= [-1/2x - 1] - [-1/2 * 1]\n= 1/2 -(-1/2) = 1/2 + 1/2 = 1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 359,
     "question": "The model height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r respectively. Find m+2r.",
     "option": {
@@ -2508,6 +2636,22 @@
     "image": "",
     "answer": "b",
     "solution": "dy/dx = 2x + 7\ny = ∫2x + 7\ny = x2 + 7x + C at (2,0)\n0 = 22 + 7(2) + C\n0 = 4 + 14 + C\n0 = 18 + C\nC = -18\n∴ The equation is y = x<sup>2</sup> + 7x - 18",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 381,
+    "question": "Differentiate (x<sup>2</sup> - 1/x)<sup>2</sup> with respect to x",
+    "option": {
+      "a": " 4x<sup>2</sup> - 4x - 2/x",
+      "b": " 4x<sup>2</sup> - 2 + 2/x3",
+      "c": "4x<sup>2</sup> - 2 - 2/x3",
+      "d": "4x<sup>2</sup> - 3x + 2/x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = (x<sup>2</sup> - 1/x)<sup>2</sup>\ny = (x<sup>2</sup> - 1/x)(x<sup>2</sup> - 1/x)\ny = x<sup>4</sup> - x - x + 1/x<sup>2</sup>\ny = x<sup>4</sup> - 2x + 1/x<sup>2</sup>\ny= x<sup>4</sup> - 2x + x<sup>-2</sup>\ndy/dx = 4x<sup>2</sup> - 2 - 2x<sup>-3</sup>\n= 4x<sup>2</sup> - 2 - 2/x<sup>3</sup>",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -2908,6 +3052,22 @@
     "image": "",
     "answer": "a",
     "solution": "-3(x-3) < -2(x+3) = -3x + 6 < -2x - 6\n-3x + 2x < -6 - 6\n-x < - 12\nx > -12/-1\nx > 12",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 443,
+    "question": "The nth term of the sequence 3/2, 3, 7, 16, 35, 74 ..... Is",
+    "option": {
+      "a": "5 . 2<sup>n-2</sup> - n",
+      "b": "5 . 2<sup>n-2</sup>  - (n+1) / 2",
+      "c": "3 . 2<sup>n-2</sup> ",
+      "d": "3/2 n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "3/2, 3, 7, 16, 35, 74, ....\nUsing the method of substitution\nWhen n = 1, 5 . 2<sup>n-2</sup> - 1 = 5 . 2<sup>1-2</sup> - 1\n= 5 x 2<sup>-1</sup> - 1\n= 5 x 1/2 - 1\n= 5/2 - 1 = 3/2\nWhen n = 1, 5 . 2<sup>n-2</sup> - n\n= 5 . 2<sup>2-2</sup> - 2\n= 5 x 2<sup>0</sup> - 2\n= 5 x 1 – 2 = 3\nWhen n = 3, 5 . 2<sup>n-2</sup> - n\n= 5 . 2<sup>3-2</sup> - 3\n= 5 x 21 - 3\n= 5 x 2 – 3\n= 10 -3 = 7\nWhen n = 4, 5 . 2<sup>n-2</sup> - n\n= 5 . 2<sup>4-2</sup> - 4\n= 5 x 2<sup>2</sup> - 4\n= 5 x 4 – 4\n= 20 – 4 = 16\nWhen n = 5, 5 . 2<sup>n-2</sup> - n\n= 5 . 2<sup>5-2</sup> - 5\n= 5 x 2<sup>3</sup> - 5\n= 5 x 8 – 5\n= 40 – 5\n= 35\nWhen n = 6, 5 . 2<sup>n-2</sup> - n\n= 5 . 2<sup>6-2</sup> - 6\n= 5 x 2<sup>4</sup> - 6\n= 5 x 16 – 6\n= 80 – 6 = 74\n∴ 5 . 2<sup>n-2</sup> - 1 = 3/2, 3, 7, 16, 35, 74",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -3392,6 +3552,22 @@
     "examyear": "2009"
   },
   {
+    "id": 526,
+    "question": "A student spent 1/5 of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept?",
+    "option": {
+      "a": "7/15",
+      "b": "8/15",
+      "c": "2/5",
+      "d": " 4/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let his allowance = y.\n\nBooks=  y/5                   Remainder: y − y/5 = 4y/5 \nFood: 1/2 × 4y/5 = 2y/5\nContingencies: 4y/5−2y5=2y5\nTherefore, he kept 2/5 of his allowance for contingencies.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 527,
     "question": "If log<sub>10</sub>2 = 0.3010 and log<sub>10</sub>7 = 0.8451, evaluate log<sub>10</sub>280",
     "option": {
@@ -3452,6 +3628,22 @@
     "image": "",
     "answer": "a",
     "solution": "If 4/3 and -3/5 are roots of a polynomial\nImply x = 4/3 and - 3/5\n3x = 4 and 5x = -3\n∴3x-4 = 0 and 5x+3 = 0 are factors\n(3x-4)(5x+3) = 0 product of the factors\n15x2 + 9x – 20x – 12 = 0 By expansion\n15x2 - 11x – 12 = 0",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 533,
+    "question": "Which of the following equations represent the graph above?",
+    "option": {
+      "a": "y = 2+7x+4x<sup>2</sup>",
+      "b": "y = 2-7x+4x<sup>2</sup>",
+      "c": "y = 2+7x-4x<sup>2</sup>",
+      "d": "y = 2-7x-4x<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547011/ALOC-Questions/Mathematics/2009/MATH_2009_Q12_dxlsag.jpg",
+    "answer": "d",
+    "solution": "x = -2 and x = 1/4\nx = -2 and 4x = 1\nx+2 and 4x-1\n(x+2)(4x-1) = 0\n4x2 - x + 8x -2 = 0\n4x2 + 7x – 2 = 0 but y intercept is positive. Multiply the equation by -1\n-4x2 - 7x + 2 = 0\n∴y = 2 – 7x – 4x<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -3596,6 +3788,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547196/ALOC-Questions/Mathematics/2009/MATH_2009_Q28_SOLUTION_bqdqr5.jpg",
     "answer": "b",
     "solution": "Locus of a particle which moves in the first quadrant so that it is equidistant from the lines\nX = 0 and Y = 0 are the x and y axes as the lines bisecting the angle between x and y axes.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 551,
+    "question": "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is 2/3?",
+    "option": {
+      "a": "-2",
+      "b": "-1",
+      "c": "1",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGradient =\t(y<sub>2</sub> - y<sub>1</sub>)/(x<sub>2</sub> - x<sub>1</sub>)\n\n2/3 =4-p/(p-(-1))\n2/3 = 4-p/p+1\n\n3(4-p) = 2(p+1)\n12 - 3p = 2p + 2\n12 – 2 = 2p + 3p\n10 = 5p\np =10\n5= 2",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -3936,6 +4144,22 @@
     "examyear": "2010"
   },
   {
+    "id": 592,
+    "question": "Find r, if 6r7<sub>8</sub> = 511<sub>9</sub>",
+    "option": {
+      "a": "3",
+      "b": "2",
+      "c": "6",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": " 6r7<sub>8</sub> = 511<sub>9</sub>                               \n6 x 8<sup>2</sup> + r x 8<sup>1</sup> + 7 x 8<sup>0</sup> = 5 x 9<sup>2</sup> + 1 x 9<sup>1</sup> + 1 x 9<sup>0</sup>\n\n6 x 64 + 8r + 7 x 1 = 5 x 81 + 9 + 1 x 1\n\n384 + 8r + 7 = 405 + 9 + 1\n\n \n\n8r = 415 - 391\n\n 8r = 24\n\nr = 24/8\n\n= 3",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 594,
     "question": "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement?",
     "option": {
@@ -3980,6 +4204,22 @@
     "image": "",
     "answer": "b",
     "solution": "p = M/5(X + Q) + 1\n\nP - 1 = M/5(X + Q)\n\n5/M(p - 1) = X + Q\n\n5/M(p - 1)- x = Q\n\nQ = 5(p−1)−Mx/M\n\n= 5p−5−Mx/M\n\n= 5p−Mx−5/M",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 601,
+    "question": "If 9x<sup>2</sup>  + 6xy + 4y<sup>2</sup>  is a factor of 27x<sup>3</sup>  - 8y<sup>3</sup> , find the other factor.",
+    "option": {
+      "a": "2y + 3x",
+      "b": " 2y - 3x",
+      "c": "3x + 2y",
+      "d": " 3x - 2y"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "27x<sup>3</sup>  - 8y<sup>3</sup> = (3x - 2y)3\n\nBut 9x<sup>2</sup>  + 6xy + 4y<sup>2</sup>  = (3x +2y)2\n\nSo, 27x<sup>3</sup>  - 8y<sup>3</sup>  = (3x - 2y)(3x - 2y)<sup>2</sup> \n\nHence the other factor is 3x - 2y",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -4400,6 +4640,22 @@
     "examyear": "2012"
   },
   {
+    "id": 723,
+    "question": "Evaluate 21/9 to 3 significant figures",
+    "option": {
+      "a": "2.30",
+      "b": "2.31",
+      "c": "2.32",
+      "d": "2.33"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "21/9 = 7/3 = 2.33 (to 3 sig. figs)",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 725,
     "question": "If 27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>, find x.",
     "option": {
@@ -4412,6 +4668,22 @@
     "image": "",
     "answer": "b",
     "solution": "27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>,\n \n3<sup>3(x+2)</sup> ÷ 3<sup>2(x+1)</sup> =3<sup>2x</sup> \n3<sup>3x+6</sup> ÷ 3<sup>2x+2</sup> = 3<sup>2x</sup> \n∴ (3x + 6) − (2x + 2) = 2x\nx + 4 = 2x ⟹ x = 4",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 727,
+    "question": "Simplify (√6+2)<sup>2</sup> −(√6−2)<sup>2</sup> ",
+    "option": {
+      "a": "2√6",
+      "b": "4√6",
+      "c": "8√6",
+      "d": "16√6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "√6+2)<sup>2</sup> −(√6−2)<sup>2</sup>  =  [(√6+2)+(√6 − 2)][(√6 + 2) − (√6 − 2)]\n\n= (√6 + 2 + √6 − 2)(√6 + 2− √6 + 2)]\n\n\n= (2√6)(4)\n\n\n= 8√6",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -5168,6 +5440,22 @@
     "examyear": "2016"
   },
   {
+    "id": 836,
+    "question": "Calculate the perimeter of a sector of a circle of raduis 12cm and angle 60°.",
+    "option": {
+      "a": " (12 + 4π)cm",
+      "b": "(24 + 4π)cm",
+      "c": "(12 + 6π)cm",
+      "d": "(24 + 6π)cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Perimeter = 2r + θ/360\n x 2πr\n= 2(12) + 60/360\n x 2 x π x 12\n= (24 + 4π)cm",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 842,
     "question": "Evaluate (〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2)",
     "option": {
@@ -5468,6 +5756,22 @@
     "image": "",
     "answer": "c",
     "solution": "Total Cost Price = N(250,000 + 70,000)\n\n= N 320,000\n\nSelling Price = N 400,000(Given)\n\nGain = Selling Price - Cost Price\n\n= 400,000 - 320,000\n\n= 80,000\n\n% gain = Gain/Cost Price\n × 100\n\n= (80,000/320,000) × 100\n\nGain % = 25%",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 894,
+    "question": "Evaluate 0.00000231/0.007\n and leave the answer in standard form",
+    "option": {
+      "a": "3.3 x 10<sup>-4</sup>",
+      "b": "3.3 x 10<sup>-3</sup>",
+      "c": "3.3 x 10<sup>-5</sup>",
+      "d": "3.3 x 10<sup>-8</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "0.00000231/0.007 to standard form\n\n= 231×10<sup>-8</sup>/7×10<sup>-3</sup>\n\n\n= 33 × 10<sup>−8−(−3)</sup>\n\n\n= 33 × 10<sup>−8 + 3</sup>\n\n\n= 33 × 10<sup>-5</sup>\n\n= 3.3 x 10<sup>-4</sup>",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -6252,6 +6556,22 @@
     "image": "",
     "answer": "c",
     "solution": "4sin<sup>2</sup>x − 3 = 0\n4sin<sup>2</sup>x = 3 ⟹ sin<sup>2</sup>x = 3/4 \nsin x = √3/2\n∴ x = sin<sup>−1</sup>(√3/2)\nx = 60°",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 986,
+    "question": "In the figure above, |CD| is the base of the triangle CDE. Find the area of the figure to the nearest whole number.",
+    "option": {
+      "a": "56 cm<sup>2</sup>",
+      "b": "24 cm<sup>2</sup>",
+      "c": "42 cm<sup>2</sup>",
+      "d": "34 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006832/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q19_o3ffor.jpg",
+    "answer": "d",
+    "solution": "Area of rectangle ABCD = length x breadth\n\n= 7 x 4 \n\n= 28 cm<sup>2</sup>\nArea of triangle CDE = 1/2\n base x height\n\n= 1/2 × 3 × 4\n= 6 cm<sup>2</sup>\nArea of the figure = 28 cm<sup>2</sup>\n + 6 cm<sup>2</sup> = 34 cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -7472,6 +7792,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1162,
+    "question": "Find the value of y if 402<sub>y</sub> =102<sub>ten</sub>",
+    "option": {
+      "a": " 4",
+      "b": "2",
+      "c": "5",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "402<sub>y</sub> =102<sub>ten</sub> \n \n⇒ 4 x y<sup>2</sup> + 0 x y<sup>1</sup> + 2 x y<sup>0</sup>\n = 102\n\n⇒ 4y<sup>2</sup> + 0 + 2 x 1 = 102\n\n⇒ 4y<sup>2</sup> + 2 = 102\n\n⇒ 4y<sup>2</sup> = 102 - 2\n\n⇒ 4y<sup>2</sup> = 100\n\n⇒ y<sup>2</sup>=100/4\n⇒ y<sup>2</sup> = 25\n\n∴ y = √25 = 5",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1165,
     "question": "Factorize: 16x<sup>4</sup>−y<sup>4</sup>",
     "option": {
@@ -7548,6 +7884,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given the sequence 3, 8, 13, 18, ... which is an arithmetic sequence\n\na = 3\n\nd = T<sub>2</sub>  - T<sub>1</sub>  = 8 - 3 = 5\n\nThe general term of an A.P is:\n\nT<sub>n</sub>  = a + (n - 1)d\n\n⇒ T<sub>n</sub> = 3 + (n - 1)5\n\n= T<sub>n</sub> = 3 + 5n - 5\n\n∴ T<sub>n</sub> = 5n - 2",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1175,
+    "question": "The locus of a point equidistant from two intersecting lines is",
+    "option": {
+      "a": "where the sum of the distances of two focal points is fixed",
+      "b": " the collection of points that are equally distant from a fixed point and a line",
+      "c": "the perpendicular bisector of the lines",
+      "d": "pair of bisectors of the angles between the two lines"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The locus of a point equidistant from two intersecting lines is pair of bisectors of the angles between the two lines.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7644,6 +7996,22 @@
     "image": "",
     "answer": "d",
     "solution": "Principal (P) = ₦15,700\n\nRate (R) = 8\n\nNumber of years (t) = 2\n\nA = P (1 + R/100)<sup>t</sup>\n⇒ A = 15700 (1 + 8/100)<sup>2</sup>\n⇒ A = 15700 (1 + 0.08)<sup>2</sup>\n⇒ A = 15700 (1.08)<sup>2</sup>\n⇒ A = 15700  x 1.1664\n\n⇒ A = ₦18,312.48\n\nTotal amount, A = ₦18,312.48\n\nA = P + CI\n\n⇒ CI = A - P\n\n⇒ CI = 18,312.48 - 15,700\n\n∴ CI = ₦2,612.48",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1185,
+    "question": "Find the volume of the cylinder above[Take π=22/7\n]",
+    "option": {
+      "a": " 9,856 cm<sup>3</sup>",
+      "b": "14,784 cm<sup>3</sup>",
+      "c": " 4,928 cm<sup>3</sup>",
+      "d": "19,712 cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008105/ALOC-Questions/Mathematics/2023/MATH_2023_Q49_sjanft.jpg",
+    "answer": "b",
+    "solution": "Volume of the cylinder = θ/360×πr<sup>2</sup>h\nθ = 360<sup>o</sup> - 90<sup>o</sup>\n = 270<sup>o</sup>\n∴ Volume of the cylinder = 270/360 × 22/7 × 14<sup>2</sup>/1 × 32/1 = 37,255,680/2520 =14,784 cm<sup>3</sup>",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7852,6 +8220,22 @@
     "image": "",
     "answer": "a",
     "solution": "Gradient m=y<sub>2</sub> −y<sub>1</sub> /x<sub>2</sub> −x<sub>1</sub> \n \n\n1/2 = (2−4)/(1−x)\n\n\n1 - x = 2(2 - 4)\n\n1 - x = 4 - 8\n\n1 - x = -4\n\n-x = -4 - 1\n\nx = 5",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1213,
+    "question": "Calculate the mid point of the line segment y - 4x + 3 = 0, which lies between the x-axis and y-axis.",
+    "option": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206600/ALOC-Questions/Mathematics/2014/Screenshot_2024-09-01_at_5.03.09_PM_qxstzm.png",
+    "answer": "a",
+    "solution": "y - 4x + 3 = 0\n\nWhen y = 0, 0 - 4x + 3 = 0\n\nThen -4x = -3\n\nx = 3/4\n\nSo the line cuts the x-axis at point (3/4, 0).\n\nWhen x = 0, y - 4(0) + 3 = 0\n\nThen y + 3 = 0\n\ny = -3\n\nSo the line cuts the y-axis at the point (0, -3)\n\nHence the midpoint of the line y - 4x + 3 = 0, which lies between the x-axis and the y-axis is;\n\n[1/2(x<sub>1</sub> +x<sub>2</sub> ),1/2(y<sub>1</sub> +y<sub>2</sub> )]\n\n\n[1/2(3/4+0),1/2(0+−3)]\n\n\n[1/2(3/4),1/2(−3)]\n\n\n[3/8,−3/2]",
     "examtype": "utme",
     "examyear": "2014"
   },
