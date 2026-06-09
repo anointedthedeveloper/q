@@ -1376,6 +1376,22 @@
     "examyear": "2005"
   },
   {
+    "id": 99,
+    "question": "The urinary tubules of the kidney function through  ",
+    "option": {
+      "a": "osmosis and diffusion  ",
+      "b": "active transport and osmosis  ",
+      "c": "ultra filtration and selective re-absorption",
+      "d": "active transport and cytoplasmic streaming  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 100,
     "question": "Excess water  in plants is excreted as water vapour and droplets respectively through  ",
     "option": {
@@ -3232,6 +3248,22 @@
     "examyear": "2009"
   },
   {
+    "id": 225,
+    "question": "In a cell, the genes are carried by  ",
+    "option": {
+      "a": "nuclear membranes",
+      "b": "chromatin threads  ",
+      "c": "lysosomes",
+      "d": "mitochondria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 226,
     "question": "Alternation of a sexual and sexual modes of reproduction is found in",
     "option": {
@@ -4235,6 +4267,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 298,
+    "question": "If both parents are heterozygous for trait, he probability that an offspring will be recessive for that trait is",
+    "option": {
+      "a": "¾   ",
+      "b": "½    ",
+      "c": "¼",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
