@@ -832,6 +832,22 @@
     "examyear": "2010"
   },
   {
+    "id": 71,
+    "question": "  A long-jumper leaves the ground at an angle of 20o above the horizontal and at speed of 11m/s. How far does it jumps in the horizontal direction? ",
+    "option": {
+      "a": "0.384m ",
+      "b": "7.94m ",
+      "c": "8.45m ",
+      "d": "5m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 75,
     "question": "An automobile is traveling at 60km/hr. calculate the angular velocity of the 0.35m radius wheels. ",
     "option": {
@@ -1388,6 +1404,22 @@
     "image": "",
     "answer": "b",
     "solution": "A vector quantity has both magnitude and direction",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 142,
+    "question": "In which of the following device is the expansion of solid not required?\n\nI. Simple pendulum\nII. Fire alarms\nIII. Thermostat\nIV. Bimetallic thermometer",
+    "option": {
+      "a": "III only",
+      "b": " II & III only",
+      "c": "I only",
+      "d": " II, III & IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Simple pendulum does not depend on thermal expansion\n\nFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2060,6 +2092,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nNumber of moles (n) = 6 moles\nPressure (P) = 7.6 × 10⁶ Nm⁻²\nVolume (V) = 10⁻³ m³\nGas constant (R) = 8.3 J mol⁻¹ K⁻¹\n\nUsing the Ideal Gas Equation:\nPV = nRT\nRearranging to find T:\nT = PV/(nR)\nSubstituting values:\nT = (7.6 × 10⁶ × 10⁻³)/(6 × 8.3)\nT = 7,600/49.8\nT = 152.6°C ≈ 153°C",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 207,
+    "question": "The relative density of a liquid is the ratio of the",
+    "option": {
+      "a": " Mass of water to the mass of an equal volume of liquid",
+      "b": "Upthrust in the liquid to the upthrust in water",
+      "c": "Density of water to the density of the liquid",
+      "d": "Upthrust in water to the upthrust in the liquid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The relative density equals the ratio of upthrust in the liquid to upthrust in water (which equals the ratio of densities).",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -4672,6 +4720,22 @@
     "examyear": "2022"
   },
   {
+    "id": 469,
+    "question": "A cell whose internal resistance is 0.55Ω\n delivers a current of 4 A to an external resistor. The lost voltage of the cell is?",
+    "option": {
+      "a": "4.00 V",
+      "b": " 2.20 V",
+      "c": " 0.15 V",
+      "d": "8.00 V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Lost voltage = I x R\n\n= 4 x 0.55\n\n= 2.2V",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 471,
     "question": "An isotope has an initial activity of 120 Bq. 6 days later its activity is 15 Bq. The half-life is? ",
     "option": {
@@ -4988,6 +5052,22 @@
     "image": "",
     "answer": "b",
     "solution": "Electrical conduction through gases is the principle behind gas identification (spectroscopy), fluorescent tubes, neon signs, and certain aspects of CRT technology. Photocells, however, work on the photoelectric effect, not gas conduction.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 502,
+    "question": "Find the tension in the two cords shown in the figure above. Neglect the mass of the cords, and assume that the angle is 38° and the mass m is 220 kg\n[Take g = 9.8 ms⁻²]",
+    "option": {
+      "a": "T₁ = 2864 N, T₂= 3612 N",
+      "b": " T₁= 3612 N, T₂ = 2864 N",
+      "c": "T₁= 3502 N, T₂= 2760 N",
+      "d": "T₁ = 2760 N, T₂ = 3502 N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614619/ALOC-Questions/Physics/2023/physics_2023-Q3_yxq78q.png",
+    "answer": "c",
+    "solution": "Given information:\n\nMass, m = 220 kg\nAngle with horizontal, θ = 38°\nAcceleration due to gravity, g = 9.8 m/s²\nT₁ = tension in inclined cord\nT₂ = tension in horizontal cord\nWeight W = 2156 N (acts vertically downward)\n\nSolution:\nStep 1: Calculate the weight of the mass\nW = mg = 220 × 9.8 = 2156 N\nStep 2: Analyze forces at the junction point\nAt the junction, three forces act in equilibrium:\n\nT₁ (along inclined cord at 38° to horizontal)\nT₂ (along horizontal cord)\nW = 2156 N (vertically downward)\n\nStep 3: Resolve forces vertically\nΣFᵧ = 0\nT₁ sin 38° = W\nT₁ sin 38° = 2156\nT₁ = 2156/sin 38°\nT₁ = 2156/0.6157\nT₁ = 3502 N\nStep 4: Resolve forces horizontally\nΣFₓ = 0\nT₁ cos 38° = T₂\nT₂ = 3502 × cos 38°\nT₂ = 3502 × 0.788\nT₂ = 2760 N  https://res.cloudinary.com/aloc-ng/image/upload/v1765614459/ALOC-Questions/Physics/2023/physics_2023-Q3_SOLUTION_aannes.png",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -5708,6 +5788,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nMoon's gravity, gₘ = (1/6)gₑ\nMass of bowling ball remains constant\nWeight on moon = ?\n\nSolution:\nStep 1: Define weight\nWeight = mass × acceleration due to gravity\nW = mg\nStep 2: Calculate weight on Earth\nWₑ = mgₑ\nStep 3: Calculate weight on Moon\nWₘ = mgₘ\nWₘ = m × (gₑ/6)\nWₘ = (1/6)mgₑ\nWₘ = (1/6)Wₑ\nStep 4: Compare weights\nWeight on moon = (1/6) × Weight on Earth",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 571,
+    "question": "If a sheet of an insulating material is inserted between the plates of an air capacitor, the capacitance will",
+    "option": {
+      "a": "become zero",
+      "b": "decrease",
+      "c": "increase",
+      "d": "remain unchanged"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "If a sheet of an insulating material (dielectric) is inserted between the plates of an air capacitor, the capacitance will increase.\n\nWhen a dielectric material is inserted: The permittivity ϵ\n increases (since the permittivity of the dielectric is greater than that of air),\nThis results in an increase in capacitance.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -6768,6 +6864,22 @@
     "examyear": "2005"
   },
   {
+    "id": 690,
+    "question": "10⁶J of heat is required to boil off completely 2kg of a certain liquid. Neglecting heat lost to the surroundings, the latent heat of vaporization of the liquid is",
+    "option": {
+      "a": "2.0 × 10⁶J kg⁻¹",
+      "b": "5.0 × 10⁶J kg⁻¹",
+      "c": "2.0 × 10⁵J kg⁻¹",
+      "d": "5.0 × 10⁵J kg⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nHeat required, Q = 10⁶ J\nMass of liquid, m = 2 kg\nLatent heat of vaporization, L = ?\n\nSolution:\nStep 1: Formula for latent heat\nFormula: Q = mL\nWhere:\n\nQ = heat energy\nm = mass\nL = latent heat of vaporization\n\nStep 2: Rearrange for L\nL = Q/m\nStep 3: Substitute values\nL = 10⁶/2\nL = 0.5 × 10⁶\nL = 5.0 × 10⁵ J kg⁻¹",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 691,
     "question": "The figure above shows three capacitors, 2μF, 3μF and 6μF connected in series. If the p.d across the system is 12V, the p.d across the 6μF capacitor is",
     "option": {
@@ -6912,6 +7024,22 @@
     "examyear": "2006"
   },
   {
+    "id": 704,
+    "question": "An immersion heater rated 2.0 A, 240 V is used to boil water from temperature 52 °C to 100 °C. The mass of the water is 2.5 kg. Determine the time taken to boil the water.\nSpecific heat capacity of water = 4.2 × 10³ J kg⁻¹ K⁻¹",
+    "option": {
+      "a": "1.05 × 10³ s",
+      "b": "1.05 × 10⁵ s",
+      "c": "1.05 × 10² s",
+      "d": "1.05 × 10⁴ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHeater current, I = 2.0 A\n\nHeater voltage, V = 240 V\n\nMass of water, m = 2.5 kg\n\nInitial temperature, T₁ = 52 °C\n\nFinal temperature, T₂ = 100 °C\n\nSpecific heat capacity of water, c = 4.2 × 10³ J kg⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Compute the power of the heater\nPower, P = I × V = 2.0 A × 240 V = 480 W\n\nStep 2: Compute the heat energy required to raise the water temperature\nTemperature change, ΔT = T₂ − T₁ = 100 °C − 52 °C = 48 K\nHeat required, Q = m × c × ΔT = 2.5 kg × 4.2 × 10³ J kg⁻¹ K⁻¹ × 48 K\n\nStep 3: Calculate Q\nFirst, 2.5 × 4.2 × 10³ = 10.5 × 10³ = 1.05 × 10⁴\nThen, 1.05 × 10⁴ × 48 = 1.05 × 10⁴ × 4.8 × 10¹ = (1.05 × 4.8) × 10⁵ = 5.04 × 10⁵ J\nStep 4: Equate heat energy to electrical energy supplied\nElectrical energy supplied in time t: E = P × t\nAssuming no losses, Q = E ⇒ t = Q / P\n\nStep 5: Calculate time t\nt = 504000 J / 480 W = 1050 s\n\nStep 6: Express in scientific notation\n1050 s = 1.05 × 10³ s",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 706,
     "question": "what is likely to happen if the glass of a thermometer expands more upon heating than the liquid inside?",
     "option": {
@@ -7052,6 +7180,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nGiven information:\nDC voltage that produces the same brightness, V_dc = 12 V\n\nSolution:\n\nStep 1: Condition for equal brightness\nFor a resistive load like a lamp, brightness depends on the power dissipated.\nEqual brightness means equal power delivered to the lamp.\n\nStep 2: Power comparison\nFor DC: Power P_dc = V_dc² / R\nFor AC: Power P_ac = V_rms² / R\n\nStep 3: Equate powers\nV_rms² / R = V_dc² / R\nV_rms = V_dc\n\nStep 4: Substitute value\nV_rms = 12 V",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 717,
+    "question": "An ammeter of resistance 5Ω has a full-scale deflection when a current of 50 mA flows in it. The value of the resistor required to adapt it to measure a current of 5 A is?",
+    "option": {
+      "a": " 0.25Ω",
+      "b": "5.00Ω",
+      "c": "19.80Ω",
+      "d": " 0.05Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nAmmeter resistance, G = 5 Ω\nFull-scale deflection current, Iɡ = 50 mA = 0.05 A\nDesired maximum current, I = 5 A\nShunt resistance, S = ?\n\nSolution:\nStep 1: Understand shunt resistor\nA shunt resistor is connected in parallel with the ammeter to allow most of the current to bypass the ammeter, extending its range.\nStep 2: Current distribution\nTotal current: I = 5 A\nCurrent through ammeter: Iɡ = 0.05 A\nCurrent through shunt: Iₛ = I - Iɡ = 5 - 0.05 = 4.95 A\nStep 3: Voltage across parallel components\nSince ammeter and shunt are in parallel, voltage across both is equal:\nVɡ = Vₛ\nIɡG = IₛS\nStep 4: Substitute values\n0.05 × 5 = 4.95 × S\n0.25 = 4.95S\nStep 5: Solve for shunt resistance\nS = 0.25/4.95\nS = 0.0505 Ω ≈ 0.05 Ω",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -7360,6 +7504,22 @@
     "examyear": "2006"
   },
   {
+    "id": 749,
+    "question": "When the base current of a common-emitter transistor is kept at zero, it operates in the ",
+    "option": {
+      "a": "active-on region",
+      "b": " breakdown region",
+      "c": "saturation region",
+      "d": "cut-off region"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When the base current of a common-emitter transistor is zero, it operates in the cut-off region, meaning it does not conduct current. This region is essential for the transistor to act as an off switch in circuits.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 750,
     "question": "The unit of moment of a couple can be expressed in?",
     "option": {
@@ -7404,6 +7564,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nVelocity Ratio (V.R) = 4\nEffort (E) = 800 N\nLoad (L) = 1600 N\nEfficiency = ?\n\nStep 1: Calculate Mechanical Advantage (M.A)\nM.A = Load / Effort\nM.A = 1600 / 800\nM.A = 2\nStep 2: Calculate Efficiency\nEfficiency = (M.A / V.R) × 100%\nSubstituting values:\nEfficiency = (2 / 4) × 100%\nEfficiency = 0.5 × 100%\nEfficiency = 50%",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 755,
+    "question": "A reservoir 500 m deep is filled with a fluid of density 850 kgm⁻³. If the atmospheric pressure is 1.05 × 10⁵ Nm⁻², the pressure at the bottom of the reservoir is. [g = 10ms⁻²]",
+    "option": {
+      "a": "4.72 × 10⁶ Nm⁻²",
+      "b": "4.36 × 10⁶ Nm⁻²",
+      "c": "4.28 × 10⁶ Nm⁻²",
+      "d": "4.25 × 10⁶ Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDepth (h) = 500 m\nDensity of fluid (ρ) = 850 kg/m³\nAtmospheric pressure (P₀) = 1.05 × 10⁵ N/m²\ng = 10 m/s²\nPressure at bottom (P) = ?\n\nFormula for pressure at depth:\nP = P₀ + ρgh\nwhere:\n\nP₀ = atmospheric pressure\nρgh = pressure due to fluid column\n\nStep 1: Calculate pressure due to fluid column\nρgh = 850 × 10 × 500\nρgh = 850 × 5000\nρgh = 4,250,000 N/m²\nρgh = 4.25 × 10⁶ N/m²\nStep 2: Calculate total pressure at bottom\nP = P₀ + ρgh\nP = 1.05 × 10⁵ + 4.25 × 10⁶\nP = 0.105 × 10⁶ + 4.25 × 10⁶\nP = 4.355 × 10⁶ N/m²\nP ≈ 4.36 × 10⁶ N/m²",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -7596,6 +7772,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nInitial tension, T₁ = 400 N\nInitial frequency, f₁ = 250 Hz\nFinal frequency, f₂ = 500 Hz\nLength and linear density are constant.\n\nSolution:\n\nStep 1: Relationship for a stretched string\nThe fundamental frequency is given by:\nf = (1/(2L)) √(T/μ)\nThus, for constant L and μ, f ∝ √T.\n\nStep 2: Set up ratio\nf₂ / f₁ = √(T₂ / T₁)\n\nStep 3: Substitute values\n500 / 250 = √(T₂ / 400)\n2 = √(T₂ / 400)\n\nStep 4: Square both sides\n4 = T₂ / 400\nT₂ = 4 × 400 = 1600 N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 782,
+    "question": "In the diagram above, if the magnetic field points into the paper and the force on a current-carrying conductor points upwards, what is the direction of the current?",
+    "option": {
+      "a": "Upwards",
+      "b": "Downwards",
+      "c": "Right",
+      "d": "Left"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431507/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_33_acsxrq.png",
+    "answer": "d",
+    "solution": "Solution:\n\nStep 1: Recall Fleming's Left-Hand Rule\nFor a current-carrying conductor in a magnetic field, Fleming's Left-Hand Rule states:\n\nThumb: direction of force (motion)\n\nFirst finger: direction of magnetic field\n\nSecond (middle) finger: direction of current\n\nAll three are mutually perpendicular.\n\nStep 2: Apply the rule\n\nMagnetic field (first finger): into the paper (away from you)\n\nForce (thumb): upwards\n\nTo have these two directions, the current (second finger) must point to the left.\n\nStep 3: Visualize\nIf the field is into the paper and force is up, the only perpendicular direction remaining for current is left.",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -9216,6 +9408,22 @@
     "examyear": "2011"
   },
   {
+    "id": 960,
+    "question": "A machine is used to lift a load of 20 N through a height of 10 m. if the efficiency of the machine is 40%, how much work is done?",
+    "option": {
+      "a": "80 J",
+      "b": "500 J",
+      "c": "300 J",
+      "d": "120 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLoad (L) = 20 N\nHeight (h) = 10 m\nEfficiency = 40% = 0.40\nWork done = ?\n\n\nStep 1: Calculate useful work output\nWork output = Load × Height\nW_output = 20 × 10\nW_output = 200 J\nStep 2: Calculate total work input\nEfficiency = (Work output)/(Work input)\nRearranging:\nWork input = Work output/Efficiency\nW_input = 200/0.40\nW_input = 500 J",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 961,
     "question": "I. Density of the liquid.\nII. Depth below the surface of the liquid.\nIII. Surface area of the liquid.\nIn which of the statement above will pressure be dependent?",
     "option": {
@@ -9664,6 +9872,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1005,
+    "question": "If a freely suspended object is pulled to one side and released, it oscillates about the point of suspension because the",
+    "option": {
+      "a": " acceleration is directly proportional to the displacement",
+      "b": " motion is directed away from the equilibrium point",
+      "c": "acceleration is directly proportional to the square of the displacement",
+      "d": "velocity is minimum at the equilibrium ponit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The object oscillates because the acceleration (restoring force) is directly proportional to the displacement from equilibrium. This fundamental relationship defines Simple Harmonic Motion and is what causes the oscillatory behavior.\nKey relationships in pendulum SHM:\n\nAt extreme positions: Maximum displacement, zero velocity, maximum acceleration\nAt equilibrium: Zero displacement, maximum velocity, zero acceleration\nThe proportional relationship a ∝ -x ensures continuous oscillation",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1006,
     "question": "An object moves in a circular path of radius 0.5m with a speed of 1ms⁻¹. What is its angular velocity?",
     "option": {
@@ -9756,6 +9980,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nVolume of balloon = 300 m³\nDensity of air = 1.3 kg m⁻³\ng = 10 m s⁻²\n\nSolution:\n\nStep 1: Upthrust (buoyant force)\nUpthrust = weight of displaced air = (density of air) × (volume) × g\n\nStep 2: Substitute values\nUpthrust = 1.3 kg m⁻³ × 300 m³ × 10 m s⁻² = 1.3 × 300 × 10 = 3900 N",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1014,
+    "question": "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their length is 3:4 respectively, the ratio of the increase in lengths of P to Q is",
+    "option": {
+      "a": "1:2",
+      "b": "2:1",
+      "c": "8:9",
+      "d": "9:8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nRatio of linear expansivities, α₁ / α₂ = 2 / 3\nRatio of original lengths, L₁ / L₂ = 3 / 4\nTemperature change Δθ is the same for both.\n\nSolution:\n\nStep 1: Formula for increase in length\nΔL = α L Δθ\n\nStep 2: Ratio of increases\nΔL₁ / ΔL₂ = (α₁ L₁ Δθ) / (α₂ L₂ Δθ) = (α₁ / α₂) × (L₁ / L₂)\n\nStep 3: Substitute the given ratios\nΔL₁ / ΔL₂ = (2 / 3) × (3 / 4) = 6 / 12 = 1 / 2",
     "examtype": "utme",
     "examyear": "2012"
   },
