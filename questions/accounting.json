@@ -64,6 +64,22 @@
     "examyear": "2012"
   },
   {
+    "id": 67,
+    "question": "Which of these items would be accounted for as an expense? ",
+    "option": {
+      "a": "repayment of a bank loan ",
+      "b": "dividends to stockholders ",
+      "c": "the purchase of land ",
+      "d": "payment of the current period's rent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 69,
     "question": "A debit balance of Nl50,000 in a cash account   shows   that   ",
     "option": {
@@ -107,6 +123,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 94,
+    "question": "Reserves account is kept in the",
+    "option": {
+      "a": "private ledger.",
+      "b": "creditors ledger.",
+      "c": "nominal ledger.",
+      "d": "debtors ledger."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -400,6 +432,22 @@
     "examyear": "2016"
   },
   {
+    "id": 168,
+    "question": "Alaka who owed Saka N15, 000, settled his deb  after- deducting cash discount of 10%. To record the discount in the book of Saka, debit",
+    "option": {
+      "a": "Saka’s account and credit discount received account",
+      "b": "Alaka’s account and credit discount received account",
+      "c": "discount received account andcredit Alaka’s account",
+      "d": "discount allowed account and credit Alaka’s account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 169,
     "question": "If the scrap value is now N15, 000, what will be the yearly depreciation using straight line method?",
     "option": {
@@ -443,6 +491,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 183,
+    "question": "Accumulated depreciation at the time of sale was",
+    "option": {
+      "a": "N= 16,000",
+      "b": "N=  14,000",
+      "c": "N=  12,000",
+      "d": "N=  8,000"
+    },
+    "section": "An asset was bought on 1st January, 1992 for N= 20,000. Depreciation was provided for annually at 20% on cost. It was sold for N= 7,000 on 1st July, 1995.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -1488,6 +1552,22 @@
     "examyear": "2015"
   },
   {
+    "id": 542,
+    "question": "The basis of accounting for public sector is",
+    "option": {
+      "a": "accrual basis",
+      "b": "cost basis",
+      "c": "revenue basis",
+      "d": "cash basis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "This is the basis for recording in government accounting where revenue are recorded when cash is received.\n ",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 555,
     "question": "Specific principles, bases, conventions, rules and practices adopted by an enterprise in preparing and presenting financial statements are known as ---------------------",
     "option": {
@@ -1500,6 +1580,22 @@
     "image": "",
     "answer": "b",
     "solution": "Accounting policies refer to the specific principles, bases, conventions, rules, and practices that an enterprise chooses to adopt and consistently apply in preparing and presenting its financial statements.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 557,
+    "question": "If a trail balance is in agreement, one of the statement is untrue",
+    "option": {
+      "a": " the accounting system is error free",
+      "b": "equal debit entries and credit entries were recorded for each transaction",
+      "c": "the debit and credit from the journal were posted to the accounts",
+      "d": "account balances were correctly computed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "agreement of trial balance does mean it is error free. Some errors might not be disclosed by mere agreement",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1548,6 +1644,22 @@
     "image": "",
     "answer": "a",
     "solution": "Return on capital employed or ROCE is a profitability ratio that measures how efficiently a company can generate profits from its capital employed by comparing net operating profit to capital employed.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 576,
+    "question": "Which of the following condition would attract credit and debit notes to be used?",
+    "option": {
+      "a": "When goods are received from supplier",
+      "b": "When a trial balance is extracted",
+      "c": "When a buyer is under or over charged",
+      "d": "When goods are sold to a buyer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Debit note is usually issued by the purchaser andcredit note is usually issued by the seller. But debit note can be issued by the seller when the buyer erroneously records more and credit note can also be issued by the buyer when the seller undercharges the buyer.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1678,6 +1790,22 @@
     "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 623,
+    "question": "In the period of rising prices, which method of stock valuation is most appropriate?",
+    "option": {
+      "a": "Last in First Out",
+      "b": " weighted average",
+      "c": " First in First Out",
+      "d": "Simple average"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Last in first out:when price rise it results to lower bet income because the leftover inventory might be extremely old and perhaps obsolete",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 624,
@@ -1904,6 +2032,22 @@
     "examyear": "2018"
   },
   {
+    "id": 695,
+    "question": "In dealing with incomplete record, fixed assets are posted to___________-\n",
+    "option": {
+      "a": "Profit and loss account as brought forward figure",
+      "b": "Closing balance sheet as carried forward figure",
+      "c": "Closing balance sheet as brought forward figure",
+      "d": "Profit and loss as carried forward figure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "fixed asset are brought forward in closing balance sheet",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 704,
     "question": "Departmentalization of accounts is useful because it shows the____________",
     "option": {
@@ -2080,6 +2224,22 @@
     "examyear": "2019"
   },
   {
+    "id": 762,
+    "question": "An ordinary share of ₦100 was issued at ₦80. The share was issued at",
+    "option": {
+      "a": "premium",
+      "b": "par",
+      "c": "discount",
+      "d": "loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Share issued at discount is a situation whereby shares are quoted below the nominal value.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 767,
     "question": "In preparing accounting records, the owners of a business and the business are treated as",
     "option": {
@@ -2092,6 +2252,22 @@
     "image": "",
     "answer": "a",
     "solution": "Under the business entity (or separate entity) concept, the affairs of the owners and those of the business are kept completely distinct. Personal transactions of the owners are not recorded in the business’s books, and only business‑related transactions appear in the accounting records.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 768,
+    "question": "Given the following list of balances: bank account ₦59,410, capital account ₦50,000, purchases account ₦20,000, rent ₦2,500, stationery ₦90, typewriter ₦6,500, and sales ₦38,500, in preparing a trial balance from this list of balances, what is the total in debit and credit columns?",
+    "option": {
+      "a": " ₦I38,500",
+      "b": " ₦147,910",
+      "c": "₦85,800",
+      "d": " ₦88,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Debits: Bank ₦59,410 + Purchases ₦20,000 + Rent ₦2,500 + Stationery ₦90 + Typewriter ₦6,500 = ₦88,500\n\nCredits: Capital ₦50,000 + Sales ₦38,500 = ₦88,500",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -2352,6 +2528,22 @@
     "examyear": "2022"
   },
   {
+    "id": 877,
+    "question": "Which of these is the main source document for recording cash paid into bank?",
+    "option": {
+      "a": "invoice",
+      "b": "credit note",
+      "c": "cheque book",
+      "d": "pay-in-slip"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The main source document for recording cash paid into the bank is a pay-in-slip.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 884,
     "question": "Interest on a partner's drawings is debited to the",
     "option": {
@@ -2460,6 +2652,22 @@
     "image": "",
     "answer": "a",
     "solution": "Share premium is different. When a company issues shares at a price exceeding their par value, the excess amount is recorded as a credit balance in the share premium account. It represents additional capital received from shareholders beyond the face value of the shares.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 935,
+    "question": "The following are causes of discrepancies between the cash book and the bank statement balances except",
+    "option": {
+      "a": "errors",
+      "b": "bank charges",
+      "c": "standing order",
+      "d": "bank deposit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A bank deposit typically wouldn't cause a discrepancy; rather, it would lead to an increase in both the cash book and bank statement balances. Therefore, it is not a cause of discrepancies between the two balances.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -2702,6 +2910,22 @@
     "solution": "Given (from extract):\n  Opening stock (Q)   = ₦1,000\n  Purchases (Q)       = ₦1,500\n  Closing stock (Q)   = ₦1,000\n  Sales (Q)           = ₦4,000\n\nCost of goods sold (Q) = Opening stock + Purchases − Closing stock\n                        = 1,000 + 1,500 − 1,000\n                        = ₦1,500\n\nGross profit (Q) = Sales − Cost of goods sold\n                 = 4,000 − 1,500\n                 = ₦2,500",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 1016,
+    "question": "The concept that has much influence over asset valuation and income determination is?",
+    "option": {
+      "a": "entity",
+      "b": "realization",
+      "c": "conversactism",
+      "d": "matching"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation: the conservatism (prudence) concept pushes accountants to understate assets and income and to recognize losses earlier than gains, so it strongly affects asset valuation and income determination.",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 1020,
@@ -2976,6 +3200,38 @@
     "examyear": "2003"
   },
   {
+    "id": 1124,
+    "question": "Given:\n\nCapital ...........₦1000\nLiabilities........₦500\nAssets.............₦1500\n\nThe accounting equation can be expressed as?",
+    "option": {
+      "a": "₦1000 + ₦500 + ₦1500 = ₦3000",
+      "b": " ₦1000 - ₦500 + ₦1500 = ₦2000",
+      "c": " ₦1000 + ₦500 = ₦1500",
+      "d": " ₦1500 + ₦500 = ₦2000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The basic accounting equation is:\n\nAssets = Capital + Liabilities\nHere:\n\nAssets = ₦1500\n\nCapital = ₦1000\n\nLiabilities = ₦500\n\nSo:\n\n₦1000 + ₦500 = ₦1500",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1127,
+    "question": "<b>Use the information below to answer questions 12 and 13.</b>\n\nMotor Vehicle Account as at 31st December 2001.\nDebit:\nJan. 1, cost ................₦1950 000\nDec.31, Addition ............ ₦400 000\nCredit:\nJan. 1, Depreciation ........₦1360 000\nJune 30, Sales proceeds...... ₦700 000\n\nThe vehicle sold was purchase on January 1, 1998 at a cost of ₦1,000 000 and had depreciation at 25% on cost.\n\nWhat is the actual profit or loss arising from the vehicle disposed of?",
+    "option": {
+      "a": "₦250 000 loss",
+      "b": "₦50 000 loss",
+      "c": "₦450 000 profit",
+      "d": "₦575 000 profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Calculate total depreciation from purchase to sale date\nFrom January 1, 1998 to June 30, 2001 = 3.5 years\nAnnual depreciation = 25% × ₦1,000,000 = ₦250,000\nTotal depreciation = ₦250,000 × 3.5 years = ₦875,000\nStep 2: Calculate Net Book Value at disposal date\nNet Book Value = Cost - Accumulated Depreciation\nNet Book Value = ₦1,000,000 - ₦875,000 = ₦125,000\nStep 3: Calculate Profit/Loss on disposal\nProfit/Loss = Sale Proceeds - Net Book Value\nProfit/Loss = ₦700,000 - ₦125,000 = ₦575,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1128,
     "question": "Given:\n(i) Order of performance\n(ii) Order of liquidity\n(iii)Vertical order\n(iv) Horizontal order\n\n\nThe order in which a balance assets is arranged are?",
     "option": {
@@ -3120,6 +3376,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1184,
+    "question": "(i) Orientation \n(ii) Entity \n(iii) Legal status\n(iv) Finance.\n\nWhich of the characteristics above distinguishes a profit-making from a not-for-profit-making organizations?",
+    "option": {
+      "a": "i, ii, iii and iv",
+      "b": "i, ii, and iii",
+      "c": " ii, and iii",
+      "d": "i and ii"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(i) Orientation - ✓ Distinguishes\n\nProfit-making: Profit-oriented (maximize returns for owners)\nNot-for-profit: Service-oriented (serve public/social causes)\n\n(ii) Entity - ✓ Distinguishes\n\nBoth are separate entities, but they differ in nature:\nProfit-making: Commercial entities\nNot-for-profit: Social/charitable entities\n\n(iii) Legal status - ✓ Distinguishes\n\nProfit-making: Registered as companies, partnerships, sole proprietorships\nNot-for-profit: Registered as charities, foundations, NGOs, with different legal frameworks and tax treatments\n\n(iv) Finance - ✓ Distinguishes\n\nProfit-making: Funded by investors expecting returns, revenue from sales\nNot-for-profit: Funded by donations, grants, government funding; surplus reinvested rather than distributed\n\nAll four characteristics distinguish between profit-making and not-for-profit organizations in meaningful ways.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1186,
     "question": "<b>Use the information below to answer question 21 and 22.</b>\n\nAdex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch.\n\nStock at branch 1st January at cost............₦400\nGoods sent to branch at cost...................₦8000\nReturns to head ...............................₦340\nCash sales ....................................₦9160\nStock at branch 31st December at cost..........₦720\n\nCalculate the cost of goods credited to the head office trading account?",
     "option": {
@@ -3132,6 +3404,22 @@
     "image": "",
     "answer": "c",
     "solution": "Cost of goods sold = Opening stock + Goods sent to branch − Returns to head office − Closing stock\n= ₦400 + ₦8,000 − ₦340 − ₦720\n= ₦7,340",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1192,
+    "question": "<b>Use the information below to answer questions 28 and 29.</b>\n\n<b>It is the tradition of the club to write off an amount equal to 25% of the subscriptions received as other expenses.</b>\n\nWhat is the amount to be written off as other expenses?",
+    "option": {
+      "a": "₦4,500",
+      "b": "₦6,000",
+      "c": "₦4,000",
+      "d": "₦5,000."
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665518/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q28-29_mt0snk.png",
+    "answer": "d",
+    "solution": "Given Information:\n\nSubscriptions received: ₦20,000\nClub tradition: Write off 25% of subscriptions received as other expenses\n\nCalculation:\nAmount to be written off as other expenses = 25% of subscriptions received\n= 25% × ₦20,000\n= 0.25 × ₦20,000\n= ₦5,000",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -3180,6 +3468,22 @@
     "image": "",
     "answer": "d",
     "solution": "Reason: a trading account needs total sales and cost of goods sold (which depends on purchases, opening and closing stock). In an incomplete records system you must first determine the totals for sales and purchases before you can prepare the trading account.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1206,
+    "question": "Given an incomplete record without sufficient information to determine profit, the necessary thing to do is to?",
+    "option": {
+      "a": " draw up the statement of affairs",
+      "b": "draw up a T-account to establish the amount",
+      "c": "compare the journal entries with the cash book",
+      "d": "cross-check the cash book for further information"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reason: with incomplete records you prepare a statement of affairs (opening and closing) to determine net assets and then derive profit (change in capital adjusted for drawings and additional capital). This is the standard method for finding profit when records are insufficient.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -3440,6 +3744,38 @@
     "examyear": "2000"
   },
   {
+    "id": 1300,
+    "question": "The accumulation fund of a non-trading concern can equally be referred to as?",
+    "option": {
+      "a": "members' equity",
+      "b": " share capital",
+      "c": "general fund",
+      "d": "surplus fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The “Accumulated Fund” in a non‐trading concern is the same as its General Fund, representing the net assets built up over time.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1318,
+    "question": "A bookkeeping error occurs when there is?",
+    "option": {
+      "a": "a deliberate manipulation of records",
+      "b": "unintentional correct posting in the ledger",
+      "c": " intentional failure to record transactions completely",
+      "d": "incorrect records and oversights that are not intended"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A bookkeeping error is characterized by unintended mistakes in recording transactions, such as transposition errors, omissions, or incorrect amounts, that arise from oversight or misunderstanding, rather than any deliberate action.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1319,
     "question": "When a proprietor withdraws cash from the business for private use, he?",
     "option": {
@@ -3452,6 +3788,22 @@
     "image": "",
     "answer": "d",
     "solution": "The correct entry is to debit Drawings (to increase the owner’s withdrawals) and credit Cash (to decrease the asset)",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1323,
+    "question": "If the total discount allowed in a cash book was ₦230 and the total discount received was ₦255, which of the following is true concerning the two discounts?",
+    "option": {
+      "a": " They must be balanced in the cash book and the difference taken to the debtors ledger",
+      "b": "They must be balanced in the cash book and the difference taken to the trial balance",
+      "c": "They should not be balanced in the cash book before being taking to the trial balance",
+      "d": "They should not appear in the trial balance as they were already either received or paid out"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "They should not be netted off in the cash book; both Discount Allowed (₦230) and Discount Received (₦255) are carried separately into the trial balance.",
     "examtype": "utme",
     "examyear": "1999"
   },
@@ -3536,6 +3888,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1347,
+    "question": "Dele and Seun who are in partnership, have decided to covert their business into a limited liability company where both become directors. To convert the business?",
+    "option": {
+      "a": "they will simply continue since there are no new members",
+      "b": "the partnership is formally ended and new company books opened",
+      "c": "the shares and all other items will be shared equally and not in their former ratios",
+      "d": "computation of goodwill must be done as it is legally required"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a partnership is converted into a limited liability company (LLC), it is considered a new legal entity. Therefore:\n\nThe partnership must be legally dissolved.\n\nA new set of books of account must be opened for the new company.\n\nThe assets and liabilities of the former partnership are usually transferred to the new company.\n\nThe partners may become shareholders or directors in the new company.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1352,
     "question": "Appropriation Account\n\nKudu Wale\nInterest on capital 750 550\nSalaries 800 600\nShare of profits 3,300 3,300\n\n\nDetermine the net profit of the partnership.",
     "option": {
@@ -3580,6 +3948,22 @@
     "image": "",
     "answer": "b",
     "solution": "Responsibility accounting is a system of accounting that:\n\nIdentifies areas of responsibility within an organization (e.g., departments, units, or managers),\n\nMeasures the performance of those areas, and\n\nHolds the responsible managers accountable for the costs and revenues they can control.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1369,
+    "question": "A business transaction is recorded in the books of account when the?",
+    "option": {
+      "a": "owner of the business invests his ₦10,000 in another company",
+      "b": "business retains part of ofits profits for future expansion purposes",
+      "c": "business invest applies for overdraft facilities from its bankers",
+      "d": "owner of the business collects ₦5,000 from the accountant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In accounting, a business transaction is recorded in the books only when it has a financial impact on the business and involves the exchange of value (e.g., cash, goods, or services). This is in line with the dual aspect concept and business entity concept.",
     "examtype": "utme",
     "examyear": "1998"
   },
