@@ -1,5 +1,21 @@
 [
   {
+    "id": 2,
+    "question": "The benefits of separation of powers include the following except ",
+    "option": {
+      "a": "prevention of tyranny ",
+      "b": "check of abuse ",
+      "c": "promoting democracy with free and fair election ",
+      "d": "avoidance of arbitrariness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 3,
     "question": "Laws made by state   government are known as ",
     "option": {
@@ -368,6 +384,22 @@
     "examyear": "2008"
   },
   {
+    "id": 65,
+    "question": "Which of the following does not describe a party system? ",
+    "option": {
+      "a": "one dominant party system  ",
+      "b": "two party system",
+      "c": "three party system ",
+      "d": "multi party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 71,
     "question": "Laws made by local governments are called ",
     "option": {
@@ -439,6 +471,38 @@
       "b": "Issuance of passports ",
       "c": "Defense of the country’s boarders ",
       "d": "Promotion of national interest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 93,
+    "question": "In the Marxist theory, those who live by selling, their labour are called ",
+    "option": {
+      "a": "Bourgeoisie ",
+      "b": "Proletariat ",
+      "c": "Feudal lords ",
+      "d": "Slaves"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 94,
+    "question": "Which of the following NOT an acceptable means of achieving democracy? ",
+    "option": {
+      "a": "Referendums ",
+      "b": "Recall ",
+      "c": "Initiative ",
+      "d": "Riots"
     },
     "section": "",
     "image": "",
@@ -635,6 +699,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 132,
+    "question": "A major issue that distinguishes pressure groups from political parties is: ",
+    "option": {
+      "a": "membership drive  ",
+      "b": "the objective",
+      "c": "the voting pattern ",
+      "d": "the ideology"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 133,
+    "question": "Equality before the law is a component of: ",
+    "option": {
+      "a": "separation of powers",
+      "b": "checks and balances ",
+      "c": "the rule of law",
+      "d": "constitutional law."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -1104,6 +1200,22 @@
     "examyear": "2000"
   },
   {
+    "id": 245,
+    "question": "The French policy of Assimilation in West Africa was a form of",
+    "option": {
+      "a": "indirect rule",
+      "b": "direct rule",
+      "c": "democratic rule",
+      "d": "monarchy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 247,
     "question": "The world organization which existed before the United Nations Organization was the",
     "option": {
@@ -1115,6 +1227,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 248,
+    "question": "Which of the following bodies is the most representative organ of the United Nations organization (UNO)?",
+    "option": {
+      "a": "The Economic and Social Council",
+      "b": "The Trusteeship Council",
+      "c": "The Security Council",
+      "d": "The General Assembly."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -1147,6 +1275,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 265,
+    "question": "Who among the following was NOT an officer in the pre-colonial Yoruba society?",
+    "option": {
+      "a": "Aremo",
+      "b": "Are-Onakakanfo",
+      "c": "Balogun",
+      "d": "Oluwo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -2032,6 +2176,22 @@
     "examyear": "2012"
   },
   {
+    "id": 474,
+    "question": "An electoral system in which parties are assigned seats in the parliament commensurate to the number of votes polled is",
+    "option": {
+      "a": "absolute majority",
+      "b": "simple majority",
+      "c": "proportional representation.",
+      "d": "indirect election."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 486,
     "question": "In Nigeria, the agency mainly responsible for the maintenance of internal peace and security is the",
     "option": {
@@ -2103,6 +2263,22 @@
       "b": "international pressure for change",
       "c": "the desire for a military government",
       "d": "civilians’ desire to relinquish power."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 496,
+    "question": "The first institution introduced by the military to exercise legislative power was the",
+    "option": {
+      "a": "Supreme Military Council",
+      "b": "Armed Forces Ruling Council",
+      "c": "Federal Executive Council",
+      "d": "Provisional Ruling Council."
     },
     "section": "",
     "image": "",
@@ -2267,6 +2443,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 528,
+    "question": "Under the emirate system, the commander of the army is the",
+    "option": {
+      "a": "Alkali",
+      "b": "Hakimi",
+      "c": "Sarkin Fada",
+      "d": "Madawaki."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -2672,6 +2864,22 @@
     "examyear": "1988"
   },
   {
+    "id": 631,
+    "question": "The primary purpose of the state is to",
+    "option": {
+      "a": "establish a system of law and order",
+      "b": "train people to become good citizens",
+      "c": "cater for all the needs of the citizens",
+      "d": "ensure the self sufficiency of its people"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 632,
     "question": "The Armed Forces Ruling Council came into existence under the",
     "option": {
@@ -2800,6 +3008,22 @@
     "examyear": "1988"
   },
   {
+    "id": 667,
+    "question": "The twelve state structure was created in Nigeria in",
+    "option": {
+      "a": "1965",
+      "b": "1966",
+      "c": "1967",
+      "d": "1974"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 672,
     "question": "Which of the following is not civic obligation of a citizen?",
     "option": {
@@ -2923,6 +3147,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 697,
+    "question": "Socialism developed as a protest against the evils of",
+    "option": {
+      "a": "monarchy",
+      "b": "oligarchy",
+      "c": "feudalism",
+      "d": "capitalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
@@ -3264,6 +3504,22 @@
     "examyear": "2017"
   },
   {
+    "id": 770,
+    "question": "In the 18th century, a new wind of development blew over Europe and the development was referred to__________?",
+    "option": {
+      "a": "Labour Revolution",
+      "b": "Doctrine Revolution",
+      "c": "Industrial Revolution",
+      "d": "Economic Revolution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Industrial revolution came into existence and there was a change in the means of production and domestic system of manufacturing",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 773,
     "question": "Bills passed by the legislature usually requires the approval of the following except_______",
     "option": {
@@ -3292,6 +3548,22 @@
     "image": "",
     "answer": "d",
     "solution": "In a democracy, political authority comes from the people through elections.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 780,
+    "question": "Which organ of government is vested with the responsibility of initiating bills and recommending them to the legislature for consideration?",
+    "option": {
+      "a": "Federal House of Representatives",
+      "b": "Executive",
+      "c": "Senate",
+      "d": "Judiciary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The executive arm initiates bills and presents them to the legislature for consideration.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3328,6 +3600,22 @@
     "examyear": "2018"
   },
   {
+    "id": 795,
+    "question": "The decision to separate Lagos from the Western Region and make it a neutral Territory was taken at the party constitutional conference",
+    "option": {
+      "a": " 1950 general conference",
+      "b": "1953 constitutional conference",
+      "c": "1954 constitutional conference",
+      "d": "1963 All party constitutional conference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The 1954 conference led to Lagos being separated from the Western Region and becoming a neutral federal territory.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 797,
     "question": "Which of the following did not generate political crisis in Nigeria?",
     "option": {
@@ -3340,6 +3628,22 @@
     "image": "",
     "answer": "a",
     "solution": "While other events caused political crises, Abuja’s adoption did not.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 801,
+    "question": "Legitimacy is determined mainly by",
+    "option": {
+      "a": "charisma",
+      "b": "influence",
+      "c": "acceptance",
+      "d": "desire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Legitimacy is determined by the people's acceptance of a government’s rule.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3372,6 +3676,22 @@
     "image": "",
     "answer": "c",
     "solution": "Nigeria cut diplomatic ties with Israel in 1973 following an OAU resolution over the Yom Kippur War.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 813,
+    "question": "Which of these international organisations is the predecessor of the United Nations?",
+    "option": {
+      "a": " The European Economic Community",
+      "b": "The organisation of American Statess",
+      "c": "The League of Nations.",
+      "d": "The North Atlantic Treaty Organisation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The United Nations (UN) was formed in 1945 as a successor to the League of Nations.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3920,6 +4240,22 @@
     "examyear": "2021"
   },
   {
+    "id": 932,
+    "question": "The ....... is responsible for advising the president of Nigeria on the sovereignty and territorial Integrity of the country.",
+    "option": {
+      "a": "National Defence Council",
+      "b": "Council of State",
+      "c": "National Security Council",
+      "d": "Federal Executive Council"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The role of the National Defense Council is to advise the President on matters relating to the defense of the sovereignty and territorial integrity of Nigeria”",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 935,
     "question": "A major issue that distinguishes pressure groups from political parties is the …",
     "option": {
@@ -4156,6 +4492,22 @@
     "image": "",
     "answer": "a",
     "solution": "The policy of 'indigenization' was introduced under the regime of General Yakubu Gowon. The Indigenization policy was a government initiative that aimed to increase the participation of Nigerians in the economy by restricting certain businesses to Nigerian citizens.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 998,
+    "question": "Who is the current chairperson of ECOWAS?",
+    "option": {
+      "a": "Bola Ahmed Tinubu",
+      "b": " Alassane Ouattara",
+      "c": "Macky Sall",
+      "d": "Nana-Akufo Ado"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "President Bola Ahmed Tinubu has been elected the chairman of the Economic Community of West African States (ECOWAS). He was elected at the 63rd ordinary session of the ECOWAS Authority of Heads of State and Government in Bissau, the capital city of the Republic of Guinea-Bissau.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4464,6 +4816,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1064,
+    "question": "The judgement that ceded and transferred Bakassi legal title from Nigeria to Cameroon was delivered by ",
+    "option": {
+      "a": "ECOWAS Court of Justice",
+      "b": "Court of Justice of the African Union",
+      "c": " International Criminal Court",
+      "d": " International Court of Justice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The judgement that ceded and transferred the Bakassi Peninsula's legal title from Nigeria to Camerron was delivered by the International Court of Justice (ICJ). The case, titled Land and Maritime Boundary between Cameroon and Nigeria, resolved the long-standing boundary dispute between the two countries. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1078,
     "question": "Which local government reform in Nigeria prevented traditional rulers from engaging in politics?",
     "option": {
@@ -4524,6 +4892,22 @@
     "image": "",
     "answer": "d",
     "solution": "When a bill passed by the legislature is vetoed by the executive the action underscores the principle of checks and balances.\n\nThe doctrine or principle of checks and balances advocates the use of one organ of government to check the activities of the other organs. When the executive vetoes the bill passed by the legislature, and the executive has checked the activities of the legislature, thereby putting the principles of the checks and balances into practice.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1105,
+    "question": "One of the advantages of a bicameral over a unicameral legislature is that it",
+    "option": {
+      "a": "is cheap to maintains",
+      "b": "promotes social equalitys",
+      "c": "takes less time for the bills to be passed",
+      "d": "prevents the passage of ill-considered bills."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "One of the advantages of a bicameral over a unicameral legislature is that it prevents the passage of ill-considered bills.\n\nAccording to J.C. Anyaele (1991) the second Chamber checks and prevents hasty and ill-considered passage of bills as done in a unicameral legislature.s",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -4832,6 +5216,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1173,
+    "question": "In Nigeria, the Council of State was first created by",
+    "option": {
+      "a": " General Murtala Muhammed",
+      "b": "General Olusegun Obasanjo",
+      "c": "Major-General Aguiyi Ironsi",
+      "d": "General Yakubu Gowon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Council of State in Nigeria was first created by General Murtala Muhammed. In a broadcast on 30 July 1975—shortly after deposing General Yakubu Gowon—he introduced the idea and structure of the National Council of State. This body was established to advise the executive on various national issues and has evolved over time through constitutional reforms.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1175,
     "question": "The two military coups that toppled civilian regimes in Nigeria were those of",
     "option": {
@@ -4892,6 +5292,22 @@
     "image": "",
     "answer": "a",
     "solution": "The United Nations charter is an instrument that sets out the rights and obligations of member states.\n\nIt should be recalled that one of the aims and objectives of U.N.O is to promote respect for Fundamental Human Rights among Nations.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1183,
+    "question": "The most active organ of the Economic Community of West African States is the",
+    "option": {
+      "a": "Tribunal of the Community",
+      "b": "Technical and Specialized Commission",
+      "c": "Authority of Heads of State and Government",
+      "d": "Council of Ministers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Authority of Heads of State and Government is the most active organ of ECOWAS because it serves as the highest decision-making body within the bloc. It is composed of the presidents or heads of state (or their representatives) of all ECOWAS member countries. This organ is responsible for setting the overall policy direction, ratifying treaties and agreements, admitting new members, and appointing key officials such as the Secretary-General. Its meetings, which are held regularly, focus on major regional issues, including economic integration, security challenges, and diplomatic strategies. Because of its broad mandate and direct involvement in making high-level decisions that affect the entire region, it is regarded as the most active organ of ECOWAS.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -4976,6 +5392,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1197,
+    "question": "The unrestrained power of the state over its citizens is underlined by",
+    "option": {
+      "a": "sovereignty",
+      "b": "nationalism",
+      "c": "self-determination",
+      "d": "patriotism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The unrestrained power of the state over its citizens is underlined by sovereignty.\n\nSovereignty could be defined as the supreme legal power to make and enforce laws for people within a definite territory without any external control.\n\nCharacteristics of sovereignty are permanence, indivisibility, comprehensiveness and absoluteness.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1200,
     "question": "The independence of the Judiciary can be undermined through the",
     "option": {
@@ -5004,6 +5436,22 @@
     "image": "",
     "answer": "b",
     "solution": "Socialism is primarily defined by the principle that the means of production—such as factories, resources, and infrastructure—are owned collectively by the community rather than by private individuals. This collective or communal ownership is intended to ensure that production and the benefits derived from it serve the common good, rather than generating profit for private owners. While many socialist states have implemented state ownership as a means of achieving collective control, the core concept remains the collective (or community) ownership of production resources.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1212,
+    "question": "What distinguishes a political party from other social institutions is the desire to",
+    "option": {
+      "a": "influence the international community on local issues",
+      "b": "promote the interest of party members",
+      "c": "win elections and form a government",
+      "d": "influence government policies in certain directions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The desire to win elections and form a government is what distinguishes a political party from other social institutions.\n\nA political party is an organized group of people who share similar political opinions, principles, interests and beliefs with the aim of winning election and control of government of a country/state/municipality.\n\nOn the other hand, there are social institutions such as pressure groups, A pressure group may be defined as an organized social interest group which is formed with the main aim of pursuing its interests and government policies to the interest of its members without any intention to control the government.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -6172,6 +6620,22 @@
     "image": "",
     "answer": "a",
     "solution": "In the Oyo Empire’s traditional political system, the Oyo Mesi (a council of seven high-ranking chiefs) held the authority to elect or depose the Alafin. This council ensured checks and balances by selecting a new Alafin from the royal lineage and overseeing his governance.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1481,
+    "question": "The Mid-Western Region was created in Nigeria in",
+    "option": {
+      "a": "1961",
+      "b": "1962",
+      "c": "1963",
+      "d": "1964"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Mid-Western Region was created in Nigeria on August 9, 1963. It was established as a result of the 1962 census and was the first new region to be created in Nigeria after independence. This change was part of a broader effort to accommodate Nigeria's diverse ethnic and cultural groups in the federal structure.",
     "examtype": "utme",
     "examyear": "2015"
   },
