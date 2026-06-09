@@ -368,6 +368,38 @@
     "examyear": "2008"
   },
   {
+    "id": 59,
+    "question": "What does INEC stand for? ",
+    "option": {
+      "a": "Independent  National Elections Committee ",
+      "b": "Independent  Newspapers executive  Committee ",
+      "c": "Independent National Export Council ",
+      "d": "independent National Electoral Commission "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 60,
+    "question": "The government of one of the following countries operates an unwritten constitution ",
+    "option": {
+      "a": "The United States ",
+      "b": "The Union of Soviet Socialist Republics ",
+      "c": "Post –apartheid  South Africa ",
+      "d": "The United Kingdom "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 61,
     "question": "The Oldest written constitution is ",
     "option": {
@@ -880,6 +912,22 @@
     "examyear": "2012"
   },
   {
+    "id": 165,
+    "question": "The principle of checks and balances empowers the judiciary to  ",
+    "option": {
+      "a": "apply the law  ",
+      "b": "administer the criminal justice system  ",
+      "c": "abrogate the law  ",
+      "d": "invalidate the actions of the other arms "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 177,
     "question": "Manipulation of electoral boundaries for electoral purposes is known as  ",
     "option": {
@@ -1040,6 +1088,22 @@
     "examyear": "2013"
   },
   {
+    "id": 203,
+    "question": "Which of the following is an obligation of a citizen?",
+    "option": {
+      "a": "Attending political rallies",
+      "b": "Taking part in Independence Day celebrations",
+      "c": "Contesting elections",
+      "d": "Paying respect to the national flag."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 206,
     "question": "A federal state is always expensive to run because",
     "option": {
@@ -1083,6 +1147,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 213,
+    "question": "Which of the following is a feature of an elite party?",
+    "option": {
+      "a": "Members are recruited from the working class.",
+      "b": "The leadership is composed of aristocrats and wealthy merchants.",
+      "c": "It usually consists of existing associations, clubs and trade unions.",
+      "d": "Its leadership has certain techniques which attract supporters."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 226,
+    "question": "Red tapism in the civil service refers to",
+    "option": {
+      "a": "The use of red tapes on legal documents.",
+      "b": "Sloness of action",
+      "c": "Prevent entrance",
+      "d": "the co-operation between civil servant s and politicians"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -1303,6 +1399,22 @@
       "b": "Are-Onakakanfo",
       "c": "Balogun",
       "d": "Oluwo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 274,
+    "question": "Before the British colonialism in Nigeria, which of these was an instrument for dispensation of justice in !gbo land?",
+    "option": {
+      "a": "Cult",
+      "b": "Land",
+      "c": "Masquerade",
+      "d": "Ofo"
     },
     "section": "",
     "image": "",
@@ -1559,6 +1671,38 @@
       "b": "presidential pardon",
       "c": "legislative intervention",
       "d": "writ of habeas corpus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 325,
+    "question": "The notion of equality before the law is the same as the principle of",
+    "option": {
+      "a": "supremacy of the constitution",
+      "b": "rule of law",
+      "c": "independence of the judiciary",
+      "d": "nominate ministers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 326,
+    "question": "A constitution is classified as unwritten when it",
+    "option": {
+      "a": "does not emanate from the legislature",
+      "b": "provides for separation of powers",
+      "c": "originates from Britain",
+      "d": "is not contained in any single document"
     },
     "section": "",
     "image": "",
@@ -2000,6 +2144,22 @@
     "examyear": "2010"
   },
   {
+    "id": 425,
+    "question": "A tactic employed by pressure groups to achieve their objectives is",
+    "option": {
+      "a": "propaganda",
+      "b": "electioneering campaign",
+      "c": "lobbying",
+      "d": "memorandum."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 431,
     "question": "France introduced the policy of assimilation in her colonies primarily to",
     "option": {
@@ -2256,6 +2416,22 @@
     "examyear": "2012"
   },
   {
+    "id": 487,
+    "question": "The National Assembly in Nigeria is primarily responsible for",
+    "option": {
+      "a": "executing laws",
+      "b": "interpreting laws",
+      "c": "ratifying appointments",
+      "d": "making laws."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 490,
     "question": "The three registered political parties at the inception of Nigeria’s Fourth Republic were",
     "option": {
@@ -2480,6 +2656,22 @@
     "examyear": "2013"
   },
   {
+    "id": 519,
+    "question": "Which of the following constitutions is more suitable for centralization of political power?",
+    "option": {
+      "a": "Flexible constitution.",
+      "b": "Unwritten constitution.",
+      "c": "Rigid constitution",
+      "d": "Written constitution."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 521,
     "question": "Which of the following types of citizenship cannot be withdrawn?",
     "option": {
@@ -2539,6 +2731,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 534,
+    "question": "Under Nigeria’s Second Republic, the Senate was under the leadership of",
+    "option": {
+      "a": "John Wash Pam",
+      "b": "J. S. Tarka",
+      "c": "Joseph Wayas",
+      "d": "Godwin Ume-Ezeoke."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -3088,6 +3296,22 @@
     "examyear": "1989"
   },
   {
+    "id": 669,
+    "question": "In the parliamentary system of government, ministers are",
+    "option": {
+      "a": "chosen from the House as well as outside",
+      "b": "collectively responsible to parliament",
+      "c": "representatives of various interests in the country",
+      "d": "not members of the legislature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 672,
     "question": "Which of the following is not civic obligation of a citizen?",
     "option": {
@@ -3211,6 +3435,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 695,
+    "question": "Nigeria does not maintain diplomatic relations with South Africa because of the latter’s",
+    "option": {
+      "a": "industrial policy",
+      "b": "apartheid policy",
+      "c": "foreign policy",
+      "d": "agricultural policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
@@ -3404,6 +3644,22 @@
     "image": "",
     "answer": "b",
     "solution": "A political party's popularity depends largely on its manifesto, which outlines its vision and policies.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 733,
+    "question": "A type of constitution that is difficult to amend is described as –",
+    "option": {
+      "a": "written and flexible",
+      "b": " rigid and written",
+      "c": "unwritten and rigid",
+      "d": "flexible and rigid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A rigid constitution is difficult to amend and is typically written.",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -4160,6 +4416,22 @@
     "examyear": "2020"
   },
   {
+    "id": 885,
+    "question": "The British Government revoked the charter of the Royal Niger Company and took over the direct administration of Nigeria in _________",
+    "option": {
+      "a": "1861",
+      "b": "1900",
+      "c": "1906",
+      "d": "1914"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "On 1 January 1900, the Royal Niger Company transferred its territories to the British Government. This change marked the beginning of direct British colonial rule over Nigeria, transitioning from the earlier system of indirect control through the Royal Niger Company.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 886,
     "question": "The Fundamental Objectives and Directive Principles of State Policy in the 1979 constitution do not include _________",
     "option": {
@@ -4204,6 +4476,22 @@
     "image": "",
     "answer": "c",
     "solution": "Judicial Committee of Privy Council is the highest court of appeal for British Territories established on 13th, August 1833. The Privy Council served as the final court of appeal for Nigeria during the colonial period and up until the Nigerian Constitution of 1963, when Nigeria established its own Supreme Court as the highest judicial authority in the country.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 906,
+    "question": "Nigeria's non-aligned policy means that she will _________",
+    "option": {
+      "a": "have nothing to do with the superpowers",
+      "b": " not take sides in international issues based on ideological considerations",
+      "c": "avoid having any dealing with any country with ideological learnings",
+      "d": " relate only with member countries of the Non-Aligned movement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Nigeria's non-aligned policy means that she will not take sides in international issues based on ideological considerations. This policy is part of the broader Non-Aligned Movement (NAM), which emerged during the Cold War era.  Nigeria, like other non-aligned countries, seeks to maintain independence and neutrality by not committing to any of the major ideological blocs (capitalism or communism). This allows for more flexibility in foreign policy and international relations.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -4336,6 +4624,22 @@
     "examyear": "2021"
   },
   {
+    "id": 938,
+    "question": "____________was the method used by the British to facilitate the administration of Southern Nigeria.",
+    "option": {
+      "a": "Trade association",
+      "b": "Divide and rule",
+      "c": "Dialogue",
+      "d": "Persuasion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Divide and rule policy, or divide and conquer, is gaining and maintaining power by breaking up larger concentrations of power into pieces that individually have less power than the one implementing the strategy.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 942,
     "question": "The fundamental rights of citizens include the following EXCEPT.......",
     "option": {
@@ -4396,6 +4700,22 @@
     "image": "",
     "answer": "c",
     "solution": "The official opposition party in the First Republic was the Action Group.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 948,
+    "question": "The major problem of the ECOWAS is lack of _______",
+    "option": {
+      "a": "Uniform ideology",
+      "b": "Commitment by members",
+      "c": "Common customs union",
+      "d": "Common currency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The major problem of the ECOWAS is lack of common currency. This makes financial transactions difficult among member nations.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -4752,6 +5072,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1037,
+    "question": "Civil servants are typically protected by",
+    "option": {
+      "a": "Military forces and security agencies",
+      "b": "Civil service commission",
+      "c": "Trade union and labour laws",
+      "d": "Human rights organizations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Civil servants are typically protected by the Civil Service Commission. The Civil Service Commission is a government agency that is responsible for the appointment, promotion, and discipline of civil servants.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1041,
     "question": "which pre-colonial Nigerian Kingdom was known for its artistic and cultural achievement?",
     "option": {
@@ -4908,6 +5244,22 @@
     "image": "",
     "answer": "d",
     "solution": "The judgement that ceded and transferred the Bakassi Peninsula's legal title from Nigeria to Camerron was delivered by the International Court of Justice (ICJ). The case, titled Land and Maritime Boundary between Cameroon and Nigeria, resolved the long-standing boundary dispute between the two countries. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1067,
+    "question": "The Nigerian Civil War was fought during the military regime of ",
+    "option": {
+      "a": " Aguiyi Ironsi",
+      "b": " Yakubu Gowon",
+      "c": " Murtala Muhammed",
+      "d": " Olusegun Obasanjo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Nigerian Civil War took place between 1967-70 under the regime of General Yakubu Gowon (1966-75). It was a war between Eastern Nigeria (Biafra) and Nigeria. ",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -5264,6 +5616,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1164,
+    "question": "Legislative control of public corporation in Nigeria is effected through",
+    "option": {
+      "a": "the dissolution of their management",
+      "b": "the reorganization of their boards",
+      "c": "acts of the National Assembly",
+      "d": "bye-laws"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Legislative control of public corporations in Nigeria is affected through acts of the National Assembly.\n\nSince public corporations are usually established by acts of parliament, the parliament is given some powers by the acts to exercise some forms of control is normally exercised by scrutinizing their accounts, the Auditors report brought before the House, questions on the activities of the corporations by parliamentarians during the question time etc.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1166,
     "question": "The fees collected by local governments at motor parks represents",
     "option": {
@@ -5456,6 +5824,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1192,
+    "question": "Nigeria's membership of the ECOWAS is informed by her desire to",
+    "option": {
+      "a": "develop a market in the sub-region",
+      "b": "form a sub-regional high command",
+      "c": "become a sub-regional power",
+      "d": "promote economic integration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nigeria's membership of the ECOWAS is informed by her desire to promote economic integration.\n\nIt should be noted that one of the aims and objectives of ECOWAS is the promotion of cooperation and development in all areas of economic activity, agriculture, natural resources, energy, transport commerce, monetary and financial matters, Social and cultural matters.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1193,
     "question": "An attribute that Nigeria shares with most non-aligned countries is",
     "option": {
@@ -5500,6 +5884,22 @@
     "image": "",
     "answer": "a",
     "solution": "Independence of the judiciary has to do with the idea that courts should be separated from the Executive and Legislative arm of government. This independence is important to aid the judges to remain impartial to serve the constitution, act fairly, reasonably, free of any fear or favor. \n\nOne way to ensure the independence of the judiciary is by not politicizing the appointments of judges. Judges should be non partisan and their appointments shouldn't be based off political affiliations. ",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1201,
+    "question": "A common feature of government is",
+    "option": {
+      "a": "the separation of powers",
+      "b": "the making of public policy",
+      "c": "the independence of the judiciary",
+      "d": " a written constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A common feature of government is the making of public policy.\n\nGovernment is made up of three arms the legislature, the executive and judiciary. The main function of the legislature is law making while that of the executive is formulation and implementation of policies",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -5868,6 +6268,22 @@
     "image": "",
     "answer": "d",
     "solution": "The independence of the judiciary ensures that judges can adjudicate cases impartially, free from external pressures (e.g., political interference, public opinion, or personal interests). This autonomy is critical to upholding the rule of law, protecting individual rights, and maintaining public trust in legal systems.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1286,
+    "question": "In a democracy,sovereign authority is exercised by the",
+    "option": {
+      "a": "legislature",
+      "b": "people",
+      "c": "executive",
+      "d": "electorate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a democracy, sovereign authority is exercised by the electorate",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -6400,6 +6816,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1403,
+    "question": "The participation of Nigerians in the Second World War created in the nationalists the awareness that the",
+    "option": {
+      "a": "Africans were superior",
+      "b": "Africans were more qualified to rule",
+      "c": "Europeans were not superior",
+      "d": "Europeans were less tactful in warfare"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Participation of Nigerians in the Second World War created in the nationalists the awareness that the Europeans were not superior.\n\nTheir participation in the war, made them to know more about the white people, and realized that they were in no way superior to Africans including Nigerians.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1409,
     "question": "The party that did not control any state in the Second Republic was",
     "option": {
@@ -6608,6 +7040,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1445,
+    "question": "A disadvantage of the one-party system is that it",
+    "option": {
+      "a": "emphasizes political differences",
+      "b": "makes accountability difficult",
+      "c": " negates freedom of association",
+      "d": "delays decision-making."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a one-party system, the absence of competitive political parties generally leads to a concentration of power in a single party. Without the checks and balances that competition offers, government actions and decisions are less likely to be scrutinized, making it more challenging to hold leaders accountable for their actions. This lack of accountability can foster corruption and inefficiency, as there are fewer mechanisms for voters to influence government policies or remove ineffective leaders.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1449,
     "question": "A major function of Warrant Chiefs was to",
     "option": {
@@ -6704,6 +7152,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1468,
+    "question": "A typical form of delegated legislation is",
+    "option": {
+      "a": " an act",
+      "b": "a bill",
+      "c": "a decree",
+      "d": "a bye-law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A by- law in place, an individual or populace has stood in capacity of delegated legislation.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1472,
     "question": "In the Oyo traditional political system, the Alafin of Oyo was elected or chosen by a group known as",
     "option": {
@@ -6736,6 +7200,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1478,
+    "question": "Under a presidential system of government, the legislature and the executive are",
+    "option": {
+      "a": "elected separately to an unfixed term",
+      "b": " appointed at the same time to an unfixed term",
+      "c": "appointed by the judiciary to a fixed term",
+      "d": "elected separately to a fixed term"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a presidential system of government, the executive and legislative branches are distinct and independent from each other. Both the president (executive) and the members of the legislature are elected separately by the populace. Additionally, they serve fixed terms in office, meaning their tenure is predetermined and not subject to arbitrary dismissal by the other branch. This structure ensures a clear separation of powers and a system of checks and balances between the branches.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1481,
     "question": "The Mid-Western Region was created in Nigeria in",
     "option": {
@@ -6748,6 +7228,22 @@
     "image": "",
     "answer": "c",
     "solution": "The Mid-Western Region was created in Nigeria on August 9, 1963. It was established as a result of the 1962 census and was the first new region to be created in Nigeria after independence. This change was part of a broader effort to accommodate Nigeria's diverse ethnic and cultural groups in the federal structure.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1482,
+    "question": "A form of oligarchy in which gifted people are at the helm of affairs is",
+    "option": {
+      "a": "aristocracy",
+      "b": "theocracy",
+      "c": "plutocracy",
+      "d": "gerontocracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Aristocracy refers to a form of government in which power is held by a small, privileged ruling class, typically consisting of individuals who are considered \"gifted\" or of noble birth. Aristocrats often possess superior social, economic or educational status and are believed to have the qualities necessary to govern effectively.\n\nTheocracy is a form of government in which religious leaders control the government, claiming to be ruling on behalf of a deity. Plutocracy is a system of government where the wealthy class has significant power and influence over political decisions. Gerontocracy is a system where older individuals hold power, often based on age rather than merit or ability.",
     "examtype": "utme",
     "examyear": "2015"
   },
