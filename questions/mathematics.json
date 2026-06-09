@@ -256,6 +256,22 @@
     "examyear": "2008"
   },
   {
+    "id": 38,
+    "question": "The difference of two numbers is 10, while their product is 39. Find these numbers",
+    "option": {
+      "a": "– 3 and 10 or 13 and 10,",
+      "b": "3 and – 10 or 3 and 13,  ",
+      "c": "3 and – 3 or 3 and 13,     ",
+      "d": " – 3 and – 13 or   13 and  3 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 39,
     "question": "The average age of x pupils in a class is 14 years 2 months. A pupils of 15years 2 months joins the class and  the average age is increased  by one month. Find x.      ",
     "option": {
@@ -476,6 +492,22 @@
     "image": "",
     "answer": "b",
     "solution": "(2.813×10<sup>(−3)</sup>)×1.063)/(5.637×10<sup>(−2)</sup> ) = (0.002813×1.063)/0.05637 ≊(0.0028×1.1)/0.056=0.055\n\n\n\n",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 83,
+    "question": "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity\n",
+    "option": {
+      "a": "p",
+      "b": "p -1",
+      "c": "p/(p-1)",
+      "d": " p/(p+1)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "If P-1 is the inverse of P and O is the identity, Then P-1 * P = P * P-1 = 0\ni.e. P-1 + P - P-1.P = 0\nP-1 - P-1.P = -P\nP-1(1 - P) = -P\nP-1 = -P/(P-1)\n= P/(P-1)",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -796,6 +828,22 @@
     "image": "",
     "answer": "a",
     "solution": "(0.14<sup>2</sup> x 0.275) 7(0.02) = (0.14 x 0.14 x 0.275)/(7 x 0.02) = (0.14 x 0.14 x 0.275)/(0.14)\n\n=0.14 x 0.275 = 0.0385 Approx. 0.039",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 129,
+    "question": "Divide: ax<sup>3x</sup> - 26x<sup>2x</sup> + 156a<sup>x</sup> - 216 by a<sup>2x</sup> - 24a<sup>x</sup> + 108",
+    "option": {
+      "a": "a<sup>x</sup> - 2",
+      "b": "a<sup>x</sup> + 2",
+      "c": "a<sup>x</sup> - 8",
+      "d": "a<sup>x</sup> - 6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -1712,6 +1760,22 @@
     "examyear": "2003"
   },
   {
+    "id": 248,
+    "question": "By how much is the mean of 30, 56, 31, 55, 43 and 44 less than the median?",
+    "option": {
+      "a": " 0.75",
+      "b": "0.50",
+      "c": "0.33",
+      "d": " 0.17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mean = 30+56+31+55+43+44/6=259/6 = 43.167 Median = 30,31,43,44,55,56 = 43+44/2 = 87/2 = 43.5                     Median − mean = 43.5 − 43.17 = 0.33",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 249,
     "question": "The histogram above shows the ages of the victims of a pollution. How many people were involved in the pollution?",
     "option": {
@@ -1872,6 +1936,22 @@
     "examyear": "2003"
   },
   {
+    "id": 267,
+    "question": "On a pie chart, there are four sectors of which three angles \nare 45°, 90° and 135°. if the smallest sector represents\n#28.00, how much is the largest sector?",
+    "option": {
+      "a": "#48.00 ",
+      "b": "#56.00",
+      "c": "#42.00",
+      "d": "#84.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 268,
     "question": "The range of 4, 3, 11, 9, 6, 15, 19, 23, 27, 24, 21 and\n16 is",
     "option": {
@@ -1980,6 +2060,22 @@
     "image": "",
     "answer": "d",
     "solution": "∫<sub>1</sub><sup>3</sup>(X<sup>2</sup>-1)dx =〖[1/3 x<sup>2</sup>-x]〗<sub>1</sub><sup>3</sup>=(9-3)-(1/3-1)=6-(-2/3)=6+2/3 = 6 (2/3)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 289,
+    "question": "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested",
+    "option": {
+      "a": "6000 tonnes",
+      "b": "1500 tonnes",
+      "c": " 1200 tonnes",
+      "d": "9000 tonnes"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700755/ALOC-Questions/Mathematics/2004/math_2004_q18_cn4gpi.jpg",
+    "answer": "c",
+    "solution": "Sectorial angle of beans = 360 - (150 + 90 + 60)\n= 360 -300\n= 60°\nif 150° represents 3000 tonnes\n1o 3000/150\n60° will represents (3000/150) * (60/1)\n= 1200 tonnes",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -2700,6 +2796,22 @@
     "image": "",
     "answer": "d",
     "solution": "(7/9-2/3)/(1/3+(2/5)/(4/5))=((7-6)/9)/(1/3+(2/5)/(4/5))=(1/9)/(1/3+(2/5×5/4))=(1/9)/(1/3+1/2)=(1/9)/((2+3)/6)=(1/9)/(5/6)=1/9×6/5=2/15",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 387,
+    "question": "If m:n = 13:111, find m<sup>2</sup> - n<sup>2</sup> : (m + n)<sup>2</sup>",
+    "option": {
+      "a": " 1:11",
+      "b": " 1:13",
+      "c": "1:10",
+      "d": "1:12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "m : n = 13 : 11\nm<sup>2</sup> - n<sup>2</sup> = (m - n)<sup>2</sup>\n= 13<sup>2</sup> - 11<sup>2</sup> : (13 + 11)<sup>2</sup>\n= 169 - 121 : 24<sup>2</sup>\n= 48 : 576\n= 1 : 12",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -4272,6 +4384,22 @@
     "examyear": "2010"
   },
   {
+    "id": 614,
+    "question": "If y = x sinx, find dy/dx",
+    "option": {
+      "a": " sin x - x cosx",
+      "b": " sinx + x cosx",
+      "c": " sinx - cosx",
+      "d": "sinx + cosx"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If y = x sinx, then\n\nLet u = x and v = sinx\n\ndu/dx = 1 and dv/dx = cosx\n\nHence by the product rule,\n\ndy/dx = v (du/dx) + u(dv/dx)\n\n= (sin x) x 1 + x cosx\n\n= sinx + x cosx",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 615,
     "question": "Evaluate ∫<sup>2</sup><sub>0</sub>(x<sup>3</sup>+x<sup>2</sup>)dx.",
     "option": {
@@ -4444,6 +4572,22 @@
     "image": "",
     "answer": "b",
     "solution": "-6(x + 3) ≤ 4(x - 2)\n\n-6(x +3) ≤ 4(x - 2)\n\n-6x -18 ≤ 4x - 8\n\n-18 + 8 ≤ 4x +6x\n\n-10 ≤ 10x\n\n10x ≥ -10\n\nx ≥ -1",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 638,
+    "question": "Solve the inequality x<sup>2</sup> + 2x > 15.",
+    "option": {
+      "a": "x < -3 or x > 5",
+      "b": "-5 < x < 3",
+      "c": " x < 3 or x > 5",
+      "d": "x > 3 or x < -5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x2 + 2x > 15\n\nx2 + 2x - 15 > 0\n\n(x2 + 5x) - (3x - 15) > 0\n\nx(x + 5) - 3(x + 5) >0\n\n(x - 3)(x + 5) > 0\n\ntherefore, x = 3 or -5\n\ni.e. x< 3 or x > -5",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -4700,6 +4844,22 @@
     "image": "",
     "answer": "b",
     "solution": "P = {2,3,5}\n\nQ = {2,3,6,9}\n\nP ∩ Q = {2,3}",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 732,
+    "question": "Solve for x and y in the equations below\nx<sup>2</sup>  - y<sup>2</sup>  = 4\nx + y = 2",
+    "option": {
+      "a": "x = 0, y = -2",
+      "b": "x = 0, y = 2",
+      "c": " x = 2, y = 0",
+      "d": " x = -2, y = 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "x<sup>2</sup>  - y<sup>2</sup>  = 4 .... (1)\nx + y = 2 .... (2)\n\nSimplify eqn (1)\n\n(x + y)(x - y) = 4\n\nFrom eqn (2)\nx + y = 2 so substitute it into simplified eqn (1), we have\n\n2 (x - y) = 4\n\ntherefore,\nx - y = 2 ... (1)\nx + y = 2\n---------\n2x = 4\n---------\n\nx = 2, when y = 0",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -5232,6 +5392,22 @@
     "examyear": "2013"
   },
   {
+    "id": 803,
+    "question": "The value x in the figure given is",
+    "option": {
+      "a": "110°",
+      "b": "100°",
+      "c": "70°",
+      "d": "130°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131414/ALOC-Questions/Mathematics/2013/2013_MATH_JAMB_Q34_sbzuwd.jpg",
+    "answer": "d",
+    "solution": "Sum of the angles in a triangle = 180°\n\n180° - x + 60 + 70 = 180\n\n130° - x = 180° - 180° = 0°\n\nx = 130°",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 807,
     "question": "A square tile has side 30 cm. How many of these tiles will cover a rectangular floor of length 7.2m and width 4.2m?",
     "option": {
@@ -5308,6 +5484,22 @@
     "image": "",
     "answer": "c",
     "solution": "Using the cosine rule, we have\n\np<sup>2</sup> = q<sup>2</sup> + r<sup>2</sup> − 2qrcosP\np<sup>2</sup> = 8<sup>2</sup> + 6<sup>2</sup> − 2(8)(6)(1/12)\n= 64 + 36 − 8\np<sup>2</sup> = 92∴ p = √9cm",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 815,
+    "question": "Integrate 1+x/x<sup>3</sup>dx",
+    "option": {
+      "a": " 2x<sup>2</sup>−(1/x) + k",
+      "b": "−1/2x<sup>2</sup> −1/x + k",
+      "c": " −x<sup>2</sup>/2 − (1/x) + k",
+      "d": " x<sup>2</sup> − (1/x) + k"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>1</mn>\n      <mo>+</mo>\n      <mi>x</mi>\n    </mrow>\n    <msup>\n      <mi>x</mi>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>3</mn>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">d</mi>\n  </mrow>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "∫1+x/x<sup>3<sup> dx\n= ∫(1/x<sup>3</sup> + x/x<sup>3</sup>)dx\n= ∫(x<sup>-3</sup> + x<sup>-2</sup>)dx\n= −1/2x<sup>2</sup> − 1/x + k",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -5456,6 +5648,22 @@
     "examyear": "2016"
   },
   {
+    "id": 839,
+    "question": "Simplify (0.026 × 0.36)/0.69\n. Leave your answer in standard form",
+    "option": {
+      "a": "1.36 x 10-4",
+      "b": "1.36 x 10-3",
+      "c": "1.36 x 10-1",
+      "d": "1.36 x 10-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "(0.026 × 0.36)/0.69\n = (26 × 10<sup>−3</sup> × 36 × 10<sup>−2</sup> )/(69 × 10<sup>−2</sup>\n\n\n= 0.01356 = 1.36 x 10<sup>-2</sup>",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 842,
     "question": "Evaluate (〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2)",
     "option": {
@@ -5580,6 +5788,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003168/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q42_fe8nug.jpg",
     "answer": "b",
     "solution": "< TVS = 180° - (80 + 20)\n= 180 - 100 = 80°",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 862,
+    "question": "In the cyclic quadrilateral above . Find < PRO",
+    "option": {
+      "a": "70°",
+      "b": "20°",
+      "c": "50°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003216/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q44_ogwfpl.jpg",
+    "answer": "b",
+    "solution": "< PRO = 180° - (110 + 50)°\n= 180 - 160 = 20°",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -6096,6 +6320,22 @@
     "examyear": "2018"
   },
   {
+    "id": 933,
+    "question": "p = [(Q(R - T)/(15))]<sup>1/3</sup>",
+    "option": {
+      "a": "T = (R+P3)/15Q",
+      "b": "T = (R-15P<sup>3</sup>)/Q",
+      "c": "T = R - (15P<sup>3</sup>)/Q",
+      "d": "T = (15R+Q)/P<sup>3</sup> "
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mi>Q</mi>\n      <mo stretchy=\"false\">(</mo>\n      <mi>R</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mi>T</mi>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>15</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mfrac>\n      <mn>1</mn>\n      <mn>3</mn>\n    </mfrac>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "P = (Q(R−T)/15)<sup>(1/3)</sup>\ntake cube of both sides\n\nP<sup>3</sup>=Q(R−T)/15\ncross multiply\n\n15P<sup>3</sup>=Q(R−T)\n15P<sup>3</sup>/Q = R - T \n\nT = R - 15P<sup>3</sup>/Q\n ",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 934,
     "question": "What is the place value of 9 in the number 3.0492?",
     "option": {
@@ -6284,6 +6524,22 @@
     "image": "",
     "answer": "a",
     "solution": "2√3 - 4) ( 2√3 + 4)\n\n= 12 + 8√3 - 8√3 – 16\n\n= 12 – 16\n= -4",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 955,
+    "question": "Find the equation of the tangent at the point (2, 0) to the curve y = x<sup>2</sup> - 2x",
+    "option": {
+      "a": "y = 2x - 4",
+      "b": " y = 2x + 4",
+      "c": "y = 2x - 2",
+      "d": "y = 2x + 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The gradient to the curve is found by differentiating the curve equation with respect to x\n\nSo dy/dx 2x - 2\n\nThe gradient of the curve is the same with that of the tangent.\n\n At point (2, 0) dy/dx = 2(2) - 2\n\n  = 4 – 2 = 2\n\n The equation of the tangent is given by (y - y1) dy/dx\n (x – x1)\n\n At point (x1, y1) = (2, 0)\n\n  y - 0 = 2(x - 2)\n\n  y = 2x - 4",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -6784,6 +7040,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1015,
+    "question": "If the volume of a frustrum is given as V=πh/3(R<sup>2</sup + Rr + r<sup>2</sup), find dV/dR\n.",
+    "option": {
+      "a": "πh/3(2R + r)",
+      "b": "2R + r + πh/3",
+      "c": "πh/3(2R<sup>2</sup + r + 2r)",
+      "d": "2R<sup>2</sup/3πh"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "V=πh/3(R<sup>2</sup + Rr + r<sup>2</sup)\nV = πR<sup>2</suph/3 + πRrh/3 + πr<sup>2</suph/3\ndV/dR = 2πRh/3 + πrh3\n= π/3(2R + r)",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 1016,
     "question": "Express (0.0439÷3.62)\n as a fraction.",
     "option": {
@@ -7052,6 +7324,22 @@
     "image": "",
     "answer": "b",
     "solution": "In〖<sup>5</sup>〗C<sub>2</sub> ways =5!/((5-2)!2!) = 5!/3!2! = (5 × 4 × 3!)/(3! × 2 × 1) = 10 ways",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1062,
+    "question": "A trapezium has two parallel sides of lengths 5cm and 9cm. If the area is 91cm2\n, find the distance between the parallel sides",
+    "option": {
+      "a": "13 cm",
+      "b": "4 cm",
+      "c": "6 cm",
+      "d": "7 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007318/ALOC-Questions/Mathematics/2021/MATH_JAMB_2021_Q5_ienw34.png",
+    "answer": "a",
+    "solution": "Area of Trapezium = 1/2(sum of parallel sides) * h\n91 = 1/2 (5 + 9)h\n\ncross multiply\n91 = 7h\nh = 91/7\n\nh = 13 cm",
     "examtype": "utme",
     "examyear": "2021"
   },
