@@ -741,6 +741,25 @@
     "category": "others"
   },
   {
+    "id": 45,
+    "question": "The doctor examined the patient <i>painstakingly</i> ",
+    "option": {
+      "a": "Carefully ",
+      "b": "Perfunctorily ",
+      "c": "Professionally ",
+      "d": "Painfully "
+    },
+    "section": "opposite in meaning to the word(s) or phrase in italics ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 46,
     "question": "Toyin is married to an <i>impatient, self-centred man ",
     "option": {
@@ -2595,6 +2614,25 @@
     "section": "select the option that best explains the information conveyed in the sentence.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 152,
+    "question": "The class was tired of the new boy jawing away all the time.",
+    "option": {
+      "a": "He bit off people’s jaws",
+      "b": "He was always chewing in the class.",
+      "c": "He was always making trouble for the class",
+      "d": "He talked continuously in the class"
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005",
@@ -6129,6 +6167,25 @@
     "section": "select the option that best explains the information conveyed in the sentence.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 370,
+    "question": "We have to iron out our differences at once.",
+    "option": {
+      "a": "We must clear up without delay our misunderstanding ",
+      "b": "We must sure that our problems are eliminated  at all costs ",
+      "c": "We have to settle our disagreement once and for all.   ",
+      "d": "We have to solve some of our problems for now."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007",
@@ -10005,6 +10062,25 @@
     "section": "choose the option that has the same vowel sound as the one represented by the letters underlined.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 585,
+    "question": "shea<u>th </u>",
+    "option": {
+      "a": "bathe ",
+      "b": "length ",
+      "c": "months ",
+      "d": "paths"
+    },
+    "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010",
@@ -18350,6 +18426,25 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 42,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1236,
+    "question": "choose the option with the correct spelling from the options lettered A-E",
+    "option": {
+      "a": "Acommodation",
+      "b": "Accomodation",
+      "c": "Accormodation",
+      "d": "Accommodation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 43,
     "hasPassage": 0,
     "category": "others"
   },
