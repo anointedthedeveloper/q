@@ -5282,6 +5282,25 @@
     "category": "others"
   },
   {
+    "id": 326,
+    "question": "The stadium was <i>seething</i> with people when we entered",
+    "option": {
+      "a": " filled ",
+      "b": " crowded ",
+      "c": "empty   ",
+      "d": "noisy."
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 327,
     "question": "The Vice-Chancellor <i>relinquished</i> power at the end of busterm ",
     "option": {
@@ -14611,6 +14630,25 @@
     "category": "others"
   },
   {
+    "id": 989,
+    "question": "meditative?",
+    "option": {
+      "a": "meDItative",
+      "b": "mediTAtive",
+      "c": "Meditative",
+      "d": "meditaTIVE"
+    },
+    "section": "<b>In each of the questions 93 to 98 choose the appropriate stress pattern from the options. The syllables are written in capital letters.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "Every word has one syllable that receives a degree of force applied when pronouncing it.\n\nIn the word meditative, the third syllable from the left is more pronounced than the rest. Hence we have;\nme-di-TA-tive",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 94,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 991,
     "question": "Uche LOVES Toyota cars?",
     "option": {
@@ -19984,6 +20022,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 6,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1380,
+    "question": "This type of response is [typical] of a lazy teacher",
+    "option": {
+      "a": "symptomatic",
+      "b": "characteristics",
+      "c": "universal",
+      "d": "incontestable"
+    },
+    "section": "Choose the one nearest in meaning to the word(s) in bracket",
+    "image": "",
+    "answer": "b",
+    "solution": "Characteristic is correct answer. A thing is described as 'typical' of something else when becomes an observable and noticeable quality or attribute of it.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 7,
     "hasPassage": 0,
     "category": "others"
   },
