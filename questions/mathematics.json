@@ -16944,6 +16944,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1137,
+    "question": "How many different 8 letter words are possible using the letters of the word SYLLABUS?",
+    "option": {
+      "a": "(8 - 1)!",
+      "b": "8!/2!",
+      "c": "8!/2!2!",
+      "d": "8!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "SYLLABUS has 8 letters, 2S's and 2L's\n\n8!/2!2!",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1138,
     "question": "Evaluate: 16<sup>(0.16)</sup>\n × 16<sup>(0.04)</sup>(0.04) × 2<sup>(0.2)</sup>",
     "option": {
