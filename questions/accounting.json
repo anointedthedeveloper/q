@@ -4160,6 +4160,22 @@
     "examyear": "2015"
   },
   {
+    "id": 306,
+    "question": "Purchase invoice is first entered in the",
+    "option": {
+      "a": "purchases account",
+      "b": "cash book",
+      "c": "sales journal",
+      "d": "purchase journal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 307,
     "question": "Assets acquired is recorded by debiting",
     "option": {
@@ -4448,6 +4464,22 @@
     "examyear": "2015"
   },
   {
+    "id": 332,
+    "question": "Which of the following is not stated in the partnership agreement?",
+    "option": {
+      "a": "Profit sharing ratio",
+      "b": "Interest on capital",
+      "c": "Interest on fixed asset",
+      "d": "Purpose of partnership"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 333,
     "question": "How much was paid for goodwill?",
     "option": {
@@ -4683,6 +4715,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 355,
+    "question": "The annual depreciation is",
+    "option": {
+      "a": "N9,000",
+      "b": "N8,500",
+      "c": "N8,000",
+      "d": "N6,500"
+    },
+    "section": "Use the following information to answer question:\tCost of motor vehicle-1/1/12 [ 85,000 ];  Residual value [ 5,000 ]; Estimated useful lifespan 10 years . The business makes use of the straight line method for \tproviding depreciation.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -5595,6 +5643,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 430,
+    "question": "Share premium is an example of",
+    "option": {
+      "a": "revenue reserves",
+      "b": "capital reserves",
+      "c": "general reserves",
+      "d": "loan capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -8240,6 +8304,22 @@
     "examyear": "2017"
   },
   {
+    "id": 618,
+    "question": "In manufacturing account, depreciation of office machine is charged to",
+    "option": {
+      "a": "trading account",
+      "b": "appropriation account",
+      "c": "balance street",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "profit and loss account: the depreciation of the office machine is considered as part of administrative expense which must be charged against the profit of the company",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 619,
     "question": "Given:\nI. Cash refunds\nII. Debit note issued\nIII. Dishonored cheque\nIV. Purchases\nThe item on the credit side of purchases ledger control account includes",
     "option": {
@@ -9680,6 +9760,22 @@
     "examyear": "2019"
   },
   {
+    "id": 741,
+    "question": "Goods can be charged to branches using any of these pricing methods except",
+    "option": {
+      "a": " cost price",
+      "b": "cost plus percentage",
+      "c": " selling price",
+      "d": " selling plus percentage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "There are three different pricing methods which are used for charging goods to branches.\nThey are:\n1. At cost price\n2. At cost plus a percentage\n3. At selling price.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 742,
     "question": "Abelawo ltd operates a retail branch at Aba. All purchases are made by the head office in Onitsha and goods are charged to the branch at cost plus 50%. During the year ended. Goods sent to branch at invoiced price is ₦30,870, cash sales ₦13,020 and Bad debt amounted to 129. From the following, what is the profit?",
     "option": {
@@ -10140,6 +10236,22 @@
     "image": "",
     "answer": "a",
     "solution": "The provision for bad debts reduces the net amount owed by customers, so it is recorded as a credit in the Sales Ledger Control Account to offset (reduce) the balance of debtors.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 775,
+    "question": "The rule of accounting equation requires that account payable should be placed under",
+    "option": {
+      "a": "equities",
+      "b": "assets",
+      "c": "capital",
+      "d": "liabilities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Accounts payable represent amounts the business owes to suppliers and are therefore classified as liabilities in the accounting equation (Assets = Liabilities + Equity).",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -11372,6 +11484,22 @@
     "image": "",
     "answer": "a",
     "solution": "If Bola sends in a cheque for more than the owed amount, UTC would send him a credit note for the excess amount paid.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 875,
+    "question": "Sule and Ahmed are in partnership sharing profit and losses equally. If Khadija is admitted as a new partner to take 1/5 th as her share. What is the new profit or loss sharing?",
+    "option": {
+      "a": "Sule1/3, Ahmed1/3, Khadija 1/3",
+      "b": "Sule1/3, Ahmed1/3, Khadija 1/3",
+      "c": "Sule1/5, Ahmed1/5, Khadija3/5",
+      "d": "Sule2/5, Ahmed2/5, Khadija1/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The new partners’ profit‐sharing becomes:\n\nKhadija takes 1/5\n\nThe remaining 4/5, is shared equally between Sule and Ahmed, so each gets\n\n4/5 × 1/2 = 2/5.\n\nNew ratio:\n\nSule: 2/5\n\nAhmed: 2/5\n\nKhadija: 1/5",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -14780,6 +14908,22 @@
     "image": "",
     "answer": "a",
     "solution": "Factory overheads normally include indirect factory costs (salaries of factory staff if not direct, lighting, depreciation, insurance) but exclude direct wages and raw materials consumed.\n\nOverhead =\nSalary + Factory lighting + Plant depreciation + Factory insurance\n= ₦63,000 + ₦3,080 + ₦2,800 + ₦2,170\n= ₦71,050",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1143,
+    "question": "<b>Use the information below to answer questions 28 and 29</b>\n\n...........PQ Manufacturing Company\n\nRaw materials (1/11/2001)...........₦3 500\nRaw materials (31/12/2001)..........₦4 900\nPurchase of raw materials...........₦56 000\nSalary .............................₦63 000\nWages...............................₦148 000\nFactory lighting ...................₦3 080\nPlant Depreciation..................₦2 800\nFactory Insurance ..................₦2 170\n\nThe company consumed raw materials worth?",
+    "option": {
+      "a": "₦54,600",
+      "b": "₦56,000",
+      "c": " ₦57,400",
+      "d": "59,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Consumption of raw materials = Opening + Purchases − Closing\n\nCopy code\n= ₦3,500 + ₦56,000 − ₦4,900\n= ₦59,500 − ₦4,900\n= ₦54,600",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -18860,6 +19004,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672047/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q37-38_sdjnqq.png",
     "answer": "a",
     "solution": "To find the correct closing balance for Musa's current account, properly arrange the account with debits on the left and credits on the right.\nMusa's Current Account (Corrected):\nDebit Side (Left):\n\nDrawings: ₦8,800\nBalance c/d (if credit balance): ?\n\nCredit Side (Right):\n\nBalance b/d: ₦1,800\nInterest on capital: ₦800\nShare of profit: ₦26,200\n\nCalculation:\nTotal credits = ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nLess: Drawings = ₦8,800\nNet credit balance = ₦28,800 - ₦8,800 = ₦20,000\nWait, let me recalculate more carefully:\nCredit side total: ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nDebit side: Drawings ₦8,800\nBalance c/d: ₦28,800 - ₦8,800 = ₦20,000 credit",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1452,
+    "question": "The correct closing balance of Lawal’s current account is",
+    "option": {
+      "a": " ₦8,000 credit.",
+      "b": "₦ 14,740 debit",
+      "c": "₦ 14,740credit",
+      "d": "₦ 540 credit"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672047/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q37-38_sdjnqq.png",
+    "answer": "a",
+    "solution": "Lawal's Current Account (Corrected):\nCredit Side (Right):\n\nBalance b/d: ₦540\nInterest on capital: ₦360\nShare of profit: ₦13,100\nTotal Credits: ₦14,000\n\nDebit Side (Left):\n\nDrawings: ₦6,000\n\nCalculation:\nClosing balance = Total Credits - Drawings\nClosing balance = ₦14,000 - ₦6,000 = ₦8,000 credit\nSince the credits exceed the debits, Lawal has a credit balance of ₦8,000.",
     "examtype": "utme",
     "examyear": "1997"
   },
