@@ -3408,6 +3408,22 @@
     "examyear": "2016"
   },
   {
+    "id": 217,
+    "question": "A manometer is an instrument used for measuring",
+    "option": {
+      "a": "Relative density of liquid",
+      "b": " Pressure in liquids and gases",
+      "c": "Humidity",
+      "d": "Atmospheric pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A manometer is used for measuring pressure in liquids and gases.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 218,
     "question": "A body which weighs 50N in air displaces 3.7kg of water when partially immersed in water. Calculate the upthrust on the body?",
     "option": {
