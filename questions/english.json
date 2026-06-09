@@ -1387,6 +1387,25 @@
     "category": "others"
   },
   {
+    "id": 140,
+    "question": "The <i>mottled</i> skin of a person with HIV indicates an advance stage  of its development.",
+    "option": {
+      "a": "Brown ",
+      "b": "spotted",
+      "c": "scaly",
+      "d": "pimply"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 141,
     "question": "In spite of constant financial support from his father, Udenyi treats his studies with considerable <i>levity</i>.",
     "option": {
@@ -1569,6 +1588,25 @@
     "section": "choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 174,
+    "question": "No wonder Sikemi later became a detective; she has been very <i>observant </i>",
+    "option": {
+      "a": "curious",
+      "b": "perceptive",
+      "c": "inductive",
+      "d": "inquisitive"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase  in italics ",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005",
@@ -11472,6 +11510,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 42,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1419,
+    "question": "<u>Procrastination</u> is the enemy of progress",
+    "option": {
+      "a": "acceleration",
+      "b": "laziness",
+      "c": "hardwork",
+      "d": "tiredness"
+    },
+    "section": "Choose the one opposite in meaning to the word(s) underlined.",
+    "image": "",
+    "answer": "a",
+    "solution": "When someone doesn't procrastinate or postpone things unnecessarily for example out of laziness, then he or she accelerates the pace of the work required.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 46,
     "hasPassage": 0,
     "category": "others"
   },
