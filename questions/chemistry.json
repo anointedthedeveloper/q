@@ -1168,6 +1168,22 @@
     "examyear": "2003"
   },
   {
+    "id": 95,
+    "question": "If an equilibrium reaction has   H>0, the reaction will proceed favourably in the forward direction at",
+    "option": {
+      "a": "High temperature",
+      "b": "Any temperature",
+      "c": "Low temperature",
+      "d": "Minimum temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 96,
     "question": "The commonest feature of the reactions at the anode is that",
     "option": {
@@ -1243,6 +1259,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 104,
+    "question": "Chlorine gas is prepared in the laboratory by",
+    "option": {
+      "a": "Adding concentrated hydrochloric acid to solid manganese (IV) oxide",
+      "b": "Adding concentrated tetraoxosulphate (VI) acid to solid sodium chloride",
+      "c": "Dropping concentrated hydrochloric acid onto potassium tetraoxomanganate (VII) crystals",
+      "d": "Oxidizing concentrated hydrochloric acid using potassium heptaoxodichromate (VI) crystals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -4256,6 +4288,22 @@
     "examyear": "2016"
   },
   {
+    "id": 360,
+    "question": "The principle of column chromatography is based on the ability of the constituents to",
+    "option": {
+      "a": "React with the solvent in the column",
+      "b": "React with each other in the solvent in the column",
+      "c": "Dissolve in each other in the column",
+      "d": "Move at different speeds in the column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Column chromatography separates mixtures based on the ability of components to move at different speeds through the stationary phase. Components with greater affinity for the stationary phase move more slowly, while those preferring the mobile phase move faster, achieving separation.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 361,
     "question": "Ammonium chloride can be separated from its mixture with common salt by",
     "option": {
@@ -5040,6 +5088,22 @@
     "examyear": "2017"
   },
   {
+    "id": 420,
+    "question": "A sample of orange juice is found to have a pH of 3.80. What is the concentration of the hydroxide ion in the juice?",
+    "option": {
+      "a": "1.6 × 10⁻⁴",
+      "b": "6.3 × 10⁻¹¹",
+      "c": "6.3 × 10⁻⁴",
+      "d": "1.6 × 10⁻¹¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "pH = 3.80, so pOH = 14 - 3.80 = 10.20. [OH⁻] = 10⁻¹⁰·²⁰ = 6.3 × 10⁻¹¹ mol dm⁻³. Alternatively: [H⁺] = 10⁻³·⁸⁰ = 1.585 × 10⁻⁴; [OH⁻] = Kw/[H⁺] = 1 × 10⁻¹⁴ / 1.585 × 10⁻⁴ = 6.3 × 10⁻¹¹ mol dm⁻³.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 424,
     "question": "When ΔH is negative, a reaction is said to be",
     "option": {
@@ -5180,6 +5244,22 @@
     "image": "",
     "answer": "c",
     "solution": "In Cu₂S, S has oxidation number -2, so each Cu must be +1 (since 2(+1) + (-2) = 0). In the product Cu, copper is in its elemental state with oxidation number 0. Therefore copper changes from +1 (in Cu₂S) to 0 (in Cu) — this is a reduction.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 434,
+    "question": "In the diagram, X is",
+    "option": {
+      "a": "SO₃",
+      "b": "SO₂",
+      "c": "S",
+      "d": "H₂S"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777637355/ALOC-Questions/Chemistry/UTME/2017/Chemistry_2017_Q30-31_gkt7yx.png",
+    "answer": "b",
+    "solution": "The apparatus shows the laboratory preparation of SO₂: a liquid (likely concentrated H₂SO₄) in the round-bottom flask reacting with a solid (e.g., copper or sodium sulphite) in the conical flask Y, generating a gas collected at X. The gas produced in this setup is SO₂ (sulphur dioxide). SO₃ requires industrial catalytic conditions; H₂S would require different reagents (e.g., FeS + HCl).",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -5420,6 +5500,22 @@
     "image": "",
     "answer": "c",
     "solution": "Using ΔG = ΔH - TΔS. The reaction goes from 4 moles of gas to 2 moles, so ΔS is negative (decrease in disorder). ΔH is positive (endothermic). Therefore ΔG = (+) - T(-) = positive + positive = positive. At room temperature, ΔG > 0 means the reaction is non-spontaneous.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 454,
+    "question": "Which of the following is the correct order of increasing electronegativity?",
+    "option": {
+      "a": "F < O < N < C",
+      "b": "C < N < O < F",
+      "c": "N < O < C < F",
+      "d": "O < N < F < C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Electronegativity increases across a period from left to right. In Period 2: C (2.5) < N (3.0) < O (3.5) < F (4.0). Fluorine is the most electronegative element on the periodic table. The correct order of increasing electronegativity is C < N < O < F.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -6272,6 +6368,22 @@
     "examyear": "2019"
   },
   {
+    "id": 527,
+    "question": "Consider the reaction A(s) + 2B(g) → 2C(aq) + D(g). What will be the effect of a decrease in pressure on the reaction?",
+    "option": {
+      "a": "the equilibrium will shift",
+      "b": "rate of forward reaction will increase",
+      "c": "rate of backward reaction will increase",
+      "d": "rates of forward and backward reaction are not affected"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Counting gaseous moles: left side has 2 moles of gas (2B); right side has 1 mole of gas (D). A(s) and C(aq) are not counted. By Le Chatelier's principle, decreasing pressure favours the side with more moles of gas (the left/reactant side). This shifts equilibrium backward, so the rate of the backward reaction increases.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 528,
     "question": "For the general equation of the nature xP + yQ ⇌ mR + nS, the expression for the equilibrium constant is",
     "option": {
@@ -6956,6 +7068,22 @@
     "image": "",
     "answer": "a",
     "solution": "Hydrogen cyanide (HCN) and hydroxylamine (NH₂OH) are nucleophilic reagents that undergo addition reactions with carbonyl compounds (aldehydes and ketones). Alkanal (aldehyde) and alkanone (ketone) both react with HCN and hydroxylamine. Alkanoic acids do not react with HCN or hydroxylamine under normal conditions. Alkenes lack the carbonyl group entirely and do not react with these reagents. However, the compound that reacts with neither is the alkene, as it undergoes electrophilic addition not nucleophilic addition to carbonyl groups.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 584,
+    "question": "The substance often used for vulcanization of rubber is?",
+    "option": {
+      "a": "Chlorine",
+      "b": "Hydrogen peroxide",
+      "c": "Sulphur",
+      "d": "Tetraoxosulphate(vi) acid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Vulcanization is the process of heating natural rubber with sulphur to improve its strength, elasticity, and durability. Sulphur atoms form cross-links between the polymer chains of rubber, making it harder and more resistant to temperature changes. This process was discovered by Charles Goodyear in 1839.",
     "examtype": "utme",
     "examyear": "2020"
   },
