@@ -3648,6 +3648,22 @@
     "examyear": "2018"
   },
   {
+    "id": 316,
+    "question": "An object moves in a circular path of radius 0.5m with a speed of 1ms⁻¹. What is its angular velocity?",
+    "option": {
+      "a": "8 rads⁻¹",
+      "b": "4 rads⁻¹",
+      "c": "1 rads⁻¹",
+      "d": "2 rads⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nRadius (r) = 0.5 m\nLinear speed (v) = 1 m/s\nAngular velocity (ω) = ?\n\nFormula relating linear speed and angular velocity:\nv = rω\nRearranging to find ω:\nω = v/r\nSubstituting values:\nω = 1/0.5\nω = 2 rad/s",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 317,
     "question": "What effort will a machine of efficiency 90% apply to a load of 180N if its efforts arm is twice as long as its load arm?",
     "option": {
@@ -3824,6 +3840,22 @@
     "examyear": "2019"
   },
   {
+    "id": 332,
+    "question": "When blue and green colours of light are mixed, the resultant colour is",
+    "option": {
+      "a": "cyan",
+      "b": "magenta",
+      "c": "black",
+      "d": "yellow"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When blue and green colors of light are mixed, the resultant color is cyan (a blue-green color).",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 333,
     "question": "A metal rod has a length of 100cm at 200°C. At what temperature will its length be 99.4cm, if the linear expansivity of the material of the rod is 2 × 10⁻⁵ °C⁻¹?",
     "option": {
@@ -3884,6 +3916,22 @@
     "image": "",
     "answer": "d",
     "solution": "Initial velocity, u = 44 m/s\nAcceleration, a = -4 m/s²\nTime, t = 10 s\n\nFormula:\nv = u + a * t\n\nCalculation:\nv = 44 + (-4) * 10\nv = 44 - 40\nv = 4 m/s",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 338,
+    "question": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce temperature increase because",
+    "option": {
+      "a": " all the heat is used to break the bonds holding the molecules of the solid together",
+      "b": "the heat capacity has become very large as the substance melts",
+      "c": "the heat energy is quickly conducted away",
+      "d": "the heat gained is equal to the heat lost by the substance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "During the transformation of the matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because all the heat is used to break the bonds holding the molecules of the solid together",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -6592,6 +6640,22 @@
     "examyear": "2024"
   },
   {
+    "id": 587,
+    "question": "The fourth overtone of a closed pipes is 900Hz, its fundamental frequency is \n",
+    "option": {
+      "a": "50Hz",
+      "b": "100Hz",
+      "c": "200Hz",
+      "d": "400Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Solution:\nUnderstanding closed pipe harmonics:\nIn a closed pipe (one end closed, one end open):\n\nOnly odd harmonics are present\nFundamental frequency (f₀) = 1st harmonic\n1st overtone = 3rd harmonic = 3f₀\n2nd overtone = 5th harmonic = 5f₀\n3rd overtone = 7th harmonic = 7f₀\n4th overtone = 9th harmonic = 9f₀\n\nGiven information:\n\n4th overtone frequency = 900 Hz\nFundamental frequency (f₀) = ?\n\nStep 1: Identify the harmonic number\n4th overtone corresponds to the 9th harmonic\nStep 2: Set up equation\n9f₀ = 900 Hz\nStep 3: Solve for fundamental frequency\nf₀ = 900 / 9\nf₀ = 100 Hz",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 588,
     "question": "A cell of internal resistance of 2Ω supplies current through a resistor, X. If the efficiency of the cell is 75%, find the value of X.",
     "option": {
@@ -8428,6 +8492,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nMass (m) = 1500 kg\nRadius (r) = 50 m\nSpeed (v) = 40 m/s\nCentripetal force (F) = ?\n\nFormula for centripetal force:\nF = mv²/r\nSubstituting values:\nF = (1500 × 40²)/50\nF = (1500 × 1600)/50\nF = 2,400,000/50\nF = 48,000 N\nF = 4.8 × 10⁴ N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 753,
+    "question": "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them? [G = 6.67 × 10⁻¹¹ Nm² Kg⁻²]",
+    "option": {
+      "a": "3.50 × 10⁻¹⁰ N",
+      "b": "3.71 × 10⁻⁸ N",
+      "c": "3.57 × 10⁻² N",
+      "d": "4.00 × 10² N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMass 1 (m₁) = 5.0 kg\nMass 2 (m₂) = 10.0 kg\nDistance (r) = 0.3 m\nGravitational constant (G) = 6.67 × 10⁻¹¹ Nm²/kg²\nForce (F) = ?\n\nUsing Newton's Law of Universal Gravitation:\nF = G(m₁m₂)/r²\nSubstituting values:\nF = (6.67 × 10⁻¹¹ × 5.0 × 10.0)/(0.3)²\nF = (6.67 × 10⁻¹¹ × 50)/0.09\nF = (333.5 × 10⁻¹¹)/0.09\nF = 3335 × 10⁻¹¹/0.09\nF = 3.71 × 10⁻⁸ N",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -12096,6 +12176,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1088,
+    "question": "What happens when three coplanar non-parallel forces are in equilibrium?",
+    "option": {
+      "a": "Their lines of action are parallel.",
+      "b": "They are represented in magnitude only",
+      "c": "They are represented in direction only",
+      "d": "Their lines of action meet at a point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Conditions for non-parallel coplanar forces",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1089,
     "question": "An object of mass 20kg is released from a height of 10m above the ground level. The kinetic energy of the object just before it hits the ground is",
     "option": {
@@ -12220,6 +12316,22 @@
     "image": "",
     "answer": "c",
     "solution": "A compound microscope uses two convex lenses: an objective lens (near the object) and an eyepiece lens (near the eye). To achieve high magnification, both lenses need to have short focal lengths.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1106,
+    "question": "When a telescope is in normal use, the final image is at",
+    "option": {
+      "a": "Infinity",
+      "b": "The focus",
+      "c": "The radius of curvature",
+      "d": "The near point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A refracting telescope consists of an objective lens and an eyepiece. In normal adjustment, the telescope is set so that the final image is formed at infinity, allowing relaxed viewing.",
     "examtype": "utme",
     "examyear": "2014"
   },
