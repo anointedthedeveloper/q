@@ -912,6 +912,22 @@
     "examyear": "2012"
   },
   {
+    "id": 64,
+    "question": "Where no partnership agreements exist, a partner who puts a sum of money into a firm in excess of the capital he has agreed to subscribe is entitled to interest rate per annum on such money ",
+    "option": {
+      "a": "15%",
+      "b": "10%",
+      "c": "5%",
+      "d": "2%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 65,
     "question": "MORADE had total assets of N760,000, capital stock of N150,000 and retained earnings of N215,000. What was Morade's debt-to-equity ratio? ",
     "option": {
@@ -5355,6 +5371,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 368,
+    "question": "When an asset is sold, the entries for the accumulated depreciation are: debit",
+    "option": {
+      "a": "Asset Disposal Account; credit Provision for Depreciation Account.",
+      "b": "Provision for Depreciation Account; Credit Asset Disposal Account",
+      "c": "Fixed Asset Account; Credit Asset Disposal Account",
+      "d": "Asset Disposal Account; Credit Fixed Asset Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -21132,6 +21164,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Adjust loss for Faruk's salary\n\nLoss before salary = ₦1,500\nFaruk's salary = ₦9,000\n\nSince salary is treated as an appropriation before profit is shared, the total loss to be shared becomes:\n\n{Net loss} = ₦1,500 + ₦9,000 = ₦10,500\n\n\nStep 2: Share the net loss in the ratio 3:7\n\nTotal ratio = 3 + 7 = 10\n\nFaruk: {3}/{10} × ₦10,500 = ₦3,150$\nOsawe: {7}/{10} × ₦10,500 = ₦7,350$\n\nStep 3: Net effect\n\nFaruk does not receive the salary because the firm made a loss; the loss including salary is allocated.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1454,
+    "question": "On partnership dissolution, if a partner's capital account has a debit balance and the partnr is insolvent, the deficiency will, in accordance with the decision of the case of Garner v Murray, be",
+    "option": {
+      "a": "borne by all the partners",
+      "b": "borne by the insolvent partner",
+      "c": "written off",
+      "d": "borne by the solvent partners"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Under the rule in Garner v. Murray, if a partner is insolvent during dissolution and has a debit balance on their capital account, the deficiency is borne by the solvent partners in proportion to their last agreed capital balances, not profit-sharing ratios.",
     "examtype": "utme",
     "examyear": "1997"
   },
