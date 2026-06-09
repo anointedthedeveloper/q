@@ -80,6 +80,38 @@
     "examyear": "2006"
   },
   {
+    "id": 9,
+    "question": "Factorize 16(3x+2y)2-25 (a+2b)2",
+    "option": {
+      "a": "(12x +8y+5a+10b)(12x+8y-5a-10b)    ",
+      "b": "(12x+8y-5a-10b) (12x+8y-5a-10b),    ",
+      "c": "20 (3x +2y-a-2b)(3x+2y+a+2b)  ",
+      "d": "20(3x+2y+a+2b) (3x+2y+a+2b)."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 10,
+    "question": "1.3logx+logy =3. Then, y is  ",
+    "option": {
+      "a": "(10/x)3 ",
+      "b": "(x/10)3  ",
+      "c": "(x/10)-3 ",
+      "d": "(10/x)1-1/3 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 11,
     "question": "Z is partly constant and partly varies inversely as the square of d. when d = 1, z = 11 and when d = 2, z = 5. Find the value of z when d = 4.  ",
     "option": {
@@ -1760,6 +1792,22 @@
     "examyear": "2003"
   },
   {
+    "id": 230,
+    "question": "If 9<sup>2x−1</sup>/27<sup>x+1</sup> = 1\n, find the value of x.",
+    "option": {
+      "a": "8",
+      "b": "5",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <msup>\n      <mn>9</mn>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n        <mi>x</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>1</mn>\n      </mrow>\n    </msup>\n    <msup>\n      <mn>27</mn>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mi>x</mi>\n        <mo>+</mo>\n        <mn>1</mn>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mo>=</mo>\n  <mn>1</mn>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "If 9<sup>2x−1</sup>/27<sup>x+1</sup> = 1\n \n⟹f 9<sup>2x−1</sup> = 27<sup>x+1</sup>\n(3<sup>2</sup>)<sup>2x−1</sup> = (3<sup>3</sup>)<sup>x + 1</sup>\n2(2x−1 )= 3(x+1) ⟹ 4x−2 = 3x+3\n4x − 3x = 3 + 2 ⟹ x = 5",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 231,
     "question": "The sum of four numbers is 1214<sub>5</sub>\n. What is the average expressed in base five?",
     "option": {
@@ -2336,6 +2384,22 @@
     "examyear": "2004"
   },
   {
+    "id": 302,
+    "question": "Factorize completely ac - 2bc - a + 4b<sup>2</sup>",
+    "option": {
+      "a": "(a - 2b)(c - a - 2b)",
+      "b": " (a - 2b)(c + a +2b)",
+      "c": " (a - 2b)(c - a + 2b)",
+      "d": " (a - 2b)(c + a - 2b)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "ac - 2bc - a<sup>2</sup> + 4b<sup>2</sup>\nac - 2bc - (a<sup>2</sup> - 4b<sup>2</sup>)\nac - 2bc - (a<sup>2</sup> -(2b)<sup>2</sup>)\nc(a - 2b) - {(a - 2b)(a + 2b)}\n(a - 2b)(c - (a + 2b))\n(a - 2b)(c - a - 2b)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 303,
     "question": "Find the sum to infinity of the series 1/2 , 1/6, 1/18, .....",
     "option": {
@@ -2380,6 +2444,22 @@
     "image": "",
     "answer": "d",
     "solution": "First teacher received 2/5\n ∴Remainder =1−2/5=3/5\n\n2nd teacher received; 2/15 of 3/5 = 2/15 × 3/5 = 2/25\n\n3rd teacher will receive; 1−2/5 – 2/25 = (25−10−2)/15 = 13/25",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 307,
+    "question": "Find P, if 451<sub>6</sub> - P<sub>7</sub> = 305<sub>6</sub>",
+    "option": {
+      "a": "62<sub>7</sub>",
+      "b": "116<sub>7</sub>",
+      "c": "611<sub>7</sub>",
+      "d": "142<sub>7</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\n451 <sub>6</sub> - P <sub>7</sub> = 305 <sub>6</sub>\nP <sub>7</sub> = 451 <sub>6</sub> - 305 <sub>6</sub>\nP <sub>7</sub = 142<sub>6</sub>\nconvert 142<sub>6</sub>\n= 1 * 6<sup>2</sup> + 4 * 6<sup>1</sup> + 2 * 6<sup>0</sup>\n= 36 + 24 + 2\n= 62\nConvert 62<sub>10</sub>  to base 7\n62/7 = 8 R 6\n8/7 = 1 R 1\n1/7 = 0 R 1\n∴ P <sub>7</sub = 116<sub>7</sub",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3296,6 +3376,22 @@
     "examyear": "2007"
   },
   {
+    "id": 432,
+    "question": "If y = x cos x, find dy/dx",
+    "option": {
+      "a": "sin x - x cos x",
+      "b": " sin x + x cos x",
+      "c": "cos x + x sin x",
+      "d": "cos x - x sin x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = x cos x\ndy/dx = 1. cos x + x (-sin x)\n= cos x - x sin x",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 435,
     "question": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is",
     "option": {
@@ -3660,6 +3756,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545810/ALOC-Questions/Mathematics/2008/MATH_2008_Q11_SOLUTION_bkcegq.jpg",
     "answer": "b",
     "solution": "n(M) only = 30-10 = 20\n\nn(E) only = 20-10 = 10\n\nn(Mâˆ©E) = 10\n\nâˆ´MâˆªE = 20+10+10\n\n= 40",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 483,
+    "question": "Make Q the subject of formula when L = 4/3 M√PQ",
+    "option": {
+      "a": "(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
+      "b": "3L/(4M√P)",
+      "c": "√3L/4MP",
+      "d": "(3L<sup>2</sup>)/(16M<sup>2</sup> ) P"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "L=4/3 M√PQ=3/4M×L=√PQ=〖(3L/4M)〗<sup>2</sup>=(√PQ )<sup>2</sup>=(9L<sup>2</sup>)/(16M<sup>2</sup> )=PQ=Q=(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -4400,6 +4512,22 @@
     "examyear": "2010"
   },
   {
+    "id": 582,
+    "question": "From the cyclic quadrilateral TUVW above, find the value of x",
+    "option": {
+      "a": "26°",
+      "b": "24°",
+      "c": "20°",
+      "d": "23°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128258/ALOC-Questions/Mathematics/2010/MATH_2010_Q11_fzqprk.jpg",
+    "answer": "b",
+    "solution": "TUVW is a cyclic quad\n3χ + 20 + 88 = 180 (opp ∠ s of a cyclic quad are supplementary)\n3χ + 108 = 180\n3χ = 180 - 108\n3χ = 72\nχ = 72/3\nχ = 24°",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 583,
     "question": "If two smaller sides of a right angled triangle are 4cm and 5cm, find its area",
     "option": {
@@ -4908,6 +5036,22 @@
     "image": "",
     "answer": "a",
     "solution": "P(x, y) Q(8, 6)\n\nmidpoint = (5, 8)\n\nx + 8 = 5\n\ny+6/2 = 8\n\nx + 8 = 10\n\nx = 10 - 8 = 2\n\ny + 6 = 16\n\ny + 16 - 6 = 10\n\ntherefore, P(2, 10)",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 650,
+    "question": "Find the equation of a line perpendicular to line 2y = 5x + 4 which passes through (4, 2).",
+    "option": {
+      "a": "5y - 2x -18 = 0",
+      "b": "5y + 2x - 18 = 0",
+      "c": " 5y - 2x + 18 = 0",
+      "d": "5y + 2x - 2 = 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2y = 5x + 4 (4, 2)\n\ny = 5x/2 + 4 comparing with\n\ny = mx + e\n\nm = 5/2\n\n\nSince they are perpendicular\n\nm<sub>1</sub>m<sub>2</sub> = -1\n\nm<sub>2</sub> = −1/m<sub>1</sub> = -1\n\n5/2 = -1 x 2/5\n\n\nThe equator of the line is thus\n\ny = mn + c (4, 2)\n\n2 = -2/5(4) + c\n\n2/1 + 8/5 = c\n\nc = 18/5\ny = -2/5x + 18/5\n5y = -2x + 18\n\nor 5y + 2x - 18 = 0",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -5456,6 +5600,22 @@
     "examyear": "2013"
   },
   {
+    "id": 771,
+    "question": "3 girls share a number of apples in the ration 5:3:2. If the highest share is 40 apples, find the smallest share",
+    "option": {
+      "a": "36",
+      "b": "24",
+      "c": "16",
+      "d": "38"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The sum, S of ratio is S = 5 + 3 + 2 = 10.\n\nBut highest share = 5/10× T\n, where T is the total number of apples.\n\nThus, 40=5/10 × T,\n\ngiven 40 x 10 = 5T,\n\nT= (40×10)/5=80\n\n\nHence the smallest share = 2/10 × 80\n\n\n= 16 apples",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 772,
     "question": "Evaluate 1.25×0.025/0.05\n, correct to 1 decimal place",
     "option": {
@@ -5728,6 +5888,22 @@
     "examyear": "2013"
   },
   {
+    "id": 808,
+    "question": "Find the length of a chord which subtends an angle of 90° at the centre of a circle whose radius is 8 cm.",
+    "option": {
+      "a": " 8√3 cm",
+      "b": "4 cm",
+      "c": "8 cm",
+      "d": " 8√2 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Length of chord =2rsin(θ/2)\n= 2 × 8 × sin(90/2)\n= 16 × √2/2\n= 8√2cm",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 809,
     "question": "A chord of a circle subtends an angle of 120° at the centre of a circle of diameter 4√3cm\n. Calculate the area of the major sector.",
     "option": {
@@ -5820,6 +5996,22 @@
     "image": "",
     "answer": "b",
     "solution": "∫1+x/x<sup>3<sup> dx\n= ∫(1/x<sup>3</sup> + x/x<sup>3</sup>)dx\n= ∫(x<sup>-3</sup> + x<sup>-2</sup>)dx\n= −1/2x<sup>2</sup> − 1/x + k",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 816,
+    "question": "∫<sub>0</sub>  <sup>(π/2)</sup>〖sin⁡xdx〗",
+    "option": {
+      "a": "-2",
+      "b": "2",
+      "c": "1",
+      "d": "-1"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>0</mn>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mi>&#x03C0;<!-- π --></mi>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msubsup>\n  <mi>sin</mi>\n  <mo>&#x2061;<!-- ⁡ --></mo>\n  <mi>x</mi>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">d</mi>\n  </mrow>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "∫<sub>0</sub>  <sup>(π/2)</sup>〖sin⁡xdx〗\n\n= −cos(π/2) − (−cos0)\n= 0 + 1\n= 1",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -6124,6 +6316,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003168/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q42_fe8nug.jpg",
     "answer": "b",
     "solution": "< TVS = 180° - (80 + 20)\n= 180 - 100 = 80°",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 861,
+    "question": "Find the mean of 10, 8, 5, 11, 12, 9, 6, 3, 15, and 23.",
+    "option": {
+      "a": "11.2",
+      "b": "10",
+      "c": "10.2",
+      "d": "11.3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(10+8+5+11+12+9+6+3+15+23)/10\n \n= 102/10\n = 10.2",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -6940,6 +7148,22 @@
     "image": "",
     "answer": "d",
     "solution": "log<sub>2</sub> 8 – log<sub>3</sub> 1/9\n  = log<sub>2</sub> 2<sup>3</sup> – log<sub>3</sub> 9<sup>−1</sup>\n= log<sub>2</sub>2<sup>3</sup>\n – log<sub>3</sub> 3<sup>−2</sup>\n  Based on law of logarithm\n\n  = 3 log<sub>2</sub> 2 – (-2 log<sub>3</sub> 3)\n\n  Butlog<sub>2</sub> 2 = 1,\n\nlog<sub>3</sub> 3= 1\n\n  So, = 3 + 2\n\n  = 5",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 960,
+    "question": "The figure above is a Venn diagram showing the elements arranged within sets A,B,C,ε.\nUse the figure to answer this question\n\nWhat is n(A U B)1 ?",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006518/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q42_jtocji.jpg",
+    "answer": "c",
+    "solution": "A = (p, q, r, t, u, v)\n\nB = (r, s, t, u)\n\nA U B = Elements in both A and B = (p, q, r, s, t, u, v)\n\n(A U B)1 = elements in the universal set E but not in (A U B)= (w, x, y, z)\n\nn(A U B) 1 = number of the elements in (A U B)1 = 4",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -8160,6 +8384,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1115,
+    "question": "The locus of points equidistant from a fixed point.",
+    "option": {
+      "a": "circle",
+      "b": "perpendicular lines",
+      "c": " straight line",
+      "d": " bisector"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Definition of a circle",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1116,
     "question": "What will be the result obtained when the numerator of 96/50\n is decreased by 37.5% and its denominator decreased by 20%.",
     "option": {
@@ -8432,6 +8672,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1143,
+    "question": "The area A of a circle is increasing at a constant rate of 1.5 cm <sup>2</sup>s<sup>−1</sup>\n. Find, to 3 significant figures, the rate at which the radius r of the circle is increasing when the area of the circle is 2 cm<sup>2</sup>\n.",
+    "option": {
+      "a": " 0.200 cms<sup>−1</sup>",
+      "b": "0.798 cms<sup>−1</sup>",
+      "c": " 0.300 cms<sup>−1</sup>",
+      "d": " 0.299 cms<sup>−1</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Area of a circle (A) = πr<sup>2</sup>\n\n\nGiven\n\ndA/dt=1.5 cm<sup>2</sup>s<sup>-1</sup>\n\n\ndr/dt = ?\n\nA = 2cm<sup>2</sup>\n\n\nNow\n\n2 = πr <sup>2</sup> \n\n\n= r<sup>2</sup> = 2/π\n\n\nr = √(2/π) cm = 0.798cm\n\ndr/dt = dA/dt × dr/dt\n\n\ndA/dr= 2πr (differentiating A = πr<sup>2</sup>)\n\n\ndr/dA=1/2πr\n\n\ndr/dt=1.5 × 1/(2 × π × 0.798) = 1.5 × 0.199\n\n\ndr/dt = 0.299cms<sup>−1</sup> (to 3 s.f)",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1146,
     "question": "The diagram above is a circle with centre C. P, Q and S are points on the circumference. PS and SR are tangents to the circle. ∠PSR = 36<sup>o</sup>\n. Find ∠PQR",
     "option": {
@@ -8444,6 +8700,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007804/ALOC-Questions/Mathematics/2023/Screenshot_2024-08-18_at_8.03.15_PM_e3llyp.png",
     "answer": "a",
     "solution": "From ∆PSR\n\n|PS| = |SR| (If two tangents are drawn from an external point of the circle, then they are of equal lengths)\n\n∴ ∆PSR is isosceles\n\n∠PSR + ∠SRP + ∠SPR = 180\n <sup>o</sup> (sum of angles in a triangle)\n\nSince |PS| = |SR|; ∠SRP = ∠SPR\n\n⇒ ∠PSR + ∠SRP + ∠SRP = 180<sup>o</sup>\n\n\n∠PSR + 2∠SRP = 180<sup>o</sup>\n\n\n36<sup>o</sup>\n + 2∠SRP = 180<sup>o</sup>\n\n\n2∠SRP = 180<sup>o</sup>\n - 36<sup>o</sup>\n\n\n2∠SRP = 144<sup>o</sup>\n∠SRP = 144<sup>o</sup>/2=72<sup>o</sup>\n∠SRP = ∠PQR (angle formed by a tangent and chord is equal to the angle in the alternate segment)\n\n∴ ∠PQR = 72<sup>o</sup>",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1149,
+    "question": "If (3−√3)/(2+√3) = a + b√3, what are the values a and b?",
+    "option": {
+      "a": "a = 9, b = -5",
+      "b": " a = 5, b = 9",
+      "c": " a = 9, b = 5",
+      "d": "a = -5, b = 9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(3−√3)/(2+√3) = a + b√3\nRationalize\n\n= (3 − √3)/(2+√3) × (2−√3)/(2−√3)\n= (3−√3)/(2+√3)(2−√3)/(2−√3)\n= 6−3√3−2√3+(√3)<sup>2</sup>/4−2√3 + 2√3 − (√3)<sup>2</sup>\n= (6−5√3+3)/(4−3)\n= (9−5√3)/1 = 9 − 5√3\n= 9 + (-5)√3\n∴a= 9, b = −5",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -8912,6 +9184,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1201,
+    "question": "What is the solution of x−5/x+3 <−1?",
+    "option": {
+      "a": "=-3 < x < 1",
+      "b": "x < -3 or x > 1",
+      "c": "-3 < x < 5",
+      "d": "x < -3 or x > 5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Consider the range -3 < x < -1\n\n= { -2, -1, 0}, for instance\n\nWhen x = -2,\n\n(−2−5)/(−2 + 3) < −1\n\n\n−7/1 < −1\n\n\nWhen x = -1,\n\n(−1−5)/(−1+3) <−1\n\n\n−6/2 < −1\n\n\n= -3 < -1\n\nWhen x = 0,\n\n(0−5)/(0 + 3) < −1\n\n\n−5/3 < −1\n\n\nHence -3 < x < 1",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1202,
     "question": "Evaluate the inequality x/2+3/4≤ 5x/6 − 7/12",
     "option": {
@@ -9068,6 +9356,22 @@
     "image": "",
     "answer": "c",
     "solution": "Mean x = ∑x/n\n\n\n= [(2 - t) + (4 + t) + (3 - 2t) + (2 + t) + (t - 1)] ÷\n 5\n\n= [11 - 1 + 3t - 3t] ÷\n 5\n\n= 10 ÷ 5\n\n= 2",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1223,
+    "question": "Find the median of 5,9,1,10,3,8,9,2,4,5,5,5,7,3 and 6",
+    "option": {
+      "a": "6",
+      "b": "5",
+      "c": "4",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "First arrange the numbers in order of magnitude;\n1,2,3,3,4,5,5,5,5,6,7,8,9,9,10\n\nHence the median = 5",
     "examtype": "utme",
     "examyear": "2014"
   },
