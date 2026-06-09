@@ -2400,6 +2400,22 @@
     "examyear": "2012"
   },
   {
+    "id": 163,
+    "question": "The original name of Shadrach was  ",
+    "option": {
+      "a": "Daniel  ",
+      "b": "Mishael  ",
+      "c": "Hananiah  ",
+      "d": "Azariah"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 164,
     "question": "The person who was invited to nurse Moses was ",
     "option": {
@@ -12656,6 +12672,22 @@
     "examyear": "2012"
   },
   {
+    "id": 884,
+    "question": "The visitors of Peter after his vision at Joppa were from ",
+    "option": {
+      "a": "Jerusalem",
+      "b": "Samaria",
+      "c": "Caesarea",
+      "d": "Antioch"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 885,
     "question": "When Rhoda reported that Peter was at the door, the inmates retorted that",
     "option": {
@@ -14171,6 +14203,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 991,
+    "question": "According to Joseph’s interpretation to Pharaoh’s dreams; ",
+    "option": {
+      "a": "famine",
+      "b": "abundance",
+      "c": "farming. ",
+      "d": "harvest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
