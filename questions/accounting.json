@@ -624,6 +624,22 @@
     "examyear": "2016"
   },
   {
+    "id": 152,
+    "question": "Opening balance of Diksacompany was 12, 202, closing balance N15,300, total cash received during the period N40, 000. What was the amount of cash paid during the same period?",
+    "option": {
+      "a": "N36. 902",
+      "b": "N27,502",
+      "c": "N12,498",
+      "d": "N43.098"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 153,
     "question": "The total cash and cheques received from customers in a control account is derived from the",
     "option": {
@@ -2011,6 +2027,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 435,
+    "question": "Calculate the total figure for the receipts and payments account.",
+    "option": {
+      "a": "N 11,410",
+      "b": "N  13,630",
+      "c": "N  9, 310",
+      "d": "N  11, 530."
+    },
+    "section": "Entrance fees [N 1,200 ]; Subscription (including N 850 arrears) [N 4,310 ]; Donations received [N 1,500]; Proceeds from sales [N 2 ,300]; Total payments [N 8,200 ]; Depreciation [N 2,100]; Closing cash balance [N 1,110 ]. The club deposited 200% of the closing cash balance in the bank during the period.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -3916,6 +3948,22 @@
     "image": "",
     "answer": "c",
     "solution": "The main source document for recording cash paid into the bank is a pay-in-slip.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 881,
+    "question": "The medium that enables the ATM to read the account details and process transaction directly with the account held in the bank is the?",
+    "option": {
+      "a": "smart card",
+      "b": "communication network",
+      "c": "magnetic strip",
+      "d": "computerized account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The magnetic strip on the ATM card contains the encoded account information (such as the account number and bank details). When you insert your card, the ATM reads this strip to identify your account and process transactions directly against it.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -6302,6 +6350,22 @@
     "solution": "When goods costing ₦10,000 are invoiced to the branch at cost plus 20% (i.e. at ₦12,000), the head office increases its branch‐stock asset and uses the “Branch Stock” account. The entry in the head office books on dispatch is:\n\nDr Branch Stock Account ₦12,000\n  Cr Goods Sent to Branch Account ₦12,000",
     "examtype": "utme",
     "examyear": "1999"
+  },
+  {
+    "id": 1365,
+    "question": "The Act establishing the institute of Chartered Accountants of Nigeria (ICAN) came into force on?",
+    "option": {
+      "a": "1364",
+      "b": "Ist October, 1960",
+      "c": "Ist October,1963",
+      "d": " Ist September,1965"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Institute of Chartered Accountants of Nigeria (ICAN) was established by Act of Parliament No. 15 of 1965, but it came into force on 1st October, 1963. This is the date recognized as ICAN's founding or commencement date.",
+    "examtype": "utme",
+    "examyear": "1998"
   },
   {
     "id": 1367,
