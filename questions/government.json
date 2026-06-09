@@ -944,6 +944,22 @@
     "examyear": "2010"
   },
   {
+    "id": 106,
+    "question": "A non-monarchial state can best be described as a ",
+    "option": {
+      "a": "republic ",
+      "b": "confederation ",
+      "c": "nation ",
+      "d": "federation "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 107,
     "question": "Proportional representation favours a ",
     "option": {
@@ -1819,6 +1835,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 207,
+    "question": "In which of the following party systems are all shades of opinions and interests adequately represented?",
+    "option": {
+      "a": "Zero-party",
+      "b": "One-party",
+      "c": "Two-party",
+      "d": "Multi-party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 210,
+    "question": "Mussolini’s fascism and Hitler’s Nazism are good examples of",
+    "option": {
+      "a": "anarchy",
+      "b": "feudalism",
+      "c": "totalitarianism",
+      "d": "oligarchy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -4224,6 +4272,22 @@
     "examyear": "2013"
   },
   {
+    "id": 512,
+    "question": "As an executive, the commissioner is charged with the responsibility of",
+    "option": {
+      "a": "making laws",
+      "b": "implementing laws",
+      "c": "writing laws",
+      "d": "giving loans."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 514,
     "question": "The judiciary controls the executive in federal states through",
     "option": {
@@ -4827,6 +4891,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 580,
+    "question": "Which of the following nationalists was the founder of Nigeria’s first political party?",
+    "option": {
+      "a": "Abubakar Tafawa Balewa",
+      "b": "Ahmadu Bello",
+      "c": "Nnamdi Azikiwe",
+      "d": "Herbert Macaulay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -6256,6 +6336,22 @@
     "examyear": "2017"
   },
   {
+    "id": 756,
+    "question": "Nigeria became a republic with the __",
+    "option": {
+      "a": "1979 Constitution",
+      "b": "1989 Constitution",
+      "c": "1960 Constitution",
+      "d": "1963 Constitution."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nigeria became a republic under the 1963 Constitution (though the 1960 Constitution led to independence).",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 758,
     "question": "The concentration of power on the units is a merit of __",
     "option": {
@@ -6492,6 +6588,22 @@
     "image": "",
     "answer": "b",
     "solution": "The executive arm initiates bills and presents them to the legislature for consideration.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 784,
+    "question": "Which of the following is not an agent of political socialisation?",
+    "option": {
+      "a": "Tourism",
+      "b": "Mass media",
+      "c": " Peer group",
+      "d": "University"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Tourism is not an agent of political socialization, unlike media, peers, and educational institutions.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -9164,6 +9276,22 @@
     "image": "",
     "answer": "a",
     "solution": "The idea of making the civil service permanent, neutral and anonymous is to enhance efficiency in administration.\n\nWhen a civil servant is made to enjoy secured appointment, he must definitely stand good chance to have good measure of expert knowledge and intelligence. When he is not neutral, his political views will definitely interfere with his official work. This will eventually create no conducive atmosphere for efficiency.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1113,
+    "question": "The western zone of the Sokoto caliphate was administered from",
+    "option": {
+      "a": "kebbi",
+      "b": "Ilorin",
+      "c": "Bida",
+      "d": "Gwandu"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Western zone of the Sokoto caliphate was administered from Gwandu - Othman Dan Fodio divided the Fulani empire into two- the Eastern and Western sections. The Eastern section included Kano, Katsina, Zaria, Bauchi, Gombe and Yola with Sokoto as its capital while Ilorin, Kontagoro and Argungu with Gwandu as its capital were included in the Western section.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -11856,6 +11984,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1433,
+    "question": "Fascism as an ideology facilitates",
+    "option": {
+      "a": "totalitarianism",
+      "b": "socialism",
+      "c": "communalism",
+      "d": "liberalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Fascism as an ideology facilitates Totalitarianism. It is an Italian version of totalitarianism which grew up in Italy under Benito Mussolini",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1434,
     "question": "A prominent feature of a presidential system of government is",
     "option": {
@@ -11948,6 +12092,22 @@
     "image": "",
     "answer": "a",
     "solution": "A State with a hegemonic political party is one in which there is only one dominant party. In this system, one party is firmly established in office. The party has hegemony, that is, it enjoys unchallenged authority. The law does not operate formally against any opposition, but clearly the state concerned is effectively single-party for longer period of many years. For example, South Africa was an example of a hegemonic party. There, the National party came into power in 1948, and it only left when Dr. Nelson Mandela was elected president in 1994.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1442,
+    "question": "Nigeria's membership of the UN complements her foreign policy in the area of",
+    "option": {
+      "a": " bilateral diplomacy",
+      "b": "regional diplomacy",
+      "c": "sub-regional diplomacy",
+      "d": "multilateral diplomacy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nigeria's membership of the UN complements her foreign policy in the area of multilateral diplomacy.",
     "examtype": "utme",
     "examyear": "2009"
   },
