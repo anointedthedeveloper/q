@@ -1392,6 +1392,22 @@
     "examyear": "2000"
   },
   {
+    "id": 118,
+    "question": "In how many ways can the word MATHEMATICS be arranged?",
+    "option": {
+      "a": "11!/(9! 2!)",
+      "b": "11!/(9! 2! 2!)",
+      "c": "11!/(2! 2! 2!)",
+      "d": "11!/(2! 2!)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Number of letter in MATHEMATICS = 11\nNumber of letter M = 2\nNumber of letter T = 2\nNumber of letter A = 2\n\nArrangement = 11!/(2! 2! 2!) ways",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 119,
     "question": "A matrix P is such that P<sup>T</sup>= p, where P<sup>T</sup> is the transpose of P, if b = 1, then P is",
     "option": {
@@ -4588,6 +4604,22 @@
     "image": "",
     "answer": "a",
     "solution": "∑x=6x∑(x-¯x )<sup>2</sup> =2¯x=(∑x)/n=6x/3=2xVariance=(∑(x-¯x )<sup>2</sup> )/n=2/3",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 377,
+    "question": "The table above shows the distribution of recharge cards of four major GSM operators. What is the probability that a recharge card selected at random will be GTN or Qtel?",
+    "option": {
+      "a": " 3/20",
+      "b": " 1/4",
+      "c": "2/5",
+      "d": " 3/4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542580/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q6_t8tkjx.jpg",
+    "answer": "c",
+    "solution": "P(GTN) = 5/20\nP(Qtel) = 3/20\n∴P(GTN or Qtel) = (5/20) + (3/20)\n= 8/20\n= 2/5",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -7856,6 +7888,22 @@
     "examyear": "2011"
   },
   {
+    "id": 633,
+    "question": "Factorize completely 9y<sup>2</sup> - 16X<sup>2</sup>",
+    "option": {
+      "a": "(3y - 2x)(3y + 4x)",
+      "b": "(3y + 4x)(3y + 4x)",
+      "c": "(3y + 2x)(3y - 4x)",
+      "d": "(3y - 4x)(3y + 4x)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "9y<sup>2</sup> - 16x<sup>2</sup>\n\n= 32y<sup>2</sup> - 42x<sup>2</sup>\n\n= (3y - 4x)(3y +4x)",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 634,
     "question": "Solve for x and y respectively in the simultaneous equations -2x - 5y = 3. x + 3y = 0",
     "option": {
@@ -9120,6 +9168,22 @@
     "examyear": "2013"
   },
   {
+    "id": 784,
+    "question": "Solve for x: |x - 2| < 3",
+    "option": {
+      "a": "x < 5",
+      "b": " -2 < x < 3",
+      "c": "-1 < x < 5",
+      "d": "x < 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "|x - 2| < 3 implies\n\n-(x - 2) < 3 .... or .... +(x - 2) < 3\n\n-x + 2 < 3 .... or .... x - 2 < 3\n\n-x < 3 - 2 .... or .... x < 3 + 2\n\nx > -1 .... or .... x < 5\n\ncombining the two inequalities results, we get;\n\n-1 < x < 5",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 785,
     "question": "The n<sup>th</sup> term of the progression 4/2, 7/3, 10/4, 13/5 is ...",
     "option": {
@@ -10236,6 +10300,22 @@
     "image": "",
     "answer": "d",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 878,
+    "question": "Given m = N√(SL/T) make T the subject of the formula",
+    "option": {
+      "a": "NSL/M",
+      "b": "N<sup>2</sup>SL/M<sup>2</sup>",
+      "c": "N<sup>2</sup>SLM",
+      "d": "NSL/M<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "M = N√(SL/T),\n\nmake T subject of formula square both sides\n\nM<sup>2</sup> = (N<sup>2</sup>SL)/T\n\n\nTM<sup>2</sup> = N<sup>2</sup>SL\n\nT = (N<sup>2</sup>SL)/M<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -11568,6 +11648,22 @@
     "examyear": "2019"
   },
   {
+    "id": 994,
+    "question": "Solve for x in (4x-6)/3 ≤ (3 + 2x)/2",
+    "option": {
+      "a": "x≤1(1/2)",
+      "b": "x≤(21/2)",
+      "c": "x≥21/2",
+      "d": "x≥1(1/2)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>4</mn>\n      <mi>x</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>6</mn>\n    </mrow>\n    <mn>3</mn>\n  </mfrac>\n  <mo>&#x2264;<!-- ≤ --></mo>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>+</mo>\n      <mn>2</mn>\n      <mi>x</mi>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(4x-6)/3≤(3+2x)/2.   2(4x - 6) ≤ 3(3 + 2x)\n\n8x - 12 ≤ 9 + 6x\n\n8x - 6x ≤ 9 + 12\n\n2x ≤ 21\n\nx≤21/2",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 997,
     "question": "Integrate ∫<sub>(-1)</sub><sup>2</sup>(2x<sup>2</sup> + x)dx",
     "option": {
@@ -11948,6 +12044,22 @@
     "image": "",
     "answer": "d",
     "solution": "234 - 4x<sup>2</sup> = 182<sup>2</sup>  - (2x)<sup>2</sup> = (18 - 2x)(18 + 2x)\n\n2x + 18 = 2x + 18 = (2x + 18)\n\n18 - 2x = 2(a - x) or -2(x - a) \n\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1030,
+    "question": "In preparing rice cutlets, a cook used 75g of rice, 40g of margarine, 105g of meat and 20g of bread crumbs. Find the angle of the sector which represent meat in a pie chart? \n",
+    "option": {
+      "a": "30°",
+      "b": "60°",
+      "c": "112.5°",
+      "d": " 157.5°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Rice = 75g, Margarine = 40g, Meat = 105g\n\nBread = 20g\n\nTotal = 240\n\nAngle of sector represented by meat \n\n= 105/240 × 360°/1\n \n\n= 157.5 ",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -13228,6 +13340,22 @@
     "image": "",
     "answer": "d",
     "solution": "The common difference is 6.\n\nJust add 6 to get the next term\n\n8, 14, 20 and 26",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1131,
+    "question": "Find x if the mean of 2x, 4x, 2x - 13 and 6x is 4.",
+    "option": {
+      "a": "1.5",
+      "b": "2.0",
+      "c": "1.0",
+      "d": " 0.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "mean (4) =  2x+4x+2x−13+6x/4                                                           16 = 14x - 13\n\n16 + 13 = 14x\n\nx = 29/14 or 2.07",
     "examtype": "utme",
     "examyear": "2022"
   },
