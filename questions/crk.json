@@ -64,6 +64,22 @@
     "examyear": "2007"
   },
   {
+    "id": 48,
+    "question": "The person who the Bible calls the consolation is:  ",
+    "option": {
+      "a": "Barsabbas ",
+      "b": "Barabbas ",
+      "c": "Barnabs ",
+      "d": "Bathsheba"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 49,
     "question": "The last things which Zedekiah saw before his eyes were removed was the ",
     "option": {
@@ -139,6 +155,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 89,
+    "question": "‘Now I known that Lord has sent his angel to deliver me ……”who said this? ",
+    "option": {
+      "a": "Joseph ",
+      "b": "Moses ",
+      "c": "Paul ",
+      "d": "Peter "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 93,
+    "question": "In the parable of the sower, the seeds on the good ground represent those who ",
+    "option": {
+      "a": "Accept and live by the world of God ",
+      "b": "feed the poor ",
+      "c": "Have and love riches ",
+      "d": "Give alms in market places "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -224,6 +272,38 @@
     "examyear": "2011"
   },
   {
+    "id": 135,
+    "question": "How many disciples of Jesus Christ were fishermen? ",
+    "option": {
+      "a": "two  ",
+      "b": "three  ",
+      "c": "four",
+      "d": "five"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 141,
+    "question": "John the Baptist describes Jesus to his two disciples as the ",
+    "option": {
+      "a": "beloved Son of God ",
+      "b": "great one of Israel ",
+      "c": "holy one of God",
+      "d": "lamb of God."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 150,
     "question": "Which of the following is not a natural miracle:  ",
     "option": {
@@ -283,6 +363,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 190,
+    "question": "Amos explained true religion as  ",
+    "option": {
+      "a": "singing of praises to God  ",
+      "b": "self-righteousness",
+      "c": "fasting and praying  ",
+      "d": "being just and righteous"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -496,6 +592,22 @@
     "examyear": "2008"
   },
   {
+    "id": 392,
+    "question": "The concept of  forgiveness does not include",
+    "option": {
+      "a": "reconciliation",
+      "b": "restoration",
+      "c": "peace",
+      "d": "wealth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
     "id": 403,
     "question": "David’s inaction at Ammon’s incest with Tamar showed his",
     "option": {
@@ -576,6 +688,22 @@
     "examyear": "2013"
   },
   {
+    "id": 447,
+    "question": "At Shechem, God appeared to Abram and told him that",
+    "option": {
+      "a": "he should continue on his journey southward.",
+      "b": "he should leave his country and Kindred.",
+      "c": "the land would be given to his descendants.",
+      "d": "in the land he should build an altar."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
     "id": 469,
     "question": "After his baptism Jesus began to",
     "option": {
@@ -590,6 +718,38 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2009"
+  },
+  {
+    "id": 474,
+    "question": "“Foxes have holes and birds of the air have nets; but the son of man has nowhere to lay His head”. By this statement, Jesus meant that His disciples",
+    "option": {
+      "a": "would not grow rich.",
+      "b": "would not enjoy good houses.",
+      "c": "had a lot of task ahead.",
+      "d": "had a lot of enemies."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 496,
+    "question": "What was Herod’s reaction when he heard the news about Jesus’ birth?",
+    "option": {
+      "a": "He sent gifts",
+      "b": "He was excited",
+      "c": "He was troubled",
+      "d": "He became calm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 504,
@@ -720,6 +880,22 @@
     "examyear": "2010"
   },
   {
+    "id": 650,
+    "question": "After the departure of the Israelites God made Pharaoh pursue them in order to",
+    "option": {
+      "a": "force Israel to return to Egypt.",
+      "b": "hasten Israel’s journey through the wilderness.",
+      "c": "make Israel obey Moses.",
+      "d": "get glory over Pharaoh and his host."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 661,
     "question": "“Your father made our yoke heavy. Now therefore, lighten the hard service of your father.” These were the words of",
     "option": {
@@ -731,6 +907,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 683,
+    "question": "Paul in Romans declared “for as by one man’s disobedience many were made sinners, so by one man’s obedience many will be made...”",
+    "option": {
+      "a": "innocent.",
+      "b": "righteous.",
+      "c": "faithful.",
+      "d": "Christians."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -750,6 +942,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
+  },
+  {
+    "id": 697,
+    "question": "“The sword devours now one and now another.” This statement was made by David in reaction to the death of __________.",
+    "option": {
+      "a": "Saul",
+      "b": "Joab",
+      "c": "Ishbosheth",
+      "d": "Uriah"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 699,
@@ -1099,6 +1307,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 998,
+    "question": "The sons of Eli were regarded as worthless men for all the ",
+    "option": {
+      "a": "sleeping with the women at the tent of meeting. ",
+      "b": "failing to attend the places of worship regularly. ",
+      "c": "taking the meat for sacrifice before boiling. ",
+      "d": "showing no respect for God."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
