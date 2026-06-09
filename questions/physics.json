@@ -11760,6 +11760,22 @@
     "examyear": "2008"
   },
   {
+    "id": 818,
+    "question": "Given the progressive wave equation y = 5 sin(2000πt - 0.4x), calculate wavelength",
+    "option": {
+      "a": "12.4 m",
+      "b": "15.7 m",
+      "c": "17.5 m",
+      "d": "18.6 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given wave equation:\ny = 5 sin(2000πt - 0.4x)\nStandard form of progressive wave:\ny = A sin(ωt - kx)\nwhere:\n\nA = amplitude\nω = angular frequency\nk = wave number\n\nComparing with standard form:\n\nA = 5\nω = 2000π\nk = 0.4\n\nFormula relating wave number and wavelength:\nk = 2π/λ\nRearranging for wavelength:\nλ = 2π/k\nSubstituting values:\nλ = 2π/0.4\nλ = 2 × 3.14159/0.4\nλ = 6.28318/0.4\nλ = 15.708 m\nλ ≈ 15.7",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 819,
     "question": "The fundamental property of a propagating wave which depends only on the source and not the medium of propagation is the?",
     "option": {
