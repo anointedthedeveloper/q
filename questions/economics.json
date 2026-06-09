@@ -3072,6 +3072,22 @@
     "examyear": "2001"
   },
   {
+    "id": 198,
+    "question": "The difference between the highest and the least marginal",
+    "option": {
+      "a": "product of the variable factor is    \n\t3",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "section": "Use the value to answer question: Units  of Variable factor [1,2,3,4,5,]  Total Product [25,31,40,48,55]",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 199,
     "question": "The average product of the variable factor when four units are employed is",
     "option": {
@@ -9584,6 +9600,22 @@
     "examyear": "2007"
   },
   {
+    "id": 620,
+    "question": "If the price of good X rises and the quantity demanded of good Y increases then the two goods X and Y must be",
+    "option": {
+      "a": "inferior good",
+      "b": "substitutes",
+      "c": "complements",
+      "d": "free goods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
     "id": 621,
     "question": "Use the following  demand schedule to answer question Price (N=) [15, 13]\tQuantity Demanded[60, 70] The percentage change in quantity demanded is",
     "option": {
@@ -9591,6 +9623,22 @@
       "b": "15.7%",
       "c": "16.7%",
       "d": "19.7%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 622,
+    "question": "In a situation where demand is perfectly elastic, imposition of a tax on a commodity to raise its price will result in",
+    "option": {
+      "a": "consumers increasing their demand for the product",
+      "b": "consumers demand for the product remaining unchanged",
+      "c": "consumers shifting completely to substitute products",
+      "d": "suppliers increases the supply of the product"
     },
     "section": "",
     "image": "",
