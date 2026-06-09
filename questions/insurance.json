@@ -304,6 +304,22 @@
     "examyear": "2014"
   },
   {
+    "id": 21,
+    "question": "The document that sets out the list of items covered in insurance is a",
+    "option": {
+      "a": "manifest",
+      "b": "bill of lading",
+      "c": "policy list",
+      "d": "policy specification or form"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 22,
     "question": "One of the information contained in a motor insurance cover note is the",
     "option": {
@@ -1488,6 +1504,22 @@
     "examyear": "2"
   },
   {
+    "id": 103,
+    "question": "Below are insurable policies except",
+    "option": {
+      "a": "Earthquake",
+      "b": "Fire",
+      "c": "Life",
+      "d": "Marine"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 104,
     "question": "The term pooling of risks in insurance means that",
     "option": {
@@ -2027,6 +2059,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 139,
+    "question": "Consequential loss is also known as",
+    "option": {
+      "a": "Business interruption insurance",
+      "b": "Credit insurance",
+      "c": "Excess loss",
+      "d": "Property insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -2667,6 +2715,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 184,
+    "question": "The principle that requires all material facts to be disclosed is known as",
+    "option": {
+      "a": "Indemnity",
+      "b": "Fidelity",
+      "c": "Proximate cause",
+      "d": "Utmost good faith"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -3568,6 +3632,22 @@
     "examyear": "4"
   },
   {
+    "id": 248,
+    "question": "The type of cover for violent and forcible entry into a premises is called",
+    "option": {
+      "a": "burglary and theft",
+      "b": "third party fire and theft",
+      "c": "third party and theft",
+      "d": "stealing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 249,
     "question": "The deliberate throwing overboard of part of a cargo to lighten the ship is called",
     "option": {
@@ -3867,6 +3947,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 269,
+    "question": "To which of the following does the principle of utmost good faith apply in a contract of insurance?",
+    "option": {
+      "a": "the insurer only",
+      "b": "the proposer only",
+      "c": "the third party and insured",
+      "d": "insurer and proposer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
@@ -4923,6 +5019,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 343,
+    "question": "Which of the following activities is not involved in claims management?",
+    "option": {
+      "a": "Proof of loss",
+      "b": "Particulars of loss",
+      "c": "Premium calculation",
+      "d": "Primary investigation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
