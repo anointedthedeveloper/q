@@ -32,6 +32,38 @@
     "examyear": "2009"
   },
   {
+    "id": 90,
+    "question": "P is a point on one side of the straight line UV and P moves in the same direction as UV. If the straight line ST is on the locus of P and angle VUS = 60°, find angle UST.",
+    "option": {
+      "a": "310°",
+      "b": "130°",
+      "c": "80°",
+      "d": "50°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Make a good sketch of the question, and follow this steps.\nSince ST is parallel to UV => angle USR = 50°(alternate to VUS.\nAngle UST = 180° - 50° = 130° (angle on a straight line)",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 112,
+    "question": "In the diagram above, EFGH is a circle center O. Fh is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH.",
+    "option": {
+      "a": "16 cm",
+      "b": "20 cm",
+      "c": "26 cm",
+      "d": " 32 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710691853/ALOC-Questions/Mathematics/2000/question-41_ggjkvo.jpg",
+    "answer": "d",
+    "solution": "The locus of X is the perpendicular bisector of PQ",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 141,
     "question": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.",
     "option": {
@@ -44,6 +76,22 @@
     "image": "",
     "answer": "a",
     "solution": "Let the ext. angle = x\nThus int. angle = 2x\nBut sum of int + ext = 180 (angle of a straight line).\n2x + x = 180\n3x = 180\nx = 180/3 = 60\n\nEach ext angle = 360/n\n=> 60 = 360/n\nn = 360/60 = 6",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 167,
+    "question": "In the figure PQR a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, < SRQ is 75° and < QPT IS 25°. Calculate the value of < RST",
+    "option": {
+      "a": " 50°",
+      "b": "25°",
+      "c": "55°",
+      "d": "45°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696819/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_46_nhtrlx.jpg",
+    "answer": "c",
+    "solution": "< T = x/1\n = 25° (PQ = QT)\n\n< SQR = 2(25°) = 50° (sum of interior angle)\n\n< Q + < R + < S = 180°\n\n50° + 75° + < S = 180° = 125o + < S = 180°\n\n< S = 180° - 125° = 55°",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -62,6 +110,54 @@
     "solution": "Mean: [7+(−3)+4+(−2)+5+(−9)+4+8+(−6)+12]/(10) = 20/10\n \n= 2",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 250,
+    "question": "Triangle OPQ is the solution of the inequalities",
+    "option": {
+      "a": "x - 1 < 0, y + ≥  0, y - x ≥  0",
+      "b": "x + 1 ≤ 0, y + x ≥  0, y - x ≤ 0",
+      "c": "x - 1 ≥  0, y - x ≥ 0, y + x ≥ 0",
+      "d": "y + x ≥ 0, y - x ≤ 0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699397/ALOC-Questions/Mathematics/2003/math_2003_q29_nr90g5.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 255,
+    "question": "Find the number of committees of three that can be formed consisting of two men and one woman from four men and three women",
+    "option": {
+      "a": " 3",
+      "b": "6",
+      "c": "18",
+      "d": "24"
+    },
+    "section": "Solution: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mi></mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>4</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mn>2</mn>\n  </msub>\n  <msup>\n    <mo>&#x00D7;<!-- × --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>3</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mn>1</mn>\n  </msub>\n  <mo>=</mo>\n  <mrow>\n    <mo>(</mo>\n    <mfrac>\n      <mrow>\n        <mn>4</mn>\n        <mo>!</mo>\n      </mrow>\n      <mrow>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>2</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>!</mo>\n        <mn>2</mn>\n        <mo>!</mo>\n      </mrow>\n    </mfrac>\n    <mo>)</mo>\n  </mrow>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mrow>\n    <mo>(</mo>\n    <mfrac>\n      <mrow>\n        <mn>3</mn>\n        <mo>!</mo>\n      </mrow>\n      <mrow>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>1</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>!</mo>\n        <mn>1</mn>\n        <mo>!</mo>\n      </mrow>\n    </mfrac>\n    <mo>)</mo>\n  </mrow>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>4</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>!</mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>4</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>3</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>18</mn>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 303,
+    "question": "Find the sum to infinity of the series 1/2 , 1/6, 1/18, .....",
+    "option": {
+      "a": "2/3",
+      "b": "1/3",
+      "c": "3/4",
+      "d": "1"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>a</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>r</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mfrac>\n      <mn>1</mn>\n      <mn>6</mn>\n    </mfrac>\n    <mfrac>\n      <mn>1</mn>\n      <mn>2</mn>\n    </mfrac>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>6</mn>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>2</mn>\n    <mn>1</mn>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>3</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <msub>\n    <mi>S</mi>\n    <mi mathvariant=\"normal\">&#x221E;<!-- ∞ --></mi>\n  </msub>\n  <mo>=</mo>\n  <mfrac>\n    <mi>a</mi>\n    <mrow>\n      <mn>1</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mi>r</mi>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <msub>\n    <mi>S</mi>\n    <mi mathvariant=\"normal\">&#x221E;<!-- ∞ --></mi>\n  </msub>\n  <mo>=</mo>\n  <mfrac>\n    <mfrac>\n      <mn>1</mn>\n      <mn>2</mn>\n    </mfrac>\n    <mrow>\n      <mn>1</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>3</mn>\n      </mfrac>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mfrac>\n      <mn>1</mn>\n      <mn>2</mn>\n    </mfrac>\n    <mfrac>\n      <mn>3</mn>\n      <mn>2</mn>\n    </mfrac>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>3</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mn>3</mn>\n    <mn>4</mn>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "a=1/2 r=(1/6)/(1/2)=1/6×2/1=1/3 S_∞=a/(1-r) S_∞=(1/2)/(1-1/3)=(1/2)/(3/2)=1/2×3/2=3/4",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 367,
@@ -96,6 +192,86 @@
     "examyear": "2005"
   },
   {
+    "id": 454,
+    "question": "If X = {all the perfect squares less than 40}\nY = {all the odd numbers fro, 1 to 15}. Find X ∩ Y.",
+    "option": {
+      "a": "{3, 9}",
+      "b": "{9}",
+      "c": "{9, 25}",
+      "d": "{1, 9}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All the perfect squares < 40\nX = {1, 4, 9, 16, 25, 36}\nAll the odd numbers from 1 to 15\nY = {1, 3, 5, 7, 9, 11, 13, 15}\nX ∩ Y = {1, 9}",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 503,
+    "question": "Differentiate sin x - x cos x",
+    "option": {
+      "a": "x cos x",
+      "b": " x sin x",
+      "c": "-x cos x",
+      "d": " -x sin x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "sin x - x cos x\ndy/dx = cos x - [1.cos x + x -sin x]\n= co x - [cos x - x sin x]\n= cos x - cos x + x sin x\n= x sin x",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 542,
+    "question": "If P = []  evaluate x if |P| = -10",
+    "option": {
+      "a": " -5",
+      "b": " -2",
+      "c": "2",
+      "d": "5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547077/ALOC-Questions/Mathematics/2009/MATH_2009_Q21_ozlhdt.jpg",
+    "answer": "d",
+    "solution": "(x+3)(x-1) - {(x+1)(x+2)} = -10\nx<sup>2</sup>  - x + 3x - 3 - {x2 + 2x + x + 2} = -10\nx<sup>2</sup>  + 2x - 3 - {x<sup>2</sup>  + 3x + 2} = -10\n-x - 5 = -10\n-5 + 10 = x\n5 = x\n∴x = 5",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 587,
+    "question": "If y = (2x + 1)3 find dy/dx",
+    "option": {
+      "a": " 3(2x+1)<sup>2</sup>",
+      "b": "6(2x+1)",
+      "c": " 3(2x+1)",
+      "d": "6(2x+1)<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = (2x + 1)3\ndy/dx = 3(2x + 1)3-1 x 2\n= 3(2x + 1)2 x 2\n= 6(2x + 1)2",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 590,
+    "question": "The table above show the marks obtained in a given test.\nHow many student took the test?",
+    "option": {
+      "a": "16",
+      "b": "13",
+      "c": "20",
+      "d": "15"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128485/ALOC-Questions/Mathematics/2010/MATH_2010_Q19_dg19qk.jpg",
+    "answer": "c",
+    "solution": "∑f = 2 + 2 + 8 + 4 + 4\n= 20",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 612,
     "question": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5).",
     "option": {
@@ -112,6 +288,70 @@
     "examyear": "2010"
   },
   {
+    "id": 620,
+    "question": "Determine the value of x for which (x2 - 1)>0",
+    "option": {
+      "a": " x < -1 or x > 1",
+      "b": "-1 < x < 1",
+      "c": "x > 0",
+      "d": "x < -1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x(x - 1) > 0\n\nx < -1 or x > 1",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 745,
+    "question": "The gradient of the straight line joining the points P(5, -7) and Q(-2, -3) is",
+    "option": {
+      "a": "1/2",
+      "b": "2/5",
+      "c": "-4/7",
+      "d": "-2/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "PQ = y<sub>1</sub> − y<sub>0</sub>/(x<sub>1</sub> − x<sub>0</sub>)\n = −3−(−7)/−2−5\n = −3 + 7/−2−5\n = 4/−7",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 766,
+    "question": "A circular arc subtends angle 150° at the centre of a circle of radius 12cm. Calculate the area of the sector of the arc.",
+    "option": {
+      "a": "30π cm<sup>2</sup>",
+      "b": "60π cm<sup>2</sup>",
+      "c": "120π cm<sup>2</sup>",
+      "d": "150π cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Area of sector = θ/360° × πr<sup2</sup>\n= 150/360 × π × 12<sup>2</sup>\n= 60π cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 794,
+    "question": "Calculate the median age of the frequency distribution in the table above",
+    "option": {
+      "a": " 25",
+      "b": "30",
+      "c": "35",
+      "d": " 20"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131268/ALOC-Questions/Mathematics/2013/JAMB_MATH_2013_Q25_lpvli2.jpg",
+    "answer": "a",
+    "solution": "N = ∑f = 15\n\nHence the median age is the (N+1/2)th age,i.e.\n\n(15+1)/2)th = 8th\n\nFrom the table, the age that falls on the 8th position when arranged in ascending order is 25years",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 813,
     "question": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = 1/12 Calculate the value of",
     "option": {
@@ -126,6 +366,22 @@
     "solution": "Using the cosine rule, we have\n\np<sup>2</sup> = q<sup>2</sup> + r<sup>2</sup> − 2qrcosP\np<sup>2</sup> = 8<sup>2</sup> + 6<sup>2</sup> − 2(8)(6)(1/12)\n= 64 + 36 − 8\np<sup>2</sup> = 92∴ p = √9cm",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 848,
+    "question": "An arc of the length 16π cm subtends an angle of 80° at the centre of the circle. Find the radius of the circle.",
+    "option": {
+      "a": "24cm",
+      "b": "28cm",
+      "c": "36cm",
+      "d": "32cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "L = θ/360 x 2πr\n16π = 80/360 x 2πr\n\n(16π × 360)/(80 × 2π) = r\n\nr = 36cm",
+    "examtype": "utme",
+    "examyear": "2016"
   },
   {
     "id": 871,
@@ -160,6 +416,54 @@
     "examyear": "2017"
   },
   {
+    "id": 930,
+    "question": "The probabilities that John and James pass an examination are 3/4 and 3/5 respectively. Find the probability of both boys failing the examination.",
+    "option": {
+      "a": " 1/10",
+      "b": "2/10",
+      "c": "9/20",
+      "d": "11/20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Pr(both John and James passed)\n\n= 3/4 x 3/5 = 9/20\nPr(john and james failed)= 1-Pr(john and james passed)\n= 1 – 920\n= 11/20",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 934,
+    "question": "What is the place value of 9 in the number 3.0492?",
+    "option": {
+      "a": "9/10000",
+      "b": "9/1000",
+      "c": "9/100",
+      "d": "9/10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 936,
+    "question": "A machine valued at N20,000 depreciates by 10% every year. What will be the value of the machine at the end of two years?",
+    "option": {
+      "a": "N16,200",
+      "b": "N14,200",
+      "c": "N12,000",
+      "d": "N8,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Since it depreciates by 10% At the end of first year, its value = 90% of 20000\n\n= 90/100\n x 20000 =18000\n\n  At the end of second year, its value = 90% of 18000\n\n  = 90/100\n x 18000 = ₦16,200",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 961,
     "question": "What is the loci of a distance 4cm from a given point P?",
     "option": {
@@ -174,6 +478,22 @@
     "solution": "Locus is the path traced at by a point which moves in accordance with a certain law. It is also the set of all possible position occupied by an object The path traced from all possible location of 4cm from a given point P form a circle of radius 4cm with centre P.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 983,
+    "question": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the\n",
+    "option": {
+      "a": "bisector of the two lines",
+      "b": "line parallel to the two lines",
+      "c": " angle bisector of the two lines",
+      "d": " perpendicular bisector of the two lines"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The locus of a points equidistant from two intersecting straight lines is a pair of bisectors that bisect the angles formed by the two intersecting lines.",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 997,
@@ -192,6 +512,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1029,
+    "question": "Simplify (324 − 4x<sup>2</sup>)/(2x+18)\n ",
+    "option": {
+      "a": " 2(x - 9)",
+      "b": "2(9 + x)",
+      "c": "81 - x<sup>2</sup>",
+      "d": " -2(x - 9)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>324</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>4</mn>\n      <msup>\n        <mi>x</mi>\n        <mn>2</mn>\n      </msup>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mi>x</mi>\n      <mo>+</mo>\n      <mn>18</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "234 - 4x<sup>2</sup> = 182<sup>2</sup>  - (2x)<sup>2</sup> = (18 - 2x)(18 + 2x)\n\n2x + 18 = 2x + 18 = (2x + 18)\n\n18 - 2x = 2(a - x) or -2(x - a) \n\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1046,
     "question": "Find the value of x if √2/(x+√2)= 1/√(x−2)\n ",
     "option": {
@@ -206,6 +542,70 @@
     "solution": "√2/(x + 2) = x - 1/√2\nx√2 (x - √2) = x + √2 (cross multiply)\n\nx√2 - 2 = x + √2 \n\n= x√2 - x \n\n= 2 + √2\nx (√2 - 1) = 2 + √2\n= (2+√2)/(√2 − 1) × (√2+1)/(√2 + 1)\nx = (2√2 + 2 + 2 + √2)/(2 − 1)\n \n\n= 3√2 + 4 ",
     "examtype": "2020",
     "examyear": "utme"
+  },
+  {
+    "id": 1106,
+    "question": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gift+B10s(g), savings(s) and some B28miscellaneous (m) as indicate in the table below:                 If the above information is represented on a pie chart. What angle represents his spending on food?",
+    "option": {
+      "a": " 108.5",
+      "b": " 100.8",
+      "c": "98.8",
+      "d": "120.5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007442/ALOC-Questions/Mathematics/2022/JAMB_MATH_2022_Q9_tovtlt.jpg",
+    "answer": "b",
+    "solution": "28∗360/100\n  \n\n= 100.8°",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1110,
+    "question": "In how many ways can the letter of ZOOLOGY be arranged?",
+    "option": {
+      "a": "720",
+      "b": " 360",
+      "c": "840",
+      "d": "120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Zoology has 7 letters in total, with O repeated thrice\n\n7!/3!\n → 7∗6∗5∗4∗3∗2∗1/3∗2∗1\n= 840ways",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1152,
+    "question": "Evaluate the following limit: lim <sub>(x→2)</sub> (x<sup>2</sup> + 4x − 12)/(x<sup>2</sup> − 2x)",
+    "option": {
+      "a": "4",
+      "b": "8",
+      "c": "0",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "lim <sub>(x→2)</sub> x<sup>2</sup> + 4x − 12)/(x<sup>2</sup> −2x) \n = lim <sub>(x→2)</sub> ((x−2)(x+6))/(x(x − 2))\nlim<sub>x→2 x+6/x</sub>\n2 + 6/2 = 8/2\n = 4",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1176,
+    "question": "Two numbers are respectively 35% and 80% more than a third number. The ratio of the two numbers is",
+    "option": {
+      "a": "7 : 16",
+      "b": "3 : 4",
+      "c": "16 : 7",
+      "d": " 4 : 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let the third number = x\nThen the first number = 100% x + 35%x = 135x/100 = 1.35x (Note: 100% x=x)\n\nThe second number = 180% x = 180x/100 = 1.80x\n∴ The ratio of the first number to the second number = 1.35x:1.80x=3:4",
+    "examtype": "utme",
+    "examyear": "2023"
   },
   {
     "id": 1202,
