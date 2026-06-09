@@ -6432,6 +6432,22 @@
     "examyear": "2017"
   },
   {
+    "id": 638,
+    "question": "The following are the importance of branch account except",
+    "option": {
+      "a": "it enable the organization to determine the branch that is making either profit or loss",
+      "b": " it allows proper control over the branch by the head office",
+      "c": "it assist the organization to determine the performance of a branch manager",
+      "d": "it allows fraud and wastage of resources"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The activities and resources of branches is strictly monitored by the head office and each branch is supplied according to its need so it will be difficult to commit fraud or waste any resources",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 641,
     "question": "Two departments A and B have the following information: Department A has Sales ₦250,000, Purchases ₦150,000, Discount received ₦24,000, and Discount allowed ₦15,000. Department B has Sales ₦500,000 and Purchases ₦250,000. Calculate the discount received in Department B.",
     "option": {
@@ -7260,6 +7276,22 @@
     "image": "",
     "answer": "b",
     "solution": "To find the profit, the unrealized profit in the goods sent to branch needs to be determined.\nGiven information:\n\nGoods sent to branch at invoiced price = ₦30,870\nInvoiced price = Cost + 50% markup\nCash sales = ₦13,020\nBad debt = ₦129\n\nFinding the cost price of goods sent to branch:\nIf invoiced price = Cost + 50% of cost = 1.5 × Cost\nThen: Cost = ₦30,870 ÷ 1.5 = ₦20,580\nUnrealized profit in goods sent to branch:\nProfit = Invoiced price - Cost price\nProfit = ₦30,870 - ₦20,580 = ₦10,290\nThe profit from the markup on goods sent to branch is ₦10,290.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 743,
+    "question": "A company has two departments with the following information: opening stock for Department A is ₦100 and Department B is ₦800; purchases for Department A is ₦1,500 and Department B is ₦2,000; wages of workers is ₦50 and salaries is ₦100; sales for Department A is ₦3,000 and Department B is ₦5,000. Expenses are to be shared in the ratio of sales. What is the cost of goods for Department B?",
+    "option": {
+      "a": "₦2 893.75",
+      "b": "₦3,400",
+      "c": "₦2,800",
+      "d": "₦4,120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Opening Stock + Purchases + Department B’s share of expenses\n= ₦800 + ₦2 000 + [₦150 × (₦5 000 ÷ ₦8 000)]\n= ₦800 + ₦2 000 + (₦150 × 0.625)\n= ₦800 + ₦2 000 + ₦93.75\n= ₦2 893.75",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -9072,6 +9104,22 @@
     "examyear": "2023"
   },
   {
+    "id": 918,
+    "question": "From the Sales Ledger Control Account shown, which displays various transactions including: Balance brought forward of ₦3,250, Sales of ₦19,075, Dishonoured cheque of ₦625, Stopped cheque of ₦250, and Balance carried down of ₦230 on the debit side; and Balance brought forward of ₦215, Bank of ₦16,387.50, Discount of ₦862.50, Returns inwards of ₦325, Set off of ₦900, and Balance carried down of ₦4,740 on the credit side, with both sides totaling ₦23,430. The amount ₦19,075 represents?",
+    "option": {
+      "a": "the double entry for the total sales account",
+      "b": " total sales for the month",
+      "c": "credit sales",
+      "d": "cash sales for the month"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a Sales Ledger Control Account, the figure ₦19,075 (appearing on the debit side) represents credit sales only — not total sales or cash sales.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 921,
     "question": "The discount column on the left-hand side of cash book represents a discount",
     "option": {
@@ -9612,6 +9660,22 @@
     "image": "",
     "answer": "c",
     "solution": "The magnetic strip on your ATM card is what enables the machine to read your account details and process transactions.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 978,
+    "question": "<b>Use the information below to answer questions 14-15.</b>\n\nGiven information:\n\nCapital = ₦12,700\nPurchases = ₦7,100\nDebtors = ₦4,000\nStationery = ₦1,900\nSales = ₦2,400\nWages = ₦1,230\n\n\nThe owner wishes to maintain an account equal to 75% of capital as drawings. what is the amount withdrawn?",
+    "option": {
+      "a": "₦9525",
+      "b": "₦9000",
+      "c": "₦7100",
+      "d": "₦6400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Amount withdrawn = 75% of Capital\nAmount withdrawn = 75% × ₦12,700\nAmount withdrawn = 0.75 × ₦12,700 = ₦9,525",
     "examtype": "utme",
     "examyear": "2008"
   },
