@@ -11104,6 +11104,22 @@
     "examyear": "2013"
   },
   {
+    "id": 798,
+    "question": "In how many ways can 3 seats be occupied if 5 people are willing to sit?",
+    "option": {
+      "a": "60",
+      "b": "20",
+      "c": "5",
+      "d": "120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "5 people can take 3 places in;\n\n<sup>5</sup>P<sup>3</sup> ways, = 5!/(5−3)! = 5!2!\n\n\n= 5 × 4 × 3 × 2!/2!\n\n\n= 5 x 4 x 3\n\n= 60 ways",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 799,
     "question": "What is the probability that an integer x (1≤x≤25)\n chosen at random is divisible by both 2 and 3?",
     "option": {
@@ -12972,6 +12988,22 @@
     "image": "",
     "answer": "b",
     "solution": "Total surface area of a cupboard is given by the equation A = 2(lb + bh + lh) L = 12, b = 10, h = 8\n\n  A = 2((12 x 10) + (10 x 8) + (12 x 8))\n\n  A = 2(120 + 80 + 96)\n\n  A = 2 x 296\n\nA = 592cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 929,
+    "question": "Convert 0.04945 to two significant figures",
+    "option": {
+      "a": "0.040",
+      "b": "0.049",
+      "c": "0.050",
+      "d": "0.49"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2018"
   },
