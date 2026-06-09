@@ -384,6 +384,22 @@
     "examyear": "2007"
   },
   {
+    "id": 36,
+    "question": "In which city was the ECOWAS Treaty signed ",
+    "option": {
+      "a": "Lagos ",
+      "b": "Banjul ",
+      "c": "Accra ",
+      "d": "Abuja"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 38,
     "question": "In politics, power is all of the following except ",
     "option": {
@@ -571,6 +587,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 62,
+    "question": "The EFCC was established to ",
+    "option": {
+      "a": "Arrest and try corrupt politicians ",
+      "b": "Combat economic and financial crimes in Nigeria ",
+      "c": "Arrest, detain and prosecute corrupt state governors and legislators  ",
+      "d": "Assist the World Bank in monitoring economic projects in Nigeria."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -1120,6 +1152,22 @@
     "examyear": "2011"
   },
   {
+    "id": 135,
+    "question": "The principle of checks and balances empowers the judiciary to: ",
+    "option": {
+      "a": "invalidate the actions of the other arms ",
+      "b": "administer the criminal justice system ",
+      "c": "abrogate the law",
+      "d": "apply the law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 141,
     "question": "After the defeat of Germany in World War 1, her former colonies were administered under the League of Nations as: ",
     "option": {
@@ -1451,6 +1499,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 183,
+    "question": "The principles that have guided Nigeria’s foreign policy since independence include the following except  ",
+    "option": {
+      "a": "peaceful coexistence   ",
+      "b": "political dependence  ",
+      "c": "legal equality of states  ",
+      "d": "non-alignment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -2071,6 +2135,22 @@
       "b": "chairman.",
       "c": "polling clerk",
       "d": "presiding officer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 277,
+    "question": "The idea of federalism in Nigeria started with ______ constitution.",
+    "option": {
+      "a": "Clifford",
+      "b": "Independence",
+      "c": "Lyttleton",
+      "d": "Macpherson"
     },
     "section": "",
     "image": "",
@@ -3200,6 +3280,22 @@
     "examyear": "2010"
   },
   {
+    "id": 436,
+    "question": "The first law-making body in Nigeria after amalgamation was",
+    "option": {
+      "a": "Legislative Council",
+      "b": "National Assembly",
+      "c": "Regional Assembly",
+      "d": "Nigerian Council."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 438,
     "question": "A major shortcoming of the Ombudsman is",
     "option": {
@@ -3899,6 +3995,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 525,
+    "question": "Public opinion refers to the",
+    "option": {
+      "a": "aggregate of attitudes held by members of the national assembly",
+      "b": "aggregate views of groups on particular government activities",
+      "c": "views held by the president of a country",
+      "d": "views of the Chief Justice of a country."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -4976,6 +5088,22 @@
     "examyear": "1989"
   },
   {
+    "id": 666,
+    "question": "Which of the following is a false description of the first Nigeria Prime Minister? He",
+    "option": {
+      "a": "was first among equals",
+      "b": "presided over the cabinet",
+      "c": "was the Head of Government",
+      "d": "exercised the prerogative of mercy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 667,
     "question": "The twelve state structure was created in Nigeria in",
     "option": {
@@ -5568,6 +5696,22 @@
     "examyear": "2017"
   },
   {
+    "id": 741,
+    "question": "In 1987, Nigeria attained a federation of __",
+    "option": {
+      "a": "19 states",
+      "b": "  12 states",
+      "c": "21 states",
+      "d": "30 states."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In 1987, Nigeria had 21 states.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 742,
     "question": "The Ombudsman aims at ___",
     "option": {
@@ -5852,6 +5996,22 @@
     "image": "",
     "answer": "c",
     "solution": "Nigeria has never operated a confederal system of government, only federal, unitary (briefly during military rule), and parliamentary systems.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 775,
+    "question": "Which of the following was the first political party in Nigeria?",
+    "option": {
+      "a": "The Action Group (AG)",
+      "b": "Northern People's Congress (NPC)",
+      "c": "National Council of Nigeria and the Camerouns (NCNC)",
+      "d": "Nigerian National Democratic Party (NNDP)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The NNDP, founded in 1923 by Herbert Macaulay, was Nigeria's first political party.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -6176,6 +6336,22 @@
     "examyear": "2018"
   },
   {
+    "id": 818,
+    "question": "In the cabinet system of government, individual responsibility of ministers means that ____________",
+    "option": {
+      "a": " only ministers can be held responsible for errors",
+      "b": "a minister must hold his subordinates responsible for his failures",
+      "c": "the prime ministers can remove an erring minister",
+      "d": "no individual can be held responsible for government decisions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a cabinet system of government, individual responsibility means that each minister is accountable for their ministry's actions and policies. If a minister makes errors or fails in their duties, the prime minister has the power to remove them from office.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 819,
     "question": "An important aspect of an unwritten constitution is that it",
     "option": {
@@ -6448,6 +6624,22 @@
     "examyear": "2019"
   },
   {
+    "id": 852,
+    "question": "The most recent target plans and agenda of the United Nations are known as the______",
+    "option": {
+      "a": "Resolution 2020",
+      "b": "Millenium Development Goals",
+      "c": "Agenda 2063",
+      "d": "Sustainable Development Goals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The 17 United Nations Sustainable Development Goals (SDGs) are the most recent aspirational global agenda for the sake of environmental sustainability, strong governance institutions and partnerships among related others.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 854,
     "question": "Under the 1999 constitution, the Chief Law Officer and the Supreme Court Judge respectively are the_______ ",
     "option": {
@@ -6684,6 +6876,22 @@
     "image": "",
     "answer": "a",
     "solution": "Democracy is concentrated on the people, the people's ability to exercise power directly or through a representative.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 880,
+    "question": "Which of the following is a good example of a confederal state?",
+    "option": {
+      "a": "Nigeria",
+      "b": "ECOWAS",
+      "c": "Switzerland",
+      "d": "USA"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a confederal system, member states retain most of the power and delegate limited authority to the central governing body. ECOWAS is a regional organization where member countries cooperate on economic and political issues but maintain their sovereignty and control over most of their affairs. \n\nSwitzerland and the USA are examples of federal states, where the central government has significant authority and shares power with regional governments. Nigeria is also a federal state with a similar structure to the USA and Switzerland.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -7984,6 +8192,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1056,
+    "question": "The commander of the army under the Hausa/ Fulani pre-colonial administration was",
+    "option": {
+      "a": " waziri",
+      "b": " madawaki",
+      "c": " galadima",
+      "d": " maaji"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The madawaki was the commander of the army in Pre-colonial Hausa/ Fulani Empire. \n\n ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1057,
     "question": "The rationale behind the adoption of a federal system of government in Nigeria is to ",
     "option": {
@@ -8288,6 +8512,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1097,
+    "question": "The central decision-making organ of a confederation is made up of",
+    "option": {
+      "a": "technocrats appointed by the units",
+      "b": "politicians elected from the confederal constituencies",
+      "c": "politicians nominated by the government of member states",
+      "d": "representatives of pressure groups."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a confederation, the central decision-making body is typically composed of representatives chosen by the member states' governments. These representatives are not elected directly by the people but are nominated to represent their states' interests in the confederation's central authority.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1103,
     "question": "when a bill passed by the legislature is vetoed by the executive, the action underscores the principle",
     "option": {
@@ -8560,6 +8800,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1137,
+    "question": "In 1981, Nigeria participated in an Organization of African Unity peace-keeping force to replace Libyan forces in",
+    "option": {
+      "a": "Somalia",
+      "b": "Chad",
+      "c": "Ethiopia",
+      "d": "Zaire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In 1981, Nigeria participated in an Organization of African Unity peace-keeping force to replace Libyan forces in Chad. \n\nFive African nations formally agreed to the the deployment of peacekeeping troops in Chad. the first such force assembled by the Organization of African Unity.\n\nPresident Goukouni Oueddei of Chad met with Kenya's President, Daniel arap Moi, and officials from four of the six African nations that have pledged to contribute troops to the force. The O.A.U. soldiers will replace Libyan troops that have withdrawn.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1140,
     "question": "The major demand of the Third World countries on the United Nations in recent times is the",
     "option": {
@@ -8684,6 +8940,22 @@
     "image": "",
     "answer": "b",
     "solution": "To qualify for absorption into the administrative cadre in Nigeria, an applicant must be a holder of a university degree.\n\nAs Indicated earlier, The administrative class is the highest grade of civil servants in the civil service. Members of this class of civil servant include the Director General or the Permanent Secretary,Deputy Director, Assistance Directors, General Principal Officers, Etc. These officers are responsible for advising the Ministers, helping in the formulation of major policies and then carrying out general administrative work of their various ministries.\n\nTheir recruitment is the therefore based on university education or equivalent educational qualification and long service as it was in the past",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1152,
+    "question": "The final interpretation pf the provisions of a federal constitution is vested in the",
+    "option": {
+      "a": " head of state",
+      "b": "council of state",
+      "c": "highest legislative body",
+      "d": "highest court of the land ."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The final interpretation pf the provisions of a federal constitution is vested in the highest court of the land.\n\nOne of the main characteristics of a Federal System of Government is the existence of a court to interpret the constitution and resolve conflicts between the centre and the federating units.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -9708,6 +9980,22 @@
     "image": "",
     "answer": "b",
     "solution": "Mass media—such as television, radio, newspapers, and social media—plays a crucial role in shaping public opinion by framing issues, setting the public agenda, and influencing the way people think about events and policies. It reaches a wide audience and can reinforce or challenge perceptions, making it a major influence on how opinions are formed.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1272,
+    "question": "The law of libel limits a citizen's right to freedom of",
+    "option": {
+      "a": "movement",
+      "b": "association",
+      "c": "expression",
+      "d": "worship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The law of libel limits a citizen's right to freedom of expression.\n\nOthers are the laws of slander and sedition",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -10864,6 +11152,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1429,
+    "question": "The principle that advocates strict adherence to the fundamental laws of a country is",
+    "option": {
+      "a": "constitutionalism",
+      "b": "individual responsibility",
+      "c": "absolutism",
+      "d": "collective responsibility"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Constitutionalism is the principle that advocates strict adherence to fundamental laws of a country.\n\nThis is so when it is well noted that constitutionalism is defined as the principle which maintains that those who govern the society should do so in accordance with the laws of the land. It also means that those who rule the society should follow the stipulations of the constitution strictly.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1430,
     "question": "One advantage of the unitary system over the federal system is the",
     "option": {
@@ -10876,6 +11180,22 @@
     "image": "",
     "answer": "b",
     "solution": "One advantage of the unitary system over Federal System is cost effectiveness. It reduces the cost of running the country. This is because few hands are involved in government.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1432,
+    "question": "A form of government in which the nobles rule for the benefit of all is",
+    "option": {
+      "a": "monarchy",
+      "b": "gerontocracy",
+      "c": "aristocracy",
+      "d": "plutocracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Aristocracy is a form of government in which the nobles rule for the benefit of all.\n\nThis form of government was advocated by some Greek philosophers like Aristotle and Plato who argued that true democracy will depend on the type of citizens a country with wise and just citizens likely to produce good citizens. For this reason, they believed that a country should be governed by the best citizens.",
     "examtype": "utme",
     "examyear": "2009"
   },
