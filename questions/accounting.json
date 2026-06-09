@@ -592,6 +592,22 @@
     "examyear": "2006"
   },
   {
+    "id": 260,
+    "question": "When closing stock is overstated, it would reduce",
+    "option": {
+      "a": "cost of sales and increase gross profit.",
+      "b": "gross profit and increase cost of sales.",
+      "c": "purchases and increase sales.",
+      "d": "sales and increase purchases."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 262,
     "question": "A fixed asset fully written-down by a trader is now considered to be worth N5,000. The double entry required to effect       this is: debit",
     "option": {
@@ -832,6 +848,22 @@
     "examyear": "2014"
   },
   {
+    "id": 397,
+    "question": "The recipient whose name appears on a cheque is called a",
+    "option": {
+      "a": "payee",
+      "b": "drawer",
+      "c": "drawee",
+      "d": "payee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 399,
     "question": "The three-column cash book differs from the two-column cash book in",
     "option": {
@@ -855,6 +887,22 @@
       "b": "N9,900",
       "c": "N 17,100",
       "d": "N 19,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 402,
+    "question": "Given: Rates paid during the year amounted to N 2,250 at N125 per month and N 1,035 was paid for electricity in the same period at N 115 per month. Determine the amount of prepaid rates",
+    "option": {
+      "a": "N 345",
+      "b": "N 750",
+      "c": "N 1,380",
+      "d": "N 1,500"
     },
     "section": "",
     "image": "",
@@ -926,6 +974,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 442,
+    "question": "In the trading and profit and loss account of a manufacturing organization, purchases is",
+    "option": {
+      "a": "always the same amount as the total factory overhead cost",
+      "b": "given separately",
+      "c": "equivalent to the total cost of goods manufactured",
+      "d": "always the same as the prime cost."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
   },
   {
     "id": 447,
@@ -1019,6 +1083,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 492,
+    "question": "What is the value of closing stock using simple average?",
+    "option": {
+      "a": "N 11,500",
+      "b": "N 17,000",
+      "c": "N 17,500",
+      "d": "N 28,500"
+    },
+    "section": "Use the information to answer question: Jan. 1 Received 1,000 units at   N 10 each; Jan. 2 Received 2,000 units at   N  12 each; Jan. 3 Issued 1,500 units; Jan. 4 Received 1,000 units at   N  11 eac; Jan. 5 Issued 1000 units",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 505,
+    "question": "Sule and Ahmad are in partnership sharing profits and losses equally. If  Khadija is admitted as a new partner to take 1/5 th as her share, what is the new profit or loss sharing ratio?",
+    "option": {
+      "a": "Sule1/3 , Ahmad 1/3 and Khadija 1/3",
+      "b": "Sule1/5, Ahmad 1/5 and Khadija 3/5",
+      "c": "Sule2/5,  Ahmad2/5 and Khadija 1/5",
+      "d": "Sule ,2/5, Ahmad and 1/5 Khadija 2/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -1164,6 +1260,22 @@
     "image": "",
     "answer": "d",
     "solution": "A cash discount is a deduction allowed by some sellers of goods or by some providers of services in order to motivate customers to pay within a specified time. The cash discount is also referred to as an early payment discount.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 590,
+    "question": "Impersonal account is subdivided into",
+    "option": {
+      "a": "real and nominal accounts",
+      "b": "nominal and personal accounts",
+      "c": " real and current accounts",
+      "d": "personal and real accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In traditional accounting classification, accounts are first split into personal accounts (which relate to individuals and organizations) and impersonal accounts. The impersonal accounts are then further subdivided into:\n\nReal accounts (assets—both tangible and intangible)\n\nNominal accounts (income, expenses, gains and losses)",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1324,6 +1436,22 @@
     "image": "",
     "answer": "c",
     "solution": "calls in advance is treated as a current liability until the calls are made and the amount actually becomes payable by the shareholders",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 704,
+    "question": "Departmentalization of accounts is useful because it shows the____________",
+    "option": {
+      "a": "Over all performance of a division",
+      "b": "Cost per unit of a profit",
+      "c": "Price per unit of a product",
+      "d": " Over all performance of a firm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Departmental accounting is prepared to ensure that the results of each individual department is known",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1584,6 +1712,38 @@
     "examyear": "2021"
   },
   {
+    "id": 827,
+    "question": "The two legally recognized professional accounting bodies in Nigeria are the ",
+    "option": {
+      "a": ". Nigerian Accounting Association and the Executive Cost and Management Accountants of Nigeria",
+      "b": "Institute of Certified Public Accountants of Nigeria and the Institute of Cost and Management Accountants",
+      "c": "Institute of Chartered Accountants of Nigeria and the Association of National Accountants of Nigeria",
+      "d": "Association of Accountants of Nigeria and the Institute of Management Accountants of Nigeria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In Nigeria, the two statutory bodies empowered by Acts of Parliament to regulate the accounting profession are:\n\nInstitute of Chartered Accountants of Nigeria (ICAN), established by ICAN Act No. 15 of 1965, and\n\nAssociation of National Accountants of Nigeria (ANAN), constituted under Decree No. 76 of 1993 (now the ANAN Act).\n\nNo other bodies have the same legal recognition to confer professional accounting qualifications in Nigeria.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 835,
+    "question": "The purchase consideration that is lower than the net asset implies that, the buyer has gained the advantage of",
+    "option": {
+      "a": " capital reserve",
+      "b": "net loss",
+      "c": "revenue reserve",
+      "d": "net income"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When the purchase consideration paid is less than the fair value of the net assets acquired, the excess of assets over the consideration received is recognized as a capital reserve (also known as a “bargain purchase gain”). This reserve reflects the buyer’s advantage arising from acquiring assets at below their net book value.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 847,
     "question": "The excess of income over expenditure is usually transferred to the?",
     "option": {
@@ -1630,6 +1790,22 @@
     "solution": "When a government ministry makes a payment to a revenue collector, the official acknowledgment of that payment is issued in the form of a treasury receipt. This document serves as the evidence that funds have been collected and remitted to the government’s treasury.",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 888,
+    "question": "The following appears in the trading account except",
+    "option": {
+      "a": " carriage inward",
+      "b": " opening stock",
+      "c": " carriage outward",
+      "d": "sales"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Carriage outward is an expenses and it does not appear in the trading account but appears in the profit and loss account.",
+    "examtype": "utme",
+    "examyear": "2023"
   },
   {
     "id": 891,
@@ -1692,6 +1868,22 @@
     "image": "",
     "answer": "b",
     "solution": "This refers to a single journal entry that records a transaction affecting two accounts with opposite balances. In control accounts, a \"set off\" achieves this by using a contra entry to reconcile the balances between a control account and its corresponding subsidiary ledger (e.g., sales ledger control account vs. individual customer accounts).",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 954,
+    "question": "Based on the following information, calculate the raw materials available for production:\nOpening stock of raw materials on 1/1/09 was ₦2,000, work-in-progress was ₦5,000, closing stock of raw materials on 31/12/09 was ₦500, work-in-progress was ₦4,000, raw materials purchased during the year was ₦18,000, direct labour was ₦7,500, direct expenses were ₦3,000, and factory expenses were ₦10,000.",
+    "option": {
+      "a": "₦18,000",
+      "b": "₦20,000",
+      "c": "₦19,500",
+      "d": "₦38,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find the raw materials available for production, we use the formula:\nRaw Materials Available for Production = Opening Stock of Raw Materials + Raw Materials Purchased\nRaw Materials Available for Production = ₦2,000 + ₦18,000 = ₦20,000\nThis represents the total value of raw materials that were available to be used in the production process during the year.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -1824,6 +2016,22 @@
     "examyear": "2008"
   },
   {
+    "id": 999,
+    "question": "In partnership dissolution, an asset taken over by a partner is debited to?",
+    "option": {
+      "a": "partners capital account and credited to realization account",
+      "b": "Partners capital account and credited to asset account",
+      "c": "asset account and credited to realization account",
+      "d": "realization account and credited to capital account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a partner takes over an asset during partnership dissolution:\nJournal Entry:\n\nDebit: Partner's Capital Account (at agreed value)\nCredit: Realization Account (at agreed value)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1013,
     "question": "<b>Use the information below to answer question 49 to 50.</b>\n\nGoods worth ₦300 was transferred from department Q to P Similarly, P's total expenses for the period was ₦200\n\nWhat was department Q's gross profit?",
     "option": {
@@ -1936,6 +2144,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1063,
+    "question": "The current ratio is",
+    "option": {
+      "a": "1:1",
+      "b": "2:1",
+      "c": "2.8:1",
+      "d": "3.5:1"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661739/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q49-50_zwwc7b.jpg",
+    "answer": "b",
+    "solution": "Current Assets:\n\nStock = ₦10,000\nDebtors = ₦15,000\nCash = ₦5,000\nTotal Current Assets = ₦30,000\n\nCurrent Liabilities:\n\nCreditors = ₦8,000\nWages owed = ₦4,000\nRent owed = ₦3,000\nTotal Current Liabilities = ₦15,000\n\nCurrent Ratio:\nCurrent Ratio = Current Assets ÷ Current Liabilities\nCurrent Ratio = ₦30,000 ÷ ₦15,000 = 2:1\nTherefore, the current ratio is 2:1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1073,
     "question": "The imprest account is subsidiary to the?",
     "option": {
@@ -1980,6 +2204,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Calculate Cost of Goods Sold\nGross Profit = Sales - Cost of Goods Sold\n₦5,900 = ₦12,800 - Cost of Goods Sold\nCost of Goods Sold = ₦12,800 - ₦5,900 = ₦6,900\nStep 2: Apply the inventory equation\nCost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory\n₦6,900 = Beginning Inventory + Purchases - ₦4,800\nBeginning Inventory + Purchases = ₦6,900 + ₦4,800 = ₦11,700\nStep 3: Calculate Beginning Inventory\nBeginning Inventory = 80% of Sales\nBeginning Inventory = 80% × ₦12,800\nBeginning Inventory = 0.8 × ₦12,800 = ₦10,240",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1088,
+    "question": "<b>Use the information below to answer questions 23 and 24</b>\n\nBeginning inventory............₦?\nPurchases......................₦?\nEnding inventory...............₦4,800\nSales..........................₦12,800\nWages..........................₦1,040\nGross profit...................₦5,900\n\n<b>The beginning inventory was estimated at 80% of sales.</b>\n\nWhat is the figure for purchases?",
+    "option": {
+      "a": "₦1,460",
+      "b": "₦2,500",
+      "c": "₦4,200",
+      "d": "₦5,200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "rom the previous solution, we established:\n\nBeginning Inventory + Purchases = ₦11,700\nBeginning Inventory = ₦10,240\n\nStep: Calculate Purchases\nPurchases = (Beginning Inventory + Purchases) - Beginning Inventory\nPurchases = ₦11,700 - ₦10,240\nPurchases = ₦1,460\nTherefore, the figure for purchases is ₦1,460",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -2208,6 +2448,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1218,
+    "question": "If liabilities amounted to ₦12,045, other assets ₦36,800and equity ₦26,896, the cash at hand would be?",
+    "option": {
+      "a": "₦2,241",
+      "b": " ₦2,214",
+      "c": " ₦2,141",
+      "d": " ₦2,114"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using the basic accounting equation:\nAssets = Liabilities + Equity\nStep 1: Calculate total assets\nTotal Assets = Liabilities + Equity\nTotal Assets = ₦12,045 + ₦26,896 = ₦38,941\nStep 2: Calculate cash at hand\nTotal Assets = Other Assets + Cash at Hand\n₦38,941 = ₦36,800 + Cash at Hand\nCash at Hand = ₦38,941 - ₦36,800 = ₦2,141",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1227,
     "question": "If a property developing company sells a completed building to an interested third party, this sale can be treated in the books of the company as?",
     "option": {
@@ -2336,6 +2592,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1328,
+    "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\t\t\t\t  ₦\nCapital: Opening balance \t307,000\nClosing balance \t\t342,000\n₦et profit for the period \t121,600\nOpening stock \t\t\t98,800\nPurchases \t\t\t706,000\nCarriage inwards \t\t17,500\nCost of goods sold \t\t740,700\nTotal selling, general and\nAdministrative expenses  \t526,000\nDiscount received \t\t9,650\n\n\nWhat is the closing stock for the period?",
+    "option": {
+      "a": "₦ 69,300",
+      "b": " ₦81,300",
+      "c": "₦81,600",
+      "d": "₦106,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "COGS = Opening Stock + Purchases + Carriage Inwards − Closing Stock\nRearrange to find Closing Stock:\n\nClosing Stock = Opening Stock + Purchases + Carriage Inwards − COGS\nSubstitute the numbers:\n\nClosing Stock = 98,800 + 706,000 +17,500 − 740,700 = 81,600",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1337,
     "question": "Manufacturing costs can be classified based on?",
     "option": {
@@ -2380,6 +2652,22 @@
     "image": "",
     "answer": "b",
     "solution": "A Receipts and Payments Account is:\n\nA summary of all cash and bank transactions (both capital and revenue) during an accounting period.\n\nIt records actual cash inflows and outflows on a cash basis.\n\nIt is similar to a cash book, but prepared at the end of the year for presentation to members.\n\nSo, it is primarily a summary of what is found in the cash book.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1352,
+    "question": "Appropriation Account\n\nKudu Wale\nInterest on capital 750 550\nSalaries 800 600\nShare of profits 3,300 3,300\n\n\nDetermine the net profit of the partnership.",
+    "option": {
+      "a": "₦ 9,300",
+      "b": "₦ 6,600",
+      "c": " ₦4,850",
+      "d": "₦ 4,450"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the net profit of the partnership, Add up all the appropriations from the Appropriation Account.\nGiven information from Appropriation Account:\n\nKudu's interest on capital: ₦750\nWale's interest on capital: ₦550\nKudu's salary: ₦800\nWale's salary: ₦600\nKudu's share of profits: ₦3,300\nWale's share of profits: ₦3,300\n\nCalculation:\nThe net profit equals the total of all appropriations:\nInterest on capital: ₦750 + ₦550 = ₦1,300\nSalaries: ₦800 + ₦600 = ₦1,400\nShare of profits: ₦3,300 + ₦3,300 = ₦6,600\nTotal net profit = ₦1,300 + ₦1,400 + ₦6,600 = ₦9,300",
     "examtype": "utme",
     "examyear": "1999"
   },
@@ -2496,6 +2784,22 @@
     "examyear": "199"
   },
   {
+    "id": 1402,
+    "question": "<b>Use the information below to answer questions 38 and 39\n\nDan & Baker are in partnership with capitals of ₦50,000 and ₦30,000 each. The partnership agreement provides that:\n(i) profits be shared in the ratio of capital\n(ii) Baker be paid a salary of ₦8,000 \n(iii) both partners pay interest on drawings at 6% p.a.</b>\n\nAt the end of the year, Dan drew₦15,000 while Baker\ndrew ₦14,000 in four equal installment on 31/3, 30/6, 30/9 and 31/12. The net profit for the year was ₦48,000.\n₦5,000 is to be written off the Goodwill account.\n\nWhat is the interest on the drawings by Baker?.",
+    "option": {
+      "a": "₦210",
+      "b": "₦315",
+      "c": "₦450",
+      "d": "₦840"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To calculate the interest on Baker's drawings, determine the period each drawing was outstanding and apply the 6% annual interest rate.\nGiven information:\n\nBaker drew ₦14,000 in four equal installments\nEach installment = ₦14,000 ÷ 4 = ₦3,500\nDrawing dates: 31/3, 30/6, 30/9, and 31/12\nInterest rate: 6% per annum\n\nCalculation of interest on each drawing:\nDrawing on 31/3:\n\nAmount: ₦3,500\nPeriod outstanding: 9 months (April to December)\nInterest = ₦3,500 × 6% × 9/12 = ₦157.50\n\nDrawing on 30/6:\n\nAmount: ₦3,500\nPeriod outstanding: 6 months (July to December)\nInterest = ₦3,500 × 6% × 6/12 = ₦105.00\n\nDrawing on 30/9:\n\nAmount: ₦3,500\nPeriod outstanding: 3 months (October to December)\nInterest = ₦3,500 × 6% × 3/12 = ₦52.50\n\nDrawing on 31/12:\n\nAmount: ₦3,500\nPeriod outstanding: 0 months (drawn at year end)\nInterest = ₦0\n\nTotal interest on Baker's drawings:\n₦157.50 + ₦105.00 + ₦52.50 + ₦0 = ₦315.00\nThe interest on Baker's drawings is ₦315.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1409,
     "question": "Which of the following entries is effected by a department when goods are charged to it at selling prices?",
     "option": {
@@ -2524,6 +2828,22 @@
     "image": "",
     "answer": "c",
     "solution": "Source documents are the original records of business transactions (such as invoices, receipts, bank statements, purchase orders, etc.) from which accounting entries are made.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1420,
+    "question": "The effect of the payment of liability is that it",
+    "option": {
+      "a": "increase both assets and liabilities",
+      "b": "increase assets and decrease liabilities",
+      "c": "decrease assets and increase liabilities",
+      "d": "decrease both assets and liabilities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When you pay off a liability (e.g., cash is paid to settle a creditor), your cash (an asset) goes down and your liability is extinguished (goes down) by the same amount.",
     "examtype": "utme",
     "examyear": "1997"
   },
