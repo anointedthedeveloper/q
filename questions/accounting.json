@@ -6992,6 +6992,22 @@
     "examyear": "2007"
   },
   {
+    "id": 446,
+    "question": "The total amount of money received on application was",
+    "option": {
+      "a": "N  5600,00",
+      "b": "N  220,000",
+      "c": "N  800, 000",
+      "d": "N  1 000 000"
+    },
+    "section": "A company’s authorized share capital was one million ordinary shares at N 1 each. It issued 80% of its shares at N 1.10 per share. 70k was payable on application, 25k on allotment, 10k due on first call and the balance on second call. ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 447,
     "question": "Determine the working capital.",
     "option": {
@@ -21180,6 +21196,22 @@
     "image": "",
     "answer": "b",
     "solution": "When a partnership is converted into a limited liability company (LLC), it is considered a new legal entity. Therefore:\n\nThe partnership must be legally dissolved.\n\nA new set of books of account must be opened for the new company.\n\nThe assets and liabilities of the former partnership are usually transferred to the new company.\n\nThe partners may become shareholders or directors in the new company.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1348,
+    "question": "If a sole proprietorship is purchased for cash, then?",
+    "option": {
+      "a": "the purchaser debits his business purchase account with the consideration he pays",
+      "b": "all assets and liabilities must be bought",
+      "c": "goodwill results where value of assets",
+      "d": "the vendor debits his business purchase account with the considerstion he receives"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The purchaser records the total purchase price in a \"Business Purchase Account\" or similar account, which is then analyzed and allocated to individual assets and goodwill.",
     "examtype": "utme",
     "examyear": "1999"
   },
