@@ -96,6 +96,22 @@
     "examyear": "2006"
   },
   {
+    "id": 12,
+    "question": "Some rivers in their delta regions breaks into many branches before entering the sea. These divisions are known as  ",
+    "option": {
+      "a": " Creeks ",
+      "b": "Distributaries",
+      "c": "Tributaries ",
+      "d": "Effluents"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 13,
     "question": "Kariba Dam is found in River  ",
     "option": {
@@ -171,6 +187,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 21,
+    "question": "The cloud which are white globular masses, forming ripples in the sky is called  ",
+    "option": {
+      "a": "Cirrus  ",
+      "b": "Cirrocumulus  ",
+      "c": "altocumulus  ",
+      "d": "altostratus "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
@@ -496,6 +528,22 @@
     "examyear": "2008"
   },
   {
+    "id": 54,
+    "question": "One of these is not true of rain gauges:  ",
+    "option": {
+      "a": "Rain gauge provide excellent measurement of rainfall ",
+      "b": "Their measurements may be affected by the particular type used ",
+      "c": "Their readings may be influenced by slope of the land  ",
+      "d": "Rain splashes during heavy rains may lead to over estimation "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 55,
     "question": "South East Asia is noted for its regular experience of  ",
     "option": {
@@ -583,6 +631,22 @@
       "b": "valley -bench  ",
       "c": "Hanging valley  ",
       "d": "Esker"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 64,
+    "question": "The greatest challenge to future use of automobiles is  ",
+    "option": {
+      "a": "advances in air travel  ",
+      "b": "identification of alternative to fossil fuels  ",
+      "c": "changing and more reliable technology for rail transport ",
+      "d": "population growth "
     },
     "section": "",
     "image": "",
@@ -811,6 +875,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 81,
+    "question": "The scientist who propounded the theory of continental drift was?  ",
+    "option": {
+      "a": "Francis bacon  ",
+      "b": "Alfred Wegener   ",
+      "c": "Authur Holmes ",
+      "d": "Williams Davis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -1568,6 +1648,22 @@
     "examyear": "2012"
   },
   {
+    "id": 151,
+    "question": "Ferrel’s law states that winds deflect to the  ",
+    "option": {
+      "a": "Left in the northern  ",
+      "b": "Right in the Northern hemisphere and to the left in the Southern hemisphere  ",
+      "c": "Right in both hemispheres  ",
+      "d": "Left in both hemisphere."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 152,
     "question": "Given an environmental lapse tate of 0.650C per 100 metres, a place with sea level temperature of 400 and 2500 metre above the sea level will approximately have a temperature of  ",
     "option": {
@@ -1707,6 +1803,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 169,
+    "question": "Which of the following is not a form of condensation?  ",
+    "option": {
+      "a": "Snow  ",
+      "b": "Rime  ",
+      "c": "C.Cloud  ",
+      "d": "Fog"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -2256,6 +2368,22 @@
     "examyear": "2014"
   },
   {
+    "id": 227,
+    "question": "The location of iron and steel industry at Ajaokuta in Nigeria is best explained by the presence of ",
+    "option": {
+      "a": "Limestone and coal  ",
+      "b": "Iron ore   ",
+      "c": "Bauxite  ",
+      "d": "Manganese "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 228,
     "question": "Settlements can be classified according to all the following except the   ",
     "option": {
@@ -2795,6 +2923,22 @@
     "section": "",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2017_6_and_7_y30z7q.jpg",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 285,
+    "question": "The major human activity in the area is probably",
+    "option": {
+      "a": "Fishing",
+      "b": "Farming",
+      "c": "Ranching",
+      "d": "Lumbering"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
@@ -3488,6 +3632,22 @@
     "examyear": "2018"
   },
   {
+    "id": 352,
+    "question": "A type of landforms that is associated with large scale orogeny is a",
+    "option": {
+      "a": "Fold mountain",
+      "b": "Residual mountain",
+      "c": "Block mountain",
+      "d": "Volcanic mountain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 354,
     "question": "One of the leading industrial nations of the world ranking second in manufacturing output after the USA is ",
     "option": {
@@ -3728,6 +3888,22 @@
     "examyear": "2019"
   },
   {
+    "id": 382,
+    "question": "Planetary winds are deflected on crossing the Equator due mainly to the effects of ",
+    "option": {
+      "a": "Ferrel's law",
+      "b": "Coriolis Force",
+      "c": "Gravitational force",
+      "d": "The jet stream"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 383,
     "question": "The rock type that is not likely to produce rich agricultural soil after weathering is",
     "option": {
@@ -3767,6 +3943,22 @@
       "b": "A hum",
       "c": "An arete",
       "d": "A monadnock"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 391,
+    "question": "The instrument used for measuring atmosphere pressure is ",
+    "option": {
+      "a": "A barometer",
+      "b": "An anemometer",
+      "c": "A thermometer",
+      "d": "A wind vane"
     },
     "section": "",
     "image": "",
