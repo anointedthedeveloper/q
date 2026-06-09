@@ -1024,6 +1024,22 @@
     "examyear": "2016"
   },
   {
+    "id": 194,
+    "question": "A boy in a barber's shop sits between two parallel mirrors. The number of images observed by him will be",
+    "option": {
+      "a": "Infinite",
+      "b": "Ten",
+      "c": "Eight",
+      "d": "Forty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When two parallel mirrors face each other:\nEach mirror reflects the image from the other mirror repeatedly, creating multiple reflections.\nWhat happens:\n\nMirror 1 reflects the object\nMirror 2 reflects the image from Mirror 1\nMirror 1 reflects the image from Mirror 2\nThis continues indefinitely\n\nResult:\nThe number of images formed = Infinite\nIn practice:\n\nEach reflection loses some intensity\nEventually images become too dim to see\nBut theoretically, the reflections continue forever\n\nAnswer: A. Infinite\nWhen sitting between two parallel mirrors, an infinite number of images are formed.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 198,
     "question": "A saturated vapour pressure of a liquid increases when the",
     "option": {
@@ -1068,6 +1084,22 @@
     "image": "",
     "answer": "d",
     "solution": "Gamma rays have the shortest wavelength among all electromagnetic waves.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 205,
+    "question": "Which of the following waves is both transverse and mechanical?",
+    "option": {
+      "a": "Water waves",
+      "b": "Radio waves",
+      "c": "Sound waves",
+      "d": "X-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Water waves are both transverse (particles move up and down) and mechanical (require water as a medium).",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1244,6 +1276,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nInternal resistance (r) = 2Ω\nExternal resistance (R) = 6Ω\nEfficiency = ?\n\nFormula for efficiency of a cell:\nEfficiency = (Power delivered to load)/(Total power) × 100%\nEfficiency = R/(R + r) × 100%\nSubstituting values:\nEfficiency = 6/(6 + 2) × 100%\nEfficiency = 6/8 × 100%\nEfficiency = 0.75 × 100%\nEfficiency = 75.0%\nExplanation:\nThe efficiency represents the fraction of total power that is usefully delivered to the external resistor (load), with the rest being lost to the internal resistance of the cell.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 251,
+    "question": "A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10ms⁻², the power expended is",
+    "option": {
+      "a": "100W",
+      "b": "200W",
+      "c": "400W",
+      "d": "500W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 50 kg\nHeight (h) = 5 m\nTime (t) = 5 seconds\nAcceleration due to gravity (g) = 10 m/s²\nPower (P) = ?\n\nStep 1: Calculate work done against gravity\nWork = Force × Distance\nWork = Weight × Height\nWork = mgh\nWork = 50 × 10 × 5\nWork = 2500 J\nStep 2: Calculate power\nPower = Work/Time\nP = 2500/5\nP = 500 W",
     "examtype": "utme",
     "examyear": "2017"
   },
