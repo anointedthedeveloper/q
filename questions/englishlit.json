@@ -96,6 +96,22 @@
     "examyear": "2006"
   },
   {
+    "id": 20,
+    "question": "A brief but witty expression is called: ",
+    "option": {
+      "a": "song ",
+      "b": "epigram",
+      "c": "enecdote ",
+      "d": "joke "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 22,
     "question": "A literary composition that employs wit and humor to ridicule person or institution is",
     "option": {
@@ -331,6 +347,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 79,
+    "question": "Assonance poetry is the repetition of ",
+    "option": {
+      "a": "internal vowels in words ",
+      "b": "consonant sounds in words ",
+      "c": "final sounds at the end of a line 1 ",
+      "d": "final sounds at the beginning of a line"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 81,
+    "question": "As literacy form the short  story is most closely related to ",
+    "option": {
+      "a": "the discourse ",
+      "b": "the novel  ",
+      "c": "story telling  ",
+      "d": "poetry "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -800,6 +848,22 @@
     "examyear": "2013"
   },
   {
+    "id": 170,
+    "question": "A poem written in unrhymed five stress lines is called  ",
+    "option": {
+      "a": "ballad  ",
+      "b": "Blank verse ",
+      "c": "sonnet      ",
+      "d": "Ode"
+    },
+    "section": "Question is based on General literary principles.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 173,
     "question": "The figurative devices in the excerpt above are  ",
     "option": {
@@ -827,6 +891,22 @@
     "section": "Pan, O great Pan, to thee'<br> \t\tThus do we sing!<br> \t\tThou who keep’st chaste and free<br> \t\tAs the young spring<br> \t\tEver be thy honour spake<br> \t\tFrom that place the morn is broke<br> \t\tTo the place day doth unyoke",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 181,
+    "question": "A metrical foot in which a stressed syllable is followed by an unstressed syllable is",
+    "option": {
+      "a": "iambic",
+      "b": "spondaic",
+      "c": "trochaic",
+      "d": "dactylic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -1136,6 +1216,22 @@
     "examyear": "2010"
   },
   {
+    "id": 263,
+    "question": "The play opens with a conversation between Aaron and Awere about",
+    "option": {
+      "a": "Aaron’s choice of course",
+      "b": "Maanan’s encounter with the lawyer",
+      "c": "George and Kofi",
+      "d": "Hannah and George."
+    },
+    "section": "Based on J.C. De Graft’s Sons and  \tDaughters.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 268,
     "question": "Romeo’s death becomes inevitable because",
     "option": {
@@ -1211,6 +1307,22 @@
     "section": "Based on Buchi Emecheta’s The Joys of Motherhood.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 284,
+    "question": "‘The experts, of course Disagree. The urine test they ordered Said, Negative.’ The lines above from Acqah’s “In the Navel of the Soul” depict",
+    "option": {
+      "a": "contradiction",
+      "b": "inevitability",
+      "c": "progress",
+      "d": "awareness."
+    },
+    "section": "Based on selected poems from Johnson, \tR. et al (eds.): New Poetry from Africa; Soyirvka, W. (ed.): Poems of Black Africa; Senanu, K.E. and Vincent, T. (eds.): A Selection of African Poetry; Maduka, C.T. et al: Exam Focus: Literature in English; Eruvbetine, A. E. et al (eds.): Longman Examination Guides; Nwoga, D. I. (ed.): West African Verse and Adeoti G.: Naked Soles.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -1323,6 +1435,22 @@
     "section": "Based on General Literary Principles.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 305,
+    "question": "The tone of the poem above is",
+    "option": {
+      "a": "satiric",
+      "b": "affectionate",
+      "c": "indifferent",
+      "d": "sympathetic."
+    },
+    "section": "based on Literary Appreciation.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -2016,6 +2144,22 @@
     "examyear": "2018"
   },
   {
+    "id": 471,
+    "question": "Shall I compare thee to a summer's day? The sentence implies a",
+    "option": {
+      "a": "Metaphor",
+      "b": "Irony",
+      "c": "Rhetorical question",
+      "d": "Iambic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 477,
     "question": "A funny incident within a serious situation is",
     "option": {
@@ -2043,6 +2187,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 487,
+    "question": "In William Morris \"The Proud King\". The rhyme scheme for the seven line stanzas is consistent it is",
+    "option": {
+      "a": "aabbcc",
+      "b": "ababbcc",
+      "c": "abcdee",
+      "d": "abccddeeff"
+    },
+    "section": "Question 6 to 10 are based on poems from the penguin book of English verse by John Hayward. The Golden Treasury of longer poems, selected and edited by Ernest. English Romantic Verse edited by Wright Penguin book. A Pageant of longer poems edited by E.W. Parker, Longman.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -2363,6 +2523,38 @@
     "section": "Duke Theseus; \"Hippoluta, I woo'd thee with my sword. And won thy love doing thee injuries, but I will wed thee in another key, with pomp, with triumph, and with reveling.\"",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 550,
+    "question": "The rhyming pattern in the last stanza of Lade Wosornu's \"Raider of the Treasure Trove\" makes the stanza",
+    "option": {
+      "a": "An octave",
+      "b": "A quatrain",
+      "c": "A couplet",
+      "d": "A sestet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 555,
+    "question": "The most important concepts in poetry are",
+    "option": {
+      "a": "Strong and action",
+      "b": "Plot and rhythm",
+      "c": "Rhythm and imagery",
+      "d": "Plot and character"
+    },
+    "section": "Questions 34 to 40 are based on General Literary Principles",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
