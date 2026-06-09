@@ -128,6 +128,22 @@
     "examyear": "2014"
   },
   {
+    "id": 30,
+    "question": "Which of the following policies is a peril covered under a standard fire policy?",
+    "option": {
+      "a": "Lightning",
+      "b": "Storm",
+      "c": "Civil commotion",
+      "d": "Escape of oil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 31,
     "question": "A type of reinsurance where cession and acceptance is obligatory is",
     "option": {
@@ -155,6 +171,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 33,
+    "question": "George effected two personal accident policies. The first policy provides N= 25,000.00 cover for loss of limb. The second policy provides N= 30,000.00 cover for loss of limb. What is the total amount that  George  will receive in the event of a valid loss of limb claim?",
+    "option": {
+      "a": "N= 5,000.00",
+      "b": "N= 25,000.00",
+      "c": "N= 30,000.00",
+      "d": "N= 55,000.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -240,6 +272,22 @@
     "examyear": "2014"
   },
   {
+    "id": 42,
+    "question": "A voucher signed by the insured before collecting his claim is",
+    "option": {
+      "a": "money collect receipt",
+      "b": "discharge voucher",
+      "c": "payment receipt",
+      "d": "pay - in - slip"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 44,
     "question": "Insurers A and B cover a risk at the ratio of 2:5 for the sum insured of N= 1,800. How much would insurer  A get from the risk?",
     "option": {
@@ -320,6 +368,38 @@
     "examyear": "1"
   },
   {
+    "id": 55,
+    "question": "A  statement  of  fact  that  the insured must have an interest in the object of the contract is called",
+    "option": {
+      "a": "warranty",
+      "b": "insurable interest",
+      "c": "subrogation",
+      "d": "object interest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 60,
+    "question": "An individual who is interested in taking an insurance policy must fill a form of application called:",
+    "option": {
+      "a": "premium slip",
+      "b": "policy document",
+      "c": "proposal form",
+      "d": "claim form"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 63,
     "question": "The evidence of the contractual agreement between the insured and insurer is",
     "option": {
@@ -375,6 +455,22 @@
       "b": "pure risk",
       "c": "dynamic risk",
       "d": "speculative risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 76,
+    "question": "The following are insurable except",
+    "option": {
+      "a": "Marine",
+      "b": "Goods",
+      "c": "Gambling",
+      "d": "Accident"
     },
     "section": "",
     "image": "",
@@ -528,6 +624,22 @@
     "examyear": "1"
   },
   {
+    "id": 90,
+    "question": "Any circumstance that promotes the probability of a loss is called",
+    "option": {
+      "a": "accident",
+      "b": "hazard",
+      "c": "loss",
+      "d": "risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 92,
     "question": "Another name for business interruption insurance is",
     "option": {
@@ -576,6 +688,22 @@
     "examyear": "1"
   },
   {
+    "id": 102,
+    "question": "Insurable interest means",
+    "option": {
+      "a": "Interest gained on money in a bank",
+      "b": "Interest payable on a loan",
+      "c": "Financial interest a person has in something he expects to inherit",
+      "d": "The financial interest a person has in something of value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 105,
     "question": "Which of the following is not a principle of insurance?",
     "option": {
@@ -603,6 +731,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 109,
+    "question": "In the utmost good faith principle, the value of the subject matter should",
+    "option": {
+      "a": "Be over stated",
+      "b": "Understated",
+      "c": "Not be stated",
+      "d": "Not be overstated nor understated"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -752,6 +896,22 @@
     "examyear": "2"
   },
   {
+    "id": 129,
+    "question": "The  payment  made  by  underwriter  as  a  form  of  \tkindness  without  admission  of  liability  so  as  to maintain goodwill is known as ------------",
+    "option": {
+      "a": "Kindness payment",
+      "b": "Ex-gratia payment",
+      "c": "Favour payment",
+      "d": "Claim"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 130,
     "question": "One of the following is the duty of the insured in insurance claim process",
     "option": {
@@ -891,6 +1051,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 149,
+    "question": "The wrongful act willfully committed by either the master or the prejudice of either the owner or crew to the chatterer of the ship is",
+    "option": {
+      "a": "Barratry",
+      "b": "Caveat emptor",
+      "c": "Bailee",
+      "d": "Jettison"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -1104,6 +1280,22 @@
     "examyear": "3"
   },
   {
+    "id": 179,
+    "question": "The policy that covers loss of cash while in transit or at home is --------------- insurance",
+    "option": {
+      "a": "Burglary",
+      "b": "Business interruption",
+      "c": "Credit",
+      "d": "Money"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 180,
     "question": "A person who makes an insurance claim is called",
     "option": {
@@ -1307,6 +1499,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 209,
+    "question": "In insurance, uncertainty of loss means",
+    "option": {
+      "a": "hazard",
+      "b": "risk",
+      "c": "accident",
+      "d": "earthquake"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -1520,6 +1728,38 @@
     "examyear": "4"
   },
   {
+    "id": 250,
+    "question": "The deliberate throwing overboard of part of a cargo without a good intention is called",
+    "option": {
+      "a": "jettison",
+      "b": "barratry",
+      "c": "voyaging",
+      "d": "overboard"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 251,
+    "question": "Insurance premium depends on the",
+    "option": {
+      "a": "amount of profit to be made by the insurer",
+      "b": "various insurance companies in a place",
+      "c": "extent of the possible loss and the frequency of risk",
+      "d": "supply and demand"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 252,
     "question": "Subrogation in insurance means that",
     "option": {
@@ -1648,6 +1888,22 @@
     "examyear": "5"
   },
   {
+    "id": 273,
+    "question": "A residential building built beside a petrol filling station is described as a",
+    "option": {
+      "a": "risk",
+      "b": "hazard",
+      "c": "peril",
+      "d": "liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 275,
     "question": "A contract which has no legal effect is called",
     "option": {
@@ -1675,6 +1931,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 279,
+    "question": "A policy that covers the peril of the sea is",
+    "option": {
+      "a": "aviation",
+      "b": "marine",
+      "c": "life",
+      "d": "fire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
@@ -1975,6 +2247,22 @@
       "b": "Sum insured",
       "c": "Franchise",
       "d": "Excess"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 323,
+    "question": "A clause in marine insurance policy prohibiting the insured from giving up a damaged property is",
+    "option": {
+      "a": "deductible",
+      "b": "abandonment",
+      "c": "indemnity",
+      "d": "compensation"
     },
     "section": "",
     "image": "",
