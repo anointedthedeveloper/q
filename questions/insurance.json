@@ -1,5 +1,37 @@
 [
   {
+    "id": 1,
+    "question": "Which of the following policies will prevent loss of home if the wage earner dies?",
+    "option": {
+      "a": "Term assurance",
+      "b": "Endowment assurance",
+      "c": "Mortgage insurance",
+      "d": "Whole life assurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 3,
+    "question": "An assurance policy taken by experts to cover possible negligence arising from their duties is",
+    "option": {
+      "a": "consequential loss",
+      "b": "professional indemnity",
+      "c": "cargo",
+      "d": "freight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 5,
     "question": "The  type  of  cover  that  is  designed  against  loss  of earnings following loss caused by fire and special perils is",
     "option": {
@@ -27,6 +59,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 7,
+    "question": "In  classification  of  risks, what is the name given to a risk  where  the  causes  of  events are linked to factors \tthat are due to the society we live in?",
+    "option": {
+      "a": "Dynamic risk",
+      "b": "Particular risk",
+      "c": "Speculative risk",
+      "d": "Fundamental risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -320,6 +368,22 @@
     "examyear": "2014"
   },
   {
+    "id": 46,
+    "question": "The alternative to seeking for surrender value in a life assurance contract is",
+    "option": {
+      "a": "automatic non - forfeiture",
+      "b": "revival condition",
+      "c": "paid-up policy",
+      "d": "standing order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 47,
     "question": "Which of the following is a risk covered in endowment assurance?",
     "option": {
@@ -448,6 +512,22 @@
     "examyear": "1"
   },
   {
+    "id": 72,
+    "question": "The risks which affect the society and whose causes are beyond human control is",
+    "option": {
+      "a": "particular risk",
+      "b": "static",
+      "c": "fundamental",
+      "d": "speculative"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 74,
     "question": "Risk of loss resulting from change in culture and taste is called",
     "option": {
@@ -491,6 +571,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 79,
+    "question": "Hazard that relates to the attitude of the insured is known as",
+    "option": {
+      "a": "Physical hazard",
+      "b": "Good physical hazard",
+      "c": "Moral hazard",
+      "d": "Good moral hazard"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "1"
@@ -688,6 +784,22 @@
     "examyear": "1"
   },
   {
+    "id": 101,
+    "question": "When someone is placed back in the same financial position that he was in just prior to a loss, that is ----",
+    "option": {
+      "a": "Actual cash value",
+      "b": "Consideration",
+      "c": "Contribution",
+      "d": "Indemnity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 102,
     "question": "Insurable interest means",
     "option": {
@@ -811,6 +923,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 122,
+    "question": "The policy that covers debt that cannot be recovered is called",
+    "option": {
+      "a": "Life assurance",
+      "b": "Motor vehicle policy",
+      "c": "Comprehensive policy",
+      "d": "Bad debt insurance policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -1008,6 +1136,22 @@
     "examyear": "2"
   },
   {
+    "id": 143,
+    "question": "The clauses in the policy which make alterations or additions to the information stated in the policy is known as",
+    "option": {
+      "a": "correction",
+      "b": "Modification",
+      "c": "Change",
+      "d": "Endorsement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 145,
     "question": "Factor that causes an exposure to injury, loss or damage is",
     "option": {
@@ -1184,6 +1328,22 @@
     "examyear": "3"
   },
   {
+    "id": 163,
+    "question": "A  Statement signed by the insured, certifying the Statement",
+    "option": {
+      "a": "Certificate",
+      "b": "Declaration",
+      "c": "Confirmation slip",
+      "d": "Accuracy statement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 166,
     "question": "Another name for consequential loss is",
     "option": {
@@ -1195,6 +1355,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 168,
+    "question": "A place where the business of insurance is transacted is called a/an",
+    "option": {
+      "a": "Insurance market",
+      "b": "Brokerage firm",
+      "c": "Insurance house",
+      "d": "Insurance conference room"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -1259,6 +1435,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 174,
+    "question": "A marine policy that provider cover for the construction of sea vessels is called --------- policy",
+    "option": {
+      "a": "Building",
+      "b": "Mixed",
+      "c": "Port",
+      "d": "Valued"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 175,
+    "question": "Spreading of risk to ensure that no insurer is liquidated by the occurrence of a large loss is the concept of",
+    "option": {
+      "a": "Insurance",
+      "b": "Re insurance",
+      "c": "Renewal",
+      "d": "Treaty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -1488,6 +1696,22 @@
     "examyear": "4"
   },
   {
+    "id": 205,
+    "question": "The coming together of minds of  the two parties to the insurance contract is called",
+    "option": {
+      "a": "surrender value",
+      "b": "acceptance",
+      "c": "consensus ad-idem",
+      "d": "adhesion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 206,
     "question": "Uberrimae fidei is equally known as",
     "option": {
@@ -1499,6 +1723,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 208,
+    "question": "An undertaking by the insured that certain things shall be done or not be done or certain things shall be put in place or not in place is called",
+    "option": {
+      "a": "warranties and representation",
+      "b": "utmost good faith and uberrimae fidei",
+      "c": "insurable and non-insurable",
+      "d": "subrogation and indemnity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -1527,6 +1767,22 @@
       "b": "loss",
       "c": "risk",
       "d": "speculation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 211,
+    "question": "An insurance contract where both parties signed the agreement which involve mutuality of agreement is known as",
+    "option": {
+      "a": "unilateral contract",
+      "b": "multilateral contract",
+      "c": "bilateral contract",
+      "d": "united contract"
     },
     "section": "",
     "image": "",
@@ -1600,6 +1856,22 @@
     "examyear": "4"
   },
   {
+    "id": 218,
+    "question": "Non- indemnity insurance means that the assured can",
+    "option": {
+      "a": "be restored back to his former position",
+      "b": "not be restored back to his former position",
+      "c": "be brought back to contract",
+      "d": "not be brought back to contract"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 219,
     "question": "A seller of insurance product is",
     "option": {
@@ -1627,6 +1899,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 227,
+    "question": "Inter company agreement in which insurers agreed to waive their right against each other for loss is",
+    "option": {
+      "a": "knock for knock agreement",
+      "b": "employers’ liability",
+      "c": "tit for tat agreement",
+      "d": "salvage agreement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -1815,6 +2103,22 @@
       "b": "capital",
       "c": "borrowing",
       "d": "insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 260,
+    "question": "If the insured has been fully indemnified, the insurers are entitled to take any advantage due to the insured. Principle of insurance involved is",
+    "option": {
+      "a": "insurable interest",
+      "b": "contribution",
+      "c": "indemnity",
+      "d": "subrogation"
     },
     "section": "",
     "image": "",
@@ -2144,6 +2448,22 @@
     "examyear": "2015"
   },
   {
+    "id": 308,
+    "question": "A type of re - insurance  where  the re - insurer has  the option  to  accept  or  reject  any  risk  presented  for re-insurance is",
+    "option": {
+      "a": "stop loss",
+      "b": "facultative",
+      "c": "treaty",
+      "d": "excess of loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 309,
     "question": "A new Nissan car valued at N= 350,000 was used to replace a Peugeot car with a sum insured N= 250.000 in private policy. The Peugeot car enjoys a 25% no claim discount. If the rate of premium is 11% and the no claim discount is transferred to the  new vehicle, what  would be the premium for the new Nissan car?",
     "option": {
@@ -2283,6 +2603,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 329,
+    "question": "The  sum  insured  for  a  risk  is  N= 150,000  and  was accepted  for  fire  insurance at a rate of  0.25%. How much will the insured pay as a premium?",
+    "option": {
+      "a": "N= 125",
+      "b": "N= 375",
+      "c": "N= 500",
+      "d": "N= 875"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -2507,6 +2843,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 349,
+    "question": "Which of the following factors limits indemnity?",
+    "option": {
+      "a": "Cession",
+      "b": "Re - insurance",
+      "c": "Excess",
+      "d": "Co - insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 350,
+    "question": "A  temporary  insurance  document  providing  coverage until a permanent policy is issued is",
+    "option": {
+      "a": "proposal form",
+      "b": "cover note",
+      "c": "policy document",
+      "d": "insurance certificate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
