@@ -16000,6 +16000,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1023,
+    "question": "Where can a man place his face to get an enlarged image when using a concave mirror to shave?",
+    "option": {
+      "a": " Between the centre of curvature and the principal focus",
+      "b": " At the principal focus",
+      "c": " Between the principal focus and the pole",
+      "d": "At the centre of curvature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Shaving requires an enlarged, upright image (virtual). This occurs only when the object (face) is placed between the principal focus (F) and the pole (P) of the concave mirror.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1024,
     "question": "A pinhole camera is placed 300 m in front of a building so that the image is formed on a screen 5 cm from the pinhole. If the image is 2.5 cm high, the height of the building will be",
     "option": {
