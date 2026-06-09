@@ -512,6 +512,38 @@
     "examyear": "2012"
   },
   {
+    "id": 123,
+    "question": "If salary of worker increases from 50,000 to 80,000 Naira and average price of certain commodities consumed by the worker increase from 120 Naira to 160 Naira then  ",
+    "option": {
+      "a": "The nominal income increases but leave the real income constant  ",
+      "b": "The real income increases, but nominal income has reduced  ",
+      "c": "The nominal income increases, but real income decreases  ",
+      "d": "Both the nominal and real income increase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 128,
+    "question": "The following is not correct  ",
+    "option": {
+      "a": "Average variable cost equals average total cost minus average fixed cost   ",
+      "b": "Average fixed cost equals average variable cost minus average total cost  ",
+      "c": "Average total cost equals average variable cost plus average fixed cost  ",
+      "d": "Average total cost minus average variable cost equals average fixed cost "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 129,
     "question": "Normal profit means;  ",
     "option": {
@@ -967,6 +999,22 @@
       "b": "Export duty",
       "c": "Capital gain tax",
       "d": "Sales tax"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 227,
+    "question": "Tax evasions means",
+    "option": {
+      "a": "postponing payment of tax",
+      "b": "tax payment according to ability to pay",
+      "c": "making false declaration of taxable income",
+      "d": "paying little amount of money as tax"
     },
     "section": "",
     "image": "",
@@ -1803,6 +1851,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 407,
+    "question": "The maximum number of shareholders  for a limited liability company is",
+    "option": {
+      "a": "Twenty",
+      "b": "seven",
+      "c": "five",
+      "d": "infinite"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
