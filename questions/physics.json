@@ -912,6 +912,22 @@
     "examyear": "2010"
   },
   {
+    "id": 80,
+    "question": "What is the total power output of a source with intensity 0.050 W/m2 at a distance of 3.0m from the source? ",
+    "option": {
+      "a": "112W ",
+      "b": "5.6W ",
+      "c": "15W ",
+      "d": "30W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 81,
     "question": "The superposition of two or more waves to produce a maximum or zero effect at a point is known as: ",
     "option": {
@@ -1468,6 +1484,22 @@
     "image": "",
     "answer": "c",
     "solution": "Simple pendulum does not depend on thermal expansion\n\nFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 143,
+    "question": "If an object is placed at a height of tem above the ground at a stationary point. It posses what types of energy?",
+    "option": {
+      "a": "Mechanical energy",
+      "b": "Stationary energy",
+      "c": " Potential energy",
+      "d": "Vibrational energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Energy due to position T is potential energy (P.E)\n\nEnergy due to motion is kinetic energy (K.E)",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3328,6 +3360,22 @@
     "examyear": "2018"
   },
   {
+    "id": 309,
+    "question": "Electrical appliances in homes are normally earthed so that",
+    "option": {
+      "a": "a person touching the appliances is safe from electric shock",
+      "b": "Both the a.c. and d.c. sources can be used",
+      "c": "The appliances are maintained at a higher pd than the earth",
+      "d": "The appliances are maintained at a lower pd than the earth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Earthing protects people from electric shock by providing a safe path for fault currents to flow to ground instead of through a person's body.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 310,
     "question": "The process whereby a liquid turns spontaneously into vapour is called",
     "option": {
@@ -3532,6 +3580,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nMass (m) = 20 kg\nAngle of inclination (θ) = 30°\nEfficiency = 75% = 0.75\ng = 10 m/s²\nEffort (Force) = ?\n\nStep 1: Calculate Load (Total weight)\nLoad = mg\nLoad = 20 × 10 = 200 N\nStep 2: Calculate Velocity Ratio (V.R)\nFor an inclined plane:\nV.R = 1/sin θ = 1/sin 30° = 1/0.5 = 2\nStep 3: Calculate Mechanical Advantage (M.A)\nEfficiency = (M.A / V.R) × 100%\n75 = (M.A / 2) × 100\n75/100 = M.A / 2\nM.A = (75 × 2) / 100\nM.A = 150 / 100 = 1.5\nStep 4: Calculate Force (Effort)\nM.A = Load / Force\n1.5 = 200 / Force\nForce = 200 / 1.5\nForce = 133.3 N",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 326,
+    "question": "The tendency of a body to remain at rest when a force is applied to it is called.",
+    "option": {
+      "a": "Impulse",
+      "b": "Momentum",
+      "c": "Inertia",
+      "d": "Friction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The tendency of a body to remain at rest (or in motion) and resist changes to its state is called inertia. This is Newton's First Law of Motion.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5920,6 +5984,22 @@
     "examyear": "2024"
   },
   {
+    "id": 556,
+    "question": "The friction due to air mass can be reduced by ",
+    "option": {
+      "a": "streaming",
+      "b": "lubricating",
+      "c": "propeller",
+      "d": "polishing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Streaming refers to the streamlined shape of an object, which helps minimize air resistance (drag) as it moves through the air. This is often applied in aerodynamics to improve the efficiency of vehicles and objects moving through air.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 558,
     "question": "When a charged ebonite rod is brought near a charged glass rod, there will be ",
     "option": {
@@ -8016,6 +8096,22 @@
     "examyear": "2007"
   },
   {
+    "id": 758,
+    "question": "I. Use a liquid with a high melting point.\nII. use a liquid of high volume expansivity.\nIII. use a capillary tube of large diameter.\n\nwhich of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced?",
+    "option": {
+      "a": "I only",
+      "b": "II. Only",
+      "c": " I and II only",
+      "d": "II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "High volume expansivity means the liquid expands significantly for a small temperature increase, causing a larger movement of the liquid column. This directly enhances sensitivity",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 760,
     "question": "I. Increase the melting point of the liquid.\nII. Increase the boiling point of the liquid.\nIII. Decrease the melting point of the liquid.\nIV. Decrease the boiling point of the liquid.\n\n\nwhich of the statement above about the effect on increase in pressure in a liquid are correct?",
     "option": {
@@ -8124,6 +8220,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nCharge 1 (Q₁) = 50 µC\nElectric field at point (E₁) = 360 NC⁻¹\nCharge 2 (Q₂) = 120 µC\nDistance and medium remain same\nElectric field due to Q₂ (E₂) = ?\n\nUnderstanding electric field:\nElectric field strength (E) is directly proportional to the charge (Q):\nE ∝ Q (at constant distance and medium)\nFormula:\nE = kQ/r²\nSince k (constant), r (distance), and medium are the same:\nE₁/E₂ = Q₁/Q₂\nSetting up proportion:\n360/E₂ = 50/120\nSolving for E₂:\nE₂ = (360 × 120)/50\nE₂ = 43,200/50\nE₂ = 864 NC⁻¹\nAlternative approach:\nRatio of charges = 120/50 = 2.4\nE₂ = E₁ × 2.4\nE₂ = 360 × 2.4\nE₂ = 864 NC⁻¹",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 771,
+    "question": "The energy E of a photon and its wavelength are related by Eλ = X. The numerical value of X is? [h = 6.63 × 10⁻³⁴ Js, c = 3 × 10⁸ ms⁻¹]",
+    "option": {
+      "a": "6.6 × 10⁻²⁸",
+      "b": "1.99 × 10⁻²⁷",
+      "c": "6.60 × 10⁻²⁶",
+      "d": " 1.99 × 10⁻²⁵"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding photon energy:\nFormula for photon energy:\nE = hf\nwhere:\n\nh = Planck's constant\nf = frequency\n\nRelating frequency and wavelength:\nc = fλ\nTherefore: f = c/λ\nSubstituting into energy equation:\nE = h(c/λ)\nE = hc/λ\nRearranging:\nEλ = hc\nTherefore:\nX = hc\nStep 1: Calculate X\nX = hc\nX = 6.63 × 10⁻³⁴ × 3 × 10⁸\nX = 19.89 × 10⁻³⁴⁺⁸\nX = 19.89 × 10⁻²⁶\nX = 1.989 × 10⁻²⁵\nX ≈ 1.99 × 10⁻²⁵\nUnit check:\nX = hc = (J·s)(m/s) = J·m",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -8844,6 +8956,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432563/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_43_kgsgv7.png",
     "answer": "a",
     "solution": "At melting point there is no change temperature",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 843,
+    "question": "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction?",
+    "option": {
+      "a": "parallel to OX",
+      "b": "parallel to OY",
+      "c": "60° to OX",
+      "d": "60v to OY"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432598/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_44_sije2w.png",
+    "answer": "b",
+    "solution": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave\n\nParticle motion of a string (transverse wave) is parallel to OY (or perpendicular to OX)",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -9804,6 +9932,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nC₁ = 2 μF = 2 × 10⁻⁶ F\nC₂ = 4 μF = 4 × 10⁻⁶ F\nC₃ = 8 μF = 8 × 10⁻⁶ F\nVoltage across each, V = 6 V\nConnection: parallel\n\nSolution:\n\nStep 1: Total capacitance in parallel\nFor parallel combination, total capacitance C = C₁ + C₂ + C₃\nC = (2 + 4 + 8) × 10⁻⁶ F = 14 × 10⁻⁶ F\n\nStep 2: Formula for energy stored in a capacitor\nEnergy stored E = ½ C V²\n\nStep 3: Substitute values\nE = ½ × (14 × 10⁻⁶) × (6)²\nE = ½ × 14 × 10⁻⁶ × 36\n\nStep 4: Simplify\n½ × 36 = 18\nE = 14 × 18 × 10⁻⁶ = 252 × 10⁻⁶ J\n\nStep 5: Express in scientific notation\n252 × 10⁻⁶ = 2.52 × 10⁻⁴ J",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 940,
+    "question": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow.",
+    "option": {
+      "a": " 5 A",
+      "b": " 4 A",
+      "c": "3 A",
+      "d": "2 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "I = E/(R+r)\n= 12/6 = 2A",
     "examtype": "utme",
     "examyear": "2010"
   },
