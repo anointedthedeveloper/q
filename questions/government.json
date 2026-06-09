@@ -224,6 +224,22 @@
     "examyear": "2006"
   },
   {
+    "id": 23,
+    "question": "Democracy was first practiced in ",
+    "option": {
+      "a": "Ghana ",
+      "b": "United States of America ",
+      "c": "Greece ",
+      "d": "Britain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 24,
     "question": "Which of these countries has the highest population in West Africa? ",
     "option": {
@@ -352,6 +368,22 @@
     "examyear": "2007"
   },
   {
+    "id": 42,
+    "question": "The legislature performs the following functions except ",
+    "option": {
+      "a": "determines  the general direction of public policies ",
+      "b": "investigating and monitoring the activities of the officials of government ",
+      "c": "exercises power of appointment of government officials ",
+      "d": "enforcing the law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 47,
     "question": "The French colonial policy of Assimilation  was intended to ",
     "option": {
@@ -359,6 +391,22 @@
       "b": "to make Frenchmen out of African ",
       "c": "to produce well educated Africans ",
       "d": "to prepare Africans for the Olympic Games"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 48,
+    "question": "One of these is not a characteristic  of the state ",
+    "option": {
+      "a": "selection of political leaders ",
+      "b": "a written constitution ",
+      "c": "monopoly of the legitimate use of armed force ",
+      "d": "sovereignty"
     },
     "section": "",
     "image": "",
@@ -1856,6 +1904,22 @@
     "examyear": "2013"
   },
   {
+    "id": 280,
+    "question": "In dividing a country into constituencies, it is important to",
+    "option": {
+      "a": "ask for permission from the traditional ruler in that area",
+      "b": "consider historical",
+      "c": "display the voters register",
+      "d": "involve the politicians in the areas"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 282,
     "question": "The age qualification required for a Nigerian to contest as a Senator is",
     "option": {
@@ -1863,6 +1927,22 @@
       "b": "21",
       "c": "30",
       "d": "40"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 286,
+    "question": "The parties that formed the coalition government in 1960 were ___ and ___",
+    "option": {
+      "a": "AG, NCNC",
+      "b": "AG, NPC",
+      "c": "NCNC.NEPU",
+      "d": "NPC, NCNC"
     },
     "section": "",
     "image": "",
@@ -2235,6 +2315,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 342,
+    "question": "The legislative functions of the government of Benin Kingdom were performed by the",
+    "option": {
+      "a": "Esama",
+      "b": "Ndichie",
+      "c": "Uzama",
+      "d": "Enigie"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -2791,6 +2887,22 @@
       "b": "electioneering campaign",
       "c": "lobbying",
       "d": "memorandum."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 428,
+    "question": "Who was the political head of the Old Oyo Empire?",
+    "option": {
+      "a": "Aremo.",
+      "b": "Oyomesi.",
+      "c": "Alaafin.",
+      "d": "Bashorun."
     },
     "section": "",
     "image": "",
@@ -4656,6 +4768,22 @@
     "examyear": "1989"
   },
   {
+    "id": 711,
+    "question": "With which country did Nigeria break diplomatic relations in 1963 for exploding a nuclear device in the Sahara?",
+    "option": {
+      "a": "The Soviet Union",
+      "b": "The U.S.A",
+      "c": "China",
+      "d": "France"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 714,
     "question": "When there is a conflict between the regional and federal laws under the concurrent legislative list, the",
     "option": {
@@ -4860,6 +4988,22 @@
     "image": "",
     "answer": "b",
     "solution": "The major political parties of the First Republic were largely based on regional and ethnic divisions.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 739,
+    "question": "Public Corporations are mainly funded through __",
+    "option": {
+      "a": "foreign aid",
+      "b": "shareholders fund",
+      "c": " internally generated funds",
+      "d": " government subvention."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Public corporations are mainly funded by government subventions.",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -5212,6 +5356,22 @@
     "image": "",
     "answer": "a",
     "solution": "Delegated legislation allows the executive and agencies to make laws under parliamentary supervision.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 790,
+    "question": "The indirect rule system succeeded in the Hausa-Fulani society because the",
+    "option": {
+      "a": " A society had only one religion",
+      "b": " people received Quranic education",
+      "c": "people were descendants of Uthman dan Fodio",
+      "d": "existing administration favoured the system."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Hausa-Fulani traditional system had a strong hierarchical structure that suited indirect rule.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5840,6 +6000,22 @@
     "examyear": "2020"
   },
   {
+    "id": 879,
+    "question": "In a democracy, sovereignty is in _________",
+    "option": {
+      "a": " the community",
+      "b": " public officials",
+      "c": "judges",
+      "d": "the Head of State"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Democracy is concentrated on the people, the people's ability to exercise power directly or through a representative.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 881,
     "question": "A bill that applies to the whole population and is intended to promote the general welfare is called _________",
     "option": {
@@ -5948,6 +6124,22 @@
     "image": "",
     "answer": "c",
     "solution": "Judicial Committee of Privy Council is the highest court of appeal for British Territories established on 13th, August 1833. The Privy Council served as the final court of appeal for Nigeria during the colonial period and up until the Nigerian Constitution of 1963, when Nigeria established its own Supreme Court as the highest judicial authority in the country.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 905,
+    "question": "Which of the following was the last to win independence from colonial rule ?",
+    "option": {
+      "a": "Cote d'Ivoire",
+      "b": "Algeria",
+      "c": "Tanzania",
+      "d": "Angola"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Angola was the last among the options to gain independence from colonial rule.\n\nCôte d'Ivoire – Gained independence from France in 1960.\nAlgeria – Gained independence from France in 1962 after a long and bloody war.\nTanzania – (Formerly Tanganyika) Gained independence from Britain in 1961, later uniting with Zanzibar in 1964.\nAngola – Gained independence from Portugal in 1975, making it the last among these options.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -6512,6 +6704,22 @@
     "examyear": "2023"
   },
   {
+    "id": 999,
+    "question": "The constitutional amendment process in Nigeria requires the approval of",
+    "option": {
+      "a": "The Independent National Electoral Commission(INEC)",
+      "b": "The National Assembly",
+      "c": "The President",
+      "d": "The Supreme Court"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The constitutional amendment process in Nigeria requires the approval of the National Assembly. The National Assembly, which consists of the Senate and the House of Representatives, has the power to alter the provisions of the constitution. The President, the Supreme Court, and the Independent National Electoral Commission (INEC) do not have the power to approve constitutional amendments.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1004,
     "question": "What is the main source of funding for public corporations in Nigeria?",
     "option": {
@@ -6624,6 +6832,38 @@
     "examyear": "2023"
   },
   {
+    "id": 1016,
+    "question": "The current constitution of Nigeria is based on the model of which country?",
+    "option": {
+      "a": "Germany",
+      "b": "United States",
+      "c": "France",
+      "d": "United Kingdom"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The current constitution of Nigeria is based on the model of the United States. This is evident in the structure of the government, which includes a separation of powers among three branches: the executive, the legislative, and the judicial. This model is similar to the one used in the United States.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1017,
+    "question": "The arm of government responsible for budget approval and oversight is the",
+    "option": {
+      "a": "judiciary",
+      "b": "executive",
+      "c": "administrative",
+      "d": "legislative"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The legislative arm of government is responsible for budget approval and oversight. This is because the legislature has the power of the purse, meaning it is responsible for approving the government's budget and overseeing its implementation to ensure that funds are used as intended.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1021,
     "question": "Which of the following was a significant trade commodity in the pre-colonial Kingdom of Benin?",
     "option": {
@@ -6700,6 +6940,22 @@
     "image": "",
     "answer": "b",
     "solution": "Civil servants are typically protected by the Civil Service Commission. The Civil Service Commission is a government agency that is responsible for the appointment, promotion, and discipline of civil servants.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1038,
+    "question": "The judiciary checks the other arms of government through",
+    "option": {
+      "a": "Judicial recall",
+      "b": " Judicial precedence",
+      "c": " Judicial review",
+      "d": "Judicial oversight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The judiciary checks the other arms of government through judicial review. Judicial review is a process under which executive and legislative actions are subject to review by the judiciary. This is a key aspect of the separation of powers.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -6796,6 +7052,22 @@
     "image": "",
     "answer": "d",
     "solution": "NEPAD stands for New Partnerships for Africa's Development. It is a home-grown African initiative to overcome the age-long obstacles to Africa's development. The body partners with a group of 8 industrialised countries:\n\n1. The Russian Federation\n\n2. Germany\n\n3. France\n\n4 Italy\n\n5. Japan\n\n6. United Kingdom\n\n7. Northern Ireland\n\n8. United States of America\n\n ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1051,
+    "question": "Under the Hausa pre-colonial administration, the office of the Prime Minister is usually occupied by ",
+    "option": {
+      "a": " sarki",
+      "b": " waziri",
+      "c": "galadima",
+      "d": " madawaki"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The waziri, in the Hausa pre-colonial era, was the Prime Minister in charge of all the officials in the palace. ",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -7104,6 +7376,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1109,
+    "question": "Associational interest groups are organized to",
+    "option": {
+      "a": "further the interest of members",
+      "b": "specifically lobby the government",
+      "c": "support the government",
+      "d": "achieve goals affecting other associations."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Associational interest groups are organized to further the interests of members.\n\n\nPressure Groups, or interest groups, are defined as organizations or associations of people who seek to influence government policies and actions and people in authority positions to the benefit of their members. It could also be defined as an organized social interest group formed with the main aim of pursuing its interest and influencing government policies to the benefit of its members.s",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1110,
     "question": "Public opinion is a view that is",
     "option": {
@@ -7360,6 +7648,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1143,
+    "question": "Nigeria's departure from pro-west policy during the Murtala Muhammed regime was as a result of",
+    "option": {
+      "a": "the economic interest of the West in Nigeria",
+      "b": "Nigeria's increased international influence",
+      "c": "the growing trade between Nigeria and the East",
+      "d": "Nigeria's concern for decolonization in Africa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nigeria departure from pro-west policy during the Murata Mohammed regime was a result of Nigeria's concern for decolonization in Africa.\n\nAmong the regime's achievements was its spectacular support for decolonization and self-determination as epitomized by its recognition of Agostino Neto's Popular Movement for the Liberation of Angola (MPLA)",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1144,
     "question": "Delegated legislature becomes unavoidable when",
     "option": {
@@ -7468,6 +7772,22 @@
     "image": "",
     "answer": "a",
     "solution": "The absence of the rule of law in government will bring about human rights abuse.\n\nThis is so as the rule of law refers to the constitutional provision which emphasizes the supremacy of the law, the equality before the law and existence of fundamental human rights.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1159,
+    "question": "Centralization of power is the basic feature of",
+    "option": {
+      "a": "federalism",
+      "b": "a confederation",
+      "c": "a presidential system",
+      "d": "a unitary government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Centralization of power is the basic feature of a Unitary government.\n\nCentralization is the process by which government power is located in a single central authority. The highest degree of centralization is realized where all powers of government are vested in a central authority. The degree of centralization is highest in a unitary state.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -7920,6 +8240,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1213,
+    "question": "The operation of the rule of law is undermined by the",
+    "option": {
+      "a": " unfriendly attitude of pressure groups",
+      "b": "existence of administrative tribunals and special immunities",
+      "c": "conspiracy by the two-houses of the legislature to impeach the president",
+      "d": "inability of the press to discharge its responsibilities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The rule of law is based on the principle that every individual and institution is subject to the same laws, without exceptions. When administrative tribunals operate with less transparency or accountability, or when certain officials enjoy special immunities that shield them from legal accountability, it creates unequal treatment under the law. These exceptions can erode public trust in the legal system by undermining the notion that the law is applied uniformly and fairly.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1214,
     "question": "The type of government operated in Nigeria between October 1st 1979 to December 31st 1983 is called a",
     "option": {
@@ -8112,6 +8448,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1247,
+    "question": "The countries in which Nigeria participated in the ECOMOG peace-keeping operations were",
+    "option": {
+      "a": "Sierra Leone and Cote d'ivoire",
+      "b": "Liberia and Sierra Leone",
+      "c": " Liberia and Guinea",
+      "d": "Senegal and Cote d'ivoire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The countries in which Nigeria participated in the ECOMOG peace-keeping operations were Liberia and Sierra Leone. The ECOMOG helped in restoring democracy in these two countries.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1248,
     "question": "With the admission of Asian and African countries to the Commonwealth, the Queen of England became the",
     "option": {
@@ -8268,6 +8620,22 @@
     "image": "",
     "answer": "d",
     "solution": "The principle of separation of powers was made popular by Baron Montesquieu. He was a french political thinker and Jurist. In his book titled The Spirit of Law, he divided governmental powers into three separate and co-ordinate branches the legislature, Executive and Judiciary.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1269,
+    "question": "An interest group that admits members and conducts its affairs according to stated rules is described as",
+    "option": {
+      "a": "organizational",
+      "b": "associational",
+      "c": "non-associational",
+      "d": "institutional"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An interest group that admits members and conducts its affairs according to stated rules is described as associational",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -8832,6 +9200,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1356,
+    "question": "Equality before the law is a component of",
+    "option": {
+      "a": "separation of powers",
+      "b": " checks and balances",
+      "c": "the rule of law",
+      "d": "constitutional law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\"Equality before the law\" is a core component of the rule of law, which ensures that all individuals and institutions—including the government—are subject to and accountable under the law. This principle mandates that laws are applied impartially, without favoritism or discrimination based on status, wealth, or power.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1358,
     "question": "An example of a country that operates a bicameral legislature is",
     "option": {
@@ -8972,6 +9356,22 @@
     "image": "",
     "answer": "c",
     "solution": "The first military coup in Nigeria occurred on January 15, 1966, led by a group of army officers (including Major Chukwuma Nzeogwu). This coup overthrew the First Republic civilian government headed by Prime Minister Sir Abubakar Tafewa Balewa, who was killed during the coup.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1381,
+    "question": "A major shortcoming of the Lyttelton Constitution was that",
+    "option": {
+      "a": " the Governor-General continued to head the government",
+      "b": "no provision was made for the office of the prime minister",
+      "c": "it failed to provide for the office of a premier",
+      "d": "A major shortcoming of the Lyttelton Constitution was that"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Lyttleton Constitution of 1954, while introducing Nigeria’s first federal structure, faced criticism for failing to establish the office of a Prime Minister at the federal level. Instead, executive authority remained vested in the Governor-General, who chaired the Federal Executive Council and retained veto powers over legislation",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -9180,6 +9580,22 @@
     "image": "",
     "answer": "a",
     "solution": "NAP was the party that did not control any state in the Second Republic. Nigeria Advanced Party (NAP) was not recognized for the 1979 election. The reason was that it was unable to establish branches in 13 states of the federation as stipulated by FEDECO. In the 1983 general elections, which the party contested, it did not win a single seat in all the constituencies.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1413,
+    "question": "Which of the following countries has withdrawn her membership of the ECOWAS",
+    "option": {
+      "a": "Senegal",
+      "b": "Mauritania",
+      "c": "Guinea Bissau",
+      "d": "Burkina Faso"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The economic Community of West African States was formed on may 28, 1975 by fifteen countries and that was Organization, ECOWAS now stands at fifteen, with the withdrawal of Mauritania, one of the founding members.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -9436,6 +9852,22 @@
     "image": "",
     "answer": "a",
     "solution": "Under the colonial system of indirect rule in Nigeria, warrant chiefs were appointed by the British colonial authorities to serve as intermediaries between the colonial government and the indigenous communities. Their primary function was to manage local administration, including tax collection, maintenance of order, and implementation of colonial policies, thus ensuring that the colonial government’s interests were maintained at the local level.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1450,
+    "question": "A state that is ruled by an elected citizen is",
+    "option": {
+      "a": "a republic",
+      "b": "a plutocracy",
+      "c": "a monarchy",
+      "d": "an empire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Republic is defined as a situation or process whereby the people democratically elect their leaders into public or political offices.",
     "examtype": "utme",
     "examyear": "2015"
   },
