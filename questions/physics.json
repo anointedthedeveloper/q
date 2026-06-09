@@ -80,6 +80,22 @@
     "examyear": "2006"
   },
   {
+    "id": 7,
+    "question": "  An electric kettle with negligible heat capacity is rated at 2000W, if 2.0kg of water is put in it, how long will it take temperature of water to rise from 20oC to 100oC? (specific heat capacity of water = 4200J/Kg-1K-1) ",
+    "option": {
+      "a": "336s ",
+      "b": "240s ",
+      "c": " 168s ",
+      "d": "84s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 8,
     "question": " A quantity of ice –10oc is heated until temperature of heating vessel is 90oc. Which of the following constant is NOT required to determine the quantity of heat supplied to the vessel? ",
     "option": {
@@ -1344,6 +1360,22 @@
     "examyear": "2012"
   },
   {
+    "id": 130,
+    "question": "If the volume of a gas is recorded as 76cm³ at a temperature of 27°C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P?",
+    "option": {
+      "a": " 36.2cm³",
+      "b": "25.7cm³",
+      "c": "72.8cm³",
+      "d": "24.3cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nInitial volume (V₁) = 76 cm³\nInitial temperature (T₁) = 27°C = 27 + 273 = 300 K\nInitial pressure (P₁) = 800 mmHg\nFinal conditions: S.T.P (Standard Temperature and Pressure)\n\nFinal temperature (T₂) = 0°C = 273 K\nFinal pressure (P₂) = 760 mmHg\n\n\nFinal volume (V₂) = ?\n\nUsing Combined Gas Law:\n(P₁V₁)/T₁ = (P₂V₂)/T₂\nRearranging to find V₂:\nV₂ = (P₁V₁T₂)/(T₁P₂)\nSubstituting values:\nV₂ = (800 × 76 × 273)/(300 × 760)\nV₂ = (16,588,800)/(228,000)\nV₂ = 72.76 cm³\nV₂ ≈ 72.8 cm³\nAnswer: C. 72.8 cm³",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 131,
     "question": "Boyle’s law may be Written as",
     "option": {
@@ -2384,6 +2416,22 @@
     "examyear": "2017"
   },
   {
+    "id": 233,
+    "question": "Why do soldiers march disorderly while crossing a bridge?",
+    "option": {
+      "a": "To prevent resonance on the bridge",
+      "b": " To set the bridge into resonance",
+      "c": " To make the bridge collapse",
+      "d": "To spread their weight evenly on the bridge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Soldiers march disorderly to prevent resonance, which could cause dangerous oscillations and potential collapse of the bridge.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 234,
     "question": "Calculate the upthrust on an object of volume 50cm³ which is immersed in liquid of density 10³ kgm⁻³ [g = 10ms⁻²]",
     "option": {
@@ -3312,6 +3360,22 @@
     "examyear": "2018"
   },
   {
+    "id": 318,
+    "question": "Calculate the effective capacitance of the circuit in the diagram given",
+    "option": {
+      "a": " 4μf",
+      "b": "3μf",
+      "c": "2μf",
+      "d": "1μf"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611754/ALOC-Questions/Physics/2018/2018_Q_39_zc5gfx.jpg",
+    "answer": "d",
+    "solution": "From the diagram:\n\nThree 2μF capacitors on the left are in parallel\nThis combination is in series with 2μF and 3μF capacitors\n\nStep 1: Calculate equivalent capacitance of parallel capacitors\nThree 2μF capacitors in parallel:\nC_parallel = 2 + 2 + 2 = 6μF\nStep 2: Calculate total capacitance (series combination)\nNow 6μF, 2μF, and 3μF are in series:\nFor series capacitors:\n1/C_T = 1/C₁ + 1/C₂ + 1/C₃\n1/C_T = 1/6 + 1/2 + 1/3\nFinding common denominator (6):\n1/C_T = 1/6 + 3/6 + 2/6\n1/C_T = (1 + 3 + 2)/6\n1/C_T = 6/6 = 1\nTherefore:\nC_T = 1μF",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 320,
     "question": "A pulley system has three pulleys in the fixed block and two in the movable block and if the pulley has an efficiency of 72%, the mechanical advantage of the system is?",
     "option": {
@@ -4208,6 +4272,22 @@
     "examyear": "2020"
   },
   {
+    "id": 412,
+    "question": "The figure above represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40%, then the value of W is",
+    "option": {
+      "a": "28.0N",
+      "b": "48.0N",
+      "c": "288.0N",
+      "d": "50.0N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612693/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_33_eizvpw.jpg",
+    "answer": "d",
+    "solution": "Given information:\n\nLoad (L) = 120.0 N\nEfficiency = 40% = 0.40\nEffort (W) = ?\nFrom diagram: Counting the supporting strings, V.R = 6\n\nStep 1: Calculate Mechanical Advantage (M.A)\nEfficiency = M.A / V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.40 × 6\nM.A = 2.4\nStep 2: Calculate Effort using M.A\nM.A = Load / Effort\nRearranging:\nEffort = Load / M.A\nSubstituting values:\nW = 120.0 / 2.4\nW = 50.0 N",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 413,
     "question": "\nIn an experiment in which molten naphthalene is allowed to cool, the cooling curve in the figure was obtained. The temperature 80°C is known as the",
     "option": {
@@ -4684,6 +4764,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a sound wave goes from a cold air region to a hot air region, its wavelength will increase because sound travels faster in hot air while the frequency remains constant.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 457,
+    "question": "The velocities of light in air and glass are 3.0 × 10⁸ ms⁻¹ and 2.0 × 10⁸ ms⁻¹ respectively. If the angle of refraction is 30°, the sine of the angle of incidence is?",
+    "option": {
+      "a": "0.33",
+      "b": "0.5",
+      "c": "0.67",
+      "d": "0.75"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nVelocity of light in air (v₁) = 3.0 × 10⁸ m/s\nVelocity of light in glass (v₂) = 2.0 × 10⁸ m/s\nAngle of refraction in glass (r) = 30°\nAngle of incidence in air (i) = ?\n\nStep 1: Calculate refractive index of glass relative to air\nn = v₁/v₂ = (3.0 × 10⁸)/(2.0 × 10⁸) = 3/2 = 1.5\nStep 2: Apply Snell's Law\nn₁ sin i = n₂ sin r\nTaking air as medium 1 (n₁ = 1) and glass as medium 2 (n₂ = n = 1.5):\n1 × sin i = 1.5 × sin 30°\nStep 3: Calculate sin i\nsin i = 1.5 × sin 30°\nsin i = 1.5 × 0.5\nsin i = 0.75",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -7452,6 +7548,22 @@
     "image": "",
     "answer": "d",
     "solution": "\nBand Theory: This theory describes the energy levels of electrons in solids as bands. It explains how the bands (valence and conduction bands) determine the electrical properties of materials.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 731,
+    "question": "A certain manufacturer wishes to make an n-type semiconductor. Which materials would he select for doping?",
+    "option": {
+      "a": "boron and antimony",
+      "b": "boron and sodium",
+      "c": "aluminium and indium",
+      "d": "arsenic and antimony"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An n- type semi conductor is usually formed by dopping the semi conductor(a four valent element)with a five valent\nelement.(arsenic and antimony)",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -10828,6 +10940,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nGround state energy, E₁ = -24.8 eV\nLevel number, n = 3\n\nSolution:\n\nStep 1: Energy level formula for hydrogen-like atoms\nFor an atom with a single electron, the energy of the nth level is given by:\nEₙ = E₁ / n²\n\nStep 2: Substitute values\nE₃ = -24.8 eV / 3² = -24.8 / 9 = -2.7556 eV ≈ -2.75 eV",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1079,
+    "question": "In photo-emission, the number of photo-electrons ejected per second depends on the?",
+    "option": {
+      "a": " frequency of the beam",
+      "b": " work function of the metal",
+      "c": "threshold frequency of the metal",
+      "d": " intensity of the beam"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The number of photo-electrons ejected per second depends on the intensity of the beam.",
     "examtype": "utme",
     "examyear": "2013"
   },
