@@ -224,6 +224,22 @@
     "examyear": "2008"
   },
   {
+    "id": 36,
+    "question": "The expression ax2 + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when  x = 5       ",
+    "option": {
+      "a": "10",
+      "b": "12",
+      "c": "6",
+      "d": ".-10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 37,
     "question": "Dividing 2x3 – x2 – 5x + 1 by x  + 3 gives the remainder ",
     "option": {
@@ -398,6 +414,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 71,
+    "question": "What is the coordinate of centre of the circle X2+y2+2x-4y =10?  ",
+    "option": {
+      "a": "(-1,-2)",
+      "b": "( 1, 2)",
+      "c": " (-1, 2) ",
+      "d": " (1, -2)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
   },
   {
     "id": 73,
@@ -716,6 +748,22 @@
     "image": "",
     "answer": "c",
     "solution": "Total cost = N(250,000 + 70,000) = N320,000\nSelling price = N400,000 (given)\nGain = SP - CP = N(400,000 - 320,000) = N80,000\nGain % = gain/CP x 100 = (80,000/320,000) x 100\n\nGain % = 25%",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 130,
+    "question": "If two graphs y = px<sup>2</sup>+ q and y = 2x<sup>2</sup> -1 intersect at x = 2, find the value of p in terms q.",
+    "option": {
+      "a": "(q-8)/7",
+      "b": "(7-q)/4",
+      "c": "(8-q)/2",
+      "d": "(7-q)/8"
+    },
+    "section": "Solution.  <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>y</mi>\n  <mo>=</mo>\n  <mi>p</mi>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <mi>q</mi>\n  <mtext mathcolor=\"red\">\\y</mtext>\n  <mo>=</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2212;</mo>\n  <mn>1</mn>\n  <mspace linebreak=\"newline\"></mspace>\n  <mi>R</mi>\n  <mi>i</mi>\n  <mi>g</mi>\n  <mi>h</mi>\n  <mi>t</mi>\n  <mi>a</mi>\n  <mi>r</mi>\n  <mi>r</mi>\n  <mi>o</mi>\n  <mi>w</mi>\n  <mi>p</mi>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <mi>q</mi>\n  <mo>=</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2212;</mo>\n  <mn>1</mn>\n  <msup>\n    <mtext mathcolor=\"red\">\\px</mtext>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>=</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2212;</mo>\n  <mn>1</mn>\n  <mo>&#x2212;</mo>\n  <mi>q</mi>\n  <mtext mathcolor=\"red\">\\p</mtext>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>2</mn>\n      <msup>\n        <mi>x</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;</mo>\n      <mi>q</mi>\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <msup>\n      <mi>x</mi>\n      <mrow data-mjx-texclass=\"ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mtext mathcolor=\"red\">\\At</mtext>\n  <mspace width=\"1mm\"></mspace>\n  <mi>x</mi>\n  <mo>=</mo>\n  <mn>2</mn>\n  <mtext mathcolor=\"red\">\\p</mtext>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mn>2</mn>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo stretchy=\"false\">)</mo>\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n      <mo>&#x2212;</mo>\n      <mi>q</mi>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <msup>\n      <mn>2</mn>\n      <mrow data-mjx-texclass=\"ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mtext mathcolor=\"red\">\\p</mtext>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>8</mn>\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n      <mo>&#x2212;</mo>\n      <mi>q</mi>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>4</mn>\n  </mfrac>\n  <mtext mathcolor=\"red\">\\=</mtext>\n  <mfrac>\n    <mrow>\n      <mn>7</mn>\n      <mo>&#x2212;</mo>\n      <mi>q</mi>\n    </mrow>\n    <mn>4</mn>\n  </mfrac>\n</math>                                             ",
+    "image": "",
+    "answer": "b",
+    "solution": "\n\tY = px <sup>2</sup> + q/5 = 2x<sup>2</sup> - 1 Right arrow px<sup>2</sup> + q = 2x<sup>2</sup> - 1\\px<sup>2</sup> = 2x<sup>2</sup> - 1 – q\\p = (2x<sup>2</sup> - q – 1) / x<sup>2</sup> \\ Atx = 2\\p = [(2(2<sup>2</sup>) – 1 – q)]/ 2<sup>2</sup> \\ p = [(8 – 1- q)]/ 4 \\ = ( 7 – q ) / 4                                                                                 ",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -1456,6 +1504,22 @@
     "examyear": "2003"
   },
   {
+    "id": 236,
+    "question": "The length a person can jump is inversely proportional to his weight. If a 20 kg person can jump 1.5 m, find the constant of proportionality",
+    "option": {
+      "a": "60",
+      "b": "30",
+      "c": "20",
+      "d": "15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "L ∝ 1/W\nL = K/W\nK = WL\n= 1.5 * 20\n30",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 237,
     "question": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0",
     "option": {
@@ -1968,6 +2032,22 @@
     "examyear": "2004"
   },
   {
+    "id": 321,
+    "question": "the graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?",
+    "option": {
+      "a": " 68%",
+      "b": "28%",
+      "c": "17%",
+      "d": "8%"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710701242/ALOC-Questions/Mathematics/2004/math_2004_q50_hjerct.jpg",
+    "answer": "b",
+    "solution": "% of students scoring more than 20 marks\n\n= \n \n 7/25 x 100% = 28%",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 326,
     "question": "Three boys shared some oranges. The first received 1/3 of the oranges and the second received 2/3 of the remaining. If the third boy received the remaining 12 oranges, how many oranges did they share",
     "option": {
@@ -1996,6 +2076,22 @@
     "image": "",
     "answer": "b",
     "solution": "(81<sup>(3/4)</sup> - 27<sup>(1/3)</sup>)/(3×2<sup>3</sup> )=((3<sup>(3-3/4)</sup>-33<sup>(3-3/4)</sup>))/(3×2<sup>3</sup> )=(3<sup>3</sup> -3)/(3 ×8) = (27 - 3 ) / 24 = 24/24 = 1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 329,
+    "question": "Simplify ((√12-√3))/((√12+√3))",
+    "option": {
+      "a": "zero",
+      "b": "1/3",
+      "c": "3/5",
+      "d": "1"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo stretchy=\"false\">&#x221A;</mo>\n      </mrow>\n      <mn>12</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo stretchy=\"false\">&#x221A;</mo>\n      </mrow>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo stretchy=\"false\">&#x221A;</mo>\n      </mrow>\n      <mn>12</mn>\n      <mo>+</mo>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo stretchy=\"false\">&#x221A;</mo>\n      </mrow>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "((√12-√3))/((√12+√3))=(√(4×3)-√3)/(√(4×3)+√3)=(2√3-√3)/(2√3+√3)=√3/(3√3)=1/3",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -2304,6 +2400,22 @@
     "examyear": "2006"
   },
   {
+    "id": 378,
+    "question": "The pie chart above shows the expenditure of a family whose income is N30,000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food?",
+    "option": {
+      "a": "N 28 000",
+      "b": "N 25 500",
+      "c": "N15 000s",
+      "d": "N 12 500s"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542610/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q7_zufgaf.jpg",
+    "answer": "d",
+    "solution": "Expenditure on housing = x\nExpenditure on food = 2x\nExpenditure on school fees = 90o\nExpenditure on transport = 45o\nx + 2x + 90 + 45 = 360o\n3x + 135 = 360o\n3x = 360 - 135\n3x = 225\nx = 225/3 = 75o\n∴∠ for food = 2x = 2 * 75\n= 150\n360o = N30,000\n1o = ?\n1o = 30,000/360\n150o = (30000/360) * (150/1)\n= N12500",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 379,
     "question": "For what of n is <sup>n+1</sup> C<sub>3</sub> = 4(<sup> n</sup>C<sub>3</sub>)?",
     "option": {
@@ -2412,6 +2524,22 @@
     "image": "",
     "answer": "b",
     "solution": "110011<sub>2</sub> + 11111<sub>2</sub> = 1010010<sub>2</sub>",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 394,
+    "question": "Simplify (25)<sup>-1/2 </sup>x (27)<sup>1/3</sup>+ (121)<sup>-1/2</sup> x (625)<sup>-1/4</sup>",
+    "option": {
+      "a": "34/55",
+      "b": "9/11",
+      "c": "14/5",
+      "d": "3/275"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "25)<sup>-1/2</sup> x (27)<sup>-1/3</sup> + (121)<sup>-1/2</sup> x (625)<sup>2</sup>-1/4\n5<sup>2x-1/2</sup> x 3<sup>3x1/3</sup> + 11<sup>2x-1/2</sup> x 5<sup>4x-1/4</sup>\n5<sup>-1</sup> x 3<sup>1</sup> x 11<sup>-1</sup> x 5<sup>-1</sup>\n1/5 x 3/1 + 1/11 x 1/5\n3/5 + 1/5 = (33+1)/55\n=34/55",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -2528,6 +2656,22 @@
     "examyear": "2006"
   },
   {
+    "id": 405,
+    "question": "In the diagram above, PQ = 10 cm, PS = 8 cm and ∠PSR is 60o while ∠SRQ is a right angle. Find SR",
+    "option": {
+      "a": "14 cm",
+      "b": "14√3 cm",
+      "c": "10 cm",
+      "d": "10√3 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542791/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q35_tsamyg.jpg",
+    "answer": "a",
+    "solution": "In ΔPST; cos 60 = ST/8\nST = 8cos 60\nST = 8 x 1/2 = 4\nTR = 10 cm (opp. sides of a rectangle PQRT)\nSR = ST + TR\nSR = 4 + 10\nSR = 14 cm",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 407,
     "question": "A binary operation θ defined on the set of real number is such that xθy = xy/6 for all x, y ∈ R. Find the inverse of 20 under this operation when the identity element is 6",
     "option": {
@@ -2556,6 +2700,22 @@
     "image": "",
     "answer": "d",
     "solution": "Cost of removing a 6m2 room = N540\nCost of renovating a 1m2 room = 540 / 6\nCost of removing a 9m2 room\n= (540 / 6) * 9\n= N810",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 413,
+    "question": "The sum of the first n positive integers is",
+    "option": {
+      "a": "1/2 n(n-1)",
+      "b": " n(n+1)",
+      "c": "n(n-1)",
+      "d": "1/2 n(n-1)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let the positive integers be 1, 2, ,3, 4, .....n\n∴ a = 1, d = 1 and n = n\nSn = n/2(2a + (n-1)d)\n= n/2 (2 + n – 1)\n= 1/2n(n + 1)",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -2604,6 +2764,38 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715544932/ALOC-Questions/Mathematics/2007/JAMB_2007_Q6_e3isnq.jpg",
     "answer": "b",
     "solution": "P(At least 11 yrs) = P(11yrs) + P(12yrs)\n= 27/40 + 7/40\n= 34/40\n= 17/20",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 428,
+    "question": "What is the mean deviation of 3, 5, 8, 11, 12 and 21?",
+    "option": {
+      "a": "4.7",
+      "b": "60",
+      "c": " 3.7",
+      "d": " 10"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715544958/ALOC-Questions/Mathematics/2007/JAMB_2007_Q7_lqji4p.jpg",
+    "answer": "a",
+    "solution": " =¯x=60/6=10=(∑|x-¯x|)/n=28/6                       = 4.7",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 435,
+    "question": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is",
+    "option": {
+      "a": "3/4",
+      "b": "-9/2",
+      "c": "45/4",
+      "d": " -3/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x⊕y = xy + x + y\n= -3/4 (6) + (-3/4) + 6\n= -9/2 - 3/4 + 6\n= (-18-3+3+24) / 4\n= 3/4",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -4032,6 +4224,22 @@
     "examyear": "2011"
   },
   {
+    "id": 663,
+    "question": "Find the probability that a number picked at random from the set(43, 44, 45, ..., 60) is a prime number.",
+    "option": {
+      "a": "2/3",
+      "b": "1/3",
+      "c": "2/9",
+      "d": "7/9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Prime numbers = (43,47,53,59)\n\nN = (43, 44, 45,..., 60)\n\nThe universal set contains 18 numbers.\n\nThe prime numbers between 43 and 60 are 4\n\nProbability of picking a prime number = 4/18\n\n= 2/9",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 664,
     "question": "Find the derivative of sinθ/cosθ",
     "option": {
@@ -4348,6 +4556,22 @@
     "image": "",
     "answer": "b",
     "solution": "Area of sector = θ/360° × πr<sup2</sup>\n= 150/360 × π × 12<sup>2</sup>\n= 60π cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 767,
+    "question": "A man stands on a tree 150 cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree.",
+    "option": {
+      "a": "52 cm",
+      "b": "43 cm",
+      "c": "40 cm",
+      "d": "15 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "AB∧D = BD∧C = 74°                  DC=150/tan74°                     =150/3.4874         DC≈43cm",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -5296,6 +5520,22 @@
     "examyear": "2017"
   },
   {
+    "id": 919,
+    "question": "In a class of 40 students, 32 offer Mathematics, 24 offer Physics and 4 offer neither Mathematics nor Physics. How many offer both Mathematics and Physics?",
+    "option": {
+      "a": "4",
+      "b": "8",
+      "c": "16",
+      "d": "20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let the number of people that offer both Mathematics and Physics = y\n\nThen, (32−y)+y+(24−y)+4=40\n60−y=40⟹y=20\n∴\n20 students offer both Mathematics and Physics.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 922,
     "question": "A trader realises 10x - x<sup>2</sup>\nNaira profit from the sale of x bags of corn. How many bags will give him the maximum profit?",
     "option": {
@@ -5504,6 +5744,22 @@
     "examyear": "2018"
   },
   {
+    "id": 953,
+    "question": "Express 495g as a percentage of 16.5kg",
+    "option": {
+      "a": "3%",
+      "b": "3(1/3)%",
+      "c": "15%",
+      "d": "30%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The two numbers must be expressed in the same unit. To convert 495g to kg, it will be divided by 1000\n\n 495g = 495/1000\n = 0.495kg\n\n To express in percentage, 0.495 will be divided by 16.5 and then multiplied by 100\n\n  % will be added to the answer 0.4950/16.5\n x 100\n\n  = 3%",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 954,
     "question": "Evaluate (2√3 - 4) (2√3 + 4) ",
     "option": {
@@ -5692,6 +5948,38 @@
     "image": "",
     "answer": "d",
     "solution": "(2/3÷4/5)/(1/4+3/5-1/3).  2/3÷4/5=2/3×5/4 = 5/6                         1/4+3/5-1/3=(15+36-20)/60 = 31/60  ∴ ∴(2/3÷4/5)/(1/4+3/5-1/3)=5/6÷31/60 = 5/6 x 60/31 = 50/31",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 979,
+    "question": "If a fair coin is tossed 3 times, what is the probability of getting at least two heads?",
+    "option": {
+      "a": "2/3",
+      "b": "4/5",
+      "c": "2/5",
+      "d": "1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The outcomes are {HHH, HHT, HTT, HTH, THH, THT, TTH, TTT}\n\nP(at least two heads) = 48\n= 12",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 980,
+    "question": "In how many ways can the word MATHEMATICIAN be arranged?",
+    "option": {
+      "a": " 6794800 ways",
+      "b": "2664910 ways",
+      "c": " 6227020800 ways",
+      "d": " 129729600 ways"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "MATHEMATICIAN = 13 letters with 2M, 3A, 2T, 2I.\n\nHence, the word MATHEMATICIAN can be arranged in 13!/2!3!2!2!\n= 129729600 ways",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -6512,6 +6800,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1113,
+    "question": "Find the determinant of the matrix A = (2133)",
+    "option": {
+      "a": " 4",
+      "b": "2 ",
+      "c": "5",
+      "d": "3"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007576/ALOC-Questions/Mathematics/2022/JAMB_MATH_2022_Q17_sbc8oo.jpg",
+    "answer": "d",
+    "solution": "|A| = (2*3) - (1*3)\n\n→ 6 - 3\n\n= 3",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1114,
     "question": "Evaluate Log<sub>2</sub> 8√2",
     "option": {
@@ -7216,6 +7520,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1218,
+    "question": "Evaluate ∫sin2xdx",
+    "option": {
+      "a": "cos 2x + k",
+      "b": "1/2cos 2x + k",
+      "c": "−1/2\ncos 2x + k",
+      "d": " -cos 2x + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫sin2xdx =1/2(−cos2x) + k\n\n\n−1/2cos2x + k",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1219,
     "question": "Evaluate ∫(2x+3)<sup>(1/2)</sup> δx",
     "option": {
@@ -7408,6 +7728,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1239,
+    "question": "If three staff of Myschool Limited agreed to share their salary arrears in the ration of their ages, which are 18 years, 20 years, 22 years respectively. If the sum of the money collected is N120,000.00K, How much does the second staff received?",
+    "option": {
+      "a": "N36,000",
+      "b": "N44,000",
+      "c": "N40,000",
+      "d": " N15,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Total of their ages: 18 + 20 + 22 = 60\n\nThe second staff will get 20/60 × 120,000\n= N40,000.00K",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1240,
     "question": "X and Y are two sets such that n(X) = 15, n(Y) = 12 and n{X ∩ Y} = 7. Find ∩{X ∪ Y}",
     "option": {
@@ -7420,6 +7756,22 @@
     "image": "",
     "answer": "d",
     "solution": "n(X ∪ Y) = n(X) + n(Y) − n(X ∩ Y)\n\n= 15 + 12 − 7\n\n∴ n(X ∪ Y) = 20",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1242,
+    "question": "Simplify log<sub>10</sub> 1.5 + 3 log<sub>10</sub> 2 − log<sub>10</sub> 0.3",
+    "option": {
+      "a": "log<sub>10</sub>4",
+      "b": "log<sub>10</sub>40",
+      "c": "log<sub>10</sub>-40",
+      "d": "log<sub>10</sub>4<sup>-</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "log<sub>10</sub>1.5 + 3 log<sub>10</sub>2 − llog<sub>10</sub>0.3\n\nlog<sub>10</sub>1.5 +log<sub>10</sub>23 −log<sub>10</sub>0.3\n\n[log<sub>10</sub>(1.5 × 23) ÷log<sub>10</sub>0.3]\n\n[log<sub>10</sub>(15/10 × 8 ) ÷ log10( 3/10)]\n\nlog<sub>10</sub>(15/10 × 8 × 10/3 )\n\nlog<sub>10</sub>40",
     "examtype": "utme",
     "examyear": "2015"
   },
