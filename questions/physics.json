@@ -1408,6 +1408,22 @@
     "examyear": "2012"
   },
   {
+    "id": 124,
+    "question": "A coin is at the bottom of a bucket filled with a liquid whose refractive index is 1.35. The coin appears to be 12.0cm below the surface of the liquid. Calculate the depth of the liquid.",
+    "option": {
+      "a": "16.2cm  ",
+      "b": "13.4cm  ",
+      "c": "8.9cm  ",
+      "d": "5.4cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 125,
     "question": "A 3.0cm object is placed 12.0cm in front of bi-convex lens of focal length 8.0cm. Calculate the height of the image of the object.  ",
     "option": {
@@ -4848,6 +4864,22 @@
     "examyear": "2021"
   },
   {
+    "id": 424,
+    "question": "The motion of a body is simple harmonic if the?",
+    "option": {
+      "a": "acceleration is always directed towards a fixed point",
+      "b": "path of motion is a straight line",
+      "c": "acceleration is proportional to the square of the distance from a fixed point",
+      "d": "acceleration is constant and directed towards a fixed point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In simple harmonic motion, the acceleration of the particle is directed towards its mean position and directly proportional to its displacement.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 425,
     "question": "Which of the following is not correct about the molecules of a substance in a gaseous state. They?",
     "option": {
@@ -7056,6 +7088,22 @@
     "examyear": "2004"
   },
   {
+    "id": 632,
+    "question": "What happens to the rays in a parallel beam of light?",
+    "option": {
+      "a": "They diverge as they travel",
+      "b": "they intersect",
+      "c": "They converge as they travel",
+      "d": "They meet at infinity."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In Euclidean geometry, parallel lines are defined as lines that meet at a point at infinity. This is a theoretical concept - parallel rays maintain their separation in physical space but are considered to meet at an infinitely distant point.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 633,
     "question": "A ray of light makes an angle of 35o with a plane mirror. What is the angle of reflection?",
     "option": {
@@ -7356,6 +7404,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nSpeed of proton, v = 1.0 × 10⁶ ms⁻¹\nMagnetic field, B = 1.0 T\nMagnetic force, F = 8.0 × 10⁻¹⁴ N\nCharge of proton, q = 1.6 × 10⁻¹⁹ C\nAngle between velocity and field, θ = ?\n\nSolution:\nStep 1: Formula for magnetic force\nFormula: F = qvB sin θ\nWhere:\n\nF = magnetic force\nq = charge\nv = velocity\nB = magnetic field\nθ = angle between velocity and field\n\nStep 2: Rearrange for sin θ\nsin θ = F/(qvB)\nStep 3: Substitute values\nsin θ = (8.0 × 10⁻¹⁴)/[(1.6 × 10⁻¹⁹) × (1.0 × 10⁶) × (1.0)]\nsin θ = (8.0 × 10⁻¹⁴)/(1.6 × 10⁻¹³)\nsin θ = 8.0/16\nsin θ = 0.5\nStep 4: Find angle\nθ = sin⁻¹(0.5)\nθ = 30°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 660,
+    "question": "When impurities are added to semi-conductors, the conductivity of the semi-conductor",
+    "option": {
+      "a": "increases then decreases",
+      "b": "increases",
+      "c": "decreases",
+      "d": " remains constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When impurities are added to semi conductor , the semi conductor is said to be doped, and increases the conductivity of the semi-conductor.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -11888,6 +11952,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1061,
+    "question": "What is the velocity of sound at 100 °C if the velocity of sound at 0 °C is 340 m s⁻¹?",
+    "option": {
+      "a": " 497 m s⁻¹",
+      "b": "440 m s⁻¹",
+      "c": "397 m s⁻¹",
+      "d": " 240 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nVelocity at 0 °C, v₀ = 340 m s⁻¹\nTemperature T₁ = 0 °C = 273 K\nTemperature T₂ = 100 °C = 373 K\n\nSolution:\n\nStep 1: Relationship between velocity and absolute temperature\nFor sound in air, velocity v ∝ √T, where T is absolute temperature.\nThus, v₂ / v₁ = √(T₂ / T₁)\n\nStep 2: Substitute values\nv₂ / 340 = √(373 / 273)\n\nStep 3: Calculate the ratio\n373 / 273 ≈ 1.3663\n√1.3663 ≈ 1.169\n\nStep 4: Compute v₂\nv₂ = 340 × 1.169 ≈ 397.5 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1063,
     "question": "A man 1.5m tall is standing 3m in front of a pinhole camera whose distance between the hole and the screen is 0.1m. What is the height of the image of the man on the screen?",
     "option": {
@@ -12240,6 +12320,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1093,
+    "question": "A force of 500 N is applied to a steel wire of cross‑sectional area 0.2 m². The tensile stress is",
+    "option": {
+      "a": "2.5 × 10⁴ N m⁻²",
+      "b": "1.0 × 10² N m⁻²",
+      "c": " 1.0 × 10³ N m⁻²",
+      "d": " 2.5 × 10³ N m⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nForce, F = 500 N\nCross‑sectional area, A = 0.2 m²\n\nSolution:\n\nStep 1: Formula for tensile stress\nTensile stress σ = Force / Area = F / A\n\nStep 2: Substitute the values\nσ = 500 N / 0.2 m² = 2500 N m⁻²\n\nStep 3: Express in scientific notation\n2500 N m⁻² = 2.5 × 10³ N m⁻²",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1094,
     "question": "The small droplets of water that form on the grass in the early hours of the morning is",
     "option": {
@@ -12412,6 +12508,22 @@
     "image": "",
     "answer": "d",
     "solution": "Solenoid method: This involves placing the magnet inside a solenoid (an electromagnet) and gradually reducing the current. It provides a controlled environment for effective demagnetization.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1114,
+    "question": "When an atom undergoes a beta decay, the atomic number of the nucleus",
+    "option": {
+      "a": "Remains unchanged",
+      "b": "Decreases by one",
+      "c": "Increases by one",
+      "d": "Becomes zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The atomic number (number of protons) increases by one because a neutron is replaced by a proton. The mass number remains the same.",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -12796,6 +12908,22 @@
     "image": "",
     "answer": "d",
     "solution": "Food stores energy in chemical bonds, released during metabolism.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1151,
+    "question": "What magnitude of electric current can store 2.5 J of energy in a 3 H induction coil?",
+    "option": {
+      "a": "1.29 A",
+      "b": " 2.48 A",
+      "c": " 5.00 A",
+      "d": "3.66 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nEnergy stored, E = 2.5 J\nInductance, L = 3 H\n\nSolution:\n\nStep 1: Formula for energy stored in an inductor\nE = ½ × L × I²\n\nStep 2: Rearrange to find current\nI² = 2E / L\nI = √(2E / L)\n\nStep 3: Substitute values\nI = √(2 × 2.5 / 3) = √(5 / 3) = √1.6667\n\nStep 4: Calculate\n√1.6667 ≈ 1.29 A",
     "examtype": "utme",
     "examyear": "2025"
   },
