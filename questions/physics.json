@@ -9376,6 +9376,22 @@
     "examyear": "2004"
   },
   {
+    "id": 620,
+    "question": "In the diagram above, the ratio of he electric power dissipated in the 6Ω and the 3Ω resistor respectively is",
+    "option": {
+      "a": "2:1",
+      "b": "2:2",
+      "c": "1:3",
+      "d": "1:2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774291728/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_21_avkvtt.png",
+    "answer": "d",
+    "solution": "Circuit analysis:\nThe two resistors are connected in parallel across the 12V battery.\nStep 1: Voltage across each resistor\nIn a parallel circuit, voltage across each resistor is the same:\n\nV₁ = V₂ = 12 V\n\nStep 2: Power dissipated in each resistor\nFormula: P = V²/R\nPower in 6Ω resistor:\nP₁ = V²/R₁ = (12)²/6 = 144/6 = 24 W\nPower in 3Ω resistor:\nP₂ = V²/R₂ = (12)²/3 = 144/3 = 48 W\nStep 3: Calculate ratio\nRatio P₁ : P₂ = 24 : 48\nRatio P₁ : P₂ = 1 : 2",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 621,
     "question": "If the angle between two vectors P and Q is 0°, the vectors are said to",
     "option": {
@@ -10828,6 +10844,22 @@
     "image": "",
     "answer": "a",
     "solution": "The phase difference of 90° means voltage and current are in quadrature. The capacitor stores energy when charging and returns it when discharging, resulting in zero net power consumption.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 714,
+    "question": "The electrolyte in the Nickei-iron (Nife) accumulator is",
+    "option": {
+      "a": " potassium hydroxide solution",
+      "b": "dilute tetraoxosulphate(VI)acid",
+      "c": "copper tetraoxosulphate(VI)solution",
+      "d": "ammonium chloride solution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The NiFe battery uses an alkaline electrolyte, specifically potassium hydroxide (KOH) solution, which:\n\nProvides ionic conductivity\nRemains chemically stable during charging/discharging\nAllows the battery to be robust and long-lasting",
     "examtype": "utme",
     "examyear": "2006"
   },
