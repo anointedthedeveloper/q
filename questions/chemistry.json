@@ -10896,6 +10896,22 @@
     "examyear": "2024"
   },
   {
+    "id": 718,
+    "question": "Silver and Gold are metals found as free uncombined elements in the earth's crust, which makes them to be referred to as",
+    "option": {
+      "a": "corrosive metals",
+      "b": "reactive metals",
+      "c": "natural metals",
+      "d": "noble metals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Silver and gold are called noble metals because they occur naturally in the free (uncombined) elemental state in the earth's crust. They are unreactive and resist corrosion and oxidation. The term \"noble\" reflects their low chemical reactivity and their position at the bottom of the electrochemical/reactivity series.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 719,
     "question": "In the extraction of Aluminium, the silica impurity is removed by",
     "option": {
@@ -12044,6 +12060,22 @@
     "image": "",
     "answer": "b",
     "solution": "The structure is CH₃-C≡C-CH(CH₃)-CH₃. The longest chain containing the triple bond has 5 carbons (pentyne). Numbering from the end nearer the triple bond: C1=CH₃, C2≡C3, C4=CH with a CH₃ branch, C5=CH₃. The triple bond is at C2 and the methyl branch is at C4. IUPAC name: 4-methylpent-2-yne.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 794,
+    "question": "In the laboratory preparation of oxygen using potassium trioxochlorate(V), tetraoxomanganate(VII) is usually not recommended in modern laboratory because",
+    "option": {
+      "a": "it forms explosive mixture with carbonaceous materials",
+      "b": "it is explosive",
+      "c": "it reacts with the catalyst",
+      "d": "it is hazardous"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Potassium trioxochlorate(V) (KClO₃) is a strong oxidizing agent. When mixed with carbonaceous or organic materials (such as rubber, grease, or carbon), it can form highly explosive mixtures. This safety hazard is the specific reason it is no longer recommended for routine laboratory use.",
     "examtype": "utme",
     "examyear": "2025"
   }
