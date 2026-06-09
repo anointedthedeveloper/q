@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 10,
+    "question": "One example of inland drainage lake in  Africa is  ",
+    "option": {
+      "a": "Lake Chad ",
+      "b": "Lake Victoria ",
+      "c": "Lake Malawi ",
+      "d": "Lake Turkana"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 11,
     "question": "The African river that crosses the equator twice is  ",
     "option": {
@@ -320,6 +336,22 @@
     "examyear": "2007"
   },
   {
+    "id": 45,
+    "question": "Which of the following is correct?  ",
+    "option": {
+      "a": "The Canaries current is cold and washes the coast of NE Africa  ",
+      "b": "The Peruvian current is warm and washes the West coast of America  ",
+      "c": "The Gulf stream is warm and moves north eastward on the Atlantic  ",
+      "d": "The middle east current is warm and washes the coast of Saudi Arabia "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 47,
     "question": "Oxbow lakes are found in  ",
     "option": {
@@ -528,6 +560,22 @@
     "examyear": "2009"
   },
   {
+    "id": 78,
+    "question": "Which of these economic activities is LEAST characteristics of typical urban centres?  ",
+    "option": {
+      "a": "Commerce ",
+      "b": "quarrying  ",
+      "c": "transportation  ",
+      "d": "manufacturing "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 84,
     "question": "The dawn is a temperature grassland found in? ",
     "option": {
@@ -672,6 +720,22 @@
     "examyear": "2010"
   },
   {
+    "id": 101,
+    "question": "Campos is the name for the grassland in  ",
+    "option": {
+      "a": "North America  ",
+      "b": "South America  ",
+      "c": "Africa  ",
+      "d": "Asia "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 104,
     "question": "A degree latitudinal distance is approximately ",
     "option": {
@@ -683,6 +747,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 105,
+    "question": "Large masswa of moving ice in the oceans are  ",
+    "option": {
+      "a": "glacier  ",
+      "b": "iceberg  ",
+      "c": "ice-sheet  ",
+      "d": "ice-caps"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 107,
+    "question": "A line joining places of equal salinity is  ",
+    "option": {
+      "a": "isohaline  ",
+      "b": "Isoneph  ",
+      "c": "Isohyets  ",
+      "d": "Isohel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -727,6 +823,22 @@
       "b": "coral reef ",
       "c": "continental shelf  ",
       "d": "continental platform  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 112,
+    "question": "The result of football match completed at 6.00p.m. at Accra (Ghana) and immediately announced over the wireless was heard at 12.00noon same day at another city. The longitude of the city is ",
+    "option": {
+      "a": "900E  ",
+      "b": "600E  ",
+      "c": "900W  ",
+      "d": "450W "
     },
     "section": "",
     "image": "",
@@ -816,6 +928,22 @@
     "examyear": "2011"
   },
   {
+    "id": 119,
+    "question": "Desert soils are usually deficient in ",
+    "option": {
+      "a": "fertility  ",
+      "b": "humus content ",
+      "c": "horizon ",
+      "d": "light grey colour   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 122,
     "question": "The wearing away of the sides and bottom of a river channel is called ",
     "option": {
@@ -843,6 +971,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 129,
+    "question": "An instrument used in measuring the atmospheric pressure is called ",
+    "option": {
+      "a": "Barometer ",
+      "b": "Thermomete",
+      "c": "Hygrometer",
+      "d": "Presometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -971,6 +1115,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 148,
+    "question": "Akosomo dam is on the River  ",
+    "option": {
+      "a": "Niger  ",
+      "b": "Nile  ",
+      "c": "Congo  ",
+      "d": "Volta"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1184,6 +1344,22 @@
     "examyear": "2013"
   },
   {
+    "id": 184,
+    "question": "The cheapest means of transport for a long distance travel is by   ",
+    "option": {
+      "a": "Air   ",
+      "b": "Rail",
+      "c": "Water   ",
+      "d": "Road"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 185,
     "question": "A traveler crossing the international Date line from America to Asia at 1.00 P.M. on Saturday, July 13th, 2013, would have to change his watch to 1.00 P.m. on",
     "option": {
@@ -1198,6 +1374,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
+  },
+  {
+    "id": 191,
+    "question": "The longest river in Africa is:  ",
+    "option": {
+      "a": "River Nile. ",
+      "b": "River Niger. ",
+      "c": "River Benue",
+      "d": "River Zambezi "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
   },
   {
     "id": 192,
@@ -1275,6 +1467,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 200,
+    "question": "A lake is a:   ",
+    "option": {
+      "a": "Large body of water surrounded by forest. ",
+      "b": "Large body of water surrounded by land. ",
+      "c": "Large body of water surrounded by rocks",
+      "d": "Large body of water surrounded by water. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 202,
+    "question": "An island is a:   ",
+    "option": {
+      "a": "Piece of land surrounded by water.   ",
+      "b": "Piece of land surrounded by land. ",
+      "c": "Piece of land surrounded by forest. ",
+      "d": "Piece of land surrounded by rocks. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme-aaua",
     "examyear": "2014"
@@ -1488,6 +1712,22 @@
     "examyear": "2014"
   },
   {
+    "id": 234,
+    "question": "Crude oil is ------------  rock mineral   ",
+    "option": {
+      "a": "An igneous   ",
+      "b": "A sedimentary  ",
+      "c": "A metamorphic  ",
+      "d": "A plutonic  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 235,
     "question": "The new name of Calicut, a famous city of Kerala is ",
     "option": {
@@ -1502,6 +1742,22 @@
     "solution": "",
     "examtype": "post-utme-aaua",
     "examyear": "2014"
+  },
+  {
+    "id": 237,
+    "question": "Which of these is a textual classification of soils?",
+    "option": {
+      "a": "Rounded, Irregular, and Flat",
+      "b": "Angular, Prismatic and Columnar",
+      "c": "Rounded, Pebbles, and Silt",
+      "d": "Angular, Sand, and Clay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
   },
   {
     "id": 240,
@@ -1547,6 +1803,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 247,
+    "question": "Which of the following towns is NOT a pre-colonial town?",
+    "option": {
+      "a": "Enugu",
+      "b": "Ibadan",
+      "c": "Illorin",
+      "d": "Bida"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -2032,6 +2304,22 @@
     "examyear": "2018"
   },
   {
+    "id": 329,
+    "question": "The annual temperature range at the station is",
+    "option": {
+      "a": "20°C",
+      "b": "30°C",
+      "c": "40°C",
+      "d": "10°C"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582572/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_13_and_14_mmzw7p.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 330,
     "question": "What type of climate has the station?",
     "option": {
@@ -2091,6 +2379,38 @@
     "section": "",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582572/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_17_and_18_bmtfhg.jpg",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 335,
+    "question": "The most extensive vegetation type in the are marked Z is the",
+    "option": {
+      "a": "Mangrove swamp",
+      "b": "Coastal thicket",
+      "c": "Fresh water swamp",
+      "d": "Guinea savanna"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 342,
+    "question": "The feature is one of the landforms associated with",
+    "option": {
+      "a": "River erosion",
+      "b": "Wind deposition",
+      "c": "Wave erosion",
+      "d": "River deposition"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_25_and_26_zp3h4a.jpg",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
@@ -2416,6 +2736,22 @@
     "examyear": "2020"
   },
   {
+    "id": 402,
+    "question": "The above diagram on which the contours are in meters shows",
+    "option": {
+      "a": "Mesa",
+      "b": "Knoll",
+      "c": "Drumlin",
+      "d": "Volcanic cone"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2020_6_denat6.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 404,
     "question": "When it is 12.00 noon on longitude 30°W, local time on longitude 75°E is",
     "option": {
@@ -2523,6 +2859,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 418,
+    "question": "The most common tree in th desert is the",
+    "option": {
+      "a": "Larch ",
+      "b": "Date",
+      "c": "Price",
+      "d": "Acacia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
