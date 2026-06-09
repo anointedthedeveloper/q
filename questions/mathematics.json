@@ -1376,6 +1376,22 @@
     "examyear": "2001"
   },
   {
+    "id": 140,
+    "question": "Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3).",
+    "option": {
+      "a": "4",
+      "b": "6",
+      "c": "3",
+      "d": "0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Hint: If two lines a perpendicular, the gradient of one is equal to minus the reciprocal of the other (P, 4) and (6, -2)",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 141,
     "question": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.",
     "option": {
@@ -3248,6 +3264,22 @@
     "examyear": "2004"
   },
   {
+    "id": 319,
+    "question": "In the diagram above, PQ = 4cm and TS = 6cm. If the area of parallelogram PQTU is 32cm<sup>2</sup>, find the area of trapezium PQRU",
+    "option": {
+      "a": "24 cm<sup>2</sup>",
+      "b": "48 cm<sup>2</sup>",
+      "c": "60 cm<sup>2</sup>",
+      "d": "72 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710701126/ALOC-Questions/Mathematics/2004/math_2004_q48_pxbs9z.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 321,
     "question": "the graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?",
     "option": {
@@ -3532,6 +3564,22 @@
     "image": "",
     "answer": "d",
     "solution": "y = (1 - 2x)<sup>3</sup>\n\nlet u = 1-2x\ndu/dx = -2\n∴y = u<sup>3</sup>\n\ndy/du = 3u<sup>2</sup>\n\nBut dy/dx = du/dx * dy/du\n= -2 * 3u<sup>2</sup>\n\n= -6u<sup>2</sup>\n\n= -6(1-2x)<sup>2</sup>\n\nAt x = -1: dy/dx = -6(1 - 2(-1))<sup>2</sup>\n\ndy/dx = -6(1 + 2)<sup>2</sup>\n\n= -6 * 3<sup>2</sup>\n\n= -6 * 9\n= -54\n",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 351,
+    "question": "Find the derivative of y = sin(2x<sup>3</sup>\n + 3x - 4)",
+    "option": {
+      "a": "cos (2x<sup>3</sup> + 3x - 4)",
+      "b": "-cos (2x<sup>3</sup> + 3x - 4)",
+      "c": " (6x<sup>2</sup> + 3) cos (2x<sup>3</sup> + 3x - 4)",
+      "d": " -(6x<sup>2</sup> + 3) cos (2x<sup>3</sup> + 3x - 4)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = sin (2x<sup>3</sup>\n + 3x - 4)\nlet u = 2x<sup>3</sup>\n + 3x - 4\n∴du/dx = 6x<sup>2</sup>\n\ny = sin u\ndy/du = cos u\ndy/dx = du/dx * dy/du\n∴dy/dx = (6x<sup>2</sup>\n + 3) cos u\n= (6x<sup>2</sup>\n + 3)cos(2x<sup>3</sup>\n + 3x - 4)",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -3932,6 +3980,22 @@
     "image": "",
     "answer": "b",
     "solution": "y = 3x<sup>3</sup> - 9x<sup>2</sup>\ndy/dx = 9x2 - 18x\nAs dy/dx = 0\n9x<sup>2</sup> - 18x = 0\n9x(x-2) = 0\n9x = 0 which implies x = 0\nx-2 = 0 implies x = 2\nd<sup>2</sup>y/dx<sup>2</sup> = 18x - 18\nwhen x = 0\nd<sup>2</sup>y/dx<sup>2</sup> < 0 ∴ x is is minimum\nwhen x = 2d<sup>2</sup>y/dx<sup>2</sup> = 18\n∴ > 0 x is minimum",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 383,
+    "question": "If dy/dx = x + cos x, find y",
+    "option": {
+      "a": "x<sup>2</sup> - sin x + c",
+      "b": "x<sup>2</sup> + sin x + c",
+      "c": "x<sup>2</sup>/2 - sin x + c",
+      "d": "x<sup>2</sup>/2 + sin x + c"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "dy/dx = x + cos x\ny = ∫(x + cos x)dx\ny = 1/2x<sup>2</sup> + sin x + C",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -5328,6 +5392,22 @@
     "examyear": "2009"
   },
   {
+    "id": 530,
+    "question": "I.S∩T∩W=S II. S ∪ T ∪ W = W\nIII. T ∩ W = S\nIf S⊂T⊂W, which of the above statements are true?",
+    "option": {
+      "a": "I and II",
+      "b": "I and III",
+      "c": " II and III",
+      "d": "I, II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If S ⊂ T ⊂ W,\n\nS ∩ T ∩ W = S is true since S ∩ T = S and S ∩ W = S.\n\nS ∪ T ∪ W = W is also true. S ∪ T = T and T ∪ W = W.\n\nHowever, to say that T ∩ W = S is not very true mathematically. Instead, it is safe to say S ⊂ (T ∩ W).",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 532,
     "question": "A polynomial in x whose roots are 4/3 and -3/5 is?",
     "option": {
@@ -5676,6 +5756,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547324/ALOC-Questions/Mathematics/2009/MATH_2009_Q41_SOLUTION_kripfc.jpg",
     "answer": "c",
     "solution": "\nMean =\t∑fx/∑fx\n \n\n\n5.7 =55+k/10\n\n57 = 55 + k\nk = 57 - 55\nk = 2",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 563,
+    "question": "What is the mean deviation of x, 2x, x+1 and 3x. If their mean is 2",
+    "option": {
+      "a": "0.5",
+      "b": "1.0",
+      "c": "1.5",
+      "d": "2.0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547357/ALOC-Questions/Mathematics/2009/MATH_2009_Q42_SOLUTION_pzj4ej.jpg",
+    "answer": "a",
+    "solution": "\nMean =\tx+2x+x+1+3x/4\n \n2 =7x+1/4\n\n8 = 7x+1\n7x = 8-1\n7x = 7\nx = 1\n\n \n\nMean deviation =∑/x-X/n\n \n\n =2/4\n \n\n =1/2\n\n= 0.5",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -6064,6 +6160,22 @@
     "examyear": "2010"
   },
   {
+    "id": 597,
+    "question": "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression",
+    "option": {
+      "a": "-44",
+      "b": " -165",
+      "c": "165",
+      "d": "44"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "3rd term : a + 2d = -9 .......(1)\n7th term : a + 6d = -29 ......(2)\n(2) - (1): 4d = -20\n:. d = -20/4 = -5\nFrom (1) : a + 2(-5) = -9\na - 10 = -9\n:. a = -9 + 10 = 1\n:. 10th term of A.P is a + 9d = 1 + 9 (-5)\n= 1 - 45 = -44",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 599,
     "question": "Find the equation of a line parallel to y = -4x + 2 passing through (2,3)",
     "option": {
@@ -6400,6 +6512,22 @@
     "examyear": "2011"
   },
   {
+    "id": 632,
+    "question": "Find the remainder when X3 - 2X2 + 3X - 3 is divided by X2 + 1",
+    "option": {
+      "a": " 2X - 1",
+      "b": "X + 3",
+      "c": "2X + 1",
+      "d": " X - 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x<sup>2</sup> + 1.  (X-2)/√(X<sup>3</sup> -2X<sup>2</sup> +3n-3) = (-6X<sup>3</sup>+n)/(-2X<sup>2</sup>+2X-3) = ((-2X<sup>2</sup>-2))/(2X-1)        Remainder is 2X - 1",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 634,
     "question": "Solve for x and y respectively in the simultaneous equations -2x - 5y = 3. x + 3y = 0",
     "option": {
@@ -6652,6 +6780,22 @@
     "image": "",
     "answer": "c",
     "solution": "∫<sup>1</sup><sub>0</sub>(3 - 2x)dx   [3x - x2]<sup>1</sup<sub>0</sub>\n\n\n[3(1) - (1)<sup>2</sup>] - [3(0) - (0)<sup>2</sup>]\n\n(3 - 1) - (0 - 0) = 2 - 0\n\n= 2",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 658,
+    "question": "The sum of four consecutive integers is 34. Find the least of these numbers",
+    "option": {
+      "a": "7",
+      "b": "6",
+      "c": "8",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Let the numbers be a, a + 1, a + 2, a + 3\n\na + a + 1 + a + 2 + a + 3 = 34\n\n4a = 34 - 6\n\n4a = 28\n\na = 28/4\n\n\n= 7\n\nThe least of these numbers is a = 7",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -7340,6 +7484,22 @@
     "image": "",
     "answer": "b",
     "solution": "If y = cosx                            dy/dx =—sinx",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 769,
+    "question": "Convert 112<sub>6</sub>  to a number in base three",
+    "option": {
+      "a": "2211",
+      "b": "2121",
+      "c": "1212",
+      "d": "1122"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -8156,6 +8316,22 @@
     "image": "",
     "answer": "d",
     "solution": "(0.8 × 0.43 × 0.031)/(0.05 × 0.72 × 0.021)  x 10/10\n= 14.11",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 846,
+    "question": "An arc subtends an angle of 30o at the centre of a circle radius 12cm. Calculate the length of the arc.",
+    "option": {
+      "a": "6π cm",
+      "b": " 2π cm",
+      "c": "3π cm",
+      "d": "9π cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Length or arc = θ/360 x 2πr\n\n= 30/360 x 2 x 22/7 x 12\n\n= 1/12 x 2 x π x 2 = 2π cm",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -9888,6 +10064,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1022,
+    "question": "Reach each number to two significant figures and then evaluate (0.02174 × 1.2047)/0.023789",
+    "option": {
+      "a": "0",
+      "b": "0.9",
+      "c": "1.1",
+      "d": "1.2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>0.02174</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1.2047</mn>\n    </mrow>\n    <mn>0.023789</mn>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "(0.021741 × 1.2047)/0.023789\n  = (0.022 × 1.2)/0.024\n (to 216) \n\n= 0.0264/0.024 = 1.1",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1023,
     "question": "Four boys and ten girls can cut a field first in 5 hours. If the boys work at 5/4\n the rate at which the girls work, how many boys will be needed to cut the field in 3 hours? ",
     "option": {
@@ -10718,6 +10910,22 @@
     "solution": "Let the three items be M, Y and P.\nn{M ∩ Y} only = 4-3 = 1\nn{M ∩ P) only = 5-3 = 2\nn{ Y ∩ P} only = 2\nn{M} only = 12-(1+3+2) = 6\nn{Y} only = 10-(1+2+3) = 4\nn{P} only = 14-(2+3+2) = 7\nn{M∩P∩Y} = 3\nNumber of women in the group = 6+4+7+(1+2+2+3) as above =25 women.",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 1099,
+    "question": "Evaluate (101<sub>two</sub>)<sup>3</sup>",
+    "option": {
+      "a": "111101<sub>two</sub>",
+      "b": "11111101<sub>two</sub>",
+      "c": "1111101<sub>two</sub>",
+      "d": " 11001<sub>two</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(101<sub>two</sub>)<sup>3</sup>\n = (5<sub>ten</sub>)<sup>3</sup>\n5<sup>3</sup> = 125\n\nAnd 125 =  1111101<sub>two</sub>",
+    "examtype": "utme",
+    "examyear": "2022"
   },
   {
     "id": 1100,
