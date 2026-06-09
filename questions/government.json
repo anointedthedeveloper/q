@@ -2288,6 +2288,22 @@
     "examyear": "2012"
   },
   {
+    "id": 174,
+    "question": "What does INEC stand for?",
+    "option": {
+      "a": "Independent National Election Committee  ",
+      "b": "Independent Newspapers Executive Committee  ",
+      "c": "Independent National Export Council  ",
+      "d": "Independent National Electoral Commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 175,
     "question": "Which of the following is not a feature of Nigeria’s electoral system?  ",
     "option": {
@@ -4928,6 +4944,22 @@
     "examyear": "2016"
   },
   {
+    "id": 388,
+    "question": "The Zikist Movement was popular for its",
+    "option": {
+      "a": "philosophy of non-violence",
+      "b": "promotion of mass literacy",
+      "c": "militant nationalism",
+      "d": "encouragement of multi-party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 389,
     "question": "Which of the following sets of factors contributed to the development of nationalism in Nigeria?",
     "option": {
@@ -6747,6 +6779,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 520,
+    "question": "The act of transferring autonomous powers to subordinate agencies is",
+    "option": {
+      "a": "devolution",
+      "b": "concentration",
+      "c": "deconcentration",
+      "d": "delegation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -8800,6 +8848,22 @@
     "examyear": "1989"
   },
   {
+    "id": 682,
+    "question": "The head of state under the independence constitution of Nigeria was",
+    "option": {
+      "a": "an absolute monarch",
+      "b": "a constitution monarch",
+      "c": "imposed by the British",
+      "d": "invested with executive power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 683,
     "question": "The principle of separation of powers implies that the three main organs of government work",
     "option": {
@@ -9111,6 +9175,22 @@
       "b": "not the servants of a particular government",
       "c": "trained for the duties they perform",
       "d": "not credited or blamed for anything they do"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 705,
+    "question": "During the 1964 Federal elections there was a total boycott of voting in",
+    "option": {
+      "a": "the Western Region",
+      "b": "Lagos",
+      "c": "the Northern Region",
+      "d": "the Eastern Region"
     },
     "section": "",
     "image": "",
@@ -12272,6 +12352,22 @@
     "examyear": "2022"
   },
   {
+    "id": 967,
+    "question": "The French colonial policy aimed at changing Africans into French men was the policy of",
+    "option": {
+      "a": "assimilation",
+      "b": "accommodation",
+      "c": "communes",
+      "d": "associations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The policy of assimilation was the official colonial policy of the French administration in West Africa. The system involved the imposition of French culture on West African culture. It was meant to substitute the culture, language, religion, law, mode of dressing, etc. of the people of West Africa with that of the French people.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 968,
     "question": "A system of government in which a single person or a group who governs has unlimited power is a",
     "option": {
@@ -12892,6 +12988,22 @@
     "image": "",
     "answer": "c",
     "solution": "Pressure groups primarily aim to influence public opinion through media campaigns. They use various forms of advocacy to shape the perceptions and attitudes of the public towards certain issues, with the goal of influencing policy and decision-making in their favor.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1013,
+    "question": "n which system of government is the executive and legislature fused?",
+    "option": {
+      "a": "Cabinet",
+      "b": "Presidential",
+      "c": "Unitary",
+      "d": "Federal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "All members of the executive are part of the legislature.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -14400,6 +14512,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1131,
+    "question": "The Murtala/Obasanjo regime in Nigeria increased the number of states from",
+    "option": {
+      "a": "4 to 12",
+      "b": "12 to 19",
+      "c": "19 to 20",
+      "d": "30 to 36"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Murtala/Obasanjo regime in Nigeria increased the number of states from 12 to 19.Gowon created 12 states but the Murtala/Obasanjo regime created additional seven states bring the total number to 19",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1133,
     "question": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalised in the late 1970's for transacting business with",
     "option": {
@@ -14732,6 +14860,22 @@
     "image": "",
     "answer": "d",
     "solution": "Proportional representation is a system of allocating seats in the legislature based on total votes in an election.\n\nThis system is used to secure representation in the legislation in such a way that each political party get seats in proportion to the percentage of votes cast in favour of a political party. The more the percentage of votes cast in favour of a political party, the more the more the seats will be allocated to it.\n\nThis system is used in multi-member constituencies",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1155,
+    "question": "The application of the principle of separation of powers seems impracticable because powers is",
+    "option": {
+      "a": "delegated",
+      "b": "centralized",
+      "c": "fused",
+      "d": "separated"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Although the principle of separation of powers calls for distinct branches of government, in practice, these powers are fused. For example, in parliamentary systems the executive is drawn from the legislature, which blurs the separation between branches.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -15500,6 +15644,22 @@
     "image": "",
     "answer": "b",
     "solution": "Socialism is primarily defined by the principle that the means of production—such as factories, resources, and infrastructure—are owned collectively by the community rather than by private individuals. This collective or communal ownership is intended to ensure that production and the benefits derived from it serve the common good, rather than generating profit for private owners. While many socialist states have implemented state ownership as a means of achieving collective control, the core concept remains the collective (or community) ownership of production resources.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1210,
+    "question": "The civil service embraces all workers in",
+    "option": {
+      "a": "all private corporations",
+      "b": "publica and private companies",
+      "c": "government ministries",
+      "d": "public corporations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The civil service embraces all workers in government ministries.\n\nThe civil service may therefore be defined as body of officials who carry out the day to day business of government. They are skilled and permanent. They are also paid from the consolidated fund either partly or wholly.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -16492,6 +16652,22 @@
     "image": "",
     "answer": "d",
     "solution": "In a democracy, sovereign authority is exercised by the electorate",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1287,
+    "question": "In the Second Republic,the ruling National Party of Nigeria formed an alliance with the",
+    "option": {
+      "a": "Great Nigeria People's Party",
+      "b": "Nigeria Advance Party",
+      "c": "Unity Party of Nigeria",
+      "d": "Nigeria People's Party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "During the Second Republic, the ruling National Party of Nigeria (NPN) entered into an alliance with the Nigerian People's Party (NPP), popularly known as the NPN-NPP Accord. This alliance was aimed at consolidating power in the National Assembly, although the coalition was often fraught with conflicts.",
     "examtype": "utme",
     "examyear": "2004"
   },
