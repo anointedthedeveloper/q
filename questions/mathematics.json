@@ -304,6 +304,22 @@
     "examyear": "2007"
   },
   {
+    "id": 23,
+    "question": "The average age of the three children in a family is 9 years. If the average age of their parent is 39 years, the average age of the whole family is: ",
+    "option": {
+      "a": "20 years  ",
+      "b": "21years  ",
+      "c": "24years  ",
+      "d": "27years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 26,
     "question": "How long will take a sum of money invested at 8% simple interest to double the original sum? ",
     "option": {
@@ -2204,6 +2220,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696566/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_40_wirh19.jpg",
     "answer": "b",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 163,
+    "question": "In the figure above, PQR is a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, ∠SQR is 75o and ∠QPT is 25o. Calculate the value of ∠RST.",
+    "option": {
+      "a": "45°",
+      "b": "55°",
+      "c": "25°",
+      "d": "55°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696651/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_42_dx7tih.jpg",
+    "answer": "b",
+    "solution": "n Δ PQT,\n∠PTQ = 25o(base ∠s of isosceles Δ)\nIn Δ QSR,\n∠RQS = ∠QPT + ∠QTP\n(Extr = sum of interior opposite ∠s)\n∠RQS = 25 + 25\n= 50°\nAlso in Δ QSR,\n75 + ∠RQS + ∠QSR = 180o\n(sum of ∠s of Δ)\n∴75 + 50 + ∠QSR = 180\n125 + ∠QSR = 180\n∠QSR = 180 - 125\n∠QSR = 55°\nBut ∠QSR and ∠RST are the same\n∠RST = 55°",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -15936,6 +15968,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1182,
+    "question": "A man sells different brands of an items. 1/9\n of the items he has in his shop are from Brand A, 5/8\n of the remainder are from Brand B and the rest are from Brand C. If the total number of Brand C items in the man's shop is 81, how many more Brand B items than Brand C does the shop has?",
+    "option": {
+      "a": " 243",
+      "b": "108",
+      "c": "54",
+      "d": "135"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let the total number of items in the man's shop = y\nNumber of Brand A's items in the man's shop = 1/9y\nRemaining items = 1 - 1/9y=8/9y\nNumber of Brand B's items in The man's shop = 5/8of8/9y=5/9y\nTotal of Brand A and Brand B's items = 1/9y+5/9y=2/3y\nNumber of Brand C's items in the man's shop = 1 - 2/3y=1/3y\n⟹1/3y = 81 (Given)\n\n⟹y = 81 x 3 = 243\n\n∴ The total number of items in the man's shop = 243\n\n∴ Number of Brand B's items in the man's shop = 5/9\n x 243 = 135\n\n∴ The number of more Brand B items than Brand C = 135 - 81 =54",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1183,
     "question": "Find the area, to the nearest cm<sup>2</sup>, of the triangle whose sides are in the ratio 2 : 3 : 4 and whose perimeter is 180 cm.",
     "option": {
@@ -16924,6 +16972,22 @@
     "image": "",
     "answer": "d",
     "solution": "I = A − P\n\n= N588 − N525\n\n∴I = N63\n\nI = PRT ÷ 100\n\nR = [100I ÷PT]\n\nR = [(100 × 63 ) ÷ (525 × 3)]\n\n= (6300 ÷ 1575) = 4\n\n∴ The rate = 4 %",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1254,
+    "question": "The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newton’s is 2cm, find the extension produced by a tension of 12 newton’s.",
+    "option": {
+      "a": "2",
+      "b": "1",
+      "c": "0",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let the extension be E and the tension be T.\n\nThen E∝T\nE=kT\nwhen T = 8N, E = 2cm\n\n2=k × 8\nk = 2/8 = 0.25\n∴ E = 0.25T\nwhen T = 12N, E = 0.25 × 12 =3 cm",
     "examtype": "utme",
     "examyear": "2015"
   },
