@@ -6576,6 +6576,22 @@
     "examyear": "2007"
   },
   {
+    "id": 430,
+    "question": "In how many ways can 6 subjects be selected from 10 subjects for an examination",
+    "option": {
+      "a": "218",
+      "b": "216",
+      "c": "215",
+      "d": "210"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mi></mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>10</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mn>6</mn>\n  </msub>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>10</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>10</mn>\n      <mo>&#x2212;</mo>\n      <mn>6</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>10</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mo>!</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>10</mn>\n      <mo>&#xD7;</mo>\n      <mn>9</mn>\n      <mo>&#xD7;</mo>\n      <mn>8</mn>\n      <mo>&#xD7;</mo>\n      <mn>7</mn>\n      <mo>&#xD7;</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mo>&#xD7;</mo>\n      <mn>3</mn>\n      <mo>&#xD7;</mo>\n      <mn>2</mn>\n      <mo>&#xD7;</mo>\n      <mn>1</mn>\n      <mo>&#xD7;</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mn>210</mn>\n</math><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mi></mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>10</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mn>6</mn>\n  </msub>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>10</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>10</mn>\n      <mo>&#x2212;</mo>\n      <mn>6</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>10</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mo>!</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>10</mn>\n      <mo>&#xD7;</mo>\n      <mn>9</mn>\n      <mo>&#xD7;</mo>\n      <mn>8</mn>\n      <mo>&#xD7;</mo>\n      <mn>7</mn>\n      <mo>&#xD7;</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mo>&#xD7;</mo>\n      <mn>3</mn>\n      <mo>&#xD7;</mo>\n      <mn>2</mn>\n      <mo>&#xD7;</mo>\n      <mn>1</mn>\n      <mo>&#xD7;</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mn>210</mn>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "<sup>10</sup>C<sup>6</sup>=10!/((10-6)!6!)=10!/4!6!=((10×9×8×7×6!))/(4×3×2×1×6!)=210",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 431,
     "question": "Integrate (x<sup>2</sup>-√x)/x with respect to x",
     "option": {
