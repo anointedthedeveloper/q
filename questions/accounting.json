@@ -18176,6 +18176,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1160,
+    "question": "The amount of each invoiced goods sent to the branch is debited to?",
+    "option": {
+      "a": "branch expense account and credited to branch debtors' accoount",
+      "b": "branch stock account account and credited to the goods sent to branch account",
+      "c": "branch debtors' account and credited to branch expense account",
+      "d": "goods sent to branch expense account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "This entry correctly reflects that stock (an asset) is being transferred to the branch, with the corresponding credit to goods sent to branch account.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1161,
     "question": "<b>Use the information below to answer questions 47 and 48.</b>\n\nThe business was acquired on 1st April, 2002 at a purchase consideration of ₦120 000 by SOZ. All assets and liabilities were taken over except the cash.\n\nTo open the new firm’s bank account, additional ₦20,000 was paid into the bank.\n\nThe goodwill on purchase is?",
     "option": {
