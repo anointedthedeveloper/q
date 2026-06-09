@@ -4192,6 +4192,22 @@
     "examyear": "2012"
   },
   {
+    "id": 291,
+    "question": "Shares of N3 nominal value were issued at a price of  N4. The difference of N1 is a",
+    "option": {
+      "a": "commission.",
+      "b": "discount.",
+      "c": "premium.",
+      "d": "bonus."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 292,
     "question": "Which of the following is not the purpose of control account?",
     "option": {
@@ -15484,6 +15500,22 @@
     "image": "",
     "answer": "b",
     "solution": "When members pay their subscription before it is due (in advance), the organization has received money but hasn't yet provided the service for that period.\nThis means the organization owes the service to the members - it's a debt that must be settled by providing the service in the future.\nAny amount owed by an organization is a liability.\nSince subscription paid in advance will be settled within one year, it is a current liability.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1096,
+    "question": "A rapidly growing business organization with multiple units that is interested in comparing the performances and weaknesses of each unit should adopt?",
+    "option": {
+      "a": "manufacturing accounts",
+      "b": "consolidated accounts",
+      "c": "departmental accounts",
+      "d": "joint venture accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A business with multiple units that wants to compare performance of each unit needs separate accounting records for each unit.\nDepartmental accounts allow the business to:\n\nTrack income and expenses for each unit separately\nCompare profitability between units\nIdentify which units are performing well\nSpot weaknesses in specific units\nMake better management decisions for each unit",
     "examtype": "utme",
     "examyear": "2004"
   },
