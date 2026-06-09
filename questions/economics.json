@@ -224,6 +224,22 @@
     "examyear": "2006"
   },
   {
+    "id": 20,
+    "question": "The Multiplier is always the reciprocal of ",
+    "option": {
+      "a": "MPC ",
+      "b": "MPS ",
+      "c": "APC",
+      "d": "APS"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 21,
     "question": "If the marginal propensity to save is 0.4 and consumption expenditure changes by N10 million , the equilibrium  level of income will change by ",
     "option": {
@@ -752,6 +768,22 @@
     "examyear": "2008"
   },
   {
+    "id": 63,
+    "question": "An economic system in which most capital goods are owned by individual and private firms is known as ",
+    "option": {
+      "a": "planned economy ",
+      "b": "Capitalist economy. ",
+      "c": "Mixed economy ",
+      "d": "Socialist economy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 64,
     "question": "Which of the following is the most liquid asset to a commercial bank? ",
     "option": {
@@ -843,6 +875,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 71,
+    "question": "Given that fixed cost is N500.00, Variable cost is N1,500.00 and output is 40 units, what will be the average cost of producing one units? ",
+    "option": {
+      "a": "N12.50.00 ",
+      "b": "N50.00 ",
+      "c": "N37.50 ",
+      "d": "N500.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -1035,6 +1083,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 90,
+    "question": "Marginal cost curve intersects average cost curve ",
+    "option": {
+      "a": "from above at its lowest point ",
+      "b": "from below the lowest point ",
+      "c": "from below at its lowest point ",
+      "d": "from below after the lowest point "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -1767,6 +1831,22 @@
       "b": "Monopoly  ",
       "c": "Oligopolist ",
       "d": "Monopolistic competition   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 147,
+    "question": "In which of the following situations do we have a free good?  ",
+    "option": {
+      "a": "At zero price, more is demanded than supplied  ",
+      "b": "At zero price, quantity supplied exceeds quantity demanded  ",
+      "c": "At equilibrium price, quantity supply is equal to quantity demanded. ",
+      "d": "Any quantity can be obtained when the price is low "
     },
     "section": "",
     "image": "",
@@ -3616,6 +3696,22 @@
     "examyear": "2012"
   },
   {
+    "id": 300,
+    "question": "Which of the following is not a consequence of increased unemployment?",
+    "option": {
+      "a": "A fall in tax revenue for the government",
+      "b": "A reduction in trade union’s influence",
+      "c": "A fall in the death rate",
+      "d": "An increase in the labour force"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 301,
     "question": "The following are features of subsistence agriculture except",
     "option": {
@@ -4544,6 +4640,22 @@
     "examyear": "2010"
   },
   {
+    "id": 383,
+    "question": "In perfect competition, price is determined by the",
+    "option": {
+      "a": "Government",
+      "b": "buyers",
+      "c": "sellers",
+      "d": "market"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 384,
     "question": "In order to reduce hardship faced by consumers due to high prices, government can introduce",
     "option": {
@@ -4571,6 +4683,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 386,
+    "question": "A firm enjoying economics of scale is said to be",
+    "option": {
+      "a": "reducing average cost as production increases",
+      "b": "maximizing profits as production increases",
+      "c": "benefiting from the activities of other firms",
+      "d": "having an upward - sloping average cost curve"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -5047,6 +5175,22 @@
       "b": "marginal utility",
       "c": "marginal revenue",
       "d": "marginal cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 425,
+    "question": "West  African   countries  have  low  levels  of  economic \tdevelopment due to",
+    "option": {
+      "a": "underpopulation",
+      "b": "inadequate labour",
+      "c": "failure to plan",
+      "d": "ineffective plan implementation"
     },
     "section": "",
     "image": "",
