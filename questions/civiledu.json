@@ -32,6 +32,70 @@
     "examyear": "2014"
   },
   {
+    "id": 19,
+    "question": "Universal Declaration of Human Rights (UDHR) is based on the resolution of the",
+    "option": {
+      "a": "Human Rights Watch",
+      "b": "United Nations Organization",
+      "c": "Amnesty International",
+      "d": "League of Nations."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 30,
+    "question": "One major factor that attracts some Nigerians into human trafficking is",
+    "option": {
+      "a": "over - population related issues",
+      "b": "influx of foreigners into the country",
+      "c": "insatiable quest for quick wealth",
+      "d": "influence of Western and social media"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 31,
+    "question": "One of the reasons most HIV/AIDS patients are \treluctant to disclose their status is because of",
+    "option": {
+      "a": "the incurable nature of the ailment",
+      "b": "fear of social stigmatization.",
+      "c": "lack of sufficient public awareness",
+      "d": "shortage of health counsellors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 32,
+    "question": "The position of the court on this matter justifies the essence of the",
+    "option": {
+      "a": "rule of law",
+      "b": "legislature",
+      "c": "police command",
+      "d": "separation of powers"
+    },
+    "section": "The Bawali High Court has ordered the police in Area Z Command to produce Mr. Zeb, who is in police custody for an alleged offence. The court insists that Mr. Zeb cannot be punished until he is found guilty of breach of any law of the land by a court of competent jurisdiction.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 43,
     "question": "A major benefit of youth empowerment is",
     "option": {
@@ -48,6 +112,22 @@
     "examyear": "2014"
   },
   {
+    "id": 51,
+    "question": "A representative of a commonwealth country in another member state is known as a / an.",
+    "option": {
+      "a": "ambassador",
+      "b": "attaché.",
+      "c": "consul-general.",
+      "d": "high commissioner."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 53,
     "question": "The responsibilities of government to   its citizens include the following, except",
     "option": {
@@ -59,6 +139,70 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 58,
+    "question": "One of the aims of citizenship education is to produce students with",
+    "option": {
+      "a": "creative skill.",
+      "b": "high sense of entrepreneurial skill.",
+      "c": "high sense of patriotism.",
+      "d": "manipulative skills."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 62,
+    "question": "Franchise means right to",
+    "option": {
+      "a": "contest for political post",
+      "b": "join association",
+      "c": "live in Nigeria",
+      "d": "vote and be voted for"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 63,
+    "question": "How many members constitute the lower legislative chamber in Nigeria?",
+    "option": {
+      "a": "300",
+      "b": "302",
+      "c": "312",
+      "d": "360"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following system of government advocates equitable distribution of wealth?",
+    "option": {
+      "a": "Aristocracy",
+      "b": "Capitalism",
+      "c": "Plutocracy",
+      "d": "Socialism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2014"
@@ -80,6 +224,54 @@
     "examyear": "2014"
   },
   {
+    "id": 103,
+    "question": "Local government is the ............... tier of government",
+    "option": {
+      "a": "1st",
+      "b": "2nd",
+      "c": "3rd",
+      "d": "4th"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 106,
+    "question": "One of the listed criteria qualifies one for election .......",
+    "option": {
+      "a": "certificate",
+      "b": "beauty",
+      "c": "height",
+      "d": "citizenship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 118,
+    "question": "The following factors are responsible for drug abuse except",
+    "option": {
+      "a": "family upbringing",
+      "b": "high stress level",
+      "c": "poverty",
+      "d": "foster parenthood"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 125,
     "question": "The following are causes of emergency rule except",
     "option": {
@@ -87,6 +279,22 @@
       "b": "blood lettings",
       "c": "stage peaceful protest",
       "d": "sabotage / terrorism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 129,
+    "question": "One of the following is not a political party",
+    "option": {
+      "a": "PDP",
+      "b": "APGA",
+      "c": "ANPC",
+      "d": "CPC"
     },
     "section": "",
     "image": "",
@@ -128,6 +336,38 @@
     "examyear": "2012"
   },
   {
+    "id": 144,
+    "question": "Pedestrians should always cross road using",
+    "option": {
+      "a": "stop hold",
+      "b": "parked vehicles",
+      "c": "zebra crossing",
+      "d": "bridge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 146,
+    "question": "Political values are acquired in any given society through",
+    "option": {
+      "a": "Political re-orientation",
+      "b": "Political campaign",
+      "c": "Political socialization",
+      "d": "Political indoctrination"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
     "id": 150,
     "question": "The colour of the Nigeria flag is ..............., anytime it \tis half masked it means that the nation is ...............",
     "option": {
@@ -160,6 +400,22 @@
     "examyear": "2012"
   },
   {
+    "id": 173,
+    "question": "In a democratic government, political sovereignty is vested in the",
+    "option": {
+      "a": "legislature",
+      "b": "elite",
+      "c": "executive",
+      "d": "electorate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
     "id": 179,
     "question": "A coup d’etat is regarded as",
     "option": {
@@ -171,6 +427,54 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
+    "id": 182,
+    "question": "A manifesto refers to",
+    "option": {
+      "a": "the register of party members",
+      "b": "rejected ballot papers",
+      "c": "valid ballot papers",
+      "d": "Document containing the aims and programmes of   a political party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
+    "id": 189,
+    "question": "The following are Road Traffic signs except",
+    "option": {
+      "a": "Regulatory sign",
+      "b": "Informative sign",
+      "c": "Warning sign",
+      "d": "Philosophy sign"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
+    "id": 190,
+    "question": "The function of Federal Road Safety Corp (FRSC) is",
+    "option": {
+      "a": "Enforcing the traffic regulation on road",
+      "b": "making law",
+      "c": "executing law",
+      "d": "Interpreting law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "neco",
     "examyear": "2012"
@@ -288,6 +592,54 @@
     "examyear": "2013"
   },
   {
+    "id": 247,
+    "question": "Those who consume fish and vegetable frequently stand the chance of contacting the",
+    "option": {
+      "a": "HIV/AIDs disease",
+      "b": "Ebola disease",
+      "c": "Typhoid and yellow fever disease",
+      "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 269,
+    "question": "Human traffickers usually engage their victims .........",
+    "option": {
+      "a": "in educative programs",
+      "b": "in forced labour",
+      "c": "in skill acquisition activities",
+      "d": "in recreational activities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 271,
+    "question": "Mr Dickson’s little son, clement was sent away from school because he has not paid his school fees of \tN=11,000. That same day as Mr Dickson boarded a Danfo bus he noticed that the purse of a fellow passenger dropped on the floor of the bus. Mr Dickson tactically picked up the purse, opened it and saw a handsome sum of N=100,000. No body in the bus noticed him, neither did the fellow passenger. As a patriotic and good citizen of Nigeria, what is Mr Dickson expected to do",
+    "option": {
+      "a": "Pay his tithe (1/10 of the money) to the church take the rest and pray for forgiveness",
+      "b": "Draw the attention of the fellow passenger and give the money back to him /her",
+      "c": "Use part of the money to pay his son’s fess and keep the rest because opportunity comes but once",
+      "d": "Leave the purse on the floor, and mind his business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 273,
     "question": "The attitude of the crowd towards, the sick man was that of ............",
     "option": {
@@ -299,6 +651,22 @@
     "section": "A certain man came to visit his friend at Shomolu one early morning. Unexpectedly the man fainted and slumped. He lay on the floor for several hours and looking lifeless. The crowd and even the friend he came to visit kept a reasonable distance from him. No one came to his rescue or even attempted to touch him. As luck would have it he regained his strength after about five hours and managed to go back to his house",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 281,
+    "question": "Juvenile delinquency refers to",
+    "option": {
+      "a": "active youths participation in sports",
+      "b": "wrong doings by the youths",
+      "c": "Refusal to worship God by the youths",
+      "d": "Urban Rural migration by the youth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -336,6 +704,22 @@
     "examyear": "2013"
   },
   {
+    "id": 291,
+    "question": "It is often said that public servants cannot be held responsible for their actions. This principle denotes .................",
+    "option": {
+      "a": "anonymity",
+      "b": "civic irresponsibility",
+      "c": "accountability",
+      "d": "neutrality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 312,
     "question": "In Lagos state and some other states in Nigeria, motorcycle (okada) riders are expected to wear ............ while on motion",
     "option": {
@@ -343,6 +727,22 @@
       "b": "Hand glove",
       "c": "Crash helmet",
       "d": "Black coloured shirt"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 319,
+    "question": "The three larges and most influential ethnic groups in Nigeria are",
+    "option": {
+      "a": "Yoruba, Edo and Hausa",
+      "b": "Igbo, Iteskiri and Hausa",
+      "c": "Hausa, Igbo and Yoruba",
+      "d": "Fulani, Yoruba and Efik"
     },
     "section": "",
     "image": "",
@@ -384,6 +784,22 @@
     "examyear": "2016"
   },
   {
+    "id": 349,
+    "question": "Which of the following instruments is not used by a civil society group?",
+    "option": {
+      "a": "Propaganda",
+      "b": "Boycott",
+      "c": "Protest",
+      "d": "Violence"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
     "id": 360,
     "question": "The general attitude of government and society towards cultism is that of",
     "option": {
@@ -416,6 +832,70 @@
     "examyear": "2016"
   },
   {
+    "id": 387,
+    "question": "The most important place for building good values is the",
+    "option": {
+      "a": "social welfare centre",
+      "b": "workplace",
+      "c": "family",
+      "d": "media houses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
+    "id": 395,
+    "question": "The National Agency for Food and Drug Administration and Control (NAFDAC) was established in",
+    "option": {
+      "a": "1993",
+      "b": "1996",
+      "c": "1999",
+      "d": "2001"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 405,
+    "question": "A major way of promoting responsible parenthood is through",
+    "option": {
+      "a": "sex education",
+      "b": "sound education",
+      "c": "population control measures",
+      "d": "tax reduction measures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 417,
+    "question": "Inter-communal relationship is best described as",
+    "option": {
+      "a": "the interaction between individuals, groups or organizations with common aspirations",
+      "b": "the interaction among individuals and professionals in a social setting",
+      "c": "loyalty to community leaders so as to achieve rapid communal development",
+      "d": "respect for collective national symbols in order to foster nationalistic feeling"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 418,
     "question": "A situation whereby someone is obliged to inform a superior about his actions and decisions for the purpose of control is",
     "option": {
@@ -432,6 +912,22 @@
     "examyear": "2015"
   },
   {
+    "id": 421,
+    "question": "Association and affiliation between two or more people is called",
+    "option": {
+      "a": "multilateral relations",
+      "b": "bilateral relations",
+      "c": "inter-communal relations",
+      "d": "interpersonal relations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 425,
     "question": "Democracy can promote national development if there is",
     "option": {
@@ -443,6 +939,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 429,
+    "question": "Democracy is yet to take firm root in Africa because",
+    "option": {
+      "a": "it retards African development",
+      "b": "African leaders are not experienced enough",
+      "c": "most African leaders detest the will of the people",
+      "d": "it is an expensive system of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
