@@ -1040,6 +1040,22 @@
     "examyear": "2000"
   },
   {
+    "id": 119,
+    "question": "A matrix P is such that P<sup>T</sup>= p, where P<sup>T</sup> is the transpose of P, if b = 1, then P is",
+    "option": {
+      "a": "(0, 1)\n(1, 0)",
+      "b": "(0, 1)\n(-1, 0)",
+      "c": "(0, 1) \n(1, 1) ",
+      "d": "(1, 1)\n(-1,0)"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710692182/ALOC-Questions/Mathematics/2000/question-48_dp4ky2.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 120,
     "question": "A ship sails a distance of 50km in the direction S50°E \nand then sails a distance of 50km in the direction \nN40°E. find the bearing of the ship from its original \nposition",
     "option": {
@@ -3486,6 +3502,22 @@
     "solution": "Angle of Excellent\n= 360 - (120+80+90)\n= 360 - 290\n= 70o\nIf 360o represents 36 students\n1o will represent 36/360\n50o will represent 36/360 * 70/1\n= 7",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 372,
+    "question": "The table above shows the scores of a group of students in a physics test. If the mode is m and the number of students who scored 4 or more is n, what is (n, m)?",
+    "option": {
+      "a": "(33, 4)",
+      "b": " (22, 4)",
+      "c": " (33, 12)",
+      "d": "(12, 4)"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715540411/ALOC-Questions/Mathematics/2006/JAMB_MATH_2006_Q1_pyffkb.jpg",
+    "answer": "a",
+    "solution": "The mode (m) = 4.\n\nNo of students who scored 4 and above = 12 + 10 + 6 + 4 + 1 = 33.\n\n∴ (n, m) = (33, 4)",
+    "examtype": "utme",
+    "examyear": "2006"
   },
   {
     "id": 373,
@@ -7260,6 +7292,22 @@
     "image": "",
     "answer": "c",
     "solution": "∫<sub>0</sub>  <sup>(π/2)</sup>〖sin⁡xdx〗\n\n= −cos(π/2) − (−cos0)\n= 0 + 1\n= 1",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 817,
+    "question": "P, Q and R are subsets of the universal set U. The Venn diagram showing the relationship (P∩Q)∪R\n is",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131538/ALOC-Questions/Mathematics/2013/JAMB_MATH_2013_Q48_ka7ezx.png",
+    "answer": "c",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2013"
   },
