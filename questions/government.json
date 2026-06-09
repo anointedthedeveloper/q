@@ -480,6 +480,22 @@
     "examyear": "2008"
   },
   {
+    "id": 75,
+    "question": "In a parliamentary system, who ensures that members are in the house to vote on major issues? ",
+    "option": {
+      "a": "party leaders ",
+      "b": "speaker of  the house ",
+      "c": "clerk of the house  ",
+      "d": "whip"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 80,
     "question": "Which of these constitutions recognized local government is the third tier of government? ",
     "option": {
@@ -800,6 +816,22 @@
     "examyear": "2011"
   },
   {
+    "id": 134,
+    "question": "A law passed by the legislature and assented to by the executive is: ",
+    "option": {
+      "a": "an act",
+      "b": "a presidential proclamation ",
+      "c": "a decree   ",
+      "d": "a legislative order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 141,
     "question": "After the defeat of Germany in World War 1, her former colonies were administered under the League of Nations as: ",
     "option": {
@@ -823,6 +855,22 @@
       "b": "Maroua Accord",
       "c": "decision of the ECOWAS Tribunal ",
       "d": "decision of the International Court of Justice "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 145,
+    "question": "Fascism originated from: ",
+    "option": {
+      "a": "Greece",
+      "b": "Italy ",
+      "c": "China ",
+      "d": "Germany "
     },
     "section": "",
     "image": "",
@@ -1211,6 +1259,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 228,
+    "question": "The system which allows private individuals and companies to own and control the means of production is known as",
+    "option": {
+      "a": "socialism",
+      "b": "fascism",
+      "c": "capitalism",
+      "d": "communism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -1616,6 +1680,22 @@
     "examyear": "2013"
   },
   {
+    "id": 307,
+    "question": "Which of the following is NOT a feature of the civil service?",
+    "option": {
+      "a": "Anonymity",
+      "b": "Expertise",
+      "c": "Impartiality",
+      "d": "Rigidity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 317,
     "question": "Bicameral legislature are a common feature of",
     "option": {
@@ -1723,6 +1803,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 327,
+    "question": ".\n\nA state is said to be fascist when",
+    "option": {
+      "a": "its leader is patriotic but the citizens are not",
+      "b": "all rights and liberties are subordinated to state interest",
+      "c": "its citizens are fanatically in love with their leader",
+      "d": "all rights and liberties are placed above state interests."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -2016,6 +2112,22 @@
     "examyear": "2016"
   },
   {
+    "id": 394,
+    "question": "In Nigeria, the highest court for Muslims is the",
+    "option": {
+      "a": "Alkali Court",
+      "b": "Sharia Court of Appeal",
+      "c": "Supreme Court",
+      "d": "Upper Area Court"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 395,
     "question": "Who was appointed by the federal government of Nigeria as the administrator of western region in 1962?",
     "option": {
@@ -2224,6 +2336,22 @@
     "examyear": "2010"
   },
   {
+    "id": 415,
+    "question": "Unicameralism is a feature of the legislature in",
+    "option": {
+      "a": "the United Kingdom",
+      "b": "the United States",
+      "c": "Ghana",
+      "d": "Israel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 416,
     "question": "The upper house in most federal systems is created to",
     "option": {
@@ -2283,6 +2411,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 438,
+    "question": "A major shortcoming of the Ombudsman is",
+    "option": {
+      "a": "its inability to restrain bureaucratic excesses",
+      "b": "lack of clear-cut mandate",
+      "c": "lack of executive power to enforce decisions",
+      "d": "lack of adequate resources."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -2395,6 +2539,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 454,
+    "question": "The tenure of non-permanent members of the Security Council is",
+    "option": {
+      "a": "4 years",
+      "b": "2 years",
+      "c": "6 years",
+      "d": "5 years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -2528,6 +2688,22 @@
     "examyear": "2012"
   },
   {
+    "id": 483,
+    "question": "Radical nationalism in Nigeria is generally attributed to the influence of",
+    "option": {
+      "a": "Aminu Kano",
+      "b": "Herbert Macaulay",
+      "c": "Nnamdi Azikiwe",
+      "d": "Mbonu Ojike."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 486,
     "question": "In Nigeria, the agency mainly responsible for the maintenance of internal peace and security is the",
     "option": {
@@ -2551,6 +2727,22 @@
       "b": "interpreting laws",
       "c": "ratifying appointments",
       "d": "making laws."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 488,
+    "question": "The major factor militating against the efficient operation of electoral commissions in Nigeria is",
+    "option": {
+      "a": "inadequate public support",
+      "b": "population size",
+      "c": "inadequate skilled manpower",
+      "d": "excessive political interference."
     },
     "section": "",
     "image": "",
@@ -2928,6 +3120,22 @@
     "examyear": "2013"
   },
   {
+    "id": 550,
+    "question": "A representative of a Commonwealth country in another member state is known as",
+    "option": {
+      "a": "High Commissioner",
+      "b": "Consul-General",
+      "c": "Ambassador",
+      "d": "Attaché."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 554,
     "question": "OPEC has strong influence with the",
     "option": {
@@ -3120,6 +3328,22 @@
     "examyear": "2014"
   },
   {
+    "id": 587,
+    "question": "One of the major problems of Nigerian federalism is",
+    "option": {
+      "a": "lack of revenue to cater for the demands of the federation",
+      "b": "inadequate manpower to fill vacancies",
+      "c": "imbalance in the structure and sizes of units of federation",
+      "d": "pre-colonial administrative structure among the units of federation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 589,
     "question": "A problem of public corporations in Nigeria is",
     "option": {
@@ -3198,6 +3422,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 609,
+    "question": "A flexible constitution can only be amended by",
+    "option": {
+      "a": "two-third (2/3) majority vote in the legislature.",
+      "b": "referendum.",
+      "c": "three-quarter (3/4) majority vote in the legislature.",
+      "d": "simple majority vote in the legislature."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
   },
   {
     "id": 614,
@@ -3419,6 +3659,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 655,
+    "question": "All the following were frontline fighters for Nigeria’s Independence except",
+    "option": {
+      "a": "Obafemi Awolowo",
+      "b": "Nnamdi Azikiwe",
+      "c": "Lateef Jakande",
+      "d": "Amino Kano"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -3707,6 +3963,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 716,
+    "question": "A fascist regime is both",
+    "option": {
+      "a": "representative and accountable",
+      "b": "responsive and responsible",
+      "c": "fair and legitimate",
+      "d": "authoritarian and totalitarian"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
@@ -4128,6 +4400,22 @@
     "examyear": "2018"
   },
   {
+    "id": 793,
+    "question": "One major achievement of the Richards Constitution of Nigeria was that it",
+    "option": {
+      "a": "united the North and South under a single legislature",
+      "b": "provided for official African members of the Executive Council",
+      "c": " allowed the participation of traditional rulers in government",
+      "d": " introduced the elective principle."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Richards Constitution (1946) brought the North and South together under a unified legislative framework.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 795,
     "question": "The decision to separate Lagos from the Western Region and make it a neutral Territory was taken at the party constitutional conference",
     "option": {
@@ -4380,6 +4668,22 @@
     "image": "",
     "answer": "b",
     "solution": "Constituency is the definition for the political area from which an individual is elected into a representative office.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 846,
+    "question": "The Brussel conference in 1889/90 was based on______",
+    "option": {
+      "a": "putting an end to slave trade",
+      "b": " the scramble for Africa",
+      "c": "furthering the decision on colonialism as previously discussed in the Berlin conference",
+      "d": "deciding on how to penetrate Africa for economic adventurism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Brussel Conference unlike the Berlin Conference was targeted at the reconsideration of the unjust virtues and vices occasioned by colonialism, thereby specifically seeking to eradicate slave trade and related activities.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -4816,6 +5120,22 @@
     "examyear": "2021"
   },
   {
+    "id": 931,
+    "question": "The Murtala/Obasanjo regime in Nigeria increased the number of states from....",
+    "option": {
+      "a": "30 to 36",
+      "b": "19 to 20",
+      "c": "12 to 19",
+      "d": "4 to 12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "On February 3, 1976, the Military Government of Murtala Muhammed created new states and renamed others, the states he created include: Bauchi, Benue, Borno, Imo, Niger, Ogun, and Ondo",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 932,
     "question": "The ....... is responsible for advising the president of Nigeria on the sovereignty and territorial Integrity of the country.",
     "option": {
@@ -5020,6 +5340,22 @@
     "image": "",
     "answer": "d",
     "solution": "The Judicial Service Commission is vested with the power to recommend suitable persons for the appointment of the Chief justice of Nigeria.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 971,
+    "question": "A major consequence of the privatization exercise in Nigeria is",
+    "option": {
+      "a": "the collapse of the Nigerian economy",
+      "b": "reduction in foreign exchange",
+      "c": "hıgh rate of indebtedness",
+      "d": "mass retrenchment of labour"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The sole aim of Privatization is profit-making. There is often a reduction of costs or spending and  mass retrenchment of labour in response to economic difficulty.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -5504,6 +5840,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1074,
+    "question": "Dual citizenship was a feature of the ",
+    "option": {
+      "a": " Portuguese colonial system",
+      "b": " German colonial system",
+      "c": " British colonial system",
+      "d": "French colonial system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The French Colonial Government offered dual citizenship to its West African subjects - citizenship of France and French West Africa. At first, this was granted to only subjects from the Four Communes in Senegal then, it was later granted to all French West African citizens. \n\n ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1078,
     "question": "Which local government reform in Nigeria prevented traditional rulers from engaging in politics?",
     "option": {
@@ -5520,6 +5872,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1080,
+    "question": "A union of states with a common recognised authority is",
+    "option": {
+      "a": " federal system",
+      "b": "unitary system",
+      "c": " representative system",
+      "d": "confederal system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A federal system is a system whereby power is shared among the federal level and the component units. The component units (the states) report to a common authority at the centre (the federal level).\n\n ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1081,
     "question": "The famous Italian Fascist leader was",
     "option": {
@@ -5532,6 +5900,22 @@
     "image": "",
     "answer": "d",
     "solution": "Benito Mussolini is the infamous Italian Fascist leader. Under his regime, his government had total control over all activities in the state and personal liberties were denied the people. \n",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1090,
+    "question": "The most effective instrument adopted by Nigeria against the East-West Cold War in the 1960s was",
+    "option": {
+      "a": " Good neighbourliness",
+      "b": "Africa as the centrepiece",
+      "c": " Anti-apartheid stance",
+      "d": "Non-alignment policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "During the 1960s, Nigeria adopted the non-alignment policy as an effective instrument to navigate the East-West Cold War. This policy meant that Nigeria chose not to align with either the capitalist bloc (led by the United States) or the communist bloc (led by the Soviet Union). Instead, it focused on maintaining independence in foreign relations and avoiding entanglement in ideological conflicts between the two superpowers. \n\n ",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -5872,6 +6256,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1161,
+    "question": "One of the features of a sovereign state is that it",
+    "option": {
+      "a": "has the capacity to defend itself from external aggression",
+      "b": "has a large number of soldiers",
+      "c": " practises the presidential system of government",
+      "d": "is not indebted to other countries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "One of the features of a Sovereign state is that it has the capacity to defend itself from external aggression.\n\nIt must have supreme power to enable it make and enforce laws A Sovereign State must be free from any form of external control eg. Political, military, economic and social control.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1162,
     "question": "A major way of maintaining confidence in the electoral process is by ensuring that",
     "option": {
@@ -5932,6 +6332,22 @@
     "image": "",
     "answer": "a",
     "solution": "The fees collected by local governments at motor parks represents levies",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1167,
+    "question": "The first Nigerian constitution to provide for the fundamental objectives and directive principles of state policy was the",
+    "option": {
+      "a": "1979 Constitution",
+      "b": "1989 Constitution",
+      "c": "1999 Constitution",
+      "d": "1960 Constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "1979 Constitution The first Nigerian constitution to provide for the fundamental objectives and directive principles of state policy.\n\nThe Constitution marked a turning point on the struggle for self determination and emancipation of Nigeria from the shackles of colonialism.\n\nIt marked the beginning of new diplomatic era, a well.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -6156,6 +6572,22 @@
     "image": "",
     "answer": "a",
     "solution": "The unrestrained power of the state over its citizens is underlined by sovereignty.\n\nSovereignty could be defined as the supreme legal power to make and enforce laws for people within a definite territory without any external control.\n\nCharacteristics of sovereignty are permanence, indivisibility, comprehensiveness and absoluteness.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1198,
+    "question": "Removal by impeachment applies to the position of a",
+    "option": {
+      "a": "president",
+      "b": "chief judge",
+      "c": "prime minister",
+      "d": "cabinet minister"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Removal by impeachment applies to the position of a president.\n\nImpeachment means the process by which the chief executive is removed from office by the parliament.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -6528,6 +6960,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1271,
+    "question": "A major influence on the formation of public opinion is",
+    "option": {
+      "a": "the family",
+      "b": " the mass media",
+      "c": "public journals",
+      "d": "peer groups"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Mass media—such as television, radio, newspapers, and social media—plays a crucial role in shaping public opinion by framing issues, setting the public agenda, and influencing the way people think about events and policies. It reaches a wide audience and can reinforce or challenge perceptions, making it a major influence on how opinions are formed.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1275,
     "question": "In a unitary system of government,power is concentrated at the center",
     "option": {
@@ -6716,6 +7164,22 @@
     "image": "",
     "answer": "b",
     "solution": "A distinctive feature of the Richards Constitution was its provision for a Legislative Council for the whole of Nigeria.\n\nNorthern and Southern Niger were brought together under one Legislative Council. That is, the same laws were made for the whole country by the same legislature.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1313,
+    "question": "The head of the Nigerian judiciary is the",
+    "option": {
+      "a": "Solicitor-Genral of the Federation",
+      "b": "President of the Court of Appeal",
+      "c": "Chief Justice of the Federation",
+      "d": "Attorney-General and Minister of Justice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Chief Justice of the Federation is Head of Nigerian Judiciary.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -7120,6 +7584,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1387,
+    "question": "The 1989 Nigerian Constitution provided for a",
+    "option": {
+      "a": "multi-party system",
+      "b": "zero-party system",
+      "c": "two-party system",
+      "d": "one-party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The 1989 Nigerian Constitution provided for a Two-Party System.\nThis made General Ibrahim Babangida to float two national parties on behalf of government where all politicians had to fit in.\n\nThe political parties were as follows:\n1. The Social Democratic Party (SDP)\n2. National Republican Convention (NRC)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1390,
     "question": "The British colonial rule in Nigeria brought about",
     "option": {
@@ -7308,6 +7788,22 @@
     "image": "",
     "answer": "b",
     "solution": "One advantage of the unitary system over Federal System is cost effectiveness. It reduces the cost of running the country. This is because few hands are involved in government.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1434,
+    "question": "A prominent feature of a presidential system of government is",
+    "option": {
+      "a": "vote of no confidence",
+      "b": "separation of powers",
+      "c": "dual executive",
+      "d": "the rule of law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a presidential system of government, the three branches: executive, legislative, and judicial, are distinctly separate and operate independently of each other. This separation of powers is a hallmark of the presidential model, ensuring that no single branch becomes too dominant and that each branch can check and balance the others. This contrasts with parliamentary systems, where the executive is typically derived from the legislature and can be removed through a vote of no confidence.",
     "examtype": "utme",
     "examyear": "2009"
   },
