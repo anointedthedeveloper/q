@@ -16,6 +16,22 @@
     "examyear": "2014"
   },
   {
+    "id": 2,
+    "question": "One of the objectives of buying a term assurance policy is to",
+    "option": {
+      "a": "protect  dependants  in  case  of  death  of  the  life assured",
+      "b": "reduce financial burden of the life assured",
+      "c": "supplement retirement income  of  the  life  assured",
+      "d": "maximize savings from the life assured"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 3,
     "question": "An assurance policy taken by experts to cover possible negligence arising from their duties is",
     "option": {
@@ -539,6 +555,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 68,
+    "question": "The buyer of insurance product is",
+    "option": {
+      "a": "Agent",
+      "b": "Broker",
+      "c": "Insured",
+      "d": "Insurer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "1"
@@ -1232,6 +1264,22 @@
     "examyear": "2"
   },
   {
+    "id": 144,
+    "question": "The date on which an insurance or reinsurance contract comes into force is known as",
+    "option": {
+      "a": "Starting point date",
+      "b": "Inception date",
+      "c": "Beginning date",
+      "d": "Commencement date"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 145,
     "question": "Factor that causes an exposure to injury, loss or damage is",
     "option": {
@@ -1600,6 +1648,22 @@
     "examyear": "3"
   },
   {
+    "id": 181,
+    "question": "To break or act contrary to a law or promise means",
+    "option": {
+      "a": "Breach",
+      "b": "Shake",
+      "c": "Confirm",
+      "d": "Disagreement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 185,
     "question": "In insurance contract, failure to disclose all relevant material facts will render the contract",
     "option": {
@@ -1719,6 +1783,22 @@
       "b": "Repair",
       "c": "Reinstatement",
       "d": "Repayment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 198,
+    "question": "A payment made by insurer as a form of sympathy to maintain goodwill is",
+    "option": {
+      "a": "Compensation payment",
+      "b": "Contract payment",
+      "c": "Charity payment",
+      "d": "Ex - gratia payment"
     },
     "section": "",
     "image": "",
@@ -2064,6 +2144,22 @@
     "examyear": "4"
   },
   {
+    "id": 236,
+    "question": "Which of the method below can be used to provide indemnity in the event of loss",
+    "option": {
+      "a": "moral advice",
+      "b": "resolution of policy",
+      "c": "cash payment",
+      "d": "professional encouragement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 238,
     "question": "Situation that are not included in the policy are usually referred to as",
     "option": {
@@ -2087,6 +2183,22 @@
       "b": "conclusion",
       "c": "condition",
       "d": "preamble"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 242,
+    "question": "A written amendment in addition or alterations to the information stated in the policy is called",
+    "option": {
+      "a": "endorsement",
+      "b": "specification",
+      "c": "construction",
+      "d": "attestation"
     },
     "section": "",
     "image": "",
