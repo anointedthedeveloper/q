@@ -5984,6 +5984,22 @@
     "examyear": "2020"
   },
   {
+    "id": 383,
+    "question": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of?",
+    "option": {
+      "a": "4",
+      "b": "π²",
+      "c": " 1/4",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Formula for period of simple pendulum:\nT = 2π√(L/g)\nwhere:\n\nT = period\nL = length of pendulum\ng = acceleration due to gravity\n\nRelationship between period and length:\nT ∝ √L\nInitial conditions:\nT₁ = 2π√(L/g)\nWhen length is increased by factor of 4:\nNew length = 4L\nT₂ = 2π√(4L/g)\nT₂ = 2π√4 × √(L/g)\nT₂ = 2π × 2 × √(L/g)\nT₂ = 2 × [2π√(L/g)]\nT₂ = 2T₁\nFactor of increase:\nT₂/T₁ = 2",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 384,
     "question": "In what range of temperature is the expansion of water anomalous?",
     "option": {
@@ -12700,6 +12716,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nInitial volume (V₁) = 600 cm³\nInitial temperature (T₁) = 27°C = 27 + 273 = 300 K\nFinal temperature (T₂) = 35°C = 35 + 273 = 308 K\nPressure = constant\nFinal volume (V₂) = ?\n\nUsing Charles' Law (constant pressure):\nV₁/T₁ = V₂/T₂\nRearranging for V₂:\nV₂ = V₁ × T₂/T₁\nSubstituting values:\nV₂ = 600 × 308/300\nV₂ = 600 × 1.02667\nV₂ = 616 cm³",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 815,
+    "question": "A block of aluminum is heated electrically by a 25W heater. If the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is?",
+    "option": {
+      "a": " 850 JK⁻¹",
+      "b": "750 JK⁻¹",
+      "c": " 650 JK⁻¹",
+      "d": "500 JK⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPower (P) = 25 W\nTemperature rise (ΔT) = 10°C = 10 K\nTime (t) = 5 minutes = 5 × 60 = 300 seconds\nHeat capacity (C) = ?\n\nStep 1: Calculate total heat energy supplied\nEnergy = Power × Time\nQ = P × t\nQ = 25 × 300\nQ = 7500 J\nStep 2: Calculate heat capacity\nHeat capacity is the heat required to raise the temperature of an object by 1K:\nQ = CΔT\nRearranging for C:\nC = Q/ΔT\nSubstituting values:\nC = 7500/10\nC = 750 JK⁻¹",
     "examtype": "utme",
     "examyear": "2008"
   },
