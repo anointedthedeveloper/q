@@ -12064,6 +12064,22 @@
     "examyear": "2016"
   },
   {
+    "id": 832,
+    "question": "The pie chart above shows the distribution of subjects offered by students in SSS III level. If 80 students enrolled in the class. What is the size of the angle of the sector in economics?",
+    "option": {
+      "a": "24°",
+      "b": "39°",
+      "c": "32°",
+      "d": "36°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003024/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q14_eebusn.jpg",
+    "answer": "c",
+    "solution": "x° + 36° + 54° + 28° + 90° + 120° = 360°\n\nx + 328° = 360°\nx = 360° - 328°\nx = 32°",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 833,
     "question": "Calculate the range of 20, -6, 25, 30, 21, 28, 32, 33, 34, 5, 3, 2, and 1.",
     "option": {
