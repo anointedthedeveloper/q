@@ -7632,6 +7632,22 @@
     "examyear": "2023"
   },
   {
+    "id": 505,
+    "question": "Calculate the absolute pressure at the bottom of a lake at a depth of 32.8 m. Assume the density of the water is 1 × 10³ kgm⁻³ and the air above is at a pressure of 101.3 kPa. [Take g = 9.8 ms⁻²]",
+    "option": {
+      "a": " 422.7 kPa",
+      "b": " 220.14 kPa",
+      "c": "464.53 kPa",
+      "d": "321.74 kPa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDepth, h = 32.8 m\nDensity of water, ρ = 1 × 10³ kg/m³ = 1000 kg/m³\nAtmospheric pressure, P₀ = 101.3 kPa = 101,300 Pa\nAcceleration due to gravity, g = 9.8 m/s²\nAbsolute pressure, P = ?\n\nSolution:\nUsing the absolute pressure formula:\nP = P₀ + ρgh\nWhere:\n\nP₀ = atmospheric pressure\nρgh = pressure due to water column\n\nStep 1: Calculate pressure due to water column\nP_water = ρgh\nP_water = 1000 × 9.8 × 32.8\nP_water = 321,440 Pa\nP_water = 321.44 kPa\nStep 2: Calculate absolute pressure\nP = P₀ + P_water\nP = 101.3 + 321.44\nP = 422.74 kPa\nP ≈ 422.7 kPa",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 506,
     "question": "The terminals of a battery of emf 24.0 V and internal resistance of 1.0 Ω is connected to an external resistor 5.0 Ω. Find the terminal p.d.",
     "option": {
@@ -9356,6 +9372,22 @@
     "image": "",
     "answer": "c",
     "solution": "Vector relationship:\nWhen the angle between two vectors is 0°, both vectors point in the same direction.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 622,
+    "question": "A body of mass 4kg is acted on by a constant force of 12N for 3 seconds. The kinetic energy gained by the body at the end of the time is",
+    "option": {
+      "a": "144J",
+      "b": "162J",
+      "c": " 81J",
+      "d": "72J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate acceleration\nFormula: F = ma\na = F/m = 12/4 = 3 m/s²\nStep 2: Calculate final velocity\nFormula: v = u + at\nv = 0 + (3 × 3)\nv = 9 m/s\nStep 3: Calculate kinetic energy gained\nFormula: KE = ½mv²\nKE = ½ × 4 × (9)²\nKE = ½ × 4 × 81\nKE = 2 × 81\nKE = 162 J",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -15420,6 +15452,22 @@
     "image": "",
     "answer": "d",
     "solution": "The higher the amplitude of sound the larger the loudness of sound and the lower the amplitude of sound waves the softer the loudness of sound by this we get to know that the amplitude of a sound wave decides the loudness of sound or we can call it the intensity of sound.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1024,
+    "question": "A pinhole camera is placed 300 m in front of a building so that the image is formed on a screen 5 cm from the pinhole. If the image is 2.5 cm high, the height of the building will be",
+    "option": {
+      "a": "25 m",
+      "b": "50 m",
+      "c": "100 m",
+      "d": "150 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nObject distance, u = 300 m\nImage distance, v = 5 cm = 0.05 m\nImage height, hᵢ = 2.5 cm = 0.025 m\n\nSolution:\n\nStep 1: Magnification formula for pinhole camera\nMagnification m = image height / object height = hᵢ / h₀\nAlso, for pinhole camera, m = v / u\n\nStep 2: Equate the two expressions\nv / u = hᵢ / h₀\n\nStep 3: Substitute values\n0.05 / 300 = 0.025 / h₀\n\nStep 4: Solve for h₀\nh₀ = (0.025 × 300) / 0.05 = (7.5) / 0.05 = 150 m",
     "examtype": "utme",
     "examyear": "2012"
   },
