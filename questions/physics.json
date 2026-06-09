@@ -32,6 +32,22 @@
     "examyear": "2006"
   },
   {
+    "id": 3,
+    "question": "A nail is pulled from a wall with a string tied to the nail. If the string is inclined at an angle of 30oC to the wall and the tension in the string is 50N, the effective force used in pulling the nail is: ",
+    "option": {
+      "a": "25N ",
+      "b": "25√3 N ",
+      "c": "50N ",
+      "d": "50√3N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 5,
     "question": "Which of the following statements is not true? ",
     "option": {
@@ -272,6 +288,22 @@
     "examyear": "2007"
   },
   {
+    "id": 33,
+    "question": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four ",
+    "option": {
+      "a": "2",
+      "b": "4",
+      "c": "2",
+      "d": "¼"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 34,
     "question": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment? ",
     "option": {
@@ -363,6 +395,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 45,
+    "question": "To find the dept of the sea, a ship send out a second waves and an echo after one second. If the velocity of sound in water is 1500m/s, what is the depth of the sea ",
+    "option": {
+      "a": "0.75km ",
+      "b": "1.50km ",
+      "c": "2.20km ",
+      "d": "3.00km "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -960,6 +1008,22 @@
     "examyear": "2011"
   },
   {
+    "id": 113,
+    "question": "Two plane mirrors are inclined at angle 45 to another. A ray of light has incident angle of 20 at the surface of the first mirror. The reflected ray is then incident on the second mirror. Calculate the angle of reflection at the second mirror ",
+    "option": {
+      "a": "65",
+      "b": "45",
+      "c": "25",
+      "d": "20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 114,
     "question": "When the length of the string of a simple pendulum is L its period is 0.5π second is 0.5π seconds. The period when the length is increased to 4L will be ",
     "option": {
@@ -1472,6 +1536,22 @@
     "examyear": "2016"
   },
   {
+    "id": 188,
+    "question": "The instrument used to view stars is the",
+    "option": {
+      "a": "Prism binoculars",
+      "b": "Telescope",
+      "c": " Film projector",
+      "d": "Microscope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A telescope is the instrument used to view stars and other celestial objects.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 190,
     "question": "A wire of length 10m is cooled from 50oC to 10oC. Calculate the decrease in the length of the wire. [c = 3 x 10-5K-1]",
     "option": {
@@ -1568,6 +1648,22 @@
     "examyear": "2016"
   },
   {
+    "id": 200,
+    "question": "A metre rule is pivoted at its mid-point with a vertical force of 10N hanging from the distance 30cm from the mid-point. At what distance must a 15N force hang to balance the ruler horizontally?",
+    "option": {
+      "a": "30cm",
+      "b": "10cm",
+      "c": "20cm",
+      "d": "25m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMeter rule pivoted at mid-point (50 cm mark)\nForce 1 (F₁) = 10 N at distance d₁ = 30 cm from pivot\nForce 2 (F₂) = 15 N at distance d₂ = ? from pivot\n\nPrinciple of moments:\nFor the ruler to balance horizontally:\nClockwise moment = Anticlockwise moment\nFormula:\nF₁ × d₁ = F₂ × d₂\nRearranging to find d₂:\nd₂ = (F₁ × d₁)/F₂\nSubstituting values:\nd₂ = (10 × 30)/15\nd₂ = 300/15\nd₂ = 20 cm\nAnswer: C. 20cm\nThe 15N force must hang at a distance of 20cm from the mid-point to balance the ruler horizontally.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 202,
     "question": "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is",
     "option": {
@@ -1596,6 +1692,22 @@
     "image": "",
     "answer": "d",
     "solution": "Gamma rays have the shortest wavelength among all electromagnetic waves.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 204,
+    "question": " radioactive isotope has a decay constant of 10⁻⁶ s⁻¹. Calculate its half-life.",
+    "option": {
+      "a": "5.93 × 10⁶ s",
+      "b": "6.93 × 10⁵ s",
+      "c": "6.93 × 10⁹ s",
+      "d": " 5.93 × 10⁷ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁶ s⁻¹\nHalf-life (t₁/₂) = ?\n\nFormula relating half-life and decay constant:\nt₁/₂ = 0.693/λ\nor\nt₁/₂ = (ln 2)/λ = 0.693/λ\nSubstituting values:\nt₁/₂ = 0.693/(10⁻⁶)\nt₁/₂ = 0.693 × 10⁶\nt₁/₂ = 6.93 × 10⁵ s\nAnswer: B. 6.93 × 10⁵ s\nThe half-life of the radioactive isotope is 6.93 × 10⁵ seconds.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1856,6 +1968,22 @@
     "examyear": "2017"
   },
   {
+    "id": 236,
+    "question": "Under which of the following conditions is workdone",
+    "option": {
+      "a": "A man supports a heavy food above his head with his hands",
+      "b": "A boy climbs onto a table",
+      "c": "A man pushes unto a table",
+      "d": "A woman holds a pot of water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "For work to be done, distance must be involved because\nworkdone = force × distance",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 238,
     "question": "A cell of internal resistance 2Ω supplies current to a 6Ω resistor. The efficiency of the cell is",
     "option": {
@@ -1984,6 +2112,22 @@
     "examyear": "2017"
   },
   {
+    "id": 260,
+    "question": "Which of the following is correct about an electric cell?",
+    "option": {
+      "a": "Primary cell produces a large current for a long time",
+      "b": "Secondary cell has a very high internal resistance",
+      "c": " Primary cell has a very low internal resistance",
+      "d": " Secondary cell has a very low internal resistance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding cell types:\nPrimary cells:\n\nNon-rechargeable (disposable)\nExamples: dry cells, alkaline batteries\nRelatively high internal resistance\nCannot produce large currents for long periods\nChemical reactions are irreversible\n\nSecondary cells:\n\nRechargeable\nExamples: lead-acid batteries, lithium-ion batteries\nLow internal resistance\nCan deliver large currents for extended periods\nChemical reactions are reversible\n\nSecondary (rechargeable) cells have very low internal resistance, which allows them to deliver large currents efficiently.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 262,
     "question": "Which of the following surfaces will absorb radiant heat energy?",
     "option": {
@@ -2012,6 +2156,22 @@
     "image": "",
     "answer": "d",
     "solution": "Protons exist in the atomic nucleus along with neutrons. Together they form the nucleus, while electrons orbit outside.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 264,
+    "question": "The instrument to measure the relative density of liquid is",
+    "option": {
+      "a": "thermometer",
+      "b": "hydrometer",
+      "c": "spring balance",
+      "d": "beaker"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A hydrometer is the instrument used to measure the relative density of liquids.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -2592,6 +2752,22 @@
     "examyear": "2019"
   },
   {
+    "id": 333,
+    "question": "A metal rod has a length of 100cm at 200°C. At what temperature will its length be 99.4cm, if the linear expansivity of the material of the rod is 2 × 10⁻⁵ °C⁻¹?",
+    "option": {
+      "a": "200°C",
+      "b": "300°C",
+      "c": "100°C",
+      "d": " -100°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nLength at 200°C (L₁) = 100 cm\nFinal length (L₂) = 99.4 cm\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\nInitial temperature (T₁) = 200°C\nFinal temperature (T₂) = ?\n\nFormula for linear expansion:\nL₂ = L₁[1 + α(T₂ - T₁)]\nSubstituting values:\n99.4 = 100[1 + 2 × 10⁻⁵(T₂ - 200)]\nDividing both sides by 100:\n0.994 = 1 + 2 × 10⁻⁵(T₂ - 200)\nRearranging:\n0.994 - 1 = 2 × 10⁻⁵(T₂ - 200)\n-0.006 = 2 × 10⁻⁵(T₂ - 200)\nSolving for (T₂ - 200):\n(T₂ - 200) = -0.006 / (2 × 10⁻⁵)\n(T₂ - 200) = -0.006 / 0.00002\n(T₂ - 200) = -300\nTherefore:\nT₂ = -300 + 200\nT₂ = -100°C",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 334,
     "question": "According to kinetic molecular model, in gases",
     "option": {
@@ -2832,6 +3008,22 @@
     "examyear": "2019"
   },
   {
+    "id": 361,
+    "question": "The conductivity of gases at low pressure can be termed as\nI. hot cathode emission\nII. thermo ionic emission\nIII. cold cathode emission\nIV. Field emission",
+    "option": {
+      "a": "I & II",
+      "b": "II & III",
+      "c": " III & IV",
+      "d": " IV & V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The conductivity of gases at low pressure can be termed as cold cathode emission and field emission, both of which occur without heating and are characteristic of gas discharge phenomena.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 363,
     "question": "The earth's gravitational field intensity at its surface is about (G = 6.7 × 10⁻¹¹ Nm²/kg², mass of the earth is 6 × 10²⁴ kg, radius of the earth is 6.4 × 10⁶ m, g on the earth = 9.8 m/s²)",
     "option": {
@@ -2912,6 +3104,22 @@
     "examyear": "2019"
   },
   {
+    "id": 370,
+    "question": "When water is boiling, it",
+    "option": {
+      "a": " gets hotter",
+      "b": " increase is mass",
+      "c": "decreases in mass",
+      "d": "changes to steam"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Boiling indicates changes from Liquid to gas.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 371,
     "question": "A mixture of blue and red pigment when illuminated by white light will appear",
     "option": {
@@ -2924,6 +3132,22 @@
     "image": "",
     "answer": "d",
     "solution": "A mixture of blue and red pigment when illuminated by white light will appear magenta (purple), as both red and blue wavelengths are reflected while other colors are absorbed.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 372,
+    "question": "A siren having a ring of 200 hole makes 132 rev/min. A jet of air is directed on the set of holes. Calculate the frequency and wavelength in air of the note produced (take v = 350m/s)",
+    "option": {
+      "a": "0.795m",
+      "b": " 0.625m",
+      "c": "0.335m",
+      "d": "0.125m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nNumber of holes = 200\nRevolutions = 132 rev/min\nSpeed of sound (v) = 350 m/s\nWavelength (λ) = ?\n\nStep 1: Calculate frequency\nEach revolution produces 200 sound pulses (one per hole)\nFrequency = Number of holes × Revolutions per second\nFirst convert rev/min to rev/s:\n132 rev/min = 132/60 rev/s = 2.2 rev/s\nFrequency (f) = 200 × 2.2\nf = 440 Hz\nStep 2: Calculate wavelength\nUsing wave equation:\nv = fλ\nRearranging:\nλ = v/f\nλ = 350/440\nλ = 0.795 m",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -3740,6 +3964,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Consider expansion in three dimensions\nFor a solid with initial dimensions L₀ × L₀ × L₀:\n\nInitial volume, V₀ = L₀³\n\nStep 2: Apply linear expansion to each dimension\nAfter temperature change ΔT:\n\nNew length in each dimension = L₀(1 + αΔT)\n\nStep 3: Calculate new volume\nV = [L₀(1 + αΔT)]³\nV = L₀³(1 + αΔT)³\nStep 4: Expand binomially (neglecting higher order terms)\nV = L₀³(1 + 3αΔT + 3α²ΔT² + α³ΔT³)\nSince α is very small (typically 10⁻⁵ to 10⁻⁶), higher powers can be ignored:\nV ≈ L₀³(1 + 3αΔT)\nV = V₀(1 + 3αΔT)\nStep 5: Compare with volumetric expansion formula\nStandard volumetric expansion: V = V₀(1 + γΔT)\nComparing both equations:\nγ = 3α",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 476,
+    "question": "A magnet relay is a device used for?",
+    "option": {
+      "a": "reading the magnitude of magnetic flux",
+      "b": "controlling another circuit carrying larger current",
+      "c": " turning in sports",
+      "d": "storing magnetic field"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Relays are electrically operated switches that open and close the circuits by receiving electrical signals from outside sources.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -4768,6 +5008,22 @@
     "examyear": "2004"
   },
   {
+    "id": 603,
+    "question": "For semi conductor to have negative temperature coefficient of resistance implies that",
+    "option": {
+      "a": "their resistance decrease with temperature",
+      "b": "The resistance increase with temperature",
+      "c": "their resistance is constantly changing with temperature",
+      "d": "they have electrons and holes at high temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nA negative temperature coefficient means α < 0\nThis occurs when ΔR < 0 for ΔT > 0\nTherefore: as temperature increases, resistance decreases\nPhysical basis:\nIn semiconductors, higher temperature increases the number of charge carriers (electrons and holes), which increases conductivity and decreases resistance.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 609,
     "question": "\nThe binding energy of helium ⁴₂He is\n[atomic mass of proton = 1.00783U, atomic mass of neutron = 1.00867U]",
     "option": {
@@ -5500,6 +5756,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nCell with internal resistance r\nExternal resistor R\nNeed to find condition for maximum power transfer\n\nSolution:\nStep 1: Set up power equation\nCurrent in circuit: I = E/(R + r)\nWhere E = EMF of cell\nPower delivered to external resistor:\nP = I²R = [E/(R + r)]² × R\nP = E²R/(R + r)²\nStep 2: Find maximum power condition\nFor maximum power, take derivative dP/dR and set equal to zero:\ndP/dR = E²[(R + r)² - R × 2(R + r)]/(R + r)⁴ = 0\nSimplifying the numerator:\n(R + r)² - 2R(R + r) = 0\n(R + r)[(R + r) - 2R] = 0\n(R + r)(r - R) = 0\nStep 3: Solve for R\nSince R + r ≠ 0:\nr - R = 0\nR = r\nStep 4: Maximum Power Transfer Theorem\nThis result is known as the Maximum Power Transfer Theorem: Maximum power is transferred from a source to a load when the load resistance equals the source's internal resistance.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 709,
+    "question": "The production and type of charge of a body can only be accounted for by the?",
+    "option": {
+      "a": " deficiency or surplus of electrons",
+      "b": "equibrium in protons and neutrons",
+      "c": "deficiency or surplus of protrons",
+      "d": "deficiency or surplus of neutrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nThe charge of a body is determined by the imbalance between the number of protons (positively charged) and electrons (negatively charged). A deficiency of electrons results in a positive charge, while a surplus of electrons results in a negative charge.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -6252,6 +6524,22 @@
     "image": "",
     "answer": "c",
     "solution": "Counting currency notes with moist fingers is based on the principle of adhesion - the attractive force between water molecules (on the finger) and paper molecules (of the note), which creates a grip that helps separate and count individual notes.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 811,
+    "question": "An empty density bottle weighs 2 N. if it weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is?",
+    "option": {
+      "a": "1/3",
+      "b": "2/3",
+      "c": "1/5",
+      "d": "2/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nWeight of empty bottle = 2 N\nWeight of bottle + water = 5 N\nWeight of bottle + olive oil = 4 N\n\nSolution:\n\nStep 1: Find weight of water and oil\nWeight of water = 5 N – 2 N = 3 N\nWeight of oil = 4 N – 2 N = 2 N\n\nStep 2: Relative density definition\nRelative density of oil = (mass of oil) / (mass of water) for the same volume. Since weight is proportional to mass (g constant),\nRelative density = (weight of oil) / (weight of water) = 2 N / 3 N = 2/3",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -7744,6 +8032,22 @@
     "examyear": "2011"
   },
   {
+    "id": 999,
+    "question": "A wire of length 5.0 m and cross-sectional area 2.0 × 10⁻⁶ m² has a resistance of 0.5Ω. Calculate the resistivity of the material.",
+    "option": {
+      "a": "1.0 × 10⁻⁷ Ωm",
+      "b": "2.0 × 10⁻⁷ Ωm",
+      "c": "5.0 × 10⁻⁷ Ωm",
+      "d": "1.25 × 10⁻⁶ Ωm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLength (L) = 5.0 m\nCross-sectional area (A) = 2.0 × 10⁻⁶ m²\nResistance (R) = 0.5 Ω\nResistivity (ρ) = ?\n\nFormula for resistance:\nR = ρL/A\nRearranging for resistivity:\nρ = RA/L\nSubstituting values:\nρ = (0.5 × 2.0 × 10⁻⁶)/5.0\nρ = (1.0 × 10⁻⁶)/5.0\nρ = 0.2 × 10⁻⁶\nρ = 2.0 × 10⁻⁷ Ωm",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 1003,
     "question": "A car starts from rest and moves with a uniform acceleration of 30ms⁻² for 20s. Calculate the distance covered at the end of the motion",
     "option": {
@@ -7868,6 +8172,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nVolume of balloon = 300 m³\nDensity of air = 1.3 kg m⁻³\ng = 10 m s⁻²\n\nSolution:\n\nStep 1: Upthrust (buoyant force)\nUpthrust = weight of displaced air = (density of air) × (volume) × g\n\nStep 2: Substitute values\nUpthrust = 1.3 kg m⁻³ × 300 m³ × 10 m s⁻² = 1.3 × 300 × 10 = 3900 N",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1017,
+    "question": "Which of the following is NOT a factor that can increase the rate of evaporation of water in a lake?",
+    "option": {
+      "a": " increase in the pressure of the atmosphere",
+      "b": "rise in temperature",
+      "c": " increase in the average speed of the molecules of water",
+      "d": "increase in the kinetic energy of the molecules of water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Increase in the pressure of the atmosphere does NOT increase evaporation.",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -8096,6 +8416,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1046,
+    "question": "A piece of cork floats in a liquid. What fraction of its volume will be immersed in the liquid? [Density of the cork = 0.25 × 10³ kgm⁻³, Density of the liquid = 1.25 × 10³ kgm⁻³]",
+    "option": {
+      "a": "0.8",
+      "b": "0.5",
+      "c": "0.2",
+      "d": "0.1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nDensity of cork (ρ_cork) = 0.25 × 10³ kg/m³ = 250 kg/m³\nDensity of liquid (ρ_liquid) = 1.25 × 10³ kg/m³ = 1250 kg/m³\nFraction of volume immersed = ?\n\nPrinciple of flotation:\nFor a floating object:\nWeight of object = Weight of liquid displaced (Upthrust)\nSetting up equation:\nLet:\n\nV = total volume of cork\nV_immersed = volume of cork immersed in liquid\n\nWeight of cork:\nW_cork = ρ_cork × V × g\nUpthrust (weight of liquid displaced):\nUpthrust = ρ_liquid × V_immersed × g\nAt equilibrium (floating):\nρ_cork × V × g = ρ_liquid × V_immersed × g\nSimplifying (g cancels):\nρ_cork × V = ρ_liquid × V_immersed\nSolving for fraction immersed:\nV_immersed/V = ρ_cork/ρ_liquid\nSubstituting values:\nFraction immersed = (0.25 × 10³)/(1.25 × 10³)\nFraction immersed = 0.25/1.25\nFraction immersed = 1/5\nFraction immersed = 0.2",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1047,
     "question": "An object is moving with a velocity of 5 ms⁻¹. At what height must a similar body be situated to have a potential energy equal in value with kinetic energy of the moving body?",
     "option": {
@@ -8108,6 +8444,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nVelocity of moving object (v) = 5 m/s\ng = 10 m/s² (assumed standard)\nHeight where PE = KE = ?\nBoth objects have same mass (similar body)\n\nStep 1: Write energy equations\nKinetic energy of moving body:\nKE = ½mv²\nPotential energy of stationary body at height h:\nPE = mgh\nStep 2: Set energies equal\nFor PE to equal KE:\nmgh = ½mv²\nStep 3: Simplify (mass m cancels)\ngh = ½v²\nStep 4: Solve for height\nh = v²/(2g)\nSubstituting values:\nh = (5)²/(2 × 10)\nh = 25/20\nh = 1.25 m\nh ≈ 1.3 m",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1048,
+    "question": "\nIf a pump is capable of lifting 5000kg of water through a vertical height of 60m in 15 min, the power of the pump is",
+    "option": {
+      "a": "2.5 × 10⁵ Js⁻¹",
+      "b": "2.5 × 10⁴ Js⁻¹",
+      "c": "3.3 × 10³ Js⁻¹",
+      "d": "3.3 × 10² Js⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\n\nMass of water (m) = 5000 kg\nHeight (h) = 60 m\nTime (t) = 15 min = 15 × 60 = 900 s\ng = 10 m/s² (assumed)\nPower (P) = ?\n\nUnderstanding power:\nPower = Work done / Time taken\nStep 1: Calculate work done\nWork = Potential energy gained\nW = mgh\nSubstituting values:\nW = 5000 × 10 × 60\nW = 3,000,000 J\nW = 3.0 × 10⁶ J\nStep 2: Calculate power\nP = W/t\nP = (3.0 × 10⁶)/900\nP = 3333.33 W\nP = 3.3 × 10³ W\nP = 3.3 × 10³ Js⁻¹",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -8300,6 +8652,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Calculate total power consumption\nPower from ten 40 W bulbs = 10 × 40 W = 400 W\nPower from five 100 W bulbs = 5 × 100 W = 500 W\nTotal power = 400 W + 500 W = 900 W = 0.9 kW\n\nStep 2: Calculate energy consumed\nEnergy = Power × Time = 0.9 kW × 10 h = 9 kWh\n\nStep 3: Calculate cost\nCost = Energy × cost per unit = 9 kWh × 5 N = 45 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1075,
+    "question": "To convert a galvanometer to a voltmeter, a",
+    "option": {
+      "a": "high resistance is connected to it in series",
+      "b": " high resistance is connected to it in parallel",
+      "c": " low resistance is connected to it in parallel",
+      "d": " low resistance is connected to it in series"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To convert a galvanometer (which measures current) into a voltmeter (which measures voltage), a high resistance is connected in series with the galvanometer. This limits the current flowing through the galvanometer, allowing it to measure higher voltages without exceeding its maximum current rating.",
     "examtype": "utme",
     "examyear": "2013"
   },
