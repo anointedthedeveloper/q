@@ -576,6 +576,22 @@
     "examyear": "2004"
   },
   {
+    "id": 46,
+    "question": "The most common characteristic of the fungal hyphae is the possession of  ",
+    "option": {
+      "a": "cell like compartments with one nucleus each  ",
+      "b": "cell walls that are true are both rigid and chitinous  ",
+      "c": "a multicellular mycelium in strate  ",
+      "d": "cell like partitions formed  by cross walls"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 47,
     "question": "Insects are considered the most successful among the invertebrates because they",
     "option": {
@@ -955,6 +971,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 80,
+    "question": "Rodents gnaw on food with their",
+    "option": {
+      "a": "molar teeth  ",
+      "b": "strong jaws   ",
+      "c": "flat-ridged teeth  ",
+      "d": "chisel like front teeth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -2688,6 +2720,22 @@
     "examyear": "2008"
   },
   {
+    "id": 210,
+    "question": "The main ecological  problem facing interidal organisms is",
+    "option": {
+      "a": "dessciation",
+      "b": "floatation",
+      "c": "salinity",
+      "d": "humidity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 211,
     "question": "Stomata  of some plants are sunken and protected by hairs. These are features of ",
     "option": {
@@ -2747,6 +2795,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 216,
+    "question": "Which of the following is a major case of variation among  organisms?  ",
+    "option": {
+      "a": "inbreeding  ",
+      "b": "backcrossing   ",
+      "c": "sexual reproduction",
+      "d": "Gene dominance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -3872,6 +3936,22 @@
     "examyear": "2011"
   },
   {
+    "id": 308,
+    "question": "Which of the following can cause shrinkage  of living cells?  ",
+    "option": {
+      "a": "Isotonic solution   ",
+      "b": "Delonized water  ",
+      "c": "Hypertonic solution",
+      "d": "hypotonic solution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 309,
     "question": "Which of the following is true of leucocytes?  ",
     "option": {
@@ -4480,6 +4560,22 @@
     "examyear": "2012"
   },
   {
+    "id": 360,
+    "question": "Which of the following is a polysaccharide?",
+    "option": {
+      "a": "Glucose  ",
+      "b": "sucrose",
+      "c": "Maltose   ",
+      "d": "Cellulose"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 361,
     "question": "In the kidney of mammals, the site of ultra filtration is the",
     "option": {
@@ -4683,6 +4779,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 380,
+    "question": "The short thick beak in birds is an adaptation for",
+    "option": {
+      "a": "crushing seeds",
+      "b": "sucking nectar  ",
+      "c": "tearing flesh",
+      "d": "straining mud"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
