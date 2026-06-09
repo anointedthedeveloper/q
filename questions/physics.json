@@ -1760,6 +1760,22 @@
     "examyear": "2015"
   },
   {
+    "id": 174,
+    "question": "The two liquids which are often used in thermometer on experiment basic is known as",
+    "option": {
+      "a": "Mercury only",
+      "b": " Alcohol and Water",
+      "c": "Mercury and Alcohol",
+      "d": "Alcohol only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mercury and alcohol are often used in THERMOMETER\n\nNote:Water is never allowed to be used in thermometer because, it doesn’t expand uniformly",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 175,
     "question": "Neutron were discovered by",
     "option": {
@@ -9456,6 +9472,22 @@
     "examyear": "2009"
   },
   {
+    "id": 900,
+    "question": "Two cars moving in the same direction have speeds of 100 kmh⁻¹ and 130 kmh⁻¹. What is the velocity of the faster car as measured by an observer in the slower car?",
+    "option": {
+      "a": "30 kmh⁻¹",
+      "b": "130 kmh⁻¹",
+      "c": "200 kmh⁻¹",
+      "d": "230 kmh⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nSpeed of slower car (v₁) = 100 km/h\nSpeed of faster car (v₂) = 130 km/h\nBoth moving in the same direction\nRelative velocity = ?\n\nUnderstanding relative velocity:\nThe velocity of one object as measured by an observer in another moving object is called relative velocity.\nFormula for relative velocity (same direction):\nv_relative = v₂ - v₁\nSubstituting values:\nv_relative = 130 - 100\nv_relative = 30 km/h",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 901,
     "question": "A stone and a feather are dropped from the same height above the earth surface. Ignoring air resistance, which of the following is correct?",
     "option": {
@@ -10060,6 +10092,22 @@
     "image": "",
     "answer": "a",
     "solution": "Eclipse of the sun occurs when the moon which is opaque objects between the sun and the earth",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 978,
+    "question": "Which of the following is a property of steel?",
+    "option": {
+      "a": " it cannot retain its magnetism longer than iron",
+      "b": " it can be used for making temporary magnets",
+      "c": " it can be used for making permanent magnets",
+      "d": "it can easily be magnetized and demagnetized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Steel is not easily magnetized and dismagnetized",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -11324,6 +11372,22 @@
     "image": "",
     "answer": "a",
     "solution": "The quantity is the body's heat capacity.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1099,
+    "question": "The temperature at which the water vapour present in the air is just sufficient to saturate air is",
+    "option": {
+      "a": " Boiling point",
+      "b": "Ice point",
+      "c": "Saturation point",
+      "d": " Dew point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The correct term is dew point.",
     "examtype": "utme",
     "examyear": "2014"
   },
