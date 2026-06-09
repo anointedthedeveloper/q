@@ -2812,6 +2812,25 @@
     "category": "others"
   },
   {
+    "id": 168,
+    "question": "Asabe bought a <i>glossy</i>  pair of shoes ",
+    "option": {
+      "a": "smooth and shiny",
+      "b": "rough an dull",
+      "c": "smooth and shining",
+      "d": "rough an gummy"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 169,
     "question": "Manu is hard to convince because he is an <i>opinionated</i>  person",
     "option": {
@@ -13870,6 +13889,25 @@
     "category": "others"
   },
   {
+    "id": 951,
+    "question": "Nkechi was a <u>novice</u> when she was first employed?",
+    "option": {
+      "a": "manager",
+      "b": "clerk",
+      "c": "supervisor",
+      "d": "professional"
+    },
+    "section": "In each of the questions 49 to 63 choose the word that is <b>opposite</b> in meaning to the underlined word.",
+    "image": "",
+    "answer": "d",
+    "solution": "Novice; a person new to and inexperienced in a job or situation. \n\nOption D ''professional'' is the opposite in meaning",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 56,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 952,
     "question": "I do not trust him', he said, in a rare moment of <u>candour</u>?",
     "option": {
@@ -21884,6 +21922,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 47,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1531,
+    "question": "We saw Ifueko ____________ an egg on the wall",
+    "option": {
+      "a": "smashed",
+      "b": "smash",
+      "c": "smashing",
+      "d": "smashes"
+    },
+    "section": "Choose the word(s) or phrase(s) which best fill(s) the gap. ",
+    "image": "",
+    "answer": "b",
+    "solution": "‘Smash’ is the correct answer because the action conveyed is a single action.\n\nIn reported statements, writers/ speakers should retain the present tense.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 48,
     "hasPassage": 0,
     "category": "others"
   },
