@@ -48,6 +48,22 @@
     "examyear": "2001"
   },
   {
+    "id": 13,
+    "question": "What is the decrease in volume of air when pyrogallol is shaken with 30.00cm3 of air",
+    "option": {
+      "a": "15.00cm3",
+      "b": "6.00cm3",
+      "c": "0.63cm3",
+      "d": "0.06cm3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 16,
     "question": "Phosphorous is stored under water to precvent it from",
     "option": {
@@ -1936,6 +1952,22 @@
     "examyear": "2017"
   },
   {
+    "id": 410,
+    "question": "Temporary hard water is formed when rain water containing dissolved carbon (IV) oxide flows over deposits of",
+    "option": {
+      "a": "CaCO₃",
+      "b": "Na₂CO₃",
+      "c": "Na₂SO₄",
+      "d": "CaSO₄"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Temporary hardness is caused by dissolved Ca(HCO₃)₂. It forms when rainwater containing CO₂ flows over limestone (CaCO₃): CaCO₃ + CO₂ + H₂O → Ca(HCO₃)₂. The soluble calcium hydrogentrioxocarbonate causes temporary hardness, which can be removed by boiling.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 413,
     "question": "In the laboratory preparation of ethyl ethanoate, the water present in the mixture is removed using",
     "option": {
@@ -2204,6 +2236,22 @@
     "image": "",
     "answer": "c",
     "solution": "Using C₁V₁ = C₂V₂. C₁ = 2.2 M, V₁ = 1 L, V₂ = 1 + 10 = 11 L. C₂ = (2.2 × 1)/11 = 0.20 M.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 473,
+    "question": "In the experiment shown (solid ammonium chloride heated at 350°C, with porous asbestos plug and damp neutral litmus paper at the far end), the litmus paper will initially",
+    "option": {
+      "a": "be bleached",
+      "b": "turn green",
+      "c": "turn red",
+      "d": "turn blue"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777637831/ALOC-Questions/Chemistry/UTME/2018/Chemistry_2018_Q19_eqqfin.jpg",
+    "answer": "d",
+    "solution": "NH₄Cl sublimes on heating and dissociates: NH₄Cl(s) → NH₃(g) + HCl(g). The porous asbestos plug separates the gases — lighter NH₃ diffuses faster and reaches the litmus paper first (Graham's Law). NH₃ is alkaline and turns the damp neutral litmus paper blue initially. Later, HCl may turn it red.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3552,6 +3600,22 @@
     "examyear": "2024"
   },
   {
+    "id": 725,
+    "question": "The empirical formula of an organic liquid hydrocarbon is XY. If the relative molar masses of X and Y are 72 and 6 respectively, its vapour density is likely to be",
+    "option": {
+      "a": "33",
+      "b": "66",
+      "c": "39",
+      "d": "78"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Empirical formula mass = 72 + 6 = 78 g/mol. Vapour density = molar mass ÷ 2 = 78 ÷ 2 = 39.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 726,
     "question": "Biuret test is a chemical test used for detecting the presence of",
     "option": {
@@ -3772,6 +3836,22 @@
     "image": "",
     "answer": "d",
     "solution": "Citric acid is used as a flavoring and preservative in soft drinks, and reacts with sodium bicarbonate in baking powder to produce CO₂ for leavening. It is the common acid in both applications.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 767,
+    "question": "2Na + Cl₂ → 2NaCl. In the reaction above, the species that undergoes reduction is",
+    "option": {
+      "a": "Na",
+      "b": "NaCl",
+      "c": "Cl⁻",
+      "d": "Cl₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reduction is the gain of electrons (decrease in oxidation state). Cl₂ goes from oxidation state 0 to -1 in NaCl, so it gains electrons and undergoes reduction. Na goes from 0 to +1, so Na is oxidized.",
     "examtype": "utme",
     "examyear": "2025"
   },
