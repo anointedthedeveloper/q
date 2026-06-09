@@ -114,6 +114,25 @@
     "category": "others"
   },
   {
+    "id": 55,
+    "question": "My MOTHER served rice and fresh fish stew for dinner.",
+    "option": {
+      "a": "Did your mother serve rice and fresh fish stew for lunch?",
+      "b": "Who served rice and fresh fish stew for dinner?",
+      "c": "What kind of meal did your mother serve for dinner?",
+      "d": "what kind of meal did your mother serve for dinner? "
+    },
+    "section": "word in capital letters has the emphatic stress. Choose the option to which the sentence relates.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 62,
     "question": "The carpenter built a <i>commodious</i> wardrobe ",
     "option": {
@@ -1071,6 +1090,25 @@
       "b": " takeout   ",
       "c": "take",
       "d": "tike from"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 411,
+    "question": "The union officials suddenly became <i>reactive</i>",
+    "option": {
+      "a": "unruly ",
+      "b": "impatient ",
+      "c": "calm  ",
+      "d": "submissive "
     },
     "section": "choose the option nearest in meaning to the word or phrase In Italics",
     "image": "",
@@ -2675,6 +2713,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 94,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1474,
+    "question": "The student's union leader delivered his speech [extempore]",
+    "option": {
+      "a": "out-of-hand",
+      "b": "accurately",
+      "c": "off the cuff",
+      "d": "courageously"
+    },
+    "section": "CHOOSE THE OPTION THAT IS NEAREST IN MEANING TO THE WORD(S) IN BRACKET, FOR  THE QUESTIONS ",
+    "image": "",
+    "answer": "c",
+    "solution": "An extempore speech is made at the spur of the moment i.e without previous preparation.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 101,
     "hasPassage": 0,
     "category": "others"
   },
