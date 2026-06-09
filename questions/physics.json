@@ -256,6 +256,22 @@
     "examyear": "2007"
   },
   {
+    "id": 44,
+    "question": "If two masses 40g and 60g respectively, are attached firmly to end of a light metre rule, what is the centre of gravity of the system? ",
+    "option": {
+      "a": "at the mid point of the metre rule ",
+      "b": "40cm from the lighter mass ",
+      "c": "40cm from the heavier masses ",
+      "d": "60cm from the heavier masses "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 46,
     "question": "A machine has a velocity ratio of 5, if it requires a 50kg weight to overcome 200kg weight, the efficiency is? ",
     "option": {
@@ -480,6 +496,22 @@
     "examyear": "2010"
   },
   {
+    "id": 75,
+    "question": "An automobile is traveling at 60km/hr. calculate the angular velocity of the 0.35m radius wheels. ",
+    "option": {
+      "a": "16.67rad/s ",
+      "b": "47.6 rad/s ",
+      "c": "21 rad/s ",
+      "d": "171.4 rad/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 79,
     "question": "A 0.040kg string 0.80m long is stretched and vibrated in a fundamental mode with a frequency of 40Hz. What is the speed (of propagation) of the wave and tension in the string? ",
     "option": {
@@ -672,6 +704,22 @@
     "examyear": "2011"
   },
   {
+    "id": 106,
+    "question": "Which of the following is not a thermometer?  ",
+    "option": {
+      "a": "thermocouple  ",
+      "b": "pyrometer  ",
+      "c": "hydrometer  ",
+      "d": "platinum resistance thermometer. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 107,
     "question": "Dry air of column length 10 cm is trapped by a pellet of mercury of length 15 cm, with the open end uppermost. When the capillary is inverted the length of the air column increased to 25 cm while that of mercury remained constant. Calculate the atmospheric pressure (in cm of Hg.)  ",
     "option": {
@@ -743,6 +791,22 @@
       "b": "Distance travelled ",
       "c": "Average Velocity of motion ",
       "d": "Total time taken."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 126,
+    "question": "To use a milli-ammeter to measure current up to 10A, what connection needs to be made?",
+    "option": {
+      "a": "A small resistance must be connected in parallel with the milli-ammeter ",
+      "b": "A small resistance must be connected in series with the milli-ammeter ",
+      "c": "A high resistance must be connected in parallel with the milli-ammeter ",
+      "d": "The milli-ammeter must be disconnected from the circuit."
     },
     "section": "",
     "image": "",
@@ -1488,6 +1552,22 @@
     "examyear": "2017"
   },
   {
+    "id": 273,
+    "question": "Which of the following is not a mechanical wave?",
+    "option": {
+      "a": " wave in closed pipe",
+      "b": "radio waves",
+      "c": "water waves",
+      "d": "sound waves"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Radio waves are not mechanical waves because they are electromagnetic waves that do not require a medium for propagation.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 275,
     "question": "The volume of a fixed mass of gas is 10cm3 when its pressure is 400cmHg. Determine the volume of the gas when its pressure is 200cmHg.",
     "option": {
@@ -1628,6 +1708,22 @@
     "image": "",
     "answer": "a",
     "solution": "Statements I and III correctly explain mirages through the physics of refraction, while statement II merely describes an observation.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 300,
+    "question": "The pitch of an acoustic device can be increased by",
+    "option": {
+      "a": "decreasing the loudness",
+      "b": "increasing the intensity",
+      "c": "increasing the frequency",
+      "d": " decreasing the intensity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The pitch of an acoustic device can be increased by increasing the frequency of the sound waves it produces.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2064,6 +2160,22 @@
     "examyear": "2020"
   },
   {
+    "id": 391,
+    "question": "Which of the following can be described as high tension transmission? ",
+    "option": {
+      "a": " High resistance and low voltage",
+      "b": "Low current and high voltage",
+      "c": "High current and low voltage",
+      "d": "High current and low resistance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "High tension transmission is characterized by low current and high voltage, which minimizes power losses during long-distance electricity transmission.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 397,
     "question": "When a sound wave passes from air into water its ",
     "option": {
@@ -2092,6 +2204,22 @@
     "image": "",
     "answer": "b",
     "solution": "Convex mirrors are used as driving mirrors because they produce erect images (I) and have a large field of view (II). Statement III about focal length is not a primary reason for their use in vehicles.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 399,
+    "question": "Two mirrors of the same length are arranges as show in the diagram. A ray of light NO strikes the system at O and emerges along PQ. The emergent ray has been deviated through ",
+    "option": {
+      "a": "220°",
+      "b": "200°",
+      "c": "210°",
+      "d": "180°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612628/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_20_dsjmk2.jpg",
+    "answer": "d",
+    "solution": "The ray deviates by certain angles at each reflection, and when you sum all the angular changes (50° + 50° + 40° + 40°), the total deviation from the original direction is 180°.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -2192,6 +2320,22 @@
     "examyear": "2020"
   },
   {
+    "id": 417,
+    "question": "Which of the following pairs is part of the electromagnetic spectrum? \n\nI. Radio waves\n\nII. sound waves\n\nIII. Gamma rays\n\nIV. water waves",
+    "option": {
+      "a": " I and II",
+      "b": "III and IV",
+      "c": " I and III",
+      "d": "II and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Examples of electromagnetic waves are radio waves, X-rays, gamma rays, light rays, etc",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 418,
     "question": "A stone is thrown vertically upward with an initial velocity of 30 m/s from the top of a building. If the stone takes 8 seconds to reach the ground, what is the height of the building? [Take g = 10 m/s²]",
     "option": {
@@ -2206,6 +2350,22 @@
     "solution": "Given information:\n\nInitial velocity (u) = 30 m/s (upward, positive)\nTime to reach ground (t) = 8 seconds\nAcceleration due to gravity (g) = -10 m/s² (downward, negative)\nHeight of building (h) = ?\n\nUsing equation of motion:\ns = ut + ½at²\nwhere s is the displacement from starting point (negative when below starting point)\nStep 1: Calculate displacement\nSince the stone ends up below the starting point (at ground level):\ns = ut + ½gt²\ns = 30(8) + ½(-10)(8)²\ns = 240 + ½(-10)(64)\ns = 240 - 320\ns = -80 m\nStep 2: Interpret the result\nThe negative sign indicates the stone is 80 m below the starting point (top of building).\nTherefore, the height of the building = 80 m",
     "examtype": "utme",
     "examyear": ""
+  },
+  {
+    "id": 420,
+    "question": "The slope of the straight line displacement-time graph indicates?\n",
+    "option": {
+      "a": " distance traveled",
+      "b": "uniform velocity",
+      "c": "uniform acceleration",
+      "d": "uniform speed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The slope of a straight line displacement-time graph indicates uniform velocity, meaning the object is moving with constant velocity (constant speed in a constant direction).",
+    "examtype": "utme",
+    "examyear": "2021"
   },
   {
     "id": 425,
@@ -2320,6 +2480,22 @@
     "examyear": "2021"
   },
   {
+    "id": 436,
+    "question": "A certain radioactive source emits radiation that was found to be deflected by both magnetic and electric fields. The radiation is?",
+    "option": {
+      "a": "beta rays",
+      "b": "gamma rays",
+      "c": "x-rays",
+      "d": "ultra-violet rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Both the electric field and magnetic field affect the β-particles.\n",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 437,
     "question": "The inner diameter of a test tube can be measured accurately using a?",
     "option": {
@@ -2428,6 +2604,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nSpecific heat capacity (c) = 450 J/(kg·K)\nHeight (h) = 20 m\nInitial velocity = 0 (falls from rest)\ng = 10 m/s²\nRise in temperature (ΔT) = ?\n\nPrinciple: Energy Conservation\nAll gravitational potential energy is converted to heat energy.\nStep 1: Calculate potential energy lost\nPE = mgh\nPE = m × 10 × 20\nPE = 200m J\nStep 2: Calculate heat gained\nHeat gained = mcΔT\nHeat = m × 450 × ΔT\nStep 3: Apply energy conservation\nPE lost = Heat gained\n200m = m × 450 × ΔT\nDividing both sides by m:\n200 = 450 × ΔT\nSolving for ΔT:\nΔT = 200/450\nΔT = 20/45\nΔT = 4/9°C\nDecimal value:\nΔT = 4/9 ≈ 0.44°C",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 449,
+    "question": "I. A liquid boils when its saturated vapor pressure is equal to the external pressure\nII. Dissolved substances in pure water lead to an increase in the boiling point.\nIII. When the external pressure is increased, the boiling point increases.\nIV. Dissolved substances in pure water decreases the boiling point \n\nWhich of the above combinations are peculiarities of the boiling point of a liquid?",
+    "option": {
+      "a": "I, II and III only",
+      "b": "I, II, III, and IV",
+      "c": "I, II, and IV",
+      "d": "II, III, and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The boiling point of a liquid depends on temperature, atmospheric pressure, and the vapor pressure of the liquid.\nWhen the atmospheric pressure is equal to the vapor pressure of the liquid, boiling will begin",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2576,6 +2768,22 @@
     "examyear": "2022"
   },
   {
+    "id": 478,
+    "question": "A current of 0.5 A flows through a resistor when connected to a 40 V battery. How much energy is dispatched in 2 minutes?",
+    "option": {
+      "a": "2400 J",
+      "b": "9600 J",
+      "c": "1500 J",
+      "d": "1200 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCurrent, I = 0.5 A\nVoltage, V = 40 V\nTime, t = 2 minutes = 2 × 60 = 120 s\nEnergy, E = ?\n\nSolution:\nUsing the electrical energy formula:\nE = VIt\nStep 1: Substitute the known values\nE = 40 × 0.5 × 120\nStep 2: Calculate the energy\nE = 40 × 0.5 × 120\nE = 20 × 120\nE = 2400 J",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 481,
     "question": "The potential energy in an elastic string of force constant k, which has an extension X is?",
     "option": {
@@ -2720,6 +2928,38 @@
     "examyear": "2022"
   },
   {
+    "id": 500,
+    "question": "The property of wave shown in the diagram above is?",
+    "option": {
+      "a": "Diffraction",
+      "b": "Refraction",
+      "c": "Polarisation",
+      "d": "Interference"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614425/ALOC-Questions/Physics/2023/physics_2023-Q1_jx0lbx.png",
+    "answer": "a",
+    "solution": "The diagram clearly shows plane waves passing through a narrow gap and spreading out in semicircular wavefronts. This is the characteristic pattern of wave diffraction, where waves bend and spread after passing through an aperture.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 506,
+    "question": "The terminals of a battery of emf 24.0 V and internal resistance of 1.0 Ω is connected to an external resistor 5.0 Ω. Find the terminal p.d.",
+    "option": {
+      "a": "18.0V",
+      "b": "12.0V",
+      "c": "16.0V",
+      "d": "20.0V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nEMF of battery, E = 24.0 V\nInternal resistance, r = 1.0 Ω\nExternal resistance, R = 5.0 Ω\nTerminal potential difference, V = ?\n\nSolution:\nStep 1: Calculate total resistance\nTotal resistance = R + r\nR_total = 5.0 + 1.0 = 6.0 Ω\nStep 2: Calculate current in the circuit\nUsing Ohm's law:\nI = E/R_total\nI = 24.0/6.0\nI = 4.0 A\nStep 3: Calculate terminal potential difference\nTerminal p.d. = EMF - voltage drop across internal resistance\nV = E - Ir\nV = 24.0 - (4.0 × 1.0)\nV = 24.0 - 4.0\nV = 20.0 V\nAlternative method:\nV = IR (voltage across external resistor)\nV = 4.0 × 5.0\nV = 20.0 V",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 508,
     "question": "The half life of a radioactive material is 12 days. Calculate the decay constant.",
     "option": {
@@ -2860,6 +3100,22 @@
     "image": "",
     "answer": "b",
     "solution": "A pinhole camera operates on the principle that light travels in straight lines (rectilinear propagation). Light from each point on the object passes through the small hole in a straight line to form an inverted image on the screen opposite the pinhole.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 530,
+    "question": "A step-down transformer is used on a 2.2 kV line to deliver 110 V. How many turns are on the primary windings if the secondary has 25 turns?",
+    "option": {
+      "a": "20",
+      "b": "250",
+      "c": "200",
+      "d": "500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPrimary voltage, Vₚ = 2.2 kV = 2200 V\nSecondary voltage, Vₛ = 110 V\nSecondary turns, Nₛ = 25 turns\nPrimary turns, Nₚ = ?\n\nSolution:\nStep 1: Apply transformer equation\nFor an ideal transformer:\nVₚ/Vₛ = Nₚ/Nₛ\nStep 2: Substitute the known values\n2200/110 = Nₚ/25\n20 = Nₚ/25\nStep 3: Solve for primary turns\nNₚ = 20 × 25\nNₚ = 500 turns",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3184,6 +3440,22 @@
     "examyear": "2024"
   },
   {
+    "id": 591,
+    "question": "A refrigerator uses 150W. If it is kept on for 336 hours non-stop, what is the energy consumed in KWh?",
+    "option": {
+      "a": "60.20KWh",
+      "b": "50.40KWh",
+      "c": "25.01KWh",
+      "d": "30.20KWh"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPower (P) = 150 W\nTime (t) = 336 hours\nEnergy consumed = ?\n\nFormula:\nEnergy = Power × Time\nStep 1: Convert power to kilowatts\nPower = 150 W = 0.15 kW\nStep 2: Calculate energy in kWh\nEnergy = 0.15 kW × 336 hours\nEnergy = 50.4 kWh",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 600,
     "question": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
     "option": {
@@ -3228,6 +3500,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nCurrent, I = 16 mA = 16 × 10⁻³ A\nTime, t = 1 s\nElectronic charge, e = 1.6 × 10⁻¹⁹ C\n\nSolution:\nFormula:\nCurrent: I = Q/t\nCharge: Q = ne\nWhere:\n\nQ = total charge (in coulombs)\nn = number of electrons\ne = charge of one electron\n\nStep 1: Calculate total charge transported\nQ = I × t\nQ = 16 × 10⁻³ × 1\nQ = 16 × 10⁻³ C\nStep 2: Calculate number of electrons\nn = Q/e\nn = (16 × 10⁻³)/(1.6 × 10⁻¹⁹)\nStep 3: Simplify\nn = (16/1.6) × 10⁻³⁻(⁻¹⁹)\nn = 10 × 10⁻³⁺¹⁹\nn = 10 × 10¹⁶\nn = 1.0 × 10¹⁷\nFinal Answer:\nNumber of electrons = 1.00 × 10¹⁷ electrons",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 617,
+    "question": "Given three capacitors 0.3μF, 0.5μF and 0.2μF, the joint capacitance when arranged to give minimum capacitance is",
+    "option": {
+      "a": " 0.1μF",
+      "b": "0.3μF",
+      "c": "1.0μF",
+      "d": "0.5μF"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nC₁ = 0.3 μF\nC₂ = 0.5 μF\nC₃ = 0.2 μF\n\nSolution:\nKey concept:\nMinimum capacitance is obtained when capacitors are connected in series.\nFormula for series capacitors:\n1/Cₜₒₜₐₗ = 1/C₁ + 1/C₂ + 1/C₃\nStep 1: Substitute values\n1/Cₜₒₜₐₗ = 1/0.3 + 1/0.5 + 1/0.2\nStep 2: Calculate each term\n1/Cₜₒₜₐₗ = 3.333 + 2.0 + 5.0\n1/Cₜₒₜₐₗ = 10.333 μF⁻¹\nStep 3: Find Cₜₒₜₐₗ\nCₜₒₜₐₗ = 1/10.333\nCₜₒₜₐₗ = 0.0968 μF ≈ 0.1 μF",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3340,6 +3628,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nThe bottle cracks due to increase in the volume of water when it freezes.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 639,
+    "question": "The phase difference between waves P and q in the diagram above is",
+    "option": {
+      "a": "2π",
+      "b": "π",
+      "c": " π/4",
+      "d": "π/2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296136/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_40_e7g2is.png",
+    "answer": "d",
+    "solution": "\nStep 1: Identify wave characteristics\nBoth waves are sinusoidal with:\n\nSame wavelength (period)\nSame amplitude\nDifferent starting positions (phase shift)\n\nStep 2: Determine the shift\nObserving the waves:\n\nWave P starts at zero and increases\nWave Q reaches its maximum when P is at zero\nThis represents a quarter-cycle shift\n\nStep 3: Express shift in terms of wavelength\nOne complete cycle = 2π radians = 360°\nQuarter cycle shift = 2π/4 = π/2 radians = 90°\nStep 4: Verify the phase difference\nWhen wave P is at:\n\nZero displacement (going up) → Wave Q is at maximum\nMaximum → Wave Q is at zero (going down)\nZero (going down) → Wave Q is at minimum\nMinimum → Wave Q is at zero (going up)\n\nThis confirms a 90° or π/2 phase difference.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3696,6 +4000,38 @@
     "examyear": "2005"
   },
   {
+    "id": 700,
+    "question": "A uniform solid cube material 10cm on each side of mass 700g is submerged in water. which of the following best described the behavior of the cube water?",
+    "option": {
+      "a": "the cube will melt after a period of time",
+      "b": "the cube will float",
+      "c": "the cube will sink in water",
+      "d": "the cube will rest at an equilibrium position in water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nSide length of cube, L = 10 cm = 0.1 m\nMass of cube, m = 700 g = 0.7 kg\nDensity of water, ρ_w ≈ 1000 kg/m³\n\nStep 1: Compute volume of cube\nV = L³ = (0.1 m)³ = 0.001 m³\n\nStep 2: Compute density of cube\nρ_c = m / V = 0.7 kg / 0.001 m³ = 700 kg/m³\n\nStep 3: Compare densities\nρ_c = 700 kg/m³\nρ_w = 1000 kg/m³\nSince ρ_c < ρ_w, the cube is less dense than water.\n\nStep 4: Determine behavior\nAn object less dense than water will float. When fully submerged, the buoyant force exceeds its weight, causing it to rise until partially above the surface, where it floats.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 701,
+    "question": "At low humidity in an environment, the human skin is usually?",
+    "option": {
+      "a": "damp and rough",
+      "b": "damp and smooth",
+      "c": "dry and rough",
+      "d": "dry and smooth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Low humidity causes moisture to evaporate from the skin, leading to dryness and a rough texture.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 706,
     "question": "what is likely to happen if the glass of a thermometer expands more upon heating than the liquid inside?",
     "option": {
@@ -3804,6 +4140,22 @@
     "image": "",
     "answer": "c",
     "solution": "The component of vector X along vector Y is given by |X|cosθ, where θ is the angle between them. This component becomes zero when cosθ = 0, which occurs at θ = 90°. Therefore, the component is zero only when X is perpendicular to Y",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 722,
+    "question": "The correct unit of energy density is?",
+    "option": {
+      "a": "kg m³ s⁻²",
+      "b": " kg m² s⁻²",
+      "c": "kg m⁻³ s⁻²",
+      "d": "kg m⁻¹ s⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Energy density is energy per unit volume.\nEnergy has dimensions: [E] = M L² T⁻² (mass × length² × time⁻²).\nVolume has dimensions: [V] = L³.\nThus, energy density dimensions: [E/V] = M L² T⁻² / L³ = M L⁻¹ T⁻².\nIn base units: kg m⁻¹ s⁻².",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -4208,6 +4560,22 @@
     "examyear": "2007"
   },
   {
+    "id": 801,
+    "question": "Which of the following is NOT a vector quantity?",
+    "option": {
+      "a": "altitude",
+      "b": "acceleration",
+      "c": "displacement",
+      "d": "weight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Altitude is just a measure of height, regardless of direction.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 804,
     "question": "What is the frequency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s?",
     "option": {
@@ -4560,6 +4928,22 @@
     "examyear": "2009"
   },
   {
+    "id": 860,
+    "question": "The thermometer whose reading is indicated by a change in color of its thermometric property is the?",
+    "option": {
+      "a": "bi-metalic strip thermometer",
+      "b": "thermocouple",
+      "c": "platinium resistance thermometer",
+      "d": "optical pyrometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A pyrometer is instrument for measuring high temperature.\nThe optical pyrometer is one in which the luminous radiation from the hot body is compared with that from a known source.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 862,
     "question": "An electric heater rated 220 V, 1000 W is immersed into a bucket full of water. Calculate the mass of water if the temperature changes from 30 °C to 100 °C and the current flows for 300 seconds. [specific heat capacity of water = 4200 J kg⁻¹ K⁻¹]",
     "option": {
@@ -4652,6 +5036,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nObject distance u = 5 cm (positive, real object)\nFocal length f = 10 cm (positive for concave mirror in Cartesian sign convention)\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n\nStep 2: Substitute values\n1/10 = 1/5 + 1/v\n\nStep 3: Solve for 1/v\n1/v = 1/10 – 1/5 = 1/10 – 2/10 = –1/10\n\nStep 4: Find image distance v\nv = –10 cm\n\nThe negative sign indicates that the image is formed behind the mirror (virtual image).",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 871,
+    "question": "Calculate the position of an object placed in front of a convex mirror having focal length of 12 cm such that an image is formed 6 cm away from the mirror",
+    "option": {
+      "a": "4.0 cm",
+      "b": " 3.0 cm",
+      "c": "12.0 cm",
+      "d": "9.0 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nFocal length f = 12 cm (positive for convex mirror in Cartesian sign convention)\nImage distance v = 6 cm (positive, since image is virtual and behind the mirror)\nObject distance u = ?\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n\nStep 2: Substitute values\n1/12 = 1/u + 1/6\n\nStep 3: Solve for 1/u\n1/u = 1/12 – 1/6 = 1/12 – 2/12 = –1/12\n\nStep 4: Find u\nu = –12 cm\n\nThe negative sign indicates the object is placed in front of the mirror (real object). The distance is 12 cm.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -5008,6 +5408,22 @@
     "examyear": "2010"
   },
   {
+    "id": 949,
+    "question": "A wire of length 2.0 m and cross-sectional area 2.0 × 10⁻⁶ m² is stretched by 1.0 mm when a load of 100 N is applied. Calculate the Young's modulus of the material.",
+    "option": {
+      "a": "1.0 × 10¹¹ Nm⁻²",
+      "b": "2.0 × 10¹¹ Nm⁻²",
+      "c": "5.0 × 10¹⁰ Nm⁻²",
+      "d": " 1.0 × 10¹⁰ Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nOriginal length (L) = 2.0 m\nCross-sectional area (A) = 2.0 × 10⁻⁶ m²\nExtension (ΔL) = 1.0 mm = 1.0 × 10⁻³ m\nApplied force (F) = 100 N\nYoung's modulus (E) = ?\n\nFormula for Young's modulus:\nE = (Stress)/(Strain)\nE = (F/A)/(ΔL/L)\nE = FL/(AΔL)\nStep 1: Calculate stress\nStress = F/A\nStress = 100/(2.0 × 10⁻⁶)\nStress = 5.0 × 10⁷ Nm⁻²\nStep 2: Calculate strain\nStrain = ΔL/L\nStrain = (1.0 × 10⁻³)/2.0\nStrain = 5.0 × 10⁻⁴\nStep 3: Calculate Young's modulus\nE = Stress/Strain\nE = (5.0 × 10⁷)/(5.0 × 10⁻⁴)\nE = 1.0 × 10¹¹ Nm⁻²",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 950,
     "question": "A man standing on a lift that is descending does not feel any weight because",
     "option": {
@@ -5200,6 +5616,22 @@
     "examyear": "2011"
   },
   {
+    "id": 977,
+    "question": "The eclipse of the sun occurs when the",
+    "option": {
+      "a": " moon is between the sun and the earth",
+      "b": "earth is between the sun and the moon",
+      "c": "moon is not completely hidden in the earth's shadow",
+      "d": " moon's umbra falls on some part of the earth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Eclipse of the sun occurs when the moon which is opaque objects between the sun and the earth",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 981,
     "question": "Under which of the following conditions do gases conduct electricity?",
     "option": {
@@ -5276,6 +5708,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁵ s⁻¹\nHalf-life (T₁/₂) = ?\n\nFormula relating half-life and decay constant:\nT₁/₂ = ln(2)/λ\nT₁/₂ = 0.693/λ\nSubstituting values:\nT₁/₂ = 0.693/(10⁻⁵)\nT₁/₂ = 0.693 × 10⁵\nT₁/₂ = 6.93 × 10⁴ s",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 989,
+    "question": "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is",
+    "option": {
+      "a": " 14.0 N",
+      "b": "10.0 N",
+      "c": "12.0 N",
+      "d": "13.0 N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774439306/ALOC-Questions/Physics/2011/PHYSICS_2011_Q_40_qpknov.png",
+    "answer": "b",
+    "solution": "For two perpendicular vectors, use the Pythagorean theorem:\nR² = A² + B²\nwhere:\n\nA = 6.0 N\nB = 8.0 N\nR = resultant\n\nCalculating:\nR² = (6.0)² + (8.0)²\nR² = 36 + 64\nR² = 100\nR = √100\nR = 10.0 N\nDirection of resultant:\ntan θ = opposite/adjacent = 6.0/8.0 = 0.75\nθ = tan⁻¹(0.75) ≈ 36.9° above the horizontal",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -5440,6 +5888,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1025,
+    "question": "The magnification of an object 2cm tall when placed 10cm in front of a plane mirror is",
+    "option": {
+      "a": "6.0",
+      "b": "1.0",
+      "c": " 0.7",
+      "d": " 0.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nObject height = 2 cm\nObject distance = 10 cm\nMirror type: plane mirror\n\nSolution:\n\nStep 1: Magnification by a plane mirror\nFor a plane mirror, the image is always the same size as the object.\n\nStep 2: Formula for magnification\nMagnification = image height / object height = 1 (since image height = object height)\n\nStep 3: Value of magnification\nMagnification = 1.0",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1026,
     "question": "After reflection from the concave mirror, rays of light from the sun converges",
     "option": {
@@ -5600,6 +6064,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1051,
+    "question": "Calculate the length which corresponds to a temperature of 20°C if the ice and steam points of an ungraduated thermometer are 400 mm apart",
+    "option": {
+      "a": "20 mm",
+      "b": "30 mm",
+      "c": " 60 mm",
+      "d": "80 mm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nDistance between ice point (0°C) and steam point (100°C) = 400 mm\nTemperature to measure = 20°C\nLength corresponding to 20°C = ?\n\nUnderstanding the thermometer:\nCalibration points:\n\nIce point (0°C): reference at 0 mm (taking ice point as origin)\nSteam point (100°C): at 400 mm from ice point\nTemperature scale is linear between these points\n\nPrinciple:\nFor a linear thermometer, the length is proportional to temperature:\nLength / Temperature = Constant\nSetting up proportion:\n100°C corresponds to 400 mm\n20°C corresponds to L mm\nUsing ratio:\nL / 20 = 400 / 100\nSolving for L:\nL = (20 × 400) / 100\nL = 8000 / 100\nL = 80 mm",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1056,
     "question": "What will happen to the boiling point of pure water when it is heated in a place 30m below sea level?",
     "option": {
@@ -5742,6 +6222,22 @@
     "solution": "Metals obey Ohm's law because they maintain a constant resistance (at constant temperature), resulting in a linear relationship between voltage and current (V = IR). This makes metals ideal for wires, resistors, and other electrical components where predictable, linear behavior is required.",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 1081,
+    "question": "A quantity which requires magnitude and direction to be specified is",
+    "option": {
+      "a": "Temperature",
+      "b": "Distance",
+      "c": "Displacement",
+      "d": "Mass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Displacement is a vector quantity",
+    "examtype": "utme",
+    "examyear": "2014"
   },
   {
     "id": 1086,
