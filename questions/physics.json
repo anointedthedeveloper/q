@@ -416,6 +416,22 @@
     "examyear": "2007"
   },
   {
+    "id": 31,
+    "question": "A 500kg car was initially at rest travelled with an acceleration of 5ms-2, what is its kinetic energy after 4s ",
+    "option": {
+      "a": "2.5 x 103J ",
+      "b": "105J ",
+      "c": "5 x 103J ",
+      "d": "5 x 105J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 32,
     "question": "The temperature at which the water vapour in the air saturates the air and begins to condense is",
     "option": {
@@ -1232,6 +1248,22 @@
     "examyear": "2011"
   },
   {
+    "id": 94,
+    "question": "When a 2kg body is at a height 5m above the floor, its velocity  is 4m/s. What is its total energy  at this height? (acceleration due to gravity = 10m/s2)  ",
+    "option": {
+      "a": "80J  ",
+      "b": "00J  ",
+      "c": "  116J  ",
+      "d": " 180J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 95,
     "question": "The density of sea water is 1030kg/m3. What is the pressure at a depth of  80 m below sea surface? Atmospheric pressure is 1.013 x 105 pa and acceleration  due to gravity is 10 m/s2  ",
     "option": {
@@ -2012,6 +2044,22 @@
     "image": "",
     "answer": "a",
     "solution": "Note: T = 273 + θ\n\nθ = 45°\n\nT = 273 + 45\n\n= 318K",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 151,
+    "question": "A member of the crew of a SPACESHIP experiences weightlessness in a space when they",
+    "option": {
+      "a": " Fall freely from the earth’s gravitational field",
+      "b": "Is walking on the planet",
+      "c": "In between the sun and the earth",
+      "d": "Holding anything in space is negative"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Weightlessness:– The state of being free from the effects of gravity. (zero gravity)",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3804,6 +3852,22 @@
     "image": "",
     "answer": "d",
     "solution": "A plane mirror does NOT produce a magnified image. The image is always the same size as the object with a magnification of 1.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 285,
+    "question": "What is the resultant resistance of the circuit in the image shown?",
+    "option": {
+      "a": "8Ω",
+      "b": "11Ω",
+      "c": "4Ω",
+      "d": "3.6Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611440/ALOC-Questions/Physics/2018/2018_Q_6_lgs4bl.jpg",
+    "answer": "a",
+    "solution": "From the circuit diagram:\n\n3Ω resistor in series with parallel combination\nTwo 2Ω resistors in parallel with each other\n4Ω resistor in series with the parallel combination\n\nStep 1: Calculate equivalent resistance of the two 2Ω resistors in parallel\nFor parallel resistors:\n1/R_parallel = 1/2 + 1/2 = 2/2 = 1\nR_parallel = 1Ω\nStep 2: Add all series resistances\nTotal resistance = 3Ω + 1Ω + 4Ω\nTotal resistance = 8Ω",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -6032,6 +6096,22 @@
     "examyear": "2021"
   },
   {
+    "id": 450,
+    "question": "The temperature gradient across a copper rod of thickness 0.02m, maintained at two temperature junctions of 20°C and 80°C respectively is?",
+    "option": {
+      "a": "3.0 × 10² Km⁻¹",
+      "b": "3.0 × 10³ Km⁻¹",
+      "c": "5.0 × 10³ Km⁻¹",
+      "d": "3.0 × 10⁴ Km⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nThickness of rod (d) = 0.02 m\nTemperature at hot junction (T₁) = 80°C\nTemperature at cold junction (T₂) = 20°C\nTemperature gradient = ?\n\nFormula for temperature gradient:\nTemperature gradient = Change in temperature / Distance\nTemperature gradient = ΔT / d\nStep 1: Calculate temperature difference\nΔT = T₁ - T₂\nΔT = 80 - 20 = 60°C = 60 K\nStep 2: Calculate temperature gradient\nTemperature gradient = 60 / 0.02\nTemperature gradient = 3000 K/m\nTemperature gradient = 3.0 × 10³ Km⁻¹",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 451,
     "question": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss (specific heat capacity of copper = 400 Jkg⁻¹K⁻¹, latent heat of fusion of ice = 3.3 × 10⁵ Jkg⁻¹)",
     "option": {
@@ -7712,6 +7792,22 @@
     "examyear": "2024"
   },
   {
+    "id": 578,
+    "question": "A mass of gas at 40mmHg is heated from 298k to 348k at constant volume. Cal the pressure exerted by the gas.",
+    "option": {
+      "a": " 50.21mmHg",
+      "b": "46.71mmHg",
+      "c": "42.35mmHg",
+      "d": "35.12mmHg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial pressure, P₁ = 40 mmHg\nInitial temperature, T₁ = 298 K\nFinal temperature, T₂ = 348 K\nVolume is constant\nFinal pressure, P₂ = ?\n\nSolution:\nStep 1: Apply Gay-Lussac's Law\nAt constant volume:\nP₁/T₁ = P₂/T₂\nStep 2: Rearrange to find final pressure\nP₂ = P₁ × (T₂/T₁)\nStep 3: Substitute the known values\nP₂ = 40 × (348/298)\nStep 4: Calculate the final pressure\nP₂ = 40 × 1.1678\nP₂ = 46.71 mmHg",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 580,
     "question": "The thermometer whose thermometric property is change in volume with temperature is ",
     "option": {
@@ -8604,6 +8700,22 @@
     "image": "",
     "answer": "b",
     "solution": "When soldiers march in synchronized steps across a suspension bridge, their footsteps create periodic forces at a specific frequency (the marching cadence). If this frequency matches or is close to the natural frequency of the bridge, a phenomenon called resonance occurs, where the amplitude of the bridge's oscillations increases dramatically with each successive step. This amplification can lead to dangerous vibrations that may cause structural damage or even collapse of the bridge. By breaking their steps (marching out of sync), soldiers prevent the establishment of a regular periodic force, thus avoiding the resonance condition. Historical examples like the Tacoma Narrows Bridge collapse demonstrate the destructive power of resonance in structures. While oscillation, swinging, and vibration are general terms for back-and-forth motion, resonance specifically describes the dangerous amplification effect that occurs when the driving frequency matches the natural frequency of the system.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 651,
+    "question": "The sharpness of the boundary of the shadow of an object is determined by the",
+    "option": {
+      "a": "intensity of light striking the object",
+      "b": "rays of light passing through the object",
+      "c": "nature of the object",
+      "d": "opacity of the object"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The characteristics of a shadow are dependent on the intensity of the light source. A hard light will produce a shadow with a sharp edge, a soft light will produce a shadow with a more blurry edge.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -10460,6 +10572,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nOriginal length (L₀) = 4 m\nExtension₁ (e₁) = 0.02 m\nMass = 0.4 kg, so Force₁ (F₁) = 0.4 × 10 = 4 N (assuming g = 10 m/s²)\nApplied force₂ (F₂) = 15 N\nFinal length = ?\n\nUsing Hooke's Law:\nExtension is proportional to applied force (for elastic materials):\nF ∝ e\nSetting up proportion:\nF₁/e₁ = F₂/e₂\nSolving for e₂:\n4/0.02 = 15/e₂\ne₂ = (15 × 0.02)/4\ne₂ = 0.30/4\ne₂ = 0.075 m\nCalculate final length:\nFinal length = Original length + Extension\nFinal length = 4 + 0.075\nFinal length = 4.075 m ≈ 4.08 m",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 789,
+    "question": "Which of the following gas laws is equivalent to the work done?",
+    "option": {
+      "a": "Boyle' law",
+      "b": "Charles law",
+      "c": "Pressure law",
+      "d": "van der Waal's law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nBoyle's law is equivalent to (or most directly related to) the concept of work done because it involves the pressure-volume relationship (PV = constant), and work done by/on a gas is defined as W = PΔV. Isothermal processes described by Boyle's law involve work being done as the gas expands or compresses.",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -12460,6 +12588,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435612/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_42_qaxop9.png",
     "answer": "c",
     "solution": "1/R = 1/8 + 1/8 = 2/8\n∴ R = 4Ω\nl/l1 = R/R1\n(x)/(100-x) = 4/8\n4(100-x) = 8x\n400-4x = 8x\n400 = 8x + 4x = 12x\nx = 400/12 = 33.3cm",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 942,
+    "question": "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?",
+    "option": {
+      "a": "14 A",
+      "b": " 12 A",
+      "c": "10 A",
+      "d": "8 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nResistance of each resistor = 4 Ω\nNumber of resistors = 3\nConnection: parallel\nVoltage applied, V = 16 V\n\nSolution:\n\nStep 1: Calculate equivalent resistance for parallel connection\nFor three identical resistors in parallel:\n1/R = 1/4 + 1/4 + 1/4 = 3/4\nR = 4/3 Ω\n\nStep 2: Apply Ohm's law to find total current\nI = V / R = 16 / (4/3) = 16 × 3/4 = 12 A",
     "examtype": "utme",
     "examyear": "2010"
   },
