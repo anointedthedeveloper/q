@@ -2736,6 +2736,22 @@
     "examyear": "2018"
   },
   {
+    "id": 328,
+    "question": "The energy needed to move a unit positive charge around a complete electric circuit is called the",
+    "option": {
+      "a": "electromotive force",
+      "b": "electric potential difference",
+      "c": " electric energy",
+      "d": "kinetic energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The energy needed to move a unit positive charge around a complete electric circuit is indeed referred to as Electromotive Force (EMF).",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 331,
     "question": "If a body moves with a constant speed and at the same time undergoes an acceleration, its motion is said to be",
     "option": {
@@ -4752,6 +4768,22 @@
     "examyear": "2024"
   },
   {
+    "id": 561,
+    "question": "A solid cube of aluminum is 1.5cm on each edge. The density of aluminum is 2700kgm⁻³. Find the mass of the cube.",
+    "option": {
+      "a": " 7.5g",
+      "b": " 9.1g",
+      "c": "12.0g",
+      "d": "15.0g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLength of each edge, L = 1.5 cm = 0.015 m\nDensity of aluminum, ρ = 2700 kg/m³\nMass, m = ?\n\nSolution:\nStep 1: Calculate volume of the cube\nVolume = L³\nV = (0.015)³\nV = 3.375 × 10⁻⁶ m³\nStep 2: Apply density formula\nDensity = Mass/Volume\nρ = m/V\nm = ρV\nStep 3: Substitute values\nm = 2700 × 3.375 × 10⁻⁶\nm = 9112.5 × 10⁻⁶ kg\nm = 9.1125 × 10⁻³ kg\nStep 4: Convert to grams\nm = 9.1125 g\nm ≈ 9.1 g",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 564,
     "question": "\nIf the S.V.P of water vapour was 13.5mmHg at 33ºC and 7.3mmHg at 7ºC. Find the percentage relative humidity of the air on a day when average air temperature was 33ºC and dew point was 7ºC.",
     "option": {
@@ -4988,6 +5020,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nPower (P) = 150 W\nTime (t) = 336 hours\nEnergy consumed = ?\n\nFormula:\nEnergy = Power × Time\nStep 1: Convert power to kilowatts\nPower = 150 W = 0.15 kW\nStep 2: Calculate energy in kWh\nEnergy = 0.15 kW × 336 hours\nEnergy = 50.4 kWh",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 592,
+    "question": "What is the inductive reactance of a coil of 7H when connected to a 50Hz a.c circuit?",
+    "option": {
+      "a": "2200Ω",
+      "b": "2000Ω",
+      "c": "1200Ω",
+      "d": "1100Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInductance (L) = 7 H\nFrequency (f) = 50 Hz\nInductive reactance (X_L) = ?\n\nFormula for inductive reactance:\nX_L = 2πfL\nSubstituting values:\nX_L = 2 × π × 50 × 7\nX_L = 2 × 3.14159 × 50 × 7\nX_L = 6.28318 × 350\nX_L = 2199.1 Ω\nX_L ≈ 2200 Ω",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -6348,6 +6396,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nForce F = 2 N\nAngle θ = 60°\nDisplacement s = 3 m\nFloor is smooth (no friction)\n\nSolution:\n\nStep 1: Work done formula\nWork done W = F × s × cosθ\n\nStep 2: Substitute values\nW = 2 N × 3 m × cos60°\n\nStep 3: Calculate\ncos60° = 0.5\nW = 2 × 3 × 0.5 = 3 J",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 780,
+    "question": "The fundamental frequency of a plucked wire under a tension of 400N is 250Hz. When the frequency is changed to 500 Hz at constant length, the tension is",
+    "option": {
+      "a": "1600N",
+      "b": "400N",
+      "c": "160N",
+      "d": "40N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial tension, T₁ = 400 N\nInitial frequency, f₁ = 250 Hz\nFinal frequency, f₂ = 500 Hz\nLength and linear density are constant.\n\nSolution:\n\nStep 1: Relationship for a stretched string\nThe fundamental frequency is given by:\nf = (1/(2L)) √(T/μ)\nThus, for constant L and μ, f ∝ √T.\n\nStep 2: Set up ratio\nf₂ / f₁ = √(T₂ / T₁)\n\nStep 3: Substitute values\n500 / 250 = √(T₂ / 400)\n2 = √(T₂ / 400)\n\nStep 4: Square both sides\n4 = T₂ / 400\nT₂ = 4 × 400 = 1600 N",
     "examtype": "utme",
     "examyear": "2007"
   },
