@@ -7543,6 +7543,25 @@
     "category": "others"
   },
   {
+    "id": 466,
+    "question": "His ideas sounded quite palatable yet they were <i>jettisoned</i> by the group, ",
+    "option": {
+      "a": "accepted ",
+      "b": "clumped ",
+      "c": "denied ",
+      "d": "criticized."
+    },
+    "section": "Choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 467,
     "question": "The compulsory leave made her feel <i>listless</i>",
     "option": {
@@ -26083,6 +26102,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 14,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1774,
+    "question": "The lamp shades were <u>translucent</u>.",
+    "option": {
+      "a": "Transparent.",
+      "b": "Opaque.",
+      "c": "Intersected.",
+      "d": "Luminous."
+    },
+    "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "b",
+    "solution": "translucent; (of a substance) allowing light, but not detailed shapes, to pass through; semi-transparent.\n\nOpaque; not able to be seen through; not transparent.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 15,
     "hasPassage": 0,
     "category": "others"
   },
