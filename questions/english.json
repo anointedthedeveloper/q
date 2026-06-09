@@ -3420,6 +3420,25 @@
     "category": "others"
   },
   {
+    "id": 201,
+    "question": "You can travel on your own ……….. ?",
+    "option": {
+      "a": "isn't it",
+      "b": "can't you   ",
+      "c": "won't you  ",
+      "d": "shan't you"
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 204,
     "question": "In spite of Shade's good looks, her hair is always………",
     "option": {
@@ -12939,6 +12958,25 @@
     "category": "others"
   },
   {
+    "id": 859,
+    "question": "The manager made <u>disparaging</u> remarks about the retiring officer?",
+    "option": {
+      "a": "rude",
+      "b": "derogatory",
+      "c": "parochial",
+      "d": "cynical"
+    },
+    "section": "<b>In each of questions 59 to 73, choose the option nearest in meaning to the underlined word(s).</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 63,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 860,
     "question": "The man outran his wife when they heard the <u>eerie</u> sound?",
     "option": {
@@ -19646,6 +19684,25 @@
     "category": "others"
   },
   {
+    "id": 1346,
+    "question": "All the ________ were stolen by the thieves",
+    "option": {
+      "a": "arm and ammunition",
+      "b": "arms and ammunition",
+      "c": "arm and ammunitions",
+      "d": " arms and ammunitions"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "b",
+    "solution": "Option B is the appropriate spelling.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 33,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1347,
     "question": "What a ________! the more you look, the less you see",
     "option": {
@@ -24092,6 +24149,25 @@
     "category": "others"
   },
   {
+    "id": 1638,
+    "question": "It is important not to let mistakes <i>blight</i>  your life",
+    "option": {
+      "a": "damage",
+      "b": "impart",
+      "c": "improve",
+      "d": "ruin"
+    },
+    "section": "For this question, choose the option opposite in meaning to the word or phrase in italics ",
+    "image": "",
+    "answer": "c",
+    "solution": "<i>blight</i>; have a severely detrimental effect on. (a thing that spoils or damages something.)\nimprove; having become or been made better.",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 26,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1639,
     "question": "The film was shot in <i>decrepit</i> police station.",
     "option": {
@@ -25304,6 +25380,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 31,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1719,
+    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\n“come here, you pretty child; I hear you will be going to the same school as my daughter.’ Who made this statement and to whom?",
+    "option": {
+      "a": "Aunt Moni said this to Efua",
+      "b": " Efua to Aunt Moni",
+      "c": "Mrs. Ekpo said this to Efua",
+      "d": "Aunt Moni to Mrs. Ekpo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When Mrs Ekpo came visiting, she already heard about Efua’s coming and the news of Efua attending the same school as her daughter. She was practically talking to Efua",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 32,
     "hasPassage": 0,
     "category": "others"
   },
