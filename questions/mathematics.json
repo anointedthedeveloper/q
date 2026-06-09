@@ -592,6 +592,22 @@
     "examyear": "2008"
   },
   {
+    "id": 44,
+    "question": "With replacement ",
+    "option": {
+      "a": "0.9,",
+      "b": "1, ",
+      "c": "0.4,",
+      "d": "0.49"
+    },
+    "section": "A bag contains 10 balls of which 3 are red 7 are white. Two balls are drawn at random. Find the probability   of none of the balls is red if the draw is",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 45,
     "question": "Without replacement ",
     "option": {
@@ -2156,6 +2172,22 @@
     "image": "",
     "answer": "b",
     "solution": "Mean = ∑fx/∑f\nMean = (4x3) + (7x5) + ... + (8x1) all divided by 20\nMean = 174/20 = 8.7",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 156,
+    "question": "Teams P and Q are involved in a game of football. What is the probability that the game ends in a draw?",
+    "option": {
+      "a": "2/3",
+      "b": "1/2",
+      "c": "1/3",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "P (games end in draw)\n=> Team P wins and Q wins\nP(P wins) = 1/2\nP(Q wins) = 1/2\nTherefore P (games ends in draw) = 1/2 x 1/2 = 1/4",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -4720,6 +4752,22 @@
     "examyear": "2005"
   },
   {
+    "id": 332,
+    "question": "A polynomial in x whose zeros are -2, -1 and 3 is",
+    "option": {
+      "a": "x<sup>3</sup> - 7x + 6",
+      "b": " x<sup>3</sup> + 7x - 6",
+      "c": " x<sup>3</sup> + 7x + 6",
+      "d": "x<sup>3</sup> - 7x - 6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x = -2, x = -1 and x = 3\n∴x+2 = 0, x+1 = 0 and x-3 = 0\nProduct of the factors\n(x+2)(x+1)(x-3) = 0\n(x<sup>2</sup> + 3x + 2)(x-3)\nx(x<sup>2</sup> + 3x + 2) -3(x<sup>2</sup> + 3x + 2) = 0\nx<sup>3</sup> + 3x<sup>2</sup> + 2x - 3x<sup>2</sup> - 9x - 6 = 0\nx<sup>3</sup> - 7x - 6 = 0",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 333,
     "question": "The time taken to do a piece of work is inversely proportional to the number of men employed. If it takes 30 men to do a piece of work in 6 days, how many men are required to do the work in 4 days?",
     "option": {
@@ -5116,6 +5164,22 @@
     "image": "",
     "answer": "c",
     "solution": "1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20\nModal height = 1.35\nRange (r) = 1.50 - 1.20\n= 0.30\n∴m + 2r = 1.35 + 2(0.30)\n= 1.35 + 0.60\n= 1.95",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 360,
+    "question": "Find the value of t if the standard deviation of 2t, 3t, 4t, 5t, and 6t is √2",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "SOLUTION : <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>m</mi>\n  <mi>e</mi>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mo stretchy=\"false\">(</mo>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>20</mn>\n      <mi>t</mi>\n    </mrow>\n    <mn>5</mn>\n  </mfrac>\n  <mo>=</mo>\n  <mn>4</mn>\n  <mi>t</mi>\n  <mspace linebreak=\"newline\" />\n  <mi>s</mi>\n  <mi>t</mi>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mi>d</mi>\n  <mi>a</mi>\n  <mi>r</mi>\n  <mi>d</mi>\n  <mspace width=\"1mm\" />\n  <mi>d</mi>\n  <mi>e</mi>\n  <mi>v</mi>\n  <mi>i</mi>\n  <mi>a</mi>\n  <mi>t</mi>\n  <mi>i</mi>\n  <mi>o</mi>\n  <mi>n</mi>\n  <mo>=</mo>\n  <msqrt>\n    <mfrac>\n      <mrow>\n        <mn>10</mn>\n        <msup>\n          <mi>t</mi>\n          <mn>2</mn>\n        </msup>\n      </mrow>\n      <mn>5</mn>\n    </mfrac>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>=</mo>\n  <msqrt>\n    <mfrac>\n      <mrow>\n        <mn>10</mn>\n        <msup>\n          <mi>t</mi>\n          <mn>2</mn>\n        </msup>\n      </mrow>\n      <mn>5</mn>\n    </mfrac>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>=</mo>\n  <msqrt>\n    <mn>2</mn>\n    <msup>\n      <mi>t</mi>\n      <mn>2</mn>\n    </msup>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>2</mn>\n  <mo>=</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>t</mi>\n    <mn>2</mn>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <msup>\n    <mi>t</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mspace linebreak=\"newline\" />\n  <mi>t</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "mean(x)=20t/5=4t. Standard deviation=√((10t<sup>2</sup> )/5) √2=√((10t<sup>2</sup> )/5) √2=√(2t<sup>2</sup>  ) 2=2t<sup>2</sup>  t<sup>2</sup> =1. t=1",
     "examtype": "utme",
     "examyear": "2005"
   },
