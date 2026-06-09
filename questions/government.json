@@ -736,6 +736,22 @@
     "examyear": "2010"
   },
   {
+    "id": 112,
+    "question": "Herbert Macaulay was the first president of ",
+    "option": {
+      "a": "NCNC ",
+      "b": " AG  ",
+      "c": "UMBC ",
+      "d": "NEPU"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 113,
     "question": "A special election organized to decide on a political issue is known as ",
     "option": {
@@ -944,6 +960,22 @@
     "examyear": "2011"
   },
   {
+    "id": 144,
+    "question": "Nigeria’s non-aligned policy was criticized because of the: ",
+    "option": {
+      "a": "ECOWAS Treaty ",
+      "b": "Nuclear Test Ban Treaty  ",
+      "c": "Anglo-Nigerian Pact ",
+      "d": "Non-Proliferation Treaty "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 145,
     "question": "Fascism originated from: ",
     "option": {
@@ -987,6 +1019,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 154,
+    "question": "In Nigeria, promotion of judges is the responsibility of the ",
+    "option": {
+      "a": "Chief Justice of the Federation  ",
+      "b": "Judicial Service Commission  ",
+      "c": "Council of Legal Education  ",
+      "d": "Attorney-General and Minister of Justice "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1079,6 +1127,38 @@
       "b": "Rule transformation  ",
       "c": "Rule enforcement  ",
       "d": "Rule adjudication "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 168,
+    "question": "Globalization is all but one of these ",
+    "option": {
+      "a": "A renewed concepts in international studies  ",
+      "b": "Limitation to the domination of the West  ",
+      "c": "A process of making the world smaller  ",
+      "d": "An increasing integration of the world "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 172,
+    "question": "Under the independence constitution of Nigeria, Dr. Nnamdi Azikwe was  ",
+    "option": {
+      "a": "Prime Minister ",
+      "b": "Governor General  ",
+      "c": "Lieutenant – Government ",
+      "d": "Head of State"
     },
     "section": "",
     "image": "",
@@ -1355,6 +1435,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 221,
+    "question": "Which of the following factors limits the expression of public opinion?",
+    "option": {
+      "a": "The type of government in a state",
+      "b": "The establishment of private media organizations.",
+      "c": "The high literacy rate of the citizens",
+      "d": "Religious belief of the citizens."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -3424,6 +3520,22 @@
     "examyear": "2013"
   },
   {
+    "id": 533,
+    "question": "Under the 1979 Constitution, statutory allocation of revenue to local government councils is the responsibility of the",
+    "option": {
+      "a": "Council of State",
+      "b": "Houses of Assembly",
+      "c": "National Economic Council",
+      "d": "Federal Legislature."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 534,
     "question": "Under Nigeria’s Second Republic, the Senate was under the leadership of",
     "option": {
@@ -3648,6 +3760,22 @@
     "examyear": "2014"
   },
   {
+    "id": 569,
+    "question": "The officer responsible for announcing the result of an election is known as",
+    "option": {
+      "a": "ballot officer",
+      "b": "presiding office",
+      "c": "returning officer",
+      "d": "electoral officer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 571,
     "question": "The main objective of pressure groups is to",
     "option": {
@@ -3819,6 +3947,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 600,
+    "question": "The UN succeeded the",
+    "option": {
+      "a": "Warsaw Pact",
+      "b": "NATO",
+      "c": "SEATO",
+      "d": "League of Nations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -4379,6 +4523,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 689,
+    "question": "The primary function of a legislature is the",
+    "option": {
+      "a": "appointment of the president",
+      "b": "making of laws",
+      "c": "voting of bills",
+      "d": "monitoring of the judiciary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
@@ -5408,6 +5568,22 @@
     "examyear": "2019"
   },
   {
+    "id": 843,
+    "question": "The Hausa/Fulani Empire as a result of its heterogeneous population adopted_________",
+    "option": {
+      "a": "A unitary system where full concentration of power prevailed",
+      "b": "A federal structure where powers were decentralized although autocratic",
+      "c": "A quasi federal structure with devolution",
+      "d": " A partial federal set up with deconcentration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The hausa/fulani empire for geo-political reasons apportioned different portfolios of authorities for serve the multiplicity of functions and administrative interests. The offices of Sarkin fada, as head of palace workers, Waziri as prime minister among others are pointers in this regard.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 846,
     "question": "The Brussel conference in 1889/90 was based on______",
     "option": {
@@ -5580,6 +5756,22 @@
     "image": "",
     "answer": "b",
     "solution": "According to Aristotle, every human interaction intersects with political determinations and interests.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 870,
+    "question": "The term ultra vires means_________",
+    "option": {
+      "a": "the exercise of supervisory functions by the judiciary",
+      "b": "a situation where a public authority dutifully performs its functions",
+      "c": "a situation where a public authority acts beyond the scope of its duties",
+      "d": "the act of exercising administrative competence over a matter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A public authority is said to have ultra vires when it has acted beyond the boundaries of its duties as provided for in its enabling law or as prescribed by the Executive.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -5852,6 +6044,22 @@
     "image": "",
     "answer": "d",
     "solution": "The Civilian government of Alhaji Abubakar Tafawa Balewa was ousted in a bloody coup led by major Chukwuma Nzeogwu in January 15, 1966. This first Military Coup in Nigeria then brought in Major General J.T.U Aguiyi Ironsi as the first Military Head of State of Nigeria\n\nOn December, 31,1983, the civilian government of Shehu Shagari was overthrown by General Muhammed Buhari and Tunde Idiagbon when they were at Mecca..",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 921,
+    "question": "Under the 1999 constitution of Nigeria, the power to create local governments is vested in the .....",
+    "option": {
+      "a": " State Assembly",
+      "b": " National Assembly",
+      "c": "Office of the deputy governor",
+      "d": "Presidencys"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Under the 1999 Constitution of Nigeria, the power to create local governments is vested in the state assembly.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -6332,6 +6540,22 @@
     "image": "",
     "answer": "c",
     "solution": "Pressure groups may prioritize their own interests over the public interest. This is because pressure groups are formed by individuals or organizations with specific interests or objectives. They aim to influence public policy and decision-making in favor of their interests, which may not always align with the broader public interest.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1007,
+    "question": "What is the term for a system of government in which power is held by a small group of people?",
+    "option": {
+      "a": "Oligarchy",
+      "b": "Monarchy",
+      "c": "Theocracy",
+      "d": "Democracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An oligarchy is a system of government in which power is held by a small group of people. This can be contrasted with a democracy, where power is held by the people, or a monarchy, where power is held by a single individual.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7136,6 +7360,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1144,
+    "question": "Delegated legislature becomes unavoidable when",
+    "option": {
+      "a": "legislators cannot reach a consensus",
+      "b": "issues under consideration are personal",
+      "c": "issues under consideration are technical",
+      "d": "legislators have to proceed on a recess."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Delegated legislation is used when the issues at hand are technical in nature. In such cases, the legislature delegates the power to make detailed and specialized rules to the executive or relevant agencies. This delegation helps address complex or technical matters more efficiently than the full legislative process would allow.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1146,
     "question": "Citizenship in a modern state expresses the status of a person who possesses",
     "option": {
@@ -7164,6 +7404,22 @@
     "image": "",
     "answer": "d",
     "solution": "The delineation of constituencies, which means drawing electoral boundaries, is a key function of the Electoral Commission. In Nigeria, the Independent National Electoral Commission (INEC) is responsible for reviewing and defining electoral constituencies in accordance with constitutional guidelines and demographic changes.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1151,
+    "question": "To qualify for absorption into the administration cadre of the civil service in Nigeria, an applicant must be",
+    "option": {
+      "a": " knowledgable in civil services rule",
+      "b": "a holder of a first university degree",
+      "c": "specifically trained in public administration",
+      "d": "a senior civil servant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To qualify for absorption into the administrative cadre in Nigeria, an applicant must be a holder of a university degree.\n\nAs Indicated earlier, The administrative class is the highest grade of civil servants in the civil service. Members of this class of civil servant include the Director General or the Permanent Secretary,Deputy Director, Assistance Directors, General Principal Officers, Etc. These officers are responsible for advising the Ministers, helping in the formulation of major policies and then carrying out general administrative work of their various ministries.\n\nTheir recruitment is the therefore based on university education or equivalent educational qualification and long service as it was in the past",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -8304,6 +8560,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1324,
+    "question": "Citizenship acquired through marriage is referred to as",
+    "option": {
+      "a": "honorary",
+      "b": "naturalization",
+      "c": "nationalization",
+      "d": "registration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Citizenship acquired through marriage is referred to as registration.\n\nThis is a method by which women acquire citizenship through marriage. For example, a Cameroonian woman married to a Nigerian may register as a Nigerian and should take the oath of alliance and renounce her Cameroonian citizenship.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1326,
     "question": "On the basis of its structure,a political party can be classified as indirect if",
     "option": {
@@ -8412,6 +8684,22 @@
     "image": "",
     "answer": "b",
     "solution": "The first successful disengagement of the military from politics in Nigeria occurred under the Murtala/Obasanjo regime (1975–1979). This transition culminated in the handover of power to a democratically elected civilian government on October 1, 1979, marking the end of military rule and the beginning of Nigeria’s Second Republic",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1341,
+    "question": "During the Second Republic, the Great Nigerian People's Party won the governorship election in",
+    "option": {
+      "a": "Sokoto and Bauchi States",
+      "b": "Borno and Gongola States",
+      "c": " Borno and Kaduna States",
+      "d": "Gongola and Sokoto States"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "During the Second Republic, the Great Nigerian People's Party won the governorship election in Borno and Gongola States",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -8544,6 +8832,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1358,
+    "question": "An example of a country that operates a bicameral legislature is",
+    "option": {
+      "a": "Nigeria",
+      "b": "Sierra Leone",
+      "c": "Kenya",
+      "d": "Libya"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Nigeria operates a bicameral legislature composed of two chambers:\n\nSenate (Upper House): 109 members representing the 36 states and the Federal Capital Territory.\n\nHouse of Representatives (Lower House): 360 members elected from constituencies nationwide.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1359,
     "question": "An institution that transforms a myriad of demands into a more manageable proposal is the",
     "option": {
@@ -8668,6 +8972,22 @@
     "image": "",
     "answer": "c",
     "solution": "The first military coup in Nigeria occurred on January 15, 1966, led by a group of army officers (including Major Chukwuma Nzeogwu). This coup overthrew the First Republic civilian government headed by Prime Minister Sir Abubakar Tafewa Balewa, who was killed during the coup.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1382,
+    "question": "The option A-4 voting system was introduced into the political process in Nigeria during the",
+    "option": {
+      "a": "Third Republic",
+      "b": "Fourth Republic",
+      "c": "First Republic",
+      "d": "Second Republic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The option A-4 voting system was introduced into the political process in Nigeria during the Third Republic.\n\nIt was introduced by the then Chairman of the National Electoral Commission (N.E.C), Professor Humphrey Nwosu.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -9088,6 +9408,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1448,
+    "question": "How many states were created in Nigeria in 1967?",
+    "option": {
+      "a": "4",
+      "b": "12",
+      "c": "19",
+      "d": "21"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In 1967, Nigeria was reorganized from four regions into 12 states by General Yakubu Gowon. This move was designed to reduce ethnic tensions, promote administrative efficiency, and weaken regional power bases that had contributed to the country's political instability.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1449,
     "question": "A major function of Warrant Chiefs was to",
     "option": {
@@ -9324,6 +9660,22 @@
     "image": "",
     "answer": "a",
     "solution": "Aristocracy refers to a form of government in which power is held by a small, privileged ruling class, typically consisting of individuals who are considered \"gifted\" or of noble birth. Aristocrats often possess superior social, economic or educational status and are believed to have the qualities necessary to govern effectively.\n\nTheocracy is a form of government in which religious leaders control the government, claiming to be ruling on behalf of a deity. Plutocracy is a system of government where the wealthy class has significant power and influence over political decisions. Gerontocracy is a system where older individuals hold power, often based on age rather than merit or ability.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1483,
+    "question": "One of the principal objectives of the OPEC is to",
+    "option": {
+      "a": "determine oil prices in the international market",
+      "b": "harmonise the oil policies of member countries",
+      "c": "discipline erring oil-producing countries",
+      "d": "assist non-oil producing developing states"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "One of the principal objectives of the Organisation of the Petroleum Exporting Countries (OPEC) is to harmonise and coordinate the oil production policies of its member countries. This coordination helps to stabilise oil markets and ensure fair and stable prices for petroleum producers while securing a reliable supply for consumers. While OPEC does have some influence over oil prices in the international market (option A), its primary focus is on aligning the policies of its member states to achieve mutual benefits rather than directly setting prices",
     "examtype": "utme",
     "examyear": "2015"
   },
