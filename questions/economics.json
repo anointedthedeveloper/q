@@ -496,6 +496,22 @@
     "examyear": "2008"
   },
   {
+    "id": 65,
+    "question": "A recovery point on an indifference curve, the ",
+    "option": {
+      "a": "Total utility is decreasing ",
+      "b": "Level of utility is constant ",
+      "c": "Consumer is satisfied ",
+      "d": ""
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 68,
     "question": "Tax incidence is the analysis of  ",
     "option": {
@@ -603,6 +619,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 85,
+    "question": "The marginal theory of distribution makes an assertion that the price of any factor depends upon its marginal ",
+    "option": {
+      "a": "Unity ",
+      "b": "Productivity ",
+      "c": "rate of substitution ",
+      "d": "revenue "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -823,6 +855,22 @@
       "b": "Change in total product/ change in variable factor",
       "c": "Total product/ fixed factor",
       "d": "Average product/ no of Labour"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 106,
+    "question": "The following are the advantages of internal economics of large scale production except ",
+    "option": {
+      "a": "financial economics ",
+      "b": "administrative economics ",
+      "c": "technical economics ",
+      "d": "market economics"
     },
     "section": "",
     "image": "",
@@ -1184,6 +1232,22 @@
     "examyear": "2013"
   },
   {
+    "id": 151,
+    "question": "Which of the following is not a measure for controlling inflation by the central bank?  ",
+    "option": {
+      "a": "Open market operation  ",
+      "b": " Reserve requirements  ",
+      "c": "Sale of treasury bills ",
+      "d": " change of central Bank Governor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 152,
     "question": "A 50% increase in the quantity demanded of a commodity, following a 100% decrease in its price, shows that the commodity has ",
     "option": {
@@ -1243,6 +1307,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 158,
+    "question": "Which of the following is one of the responsibilities of the Central Bank of Nigeria? ",
+    "option": {
+      "a": "issuing new bond to finance public sector borrowing requirements  ",
+      "b": "auditing the various agencies and departments of government  ",
+      "c": "loaning money to other countries that transact business with Nigeria  ",
+      "d": "assisting banks that are in financial position "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -2272,6 +2352,22 @@
     "examyear": "2010"
   },
   {
+    "id": 257,
+    "question": "The following are advantages of large scale agriculture except",
+    "option": {
+      "a": "use of simple implements",
+      "b": "use of sophisticated implements",
+      "c": "increase in employment",
+      "d": "integration of crop and animal farming"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 258,
     "question": "The following are all factors determining the location of industry except",
     "option": {
@@ -2688,6 +2784,22 @@
     "examyear": "2012"
   },
   {
+    "id": 301,
+    "question": "The following are features of subsistence agriculture except",
+    "option": {
+      "a": "little capital",
+      "b": "processing of raw materials",
+      "c": "small allotments of land",
+      "d": "use of crude implements"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 302,
     "question": "Which of the following is not true of small companies?",
     "option": {
@@ -2960,6 +3072,22 @@
     "examyear": "2009"
   },
   {
+    "id": 332,
+    "question": "The marginal product of the 5th unit of capital is",
+    "option": {
+      "a": "42",
+      "b": "85",
+      "c": "114",
+      "d": "213"
+    },
+    "section": "Use the table below to answer questions. Unit of capital [1,2,3,4,5,6]\t  Total output (kg) [16, 64, 126, 212, 425, 684]",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 334,
     "question": "Which of the following can be deduced from law of variable proportions when total output is rising?",
     "option": {
@@ -3056,6 +3184,22 @@
     "examyear": "2009"
   },
   {
+    "id": 350,
+    "question": "According to the theory of comparative advantage, specialization will result in",
+    "option": {
+      "a": "labour–intensive method of production",
+      "b": "capital–intensive method of production",
+      "c": "efficient allocation of resources",
+      "d": "efficient distribution of output"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 351,
     "question": "Dumping in international trade means selling a good at a",
     "option": {
@@ -3067,6 +3211,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 354,
+    "question": "The major problem confronting a sole proprietor is",
+    "option": {
+      "a": "high level of risk",
+      "b": "limited expertise",
+      "c": "limited source of capital",
+      "d": "high taxation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -4352,6 +4512,22 @@
     "examyear": "2004"
   },
   {
+    "id": 496,
+    "question": "To ensure high employment rates, developing countries should",
+    "option": {
+      "a": "build more universities",
+      "b": "protect infant industries",
+      "c": "organize trade fairs",
+      "d": "prevent rural-urban drift"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
     "id": 498,
     "question": "Taxes levied on commodities are",
     "option": {
@@ -4752,6 +4928,22 @@
     "examyear": "2005"
   },
   {
+    "id": 547,
+    "question": "The theory of comparative cost advantage is associated with",
+    "option": {
+      "a": "Alfred Marshal",
+      "b": "Adam Smith",
+      "c": "David Ricardo",
+      "d": "J.B. Say"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 548,
     "question": "When the value of a nation’s exports is greater than its imports",
     "option": {
@@ -4894,6 +5086,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
+  },
+  {
+    "id": 561,
+    "question": "Which of the following tools of economic analysis is used when data contains more than one category?",
+    "option": {
+      "a": "Bars charts",
+      "b": "Component bar charts",
+      "c": "Graphs",
+      "d": "Symbolical statement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
   },
   {
     "id": 562,
@@ -5419,6 +5627,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 625,
+    "question": "When a firm is nationalized",
+    "option": {
+      "a": "former owners are removed without compensation",
+      "b": "it has the right to draw on state funds for capital investment",
+      "c": "it must break even within a specified period",
+      "d": "workers take control of the firm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
