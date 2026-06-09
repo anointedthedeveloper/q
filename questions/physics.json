@@ -608,6 +608,22 @@
     "examyear": "2007"
   },
   {
+    "id": 43,
+    "question": "Which of these is not a fundamental S.I unit ",
+    "option": {
+      "a": "Ampere ",
+      "b": "Kelvin ",
+      "c": "Seconds ",
+      "d": "Radians"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 44,
     "question": "If two masses 40g and 60g respectively, are attached firmly to end of a light metre rule, what is the centre of gravity of the system? ",
     "option": {
@@ -4176,6 +4192,22 @@
     "examyear": "2018"
   },
   {
+    "id": 290,
+    "question": "What type of reaction is represented by the following scheme?\n²¹X + ²¹Y → ³²Z + ¹⁰n + energy",
+    "option": {
+      "a": "Fusion reaction",
+      "b": "Fission reaction",
+      "c": "Chain reaction",
+      "d": " Radioactive decay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Analyzing the reaction:\nReactants:\n\nTwo light nuclei: ²¹X and ²¹Y\n\nProducts:\n\nOne heavier nucleus: ³²Z\nNeutrons: ¹⁰n\nEnergy released\n\nCharacteristics observed:\n\nTwo lighter nuclei combine to form a heavier nucleus\nEnergy is released\nMass numbers: 21 + 21 ≈ 32 + 10 (conserved)\n\nThis is a fusion reaction where two light nuclei (²¹X and ²¹Y) combine to form a heavier nucleus (³²Z) with the release of neutrons and energy.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 292,
     "question": "The electrochemical equivalent of silver is 0.0012g/C. If 36.0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5mins, the current must be?",
     "option": {
@@ -5296,6 +5328,22 @@
     "examyear": "2019"
   },
   {
+    "id": 367,
+    "question": "The momentum of a car moving at a constant speed in a circular track",
+    "option": {
+      "a": "can be both positive and negative",
+      "b": " can be zero depending on its position in the track",
+      "c": "can be zero depending on its inertia in the track",
+      "d": "a centrifugal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Movement of an object in a circle with an acceleration towards its center is provided by change in velocity & centripetal force a α V α Fc",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 369,
     "question": "The lead-acid accumulator consists of",
     "option": {
@@ -5708,6 +5756,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612628/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_20_dsjmk2.jpg",
     "answer": "d",
     "solution": "The ray deviates by certain angles at each reflection, and when you sum all the angular changes (50° + 50° + 40° + 40°), the total deviation from the original direction is 180°.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 400,
+    "question": "A magnetic needle is suspended first at the earth's north magnetic pole and then at a point on the magnetic equator. The respective angles between the needle and the horizontal are",
+    "option": {
+      "a": " 0° and 0°",
+      "b": "60° and 60°",
+      "c": "90° and 90°",
+      "d": "90° and 0°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "At the Earth's north magnetic pole, the angle is 90° (needle vertical), and at the magnetic equator, the angle is 0° (needle horizontal).",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -8940,6 +9004,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nMass, m = 100 kg\nApplied force, F = 500 N\nMotion: uniform velocity (constant velocity)\nAcceleration due to gravity, g = 10 m/s²\n\nSolution:\nKey concept:\nWhen an object moves with uniform velocity, acceleration = 0, therefore net force = 0.\nThis means: Applied force = Frictional force\nStep 1: Determine frictional force\nSince velocity is constant:\nFrictional force, f = Applied force = 500 N\nStep 2: Calculate normal reaction\nNormal reaction, N = mg\nN = 100 × 10 = 1000 N\nStep 3: Calculate coefficient of friction\nFormula: f = μN\nWhere μ = coefficient of friction\nμ = f/N\nμ = 500/1000\nμ = 0.5",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 627,
+    "question": "As the pressure of a fluid increases, its viscosity",
+    "option": {
+      "a": "decreases",
+      "b": "increases",
+      "c": "increases then decreases",
+      "d": "remains constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "With an increase in pressure, the viscosity of liquids except water increases while that of gases is practically independent of pressure.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -12592,6 +12672,22 @@
     "examyear": "2009"
   },
   {
+    "id": 882,
+    "question": "Thermionic emission is the process whereby?",
+    "option": {
+      "a": " β - rays are produced",
+      "b": "holes are produced",
+      "c": "x - rays are produced",
+      "d": "electrons leave a hot element"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Thermionic emission is ejection of electron from a metal surface as a result of heating.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 883,
     "question": "Which of the following can conduct electricity owing to the presence of free mobile electrons?",
     "option": {
@@ -13836,6 +13932,22 @@
     "image": "",
     "answer": "b",
     "solution": "The earth radiate heat to the atmosphere at night thereby lowering the temperature of the ground",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 967,
+    "question": "A cannon is fired from town X, after how long is the sound heard at a town Y 4.95 km away? [velocity of sound in the air = 330 ms⁻¹]",
+    "option": {
+      "a": "30 s",
+      "b": " 10 s",
+      "c": "15 s",
+      "d": "20 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nDistance (d) = 4.95 km = 4950 m\nVelocity of sound (v) = 330 m/s\nTime (t) = ?\n\nFormula:\nTime = Distance/Velocity\nt = d/v\nSubstituting values:\nt = 4950/330\nt = 15 s",
     "examtype": "utme",
     "examyear": "2011"
   },
