@@ -4272,6 +4272,22 @@
     "examyear": "2015"
   },
   {
+    "id": 314,
+    "question": "Which of the following accounts has a credit balance?",
+    "option": {
+      "a": "Capital",
+      "b": "Cash",
+      "c": "Drawings",
+      "d": "Premises"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 315,
     "question": "The accounting entry to correct sales day book overcast is",
     "option": {
@@ -6112,6 +6128,22 @@
     "examyear": "2007"
   },
   {
+    "id": 469,
+    "question": "The process whereby a cheque received by one person is given to another for payment is known as",
+    "option": {
+      "a": "cheque crossing",
+      "b": "payment in cheque",
+      "c": "cheque transfer",
+      "d": "cheque endorsement."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 470,
     "question": "Calculate the balance in the bank statement",
     "option": {
@@ -7008,6 +7040,22 @@
     "examyear": "2015"
   },
   {
+    "id": 535,
+    "question": "What does liquidity ratio measure?",
+    "option": {
+      "a": "measures operating efficiency of a company",
+      "b": " measures the ability of a company to meet its current obligations.",
+      "c": " measures the value of investments of a company",
+      "d": "measures the financial leverage of a company"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "liquidity ratio attempt to measure the ability to meet up with current obligations e.g. current ratio which measures the current asset to current liabilities.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 536,
     "question": "Derive the stock turnover period.(Average stock = 23,000. Cost of sales = 300,000 year = 365 days).",
     "option": {
@@ -7436,6 +7484,22 @@
     "image": "",
     "answer": "d",
     "solution": "The net working capital formula is calculated by subtracting the current liabilities from the current assets. \nAssets = 190,500\nliabilities = 14,000 + 8,000 = 22,000\n190,500 - 22,000 = 168,000 (capital)",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 567,
+    "question": "The major advantage of the journal proper is that it",
+    "option": {
+      "a": "helps in the preparation of the balance sheet",
+      "b": "prevents fraud and theft of item of the business",
+      "c": "serves as a book of instruction to the bookkeeper",
+      "d": "help the banking industry to be efficient"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The advantages of using a journal in the recording process is, it discloses in one place the complete effects of a transaction, it provides a chronological record of transactions, & it helps to prevent or locate errors because the debit and credit amounts for each entry can be easily compared.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -12256,6 +12320,22 @@
     "examyear": "2024"
   },
   {
+    "id": 949,
+    "question": "Prime cost consist of direct material and ___ cost",
+    "option": {
+      "a": "overhead",
+      "b": "direct",
+      "c": "indirect",
+      "d": "factory"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Prime cost refers to the direct costs associated with producing a good. These are costs that can be easily traced and directly linked to each unit of production. It consists of direct materials, direct labour and direct cost",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 950,
     "question": "The amount paid by the buyer of a business which is sold as going concern is",
     "option": {
@@ -13468,6 +13548,22 @@
     "image": "",
     "answer": "d",
     "solution": "Opening raw materials = ₦2,250\nAdd: Purchases of raw materials = ₦15,000\nLess: Closing raw materials = ₦3,000\n\n\nRaw materials consumed = 2,250 + 15,000 − 3,000 = ₦14,250",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1042,
+    "question": "<b>Use the information below to answer questions 27 to 28</b>\n\nPurchase:..Raw materials.................₦15 000\nFinished goods...........................₦11 400\nStock:....(1/7/01)Raw materials..........₦2 250\nWork-in-progress.........................₦1 875\nWages:.....Direct........................₦17 100\nIndirect.................................₦5 400\nStock:.....(30/06/02)Raw materials.......₦3 000\nWork-in-progress.........................₦3 375\n\nWhat is the cost of manufactured goods?",
+    "option": {
+      "a": "₦49 125",
+      "b": "₦48 750",
+      "c": " ₦37 625",
+      "d": "₦35 250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Raw materials consumed = Opening RM + Purchases RM − Closing RM\n= ₦2,250 + ₦15,000 − ₦3,000 = ₦14,250\n\nDirect labour = ₦17,100\n\nManufacturing overheads (indirect wages) = ₦5,400\n\nTotal manufacturing costs = RM consumed + Direct labour + Overheads\n= ₦14,250 + ₦17,100 + ₦5,400 = ₦36,750\n\nAdd: Opening WIP = ₦1,875 → ₦38,625\n\nLess: Closing WIP = ₦3,375 → ₦35,250\n\nFinal answer: Cost of manufactured goods = ₦35,250.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -15068,6 +15164,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665330/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q4_vqhypu.png",
     "answer": "a",
     "solution": "Step 1: Calculate Miscellaneous Expenses\nMiscellaneous expenses = 10% × ₦820,000 = ₦82,000\nStep 2: Calculate Total Expenses\nTotal Expenses = Office rent + NEPA + Salary + Miscellaneous expenses\nTotal Expenses = ₦20,000 + ₦15,000 + ₦120,000 + ₦82,000\nTotal Expenses = ₦237,000\nStep 3: Calculate Net Income\nNet Income = Revenue - Total Expenses\nNet Income = ₦820,000 - ₦237,000\nNet Income = ₦583,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1169,
+    "question": "An entry in a subsidiary book which does not form part of the double entry system is a?",
+    "option": {
+      "a": "contra entry",
+      "b": "journal entry",
+      "c": "single entry",
+      "d": "memorandum entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: a memorandum entry is just for information in a subsidiary book and does not affect the ledger (so it’s not part of the double-entry system).\nContra and journal entries are part of double-entry; “single entry” describes an accounting system, not a subsidiary-book entry.",
     "examtype": "utme",
     "examyear": "2002"
   },
