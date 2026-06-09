@@ -1152,6 +1152,22 @@
     "examyear": "2014"
   },
   {
+    "id": 83,
+    "question": "One of the civic responsibilities of a citizen is to obey",
+    "option": {
+      "a": "bye-laws.",
+      "b": "constituted authority.",
+      "c": "court judgments.",
+      "d": "edicts."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 84,
     "question": "Which of the following is not a function of political parties?",
     "option": {
@@ -1227,6 +1243,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 90,
+    "question": "The land contention between Nigeria and Cameroon is called",
+    "option": {
+      "a": "Bakassi Penisula",
+      "b": "Bonny Island",
+      "c": "Calabar River",
+      "d": "Lekki Penisula"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "neco",
     "examyear": "2014"
@@ -1467,6 +1499,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 107,
+    "question": "The following are duties to be performed by the citizens of a country EXCEPT",
+    "option": {
+      "a": "Destroying government properties",
+      "b": "obey law and order",
+      "c": "payment of tax",
+      "d": "show loyalty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -3712,6 +3760,22 @@
     "examyear": "2013"
   },
   {
+    "id": 263,
+    "question": "In which of the following system is survival of the fittest mostly practiced",
+    "option": {
+      "a": "Communist system",
+      "b": "Capitalist system",
+      "c": "Feudalist",
+      "d": "Totalistic system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 265,
     "question": "Some years ago a popular Governor in one of the states in Nigeria was asked to mention some mineral \tresources from his state. He made mention of “Fanta, Pepsi, Coca cola. The governor is",
     "option": {
@@ -5627,6 +5691,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 398,
+    "question": "An enabling environment created to help an individual have effective control of his/her situation is known as",
+    "option": {
+      "a": "reinforcement",
+      "b": "empowerment",
+      "c": "endowment",
+      "d": "enhancement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
