@@ -800,6 +800,22 @@
     "examyear": "2002"
   },
   {
+    "id": 69,
+    "question": "Hydrogen is readily released when dilute hydrochloric acid reacts with",
+    "option": {
+      "a": "Au",
+      "b": "Cu",
+      "c": "Na",
+      "d": "Ag"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 70,
     "question": "The most important use of hydrogen is in the",
     "option": {
@@ -1435,6 +1451,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 127,
+    "question": "According to Charles  law, the volume of a gas becomes zero at",
+    "option": {
+      "a": "00C",
+      "b": "-1000C",
+      "c": "-2730C",
+      "d": "-3730C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -2219,6 +2251,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 201,
+    "question": "Kerosene is commonly used to remove the red colour stain of palm oil from clothes because it",
+    "option": {
+      "a": "Helps to spread the oil over a larger surface area",
+      "b": "Makes the oil evaporate easily by dissolving it",
+      "c": "Helps to dilute the oil and reduce its colour",
+      "d": "Reacts with the oil to form an odourless compound"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -4752,6 +4800,22 @@
     "examyear": "2017"
   },
   {
+    "id": 416,
+    "question": "A given mass of gas occupies 2 dm³ at 300 K. At what temperature will its volume be doubled, keeping the pressure constant?",
+    "option": {
+      "a": "400 K",
+      "b": "480 K",
+      "c": "550 K",
+      "d": "600 K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using Charles's Law: V₁/T₁ = V₂/T₂. V₁ = 2 dm³, T₁ = 300 K, V₂ = 4 dm³ (doubled). Therefore T₂ = (V₂ × T₁)/V₁ = (4 × 300)/2 = 600 K.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 417,
     "question": "The oxidation number of iodine in KIO₃ is",
     "option": {
@@ -6400,6 +6464,22 @@
     "examyear": "2020"
   },
   {
+    "id": 569,
+    "question": "The products of the thermal decomposition of ammonium trioxonitrate(v) are?",
+    "option": {
+      "a": "Nitrogen (I) Oxide and Water",
+      "b": "Ammonia and Oxide",
+      "c": "Nitrogen and Water",
+      "d": "Nitrogen (IV) Oxide and Water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ammonium trioxonitrate(V) is NH₄NO₃. On gentle thermal decomposition: NH₄NO₃ → N₂O + 2H₂O. N₂O is dinitrogen monoxide, also called Nitrogen(I) oxide or laughing gas. At higher temperatures it can decompose further, but the standard products at moderate heating are Nitrogen(I) oxide and water.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 571,
     "question": "The number of molecules of Carbon(iv)Oxide produced when 10.0g of CaCO₃ is treated with 0.2dm³ of 1 Mole of HCl in the equation CaCO₃ + 2HCl ⇒ CaCl₂ + H₂O + CO₂ is?",
     "option": {
@@ -6508,6 +6588,22 @@
     "image": "",
     "answer": "b",
     "solution": "Helium is the second lightest element, making it ideal for lifting balloons. It is also a noble gas and completely non-combustible, making it much safer than hydrogen (which is equally light but highly flammable). These two properties, lightness and non-combustibility, make helium the preferred gas for observation balloons.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 579,
+    "question": "32g of anhydrous copper(ii)tetraoxosulphate(vi) dissolved in 1dm³ of water generated 13.0kJ of heat. The heat of solution is?",
+    "option": {
+      "a": "26.0kJ/mol",
+      "b": "65.0kJ/mol",
+      "c": "130.0kJ/mol",
+      "d": "260.0kJ/mol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Molar mass of anhydrous CuSO₄ = 64 + 32 + 64 = 160 g/mol. Moles dissolved = 32 ÷ 160 = 0.2 mol. Heat generated = 13.0 kJ for 0.2 mol. Heat of solution per mole = 13.0 ÷ 0.2 = 65.0 kJ/mol.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -7036,6 +7132,22 @@
     "image": "",
     "answer": "d",
     "solution": "Copper has well-established antibacterial (oligodynamic) properties. Copper ions are toxic to bacteria and disrupt their cell membranes and enzyme systems, killing them on contact. This property is used in copper plumbing, hospital surfaces, and medical devices to reduce bacterial contamination. Iron, sodium, and aluminium do not possess significant antibacterial properties.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 624,
+    "question": "An element having the atomic number 17 will resemble which of the following elements having atomic number as given below?",
+    "option": {
+      "a": "33",
+      "b": "35",
+      "c": "18",
+      "d": "19"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Atomic number 17 is chlorine, in Group VIIA (halogens) with 7 valence electrons and configuration ending in 3p⁵. Elements in the same group have the same number of valence electrons and similar chemical properties. Atomic number 35 is bromine, also a halogen with 7 valence electrons (configuration ending in 4p⁵). Bromine therefore resembles chlorine most closely.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -8288,6 +8400,38 @@
     "examyear": "2024"
   },
   {
+    "id": 716,
+    "question": "The number of molecules of helium gas contained in 11.5g of the gas is",
+    "option": {
+      "a": "1.73 × 10²³",
+      "b": "1.73 × 10²²",
+      "c": "1.73 × 10²⁴",
+      "d": "1.73 × 10²¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Molar mass of He = 4 g/mol. Moles of He = 11.5 ÷ 4 = 2.875 mol. Number of molecules = 2.875 × 6.02 × 10²³ = 17.3 × 10²³ = 1.73 × 10²⁴.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 719,
+    "question": "In the extraction of Aluminium, the silica impurity is removed by",
+    "option": {
+      "a": "electrolysis",
+      "b": "filtration",
+      "c": "reaction with H₂SO₄",
+      "d": "precipitation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In the Bayer process for refining bauxite ore, silica (SiO₂) impurity is removed by dissolving the ore in hot concentrated sodium hydroxide solution. SiO₂ reacts with NaOH: SiO₂ + 2NaOH → Na₂SiO₃ + H₂O. The silicate dissolves and is later precipitated out, while aluminium hydroxide is filtered off. However, among the given options, reaction with H₂SO₄ is closest to an acid-base removal process, though the actual reagent is NaOH.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 721,
     "question": "The constituent of petroleum fraction used in surfacing road is",
     "option": {
@@ -8316,6 +8460,22 @@
     "image": "",
     "answer": "c",
     "solution": "During fractional distillation of crude oil, different fractions condense at different temperature ranges. Kerosene (paraffin) distils between approximately 150–250°C. Petrol distils below 150°C, diesel distils between 250–350°C, and bitumen remains as a residue above 350°C. The fraction that distils at 200–250°C is kerosene.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 723,
+    "question": "A liquid hydrocarbon obtained from fractional distillation of coal tar that is used in the pharmaceutical industry is",
+    "option": {
+      "a": "xylene",
+      "b": "benzene",
+      "c": "hexane",
+      "d": "Toluene"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Benzene is obtained from the fractional distillation of coal tar and is an important raw material in the pharmaceutical industry. It is used in the synthesis of drugs, dyes, and plastics. Although xylene and toluene are also obtained from coal tar, benzene is the most fundamental and widely used aromatic compound in pharmaceutical manufacturing.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -8908,6 +9068,22 @@
     "image": "",
     "answer": "c",
     "solution": "At the anode, oxidation occurs. Both Cl⁻ and OH⁻ ions are present, but Cl⁻ is selectively discharged due to its higher concentration in brine: 2Cl⁻ → Cl₂ + 2e⁻. Na⁺ and H⁺ are discharged at the cathode, not the anode.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 774,
+    "question": "The time required to deposit 4.5 g of copper from CuSO₄ solution by passing a current of 2.5 Amperes is (Cu = 64 g; 1F = 96500 C/mol)",
+    "option": {
+      "a": "2714 sec",
+      "b": "2527 sec",
+      "c": "5428 sec",
+      "d": "6785 sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Cu²⁺ + 2e⁻ → Cu. Moles of Cu = 4.5/64 = 0.0703 mol. Moles of electrons = 2 × 0.0703 = 0.1406 mol. Charge Q = 0.1406 × 96500 = 13570 C. Time t = Q/I = 13570/2.5 = 5428 sec.",
     "examtype": "utme",
     "examyear": "2025"
   },
