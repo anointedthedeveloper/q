@@ -2240,6 +2240,22 @@
     "examyear": "2016"
   },
   {
+    "id": 159,
+    "question": "When stock is withdrawn, for personal use, the accounting entries is to debit",
+    "option": {
+      "a": "stock account, credit drawings",
+      "b": "drawing account credit stock account",
+      "c": "personal account credit cash account",
+      "d": "cash account, credit personal account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 160,
     "question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled N800,000. A provision of 2% was made for discount and 5% provision for bad and doubtful debts.  Find the amount for sundry debtors after provision.",
     "option": {
@@ -7760,6 +7776,22 @@
     "examyear": "2015"
   },
   {
+    "id": 550,
+    "question": "When shares are sold at more than the par value, they are said to have been issued at",
+    "option": {
+      "a": "A premium",
+      "b": "Normal value",
+      "c": "A discount",
+      "d": "A profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When shares are issued at a price above their par (nominal) value, the excess is called a share premium",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 551,
     "question": "Which of the following is shown in the profit and loss appropriation account of a company",
     "option": {
@@ -10544,6 +10576,22 @@
     "examyear": "2019"
   },
   {
+    "id": 751,
+    "question": "One of these is not a similarity between Joint Venture and Partnership.",
+    "option": {
+      "a": "AIM is profit making",
+      "b": "It is for a specific venture",
+      "c": "Involves two people",
+      "d": "have rights and duties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Joint venture is for a specific venture while partnership is for a perpetual succession.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 752,
     "question": "Majority of commercial transactions are termed credit transactions, which means",
     "option": {
@@ -12076,6 +12124,22 @@
     "image": "",
     "answer": "a",
     "solution": "In branch accounting the Branch Adjustment Account captures inter‑branch transactions and any gross profit on those adjustments. That gross profit is then transferred into the Branch Trading Account to complete the calculation of the branch’s trading results.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 866,
+    "question": "Adex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch: Stock at branch 1st January at cost was ₦400, goods sent to branch at cost during the year was ₦8,000, returns to head office amounted to ₦340, cash sales were ₦9,160, and stock at branch 31st December at cost was ₦720. Calculate the cost of goods sold during the year.",
+    "option": {
+      "a": "₦7,340",
+      "b": "₦7,820",
+      "c": "₦1,870",
+      "d": "₦7,640"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Stock movement formula:\nCost of Goods Sold = Opening Stock + Goods Sent to Branch - Returns to Head Office - Closing Stock\nCalculation:\n\nOpening Stock (1st Jan): ₦400\nAdd: Goods sent to branch: ₦8,000\nLess: Returns to head office: ₦340\nLess: Closing Stock (31st Dec): ₦720\n\nCost of Goods Sold = ₦400 + ₦8,000 - ₦340 - ₦720 = ₦7,340\nThe cost of goods sold by Ede branch is ₦7,340.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -14620,6 +14684,22 @@
     "image": "",
     "answer": "d",
     "solution": "In a not-for-profit organization, profits from activities are treated as surpluses and recorded on the credit side of the Income and Expenditure Account, since they increase the organization's funds.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1047,
+    "question": "Departmental accounts are prepared to aid the comparison of the?",
+    "option": {
+      "a": " previous year's transactions",
+      "b": "daily profits",
+      "c": "workers' performances",
+      "d": "management performances"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Departmental accounts help management compare the performance of different departments so they can identify which ones are more profitable, efficient, or in need of improvement.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -17248,6 +17328,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1237,
+    "question": "<b>Use the information below to answer questions 22 and 23</b>\n\n\nUsing the given balance sheet information for 31/12/98 and 31/12/99, What is the capital from the opening balance sheet?.\nGiven data:\n\n31/12/98: Plant & Machinery ₦1,500, Fixtures ₦700, Stock ₦500, Debtors ₦900, Cash ₦200, Creditors ₦500, Loan ₦600\n31/12/99: Plant & Machinery ₦1,200, Fixtures ₦520, Stock ₦600, Debtors ₦400, Cash ₦300, Creditors ₦600, Loan ₦401",
+    "option": {
+      "a": "₦3,600",
+      "b": "₦2,700",
+      "c": "₦2,070",
+      "d": "₦1520"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Using the accounting equation: Assets = Liabilities + Capital\nRearranging: Capital = Assets - Liabilities\nAssets as at 31/12/98:\n\nPlant & Machinery: ₦1,500\nFixtures: ₦700\nStock: ₦500\nDebtors: ₦900\nCash: ₦200\nTotal Assets = ₦3,800\n\nLiabilities as at 31/12/98:\n\nCreditors: ₦500\nLoan: ₦600\nTotal Liabilities = ₦1,100\n\nCapital = Total Assets - Total Liabilities\nCapital = ₦3,800 - ₦1,100 = ₦2,700\nTherefore, the capital from the opening balance sheet is ₦2,700.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1238,
     "question": "Given:\nDirect material ₦2,500\nDirect labour ₦5,000\nDirect expenses ₦1,000\nOverhead expenses ₦1,500\n\nFrom the data above, compute the prime cost?",
     "option": {
@@ -19792,6 +19888,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1425,
+    "question": "Which of the following demonstrates the imprest system?",
+    "option": {
+      "a": " Float → expenses paid → cash in bank → float",
+      "b": "Float → cash from bank → expenses paid → float",
+      "c": " Float → expenses paid→ cash from bank → float",
+      "d": "Float → cash in bank → expenses paid → float"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Under the imprest system, you start with a fixed petty cash float. As expenses are paid out of that float, its balance declines. At the end of the period (or when replenishment is needed), you draw cash from the bank equal to the total expenses paid to restore the float back to its original amount.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1426,
     "question": "When the sum of money appears on the credit side of the cash book, but not on the debit side of the bank statement, the sum is regarded as",
     "option": {
@@ -20252,6 +20364,22 @@
     "image": "",
     "answer": "c",
     "solution": "Invoice price = ₦2,000\n\nDiscount rate = 5%\n\nDiscount amount:\n\n\n₦2,000 × 5% = ₦100\nCash remitted to the head office:\n\nInvoice price − Discount = ₦2,000 − ₦100 = ₦1,900",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1462,
+    "question": "Which of the following are advantages of departmental accounts? (i) The department making the highest profit\ncan be easily determined (ii) The capital of the business can be calculated easily (iii) Easy knowledge of the sources of funding (iv) Encouragement of healthy rivalry among the variousdepartments.",
+    "option": {
+      "a": "i and iv only",
+      "b": "ii and iii only",
+      "c": "ii and iv only",
+      "d": "iii and iv only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Advantages of departmental accounts include:\n\nThe department making the highest profit can be easily determined (i)\n\nEncouragement of healthy rivalry among the various departments (iv)\n\nCalculating the capital of the business (ii) and sources of funding (iii) are not specific advantages of departmental accounts.",
     "examtype": "utme",
     "examyear": "1997"
   },
