@@ -1957,6 +1957,25 @@
     "category": "others"
   },
   {
+    "id": 120,
+    "question": "The man who scare the girl was a bit <i>deranged</i>",
+    "option": {
+      "a": "sane ",
+      "b": "amorous",
+      "c": "crazy",
+      "d": "dangerous"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 122,
     "question": "The player <i>writhed in pain</i> after the fall.",
     "option": {
@@ -10830,6 +10849,25 @@
     "category": "others"
   },
   {
+    "id": 753,
+    "question": "Audu fought with his ........ brother?",
+    "option": {
+      "a": "senior",
+      "b": "older",
+      "c": "bigger",
+      "d": "elder"
+    },
+    "section": "<b>In each of questions 41 to 62, fill the gap with the most appropriate option from the list provided.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 57,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 754,
     "question": "The Dark Continent was an ...... for Africa? ",
     "option": {
@@ -11282,6 +11320,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 86,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 784,
+    "question": "The officer said that he knew nothing to the <u>detriment</u> of the applicant?",
+    "option": {
+      "a": "damage",
+      "b": "disfavour",
+      "c": "advantage",
+      "d": "background"
+    },
+    "section": "In each of questions 85 to 100, choose from the option <b>opposite</b> in meaning to the word underlined.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 88,
     "hasPassage": 0,
     "category": "others"
   },
@@ -17708,6 +17765,25 @@
     "category": "others"
   },
   {
+    "id": 1291,
+    "question": "I only visited Chidi. This means that",
+    "option": {
+      "a": "None of the above",
+      "b": "I didn't do anything asides visiting Chidi",
+      "c": " I didn't go with anyone to visit Chidi",
+      "d": "I visited Chidi and his friends"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The general rule is adverbs should be placed next to the thing they modify. Here, the adverb is modifying visited .",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 38,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1292,
     "question": "My father is <u>parsimonious</u>",
     "option": {
@@ -21067,6 +21143,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 62,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1546,
+    "question": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The French classes were always funny because we considered French a <i>strange</i> tongue.",
+    "option": {
+      "a": "Awkward",
+      "b": "Foreign",
+      "c": "Funny",
+      "d": "Uninteresting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Strange means unfamiliar.\n\nForeign means originating from another country.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 63,
     "hasPassage": 0,
     "category": "others"
   },
