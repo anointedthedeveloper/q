@@ -10496,6 +10496,22 @@
     "examyear": "2018"
   },
   {
+    "id": 689,
+    "question": "What act generally includes completing unfinished partnership business, collecting and paying debts, collecting partnership assets to be turned into cash and taking inventory?",
+    "option": {
+      "a": "Formation",
+      "b": "dissolution",
+      "c": " winding up",
+      "d": " termination"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "It is the first step in termination process",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 690,
     "question": "Using the following:\n\nBalance as par overdraft of the cashbook is ₦4000 ,uncredited cheque is ₦2300, bank charges ₦300, unpresented cheque ₦5000.\n\n  what is the adjusted cashbook balance?",
     "option": {
@@ -11164,6 +11180,22 @@
     "image": "",
     "answer": "a",
     "solution": "To calculate the cost of raw materials consumed, use the formula:\nCost of Raw Materials Consumed = Opening Stock of Raw Materials + Purchases + Carriage Inwards - Closing Stock of Raw Materials\nCalculation:\nCost of Raw Materials Consumed = ₦32,160 + ₦145,000 + ₦7,000 - ₦29,640\nCost of Raw Materials Consumed = ₦184,160 - ₦29,640 = ₦154,520\nTherefore, the cost of raw materials consumed is ₦154,520.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 736,
+    "question": "Given the following manufacturing information: stock of finished goods on January 1st was ₦50,640 and on December 31st was ₦71,380; stock of raw materials on January 1st was ₦32,160 and on December 31st was ₦29,640; purchase of raw materials was ₦145,000; manufacturing wages were ₦52,000; depreciation on factory equipment was ₦16,500; direct expenses were ₦12,500; factory fuel cost ₦7,000; and carriage inwards on raw materials was ₦7,000, What is the Total Prime Cost?",
+    "option": {
+      "a": "₦220,480",
+      "b": "₦219,020",
+      "c": "₦200,480",
+      "d": "₦190,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Total Prime Cost:\nPrime Cost = Cost of Raw Materials Consumed + Manufacturing Wages + Direct Expenses\nPrime Cost = ₦154,520 + ₦52,000 + ₦12,500 = ₦219,020",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -15420,6 +15452,22 @@
     "image": "",
     "answer": "b",
     "solution": "Explanation: buying stock on credit increases inventory (debit Stock) and creates a liability (credit Accounts Payable).",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1018,
+    "question": "Given:\n\nLiabilities..............₦23,700\nCurrent assets...........₦20,300\nFixed assets.............₦64,500\n\nWhat is the capital introduced by the proprietor?",
+    "option": {
+      "a": "₦40,800",
+      "b": "₦61,100",
+      "c": " ₦88,200",
+      "d": "₦108 500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Current assets = ₦20,300\nFixed assets = ₦64,500\nTotal assets = ₦20,300 + ₦64,500 = ₦84,800\n\nLiabilities = ₦23,700\n\nCapital = Total assets − Liabilities\nCapital = ₦84,800 − ₦23,700 = ₦61,100",
     "examtype": "utme",
     "examyear": "2005"
   },
