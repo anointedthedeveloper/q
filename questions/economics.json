@@ -3392,6 +3392,22 @@
     "examyear": "2010"
   },
   {
+    "id": 234,
+    "question": "The sum of items divided by the number of items is the",
+    "option": {
+      "a": "Frequency",
+      "b": "mean",
+      "c": "median",
+      "d": "mode"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 235,
     "question": "Find the median of the following set of scores: 8, 9, 6, 5, 10",
     "option": {
@@ -4487,6 +4503,22 @@
       "b": "a country’s economic growth",
       "c": "the human level of development",
       "d": "the flow of imports to a country"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 306,
+    "question": "A tax is regressive if the",
+    "option": {
+      "a": "rate of tax is constant at all income levels",
+      "b": "rate of tax decreases as income increases",
+      "c": "rate of tax increases as income increases",
+      "d": "tax is direct rather than indirect"
     },
     "section": "",
     "image": "",
