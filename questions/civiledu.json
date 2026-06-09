@@ -2464,6 +2464,22 @@
     "examyear": "2012"
   },
   {
+    "id": 170,
+    "question": "Which of these countries operate a unitary system of \tgovernment",
+    "option": {
+      "a": "Nigeria",
+      "b": "U. S. A",
+      "c": "Ghana",
+      "d": "Britain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
     "id": 171,
     "question": "Which of the following are not fundamental human right",
     "option": {
@@ -2887,6 +2903,22 @@
       "b": "The right to fight and smoke in the public place",
       "c": "The right to attack your enemies and the right to make slanderous speeches",
       "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 202,
+    "question": "Cultism can lead to",
+    "option": {
+      "a": "Immoral activities and indiscipline",
+      "b": "Maintenance of law and order in the society",
+      "c": "Corrupt free society",
+      "d": "Sound cultural development"
     },
     "section": "",
     "image": "",
@@ -3392,6 +3424,22 @@
     "examyear": "2013"
   },
   {
+    "id": 236,
+    "question": "The lack of interest in politics and political activities by the citizens of a country is known as",
+    "option": {
+      "a": "political disinterestedness",
+      "b": "political culture",
+      "c": "political disintegration",
+      "d": "political apathy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 237,
     "question": "Popular participation refers to",
     "option": {
@@ -3467,6 +3515,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 242,
+    "question": "Which of the following type of government is hereditary?",
+    "option": {
+      "a": "Democracy",
+      "b": "Oligarchy",
+      "c": "Monarchy",
+      "d": "Fascism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -3623,6 +3687,22 @@
       "b": "drug abuse",
       "c": "drug trafficking",
       "d": "Self help activity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 253,
+    "question": "As Mr Umukoro got to Oghara junction, near Sapele, he packed the bus and bought some roasted monkey bush meat. Some of the passengers in the bus followed suit, that day was a good Friday. On motion Mr Umukoro, the driver and some of the passengers were doing justice to the monkey bush meat. No sooner had they started than they were stopped and Mr Umukoro was fined by men of the FRSC. If the fine was proper which of the reasons bellow could be responsible for it",
+    "option": {
+      "a": "some of the passengers ate the bush meat while the bus was on motion",
+      "b": "Mr Umukoro, the driver was driving and eating at the same time",
+      "c": "They were not supposed to eat monkey bush meat because they can contact the Ebola virus from it.",
+      "d": "They were not expected to eat and any kind of meat on a good Friday"
     },
     "section": "",
     "image": "",
@@ -3915,6 +3995,22 @@
     "section": "A certain man came to visit his friend at Shomolu one early morning. Unexpectedly the man fainted and slumped. He lay on the floor for several hours and looking lifeless. The crowd and even the friend he came to visit kept a reasonable distance from him. No one came to his rescue or even attempted to touch him. As luck would have it he regained his strength after about five hours and managed to go back to his house",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 274,
+    "question": "Which of the following could be a possible reason for the crowds attitude towards the sick man",
+    "option": {
+      "a": "They were afraid that he might be an unknown soldier",
+      "b": "They kept their distance so as not to contact the Ebola virus, in case he has it",
+      "c": "They were not used to helping visitors",
+      "d": "They kept their distance so as not to contact the HIV/AIDs virus, in case he has it"
+    },
+    "section": "A certain man came to visit his friend at Shomolu one early morning. Unexpectedly the man fainted and slumped. He lay on the floor for several hours and looking lifeless. The crowd and even the friend he came to visit kept a reasonable distance from him. No one came to his rescue or even attempted to touch him. As luck would have it he regained his strength after about five hours and managed to go back to his house",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -4219,6 +4315,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 296,
+    "question": "Public servants in Nigeria are expected to be .............",
+    "option": {
+      "a": "involved in politics",
+      "b": "non-partisan",
+      "c": "ambitious politically",
+      "d": "partial"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -4619,6 +4731,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 324,
+    "question": "In the General election of June 12 1993, the two main candidates that contested for the post of presidency were ......",
+    "option": {
+      "a": "MKO Abiola and Olusegun Obasanjo",
+      "b": "MKO Abiola and Tofa",
+      "c": "Atiku and Olusegun Obasanjo",
+      "d": "Yaradua and Goodluck Jonathan"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 325,
+    "question": "A committee of PDP members is made up of 9 Hausas, 8 Igbo and 7 Yorubas. If the president wishes to choose just one person to be his special adviser, find the probability that the person chosen is neither Hausa nor Yoruba",
+    "option": {
+      "a": "7/24",
+      "b": "2/3",
+      "c": "3/8",
+      "d": "1/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -5803,6 +5947,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 406,
+    "question": "Which of the following is not included in the stages of interpersonal relationship?",
+    "option": {
+      "a": "Rejuvenation",
+      "b": "Deterioration",
+      "c": "Termination",
+      "d": "Continuation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
