@@ -32,6 +32,22 @@
     "examyear": "2006"
   },
   {
+    "id": 17,
+    "question": "The creation of utility can be referred to as ",
+    "option": {
+      "a": "value added ",
+      "b": "profit marginalization ",
+      "c": "production",
+      "d": "entrepreneurship."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 23,
     "question": "The only essential attribute of the good currency is ",
     "option": {
@@ -59,6 +75,54 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 34,
+    "question": "The burden of tax on a commodity whose demand is infinitely inelastic ",
+    "option": {
+      "a": "is Zero ",
+      "b": "will be borne by sellers alone ",
+      "c": "will be borne by buyers alone ",
+      "d": "it impossible to tell"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 35,
+    "question": "Inflation can be curbed by ",
+    "option": {
+      "a": "Increasing aggregate demand ",
+      "b": "paying higher wages ",
+      "c": "reducing aggregate demand ",
+      "d": "A deficit budget"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 37,
+    "question": "In a sole proprietorship, the decisions are made by the ",
+    "option": {
+      "a": "Government ",
+      "b": "Board of directors ",
+      "c": "Shareholder’s Conference ",
+      "d": "Owner"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
@@ -107,6 +171,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 58,
+    "question": "A production possibility curve shows ",
+    "option": {
+      "a": "how much of the resources of society are used to produce a particular commodity ",
+      "b": "the rate of inflation ",
+      "c": "the rate of unemployment in the economy ",
+      "d": "the various combination of two commodities that can be produced."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 64,
+    "question": "Which of the following is the most liquid asset to a commercial bank? ",
+    "option": {
+      "a": "cash ",
+      "b": "money at call ",
+      "c": "stock and shares ",
+      "d": "Treasury Bills."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -272,6 +368,54 @@
     "examyear": "2013"
   },
   {
+    "id": 165,
+    "question": "When economics say that people act rationally in their self-interest, they mean that individual: ",
+    "option": {
+      "a": "look and pursue opportunities to increase their utility ",
+      "b": "generally disregard the interest of others ",
+      "c": "are mainly creatures of habit ",
+      "d": "are unpredictable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 170,
+    "question": "Which of the following statement is correct? ",
+    "option": {
+      "a": "if demand increase and supply decrease equilibrium price will fall ",
+      "b": "if supply increase and demand decrease, equilibrium price will fall ",
+      "c": "It demand decrease and supply increase increases, equilibrium price will rise ",
+      "d": "If supply declines and demand remain constant, equilibrium price will fall."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 177,
+    "question": "The value of money varies ",
+    "option": {
+      "a": "inversely with the price of level ",
+      "b": "directly with the volume of employment ",
+      "c": "directly with the price level ",
+      "d": "directly with the interest rate."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 191,
     "question": "The difference between the highest and lowest in a set of data is the",
     "option": {
@@ -318,6 +462,86 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2001"
+  },
+  {
+    "id": 226,
+    "question": "Which of the following is a direct tax?",
+    "option": {
+      "a": "Import duty",
+      "b": "Export duty",
+      "c": "Capital gain tax",
+      "d": "Sales tax"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 238,
+    "question": "The slope of a supply curve is",
+    "option": {
+      "a": "Horizontal",
+      "b": "uniform",
+      "c": "positive",
+      "d": "vertical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 241,
+    "question": "At the highest level of total utility, marginal utility is",
+    "option": {
+      "a": "Negative",
+      "b": "positive and falling",
+      "c": "positive and rising",
+      "d": "zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 252,
+    "question": "Age Group\t[0 -15\t\t30%], [16 - 40\t\t27%], [41 - 60\t\t25%], [61 and above\t18%] The data shows the age distribution of a country \n\tin 1983. Using the data, calculate the percentage of working population in 1983.",
+    "option": {
+      "a": "48%",
+      "b": "52%",
+      "c": "57%",
+      "d": "70%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 254,
+    "question": "An efficient weapon used in resolving disputes between employers and employees is",
+    "option": {
+      "a": "co – operation",
+      "b": "collective bargaining",
+      "c": "display of placards",
+      "d": "legal action"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
   },
   {
     "id": 261,
@@ -400,6 +624,54 @@
     "examyear": "2012"
   },
   {
+    "id": 289,
+    "question": "A firm will shut down in the long run if its earning is",
+    "option": {
+      "a": "less than normal profit",
+      "b": "greater than normal profit",
+      "c": "equal to super normal profit",
+      "d": "less than super normal profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 291,
+    "question": "In which of the following markets does a firm have power to \tmake super normal profits both in the short run and long run?",
+    "option": {
+      "a": "Monopol",
+      "b": "Duopoly",
+      "c": "Oligopoly",
+      "d": "Monopsony"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 297,
+    "question": "If the labour force of a country is 2.5 million and 2 million are employed, what is the unemployment rate?",
+    "option": {
+      "a": "0.2%",
+      "b": "20%",
+      "c": "200%",
+      "d": "250%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 299,
     "question": "Natural growth rate of population can be defined as the",
     "option": {
@@ -432,6 +704,38 @@
     "examyear": "2009"
   },
   {
+    "id": 341,
+    "question": "Double counting is a problem in computing national income when using the",
+    "option": {
+      "a": "expenditure method",
+      "b": "income method",
+      "c": "output method",
+      "d": "value–added method"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 342,
+    "question": "In the circular flow of income, an increase in saving causes",
+    "option": {
+      "a": "an increase in imports",
+      "b": "a decrease in the income stream",
+      "c": "an increase in household consumption",
+      "d": "a decrease in exports"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 347,
     "question": "If government expenditure exceeds revenue, this results in",
     "option": {
@@ -446,6 +750,70 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 357,
+    "question": "To enhance the competitiveness of domestic agricultural products, there is need to",
+    "option": {
+      "a": "ban the importation of agricultural products",
+      "b": "increase the exportation of agricultural products",
+      "c": "improve the quality of domestic agricultural products",
+      "d": "increase the output of domestic agricultural products"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 358,
+    "question": "In Nigeria, the location of a steel industry at Ajaokuta is due to",
+    "option": {
+      "a": "the availability of transport network",
+      "b": "the proximity to source of power",
+      "c": "the proximity to large deposits of iron ore",
+      "d": "political consideration."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 370,
+    "question": "The standard deviation of a set of data is",
+    "option": {
+      "a": "always measured from the mode",
+      "b": "always measured from the median",
+      "c": "the most representative of averages",
+      "d": "a measure of dispersion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 375,
+    "question": "An excess demand for beans will result from",
+    "option": {
+      "a": "an increase in the price of  beans",
+      "b": "a decrease in the price of  beans",
+      "c": "an increase in the supply of  beans",
+      "d": "a decrease in the supply of  beans"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 379,
@@ -487,6 +855,38 @@
       "b": "diseconomies of scale",
       "c": "economics of scale",
       "d": "increasing marginal returns"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 391,
+    "question": "An agreement among firms on price and segmentation is termed",
+    "option": {
+      "a": "Cartel",
+      "b": "haggling",
+      "c": "collusion",
+      "d": "specialization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 404,
+    "question": "Localization of industries refers to the",
+    "option": {
+      "a": "spread of firms producing different products",
+      "b": "concentration of firms of an industry",
+      "c": "siting of industries near the market",
+      "d": "siting of firms producing different products"
     },
     "section": "",
     "image": "",
@@ -576,6 +976,22 @@
     "examyear": "2003"
   },
   {
+    "id": 443,
+    "question": "Efficient distribution of goods in West Africa will be \n\tfacilitated by",
+    "option": {
+      "a": "poor storage facilities",
+      "b": "adequate transportation system",
+      "c": "high standard of living",
+      "d": "high cost of living"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 460,
     "question": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the",
     "option": {
@@ -640,6 +1056,22 @@
     "examyear": "2004"
   },
   {
+    "id": 486,
+    "question": "The value of money is best determined by",
+    "option": {
+      "a": "input-output ratio",
+      "b": "the purchasing power",
+      "c": "the importance people attach to it",
+      "d": "economics of scale"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
     "id": 493,
     "question": "The number of people who are qualified to work and who offer themselves for employment are called",
     "option": {
@@ -654,6 +1086,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
+  },
+  {
+    "id": 513,
+    "question": "The 150.00 Naira which Olu would have used to purchase a textbook was used to buy a T-shirt. This implies that",
+    "option": {
+      "a": "Olu’s real cost is 150.00 Naira",
+      "b": "Olu’s opportunity cost is the T-shirt",
+      "c": "Olu’s opportunity cost is the textbook",
+      "d": "Olu’s money cost is also the real cost."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
   },
   {
     "id": 516,
@@ -736,6 +1184,22 @@
     "examyear": "2005"
   },
   {
+    "id": 573,
+    "question": "In the analysis of utility theory, the basis of demand is",
+    "option": {
+      "a": "marginal utility",
+      "b": "average utility",
+      "c": "fixed utility",
+      "d": "diminishing utility"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 621,
     "question": "Use the following  demand schedule to answer question Price (N=) [15, 13]\tQuantity Demanded[60, 70] The percentage change in quantity demanded is",
     "option": {
@@ -759,6 +1223,38 @@
       "b": "business profit",
       "c": "normal profit",
       "d": "excess profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 629,
+    "question": "Which of the following is a middlemen in the chain of distribution?",
+    "option": {
+      "a": "An entrepreneur",
+      "b": "A producer",
+      "c": "A banker",
+      "d": "A retailer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 635,
+    "question": "Long-term loans can be secured from",
+    "option": {
+      "a": "commercial banks",
+      "b": "discount houses",
+      "c": "development banks",
+      "d": "acceptance houses"
     },
     "section": "",
     "image": "",
