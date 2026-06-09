@@ -848,6 +848,22 @@
     "examyear": "2009"
   },
   {
+    "id": 63,
+    "question": "Find the probability that a number selected at random 40 to 50 is a prime number   ",
+    "option": {
+      "a": "3/11",
+      "b": "5/11",
+      "c": "5/10",
+      "d": "4/10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 64,
     "question": "If the length of the sides of a right angled triangle are (3x + 1)cm, (3x – 1)cm and xcm, what is x ? ",
     "option": {
@@ -11964,6 +11980,22 @@
     "image": "",
     "answer": "b",
     "solution": "2x + x = 180°\n\n3x = 180°\n\nx = 60° (exterior angle of the polygon)\n\nangle = total angle/number of sides\n\n\n60 = 360/n\n\n\nn = 360/60\n\n\nn = 6 sides",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 887,
+    "question": "A cylindrical tank has a capacity of 3080m3. What is the depth of the tank if the diameter of its base is 14m? Take pi = 22/7.",
+    "option": {
+      "a": "23m",
+      "b": "25m",
+      "c": "20m",
+      "d": "22m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Capacity = Volume = 3080m3<sup>3</sup>\n\nbase diameter = 14m\n\nradius = diameter/2\n\n\n= 7m\n\nVolume of Cylidner = Capacity of cylinder\n\nπr<sup>2</sup>h = 3080\n\n22/7 × 7 × 7 × h = 3080\n\nh = 3080/22×7\n\n\nh = 20m",
     "examtype": "utme",
     "examyear": "2017"
   },
