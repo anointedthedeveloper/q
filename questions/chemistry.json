@@ -448,6 +448,22 @@
     "examyear": "2001"
   },
   {
+    "id": 38,
+    "question": "A characteristic reaction of the compounds with the general formula CnH2n is",
+    "option": {
+      "a": "Esterification",
+      "b": "Polymerization",
+      "c": "Decarboxylation",
+      "d": "Substitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 39,
     "question": "The pair of organic compounds that are isomers is",
     "option": {
@@ -1163,6 +1179,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 92,
+    "question": "Farmlands affected by crude –oil spillage can be decontaminated by",
+    "option": {
+      "a": "Adding acidic solutions",
+      "b": "Using aerobic bacteria",
+      "c": "Pouring water on the affected area",
+      "d": "Burning off the oil from the area"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -5360,6 +5392,22 @@
     "examyear": "2017"
   },
   {
+    "id": 423,
+    "question": "The ideal gas laws and equations are true for all gases at",
+    "option": {
+      "a": "low pressures and lower temperatures",
+      "b": "low temperatures and high pressures",
+      "c": "high pressures and high temperatures",
+      "d": "low pressure and high temperatures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ideal gas behaviour is most closely approximated at low pressures (gas molecules are far apart, minimizing intermolecular forces) and high temperatures (molecules have high kinetic energy relative to intermolecular attractions). At high pressures or low temperatures, real gas behaviour deviates significantly from ideal.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 424,
     "question": "When ΔH is negative, a reaction is said to be",
     "option": {
@@ -7232,6 +7280,22 @@
     "examyear": "2020"
   },
   {
+    "id": 574,
+    "question": "The shape of ammonia molecule is?",
+    "option": {
+      "a": "Trigonal planar",
+      "b": "Octahedral",
+      "c": "Square planar",
+      "d": "Tetrahedral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ammonia (NH₃) has 3 bonding pairs and 1 lone pair around the central nitrogen atom. VSEPR theory predicts the electron geometry is tetrahedral, but the molecular shape (considering only bonded atoms) is trigonal pyramidal — which is derived from the tetrahedral arrangement. The correct answer from the given options is D — tetrahedral (referring to the electron pair geometry).",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 575,
     "question": "A few drops of conc HCl are added to about 10cm³ of a solution of pH 3.4. The pH of the resulting mixture is?",
     "option": {
@@ -9004,6 +9068,22 @@
     "image": "",
     "answer": "a",
     "solution": "Across a period from left to right, the atomic number increases, meaning more protons are added to the nucleus. This increases the nuclear charge, which attracts electrons more strongly. As a result, more energy is required to remove an electron, so ionization energy increases from left to right across a period.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 697,
+    "question": "Which of the following alkanes has a straight-chain structure?",
+    "option": {
+      "a": "Cyclopentane (C₅H₁₀)",
+      "b": "Isobutane (C₄H₁₀)",
+      "c": "2-methylpropane (C₄H₁₀)",
+      "d": "Pentane (C₅H₁₂)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Pentane (C₅H₁₂) has the structure CH₃CH₂CH₂CH₂CH₃, which is an unbranched straight chain of five carbon atoms. Cyclopentane is a cyclic compound, not a straight-chain alkane. Isobutane and 2-methylpropane are the same compound — a branched isomer of butane with a methyl group on C2, not a straight chain.",
     "examtype": "utme",
     "examyear": "2023"
   },
