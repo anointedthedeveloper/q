@@ -352,6 +352,22 @@
     "examyear": "2007"
   },
   {
+    "id": 35,
+    "question": "An electric cell has an internal resistance of 2Ω. A current of 0.5A was measured when a resistor of resistance 5Ω was connected across it. Determine the electromotive force of the cell",
+    "option": {
+      "a": "3.5V ",
+      "b": "2.5V ",
+      "c": "4.5V ",
+      "d": "2.35V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 36,
     "question": "The speed of light in air is 3 x 108ms-1. If the refractive index of light from air to water is 4/3, calculate the speed of light in water ",
     "option": {
@@ -1616,6 +1632,22 @@
     "examyear": "2016"
   },
   {
+    "id": 186,
+    "question": "An object is placed 15cm in front of a plane mirror. If the mirror is moved further 5cm away from the object and the image is",
+    "option": {
+      "a": " 80cm",
+      "b": "40cm",
+      "c": " 50cm",
+      "d": "70cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial object distance from mirror = 15 cm\nMirror is moved 5 cm away from object\nNew object distance = 15 + 5 = 20 cm\n\nProperty of plane mirror:\nImage distance behind mirror = Object distance in front of mirror\nAfter moving the mirror:\n\nObject distance from mirror = 20 cm\nImage distance behind mirror = 20 cm\n\nTotal distance from object to image:\nTotal distance = Object distance + Image distance\nTotal distance = 20 cm + 20 cm = 40 cm\nAnswer: B. 40 cm\nWhen the mirror is 20 cm from the object, the image is 40 cm from the object (20 cm in front to mirror + 20 cm behind mirror to image).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 187,
     "question": "Which of the following statements is correct about a machine?",
     "option": {
@@ -2044,6 +2076,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610508/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_46_vlldts.jpg",
     "answer": "c",
     "solution": "Magnetic field lines flow from the north pole to the south pole. The force direction is from the north pole (N) toward the south pole (S).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 227,
+    "question": "The frequency of beats produced when two tunning forks of frequencies 258Hz and 270Hz are sounded close to each other",
+    "option": {
+      "a": ". 6Hz",
+      "b": "264Hz",
+      "c": "528Hz",
+      "d": "12Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nFrequency of first tuning fork (f₁) = 258 Hz\nFrequency of second tuning fork (f₂) = 270 Hz\nBeat frequency = ?\n\nFormula for beat frequency:\nBeat frequency = |f₂ - f₁|\nCalculation:\nBeat frequency = |270 - 258|\nBeat frequency = 12 Hz\nExplanation:\nWhen two sound waves of slightly different frequencies are sounded together, they interfere to produce beats. The beat frequency equals the difference between the two frequencies. You hear the sound getting louder and softer 12 times per second.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -2752,6 +2800,22 @@
     "examyear": "2018"
   },
   {
+    "id": 306,
+    "question": "In the diagram shown, which of the simple pendulum will resonate with P when set into oscillation?",
+    "option": {
+      "a": "U",
+      "b": "T",
+      "c": " R and T",
+      "d": "Q and R"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611654/ALOC-Questions/Physics/2018/2018_Q_27_vo9k8j.jpg",
+    "answer": "b",
+    "solution": "Understanding resonance in pendulums:\nResonance occurs when pendulums have the same length (and therefore the same natural frequency/period).\nGiven information from the diagram:\n\nU is the longest\nS is second longest\nQ is third\nR is the shortest\nP and T have the same length\n\nResonance condition:\nFor resonance with P, a pendulum must have the same length as P.\nFrom the description, P and T are the same length.\nTherefore, when P is set into oscillation, only T will resonate with it because they share the same natural frequency.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 307,
     "question": "The time rate of loss of heat by a body is proportional to the",
     "option": {
@@ -2796,6 +2860,22 @@
     "image": "",
     "answer": "b",
     "solution": "Evaporation is the process whereby a liquid turns spontaneously into vapor at temperatures below the boiling point, occurring naturally at the liquid's surface.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 312,
+    "question": "Convex mirrors are used as driving mirrors because images formed are",
+    "option": {
+      "a": "erect, Virtual and diminished",
+      "b": "erect, real and diminished",
+      "c": "erect, virtual and magnified",
+      "d": "inverted, virtual and diminished"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Convex mirrors are used as driving mirrors because they produce erect, virtual, and diminished images, providing a wide field of view.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3632,6 +3712,22 @@
     "examyear": "2020"
   },
   {
+    "id": 406,
+    "question": "Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media?\n\nI. Light is passing from optical denser medium to optically less dense medium\n\nII. Light is passing from optically less dense medium to optically denser medium\n\nIII. Angle of incidence is greater than a certain critical value\n\nIV. Angle of incidence is lesser  than a certain critical value",
+    "option": {
+      "a": " I and II only",
+      "b": " II only III only",
+      "c": " III and IV only",
+      "d": "I and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The conditions for total internal reflection include light traveling from an optically denser medium (higher refractive index) to an optically less dense medium (lower refractive index) and that the angle of incidence is greater than the critical angle.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 407,
     "question": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 10cm³ at 0°C, what will be its volume at 100°C?",
     "option": {
@@ -3726,6 +3822,22 @@
     "solution": "Given information:\n\nInitial velocity (u) = 30 m/s (upward, positive)\nTime to reach ground (t) = 8 seconds\nAcceleration due to gravity (g) = -10 m/s² (downward, negative)\nHeight of building (h) = ?\n\nUsing equation of motion:\ns = ut + ½at²\nwhere s is the displacement from starting point (negative when below starting point)\nStep 1: Calculate displacement\nSince the stone ends up below the starting point (at ground level):\ns = ut + ½gt²\ns = 30(8) + ½(-10)(8)²\ns = 240 + ½(-10)(64)\ns = 240 - 320\ns = -80 m\nStep 2: Interpret the result\nThe negative sign indicates the stone is 80 m below the starting point (top of building).\nTherefore, the height of the building = 80 m",
     "examtype": "utme",
     "examyear": ""
+  },
+  {
+    "id": 419,
+    "question": "A substance has half of 3 min. After 6 min, the count rate was observed to be 400. What was its count rate at zero time? ",
+    "option": {
+      "a": "1600",
+      "b": "1200",
+      "c": "200",
+      "d": "2400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHalf-life (T½) = 3 min\nTime elapsed (t) = 6 min\nCount rate at t = 6 min: N(6) = 400\nInitial count rate at t = 0: N₀ = ?\n\nStep 1: Determine number of half-lives\nNumber of half-lives (n) = t / T½\nn = 6 / 3 = 2\nSo 2 half-lives have passed.\nStep 2: Apply radioactive decay formula\nAfter n half-lives: N = N₀ × (1/2)ⁿ\nOr working backwards:\nN₀ = N × 2ⁿ\nStep 3: Calculate initial count rate\nN₀ = 400 × 2²\nN₀ = 400 × 4\nN₀ = 1600",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 420,
@@ -5184,6 +5296,22 @@
     "examyear": "2024"
   },
   {
+    "id": 576,
+    "question": "How much joules of heat are given out when a piece of iron, of mass 60g and specific heat capacity 460JKg⁻¹K⁻¹, cools from 75ºC to 35ºC",
+    "option": {
+      "a": "1000J",
+      "b": "1050J",
+      "c": "1067J",
+      "d": "1104J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 60 g = 0.06 kg\nSpecific heat capacity, c = 460 J/(kg·K)\nInitial temperature, T₁ = 75°C\nFinal temperature, T₂ = 35°C\nHeat given out, Q = ?\n\nSolution:\nStep 1: Calculate temperature change\nΔT = T₁ - T₂\nΔT = 75 - 35\nΔT = 40°C = 40 K\nStep 2: Apply heat energy formula\nQ = mcΔT\nStep 3: Substitute the known values\nQ = 0.06 × 460 × 40\nStep 4: Calculate heat given out\nQ = 0.06 × 460 × 40\nQ = 27.6 × 40\nQ = 1104 J",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 577,
     "question": "The energy of light of frequency 2.0 x 10¹⁵Hz is (h = 6.63 x 10⁻³⁴Js)",
     "option": {
@@ -5484,6 +5612,22 @@
     "image": "",
     "answer": "c",
     "solution": "Vector relationship:\nWhen the angle between two vectors is 0°, both vectors point in the same direction.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 623,
+    "question": "A machine whose efficiency is 60% has a velocity ratio of 5. If a force of 500N is applied to lift a load P, what is the magnitude of P?",
+    "option": {
+      "a": "1500N",
+      "b": "500N",
+      "c": "4166N",
+      "d": "750N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nEfficiency, η = 60% = 0.60\nVelocity Ratio, VR = 5\nEffort, E = 500 N\nLoad, P = ?\n\nSolution:\nStep 1: Relationship between efficiency, MA, and VR\nFormula: Efficiency = MA/VR\nWhere:\n\nMA = Mechanical Advantage = Load/Effort = P/E\nVR = Velocity Ratio\n\nStep 2: Calculate Mechanical Advantage\nη = MA/VR\n0.60 = MA/5\nMA = 0.60 × 5\nMA = 3\nStep 3: Calculate load P\nMA = P/E\n3 = P/500\nP = 3 × 500\nP = 1500 N",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -6976,6 +7120,38 @@
     "examyear": "2008"
   },
   {
+    "id": 809,
+    "question": "In the hare's apparatus, water rises to a height of 26.5 cm in one limb. if a liquid rises to a height of 20.4 cm in the other limb, what is the relative density of the liquid?",
+    "option": {
+      "a": "0.8",
+      "b": "1.1",
+      "c": "1.2",
+      "d": "1.3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nHeight of water (h_w) = 26.5 cm\nHeight of liquid (h_l) = 20.4 cm\nRelative density of liquid = ?\n\nUnderstanding Hare's apparatus:\nHare's apparatus works on the principle that at equal pressure (atmospheric pressure minus suction pressure):\nPressure at bottom of each limb is equal:\nρ_w × g × h_w = ρ_l × g × h_l\nRelative density formula:\nRelative density = ρ_l/ρ_w = h_w/h_l\nThis is because:\n\nSame pressure difference applied to both limbs\nLower density liquid rises higher\nHigher density liquid rises lower\n\nCalculating relative density:\nR.D = h_w/h_l\nR.D = 26.5/20.4\nR.D = 1.299\nR.D ≈ 1.3",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 810,
+    "question": "When cold water is poured on a can containing hot water, the can collapses because the?",
+    "option": {
+      "a": " steam condeses and occupies the partial vacuum in the can",
+      "b": "external air pressure counter balances the pressure within the can",
+      "c": " steam expands to occupy the vacuum remaining in the can",
+      "d": "external pressure becomes greater than the pressure within the can."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cold water reduces the temperature of the hot water inside the can causing the contraction of the hot water. This reduces the pressure inside the can and the can collapses due to the external greater expression.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 811,
     "question": "An empty density bottle weighs 2 N. if it weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is?",
     "option": {
@@ -7472,6 +7648,22 @@
     "examyear": "2009"
   },
   {
+    "id": 857,
+    "question": "I. Density of the liquid.\nII. Acceleration due to gravity.\nIII. Type of container of the liquid.\nIV. The constituents of the liquid.\n\n\nWhich of the above conditions will NOT affect the pressure of fluid?",
+    "option": {
+      "a": " I and III only",
+      "b": "II and III only",
+      "c": "III and IV only",
+      "d": "I and II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "pressure in fluid is given by P = hpg.\n∴ fluid pressure depends on height of liquid column, h, density of liquid p and acceleration of free fall g. it is therefore independent of type of container and constituents of the liquid.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 859,
     "question": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is?",
     "option": {
@@ -7744,6 +7936,22 @@
     "examyear": "2009"
   },
   {
+    "id": 887,
+    "question": "A car accelerates uniformly from rest at 4 m s⁻². How far will it travel in the fifth complete second?",
+    "option": {
+      "a": "100 m",
+      "b": "50 m",
+      "c": "32 m",
+      "d": "18 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nInitial velocity, u = 0 m s⁻¹\nAcceleration, a = 4 m s⁻²\nTime interval: the fifth complete second means from t = 4 s to t = 5 s.\n\nSolution:\n\nStep 1: Formula for distance in a particular second\nThe distance travelled in the n‑th second is given by:\nsₙ = u + (a/2)(2n – 1)\n\nStep 2: Substitute values\nHere n = 5, u = 0, a = 4 m s⁻²\ns₅ = 0 + (4/2) × (2×5 – 1) = 2 × (10 – 1) = 2 × 9 = 18 m\n\nStep 3: Alternative method (check)\nDistance in first 4 s: s₄ = ½ × 4 × 4² = ½ × 4 × 16 = 32 m\nDistance in first 5 s: s₅ = ½ × 4 × 5² = ½ × 4 × 25 = 50 m\nDistance in 5th second = s₅ – s₄ = 50 m – 32 m = 18 m",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 888,
     "question": "A body of mass 12 kg traveling at 4.2 m s⁻¹ collides with a second body of mass 18 kg at rest. Calculate their common velocity if the two bodies coalesce after collision?",
     "option": {
@@ -7788,6 +7996,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nNumber of moles, n = 2 mol\nTemperature, T = 27 °C = 27 + 273 = 300 K\nVolume, V = 10⁻² m³\nGas constant, R = 8.313 J mol⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Ideal gas equation\nPV = nRT\n\nStep 2: Rearrange for pressure P\nP = nRT / V\n\nStep 3: Substitute values\nP = (2 × 8.313 × 300) / 10⁻²\n\nStep 4: Calculate numerator\n2 × 8.313 = 16.626\n16.626 × 300 = 4987.8\n\nStep 5: Divide by volume\n4987.8 / 10⁻² = 4987.8 × 100 = 498780 N m⁻²\n\nStep 6: Express in scientific notation\n498780 = 4.9878 × 10⁵ ≈ 4.99 × 10⁵ N m⁻²",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 892,
+    "question": "\nThe diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is?",
+    "option": {
+      "a": "20 Nm⁻¹",
+      "b": "40 Nm⁻¹",
+      "c": "30 Nm⁻¹",
+      "d": "10 Nm⁻¹"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433293/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_43_due6xq.png",
+    "answer": "a",
+    "solution": "\nUnderstanding Hooke's Law:\nF = kx\nwhere:\n\nF = applied force\nk = spring constant (force constant)\nx = extension\n\nFrom the graph:\nThe graph is a straight line passing through the origin, confirming Hooke's Law is obeyed.\nFinding the spring constant:\nk = slope of the graph = F/x = ΔF/Δx\nReading from the graph:\nTaking two points:\n\nPoint 1: (0, 0)\nPoint 2: (6, 120)\n\nCalculating slope:\nk = (120 - 0)/(6 - 0)\nk = 120/6\nk = 20 Nm⁻¹",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -7884,6 +8108,22 @@
     "image": "",
     "answer": "a",
     "solution": "Since relative density = mass of substance\nmass of equal volume of water relative density bottle should be used to determine the mass of the substance, and mass of an equal volume of water by filling the bottle with the powder and water respectively and weighed with the beam balance.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 914,
+    "question": "A vapor is said to be saturated when?",
+    "option": {
+      "a": "a dynamic equilibrium exists between liquid molecules and the vapour molecules",
+      "b": "a dynamic equilibrium exists such that more molecules return to the liquid than are leaving it",
+      "c": "the temperature of the vapour varies",
+      "d": "the vapour pressure is atmospheric"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A saturated vapour is one which is in dynamic equilibrium with its own liquid; that is as many go from the liquid to the vapour state every second return back to liquid.",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -8092,6 +8332,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nC₁ = 2 μF = 2 × 10⁻⁶ F\nC₂ = 4 μF = 4 × 10⁻⁶ F\nC₃ = 8 μF = 8 × 10⁻⁶ F\nVoltage across each, V = 6 V\nConnection: parallel\n\nSolution:\n\nStep 1: Total capacitance in parallel\nFor parallel combination, total capacitance C = C₁ + C₂ + C₃\nC = (2 + 4 + 8) × 10⁻⁶ F = 14 × 10⁻⁶ F\n\nStep 2: Formula for energy stored in a capacitor\nEnergy stored E = ½ C V²\n\nStep 3: Substitute values\nE = ½ × (14 × 10⁻⁶) × (6)²\nE = ½ × 14 × 10⁻⁶ × 36\n\nStep 4: Simplify\n½ × 36 = 18\nE = 14 × 18 × 10⁻⁶ = 252 × 10⁻⁶ J\n\nStep 5: Express in scientific notation\n252 × 10⁻⁶ = 2.52 × 10⁻⁴ J",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 941,
+    "question": "The diagram above shows a balanced metre bridge, the value of x is",
+    "option": {
+      "a": " 75.0 cm",
+      "b": "66.7 cm",
+      "c": "33.3 cm",
+      "d": "25.0 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435612/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_42_qaxop9.png",
+    "answer": "c",
+    "solution": "1/R = 1/8 + 1/8 = 2/8\n∴ R = 4Ω\nl/l1 = R/R1\n(x)/(100-x) = 4/8\n4(100-x) = 8x\n400-4x = 8x\n400 = 8x + 4x = 12x\nx = 400/12 = 33.3cm",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -8736,6 +8992,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1020,
+    "question": "The equation of a wave traveling in a horizontal direction is expressed as y = 15 sin 2π/5 (60t - x). What is its wavelength?",
+    "option": {
+      "a": "60 m",
+      "b": "15 m",
+      "c": "5 m",
+      "d": "2 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nWave equation: y = 15 sin (2π/5)(60t - x)\n\nSolution:\n\nStep 1: Rewrite the equation in standard form\nThe argument of the sine function is (2π/5)(60t - x).\nExpanding: (2π/5)(60t - x) = (2π × 60 / 5)t - (2π/5)x = (120π/5)t - (2π/5)x = 24π t - (2π/5)x\n\nStep 2: Identify the wave number k\nThe standard form is y = A sin(ωt - kx), where k = 2π/λ.\nFrom the equation, k = 2π/5.\n\nStep 3: Calculate wavelength λ\nλ = 2π / k = 2π / (2π/5) = 5 m",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1025,
     "question": "The magnification of an object 2cm tall when placed 10cm in front of a plane mirror is",
     "option": {
@@ -8860,6 +9132,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nInstantaneous current, I = 10 sin ωt\nPeak current, I₀ = 10 A\n\nSolution:\n\nStep 1: d.c equivalent of a.c current\nThe d.c equivalent (or r.m.s value) of a sinusoidal a.c current is given by:\nI_rms = I₀ / √2\n\nStep 2: Substitute the value\nI_rms = 10 / √2 ≈ 10 / 1.4142 ≈ 7.07 A ≈ 7.1 A",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1035,
+    "question": "A conductor of length 1 m moves with a velocity of 50 m s⁻¹ at an angle of 30° to the direction of a uniform magnetic field of flux density 1.5 Wb m⁻². What is the e.m.f induced in the conductor?",
+    "option": {
+      "a": "37.5 V",
+      "b": "50.5 V",
+      "c": "75.0 V",
+      "d": "80.5 V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "iven information:\nLength of conductor, l = 1 m\nVelocity, v = 50 m s⁻¹\nAngle between velocity and magnetic field, θ = 30°\nMagnetic flux density, B = 1.5 Wb m⁻²\n\nSolution:\n\nStep 1: Formula for motional e.m.f\nThe induced e.m.f in a conductor moving in a magnetic field is given by:\nε = B l v sin θ\n\nStep 2: Substitute the values\nε = 1.5 × 1 × 50 × sin 30°\n\nStep 3: Calculate sin 30°\nsin 30° = 0.5\n\nStep 4: Complete the calculation\nε = 1.5 × 50 × 0.5 = 1.5 × 25 = 37.5 V",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -9180,6 +9468,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nLinear magnification of objective = 4\nLinear magnification of eyepiece = 7\n\nSolution:\n\nStep 1: Total magnification of a compound microscope\nThe overall angular magnification (or total magnification) is the product of the magnification of the objective and the magnification of the eyepiece.\n\nStep 2: Multiply the magnifications\nTotal magnification = 4 × 7 = 28",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1068,
+    "question": "Calculate the force acting on an electron of charge 1.5 × 10⁻¹⁹ C placed in an electric field of intensity 10⁵ V m⁻¹",
+    "option": {
+      "a": "1.5 × 10⁻¹¹ N",
+      "b": "1.5 × 10⁻¹² N",
+      "c": " 1.5 × 10⁻¹³ N",
+      "d": "1.5 × 10⁻¹⁴ N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nCharge, q = 1.5 × 10⁻¹⁹ C\nElectric field intensity, E = 10⁵ V m⁻¹\n\nSolution:\n\nStep 1: Formula for force on a charge in an electric field\nF = q × E\n\nStep 2: Substitute values\nF = (1.5 × 10⁻¹⁹) × (10⁵)\n\nStep 3: Calculate\nF = 1.5 × 10⁻¹⁴ N",
     "examtype": "utme",
     "examyear": "2013"
   },
