@@ -21168,6 +21168,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1345,
+    "question": "As part of the initial investment, a partner contributes office equipment that originally cost ₦20,000 and on which provision for depreciation of ₦12,500 had been recorded. If the partners agree on a valuation of ₦9,000 for the equipment, what amount should be debited to the office equipment account?",
+    "option": {
+      "a": "₦7,500",
+      "b": "₦9,000",
+      "c": "₦12,500",
+      "d": "₦20,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a partner contributes assets to a partnership, the assets should be recorded at their agreed valuation, not their original cost or book value.\nGiven information:\n\nOriginal cost of equipment: ₦20,000\nAccumulated depreciation: ₦12,500\nBook value: ₦20,000 - ₦12,500 = ₦7,500\nAgreed valuation by partners: ₦9,000\n\nKey principle:\nIn partnership accounting, contributed assets are recorded at their fair value as agreed by the partners, regardless of the contributor's original cost or book value.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1346,
     "question": "When a partner makes a drawing of stock items from a partnership, the accounting impact of the drawing is to increase the partner's?",
     "option": {
