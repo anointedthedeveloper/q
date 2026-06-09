@@ -4180,6 +4180,25 @@
     "category": "others"
   },
   {
+    "id": 240,
+    "question": "Despite all preparations, the wedding did not …..",
+    "option": {
+      "a": "come along ",
+      "b": "come by",
+      "c": "come on ",
+      "d": "come off"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 241,
     "question": "For beating ……. his course mate, Agbaji was……… from the university.",
     "option": {
@@ -27603,6 +27622,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 21,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1781,
+    "question": "Today's weather is <u>favourable</u> for a game of tennis.",
+    "option": {
+      "a": "Disapproving.",
+      "b": "Impartial.",
+      "c": "Abnormal.",
+      "d": "Encouraging."
+    },
+    "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "d",
+    "solution": "favourable; expressing approval.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 22,
     "hasPassage": 0,
     "category": "others"
   },
