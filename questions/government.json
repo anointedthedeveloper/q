@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 11,
+    "question": "A political concept that defines  the beliefs, attitudes and values of a society is called ",
+    "option": {
+      "a": "political socialization ",
+      "b": "political culture ",
+      "c": "political transformation ",
+      "d": "referendum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 15,
     "question": "What was the primary purpose of the Sir Henry Willink Commission of Inquiry? ",
     "option": {
@@ -192,6 +208,22 @@
     "examyear": "2007"
   },
   {
+    "id": 35,
+    "question": "ECOWAS Treaty was signed on ",
+    "option": {
+      "a": "28-May-74",
+      "b": "1-Oct-60",
+      "c": "12-Jun-75",
+      "d": "none of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 38,
     "question": "In politics, power is all of the following except ",
     "option": {
@@ -219,6 +251,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 49,
+    "question": "The Economic Community of West African States was established in ",
+    "option": {
+      "a": "May-75",
+      "b": "May-63",
+      "c": "May-66",
+      "d": "May-96"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -464,6 +512,38 @@
     "examyear": "2010"
   },
   {
+    "id": 125,
+    "question": "Which of the following made the earliest contact with the Nigerian society? ",
+    "option": {
+      "a": "The British  ",
+      "b": "The Portuguese ",
+      "c": "The French ",
+      "d": "The Germans"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 129,
+    "question": "One major factor that differentiates the presidential from the parliamentary system is: ",
+    "option": {
+      "a": "separation of powers",
+      "b": "judicial independence ",
+      "c": "passage of bills  ",
+      "d": "party system."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 131,
     "question": "Bicameral legislature exists: ",
     "option": {
@@ -656,6 +736,22 @@
     "examyear": "2013"
   },
   {
+    "id": 186,
+    "question": "The pressure group that resorts to unconventional methods to achieve its objectives is called ",
+    "option": {
+      "a": " an institutional group  ",
+      "b": " a promotional group",
+      "c": " an interest group   ",
+      "d": " an anomic group"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 190,
     "question": "A major flaw in a liberal democracy is",
     "option": {
@@ -827,6 +923,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 239,
+    "question": "The bill introduced by a member of the legislature is known as",
+    "option": {
+      "a": "a-private member’s bill",
+      "b": "an executive bill",
+      "c": "a state bill",
+      "d": "a political party’s bill"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -1232,6 +1344,22 @@
     "examyear": "1999"
   },
   {
+    "id": 355,
+    "question": "Before a new member is admitted to the United Nations Organization, its application must be approved by all",
+    "option": {
+      "a": "permanent members of the Security Council",
+      "b": "members of the General Assembly",
+      "c": "members of the Economic and Social Council",
+      "d": "members of the International Court of Justice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 362,
     "question": "The Mid-Western Region was created in Nigeria in",
     "option": {
@@ -1632,6 +1760,38 @@
     "examyear": "2012"
   },
   {
+    "id": 465,
+    "question": "The private ownership of the means of production is a feature of",
+    "option": {
+      "a": "capitalism",
+      "b": "socialism",
+      "c": "communalism",
+      "d": "communism."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 466,
+    "question": "In a feudal system, the two major classes are the serfs and the",
+    "option": {
+      "a": "masses",
+      "b": "vassals",
+      "c": "lords",
+      "d": "elite."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 469,
     "question": "To ensure the rights and freedom of citizens, the powers of the arms of government must be",
     "option": {
@@ -1867,6 +2027,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 530,
+    "question": "The earliest nationalist activities in Nigeria were spearheaded by",
+    "option": {
+      "a": "educated elites",
+      "b": "trade unions",
+      "c": "traditional rulers",
+      "d": "political parties."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -2288,6 +2464,22 @@
     "examyear": "1988"
   },
   {
+    "id": 637,
+    "question": "The following factors favoured the introduction of indirect rule in Nigeria except the",
+    "option": {
+      "a": "Shortage of manpower",
+      "b": "Shortage of funds",
+      "c": "Existence of a system of taxation",
+      "d": "Existence of educated elites"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 642,
     "question": "Nigeria became a federation of 19 states in",
     "option": {
@@ -2359,6 +2551,22 @@
       "b": "payment of taxes",
       "c": "voting during elections",
       "d": "freedom of conscience and religion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 675,
+    "question": "The organ of the UNO which can impose mandatory sanctions on any of its members is the",
+    "option": {
+      "a": "International Court of Justice",
+      "b": "Economic and Social Council",
+      "c": "General Assembly",
+      "d": "Security Council"
     },
     "section": "",
     "image": "",
@@ -2496,6 +2704,22 @@
     "examyear": "1989"
   },
   {
+    "id": 709,
+    "question": "The Republican Constitution of 1963 was indigenous because it was approved by",
+    "option": {
+      "a": "a referendum",
+      "b": "the representatives of the people in parliament",
+      "c": "the British parliament",
+      "d": "the colonial government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 714,
     "question": "When there is a conflict between the regional and federal laws under the concurrent legislative list, the",
     "option": {
@@ -2572,6 +2796,22 @@
     "image": "",
     "answer": "d",
     "solution": "Propaganda is often used as a tool to influence foreign policy implementation.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 727,
+    "question": "The Structural Adjustment Programme was introduced under the",
+    "option": {
+      "a": "Babangida Regime",
+      "b": "Obasanjo Regime",
+      "c": "Buhari Regime",
+      "d": "Abacha Regime."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Structural Adjustment Programme (SAP) was introduced by General Ibrahim Babangida in 1986.",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -3072,6 +3312,22 @@
     "examyear": "2019"
   },
   {
+    "id": 857,
+    "question": "The Economic and Financials Crime Commission (EFCC) scope and nature of duty may not extend to_______",
+    "option": {
+      "a": "arresting suspects of cyber crime and online fraud",
+      "b": " arresting the giver and the taker in a corruption case",
+      "c": " conducting trials and punishing persons involved in corruption matters",
+      "d": "investigating cases of substance and drug abuse intersecting with money laundering"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The EFCC as it is, is an executive body that must discharge its functions strictly in line with the reasons for its establishment. None of those functions extend to exercising judicial powers by punishing and conducting trials for suspects, which the strict duty of the court.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 862,
     "question": "Amendment of the U. N. O. charter is the duty of the ........",
     "option": {
@@ -3216,6 +3472,22 @@
     "examyear": "2020"
   },
   {
+    "id": 886,
+    "question": "The Fundamental Objectives and Directive Principles of State Policy in the 1979 constitution do not include _________",
+    "option": {
+      "a": "democracy and social justice",
+      "b": "federal character and inequality",
+      "c": "concentration of wealth and provision of maximum welfare",
+      "d": "national integration and ethnic loyalty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Fundamental Objectives and Directive Principles of State Policy in the 1979 Nigerian Constitution were designed to guide government policies and promote national development. These principles focused on democracy, social justice, federal character, national integration, and equal opportunities for all citizens.\n\nThe constitution aimed to reduce the concentration of wealth in the hands of a few and instead promote fair distribution of resources and social welfare.\nOption C is incorrect because \"concentration of wealth\" contradicts the principles of the constitution.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 893,
     "question": "Southern Nigeria was divided into Eastern and Western provinces for administrative purposes in _________",
     "option": {
@@ -3296,6 +3568,38 @@
     "examyear": "2021"
   },
   {
+    "id": 927,
+    "question": "Nigeria's withdrawal from the Edinburg Commonwealth Games in July 1986 was in protest against British…",
+    "option": {
+      "a": "Failure to impose sanctions on South Africa",
+      "b": "Negative utterances on Nigeria",
+      "c": "Supply of arms to Rhodesia",
+      "d": "Support for UNITArebels in Angola."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Nigeria's withdrawal from the Edinburgh Commonwealth Games in July 1986 was in protest against British failure to impose sanctions on South Africa for its apartheid policy. ",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 929,
+    "question": "____was the first Nigerian Permanent Representative to the United Nations.",
+    "option": {
+      "a": "Chief Samuel Adebo",
+      "b": "Professor Ibrahim Gambari",
+      "c": "Alhaji Yusuf Maitama Sule",
+      "d": " General Joseph Garba"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The first Nigerian Permanent Representative to United Nations was General Joseph Garba.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 935,
     "question": "A major issue that distinguishes pressure groups from political parties is the …",
     "option": {
@@ -3308,6 +3612,22 @@
     "image": "",
     "answer": "b",
     "solution": "Political parties aim at contesting and winning elections and controlling government while pressure groups aim at pursuing the interest of their members and influencing the decisions of the government.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 942,
+    "question": "The fundamental rights of citizens include the following EXCEPT.......",
+    "option": {
+      "a": "Association, property and social security",
+      "b": " Life, liberty and property",
+      "c": "Free education, employment and freedom of thought",
+      "d": "Life, speech and association."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The fundamental human rights contained in the constitution of Nigeria are: the Right to Life, the Right to Dignity of Human Person, the Right to Personal Liberty, the Right to Fair Hearing, the Right to Private and Family Life, the Right to Freedom of Thought, Conscience and Religion, the Right to Freedom of Expression and the Press, the Rights to Peaceful Assembly and Association, the Right to Freedom of Movement, the Right to Freedom from Discrimination and then, the Right to Acquire and Own Immovable Property anywhere in Nigeria. ",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -3404,6 +3724,22 @@
     "image": "",
     "answer": "d",
     "solution": "The Judicial Service Commission is vested with the power to recommend suitable persons for the appointment of the Chief justice of Nigeria.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 975,
+    "question": "The basic unit of every political organization in the Igbo pre-colonial era was the",
+    "option": {
+      "a": "ala",
+      "b": "family",
+      "c": "age-grade",
+      "d": "village council"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Family Group is one of the most recognized institutions in pre-colonial Igbo society as the basic unit of every political institution.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -3936,6 +4272,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1141,
+    "question": "Which of the following is the function of the Council of the Ministers of the O.A.U",
+    "option": {
+      "a": " Cordinating of the general policy of the organization",
+      "b": "Directing the finances of the organization",
+      "c": "Preparing the agenda of the organization's meetings",
+      "d": "Reviewing the functions and activities of other organs of the organizations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Preparing the agenda of the organisation's meeting is the function of the council of Ministers of the O.A.U.\n\nThe Council of Ministers is the body which is composed of the foreign ministers of member countries. it meets about twice a year but extra-ordinary meetings may be called if and such a request is approved by two-thirds of the members.\n\nOne of the responsibilities is preparing the agenda for the summit i.e the Assembly of Heads of State and Government",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1148,
     "question": "The delineation of constituencies is a major duty of the",
     "option": {
@@ -4256,6 +4608,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1239,
+    "question": "The major problem of the ECOWAS is lack of",
+    "option": {
+      "a": "a common currency",
+      "b": "commitment by members",
+      "c": "uniform ideology",
+      "d": "a common customs union"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "ECOWAS has long aspired to deepen economic integration among its member states by adopting a single currency. However, the significant economic disparities, divergent monetary policies, and the challenges of political coordination have hindered the implementation of a common currency. This lack remains a major obstacle to achieving a more unified economic space in West Africa.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1241,
     "question": "The headquarters of the International Court of Justice is in",
     "option": {
@@ -4544,6 +4912,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1314,
+    "question": "In the First Republic,the official opposition party was the",
+    "option": {
+      "a": "Action Group",
+      "b": "Northern People's Congress",
+      "c": "Northern Elements Progressive Union",
+      "d": " National Council of Nigeria and the Cameroons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The official opposition party in the First Republic was the Action Group.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1318,
     "question": "The pre-colonial Tiv society can best be described as",
     "option": {
@@ -4812,6 +5196,22 @@
     "image": "",
     "answer": "c",
     "solution": "The first military coup in Nigeria occurred on January 15, 1966, led by a group of army officers (including Major Chukwuma Nzeogwu). This coup overthrew the First Republic civilian government headed by Prime Minister Sir Abubakar Tafewa Balewa, who was killed during the coup.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1383,
+    "question": "In orientation, early nationalism in Nigeria was essentially",
+    "option": {
+      "a": "revolutionary",
+      "b": "reformist",
+      "c": "reactionary",
+      "d": "radical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In the context of early nationalism in Nigeria, the orientation was generally reformist. Early nationalism in Nigeria was often a response to the socio-political and economic conditions imposed by colonial rule. The nationalist movements sought to address grievances and push for reforms in response to the challenges posed by colonialism rather than aiming for a revolutionary or radical overhaul.",
     "examtype": "utme",
     "examyear": "2008"
   },
