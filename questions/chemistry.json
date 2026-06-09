@@ -64,6 +64,22 @@
     "examyear": "2001"
   },
   {
+    "id": 14,
+    "question": "Environmental pollution is worsened by the release from automobile exhausts of",
+    "option": {
+      "a": "Water vapour",
+      "b": "Steam",
+      "c": "Smoke",
+      "d": "Heavy metals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 16,
     "question": "Phosphorous is stored under water to precvent it from",
     "option": {
@@ -416,6 +432,22 @@
     "examyear": "2003"
   },
   {
+    "id": 100,
+    "question": "In the electrolysis of a concentrated solution of sodium chloride using inert electrodes, which of the following ions are discharged at the cathode and anode respectively",
+    "option": {
+      "a": "Na+ and Cl-",
+      "b": "Na+ and OH-",
+      "c": "H+ and OH-",
+      "d": "H+ and Cl-"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 101,
     "question": " CO(g) + H2O(g) ⇌  CO2(g)  +  H2(g)\nFrom the reaction above, calculate the standard heat change if the standard enthalpies of formation of CO2 (g), H2O (g) and CO (g) in kJ mol-1 are -394, -242 and -110 respectively.\n",
     "option": {
@@ -720,6 +752,22 @@
     "examyear": "2004"
   },
   {
+    "id": 155,
+    "question": "Carbon is tetravalent because",
+    "option": {
+      "a": "The electrons in both the 2s and 2p orbitals are equivalent",
+      "b": "The electrons in all the orbitals of carbon are equivalent",
+      "c": "The 2s and 2p atomic orbitals hybridize",
+      "d": "All the atomic orbitals of carbon hybridize"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 157,
     "question": "Alloys are best prepared by",
     "option": {
@@ -859,6 +907,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 184,
+    "question": "A heterogeneous mixture can be defined as any mixture",
+    "option": {
+      "a": "Whose composition is uniform",
+      "b": "Whose composition is not uniform",
+      "c": "Formed by solids and liquids",
+      "d": "Of a solute and a solvent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -1488,6 +1552,22 @@
     "examyear": "2010"
   },
   {
+    "id": 301,
+    "question": "One of the major uses of Alkanes is",
+    "option": {
+      "a": "In the hydrogenation of oils",
+      "b": "In the textile industries",
+      "c": "In the production of plastics",
+      "d": "As domestic and industrial fuels"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 304,
     "question": "The compound that is used as an anaesthetic is",
     "option": {
@@ -1564,6 +1644,22 @@
     "image": "",
     "answer": "c",
     "solution": "Ethanoic acid reacts with sodium hydrogen trioxocarbonate(IV) (sodium hydrogen carbonate, NaHCO₃) to produce carbon dioxide gas, which effervesces.\nEthanol does not react with NaHCO₃.\n\n\nSodium hydrogen trioxocarbonate(IV) is suitable for distinguishing between ethanoic acid and ethanol.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 326,
+    "question": "P₁V₁ = P₂V₂ supports?",
+    "option": {
+      "a": "Charles's law",
+      "b": "Boyle's law",
+      "c": "Graham's law",
+      "d": "Avogadro's law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "P₁V₁ = P₂V₂ is the mathematical expression of Boyle's Law, which states that at constant temperature, the pressure of a fixed mass of gas is inversely proportional to its volume.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1904,6 +2000,22 @@
     "examyear": "2016"
   },
   {
+    "id": 396,
+    "question": "The compound CH₃-C(H)(OH)-COOH shown above exhibits",
+    "option": {
+      "a": "Geometric isomerism",
+      "b": "Positional isomerism",
+      "c": "Structural isomerism",
+      "d": "Optical isomerism"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636154/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q42_vqn9kw.png",
+    "answer": "d",
+    "solution": "The compound shown is lactic acid (2-hydroxypropanoic acid). The central carbon atom is bonded to four different groups: CH₃, H, OH, and COOH. A carbon bonded to four different substituents is a chiral centre, making the compound optically active. It exhibits optical isomerism (enantiomers).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 399,
     "question": "In the diagram above, X is the",
     "option": {
@@ -2092,6 +2204,22 @@
     "image": "",
     "answer": "b",
     "solution": "Molar mass of XO₂ = 2 × vapour density = 2 × 32 = 64 g mol⁻¹. Molar mass = atomic mass of X + 2(16) → X + 32 = 64 → X = 32. The element with atomic mass 32 is sulphur (S), and XO₂ is SO₂ (sulphur dioxide).",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 443,
+    "question": "The gas that can be collected by downward displacement of air is",
+    "option": {
+      "a": "chlorine",
+      "b": "sulphur (IV) oxide",
+      "c": "carbon (IV) oxide",
+      "d": "ammonia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ammonia (NH₃) is less dense than air (molar mass 17 g mol⁻¹ vs air ~29 g mol⁻¹), so it rises and can be collected by downward displacement of air (gas collected from the top of an inverted container). Chlorine, SO₂, and CO₂ are all denser than air and are collected by upward displacement of air.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -2320,6 +2448,22 @@
     "examyear": "2018"
   },
   {
+    "id": 483,
+    "question": "The IUPAC name for the compound (CH₃)₂CH-CH₂-CH₃ shown in the structural diagram is",
+    "option": {
+      "a": "1-methyl pentane",
+      "b": "3-methylbutane",
+      "c": "2-methylbutane",
+      "d": "1-dimethyl propane"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777637870/ALOC-Questions/Chemistry/UTME/2018/Chemistry_2018_Q29_vkzl9t.jpg",
+    "answer": "c",
+    "solution": "The structure shows a carbon bearing two CH₃ groups connected to CH₂-CH₃. This is (CH₃)₂CHCH₂CH₃. The longest chain has 4 carbons (butane), with a methyl branch at C2. IUPAC name: 2-methylbutane.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 486,
     "question": "How many atoms are present in 6.0 g of magnesium? [Mg = 24, Nₐ = 6.02 × 10²³ mol⁻¹]",
     "option": {
@@ -2464,6 +2608,22 @@
     "examyear": "2019"
   },
   {
+    "id": 514,
+    "question": "Which of the following is the best starting material for the preparation of oxygen by heating trioxonitrate (V) with?",
+    "option": {
+      "a": "Pb",
+      "b": "Zn",
+      "c": "Ca",
+      "d": "Na"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Lead (II) trioxonitrate (V) [Pb(NO₃)₂] on heating decomposes to give oxygen most readily: 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂. It is the best starting material because the reaction is clean and produces O₂ at moderate temperatures. NaNO₃ gives NaNO₂ + O₂ but requires higher temperatures; Zn and Ca nitrates behave similarly but Pb(NO₃)₂ is the classic lab choice.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 532,
     "question": "Which of the following statements about catalyst is false?",
     "option": {
@@ -2528,6 +2688,22 @@
     "examyear": "2019"
   },
   {
+    "id": 546,
+    "question": "In the reaction between sodium hydroxide and tetraoxosulphate (VI) solutions, what volume of 0.5 molar sodium hydroxide would exactly neutralize 10cm³ of 1.25 molar tetraoxosulphate (vi) acid?",
+    "option": {
+      "a": "25cm³",
+      "b": "10cm³",
+      "c": "20cm³",
+      "d": "50cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Equation: 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O. Moles of H₂SO₄ = 1.25 × 10/1000 = 0.0125 mol. Moles of NaOH required = 2 × 0.0125 = 0.025 mol. Volume of NaOH = moles ÷ concentration = 0.025 ÷ 0.5 = 0.05 dm³ = 50 cm³.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 549,
     "question": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180. Find the molecular formula. [H = 1, C = 12, O = 16]",
     "option": {
@@ -2558,6 +2734,22 @@
     "solution": "Time = 2 hrs 30 min = 9000 s. Charge = 2 × 9000 = 18000 C. Mg²⁺ + 2e⁻ → Mg, so 2 Faradays deposit 24 g of Mg. Faradays used = 18000 ÷ 96500 = 0.1865 F. Mass of Mg = (0.1865 ÷ 2) × 24 = 2.24 g.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 555,
+    "question": "The electronic configuration of an element is 1S² 2S² 2P⁶ 3S² 3P³. How many unpaired electrons are there in the element?",
+    "option": {
+      "a": "5",
+      "b": "4",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The configuration 3P³ has three electrons distributed across three separate p orbitals (by Hund's rule, each occupies its own orbital before pairing). So 3P³ contributes 3 unpaired electrons. The s orbitals (1S², 2S², 3S²) and 2P⁶ are all fully paired. Total unpaired electrons = 3.",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 562,
@@ -2860,6 +3052,22 @@
     "image": "",
     "answer": "b",
     "solution": "Carbon dioxide (CO₂) is the primary greenhouse gas responsible for global warming. It traps heat from the sun in the earth's atmosphere by absorbing infrared radiation, preventing it from escaping into space. Human activities such as burning fossil fuels and deforestation increase CO₂ levels, intensifying the greenhouse effect.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 608,
+    "question": "The maximum number of electrons in the N shell is?",
+    "option": {
+      "a": "2",
+      "b": "8",
+      "c": "18",
+      "d": "32"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The maximum number of electrons in any shell is given by the formula 2n², where n is the principal quantum number. For the N shell, n = 4. Maximum electrons = 2 × 4² = 2 × 16 = 32.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -3216,6 +3424,22 @@
     "examyear": "2022"
   },
   {
+    "id": 663,
+    "question": "When heat is absorbed during a chemical reaction, the reaction is said to be?",
+    "option": {
+      "a": "thermodynamic",
+      "b": "exothermic",
+      "c": "isothermal",
+      "d": "endothermic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An endothermic reaction is one in which heat energy is absorbed from the surroundings, causing the temperature of the surroundings to fall. The enthalpy change (ΔH) is positive for endothermic reactions. Exothermic reactions release heat, isothermal processes occur at constant temperature, and thermodynamic is a general term not specific to heat absorption.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 664,
     "question": "Which of the following best represents a solid-gas mixture?",
     "option": {
@@ -3340,6 +3564,22 @@
     "image": "",
     "answer": "d",
     "solution": "The Haber process is the industrial method for producing ammonia by reacting nitrogen gas with hydrogen gas: N₂ + 3H₂ ⇌ 2NH₃. The conditions used are approximately 450°C, 200 atmospheres pressure, and an iron catalyst. The ammonia produced is mainly used in the manufacture of fertilisers.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 682,
+    "question": "Who proposed the planetary model of the atom with electrons orbiting the nucleus?",
+    "option": {
+      "a": "Erwin Schrödinger",
+      "b": "Ernest Rutherford",
+      "c": "Niels Bohr",
+      "d": "J.J. Thomson"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Niels Bohr proposed the planetary model of the atom in 1913, in which electrons orbit the nucleus in fixed circular paths (shells) at specific energy levels, similar to planets orbiting the sun. Electrons can jump between energy levels by absorbing or emitting specific amounts of energy. Rutherford proposed the nuclear model but did not specify electron orbits. Schrödinger developed the quantum mechanical model.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3628,6 +3868,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Biuret test detects the presence of proteins (peptide bonds). When dilute sodium hydroxide and a few drops of copper(II) sulphate solution are added to a protein solution, a purple/violet colour develops. The colour results from the coordination of Cu²⁺ ions with the peptide bonds (–CO–NH–) in the protein chain. No colour change occurs with carbohydrates, amines, or esters.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 728,
+    "question": "The number of geometrical isomers of butene are",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "5",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Geometrical (cis-trans) isomerism occurs when a C=C double bond has two different groups on each carbon. For butene (C₄H₈): but-1-ene (CH₂=CHCH₂CH₃) cannot show geometric isomerism because one carbon of the double bond has two identical H atoms. But-2-ene (CH₃CH=CHCH₃) shows cis-trans isomerism — cis-but-2-ene and trans-but-2-ene. Therefore there are 2 geometrical isomers of butene.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -3996,6 +4252,22 @@
     "image": "",
     "answer": "b",
     "solution": "Diffusion is the spontaneous net movement of particles from a region of higher concentration to one of lower concentration. Even in solids, atoms can slowly diffuse into adjacent materials over very long periods, explaining why gold atoms migrate into the silver bar.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 787,
+    "question": "Which of the following has the highest boiling point?",
+    "option": {
+      "a": "CH₃CH₂OH",
+      "b": "CH₃CH₂CH₂Cl",
+      "c": "CH₃CH₂CH₂CH₂CH₂CH₃",
+      "d": "CH₃CH₂CH₂OH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Boiling points: CH₃CH₂OH (ethanol) = 78°C, CH₃CH₂CH₂Cl (1-chloropropane) = 47°C, CH₃CH₂CH₂CH₂CH₂CH₃ (hexane) = 69°C, CH₃CH₂CH₂OH (propan-1-ol) = 97°C. Propan-1-ol has the highest bp because it forms hydrogen bonds and has a greater molecular mass than ethanol, giving stronger intermolecular forces.",
     "examtype": "utme",
     "examyear": "2025"
   },
