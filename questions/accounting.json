@@ -256,6 +256,22 @@
     "examyear": "2010"
   },
   {
+    "id": 19,
+    "question": "A statement that shows the financial position of a business is ",
+    "option": {
+      "a": "profit and loss account  ",
+      "b": "Trading Account ",
+      "c": "Statement of income  ",
+      "d": " Balance sheet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 20,
     "question": "  Prepaid wages is an item in the (i)Balance Sheet (ii) Profit and loss account (iii)Trading  account (iv) Cash account ",
     "option": {
@@ -13728,6 +13744,22 @@
     "examyear": "2008"
   },
   {
+    "id": 971,
+    "question": "<b>Use the information below to answer questions 7 to 8.</b>\n\n(i) Cash at bank (ii) Cash in hand (iii) Premises\n(iv) Land (v) Creditors (vi)loan from friends/bank.\n\nDetermine the fixed assets?",
+    "option": {
+      "a": "i and v",
+      "b": " ii and iv",
+      "c": " ii and vi",
+      "d": " iii and iv"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Explanation: fixed assets are long-term tangible assets used in the business, premises and land fit this definition.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 972,
     "question": "<b>Use the information below to answer questions 7 to 8.</b>\n\n(i) Cash at bank (ii) Cash in hand (iii) Premises\n(iv) Land (v) Creditors (vi)loan from friends/bank.\n\nWhat are the current assets?",
     "option": {
@@ -20252,6 +20284,22 @@
     "image": "",
     "answer": "d",
     "solution": "Using the creditors control account equation:\n\nOpening creditors+Purchases=Payments+Discounts received+Closing creditors\nGiven:\nOpening creditors = ₦4,600\n\nClosing creditors = ₦5,250\n\nPayments to suppliers = ₦26,500\n\nDiscounts received = ₦130\n\nSolve for Purchases:\nPurchases = Payments +  Discounts received + Closing creditors − Opening creditors\nPurchases = ₦26,500 + ₦130 + ₦5,250 − ₦4,600\nPurchases\nPurchases = ₦27,280",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1440,
+    "question": "Given:\nCapital at the beginning...............₦20 000\nDrawings...............................₦3 000\nCapital................................₦30 000\n₦ew capital introduced.................₦8 000\n\nWhat is the profit for the period?",
+    "option": {
+      "a": "₦4 000",
+      "b": "₦5 000",
+      "c": "₦6 000",
+      "d": "₦8 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Using the capital comparison method:\n\nProfit = Closing capital − Opening capital − New capital introduced + Drawings\nGiven:\nOpening capital = ₦20,000\n\nClosing capital = ₦30,000\n\nNew capital introduced = ₦8,000\n\nDrawings = ₦3,000\n\nCalculation:\nProfit = ₦30,000 − ₦20,000 − ₦8,000 + ₦3,000\nProfit = ₦5,000",
     "examtype": "utme",
     "examyear": "1997"
   },
