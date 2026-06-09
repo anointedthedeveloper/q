@@ -112,6 +112,22 @@
     "examyear": "2006"
   },
   {
+    "id": 22,
+    "question": "Who is an atheist? ",
+    "option": {
+      "a": "someone who does believe in God ",
+      "b": "someone who rejects completely the idea of a divine being ",
+      "c": "someone who believes that it is impossible to know if there is God or not ",
+      "d": "someone who abuses religious people."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 24,
     "question": "He shall save his people from their sins. Who is being referred to here? ",
     "option": {
@@ -603,6 +619,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 102,
+    "question": "Which of these was detained by Joseph in order that Benjamin might be brought to Egypt ",
+    "option": {
+      "a": "Reuben ",
+      "b": "Levi ",
+      "c": "Judah ",
+      "d": "Simon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -1392,6 +1424,22 @@
     "examyear": "2005"
   },
   {
+    "id": 209,
+    "question": "The wife of Hosea was called",
+    "option": {
+      "a": "Gomer",
+      "b": "B . Rahab",
+      "c": "Jael",
+      "d": "Hagar"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 211,
     "question": "Who among the prophets was referred to as a prophet of doom?",
     "option": {
@@ -1419,6 +1467,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 214,
+    "question": "Before Joseph and Mary came together, she was found to be with a child",
+    "option": {
+      "a": "to be called Jesus",
+      "b": "of the Holy Spirit",
+      "c": "who shall be called Emmanuel",
+      "d": "spoken of by the prophets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -1467,6 +1531,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 243,
+    "question": "Paul wrote to the Thessalonians about idleness because he \tlearnt that they were",
+    "option": {
+      "a": "among the idlest people in Asia",
+      "b": "forcing Christians to work in the Church",
+      "c": "unwilling to give offerings",
+      "d": "expecting the second coming of Christ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -1559,6 +1639,22 @@
       "b": "a Roman soldier",
       "c": "Mary Magdalene",
       "d": "Peter and John."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 258,
+    "question": "In the country of the Gerasenes, Jesus healed the",
+    "option": {
+      "a": "man possessed of demons",
+      "b": "paralytic at the pool",
+      "c": "leper",
+      "d": "blind man."
     },
     "section": "",
     "image": "",
@@ -1712,6 +1808,22 @@
     "examyear": "2009"
   },
   {
+    "id": 291,
+    "question": "Prophet Amos told Israel to hate evil, love good and establish justice in the gate so that God would",
+    "option": {
+      "a": "heal their diseases",
+      "b": "give them good leaders",
+      "c": "be gracious to them",
+      "d": "multiply their descendants."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 292,
     "question": "In addition to the declaration of freedom to the exiles in Babylon, King Cyrus ordered for",
     "option": {
@@ -1771,6 +1883,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 307,
+    "question": "‘Do not destroy him; for who can stretch out his hand on the LORD’S anointed, and be guiltless?’ In the statement above, David was acknowledging God’s role in",
+    "option": {
+      "a": "Abishai’s command",
+      "b": "Saul’s leadership",
+      "c": "Samuel’s priesthood",
+      "d": "Elijah’s prophet hood."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -2535,6 +2663,22 @@
       "b": "purge it",
       "c": "destroy it",
       "d": "have it conform to the Law."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 438,
+    "question": "According to Peter, when Christians humble themselves, God will",
+    "option": {
+      "a": "protect them",
+      "b": "direct their ways",
+      "c": "grant them eternal life",
+      "d": "exalt them."
     },
     "section": "",
     "image": "",
@@ -3536,6 +3680,22 @@
     "examyear": "2010"
   },
   {
+    "id": 611,
+    "question": "Although Josiah removed the vessels of Baal and Asherah from the Temple, God did not turn from the fierceness of His \twrath because”",
+    "option": {
+      "a": "the people did not remove them completely",
+      "b": "Jehoahaz, Josiah’s son, had provoked Him",
+      "c": "Manasseh had provoked Him",
+      "d": "the people had opposed Josiah."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 613,
     "question": "After the dedication of the Temple, Ezra studied the law of the LORD in order to",
     "option": {
@@ -3712,6 +3872,22 @@
     "examyear": "2010"
   },
   {
+    "id": 644,
+    "question": "James stated in his epistle that when believers meet various trials, their faith produces",
+    "option": {
+      "a": "weakness",
+      "b": "strength",
+      "c": "steadfastness",
+      "d": "righteousness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 647,
     "question": "Moses was born at a period when the Hebrew were",
     "option": {
@@ -3783,6 +3959,22 @@
       "b": "David",
       "c": "Solomon",
       "d": "Saul"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 658,
+    "question": "David bitterly mourned when Abner was slain by",
+    "option": {
+      "a": "Ishbosheth.",
+      "b": "Absalom.",
+      "c": "Asahel.",
+      "d": "Joab."
     },
     "section": "",
     "image": "",
@@ -3899,6 +4091,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 679,
+    "question": "Which of the following places was not visited by Paul during his first missionary journey?",
+    "option": {
+      "a": "Salamis",
+      "b": "Athens",
+      "c": "Antioch of Syria",
+      "d": "Antioch of Pisidia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -4480,6 +4688,22 @@
     "examyear": "2019"
   },
   {
+    "id": 779,
+    "question": "When Ezekiel was called, he was shown a scroll on which were written words of______",
+    "option": {
+      "a": "wisdom, understanding and right judgement",
+      "b": "bitterness, right judgement and mourning",
+      "c": "lamentations, mourning and woe",
+      "d": "lamentations, bitterness and woe"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 787,
     "question": "Paul taught that spiritual gifts in all their varieties emanate from____________",
     "option": {
@@ -4526,6 +4750,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 791,
+    "question": "On the fourth day, God created the sun, moon and stars for the following purposes except  ",
+    "option": {
+      "a": "to separate the day from the night",
+      "b": " for signs of seasons, days and years",
+      "c": " to give light upon the earth.     ",
+      "d": "to dry up flood from the face of the earth."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
   },
   {
     "id": 792,
@@ -4720,6 +4960,22 @@
     "examyear": "2010"
   },
   {
+    "id": 813,
+    "question": "By the action of the good Samaritan, Christians are encouraged to ",
+    "option": {
+      "a": "go out to the streets and look for someone to help",
+      "b": "always travel with enough money in case the need arises to help. ",
+      "c": "show compassion and render help to the needy. ",
+      "d": "avoid travelling on lonely roads where armed-robbers  could attack."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 814,
     "question": "The lost sheep and the lost coin share the following except that ",
     "option": {
@@ -4731,6 +4987,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 819,
+    "question": "Apart from the miracles at the wedding feast, another miracle of Jesus at Cana in Galilee was",
+    "option": {
+      "a": "feeding the four thousan    ",
+      "b": "healing the noble man’s son.     ",
+      "c": "healing of a man born blind",
+      "d": "D   healing a paralytic man."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 820,
+    "question": "At whose well did Jesus meet the Samaritan woman?  ",
+    "option": {
+      "a": "Abraham         ",
+      "b": "Isaac          ",
+      "c": "Jacob           ",
+      "d": "Joseph"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -4928,6 +5216,22 @@
     "examyear": "2012"
   },
   {
+    "id": 858,
+    "question": " Josiah sent the ashes of the burnt vessels of Baal to Bethel in order to",
+    "option": {
+      "a": "desecrate the golden calf being worshipped",
+      "b": "desecrate the place for child sacrifice",
+      "c": "despoil the high places of Asherah",
+      "d": "consecrate that place for Yahweh worship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 859,
     "question": "King Nebuchadnezzar mounted his golden image on/at",
     "option": {
@@ -4967,6 +5271,22 @@
       "b": "worship",
       "c": "transgress",
       "d": "pacify"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 870,
+    "question": "Jesus taught that Christians should forgive their neighbours’ sin",
+    "option": {
+      "a": "three time only",
+      "b": "seventy times seven times",
+      "c": "seventy-seven times seven times",
+      "d": "as many times as possible"
     },
     "section": "",
     "image": "",
@@ -5195,6 +5515,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 918,
+    "question": "“He saved others, he cannot save himself. This was said by the",
+    "option": {
+      "a": "Scribes and elders.",
+      "b": "        Roman authority.",
+      "c": "Crowd of people.",
+      "d": "        Crucified thieves."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -5584,6 +5920,22 @@
     "examyear": "2011"
   },
   {
+    "id": 985,
+    "question": "A good citizen according to Peter is one ",
+    "option": {
+      "a": "obeys the law of the state and provides for the poor",
+      "b": "provides social services for the needy. ",
+      "c": "obeys the law of the state and fulfils his obligations. ",
+      "d": "helps to finance the government at all times."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 986,
     "question": "The primary motive for Christian giving is to",
     "option": {
@@ -5611,6 +5963,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 989,
+    "question": "Which of Paul’s epistle was written to an individual?",
+    "option": {
+      "a": "Romans ",
+      "b": "Corinthians   ",
+      "c": "Colossians    ",
+      "d": "Philemon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -5851,6 +6219,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1038,
+    "question": "The Galatians, were reminded by Paul that they were Abraham’s offspring and heirs according to ",
+    "option": {
+      "a": "promise. ",
+      "b": "   good works. ",
+      "c": "     law. ",
+      "d": "grace"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
