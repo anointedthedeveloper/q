@@ -4672,6 +4672,22 @@
     "examyear": "2014"
   },
   {
+    "id": 377,
+    "question": "When the purchase consideration exceeds the value of business, the difference is",
+    "option": {
+      "a": "profit",
+      "b": "discount",
+      "c": "goodwill",
+      "d": "reserve"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 378,
     "question": "The primary classification of government expenditure is based on",
     "option": {
@@ -6240,6 +6256,22 @@
     "examyear": "2009"
   },
   {
+    "id": 506,
+    "question": "In partnership account, conversion of non-cash assets into cash \t\tis referred to as",
+    "option": {
+      "a": "realization",
+      "b": "disposal",
+      "c": "dissolution",
+      "d": "revaluation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 507,
     "question": "The share premium account would be",
     "option": {
@@ -6267,6 +6299,22 @@
     "section": "Use the information below to answer questions 43 and 44\t A company advertised and issued 750,000,12% preference shares of  N 1 each to be issued at  N 1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on pro-rata basis.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 509,
+    "question": "Provision for bad and doubtful debts in companies final accounts is treated in",
+    "option": {
+      "a": "trading account",
+      "b": "profit and loss account",
+      "c": "fund flow statement",
+      "d": "cash flow statement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -6796,6 +6844,22 @@
     "image": "",
     "answer": "a",
     "solution": "To find Segun Ojo’s capital at 1 Jan 2014, take all assets less all liabilities at that date:\n\nOpening assets\n\nCash in hand: ₦ ⁠850\n\nDebtors: ₦ 15 500\n\nStock: ₦ 18 000\n\nFittings: ₦ ⁠9 000\nTotal assets = 850 + 15 500 + 18 000 + 9 000 = ₦ 43 350\n\nOpening liabilities\n\nBank overdraft: ₦ ⁠3 500\n\nCreditors: ₦ 12 700\nTotal liabilities = 3 500 + 12 700 = ₦ 16 200\n\nOpening capital = Total assets – Total liabilities\n= 43 350 – 16 200\n= ₦ 27 150",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 547,
+    "question": "Keeping records under single entry system has the advantage of",
+    "option": {
+      "a": "Keeping records under single entry system has the advantage of",
+      "b": "Simplicity in terms of operation",
+      "c": "Accuracy in terms of operation",
+      "d": "Completeness in terms of records"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Advantages Of Single Entry System. Single entrysystem does not need any special accounting knowledge and personnel to record financial transaction of the business. It can be maintained easily by the business owner. So, this system of book-keeping is simple to maintain and easy to practice.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -8640,6 +8704,22 @@
     "examyear": "2018"
   },
   {
+    "id": 692,
+    "question": "A partnership deed is used to____________",
+    "option": {
+      "a": "Promote mutual understanding",
+      "b": "Enhance mistrust",
+      "c": "Encourage discrepancy",
+      "d": "Control funds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Partnership deed can be used to:\n\n  i. Indicates terms on which the business corporation us founded\n\n  ii. To form a partnership for the purpose of doing business together\n\n  iii. Prevent future disputes\n\n  iv. Promote mutual understanding\n\n  v. Avoid mistrust",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 693,
     "question": "The cost price method is applicable when_____",
     "option": {
@@ -9664,6 +9744,22 @@
     "examyear": "2020"
   },
   {
+    "id": 782,
+    "question": "Using the information provided: total current assets ₦2,000, total fixed assets ₦4,000, current liabilities ₦1,200, drawings ₦200, and long term loan ₦2,000, What is the net working capital?",
+    "option": {
+      "a": " ₦1,800",
+      "b": "₦800",
+      "c": " ₦2,600",
+      "d": " ₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Current Assets−Current Liabilities=₦2,000−₦1,200=₦800",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 783,
     "question": "A major cause of discrepancy between the bank statement and the cashbook that overstates the bank statement balance is the",
     "option": {
@@ -10428,6 +10524,22 @@
     "image": "",
     "answer": "b",
     "solution": "Inventory adjustments (opening and closing stock) are made in the Trading Account to arrive at gross profit, not in the Profit and Loss Account. Accruals, subscriptions (prepayments or accruals), and depreciation are all items that are adjusted for within the Profit and Loss Account itself.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 844,
+    "question": "The basic role of accounting is to?\n",
+    "option": {
+      "a": "detect fraud",
+      "b": "attest to financial statements",
+      "c": "measure performance",
+      "d": "protect shareholders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The basic role of accounting is to measure and communicate the financial performance and position of an entity. ",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -11696,6 +11808,22 @@
     "examyear": "2024"
   },
   {
+    "id": 955,
+    "question": "Based on the following information, calculate the The value of raw materials consumed:\nOpening stock of raw materials on 1/1/09 was ₦2,000, work-in-progress was ₦5,000, closing stock of raw materials on 31/12/09 was ₦500, work-in-progress was ₦4,000, raw materials purchased during the year was ₦18,000, direct labour was ₦7,500, direct expenses were ₦3,000, and factory expenses were ₦10,000.",
+    "option": {
+      "a": "₦18,500",
+      "b": "₦19,500",
+      "c": "₦26,000",
+      "d": "₦37,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find the raw materials consumed, we use the formula:\nRaw Materials Consumed = Opening Stock of Raw Materials + Raw Materials Purchased - Closing Stock of Raw Materials\nRaw Materials Consumed = ₦2,000 + ₦18,000 - ₦500\nRaw Materials Consumed = ₦20,000 - ₦500 = ₦19,500",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 958,
     "question": "A method that is beneficial for tax purposes in inflationary times is? ",
     "option": {
@@ -12236,6 +12364,22 @@
     "image": "",
     "answer": "d",
     "solution": "When cash is received from subscribed shares, the journal entry is:\nDebit: Cash Account (cash is coming into the company)\nCredit: Application and Allotment Account (to record the liability to issue shares)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1003,
+    "question": "A source of revenue that is compulsory payment without any derived benefit is?",
+    "option": {
+      "a": "fees",
+      "b": "taxes",
+      "c": "fines",
+      "d": "rosyalties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation:\nTaxes are compulsory payments made to the government without receiving any direct or specific benefit in return. Key characteristics:\n\nCompulsory - Must be paid by law\n₦o direct benefit - Taxpayers don't receive specific services in exchange for their tax payment\nGovernment revenue - Used to fund general government operations and public services",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -13052,6 +13196,22 @@
     "image": "",
     "answer": "a",
     "solution": "Accounts payable represent amounts the business owes to suppliers — obligations or debts, so they’re recorded under liabilities (usually current liabilities) on the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1071,
+    "question": "A debit in the suspense accounting will appear in the balance sheet as?",
+    "option": {
+      "a": "a current asset",
+      "b": "a current lability",
+      "c": "capital",
+      "d": "drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reason: A debit balance in the suspense account represents an amount yet to be allocated that the business owns (an asset). Therefore it’s shown on the balance sheet as a current asset until cleared.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -15212,6 +15372,22 @@
     "image": "",
     "answer": "b",
     "solution": "The ₦6,000 subscription received for next year is a current liability.\n\n\nWhen an organization receives money for subscriptions that relate to the following year, it creates an obligation to provide services in the future. This is known as \"unearned revenue\" or \"deferred income.\"\n\nThe organization has received cash (₦6,000)\nBut it has not yet provided the service/benefit for next year\nTherefore, it owes a service to the subscribers\nThis creates a liability that must be settled by providing the service next year\nSince it will be settled within one year, it's a current liability\n\nThis amount would typically be shown on the balance sheet as \"Subscriptions Received in Advance\" or \"Unearned Subscription Income\" under current liabilities.\nNext year, when the service period begins, this liability will be transferred to subscription income in the profit and loss account.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1243,
+    "question": "<b>Use the information below to answer questions 28 and\n29</b>\n\nSubscription received during the year ₦30,000\nSubscription owed last year ₦4,000\nSubscription received for next year ₦6,000\n\nWhat is the subscription to be charged to income and expenditure account?",
+    "option": {
+      "a": "₦28,000",
+      "b": "₦34,000",
+      "c": "₦30,000",
+      "d": "₦20,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Income = Received during year + Opening arrears − Advance for next year\nSubstituting the numbers:\n\n\nIncome = ₦30,000 + ₦4,000 − ₦6,000 = ₦28,000",
     "examtype": "utme",
     "examyear": "2001"
   },
