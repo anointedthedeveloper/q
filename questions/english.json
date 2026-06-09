@@ -6574,6 +6574,25 @@
     "category": "others"
   },
   {
+    "id": 406,
+    "question": "The governor has <i>approved</i>  the award of the contract",
+    "option": {
+      "a": "appreciated ",
+      "b": " acknowledged ",
+      "c": "vetoed ",
+      "d": "endorsed"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 407,
     "question": "I cannot stand Simon, I find his attitude <i>offensive</i>",
     "option": {
@@ -8029,6 +8048,25 @@
     "section": "choose the option that best completes the gap(s).",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 492,
+    "question": "An acceptance of the offer would be a departure from the several rejections that….. ",
+    "option": {
+      "a": "had taken place ",
+      "b": "have taken place",
+      "c": "take place ",
+      "d": "took place "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
