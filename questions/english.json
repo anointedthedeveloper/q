@@ -12502,6 +12502,25 @@
     "category": "others"
   },
   {
+    "id": 769,
+    "question": "The man was able to persuade his <u>willful and obstinate</u> daughter to follow the career he chose for her?",
+    "option": {
+      "a": "intelligent but arrogant",
+      "b": "unyielding and obdurate",
+      "c": "secure and odious",
+      "d": "hardworking and intelligent"
+    },
+    "section": "<b>In each of questions 68 to 84, choose from the option nearest in meaning to the word underlined.</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 73,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 770,
     "question": "Mr. Okon has been described as <u>an eagle-eyed editor</u>?. ",
     "option": {
@@ -19205,6 +19224,25 @@
     "examtype": "utme",
     "examyear": "2022",
     "questionNub": 8,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1262,
+    "question": "What is the full name of Salma?",
+    "option": {
+      "a": " Salma Mohammed",
+      "b": "Salma Johnson",
+      "c": "Salma Samuel",
+      "d": "Salma Ahmed"
+    },
+    "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 9,
     "hasPassage": 0,
     "category": "others"
   },
