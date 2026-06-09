@@ -7334,6 +7334,25 @@
     "category": "others"
   },
   {
+    "id": 650,
+    "question": "The editor was not happy that the Nigerian press was hemmed ....... ?",
+    "option": {
+      "a": "up",
+      "b": "over",
+      "c": "across",
+      "d": "in"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 54,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 651,
     "question": "Three quarter of the hostel ........ been painted and three quarter of the students ...... moved in.",
     "option": {
@@ -18122,6 +18141,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 3,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1763,
+    "question": "The president said that he found himself between a rock and a hard place when the press said that he has resigned.",
+    "option": {
+      "a": "Hard places are dangerous for the president.",
+      "b": "He dreamt that he was abandoned.",
+      "c": "He thought that hard places were unsafe.",
+      "d": "He had a hard decision to make."
+    },
+    "section": "Select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "d",
+    "solution": "If you are caught between a rock and a hard place, you are in a difficult situation where you have to choose between two equally unpleasant courses of action.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 4,
     "hasPassage": 0,
     "category": "others"
   },
