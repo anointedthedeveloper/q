@@ -752,6 +752,22 @@
     "examyear": "2012"
   },
   {
+    "id": 62,
+    "question": " Which one of the following is not part of a company's equity capital?",
+    "option": {
+      "a": "Ordinary shares",
+      "b": "Preference shares",
+      "c": "Voting Shares",
+      "d": "Equity shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 63,
     "question": " An expenditure whose benefit is finished or enjoyed immediately is called: ",
     "option": {
@@ -2320,6 +2336,22 @@
     "examyear": "1997"
   },
   {
+    "id": 181,
+    "question": "Which of the following is a normal account?",
+    "option": {
+      "a": "Machinery",
+      "b": "Debtors",
+      "c": "Creditors",
+      "d": "Salaries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 182,
     "question": "The net book value at the time of sale was",
     "option": {
@@ -2907,6 +2939,22 @@
     "section": "Ordinary shares of  N1each  [500,000], 8% preference shares of  N1each [200,000], Interim dividends paid:  - ordinary shares [40,000], - preference shares [12,000], Profit for the year [100,000]",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 224,
+    "question": "If  no profit is to be retained, proposed ordinary shares dividend is",
+    "option": {
+      "a": "N   48,000",
+      "b": "N  44,000",
+      "c": "N  40,000",
+      "d": "N  28,000"
+    },
+    "section": "Ordinary shares of  N1each  [500,000], 8% preference shares of  N1each [200,000], Interim dividends paid:  - ordinary shares [40,000], - preference shares [12,000], Profit for the year [100,000]",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -4160,6 +4208,22 @@
     "examyear": "2015"
   },
   {
+    "id": 322,
+    "question": "Which of the following items is found in the sales ledger control account?",
+    "option": {
+      "a": "Discount received",
+      "b": "Total credit purchases",
+      "c": "Discount allowed",
+      "d": "Returns outwards"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 323,
     "question": "The process of using sales ledger balance to cancel off purchases ledger balance is",
     "option": {
@@ -4491,6 +4555,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 358,
+    "question": "Which of the following is entered in the general journal?",
+    "option": {
+      "a": "Purchase of goods",
+      "b": "Sale of goods on credit",
+      "c": "Returns inwards",
+      "d": "Acquisition of fixed assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -6185,6 +6265,22 @@
       "d": "N  27,000"
     },
     "section": "Use the information to answer questions: Work-in-progress 1/1[N 1,000 ];\tWork-in-progress 31/12 \t[N 2,000 ]; Production cost of goods manufactured \t[N 20,000 ] Sales [N 50,000]; Stock of finished goods 1/1 [N 4,000 ]; Stock of finished goods 31/12 [N 5,000 ]; Selling and distribution expenses[  N 2,000 ]; Administrative expenses [ 1,000 ]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 500,
+    "question": "Receipts and payments account is a summary of the",
+    "option": {
+      "a": "budget",
+      "b": "trading account",
+      "c": "cash book",
+      "d": "profit and loss account"
+    },
+    "section": "",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -8284,6 +8380,22 @@
     "image": "",
     "answer": "b",
     "solution": "Allowed to a debtor: the debit side of the cashbook is where all proceeds from sales are recorded and have to be matched with the discount allowed to the debtor /creditor",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 655,
+    "question": "What is the effect of transaction when cash is paid into the bank",
+    "option": {
+      "a": "Bank balance decrease and cash balance increase",
+      "b": " bank balance decrease and cash balance decrease",
+      "c": "cash balance increase and bank balance increase",
+      "d": "cash balance decrease and bank balance increase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cash balance decrease and bank balance increase: The cash as leaving the cash till and will be deposited into the bank",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -10912,6 +11024,22 @@
     "examyear": "2022"
   },
   {
+    "id": 880,
+    "question": "Mamsa Nigeria Limited issued 20,000 ordinary shares of ₦1.50 per share on 2nd July 2002. 15,000 ordinary shares were fully subscribed for and their monies received as below: On application ₦0.40, On allotment ₦0.20, First call (including premium of ₦0.50) ₦0.70. What is the balance of the ordinary share capital account after the first call was received?",
+    "option": {
+      "a": "₦12,000",
+      "b": "₦24,000",
+      "c": "₦10,500",
+      "d": "₦1,950"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Shares subscribed = 15,000\nNominal value per share = ₦1.00 (with ₦0.50 premium)\n\nCalls on capital per share:\n\nApplication: ₦0.40\n\nAllotment: ₦0.20\n\nFirst call (capital element): ₦0.70 − ₦0.50 premium = ₦0.20\n\nTotal called on capital per share = ₦0.40 + ₦0.20 + ₦0.20 = ₦0.80\n\nTotal credited to Ordinary Share Capital = 15,000 × ₦0.80 = ₦12,000.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 881,
     "question": "The medium that enables the ATM to read the account details and process transaction directly with the account held in the bank is the?",
     "option": {
@@ -11488,6 +11616,22 @@
     "examyear": "2024"
   },
   {
+    "id": 928,
+    "question": "A public limited liability company can get additional fund through the issue of",
+    "option": {
+      "a": "cheque",
+      "b": "accumulated fund",
+      "c": "consolidated fund",
+      "d": "debenture"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Issuing debentures allows a PLC to raise capital from investors. Debentures are essentially loans provided by investors to the company. The company promises to repay the principal amount borrowed along with interest a a predetermined rate. Debenture holders are creditors of the company, ranking higher than shareholders in term of claims on the company's assets in case of liquidation.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 929,
     "question": "The short term solvency of a company is determined with ___ ratio",
     "option": {
@@ -11788,6 +11932,22 @@
     "image": "",
     "answer": "d",
     "solution": "The Accountant General of the Federation is the head of the Office of the Accountant General of the Federation (OAGF), which is the treasury of the Federal Republic of Nigeria. They are responsible for overseeing the government's receipts and payments, ensuring proper accounting practices, and managing the Federation Account.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 953,
+    "question": "The ledger containing the accounts of debtors and creditors is",
+    "option": {
+      "a": "impersonal",
+      "b": "personal",
+      "c": "nominal",
+      "d": "real"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Personal accounts represent people or entities with whom a business has transactions. This includes debtors (who owe money to the business) and creditors (to whom the business owes money).",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -16128,6 +16288,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1302,
+    "question": "An item of appropriation in partnership profit and loss account is?",
+    "option": {
+      "a": "interest on partners' capital",
+      "b": "interest on partners' loan",
+      "c": "employees' salaries",
+      "d": "partners' drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An appropriation item in the partnership Profit & Loss Appropriation Account is one that deals with the distribution of net profit after it has been determined.\n\nInterest on partners’ capital is credited to the partners out of profit and is therefore an appropriation.\n\nInterest on partners’ loans, employees’ salaries, and partners’ drawings are expenses or withdrawals, not profit appropriations.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1303,
     "question": "<b>Use the information below to answer question 39 and 40</b>\n\nRakya and Joy are in partnership and agreed that 5% interest per annum is to be charged on drawings. The drawing made by both partners in one year were: Rakiya, ₦200 on March 31 and ₦300 on September 30, Joy, ₦100 on April 1 and ₦240 on July 1\n\nThe interest on Joy’s drawing is",
     "option": {
@@ -17164,6 +17340,22 @@
     "image": "",
     "answer": "b",
     "solution": "To find the gain or loss on sale of equipment, calculate the book value at the time of sale and compare it to the selling price.\nGiven information:\n\nPurchase date: January 1, 1993\nCost: ₦18,000\nUseful life: 8 years\nSalvage value: ₦2,000\nSale date: December 31, 1996\nSelling price: ₦8,000\n\nStep 1: Calculate annual depreciation\nAnnual depreciation = (Cost - Salvage value) ÷ Useful life\nAnnual depreciation = (₦18,000 - ₦2,000) ÷ 8 years = ₦2,000 per year\nStep 2: Calculate accumulated depreciation by December 31, 1996\nPeriod of use: January 1, 1993 to December 31, 1996 = 4 years\nAccumulated depreciation = ₦2,000 × 4 years = ₦8,000\nStep 3: Calculate book value at time of sale\nBook value = Cost - Accumulated depreciation\nBook value = ₦18,000 - ₦8,000 = ₦10,000\nStep 4: Calculate gain/loss on sale\nLoss on sale = Book value - Selling price\nLoss on sale = ₦10,000 - ₦8,000 = ₦2,000 loss",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1384,
+    "question": "The balance on a purchase ledger control account represents the?",
+    "option": {
+      "a": "present amount that a business owes its suppliers at date",
+      "b": " total credit avaiable to the end of the year to be utilized in future",
+      "c": " total credit the business enjoyed for the particular year from its suppliers",
+      "d": "total credit owd the business by its customers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The balance on the purchase ledger control account represents the present amount that the business owes its suppliers at that date.",
     "examtype": "utme",
     "examyear": "199"
   },
