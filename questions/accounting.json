@@ -1488,6 +1488,22 @@
     "examyear": "2016"
   },
   {
+    "id": 156,
+    "question": "From the information above, sources of income for a Not-for-profit making organization include",
+    "option": {
+      "a": "I, III, IV",
+      "b": "I, II, III",
+      "c": "I, II, IV",
+      "d": "I and IV"
+    },
+    "section": "I.   Members subscription II.  Fines  from members  III. Donation  IV.  Loan from bank",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 157,
     "question": "Clifford pays rent of  N200 per month for premises. He paid N 2,800 within the year, Compute the prepayment.",
     "option": {
@@ -2654,6 +2670,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
+  },
+  {
+    "id": 258,
+    "question": "The objective of accounting information is to enable users to",
+    "option": {
+      "a": "prepare the financial statements.",
+      "b": "value stock",
+      "c": "make decisions",
+      "d": "prepare budgets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
   },
   {
     "id": 260,
@@ -4448,6 +4480,22 @@
     "examyear": "2007"
   },
   {
+    "id": 454,
+    "question": "Partners’ share of profit is credited to",
+    "option": {
+      "a": "a partner’s current account",
+      "b": "a partner’s capital account",
+      "c": "the profit and loss account",
+      "d": "the profit and loss appropriation account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 455,
     "question": "A pension granted to any past president or vice-president shall be charged to the",
     "option": {
@@ -5920,6 +5968,22 @@
     "examyear": "2016"
   },
   {
+    "id": 606,
+    "question": "The difference between book keeping and accounting is that while",
+    "option": {
+      "a": "book keeping interprets data, accounting records it",
+      "b": "book keeping is regarded as the language of the business accounting ascertians its strength and weakness",
+      "c": "book keeping records data accounting interprets it",
+      "d": "book keeping summaries information accounting communicatesit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In the simplest of terms, bookkeeping is responsible for the recording of financial transactions whereas accounting is responsible for interpreting, classifying, analyzing, reporting, and summarizing the financial data.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 607,
     "question": "Alaka who owed Saka ₦15,000, settled his debt after deducting cash discount of 10%. To record the discount in the book of Saka, debit",
     "option": {
@@ -6380,6 +6444,22 @@
     "image": "",
     "answer": "a",
     "solution": "A cash discount is a deduction allowed by the seller of goods or by the provider of services in order to motivate the customer to pay within a specified time",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 652,
+    "question": "The discount column on the left-hand side of cashbook represents a discount",
+    "option": {
+      "a": "received from a creditor",
+      "b": "allowed to a debtor",
+      "c": "received from a debtor",
+      "d": "allowed to a creditor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Allowed to a debtor: the debit side of the cashbook is where all proceeds from sales are recorded and have to be matched with the discount allowed to the debtor /creditor",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -11100,6 +11180,22 @@
     "image": "",
     "answer": "d",
     "solution": "Reason: When a bill or cheque is dishonoured, the amount is removed from the cash/bank (credit cash book) and reinstated as a receivable from the person who gave it (debit drawer).",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1176,
+    "question": "<b>Use the information below to answer questions 12 and 13.</b> \n\n<b>Statement of assets and liabilities as at 31st December, 2001.</b> \n\nShareholders' interest ₦240 \nCurrent liabilities ₦20 \nCurrent assets ₦110 \nFixed assets ₦140\n\nWhat is the networking capital?",
+    "option": {
+      "a": "₦90m",
+      "b": "₦70m",
+      "c": "₦100m",
+      "d": "₦80m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Net working capital = Current assets − Current liabilities\n= ₦110m − ₦20m = ₦90m",
     "examtype": "utme",
     "examyear": "2002"
   },
