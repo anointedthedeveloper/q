@@ -1472,6 +1472,22 @@
     "examyear": "2016"
   },
   {
+    "id": 145,
+    "question": "The income and expenditure account differs from receipts and payments account because it",
+    "option": {
+      "a": "accounts for notional charges",
+      "b": "records transactions that relate to the period on cash basis",
+      "c": "records transactions that relate to the period  on accrual basis",
+      "d": "accounts for balance of cash at bank."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 146,
     "question": "The major sources of revenue for the state and local governments is",
     "option": {
@@ -2395,6 +2411,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 215,
+    "question": "A system where a separate cash book is maintained for small payments is",
+    "option": {
+      "a": "single entry",
+      "b": "imprest",
+      "c": "float",
+      "d": "reimbursement."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -5264,6 +5296,22 @@
     "examyear": "2009"
   },
   {
+    "id": 485,
+    "question": "The standing order is a payment instruction given by a",
+    "option": {
+      "a": "customer to the bank",
+      "b": "bank to the customers",
+      "c": "bank to an employee",
+      "d": "customer to a fellow customer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 486,
     "question": "Which of the following should not be added or subtracted from the bank statement balance to determine the adjusted cash balance?",
     "option": {
@@ -7184,6 +7232,22 @@
     "examyear": "2017"
   },
   {
+    "id": 660,
+    "question": "Which of these is a content of a master file?",
+    "option": {
+      "a": "All records relevant to the organisation.",
+      "b": "Records of assets of the organisation",
+      "c": "A collection of data items",
+      "d": " All records relating to employees"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "All record relevant to the organization: the records which are only relevant to the organization such as the name and address as well as summary information such as amount due and year to date sales will be in master file",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 661,
     "question": "An evidence of payment issued to a government ministry by a revenue collector is",
     "option": {
@@ -7452,6 +7516,22 @@
     "image": "",
     "answer": "a",
     "solution": "In the branch’s own books, when cash is sent to head office but not yet received there, it isn’t left in the cash balance, instead the branch debits a “Remittance in Transit” asset account and credits cash. Thus, on reconciliation, the branch treats remittances in transit as debit entries.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 685,
+    "question": "The amount paid by the new partner on admission as a compensation for the reputation built up by old partners is a",
+    "option": {
+      "a": "Bonus",
+      "b": "Good will",
+      "c": "Premium",
+      "d": "Commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Goodwill is the excess of the purchase consideration over the total value of an entity",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -8732,6 +8812,22 @@
     "image": "",
     "answer": "a",
     "solution": "Fixed assets are long‑term tangible assets used in the operation of a business. From the list, only premises and land qualify as fixed assets.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 819,
+    "question": "Use the information below to answer this question:\ni. cash at bank  ii. cash in hand  iii. premises  iv. land  v. creditors  vi. loan from friends/bank\n\nWhat are the current assets?",
+    "option": {
+      "a": "i and v",
+      "b": "i and ii",
+      "c": " ii and iv",
+      "d": "iii and v"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Current assets are short‑term assets expected to be converted into cash within one year. From the list, cash at bank and cash in hand are the current assets.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -11712,6 +11808,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1117,
+    "question": "Verifiability in accounting is only possible when there are?",
+    "option": {
+      "a": "minutes of meetings",
+      "b": "payment vouchers",
+      "c": "source documents",
+      "d": "audit certificates"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Reason: verifiability depends on original evidence (invoices, receipts, vouchers, etc.) that support and prove transactions — without source documents you can't reliably verify accounting records.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1118,
     "question": "<b>Use the information below to answer questions 4 and 5</b>\n\nCapital ...................₦2000\nBank ......................₦1200\nPurchase ..................₦2500\nSales .....................₦6700\nStock .....................₦1300\nCreditors .................₦1000\nFixed assets...............₦3700\nDrawings ..................₦?\n\n\nDrawings are always estimated at 50% of capital.\n\nThe trial balance total is?",
     "option": {
@@ -11804,6 +11916,22 @@
     "image": "",
     "answer": "a",
     "solution": "Reason: bookkeeping is the stage where transactions are recorded (journals, ledgers, subsidiary books). Trial balancing, ledger accounting and final accounting are later stages.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1126,
+    "question": "<b>Use the information below to answer questions 12 and 13.</b>\n\nMotor Vehicle Account as at 31st December 2001.\nDebit:\nJan. 1, cost ................₦1950 000\nDec.31, Addition ............ ₦400 000\nCredit:\nJan. 1, Depreciation ........₦1360 000\nJune 30, Sales proceeds...... ₦700 000\n\nThe vehicle sold was purchase on January 1, 1998 at a cost of ₦1,000 000 and had depreciation at 25% on cost.\n\nAssuming that depreciation is charged on the addition of the year at the rate of 15% on reducing balance, what should be the net book value of the vehicle as at 31st December 2003?",
+    "option": {
+      "a": "₦280,000",
+      "b": "₦289,000",
+      "c": "₦250,000",
+      "d": "₦340,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Analyze the vehicle sold\nVehicle sold was purchased Jan 1, 1998 for ₦1,000,000\nDepreciation at 25% on cost = ₦250,000 per year\nBy June 30, 2001 (3.5 years): ₦250,000 × 3.5 = ₦875,000\nNet book value at sale = ₦1,000,000 - ₦875,000 = ₦125,000\nStep 2: Calculate remaining vehicles at Dec 31, 2001\nOriginal fleet cost: ₦1,950,000\nLess: Vehicle sold: ₦1,000,000\nRemaining original vehicles: ₦950,000\nOriginal accumulated depreciation: ₦1,360,000\nLess: Depreciation on sold vehicle: ₦875,000\nRemaining accumulated depreciation: ₦485,000\nNet book value of remaining original vehicles: ₦950,000 - ₦485,000 = ₦465,000\nStep 3: Calculate depreciation on addition (₦400,000)\nAddition made Dec 31, 2001 at ₦400,000\nDepreciation at 15% reducing balance:\nYear 2002: ₦400,000 × 15% = ₦60,000\nRemaining: ₦400,000 - ₦60,000 = ₦340,000\nYear 2003: ₦340,000 × 15% = ₦51,000\nRemaining: ₦340,000 - ₦51,000 = ₦289,000\nStep 4: Calculate total net book value at Dec 31, 2003\nRemaining original vehicles (assuming no further depreciation given): ₦465,000\nAddition after 2 years depreciation: ₦289,000",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -13664,6 +13792,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1294,
+    "question": "Which of the following items does not feature in the balance sheet of a club?",
+    "option": {
+      "a": "Arrears of current year's subscription",
+      "b": "Salary arrears paid in the current year",
+      "c": "Rental income received in advance",
+      "d": "Advances subscription in respect of a coming year"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Arrears of current year’s subscription (amounts owed by members) appear as a receivable (asset).\n\nRental income received in advance is unearned income and appears as a liability.\n\nAdvance subscriptions for the coming year are also liabilities.\n\nSalary arrears paid during the year are simply expenses that have been settled and do not appear on the balance sheet at period-end.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1295,
     "question": "An outright sale of a partnership amounts to the?",
     "option": {
@@ -15228,6 +15372,22 @@
     "image": "",
     "answer": "c",
     "solution": "To find the prepaid portion at 31 Dec 1993:\n\nThe ₦50,000 paid on 30 May 1993 covers 24 months (30 May 93–29 May 95).\n\nBy 31 Dec 1993, 7 months’ rent have been “used up” (June–December).\n\nRemaining prepaid months = 24 – 7 = 17 months.\n\nPrepaid amount = 17/24 × 50,000 = 35,416.67 ≈ ₦35,417",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1429,
+    "question": "On the 30/5/93 Tolu & Co. paid 2 years rent of ₦50,000 which was debited to the rent account.\nThe adjustment needed as at 31st December 1993 is?",
+    "option": {
+      "a": " debit rent account and credited adjustment account",
+      "b": "debit prepayment account and credit rent account",
+      "c": "debit rent account and credit prepayment account",
+      "d": "debit adjustment account and credit prepayment account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The full ₦50,000 was originally charged to Rent Expense.\n\nAt 31 Dec 1993, ₦35,417 of that relates to future periods (prepaid).\n\nTo move that unexpired portion off the expense and onto the balance sheet, you debit Prepaid Rent and credit Rent Expense.",
     "examtype": "utme",
     "examyear": "1997"
   },
