@@ -4085,6 +4085,25 @@
     "category": "others"
   },
   {
+    "id": 234,
+    "question": "I watched him as he……  the hole",
+    "option": {
+      "a": "dug ",
+      "b": "digs",
+      "c": "is digging ",
+      "d": "dugged"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 235,
     "question": "His father hardly misses the news because he goes about with his………..  Radio",
     "option": {
@@ -15690,6 +15709,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 97,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 993,
+    "question": "Maiduguri is the CAPITAL of Borno State.",
+    "option": {
+      "a": "Is Maiduguri the capital of Plateau State?",
+      "b": "Which State is Maiduguri the capital of?",
+      "c": " Is Maiduguri a town in Borno State?",
+      "d": "What is the capital Borno State?"
+    },
+    "section": "<b>In each of the questions 93 to 98 choose the appropriate stress pattern from the options. The syllables are written in capital letters.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "In answering questions on emphatic stress, the interrogative sentence that contradicts the emphasized word is the correct option. The emphasized word from the question above is ''capital''. Option C contradicts the statement.\n\nIs Maiduguri a town in Borno State? The underlined word contradicts the emphasized word, ''capital''.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 98,
     "hasPassage": 0,
     "category": "others"
   },
