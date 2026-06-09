@@ -512,6 +512,22 @@
     "examyear": "2001"
   },
   {
+    "id": 36,
+    "question": "When chlorine is passed into water and the resulting solution exposed to sunlight, the product formed are",
+    "option": {
+      "a": "Chlorine gas and hydrogen",
+      "b": "Oxygen and oxochlorate(l) acid",
+      "c": "Hydrochloric acid and oxygen",
+      "d": ""
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 37,
     "question": "Proteins in acid solution undergo",
     "option": {
@@ -5552,6 +5568,22 @@
     "examyear": "2016"
   },
   {
+    "id": 370,
+    "question": "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is",
+    "option": {
+      "a": "Phosphorus-32",
+      "b": "Cobalt-60",
+      "c": "Carbon-14",
+      "d": "Iodine-131"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Cobalt-60 emits high-energy gamma rays, making it ideal for industrial radiography to detect internal faults in welds and castings. Phosphorus-32 is used in medical/biological research; Carbon-14 is used in radiocarbon dating; Iodine-131 is used in thyroid treatment.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 371,
     "question": "The compound produced when sodium peroxide is heated with excess sodium is",
     "option": {
@@ -8944,6 +8976,22 @@
     "examyear": "2020"
   },
   {
+    "id": 592,
+    "question": "Aluminium hydroxide is used in the dyeing industry as a?",
+    "option": {
+      "a": "Dye",
+      "b": "Dispersant",
+      "c": "Salt",
+      "d": "Mordant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A mordant is a substance used to fix dyes onto fabrics by forming a chemical bridge between the dye and the fibre. Aluminium hydroxide Al(OH)₃ acts as a mordant in the dyeing industry. It precipitates onto the fabric and binds to both the fibre and the dye molecules, producing a more permanent and vibrant colour.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 593,
     "question": "The most important element on the earth's crust is?",
     "option": {
@@ -9100,6 +9148,22 @@
     "image": "",
     "answer": "c",
     "solution": "Bromine (Br₂) is the only non-metal that exists as a liquid at room temperature (melting point −7°C, boiling point 59°C). Chlorine and helium are gases at room temperature, while phosphorus exists as a solid. Bromine is a reddish-brown, volatile, corrosive liquid.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 603,
+    "question": "Which of the following are chemical changes? I. cooking of food  II. digestion of food  III. freezing of water  IV. water is heated up",
+    "option": {
+      "a": "I and II",
+      "b": "I, II, and III",
+      "c": "III and IV",
+      "d": "all of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A chemical change produces new substances with different properties. Cooking food involves chemical reactions that change the composition of food permanently. Digestion of food involves enzymatic and chemical breakdown of food into new substances. Freezing water and heating water are physical changes since water remains H₂O with no new substance formed. Only I and II are chemical changes.",
     "examtype": "utme",
     "examyear": "2021"
   },
