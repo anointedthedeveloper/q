@@ -864,6 +864,22 @@
     "examyear": "1"
   },
   {
+    "id": 71,
+    "question": "The uncertainty as to the occurrence of a loos is",
+    "option": {
+      "a": "Hazard",
+      "b": "Loss",
+      "c": "Risk",
+      "d": "insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 72,
     "question": "The risks which affect the society and whose causes are beyond human control is",
     "option": {
@@ -2011,6 +2027,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 157,
+    "question": "------------ is used to bring amendment in a policy that is either to add in a new thing or removal of an existing thing in the policy",
+    "option": {
+      "a": "Excess",
+      "b": "Endorsement",
+      "c": "Claim form",
+      "d": "Policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
