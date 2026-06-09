@@ -544,6 +544,22 @@
     "examyear": "2007"
   },
   {
+    "id": 35,
+    "question": "Which of the following is not a form of precipitation? ",
+    "option": {
+      "a": "Dew   ",
+      "b": "Snow   ",
+      "c": "hail ",
+      "d": "fog "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 36,
     "question": "Which of the following pressure belts does not experienced descending air?  ",
     "option": {
@@ -651,6 +667,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is not correct with regards to the solar system?  ",
+    "option": {
+      "a": "The planets all orbit round the sun  ",
+      "b": "The sun is only a source of the energy needed on the planets  ",
+      "c": "The earth as well as other planets rotate round the sun  ",
+      "d": "all the planets have definite orbits around the sun"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
@@ -2427,6 +2459,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 160,
+    "question": "In humid areas, farmers add lime to the soil to  ",
+    "option": {
+      "a": "reduce acidity  ",
+      "b": "Act as fertilizer  ",
+      "c": "Facilitate the absorption of nutrient  ",
+      "d": "Encourage the farmer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -4400,6 +4448,22 @@
     "examyear": "2017"
   },
   {
+    "id": 293,
+    "question": "Which is not exported by the Republic of South Africa?",
+    "option": {
+      "a": "Wheat",
+      "b": "Maize",
+      "c": "Wool",
+      "d": "Wines"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 294,
     "question": "Name the feature shown below",
     "option": {
@@ -5099,6 +5163,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 341,
+    "question": "The feature marked X in the diagram is a",
+    "option": {
+      "a": "Spit",
+      "b": "Stack",
+      "c": "Beach",
+      "d": "Gorge"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_25_and_26_zp3h4a.jpg",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
