@@ -11392,6 +11392,22 @@
     "examyear": "2006"
   },
   {
+    "id": 727,
+    "question": "One of the properties of gamma rays is that they are?",
+    "option": {
+      "a": "neutral",
+      "b": "massive",
+      "c": "positively charged",
+      "d": " negatively charged"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: Recall nature of gamma rays\nGamma rays are a form of electromagnetic radiation, like light or X-rays, but with higher frequency and energy.\n\nStep 2: Identify key properties\nElectromagnetic radiation consists of photons, which have no rest mass and no electric charge. Therefore, gamma rays are uncharged (neutral) and massless.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 728,
     "question": "A radioactive element has a half life of 4 days. The fraction that has decayed in 16 days is?",
     "option": {
