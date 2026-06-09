@@ -3888,6 +3888,22 @@
     "examyear": "2007"
   },
   {
+    "id": 436,
+    "question": "Determine the opening cash balance of the club",
+    "option": {
+      "a": "N 3070",
+      "b": "N 2220",
+      "c": "N 5710",
+      "d": "N 4320."
+    },
+    "section": "Entrance fees [N 1,200 ]; Subscription (including N 850 arrears) [N 4,310 ]; Donations received [N 1,500]; Proceeds from sales [N 2 ,300]; Total payments [N 8,200 ]; Depreciation [N 2,100]; Closing cash balance [N 1,110 ]. The club deposited 200% of the closing cash balance in the bank during the period.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 437,
     "question": "Purchases of raw materials amount to N  81 000, direct labour is N  38 000 and factory overhead N  29 000. Calculate the prime cost.",
     "option": {
@@ -4860,6 +4876,22 @@
     "image": "",
     "answer": "c",
     "solution": "Rent is apportioned on floor‐space. Total space = 80 + 60 + 60 = 200 m², so rent per m² = 6 000 ÷ 200 = ₦30/m².\nDepartment Z has 60 m², so its share = 60 × 30 = ₦1 800.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 545,
+    "question": "A sales for ₦2,570 was recorded in the sales day book as ₦2750. The error committed was",
+    "option": {
+      "a": "error of principle",
+      "b": " error of commission",
+      "c": "error of original entry",
+      "d": "compensating error"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An error of original entry occurs when an incorrect amount is posted to the correct account. A particular example of an error of original entry is a transposition error where the numbers are not entered in the correct order.  This type of error deals directly with the wrong use of figures",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -7216,6 +7248,22 @@
     "examyear": "2021"
   },
   {
+    "id": 824,
+    "question": "Given: i. The memorandum of association of the company ii. The article of association of the company iii. The incorporation documents.\n\nFrom the above, which of the following is delivered to the registrar of companies for incorporation?",
+    "option": {
+      "a": " i, ii and iii",
+      "b": "i and ii",
+      "c": "i and iii",
+      "d": "ii and iii"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "All three sets of documents—Memorandum of Association, Articles of Association, and the required incorporation filings (such as the statutory statement of compliance and prescribed forms)—must be lodged with the Registrar",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 825,
     "question": "The issued share capital is the number of shares that are ",
     "option": {
@@ -8636,6 +8684,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a head office supplies goods (recharge cards) to its branch, the most common and practical transfer pricing method is selling price. ",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 998,
+    "question": "The entry in the partnership books of accounts for interest on drawings is to?",
+    "option": {
+      "a": "credit partners capital account",
+      "b": "debit partners capital account",
+      "c": "credit drawings account",
+      "d": "debit drawings account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Interest on drawings is a charge against the partner for withdrawing money from the business for personal use",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -12348,6 +12412,22 @@
     "image": "",
     "answer": "b",
     "solution": "The portion of equity that represents realized profits and is available for distribution when the company is wound up is known as the revenue reserve.\n\nUnlike capital reserves (which arise from non-trading activities and are generally not distributable), revenue reserves are built up from operating profits and can be used to pay out to shareholders on winding up.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1408,
+    "question": "To compute gearing ratio, divide?",
+    "option": {
+      "a": "profit by capital employed",
+      "b": "current assets by current liability",
+      "c": "profit by total assets",
+      "d": " long-term debts by equity capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gearing Ratio = Long-term Debt/ Equity Capital\n \n​\n \nSo you divide long-term debts by equity capital.",
     "examtype": "utme",
     "examyear": "199"
   },
