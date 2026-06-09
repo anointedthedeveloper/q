@@ -672,6 +672,22 @@
     "examyear": "2008"
   },
   {
+    "id": 50,
+    "question": "Nigeria became a republic on ",
+    "option": {
+      "a": "29-May-99",
+      "b": "1-Oct-60",
+      "c": "1-Jan-66",
+      "d": "1-Oct-63"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 52,
     "question": "The European Union (EU) is an ",
     "option": {
@@ -1207,6 +1223,22 @@
       "b": "Public officials ",
       "c": "judges  ",
       "d": "the head of state "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 97,
+    "question": "Universal Adult Suffrage means all ",
+    "option": {
+      "a": "Adult citizens can vote ",
+      "b": "citizens vote ",
+      "c": "Qualified citizens  can vote ",
+      "d": "Literate citizens can vote "
     },
     "section": "",
     "image": "",
@@ -2987,6 +3019,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 236,
+    "question": "Immediately after the Nigerian Civil War, Gowon’s regime embarked on",
+    "option": {
+      "a": "rejuvenation, resettlement and reconstruction",
+      "b": "reconciliation, rehabilitation and reconstruction",
+      "c": "rebuilding, rejuvenation and rehabilitation",
+      "d": "rehabilitation, renaissance and repression."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -5296,6 +5344,22 @@
     "examyear": "2010"
   },
   {
+    "id": 420,
+    "question": "The principle of separation of powers is best practiced in the",
+    "option": {
+      "a": "monarchical system",
+      "b": "parliamentary system.",
+      "c": "feudal system",
+      "d": "presidential system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 421,
     "question": "A typical form of delegated legislation is",
     "option": {
@@ -6171,6 +6235,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 485,
+    "question": "Members of the Senate in Nigeria’s First Republic were",
+    "option": {
+      "a": "elected directly by the people",
+      "b": "elected by electoral college",
+      "c": "nominated by regional and federal governments",
+      "d": "nominated by the president of the house."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -8592,6 +8672,22 @@
     "examyear": "1989"
   },
   {
+    "id": 673,
+    "question": "The study of Government offers an individual all the following, except a",
+    "option": {
+      "a": "knowledge of his rights and duties",
+      "b": "training in good citizenship",
+      "c": "knowledge of the processes of government",
+      "d": "training to become a judge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 675,
     "question": "The organ of the UNO which can impose mandatory sanctions on any of its members is the",
     "option": {
@@ -8615,6 +8711,22 @@
       "b": "Yakubu Gowon administration",
       "c": "Shehu Shagari administration",
       "d": "Murtala / Obasanjo administration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 678,
+    "question": "Which of the following is not written into independence constitution of 1960?",
+    "option": {
+      "a": "Fundamental human rights",
+      "b": "Exclusive powers",
+      "c": "Concurrent list",
+      "d": "Role of political parties"
     },
     "section": "",
     "image": "",
@@ -8983,6 +9095,22 @@
       "b": "Nigerian Union of Teachers",
       "c": "National Party of Nigeria",
       "d": "Academic Staff Union of Universities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 707,
+    "question": "Which of the following is not a public corporation? The",
+    "option": {
+      "a": "Nigerian Ports Authority",
+      "b": "National Sports Commission",
+      "c": "National Youth Service Corps",
+      "d": "Nigerian Railway Corporation"
     },
     "section": "",
     "image": "",
@@ -12092,6 +12220,22 @@
     "image": "",
     "answer": "c",
     "solution": "A group of people with different natures, opinions, and goals with complicated networks of social relation is referred to as a society. ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 966,
+    "question": "A one-party system helps to prevent",
+    "option": {
+      "a": "quick decısion",
+      "b": "strong leadership",
+      "c": "stable leadership",
+      "d": "economic waste"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "One of the merits of a one-party system is that it helps to prevent economic waste. With only one party in a state, resources do not have to be diverted to conducting elaborate elections in the selection of leaders. ",
     "examtype": "utme",
     "examyear": "2022"
   },
