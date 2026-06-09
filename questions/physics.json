@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 10,
+    "question": "  A convex lens of focal length 10.0cm is used to form a real image which is half the size of the object. How far from the object is the image? ",
+    "option": {
+      "a": "45cm ",
+      "b": "30cm ",
+      "c": "15cm ",
+      "d": "20cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 11,
     "question": "An object of height 3.00cm is placed 10cm from a biconvex lens of 15cm, the image of the object is ",
     "option": {
@@ -256,6 +272,22 @@
     "examyear": "2009"
   },
   {
+    "id": 48,
+    "question": "The resistance of a wire depends on ",
+    "option": {
+      "a": "the length of the wire ",
+      "b": "the diameter of the wire ",
+      "c": "the temperature of the wire ",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 50,
     "question": "When a yellow card is observed through a blue glass, the card would appear as ",
     "option": {
@@ -295,6 +327,22 @@
       "b": "N48.00 ",
       "c": "N480.00 ",
       "d": "N4800.00 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 58,
+    "question": "The resistance of a 5m uniform wire of cross sectional area of 0.2 x 106m2 is 0.45. What is the resistivity of the material of the wire ",
+    "option": {
+      "a": "1.10 x 105 ohms ",
+      "b": "4.25 x106Ωm ",
+      "c": "2.40 x 107Ωm ",
+      "d": "1.70 x 108Ωm "
     },
     "section": "",
     "image": "",
@@ -448,6 +496,22 @@
     "examyear": "2011"
   },
   {
+    "id": 99,
+    "question": " The electric field between two parallel plates is E.  A particle of mass m and carrying charge q is released at a point half the distance between the plates. The velocity  of the particle t  seconds after its release is  ",
+    "option": {
+      "a": "qEt/m ",
+      "b": "qEt2  ",
+      "c": "mqt2/2E  ",
+      "d": "MQT/2E"
+    },
+    "section": "",
+    "image": "",
+    "answer": "",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 102,
     "question": "A wheel and axle is used to raise a weight of 600n with an effort of 300n. if the radii of the wheel and axle are 50 cm and 10 cm respectively, what is the efficiency of the system      ",
     "option": {
@@ -576,6 +640,22 @@
     "examyear": "2012"
   },
   {
+    "id": 144,
+    "question": "Calculate the gravitation force of attraction between two planets of 10²⁴ kg and 10²⁷kg separated by a distance of 10²⁰\nmeters",
+    "option": {
+      "a": " 6.67N",
+      "b": "6.56N",
+      "c": "7.5N",
+      "d": "8.6N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of first planet (m₁) = 10²⁴ kg\nMass of second planet (m₂) = 10²⁷ kg\nDistance between planets (r) = 10²⁰ meters\nGravitational constant (G) = 6.67 × 10⁻¹¹ Nm²/kg²\n\nFormula for Gravitational Force:\nF = G(m₁m₂)/r²\nSubstituting values:\nF = (6.67 × 10⁻¹¹ × 10²⁴ × 10²⁷)/(10²⁰)²\nF = (6.67 × 10⁻¹¹ × 10⁵¹)/(10⁴⁰)\nF = (6.67 × 10⁴⁰)/(10⁴⁰)\nF = 6.67 N\nAnswer: A. 6.67N",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 150,
     "question": "Convert 45°C to kelvin",
     "option": {
@@ -588,6 +668,22 @@
     "image": "",
     "answer": "a",
     "solution": "Note: T = 273 + θ\n\nθ = 45°\n\nT = 273 + 45\n\n= 318K",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 152,
+    "question": "Radio waves belong to the class of wave whose velocity is about",
+    "option": {
+      "a": "34m/s",
+      "b": "3 × 10⁶ m/s",
+      "c": " 3 × 10⁸ m/s",
+      "d": "3 × 10⁻⁸ m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Radio waves are part of the electromagnetic spectrum, which includes:\n\nRadio waves\nMicrowaves\nInfrared\nVisible light\nUltraviolet\nX-rays\nGamma rays\n\nKey property of electromagnetic waves:\nAll electromagnetic waves travel at the speed of light in vacuum (or air).\nSpeed of light (c):\nc = 3 × 10⁸ m/s (or approximately 300,000 km/s)",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -736,6 +832,22 @@
     "examyear": "2016"
   },
   {
+    "id": 183,
+    "question": "A satellite moves in a circular orbit of radius 4R round the earth. The acceleration of the satellite in terms of g is",
+    "option": {
+      "a": "g/16",
+      "b": "g/4",
+      "c": "4/g",
+      "d": "16/g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The acceleration of the satellite is g/16, where g is the acceleration due to gravity at Earth's surface.\nExplanation: Gravitational acceleration decreases with the square of distance. At 4 times Earth's radius, acceleration is (1/4²) = 1/16 of surface gravity.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 192,
     "question": "The rate of cooling of a heated quantity of liquid in an enclosure depends on the",
     "option": {
@@ -800,6 +912,22 @@
     "examyear": "2016"
   },
   {
+    "id": 208,
+    "question": "What will happen to the pressure of a gas if its temperature is reduced to -273°C?",
+    "option": {
+      "a": "It will decrease",
+      "b": "it will drop to zero",
+      "c": " It will increase",
+      "d": " It will remain constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "At -273°C (absolute zero), the pressure of an ideal gas becomes zero because all molecular motion ceases.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 211,
     "question": "A pool of water appears to be 1.00m deep when viewed vertically from above. What is the actual depth of the pool?\n[Refractive index of water = 1.33]",
     "option": {
@@ -844,6 +972,38 @@
     "image": "",
     "answer": "d",
     "solution": "Boiling occurs when bubbles of vapour form within the liquid and rise to the surface.\nCondition for boiling:\nFor bubbles to form and grow inside the liquid, the vapour pressure inside the bubbles must overcome the external pressure (atmospheric pressure) pushing down on the liquid surface.\nKey point:\nBoiling occurs when vapour pressure equals atmospheric pressure.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 222,
+    "question": "In the diagram above, which of the following velocity-time graphs shows uniform acceleration of a body from rest?",
+    "option": {
+      "a": "C",
+      "b": "D",
+      "c": "B",
+      "d": "A"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610227/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_43_d6dmau.jpg",
+    "answer": "c",
+    "solution": "Understanding uniform acceleration from rest:\n\n\"From rest\" means initial velocity = 0 (starts at origin)\n\"Uniform acceleration\" means constant acceleration (velocity increases at a steady rate)\nA velocity-time graph with uniform acceleration is a straight line starting from the origin\n\nAnalyzing the graphs:\nGraph A: Curved line - represents non-uniform (changing) acceleration ✗\nGraph B: Straight line starting from origin - represents uniform acceleration from rest ✓\nGraph C: Curved line (steep then flattening) - represents decreasing acceleration ✗\nGraph D: Curved line - represents non-uniform acceleration ✗\nKey point:\nFor uniform acceleration, the slope (acceleration) must be constant, which gives a straight line on a velocity-time graph.\n\nGraph B shows uniform acceleration from rest because it's a straight line starting from the origin, indicating constant acceleration.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 224,
+    "question": "From the diagram above, the measuring accuracy of the micrometer screw gauge is",
+    "option": {
+      "a": "4.78mm",
+      "b": "4.16mm",
+      "c": "4.66mm",
+      "d": "4.70mm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610469/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_45_dtlnzx.jpg",
+    "answer": "b",
+    "solution": "Micrometer screw gauge reading = main scale reading + vernier scale reading\n\n                                          = 4.0mm + 16mm = 4.16mm\n",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1168,6 +1328,22 @@
     "examyear": "2019"
   },
   {
+    "id": 350,
+    "question": "When the downward current flows in a straight vertical conductor, the direction of its magnetic field at a point due north of the wire is?",
+    "option": {
+      "a": "Upward",
+      "b": "North",
+      "c": "South",
+      "d": "West"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When downward current flows in a vertical conductor, the magnetic field at a point due north of the wire points west (following the right-hand grip rule).",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 351,
     "question": "Aluminium is sometimes used as the leaf of an electroscope because it",
     "option": {
@@ -1388,6 +1564,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nInitial pressure (P₁) = 80 Nm⁻²\nInitial temperature (T₁) = 47°C = 47 + 273 = 320 K\nFinal temperature (T₂) = 27°C = 27 + 273 = 300 K\nVolume constant\nFinal pressure (P₂) = ?\n\nUsing Gay-Lussac's Law (Pressure Law):\nAt constant volume: P₁/T₁ = P₂/T₂\nRearranging to find P₂:\nP₂ = P₁ × (T₂/T₁)\nSubstituting values:\nP₂ = 80 × (300/320)\nP₂ = 80 × 0.9375\nP₂ = 75 Nm⁻²\nExplanation:\nWhen temperature decreases at constant volume, pressure decreases proportionally because the average kinetic energy of gas molecules decreases, resulting in fewer and less forceful collisions with the container walls.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 428,
+    "question": "Which of the following instruments may be used to measure relative humidity?",
+    "option": {
+      "a": "Hydrometer",
+      "b": "Manometer",
+      "c": "Hygrometer",
+      "d": "Hypsometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A hygrometer is an instrument that is used to measure water vapor in the atmosphere. This is also commonly referred to as relative humidity in the atmosphere.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -1760,6 +1952,22 @@
     "examyear": "2022"
   },
   {
+    "id": 508,
+    "question": "The half life of a radioactive material is 12 days. Calculate the decay constant.",
+    "option": {
+      "a": "0.8663 day⁻¹",
+      "b": "0.04331 day⁻¹",
+      "c": " 0.17325 day⁻¹",
+      "d": "0.05775 day⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nHalf-life, t½ = 12 days\nDecay constant, λ = ?\n\nSolution:\nUsing the relationship between half-life and decay constant:\nλ = ln(2)/t½\nor\nλ = 0.693/t½\nStep 1: Substitute the known values\nλ = 0.693/12\nStep 2: Calculate the decay constant\nλ = 0.05775 day⁻¹",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 513,
     "question": "Which process is responsible for production of energy in stars?",
     "option": {
@@ -1888,6 +2096,22 @@
     "examyear": "2023"
   },
   {
+    "id": 549,
+    "question": "Which of the following liquids has the highest surface tension?",
+    "option": {
+      "a": " Soapy water",
+      "b": "Water",
+      "c": "Mercury",
+      "d": "Oil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Surface tension is the force that acts on the surface of a liquid, tending to minimize the surface area. It is caused by the cohesive forces between the molecules of the liquid. The stronger the cohesive forces, the higher the surface tension.\n\nMercury has the highest surface tension of all the liquids listed. This is because the atoms of mercury are very close together, and they have a strong attraction for each other. This strong cohesive force results in a high surface tension.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 551,
     "question": "Under which conditions is work done",
     "option": {
@@ -1984,6 +2208,22 @@
     "examyear": "2024"
   },
   {
+    "id": 572,
+    "question": "288KJ is conducted across two opposite faces of a 3m cube of temperature gradient 90°Cm⁻¹ in 7200s. Calculate the thermal conductivity.",
+    "option": {
+      "a": "4.9 x 10⁻²Wm⁻¹k⁻¹",
+      "b": "5.0 x 10⁻²Wm⁻¹k⁻¹",
+      "c": " 5.2 x 10⁻²Wm⁻¹k⁻¹",
+      "d": "5.1 x 10⁻²Wm⁻¹k⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHeat conducted, Q = 288 kJ = 288,000 J\nSide of cube, L = 3 m\nTemperature gradient, dT/dx = 90°C/m = 90 K/m\nTime, t = 7200 s\nThermal conductivity, k = ?\n\nSolution:\nStep 1: Calculate cross-sectional area\nFor a cube with side L:\nA = L² = 3² = 9 m²\nStep 2: Apply heat conduction formula\nRate of heat transfer:\nQ/t = kA(dT/dx)\nStep 3: Rearrange to find thermal conductivity\nk = Q/(t × A × dT/dx)\nStep 4: Substitute the known values\nk = 288,000/(7200 × 9 × 90)\nk = 288,000/(5,832,000)\nk = 0.0494 W/(m·K)\nk ≈ 4.9 × 10⁻² Wm⁻¹K⁻¹",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 583,
     "question": "Which of these gas laws is equivalent to workdone",
     "option": {
@@ -2032,6 +2272,22 @@
     "examyear": "2024"
   },
   {
+    "id": 589,
+    "question": "In voltage measurement, the potentiometer is preferred to voltmeter because it",
+    "option": {
+      "a": "has a wider range",
+      "b": "consumes negligible current",
+      "c": "is bulky",
+      "d": " responds faster than voltmeter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A potentiometer is preferred over a voltmeter for voltage measurements because it does not draw significant current from the circuit being measured.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 613,
     "question": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is",
     "option": {
@@ -2064,6 +2320,22 @@
     "examyear": "2004"
   },
   {
+    "id": 621,
+    "question": "If the angle between two vectors P and Q is 0°, the vectors are said to",
+    "option": {
+      "a": " intersect at the angle 45°",
+      "b": "intersect at the angle 60°",
+      "c": "be parallel",
+      "d": "be perpendicular"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Vector relationship:\nWhen the angle between two vectors is 0°, both vectors point in the same direction.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 624,
     "question": "I. Jet propelled aircraft\nII. Rocket propulsion\nIII. The recoil of a gun\nIV. A person walking\nWhich of the above is based on Newton's third law of motion",
     "option": {
@@ -2076,6 +2348,22 @@
     "image": "",
     "answer": "b",
     "solution": "Newton's third law: For every action, there is an equal and opposite reaction\n\n\nAll four examples (I, II, III, and IV) are based on Newton's third law of motion.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 625,
+    "question": "In a hydraulic press, a force of 40N is applied on the effort piston of area 0.4m². If the force exerted on the load piston is 400N, the area of the large piston is",
+    "option": {
+      "a": " 4m²",
+      "b": "8m²",
+      "c": "2m²",
+      "d": "1m²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nForce on effort piston, F₁ = 40 N\nArea of effort piston, A₁ = 0.4 m²\nForce on load piston, F₂ = 400 N\nArea of load piston, A₂ = ?\n\nSolution:\nPascal's Principle:\nIn a hydraulic press, pressure is transmitted equally throughout the fluid.\nP₁ = P₂\nFormula:\nF₁/A₁ = F₂/A₂\nStep 1: Substitute values\n40/0.4 = 400/A₂\nStep 2: Cross-multiply\n40 × A₂ = 400 × 0.4\n40 × A₂ = 160\nStep 3: Solve for A₂\nA₂ = 160/40\nA₂ = 4 m²",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -2272,6 +2560,22 @@
     "examyear": "2005"
   },
   {
+    "id": 667,
+    "question": "When the temperature difference between the wet and dry bulbs of a hygrometer is high, this indicates that",
+    "option": {
+      "a": "it is about to rain",
+      "b": "the relative humidity is high",
+      "c": "there is plenty of sunshine",
+      "d": "the relative humidity is low"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Large temperature difference indicates low relative humidity.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 670,
     "question": "The process whereby the molecules of different substances move randomly is called?",
     "option": {
@@ -2350,6 +2654,22 @@
     "solution": "Step 1: Identify force law\nFor gravitational or electrostatic forces between two objects:\nF = k/r²\nWhere:\n\nF = force\nk = constant (depends on masses/charges)\nr = distance between objects\n\nStep 2: Initial force\nF₁ = k/r²\n200 = k/r²\nStep 3: New force when distance is halved\nF₂ = k/(r/2)²\nF₂ = k/(r²/4)\nF₂ = 4k/r²\nStep 4: Find ratio\nF₂/F₁ = [4k/r²] / [k/r²]\nF₂/F₁ = 4\nStep 5: Calculate new force\nF₂ = 4F₁\nF₂ = 4 × 200\nF₂ = 800 N",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 706,
+    "question": "what is likely to happen if the glass of a thermometer expands more upon heating than the liquid inside?",
+    "option": {
+      "a": "the glass will break",
+      "b": "the glass will shrink",
+      "c": "the liquid will rise up in the stem",
+      "d": "the liquid will go down in the stem"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "when the glass of a thermometer expands more on heating than the liquid inside, the liquid level would fall compared with the tube wall",
+    "examtype": "utme",
+    "examyear": "2006"
   },
   {
     "id": 708,
@@ -2864,6 +3184,22 @@
     "examyear": "2008"
   },
   {
+    "id": 833,
+    "question": "zener diode is used for?",
+    "option": {
+      "a": "current amplification",
+      "b": "power amplification",
+      "c": "voltage regulation",
+      "d": "energy conversion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Zener diode is useful in stabilized power supply i.e to keep steady the voltage of a power supply.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 837,
     "question": "The resultant of two forces 12 N and 5 N is 13 N. What is the angle between the two forces?",
     "option": {
@@ -2924,6 +3260,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nMass m = 750 kg\nHeight h = 90 m\nTime t = 1 min = 60 s\nAcceleration due to gravity g = 10 m s⁻²\n\nSolution:\n\nStep 1: Work done against gravity\nWork = m × g × h = 750 kg × 10 m s⁻² × 90 m = 675 000 J\n\nStep 2: Power expended\nPower = Work / time = 675 000 J / 60 s = 11 250 W = 11.25 kW",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 855,
+    "question": "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction. [g = 10 m s⁻²]",
+    "option": {
+      "a": "0.8",
+      "b": "0.4",
+      "c": "1.0",
+      "d": "0.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate normal reaction\nSince the surface is horizontal, normal reaction N = m × g = 80 kg × 10 m s⁻² = 800 N\n\nStep 2: Condition for impending motion\nAssuming the force is just sufficient to overcome static friction, the maximum static frictional force equals the applied force:\nF = μₛ × N\n\nStep 3: Solve for μₛ\nμₛ = F / N = 500 N / 800 N = 0.625\n\nStep 4: Compare with options\n0.625 is closest to 0.6 among the given options.\n\n",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -3052,6 +3404,22 @@
     "image": "",
     "answer": "b",
     "solution": "When a pentavalent (5 outer electron)atom is added to a pure semiconductor, there is an extra electrons which does not take part in the covalent bonding resulting in an n-type semiconductor.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 886,
+    "question": "An aircraft attempts to fly due north at 100 km h⁻¹. If the wind blows against it from east to west at 60 km h⁻¹, its resultant velocity is?",
+    "option": {
+      "a": "117 km h⁻¹, N31°E",
+      "b": "127 km h⁻¹, N31°E",
+      "c": "117 km h⁻¹, N31°W",
+      "d": "127 km h⁻¹, N31°W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nVelocity of aircraft relative to air, vₐ = 100 km h⁻¹ due north\nVelocity of wind, v_w = 60 km h⁻¹ from east to west (i.e., towards west)\n\nSolution:\n\nStep 1: Represent velocities as vectors\nLet north be positive y‑direction and east be positive x‑direction.\nvₐ = (0, 100) km h⁻¹\nv_w = (−60, 0) km h⁻¹ (since it blows towards west)\n\nStep 2: Resultant velocity\nResultant v = vₐ + v_w = (−60, 100) km h⁻¹\n\nStep 3: Calculate magnitude\n|v| = √[(−60)² + (100)²] = √(3600 + 10000) = √13600 ≈ 116.62 km h⁻¹ ≈ 117 km h⁻¹\n\nStep 4: Calculate direction\nThe angle θ from north towards west is given by:\ntan θ = (west component) / (north component) = 60 / 100 = 0.6\nθ = tan⁻¹(0.6) ≈ 31°\n\nSince the westward component is negative x, the direction is N31°W.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -3456,6 +3824,22 @@
     "examyear": "2011"
   },
   {
+    "id": 972,
+    "question": "hree similar cells each of e.m.f 2 v and internal resistance 2Ω are connected in parallel, the total e.m.f and total internal resistance are respectively",
+    "option": {
+      "a": "6 v, 6.0Ω",
+      "b": " 2 v, 0.7Ω",
+      "c": "2 v, 6.0Ω",
+      "d": "6 v, 0.7Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nNumber of identical cells = 3\nE.m.f of each cell (E) = 2V\nInternal resistance of each cell (r) = 2Ω\nCells connected in parallel\nTotal e.m.f and total internal resistance = ?\n\nFor identical cells in parallel:\nTotal e.m.f:\nWhen identical cells are connected in parallel:\nE_total = E = 2V\n(The e.m.f remains the same as individual cells)\nTotal internal resistance:\nFor resistances in parallel:\n1/r_total = 1/r₁ + 1/r₂ + 1/r₃\nSince all three have same resistance (2Ω):\n1/r_total = 1/2 + 1/2 + 1/2\n1/r_total = 3/2\nr_total = 2/3 Ω\nr_total ≈ 0.67Ω ≈ 0.7Ω",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 975,
     "question": "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant?",
     "option": {
@@ -3596,6 +3980,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nFocal length, f = 15 cm (positive for convex lens)\nMagnification, m = +3 (upright image means positive magnification)\nImage is virtual and on the same side as object.\n\nSolution:\n\nStep 1: Sign convention\nUsing Cartesian sign convention (real-is-positive for distances is not used here; we adopt the standard where object distance u is negative for real object, image distance v is negative for virtual image).\nLet the magnitude of object distance be u (positive). Then u = –u (in sign convention).\nSimilarly, v = –v (since image is virtual).\nMagnification m = v / u = (+3). In magnitudes: v / u = 3, so v = 3u.\n\nStep 2: Lens formula\nLens formula: 1/f = 1/v – 1/u.\nSubstituting with signs:\n1/f = 1/(–v) – 1/(–u) = –1/v + 1/u = 1/u – 1/v.\nNow replace v = 3u:\n1/f = 1/u – 1/(3u) = (3 – 1)/(3u) = 2/(3u).\n\nStep 3: Solve for u\nu = (2f) / 3 = (2 × 15) / 3 = 30 / 3 = 10 cm.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 994,
+    "question": "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is",
+    "option": {
+      "a": " 14.4 A",
+      "b": "1.0 A",
+      "c": " 3.2 A",
+      "d": "9.6 A"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774439368/ALOC-Questions/Physics/2011/PHYSICS_2011_Q_45_x3idg8.png",
+    "answer": "b",
+    "solution": "\nFrom the circuit diagram:\n\nThree resistors in parallel: 2Ω, 4Ω, and 12Ω\nVoltage across combination = 12V\nCurrent through 12Ω resistor = ?\n\nKey principle for parallel circuits:\nIn a parallel circuit, the voltage across each resistor is the same (equal to the source voltage).\nVoltage across 12Ω resistor:\nV = 12V (same as battery voltage)\nUsing Ohm's Law for the 12Ω resistor:\nI = V/R\nCalculating current:\nI₁₂Ω = 12/12\nI₁₂Ω = 1.0 A",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -3936,6 +4336,38 @@
     "examyear": "2013"
   },
   {
+    "id": 1086,
+    "question": "An object of weight 8kg on earth is taken to a planet where acceleration due to gravity is one-third of its value on earth. The weight of the object on the planet is",
+    "option": {
+      "a": "48N",
+      "b": "12N",
+      "c": "27N",
+      "d": "36N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass of object, m = 8 kg (interpreted from “weight 8 kg” as mass)\nGravity on planet, gₚ = (1/3) gₑ, where gₑ is gravity on earth.\nTake gₑ = 10 m s⁻² (commonly used for such calculations).\n\nSolution:\n\nStep 1: Weight on earth\nWₑ = m × gₑ = 8 kg × 10 m s⁻² = 80 N\n\nStep 2: Weight on planet\nWₚ = m × gₚ = m × (gₑ/3) = 80 N / 3 ≈ 26.67 N",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1087,
+    "question": "One of the conditions necessary for an object to be in equilibrium when acted upon by a number of parallel forces is that the vector sum of the forces is",
+    "option": {
+      "a": "Average",
+      "b": "Zero",
+      "c": "Negative",
+      "d": "Positive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The vector sum of the forces must be zero.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1090,
     "question": "The energy in the nucleus of atoms produce heat which can be used to generate",
     "option": {
@@ -4092,6 +4524,22 @@
     "image": "",
     "answer": "a",
     "solution": "cornea and lens (Main refractive structures.)",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1130,
+    "question": "When both the object and its image move together in the same direction relative to the observer, then there is",
+    "option": {
+      "a": " no parallax error",
+      "b": "blurred image",
+      "c": "mechanical error",
+      "d": "parallax error"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "no parallax error (No apparent shift if moving together.)",
     "examtype": "utme",
     "examyear": "2025"
   },
