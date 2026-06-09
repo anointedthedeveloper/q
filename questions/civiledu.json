@@ -448,6 +448,22 @@
     "examyear": "2014"
   },
   {
+    "id": 38,
+    "question": "From Ada’s admonition, it could be deduced that taking hard drugs could",
+    "option": {
+      "a": "make people respect the addicts.",
+      "b": "lead to insanity of the addicts",
+      "c": "make people to adore the drug addicts",
+      "d": "ensure courteous behaviour by the addicts"
+    },
+    "section": "Ada:      Wanja, where are you going to in this ungodly hour of the night? <br> \tWanja:   I am heading towards my usual joint to enjoy myself <br>\t \tAda:       Which joint?<br> \tWanja:   XYZ. Night Club, where I take marijuana and alcoholic beverages. I really want to be high \t\t\t      tonight so that when people see me tomorrow, they will fear and respect me.<br> \tAda:     Remember, people who work under the influence of hard drugs and alcoholic beverages are prone to either psychiatric problems or premature death. Softly young man, imbibe good - natured character, you have the world at your feet and a destiny to fulfil. Pray you will not be the architect of your own misfortune.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 39,
     "question": "From the above dialogue, Wanja’s behaviour could be curtailed by",
     "option": {
@@ -1083,6 +1099,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 95,
+    "question": "One of the ways to ensure a free and fair election is to",
+    "option": {
+      "a": "allow parties to campaign on election day",
+      "b": "appoint a politician as the chairman of the electoral commission",
+      "c": "ensure INEC chairman is appointed from a pressure group",
+      "d": "guarantee the security of electoral officers and materials"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2014"
@@ -2064,6 +2096,22 @@
     "examyear": "2012"
   },
   {
+    "id": 169,
+    "question": "The term V. I. O. mean",
+    "option": {
+      "a": "Vehicle inspection officer",
+      "b": "vehicle implementation officer",
+      "c": "vehicle induce operation",
+      "d": "vehicle induction officer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
     "id": 171,
     "question": "Which of the following are not fundamental human right",
     "option": {
@@ -2219,6 +2267,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
+    "id": 184,
+    "question": "The police perform all the following function except",
+    "option": {
+      "a": "public execution of law breaker",
+      "b": "controlling and directing traffic",
+      "c": "protection of life and property",
+      "d": "enforcement of law and orders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "neco",
     "examyear": "2012"
@@ -2752,6 +2816,22 @@
     "examyear": "2013"
   },
   {
+    "id": 228,
+    "question": "It is an offense to drive along the high way",
+    "option": {
+      "a": "without putting on the seat belt",
+      "b": "and talk or smile at the same time",
+      "c": "and make phone calls at the same time",
+      "d": "A and C above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 229,
     "question": "The individual rights would be better protected if enshrined in the ..................",
     "option": {
@@ -2907,6 +2987,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 243,
+    "question": "An organization whose ultimate aim is to gain the control of government and implement its programmes is known as a",
+    "option": {
+      "a": "Trade Union",
+      "b": "Local Government",
+      "c": "Political Party",
+      "d": "Pressure Group"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -3207,6 +3303,22 @@
       "b": "Draw the attention of the fellow passenger and give the money back to him /her",
       "c": "Use part of the money to pay his son’s fess and keep the rest because opportunity comes but once",
       "d": "Leave the purse on the floor, and mind his business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 272,
+    "question": "Public corporations are",
+    "option": {
+      "a": "meant to make profit",
+      "b": "not meant to make profit",
+      "c": "not expected to produce",
+      "d": "established to gather public opinion"
     },
     "section": "",
     "image": "",
@@ -3792,6 +3904,22 @@
     "examyear": "2011"
   },
   {
+    "id": 318,
+    "question": "Which of the following was a former military head of state in Nigeria",
+    "option": {
+      "a": "MKO Abiola",
+      "b": "Goodluck Jonathan",
+      "c": "General Idiagbon",
+      "d": "General Babagida"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 319,
     "question": "The three larges and most influential ethnic groups in Nigeria are",
     "option": {
@@ -3815,6 +3943,22 @@
       "b": "Arise O Compatriots",
       "c": "I pledge to Nigeria my Country",
       "d": "So help me God"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 321,
+    "question": "NUC and NBA stands for ......... and ......... respectively",
+    "option": {
+      "a": "National University Commission and Nigeria Bar Association",
+      "b": "Nigeria Bar Association and National University Commission",
+      "c": "National Union Congress and Nigeria Basketball Authority",
+      "d": "National Utilities Commission and Nigeria Bar Association"
     },
     "section": "",
     "image": "",
@@ -4507,6 +4651,22 @@
     "section": "Oh Motherland, you were a precious country, a beacon of hope and aspiration as well as toga of pride of your citizens at independence. However, today you are bedeviled with evil, engulfed in darkness and to say the obvious, at the edge of total moral collapse. Corruption, fraud, deception and dishonesty are prevalent; drug peddlers are having a field day. In schools and colleges, radicalism, prostitution, cultism, examination malpractice among other social vices are order of the day.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
+    "id": 380,
+    "question": "In spite of the state of affairs reflected in the above monologue, the citizens can make the country better by being committed to",
+    "option": {
+      "a": "promoting inter-communal relations",
+      "b": "strengthening capacity building",
+      "c": "championing moral values",
+      "d": "encouraging interpersonal relations"
+    },
+    "section": "Oh Motherland, you were a precious country, a beacon of hope and aspiration as well as toga of pride of your citizens at independence. However, today you are bedeviled with evil, engulfed in darkness and to say the obvious, at the edge of total moral collapse. Corruption, fraud, deception and dishonesty are prevalent; drug peddlers are having a field day. In schools and colleges, radicalism, prostitution, cultism, examination malpractice among other social vices are order of the day.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2016"
@@ -5211,6 +5371,22 @@
     "section": "<strong>Zubar: </strong> Today is the day for gubernatorial elections, Ade what are you waiting for? Let us go and cast our votes for candidates of our choice<br><br> \t<strong>Ade: </strong> I have no interest in an election which not yield any dividend of democracy. Our political elite are only concerned about their interest when they get to the position \tof authority. For crying out loud, I have made up my mind that l will not vote again. <br><br> \t<strong>Zubar: </strong> Haba! Ade, don’t you remember Abraham Lincoln’s words that ‘all men are not just, all men are not true. But ...... for every scoundrel there is a hero, that for every selfish politician, there is a dedicated leader!’ Come on, go and cast your vote so that we can choose the right person for the position and change the political, economic and social directions of our great state.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 435,
+    "question": "It could be inferred from the dialogue that failure to vote in an election would",
+    "option": {
+      "a": "guarantee citizens’ rights",
+      "b": "encourage the emergence of responsive government",
+      "c": "promote accountability in governance",
+      "d": "perpetuate irresponsible leadership"
+    },
+    "section": "<strong>Zubar: </strong> Today is the day for gubernatorial elections, Ade what are you waiting for? Let us go and cast our votes for candidates of our choice<br><br> \t<strong>Ade: </strong> I have no interest in an election which not yield any dividend of democracy. Our political elite are only concerned about their interest when they get to the position \tof authority. For crying out loud, I have made up my mind that l will not vote again. <br><br> \t<strong>Zubar: </strong> Haba! Ade, don’t you remember Abraham Lincoln’s words that ‘all men are not just, all men are not true. But ...... for every scoundrel there is a hero, that for every selfish politician, there is a dedicated leader!’ Come on, go and cast your vote so that we can choose the right person for the position and change the political, economic and social directions of our great state.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
