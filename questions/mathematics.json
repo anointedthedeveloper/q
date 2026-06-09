@@ -496,6 +496,22 @@
     "examyear": "2008"
   },
   {
+    "id": 40,
+    "question": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. 13. How many learn both languages? ",
+    "option": {
+      "a": "60",
+      "b": "45",
+      "c": "15",
+      "d": "120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 42,
     "question": "If the distance covered by a body in time t seconds is s = t2 - 6t2  - 5t, what is its initial velocity?  ",
     "option": {
@@ -908,6 +924,22 @@
     "image": "",
     "answer": "b",
     "solution": "(2.813×10<sup>(−3)</sup>)×1.063)/(5.637×10<sup>(−2)</sup> ) = (0.002813×1.063)/0.05637 ≊(0.0028×1.1)/0.056=0.055\n\n\n\n",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 77,
+    "question": "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for N150,000. How much does he need to deposit?\n",
+    "option": {
+      "a": "N112,000.50",
+      "b": "N96,000.00",
+      "c": " N85,714.28",
+      "d": "N76,800.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Amount A = P(1+r)n;\nA = N150,000, r = 25%, n = 3.\n150,000 = P(1+0.25)3 = P(1.25)3\nP = 150,000/1.253 =N76,800.00\n",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -2220,6 +2252,22 @@
     "image": "",
     "answer": "d",
     "solution": "y=x<sup>2</sup>−1/x = x2− x<sup>-1</sup>\n \ndy/dx = 2x − ( −x<sup>-2</sup>)\n= 2x + 1/x<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 184,
+    "question": "Solve for x in the equation x<sup>3</sup>\n - 5x<sup>2</sup>\n - x + 5 = 0",
+    "option": {
+      "a": "1, - 1, or 5",
+      "b": "1, 1, or -5",
+      "c": "-1, 1, or -5",
+      "d": "1, 1, or 5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x<sup>3</sup>\n - 5x<sup>2</sup>\n - x + 5 = 0.\n\nx<sup>2</sup> (x−5)−1(x−5)=0\n(x<sup>2</sup> −1)(x−5)=0⟹(x−1)(x+1)(x−5 )= 0\n∴ x = 1, −1 ,5",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -5916,6 +5964,22 @@
     "image": "",
     "answer": "d",
     "solution": "p ∝ 1/q\np = k/q\nK = q<sup>2</sup>p= 4<sup>2</sup>(8)\n∴p = 128/q\n32 = 128/q\nq<sup>2</sup> = 128/32\nq<sup>2</sup> = 4\nq = √4 = ± 2",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 488,
+    "question": "Find the range of values of x which satisfy the inequalities 4x - 7 ≤ 3x and 3x - 4 ≤ 4x",
+    "option": {
+      "a": "-4 ≤ x ≤ 7",
+      "b": " -7 ≤ x ≤ 4",
+      "c": " x ≥ -7",
+      "d": "-7 ≤ x ≤ 6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "4X - 7 ≤ 3X and 3X - 4 ≤ 4X\n4X - 3X ≤ 7 and 3X - 4X ≤ 4\nX ≤ 7 and -X ≤ 4 = X ≥ -4\nRange -4 ≤ x ≤ 7",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -10732,6 +10796,22 @@
     "image": "",
     "answer": "d",
     "solution": "Pr(both John and James passed)\n\n= 3/4 x 3/5 = 9/20\nPr(john and james failed)= 1-Pr(john and james passed)\n= 1 – 920\n= 11/20",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 931,
+    "question": "An arc of a circle of radius 14cm subtends angle 300° at the centre. Find the perimeter of the sector formed by the arc (take π = 22/7)",
+    "option": {
+      "a": "14.67 cm",
+      "b": "73.33 cm",
+      "c": " 101.33 cm",
+      "d": "513.33 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Length of the arc = θ/360 × 2πr\n= 300/360 × 2 × 22/7 × 14\n= 220/3\n= 73.33 cm\n\nPerimeter of the sector = Length of the arc + 2r\n\n= 73.33 + 2(14)\n\n= 101.33 cm",
     "examtype": "utme",
     "examyear": "2018"
   },
