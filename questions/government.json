@@ -1,5 +1,21 @@
 [
   {
+    "id": 6,
+    "question": "The British took over Nigeria through ",
+    "option": {
+      "a": "negotiation ",
+      "b": "bargaining  ",
+      "c": "war ",
+      "d": "the sea"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 7,
     "question": "Politics is an act for ",
     "option": {
@@ -336,6 +352,22 @@
     "examyear": "2010"
   },
   {
+    "id": 113,
+    "question": "A special election organized to decide on a political issue is known as ",
+    "option": {
+      "a": "plebiscite ",
+      "b": "by-election  ",
+      "c": "general election ",
+      "d": "primary election."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 116,
     "question": "Which of the these was the main organ of the defunct OAU? ",
     "option": {
@@ -350,6 +382,38 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
+  },
+  {
+    "id": 121,
+    "question": "According to Karl Marx, the mode of production that precedes capitalism is ",
+    "option": {
+      "a": "mercantilism ",
+      "b": "feudalism ",
+      "c": "socialism ",
+      "d": "communalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 131,
+    "question": "Bicameral legislature exists: ",
+    "option": {
+      "a": "where cameramen are allowed to cover the proceedings of the legislature ",
+      "b": "to prevent the concentration of power in one legislative house ",
+      "c": "to provide jobs for more politicians ",
+      "d": "to ensure that just laws are passed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
   },
   {
     "id": 142,
@@ -448,6 +512,38 @@
     "examyear": "2013"
   },
   {
+    "id": 180,
+    "question": "In politics, power is all of the following except  ",
+    "option": {
+      "a": "capacity to affect the actions of others  ",
+      "b": "Ability to make people do things they otherwise would not do   ",
+      "c": "An object   ",
+      "d": "it is part of a relationship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 181,
+    "question": "Political activity at the diplomatic level is called  ",
+    "option": {
+      "a": "International relations",
+      "b": "International law",
+      "c": "International politics",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 182,
     "question": "Which of these is not an instrument of foreign policy",
     "option": {
@@ -496,6 +592,22 @@
     "examyear": "2013"
   },
   {
+    "id": 196,
+    "question": "An elected legislator in a presidential system can lose his seat through  ",
+    "option": {
+      "a": "recall  ",
+      "b": "cross-carpeting",
+      "c": "a vote of no confidence",
+      "d": "impeachment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 197,
     "question": "Which of the following modern principles of democracy is found in the Yoruba traditional political system  ",
     "option": {
@@ -526,6 +638,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
+  },
+  {
+    "id": 206,
+    "question": "A federal state is always expensive to run because",
+    "option": {
+      "a": "every parliamentarian wants to become rich",
+      "b": "government departments are duplicated",
+      "c": "judges are highly paid from the consolidated fund.",
+      "d": "maintenance of the army involves high expenditure."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
   },
   {
     "id": 227,
@@ -606,6 +734,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
+  },
+  {
+    "id": 254,
+    "question": "The term ‘collective responsibility’ is an indispensable feature of ___ system of government.",
+    "option": {
+      "a": "diarchy",
+      "b": "federal",
+      "c": "parliamentary",
+      "d": "presidential"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
   },
   {
     "id": 275,
@@ -800,6 +944,22 @@
     "examyear": "1999"
   },
   {
+    "id": 319,
+    "question": "The most important function of the exclusive organ of government is to",
+    "option": {
+      "a": "formulate policies",
+      "b": "give assent to bills",
+      "c": "control foreign policies",
+      "d": "enforce laws."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 321,
     "question": "Which of the following best describes the role of the civil service?",
     "option": {
@@ -827,6 +987,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 333,
+    "question": "The British Government revoked the Character of the Royal Niger Company and took over the administration of Nigeria in",
+    "option": {
+      "a": "1861",
+      "b": "1861",
+      "c": "1900",
+      "d": "1914"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -951,6 +1127,22 @@
       "b": "a nominal president",
       "c": "a party leader",
       "d": "a nominee of the whole country"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 399,
+    "question": "The executive checks the excesses of the legislature through",
+    "option": {
+      "a": "assent to bills",
+      "b": "the use of veto power",
+      "c": "the ratification of treaties",
+      "d": "issuance of orders"
     },
     "section": "",
     "image": "",
@@ -1552,6 +1744,22 @@
     "examyear": "2014"
   },
   {
+    "id": 573,
+    "question": "The body that is responsible for the appointment, discipline, promotion and dismissal of civil servants is the",
+    "option": {
+      "a": "Ministry of Establishment",
+      "b": "Bureau for Public Service Reforms",
+      "c": "Civil Service Commission",
+      "d": "Ministry of Labour and Productivity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 583,
     "question": "The President of Nigeria was indirectly elected through secret ballot for a period of five years by the senate in",
     "option": {
@@ -1792,6 +2000,22 @@
     "examyear": "1988"
   },
   {
+    "id": 652,
+    "question": "Military Governors were members of the Supreme Military Council under the",
+    "option": {
+      "a": "Murtala Mohammed Regime",
+      "b": "Yakubu Gowon Regime",
+      "c": "Ibrahim Babangida Regime",
+      "d": "Olusegun Obasanjo Regime"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 659,
     "question": "In the federation, the purpose of enumerating the powers of the central government is to",
     "option": {
@@ -1998,6 +2222,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
+  },
+  {
+    "id": 726,
+    "question": "Which of the following is a strategy of foreign policy implementation?",
+    "option": {
+      "a": " Cultural integration",
+      "b": " Democratic elections",
+      "c": " Political representation",
+      "d": "Propaganda"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Propaganda is often used as a tool to influence foreign policy implementation.",
+    "examtype": "UTME",
+    "examyear": "2017"
   },
   {
     "id": 730,
@@ -2320,6 +2560,22 @@
     "examyear": "2018"
   },
   {
+    "id": 825,
+    "question": "That type of sovereignty that thrives on legitimacy is__________",
+    "option": {
+      "a": " external sovereignty",
+      "b": "vested on any form of government",
+      "c": "legal sovereignty",
+      "d": "within the people's mandate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Legal sovereignty expresses his will in legal terms. This means it can only declare according to law the will of the state.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 826,
     "question": "The right of a citizen to seek redress means the right to________",
     "option": {
@@ -2348,6 +2604,22 @@
     "image": "",
     "answer": "b",
     "solution": "Aristocracy being a rule by the Noble is believed to be a ruling of the best class of persons. Timocracy on the other hand, is believed by Aristotle to be a government strictly by property-owners with emphasis on honour and proprietary interest holdings.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 830,
+    "question": "The concept of the independence of the judiciary means that________",
+    "option": {
+      "a": "The judiciary must not attempt to meddle into legislative and executive affairs",
+      "b": "The powers of the courts can not be subjected of executive re-assessment",
+      "c": "The sanctity of the office of the Judges and Justices must be preserved without prejudice",
+      "d": "All means of legislative or executive influence on judicial decision making must be disabled"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The independence of the judiciary means that the courts must be free from interference by the executive and legislative arms of government. This ensures that judges make decisions based on law and justice, not political pressure or external influence.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -2592,6 +2864,22 @@
     "examyear": "2020"
   },
   {
+    "id": 915,
+    "question": "Who re-organised the Nigeria's four regions into twelve states in May 1967?",
+    "option": {
+      "a": "General Yakubu Gowon",
+      "b": "Lieutenant-Colonel Ojukwu",
+      "c": "Philip Effiong",
+      "d": "Abubakar Tafawa Balewa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "On May 27, 1967, General Yakubu Gowon, who was Nigeria’s Head of State at the time, announced the creation of twelve states from the existing four regions (Northern, Western, Eastern, and Mid-Western regions). This was done to reduce ethnic tensions and prevent the secession of the Eastern Region (which later declared itself the Republic of Biafra, leading to the Nigerian Civil War).",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 916,
     "question": "Government by the wealthy is known as _________",
     "option": {
@@ -2620,6 +2908,22 @@
     "image": "",
     "answer": "b",
     "solution": "Political parties aim at contesting and winning elections and controlling government while pressure groups aim at pursuing the interest of their members and influencing the decisions of the government.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 943,
+    "question": "In the legislative process, a bill is a ....",
+    "option": {
+      "a": " Proposal before the legislature",
+      "b": "Law passed by the legislature",
+      "c": "Motion accepted for debate",
+      "d": "Motion rejected after debate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A bill is proposed legislation under consideration by a legislature. Once a bill has been enacted into law, it is called an act of the legislature, or a statute. Bills are introduced in the legislature and are discussed, debated and voted upon.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2752,6 +3056,22 @@
     "examyear": "2022"
   },
   {
+    "id": 995,
+    "question": "Which of the following is not a source of public opinion?",
+    "option": {
+      "a": "Opinion polls",
+      "b": "Academic Journals",
+      "c": " Social media",
+      "d": "political parties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Academic Journals are not a source of public opinion. They are scholarly publications that focus on academic or scientific research, and while they may contain articles that analyze public opinion, they are not themselves a source of public opinion. Public opinion is typically gauged through methods like opinion polls, social media analysis, and the platforms of political parties.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 997,
     "question": "The policy of 'indigenization' was introduced under the regime of?",
     "option": {
@@ -2828,6 +3148,22 @@
     "image": "",
     "answer": "a",
     "solution": "Ivory was a significant trade commodity in the pre-colonial Kingdom of Benin. The Kingdom of Benin, located in modern-day Nigeria, was known for its ivory carvings, which were traded with European merchants.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1023,
+    "question": "Which political party was known for its socialist ideology and populist policies in the 1980s?",
+    "option": {
+      "a": "People's Redemption party",
+      "b": "All Nigeria's People's Party",
+      "c": " National Party of Nigeria",
+      "d": "Nigerian National Democratic Party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The People's Redemption Party was known for its socialist ideology and populist policies in the 1980s. The party was founded by Mallam Aminu Kano and was known for its commitment to representing the interests of the common people.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -2928,6 +3264,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1060,
+    "question": "Shehu Shagari won the 1979 Presidential Election under ",
+    "option": {
+      "a": " UPN",
+      "b": " NPN",
+      "c": ". NPP",
+      "d": " GNPP"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Shehu Shagari won the 1979 Presidential Election under the umbrella of the National Party of Nigeria (NPN). It also who the 1983 Presidential Election which did not take effect because of the transition to military rule. \n\n ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1063,
     "question": "The power of prerogative of mercy rests with the ",
     "option": {
@@ -2992,6 +3344,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1110,
+    "question": "Public opinion is a view that is",
+    "option": {
+      "a": "held by the majority",
+      "b": "active in the public realm",
+      "c": "widely publicizeds",
+      "d": "no longer a secret."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Public opinion is a view that is held by the majority. As far as public opinion is concerned, the view must be held and expressed by the majority of the society.\n\nAccording to G. A. I. Ofoegbu (1999), public opinion is the believes, values and attitudes which are commonly held and expressed by majority of the people on a given issue.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1111,
     "question": "The political neutrality of civil servants implies that they",
     "option": {
@@ -3036,6 +3404,38 @@
     "image": "",
     "answer": "a",
     "solution": "The central legislature of Nigeria became bicameral in 1960.  Macpherson Constitution of 1951 created two chambers of regional legislatures known as the House of Chiefs and the House of Assembly in the Northern and Western regions. Coming then to the independence constitution of 1960, bicameral legislatures were adopted in both the federal and regional government including the Eastern region.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1121,
+    "question": "Under the 1963 constitution, items not listed in the exclusive and concurrent list were within the exclusive competence of the",
+    "option": {
+      "a": "Executive",
+      "b": "federal parliament",
+      "c": "regional legislaturess",
+      "d": "judiciary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Under the 1963 constitution, items not listed in the exclusive and concurrent list were within the exclusive competence of the regional legislatures.Sir Oliver Lyttleton constitution of 1954 classified government powers into three:\n1. Exclusive powers - matters where only the federal or central government can legislate only.\n2. Concurrent powers - matters where both the federal government and regional (state) can legislate and\nResidual 0powers reserved for the regional legislature only.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1126,
+    "question": "The Nigerian Youth Movement collapsed as the result of",
+    "option": {
+      "a": "its failure to win election",
+      "b": "shortage of funds to run its affairs",
+      "c": "the harassment of its leadership by government.",
+      "d": "the breakup of its leadership."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Nigerian Youth Movement collapsed as the result of the breakup of its leadership. The movement was in no distant time torn apart by leadership crisis. The crisis split the movement into factions. the two principal contestant were Ernest Ikoli and S.A Akorisanya",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -3148,6 +3548,22 @@
     "image": "",
     "answer": "d",
     "solution": "The principle of checks and balances reinforces separation of powers in order to prevent the emergence of dictatorship.\n\nAnyaele (1995) maintains that the principle of checks and balances prevents the excessive use of powers by the organs of government and that it also prevents the emergence of a dictator.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1166,
+    "question": "The fees collected by local governments at motor parks represents",
+    "option": {
+      "a": "levies",
+      "b": "fines",
+      "c": " income tax",
+      "d": "user charge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fees collected by local governments at motor parks represents levies",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -3932,6 +4348,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Consciousness of a common identity of a people is called nationalism. Nationalism is then defined as the strong emotional awareness of belonging to a nation/state which leads to the struggle against foreign rule of domination.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1437,
+    "question": "Citizenship of a state by descent requires that",
+    "option": {
+      "a": "one is born and bred in the state",
+      "b": "one's mother was born in the state",
+      "c": "one's grand parents were citizens of the state",
+      "d": "one is domiciled in that state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Citizenship of a state by decent requires that one's grandparents were citizens of that state. A child born to a Nigerian couple in the United States of America is a Nigerian citizen by descent because his parents are Nigerians.",
     "examtype": "utme",
     "examyear": "2009"
   },
