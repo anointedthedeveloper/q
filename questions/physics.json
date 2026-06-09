@@ -320,6 +320,22 @@
     "examyear": "2007"
   },
   {
+    "id": 24,
+    "question": "A body is projected from the earth’s surface with the hope of letting it escape from the earth gravitational field. What is the minimum escape velocity?  [Earth’s radius = 6.4 x 103km, g = 10 ms-2]",
+    "option": {
+      "a": "11.3kms-1 ",
+      "b": "13.3kms-1 ",
+      "c": "12.3kms-1 ",
+      "d": "14.3kms-1 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 25,
     "question": "A uniform rod PQ of mass 2kg and length of 1m is pivoted at the end P, if a load of 14N is placed at the centre, find the force that should be applied vertically upwards at Q to maintain the rod in equilibrium ",
     "option": {
@@ -1152,6 +1168,22 @@
     "examyear": "2010"
   },
   {
+    "id": 91,
+    "question": "In the force of gravity on an object of mass m, the gravitational field strength, g, is given by the following equation. ",
+    "option": {
+      "a": "g = √MF ",
+      "b": "g = MF ",
+      "c": "g = M√F ",
+      "d": "g = F/M."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 92,
     "question": " A body of mass m slides down an inclined plane with a constant velocity. If the angle of the incline is Ø, the coefficient of kinetic friction between the body and the plane is  ",
     "option": {
@@ -1419,6 +1451,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 115,
+    "question": "A uniform meter rule AB has a mass 15g. A 30g mass is suspended at the 10.0cm mark, and another 5g mass is suspended at the 65.0cm mark. Calculate the position of the fulcrum that will keep the meter rule balanced horizontally ",
+    "option": {
+      "a": "50.0cm ",
+      "b": "32.0cm ",
+      "c": "27.5cm ",
+      "d": "17.9cm "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1788,6 +1836,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nMass of first planet (m₁) = 10²⁴ kg\nMass of second planet (m₂) = 10²⁷ kg\nDistance between planets (r) = 10²⁰ meters\nGravitational constant (G) = 6.67 × 10⁻¹¹ Nm²/kg²\n\nFormula for Gravitational Force:\nF = G(m₁m₂)/r²\nSubstituting values:\nF = (6.67 × 10⁻¹¹ × 10²⁴ × 10²⁷)/(10²⁰)²\nF = (6.67 × 10⁻¹¹ × 10⁵¹)/(10⁴⁰)\nF = (6.67 × 10⁴⁰)/(10⁴⁰)\nF = 6.67 N\nAnswer: A. 6.67N",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 147,
+    "question": "Electrons were discovered by",
+    "option": {
+      "a": "James Chadwick B.",
+      "b": "J.J Thompson",
+      "c": "Sir Isaac Newton",
+      "d": "Charles Newton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "J.J. Thompson discovered ELECTRONS",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2668,6 +2732,22 @@
     "image": "",
     "answer": "c",
     "solution": "Color mixing (light - additive):\nMagenta = Red + Blue\nGreen = Green\nWhen mixed:\nMagenta + Green = (Red + Blue) + Green = Red + Blue + Green\nRed + Blue + Green = White light\nNote: This applies to mixing colored lights (additive color mixing), not paints (subtractive mixing).\n\nWhen magenta and green light are mixed together, they produce white light.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 214,
+    "question": "Which of the following instruments can be used to measure current in an a.c circuit?",
+    "option": {
+      "a": "Hot wire ammeter",
+      "b": "Moving coil ammeter",
+      "c": "Tangent galvanometer",
+      "d": "Moving coil galvanometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A hot wire ammeter can measure AC current because it works on the heating effect, which is independent of current direction.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -7072,6 +7152,22 @@
     "examyear": "2024"
   },
   {
+    "id": 573,
+    "question": "A sonometer's fundamental note is 50Hz, what is the new frequency when the tension is four times the original?",
+    "option": {
+      "a": "25Hz",
+      "b": "100Hz",
+      "c": "200Hz",
+      "d": "250Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial frequency, f₁ = 50 Hz\nNew tension, T₂ = 4T₁\nNew frequency, f₂ = ?\n\nSolution:\nStep 1: Recall frequency formula for a sonometer\nFor a vibrating string:\nf = (1/2L)√(T/μ)\nWhere:\n\nL = length of string\nT = tension\nμ = mass per unit length\n\nStep 2: Establish relationship between frequency and tension\nFrom the formula:\nf ∝ √T (when L and μ are constant)\nTherefore:\nf₁/f₂ = √(T₁/T₂)\nStep 3: Set up the ratio\nf₂/f₁ = √(T₂/T₁)\nf₂/50 = √(4T₁/T₁)\nf₂/50 = √4\nf₂/50 = 2\nStep 4: Calculate new frequency\nf₂ = 50 × 2\nf₂ = 100 Hz",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 574,
     "question": "Which of the following is not a part of model rocket?",
     "option": {
@@ -10800,6 +10896,22 @@
     "examyear": "2009"
   },
   {
+    "id": 874,
+    "question": "The ability of the human eye to focus object on the retina is referred to as the power of?",
+    "option": {
+      "a": "interference",
+      "b": "diffraction",
+      "c": "accomodation",
+      "d": "superposition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Accommodation is the adjustment of the optics of the eye to keep an object in focus on the retina as its distance from the eye varies. ",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 875,
     "question": "Which of the following is a secondary colour",
     "option": {
@@ -11260,6 +11372,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nNumber of moles (n) = 1 mol\nVolume (V) = 10⁻² m³ = 0.01 m³\nTemperature (T) = 27°C = 27 + 273 = 300 K\nMolar gas constant (R) = 8.3 J mol⁻¹ K⁻¹\nPressure (P) = ?\n\nUsing ideal gas equation:\nPV = nRT\nRearranging for pressure:\nP = nRT/V\nSubstituting values:\nP = (1 × 8.3 × 300)/0.01\nP = 2490/0.01\nP = 249,000 N/m²\nP = 2.49 × 10⁵ Nm⁻²",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 916,
+    "question": "Which of the following has no effect on radiation?",
+    "option": {
+      "a": "nature of surface",
+      "b": "density",
+      "c": " surface area",
+      "d": "temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Radiation depends on nature of the surface area and temperature. It is independent of density.",
     "examtype": "utme",
     "examyear": "2010"
   },
