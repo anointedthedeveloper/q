@@ -176,6 +176,22 @@
     "examyear": "2010"
   },
   {
+    "id": 13,
+    "question": "In a balance sheet, bank overdraft is ",
+    "option": {
+      "a": "Current Asset ",
+      "b": "Fixed asset ",
+      "c": "long term liability ",
+      "d": "Current Liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 14,
     "question": "Money set aside for the saving of business overheads    is    referred    to   ",
     "option": {
@@ -832,6 +848,22 @@
     "examyear": "2012"
   },
   {
+    "id": 65,
+    "question": "MORADE had total assets of N760,000, capital stock of N150,000 and retained earnings of N215,000. What was Morade's debt-to-equity ratio? ",
+    "option": {
+      "a": "2.63",
+      "b": "1.08",
+      "c": "0.52",
+      "d": "0.48"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 67,
     "question": "Which of these items would be accounted for as an expense? ",
     "option": {
@@ -1255,6 +1287,22 @@
       "b": "two-column cash book.",
       "c": "analytical cash book.",
       "d": "petty cash book."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 101,
+    "question": "The minimum number of persons required to form a partnership business is",
+    "option": {
+      "a": "2.",
+      "b": "3.",
+      "c": "5",
+      "d": "10."
     },
     "section": "",
     "image": "",
@@ -2752,6 +2800,22 @@
     "examyear": "1997"
   },
   {
+    "id": 203,
+    "question": "The amount of a company’s profit given to a shareholder is known as",
+    "option": {
+      "a": "premium",
+      "b": "dividend",
+      "c": "interest",
+      "d": "allotment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 204,
     "question": "Which of the following best describes the path of a transaction?",
     "option": {
@@ -3735,6 +3799,22 @@
       "b": "Royalty",
       "c": "Factory rent",
       "d": "Factory electricity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 276,
+    "question": "The concept which establishes the rule for the periodic recognition of revenue as soon as it is capable of objective measurement is",
+    "option": {
+      "a": "going concern.",
+      "b": "entity.",
+      "c": "consistency.",
+      "d": "realization."
     },
     "section": "",
     "image": "",
@@ -12000,6 +12080,22 @@
     "examyear": "2023"
   },
   {
+    "id": 915,
+    "question": "Discount allowed is enjoyed by",
+    "option": {
+      "a": "managers",
+      "b": "customers",
+      "c": " staff of the company",
+      "d": "suppliers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Discount allowed is allowed by a firm to its customers when they pay their accounts quickly or promptly.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 916,
     "question": "In manufacturing, depreciation of office machine is charged to",
     "option": {
@@ -12044,6 +12140,22 @@
     "image": "",
     "answer": "b",
     "solution": "One of the advantages of FIFO method is that the stock received first will be issued out first thereby reducing the problem of deterioration or obsolesence and also items are issued in order of receipt therefore, it is realistic.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 920,
+    "question": "When expenses are paid on behalf of the venture, the accounting entries is to debit",
+    "option": {
+      "a": "expenses account and credit bank account",
+      "b": " bank account and credit joint venture account",
+      "c": "joint venture account and credit bank account",
+      "d": "joint venture account and credit expenses account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Expenditure paid on bahalf of joint venture\nAccountint entries:\nDr: Joint venture account\nCr: Bank account",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -12364,6 +12476,22 @@
     "image": "",
     "answer": "b",
     "solution": "The nominal ledger, also sometimes called the general ledger, is the main book of accounts used in a double- entry bookkeeping system. It records all the financial transactions of a business during an accounting period. These transactions are categorized into different types of accounts.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 942,
+    "question": "Shares issued free of charge to existing shareholders based on their previous holdings is __ issue",
+    "option": {
+      "a": "accrued",
+      "b": "premium",
+      "c": "floating",
+      "d": "bonus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A bonus issue is a way for a company to reward existing shareholders by distributing additional shares to them at no cost. The number of bonus shares received by each shareholder is typically proportional to their existing shareholding.",
     "examtype": "utme",
     "examyear": "2024"
   },
