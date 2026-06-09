@@ -3488,6 +3488,22 @@
     "examyear": "2016"
   },
   {
+    "id": 368,
+    "question": "France introduced the policy of assimilation in her colonies primarily to",
+    "option": {
+      "a": "teach them the art of leadership",
+      "b": "give them a sound education",
+      "c": "change their way of life",
+      "d": "discourage them from ritual killings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 369,
     "question": "The first Governor-General of Nigeria was",
     "option": {
@@ -4208,6 +4224,22 @@
     "examyear": "2010"
   },
   {
+    "id": 443,
+    "question": "Parastatals are established to",
+    "option": {
+      "a": "expand business transactions",
+      "b": "maximize government profits",
+      "c": "render social services",
+      "d": "enhance entrepreneurial skills"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 444,
     "question": "The General Purpose Committee of the local government is the",
     "option": {
@@ -4491,6 +4523,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 473,
+    "question": "The commission charged with the conduct of federal elections in Nigeria is",
+    "option": {
+      "a": "NEC",
+      "b": "FEDECO",
+      "c": "INEC",
+      "d": "NECON."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -8672,6 +8720,22 @@
     "examyear": "2020"
   },
   {
+    "id": 894,
+    "question": "Within the United Nations, the vote power is exercised in __________",
+    "option": {
+      "a": "UNESCO",
+      "b": "WHO",
+      "c": "the General Assembly",
+      "d": "the Security Council"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Within the United Nations, voting power is exercised in the Security Council. The Security Council is responsible for maintaining international peace and security, and its decisions require the affirmative votes of at least nine of its fifteen members, including the concurring votes of all five permanent members (the United States, the United Kingdom, France, Russia, and China) to pass certain resolutions.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 898,
     "question": "Warrant Chiefs were appointed to __________",
     "option": {
@@ -9136,6 +9200,22 @@
     "examyear": "2021"
   },
   {
+    "id": 947,
+    "question": "The Native Authority System was most effective and successful in .......",
+    "option": {
+      "a": " Mid-western Nigeria",
+      "b": "Western Nigeria",
+      "c": "Northern Nigeria",
+      "d": "Eastern Nigeria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Native Authority system was most effective and successful in Northern Nigeria. That is why the question of indirect rule succeeded more in northern parts of Nigeria.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 948,
     "question": "The major problem of the ECOWAS is lack of _______",
     "option": {
@@ -9308,6 +9388,22 @@
     "image": "",
     "answer": "d",
     "solution": "The sole aim of Privatization is profit-making. There is often a reduction of costs or spending and  mass retrenchment of labour in response to economic difficulty.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 974,
+    "question": "One of these is a major problem of the Nigerian civil service",
+    "option": {
+      "a": "inadequate personnel",
+      "b": " political influence",
+      "c": "corruption",
+      "d": "lack of effective leadership"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Corruption is widely recognized as one of the major problems of the Nigerian civil service. It manifests in various forms such as embezzlement, bribery, nepotism, and mismanagement of public funds, which significantly hinder efficiency and service delivery.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -10252,6 +10348,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Nigerian Civil War took place between 1967-70 under the regime of General Yakubu Gowon (1966-75). It was a war between Eastern Nigeria (Biafra) and Nigeria. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1068,
+    "question": "The rule of law is an essential ingredient of ",
+    "option": {
+      "a": " democracy",
+      "b": " democracy",
+      "c": "monarchy",
+      "d": " autocracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The rule of law is an essential ingredient of democracy. Considering that democracy is a government of the people, by the people and for the people, it is imperative that every person within this system is treated equally and fairly. This equality is assured when the rule of law is practiced (the rule that states that no body is above the law/ every one is equal before the law). ",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -11648,6 +11760,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1202,
+    "question": "The best form of government for a heterogeneous society is a",
+    "option": {
+      "a": "quasi-federal system",
+      "b": "federal system",
+      "c": "confederal system",
+      "d": "unitary system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The best form of government for a heterogeneous society is a federal system.\n\nIt should also be noted that heterogeneity, different languages, customs and levels of political economic and social developments among the tribes play a prominent role in forcing confederal system of government on the people.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1206,
     "question": "Constitutional disputes in states with written constitutions are resolved by",
     "option": {
@@ -12524,6 +12652,22 @@
     "image": "",
     "answer": "b",
     "solution": "A distinctive feature of the Richards Constitution was its provision for a Legislative Council for the whole of Nigeria.\n\nNorthern and Southern Niger were brought together under one Legislative Council. That is, the same laws were made for the whole country by the same legislature.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1312,
+    "question": "The failure of the assimilation policy necessitated of the introduction of",
+    "option": {
+      "a": "direct rule",
+      "b": "indirect rule",
+      "c": "paternalism",
+      "d": "association"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The failure of the assimilation policy necessitated the introduction of association. The policy of association and assimilation were used by France to administer her colonies.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -14204,6 +14348,22 @@
     "image": "",
     "answer": "b",
     "solution": "One of the principal objectives of the Organisation of the Petroleum Exporting Countries (OPEC) is to harmonise and coordinate the oil production policies of its member countries. This coordination helps to stabilise oil markets and ensure fair and stable prices for petroleum producers while securing a reliable supply for consumers. While OPEC does have some influence over oil prices in the international market (option A), its primary focus is on aligning the policies of its member states to achieve mutual benefits rather than directly setting prices",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1484,
+    "question": "A constitution that requires a plebiscite or a referendum to be amended is",
+    "option": {
+      "a": "written",
+      "b": "flexible",
+      "c": "rigid",
+      "d": "unwritten"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A rigid constitution requires a special procedure (e.g., a plebiscite, referendum, or supermajority legislative vote) for amendment, distinguishing it from ordinary laws. This design protects fundamental principles from frequent or hasty changes.",
     "examtype": "utme",
     "examyear": "2015"
   },
