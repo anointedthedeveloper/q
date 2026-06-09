@@ -2240,6 +2240,22 @@
     "examyear": "2017"
   },
   {
+    "id": 435,
+    "question": "The diagram above. Y is",
+    "option": {
+      "a": "fused CaO",
+      "b": "H₂O",
+      "c": "NaOH",
+      "d": "Concentrated H₂SO₄"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777637355/ALOC-Questions/Chemistry/UTME/2017/Chemistry_2017_Q30-31_gkt7yx.png",
+    "answer": "d",
+    "solution": "In the diagram, Y is the conical flask containing the drying agent through which the gas passes before collection. Concentrated H₂SO₄ is the standard drying agent used to dry acidic or neutral gases in laboratory gas preparation. Z is the thistle funnel for adding acid, and X is the water trough for collection by downward displacement of water.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 439,
     "question": "The densities of two gases, X and Y are 0.5 g dm⁻³ and 2.0 g dm⁻³ respectively. What is the rate of diffusion of X relative to Y?",
     "option": {
@@ -3504,6 +3520,38 @@
     "examyear": "2022"
   },
   {
+    "id": 657,
+    "question": "2H₂ + O₂ → 2H₂O. From the equation above, calculate the volume of unreacted oxygen gas if a mixture of 50cm³ of hydrogen and 75cm³ of oxygen are involved.",
+    "option": {
+      "a": "85cm³",
+      "b": "50cm³",
+      "c": "125cm³",
+      "d": "55cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "From the equation: 2 volumes H₂ react with 1 volume O₂. Volume of O₂ needed to react with 50cm³ H₂ = 50/2 = 25cm³. Volume of O₂ available = 75cm³. Volume of O₂ unreacted = 75 − 25 = 50cm³.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 658,
+    "question": "In which of the following will hydrogen form an ionic compound?",
+    "option": {
+      "a": "HCl",
+      "b": "NaH",
+      "c": "NH₃",
+      "d": "CH₄"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Ionic compounds form between elements with large differences in electronegativity. In NaH (sodium hydride), sodium (a very electropositive metal) donates its electron to hydrogen, forming Na⁺ and H⁻ ions. This is an ionic compound. HCl, NH₃, and CH₄ are all covalent compounds where hydrogen shares electrons rather than forming ions.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 659,
     "question": "If the volume of a given mass of a gas at 0°C is 29.5cm³. What will be the volume of the gas at 15°C, given that the pressure remains constant?",
     "option": {
@@ -4396,6 +4444,22 @@
     "image": "",
     "answer": "a",
     "solution": "Hydrogen chloride (HCl) is extremely soluble in water (about 500 volumes per volume of water). When a flask of HCl is inverted over water, rapid dissolution creates a near-vacuum, drawing water up in a dramatic fountain. This high solubility makes HCl the classic gas for the fountain experiment.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 790,
+    "question": "Which of the following statements is false about hard water?",
+    "option": {
+      "a": "Helps animals to build strong teeth",
+      "b": "Cannot be supplied in pipes made of lead",
+      "c": "Tastes better than soft water",
+      "d": "Helps animals to build strong bones"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Hard water contains dissolved Ca²⁺ and Mg²⁺ ions which help build strong bones and teeth (A and D are true), and it does taste better than soft water (C is true). Statement B is false: hard water can be supplied in lead pipes because it deposits a protective scale of calcium carbonate inside the pipes, preventing lead from dissolving. It is soft water that is dangerous in lead pipes.",
     "examtype": "utme",
     "examyear": "2025"
   }
