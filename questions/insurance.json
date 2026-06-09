@@ -32,6 +32,22 @@
     "examyear": "2014"
   },
   {
+    "id": 20,
+    "question": "A residential building built beside a petrol filling station is described as a",
+    "option": {
+      "a": "risk",
+      "b": "hazard",
+      "c": "peril",
+      "d": "liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 28,
     "question": "Family income option in a life policy provides that",
     "option": {
@@ -71,6 +87,22 @@
       "b": "annuity",
       "c": "income",
       "d": "freight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 34,
+    "question": "Renewal notice is  used by  insurers  to  remind the insured of the",
+    "option": {
+      "a": "reduction of cover",
+      "b": "continuation of cover",
+      "c": "expiration of cover",
+      "d": "increase of cover"
     },
     "section": "",
     "image": "",
@@ -142,6 +174,38 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
+  },
+  {
+    "id": 54,
+    "question": "The facts which might influence any party’s willingness to enter the contract or reject it is called",
+    "option": {
+      "a": "insurable fact",
+      "b": "insurance fact",
+      "c": "insured fact",
+      "d": "material fact"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 63,
+    "question": "The evidence of the contractual agreement between the insured and insurer is",
+    "option": {
+      "a": "policy",
+      "b": "proposal form",
+      "c": "insurance certificate",
+      "d": "cover note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
   },
   {
     "id": 64,
@@ -304,6 +368,22 @@
     "examyear": "1"
   },
   {
+    "id": 106,
+    "question": "The amount of money paid periodically by an insured to the insurance company to cover risk is called",
+    "option": {
+      "a": "Commission",
+      "b": "Premium",
+      "c": "Cover note",
+      "d": "Dividend"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 110,
     "question": "Which of the following is non- insurable risk?",
     "option": {
@@ -347,6 +427,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 116,
+    "question": "The principle that requires the insured to disclose to the insurer all matters relating to the object of insurance is called",
+    "option": {
+      "a": "Uberrimae fidei",
+      "b": "Proximate cause",
+      "c": "Abandonment",
+      "d": "Subrogation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -480,6 +576,22 @@
     "examyear": "2"
   },
   {
+    "id": 146,
+    "question": "Workman compensation is also referred to as",
+    "option": {
+      "a": "Fidelity insurance",
+      "b": "Employment liability",
+      "c": "Public liability",
+      "d": "Product liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 148,
     "question": "The deliberate or intentional throwing over board of part of a cargo to lighten the ship in the interest of the reminder of the cargo is",
     "option": {
@@ -608,6 +720,22 @@
     "examyear": "3"
   },
   {
+    "id": 178,
+    "question": "Indemnity is provided through the following media except",
+    "option": {
+      "a": "Cash",
+      "b": "Commission",
+      "c": "Reinstatement",
+      "d": "Repair"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 185,
     "question": "In insurance contract, failure to disclose all relevant material facts will render the contract",
     "option": {
@@ -619,6 +747,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 186,
+    "question": "Any information that will influence a prudent insurer is called",
+    "option": {
+      "a": "contract",
+      "b": "misrepresentation",
+      "c": "disclosure",
+      "d": "Material facts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -736,6 +880,38 @@
     "examyear": "4"
   },
   {
+    "id": 212,
+    "question": "An insurance contract which does not involve mutuality of agreement in which only one of the parties involved in the contract makes promises that are legally binding is called",
+    "option": {
+      "a": "double contract",
+      "b": "single contract",
+      "c": "multilateral contract",
+      "d": "unilateral contract"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 213,
+    "question": "Insurance is a contract that is based on",
+    "option": {
+      "a": "possibility",
+      "b": "probability",
+      "c": "positivity",
+      "d": "negativity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 214,
     "question": "Assurance is a contract that is based on",
     "option": {
@@ -768,6 +944,22 @@
     "examyear": "4"
   },
   {
+    "id": 219,
+    "question": "A seller of insurance product is",
+    "option": {
+      "a": "insurer",
+      "b": "promisor",
+      "c": "client",
+      "d": "insured"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 221,
     "question": "A contract which has no legal effect is called",
     "option": {
@@ -775,6 +967,22 @@
       "b": "legal contract",
       "c": "void contract",
       "d": "valid contract"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 230,
+    "question": "one of these is a content of a proposal form",
+    "option": {
+      "a": "children of the proposer",
+      "b": "education of the proposer",
+      "c": "occupation of the proposer",
+      "d": "educational"
     },
     "section": "",
     "image": "",
@@ -795,6 +1003,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 238,
+    "question": "Situation that are not included in the policy are usually referred to as",
+    "option": {
+      "a": "condition",
+      "b": "exception",
+      "c": "preamble",
+      "d": "operative clause"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -928,6 +1152,38 @@
     "examyear": "5"
   },
   {
+    "id": 285,
+    "question": "The principle of maritime law which makes owners of ship and cargo share in a lost incurred voluntarily is",
+    "option": {
+      "a": "general average",
+      "b": "special average",
+      "c": "specific average",
+      "d": "particular average"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 299,
+    "question": "The party who proposes to the insurance company to insure his properly is called",
+    "option": {
+      "a": "offeree",
+      "b": "offeror",
+      "c": "acceptance party",
+      "d": "offer client"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 300,
     "question": "One of these is a full time professional",
     "option": {
@@ -1008,6 +1264,22 @@
     "examyear": "2015"
   },
   {
+    "id": 312,
+    "question": "In a life assurance contract, when does  the  principle of insurable interest arise?",
+    "option": {
+      "a": "At the beginning of the contract",
+      "b": "At the time of claim",
+      "c": "At the middle of the contract",
+      "d": "At the time of payment of premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 317,
     "question": "A clause in an insurance policy that makes a claim jointly payable to the policyholder and the third party is",
     "option": {
@@ -1015,6 +1287,38 @@
       "b": "mortgagee clause",
       "c": "mortgage clause",
       "d": "joint liability clause"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 319,
+    "question": "What is  the  maximum  liability which the insurer can pay on a particular loss?",
+    "option": {
+      "a": "Average",
+      "b": "Sum insured",
+      "c": "Franchise",
+      "d": "Excess"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 330,
+    "question": "The amount payable to an insured in the event of fire damage of household items is the",
+    "option": {
+      "a": "cost of repair",
+      "b": "actual cash value",
+      "c": "replacement cost",
+      "d": "sum insured"
     },
     "section": "",
     "image": "",
@@ -1127,6 +1431,22 @@
       "b": "determined by the indemnity doctrine",
       "c": "determined at the inception of the policy",
       "d": "assessed by the extent of the loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 347,
+    "question": "Which of the following is a duty of an insured in an insurance contract?",
+    "option": {
+      "a": "Concealment of facts",
+      "b": "Exposure of facts",
+      "c": "Disclosure of facts",
+      "d": "Acceptance of facts"
     },
     "section": "",
     "image": "",
