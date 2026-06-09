@@ -768,6 +768,22 @@
     "examyear": "2014"
   },
   {
+    "id": 51,
+    "question": "The primary function of insurance is",
+    "option": {
+      "a": "making profit",
+      "b": "managing of risk",
+      "c": "spreading of risk",
+      "d": "prevention of accident"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 52,
     "question": "An  insurance  feature  that  requires  the  parties  to disclose  all  material  facts  about  the  agreement is known as",
     "option": {
@@ -1019,6 +1035,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 70,
+    "question": "Which of this is an odd one out?",
+    "option": {
+      "a": "offer and acceptance",
+      "b": "contractual capacity",
+      "c": "legality of object",
+      "d": "Adhesion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "1"
@@ -2859,6 +2891,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 194,
+    "question": "A particular risk which is transferred to another re-insurance under a re-insurance treaty is",
+    "option": {
+      "a": "Cedant",
+      "b": "Cession",
+      "c": "Facultative",
+      "d": "Cede"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -4763,6 +4811,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 324,
+    "question": "Insurance is described as a risk",
+    "option": {
+      "a": "avoidance mechanism",
+      "b": "regulating mechanism",
+      "c": "transfer mechanism",
+      "d": "assessment mechanism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
