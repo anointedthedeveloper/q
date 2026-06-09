@@ -592,6 +592,22 @@
     "examyear": "2011"
   },
   {
+    "id": 39,
+    "question": "Subscription   received   in   respect of a future period is",
+    "option": {
+      "a": "Subscription deposit",
+      "b": "Subscription in advance",
+      "c": "Accrued subscription",
+      "d": "Subscription in arrears"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 40,
     "question": "The petty cash book kept on imprest system should have",
     "option": {
@@ -19420,6 +19436,22 @@
     "image": "",
     "answer": "c",
     "solution": "The Payments side of the Receipts & Payments Account will show only the cash actually paid (₦6,000). The Balance c/d (i.e. excess of receipts over payments) is:\n\n\nBalance = (Rent + Donation) − (Entertainment paid) = (₦10000 + ₦30000) − ₦6000 = ₦34000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1245,
+    "question": "Given:\n\nClub trading profit ₦12,000\n\nMembers' subscription ₦15,000\n\nProfit on sale of fixed assets ₦2,500\n\nLoss on sale of investments ₦1,000\n\nWages ₦16,500\n\nOther expenses ₦10,000\n\n\n\nDetermine the club's excess of income over expenditure?",
+    "option": {
+      "a": "₦500",
+      "b": " ₦1,500",
+      "c": "₦2,000",
+      "d": "₦2,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To find the excess of income over expenditure, Prepare an Income and Expenditure Account:\nINCOME:\n\nClub trading profit: ₦12,000\nMembers' subscription: ₦15,000\nProfit on sale of fixed assets: ₦2,500\nTotal Income: ₦29,500\n\nEXPENDITURE:\n\nLoss on sale of investments: ₦1,000\nWages: ₦16,500\nOther expenses: ₦10,000\nTotal Expenditure: ₦27,500\n\nExcess of Income over Expenditure:\n= Total Income - Total Expenditure\n= ₦29,500 - ₦27,500 = ₦2,000\nTherefore, the club's excess of income over expenditure is ₦2,000.",
     "examtype": "utme",
     "examyear": "2001"
   },
