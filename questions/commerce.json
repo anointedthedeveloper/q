@@ -144,6 +144,22 @@
     "examyear": "2004"
   },
   {
+    "id": 37,
+    "question": "The acronym PLC is used to identify a ",
+    "option": {
+      "a": "company limited by shares ",
+      "b": "private company limited by shares",
+      "c": "public company limited by shares",
+      "d": "company limited by guarantee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 39,
     "question": "Factors of production can be described as the",
     "option": {
@@ -1872,6 +1888,22 @@
     "examyear": "2013"
   },
   {
+    "id": 458,
+    "question": "A business partner who provides capital but abstains from participation in administration of a firm is a ",
+    "option": {
+      "a": "general partner ",
+      "b": "nominal partner ",
+      "c": "secret partner ",
+      "d": "dormant partner "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 459,
     "question": "Which of the following will NOT be stated in a Memorandum of Association? ",
     "option": {
@@ -2352,6 +2384,22 @@
     "examyear": "2013"
   },
   {
+    "id": 545,
+    "question": "Which of the following is NOT a means of payment through the post office?",
+    "option": {
+      "a": "Giro system",
+      "b": "Money order",
+      "c": "Postage stamp",
+      "d": "Standing order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 546,
     "question": "Branch managers who virtually have no control on goods they sell is a disadvantage of __  store.",
     "option": {
@@ -2715,6 +2763,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 617,
+    "question": "A business is in existence primarily to",
+    "option": {
+      "a": "make profit",
+      "b": "provide goods and services",
+      "c": "provide employment",
+      "d": "compete with others in business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1990"
