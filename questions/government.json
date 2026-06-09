@@ -240,6 +240,38 @@
     "examyear": "2009"
   },
   {
+    "id": 95,
+    "question": "The branch of government responsible for implementing laws is the ",
+    "option": {
+      "a": "executive ",
+      "b": "Legislature ",
+      "c": "Judiciary ",
+      "d": "Police "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 102,
+    "question": "In a federal constitution, legislative powers that are shared by two levels of government are referred to as ",
+    "option": {
+      "a": "exclusive ",
+      "b": "extra-ordinary  ",
+      "c": "residual  ",
+      "d": "concurrent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 107,
     "question": "Proportional representation favours a ",
     "option": {
@@ -384,6 +416,22 @@
     "examyear": "2013"
   },
   {
+    "id": 191,
+    "question": "Nigeria’s voting at the United Nations is guided primarily by",
+    "option": {
+      "a": "her national interests   ",
+      "b": "world peace   ",
+      "c": "the cold war  ",
+      "d": "her concern for Africa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 197,
     "question": "Which of the following modern principles of democracy is found in the Yoruba traditional political system  ",
     "option": {
@@ -491,6 +539,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 278,
+    "question": "Under the 1979 constitution of Nigeria, each state was allowed to elect",
+    "option": {
+      "a": "as many senators as the state could finance",
+      "b": "five senators",
+      "c": "from two to five senators depending on the population",
+      "d": "three senators"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -619,6 +683,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 321,
+    "question": "Which of the following best describes the role of the civil service?",
+    "option": {
+      "a": "Promoting the interest of civil servants",
+      "b": "Advising government and implementing its policies",
+      "c": "Keeping records for government",
+      "d": "Providing information on government and its agencies."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -848,6 +928,22 @@
     "examyear": "2010"
   },
   {
+    "id": 440,
+    "question": "In which of the following is the ceremonial and executive powers fused?",
+    "option": {
+      "a": "Federal system of government",
+      "b": "Parliamentary system of government",
+      "c": "Unitary system of government",
+      "d": "Presidential system of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 447,
     "question": "Nigeria broke diplomatic relations with France in 1961 because of:",
     "option": {
@@ -1051,6 +1147,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 503,
+    "question": "One of the programmes binding members of the Commonwealth is the",
+    "option": {
+      "a": "food and aid programme",
+      "b": "cultural programmes",
+      "c": "agenda for peace",
+      "d": "scholarship scheme."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -1584,6 +1696,38 @@
     "examyear": "1989"
   },
   {
+    "id": 717,
+    "question": "Which of the following is not a function of the Secretary-General of the United Nations Organization?",
+    "option": {
+      "a": "Supervising the Secretariat",
+      "b": "Interpreting the treaties",
+      "c": "Alerting the Security Council on any matter that may threaten international peace",
+      "d": "Making annual report"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 719,
+    "question": "Which of the following African countries has diplomatic relations with South Africa?",
+    "option": {
+      "a": "Malawi",
+      "b": "Zambia",
+      "c": "Gabon",
+      "d": "Tanzania"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 723,
     "question": "The international organization formed after the Second World War to guarantee international peace and security is the",
     "option": {
@@ -1872,6 +2016,22 @@
     "examyear": "2018"
   },
   {
+    "id": 820,
+    "question": "In 1993, Nigerian troops were on peace-keeping assignment to",
+    "option": {
+      "a": "Liberia and Burundi",
+      "b": "Rwanda and liberia",
+      "c": "Chad and Liberia",
+      "d": "Liberia and somalia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nigerian troops were actively involved in peace-keeping missions in both Liberia and Somalia in 1993. In Liberia, they were part of the Economic Community of West African States Monitoring Group (ECOMOG), which aimed to restore peace during the Liberian Civil War. In Somalia, Nigerian troops were part of the United Nations Operation in Somalia II (UNOSOM II), which sought to stabilise the country amidst civil unrest.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 828,
     "question": "A form of government which has its slogan to be 'ruling of the best' is__________",
     "option": {
@@ -1904,6 +2064,22 @@
     "examyear": "2019"
   },
   {
+    "id": 837,
+    "question": "The area from which one or more members or representatives are elected in public offices is called the electoral ........",
+    "option": {
+      "a": "College",
+      "b": "Constituency",
+      "c": "Ward",
+      "d": "District"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Constituency is the definition for the political area from which an individual is elected into a representative office.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 854,
     "question": "Under the 1999 constitution, the Chief Law Officer and the Supreme Court Judge respectively are the_______ ",
     "option": {
@@ -1932,6 +2108,22 @@
     "image": "",
     "answer": "a",
     "solution": "All the following options facilitated the coalition of the action Group and the National Council of the Nigerian Citizens except the The Kano Riot of 1953",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 862,
+    "question": "Amendment of the U. N. O. charter is the duty of the ........",
+    "option": {
+      "a": " Security Council",
+      "b": "Secretariat",
+      "c": "General Assembly",
+      "d": "Trusteeship Councils"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The UN General Assembly has the duty of amending relevant provisions of the UN Charter.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -2224,6 +2416,22 @@
     "examyear": "2022"
   },
   {
+    "id": 997,
+    "question": "The policy of 'indigenization' was introduced under the regime of?",
+    "option": {
+      "a": "General Yakubu Gowon",
+      "b": " General Olusegun Obasanjo",
+      "c": "General Ibrahim Babangida",
+      "d": " General Sani Abacha"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The policy of 'indigenization' was introduced under the regime of General Yakubu Gowon. The Indigenization policy was a government initiative that aimed to increase the participation of Nigerians in the economy by restricting certain businesses to Nigerian citizens.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1005,
     "question": "Which of the following is a limitation of pressure groups?",
     "option": {
@@ -2416,6 +2624,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1111,
+    "question": "The political neutrality of civil servants implies that they",
+    "option": {
+      "a": "are not allowed to join any organisation or group",
+      "b": "have no dealings with politicians",
+      "c": "are not allowed to be involved in partisan politics",
+      "d": " are not allowed to vote."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The political neutrality of civil servants implies that they are not allowed to be involved in partisan politics.\n\n\nPolitical Neutrality is one of the main characteristics of Civil Service. This means that civil servants are not involved in partisan politics. They are there to serve any government that comes into power .",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1115,
     "question": "The method used by the British to facilitate the administration of Southern Nigeria was",
     "option": {
@@ -2428,6 +2652,22 @@
     "image": "",
     "answer": "c",
     "solution": "The method used by the British to facilitate the administration of Southern Nigeria was divide and rule.\nThe system brought about division between the traditional rulers who were looked upon a British puppets and the alienated educated elites thereby, strengthening the policy divide and rule.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1119,
+    "question": "The central legislature of Nigeria became bicameral in",
+    "option": {
+      "a": "1960",
+      "b": "1951",
+      "c": "1959",
+      "d": "1963"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The central legislature of Nigeria became bicameral in 1960.  Macpherson Constitution of 1951 created two chambers of regional legislatures known as the House of Chiefs and the House of Assembly in the Northern and Western regions. Coming then to the independence constitution of 1960, bicameral legislatures were adopted in both the federal and regional government including the Eastern region.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -2720,6 +2960,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1256,
+    "question": "Nigeria demonstrated her commitment to the policy of non-alignment during the regime of",
+    "option": {
+      "a": "Ibrahim Babangida",
+      "b": "Muhammadu Buhari",
+      "c": "Johnson Aguiyi-Ironsi",
+      "d": "Murtala Muhammed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nigeria’s commitment to the policy of non-alignment—refusing to align with either the Western or Eastern Cold War blocs—was most decisively demonstrated during the regime of General Murtala Muhammed (1975–1976). Under his leadership, Nigeria pursued an assertive foreign policy that prioritized African solidarity and independence from external influence.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1263,
     "question": "The process of nationalism was accelerated by",
     "option": {
@@ -2876,6 +3132,22 @@
     "image": "",
     "answer": "c",
     "solution": "In the United Nations Security Council (UNSC), a resolution requires the approval of at least 9 out of the 15 council members including the concurring votes of all 5 permanent members (United States, United Kingdom, China, Russia, and France). This means that while 9 votes are necessary, a single veto from any of the 5 permanent members can block the resolution.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1305,
+    "question": "A member of the Commonwealth that still recognizes the British monarch as its Head of State is",
+    "option": {
+      "a": "Singapore",
+      "b": "Ghana",
+      "c": "India",
+      "d": "Australia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Australia is the member of Commonwealth that still recognizes the British monarch as its Head of State.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -3052,6 +3324,38 @@
     "image": "",
     "answer": "d",
     "solution": "Nigeria hosted the Commonwealth conference which eventually led to the independence of Zimbabwe.\n\nWhen Nigeria was plunging very deep into political crises, the Nigerian Prime Minister, Sir Abubakar Tafawa Balewa preferred to focus all attention on the Rhodesian crisis. The country actually hosted a Commonwealth meeting on the Rhodesian question till the 15th of January, 1966.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1377,
+    "question": "The first military coup in Nigeria toppled the government of",
+    "option": {
+      "a": " General Yakubu Gowon",
+      "b": "Dr Nnamdi Azikiwe",
+      "c": "Alhaji Abubakar Tafewa Balewa",
+      "d": "Major General Aguiyi-Ironsi"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The first military coup in Nigeria occurred on January 15, 1966, led by a group of army officers (including Major Chukwuma Nzeogwu). This coup overthrew the First Republic civilian government headed by Prime Minister Sir Abubakar Tafewa Balewa, who was killed during the coup.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1386,
+    "question": "Which of the following formalized colonial penetration into Africa?",
+    "option": {
+      "a": "Paris Treaty",
+      "b": "Treaty of Wesphalia",
+      "c": "Berlin Conference",
+      "d": "Treaty of Versaile"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Berlin Conference (1884–1885) formalized European colonial penetration into Africa. Convened by Otto von Bismarck, it established rules for the partition of Africa among European powers, leading to the Scramble for Africa",
     "examtype": "utme",
     "examyear": "2008"
   },
