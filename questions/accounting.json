@@ -976,6 +976,22 @@
     "examyear": "2013"
   },
   {
+    "id": 66,
+    "question": "9.   Which   of   the   following   is   a   correct expression of the accounting equation? ",
+    "option": {
+      "a": "Assets = Liabilities + Owner's Equity ",
+      "b": "Assets = Liabilities - Owner's Equity ",
+      "c": "Assets + Owners' Equity = Liabilities ",
+      "d": "Assets = Liabilities - Owner's Equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 67,
     "question": "Which of these items would be accounted for as an expense? ",
     "option": {
@@ -4839,6 +4855,22 @@
       "b": "payment voucher",
       "c": "debit note",
       "d": "credit note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 319,
+    "question": "The cost of putting goods into a saleable condition is charged to",
+    "option": {
+      "a": "balance sheet",
+      "b": "trial balance",
+      "c": "profit and loss account",
+      "d": "trading account"
     },
     "section": "",
     "image": "",
@@ -14896,6 +14928,22 @@
     "examyear": "2008"
   },
   {
+    "id": 991,
+    "question": "<b>Use the information below to answer questions 26 to 27.</b>\n\n\nStock of material 1/1..............₦10 000\nPurchase of raw material...........₦160 000\nManufacturing wages................₦420 000\nRoyalties..........................₦3 000\nStock of raw materials 31/12.......₦14 000\n\nCalculate the prime cost?",
+    "option": {
+      "a": "₦597,000",
+      "b": "₦57,900",
+      "c": "₦576,000",
+      "d": "₦5,967,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Prime Cost = Raw Materials Consumed + Direct Labor + Direct Expenses\n\nCalculation:\nPrime Cost = Raw Materials Consumed + Direct Labor + Direct Expenses\nPrime Cost = ₦156,000 + ₦420,000 + ₦3,000\nPrime Cost = ₦579,000\nTherefore, the prime cost is ₦579,000.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 992,
     "question": "Receipt and payment account discloses?",
     "option": {
@@ -19580,6 +19628,22 @@
     "image": "",
     "answer": "a",
     "solution": "The body is the Public Accounts Committee of the National Assembly, which reviews audited accounts and related reports.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1308,
+    "question": "Yola Social Club\nStatement of Account 1998 financial year\n31/12/98:\nSubscription in arrears ₦21,000\nSubscription in advance ₦12,000\nReceipt during 1999:\n\nArrears 1998 ₦21,000\nDues 1999 ₦48,000\nAdvance 2000 ₦11,000\n\nThe subscription transferable to the income and expenditure account is?",
+    "option": {
+      "a": "₦48,000",
+      "b": "₦59,000",
+      "c": "₦60,000",
+      "d": " ₦69,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To determine the subscription income for the 1999 Income & Expenditure Account, include all amounts relating to the 1999 year (whether received in 1999 or brought forward), and exclude amounts relating to other years.\n\nOpening advance (at 31/12/98): ₦12 000\n– These are 1999 subscriptions paid in 1998, so they count as 1999 income even though received earlier.\n\nReceipts during 1999 relating to 1999 dues: ₦48 000\n– Direct cash received for 1999 subscriptions.\n\nExclude\n\nArrears of 1998 (₦21 000): pertains to 1998 income\n\nAdvance for 2000 (₦11 000): pertains to 2000 income\n\nSo,\n\n\n1999 Subscription Income = 12000 + 48000 = 60000",
     "examtype": "utme",
     "examyear": "2000"
   },
