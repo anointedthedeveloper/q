@@ -6064,6 +6064,22 @@
     "examyear": "2020"
   },
   {
+    "id": 386,
+    "question": "In the study of Physics, temperature and heat are often confused with each other. Which of the following statements correctly defines these two elements?",
+    "option": {
+      "a": "Temperature is a measure of the average kinetic energy of the molecules of a substance",
+      "b": "Heat is a measure of the total kinetic energy of the molecules in a system",
+      "c": " Different materials require different amounts of heat to cause a given change in temperature",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All of the statements correctly define temperature and heat: (A) temperature measures average molecular kinetic energy, (B) heat relates to total kinetic energy of the system, and (C) different materials have different heat requirements for temperature changes.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 387,
     "question": "The effect of closing the key K in the circuit shown in the figure above would be to?",
     "option": {
@@ -17340,6 +17356,22 @@
     "image": "",
     "answer": "d",
     "solution": "Liquids and gases expand when they are heated. The liquid or gas in hot areas is less dense than the liquid or gas in cold areas, so it rises into the cold areas.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1101,
+    "question": "The distance between two successive crests of a wave is 15 cm and the velocity 300 m s⁻¹. Calculate the frequency.",
+    "option": {
+      "a": " 2.0 × 10² Hz",
+      "b": "4.5 × 10³ Hz",
+      "c": "2.0 × 10³ Hz",
+      "d": "4.5 × 10² Hz"
+    },
+    "section": "    ",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nWavelength, λ = 15 cm = 0.15 m\nWave velocity, v = 300 m s⁻¹\n\nSolution:\n\nStep 1: Wave equation\nThe relationship between velocity, frequency, and wavelength is:\nv = f × λ\n\nStep 2: Rearrange for frequency\nf = v / λ\n\nStep 3: Substitute the values\nf = 300 / 0.15 = 2000 Hz\n\nStep 4: Express in scientific notation\n2000 Hz = 2.0 × 10³ Hz",
     "examtype": "utme",
     "examyear": "2014"
   },
