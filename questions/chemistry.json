@@ -1408,6 +1408,22 @@
     "examyear": "2003"
   },
   {
+    "id": 119,
+    "question": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula  [H = 1, C = 12, O = 16]",
+    "option": {
+      "a": "CH2O",
+      "b": "C3H6O3",
+      "c": "C6H12O6",
+      "d": "C6H6O3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 120,
     "question": "The process by which atoms are rearranged into different molecular structures in the petroleum refining process is referred to as",
     "option": {
@@ -2304,6 +2320,22 @@
     "examyear": "2005"
   },
   {
+    "id": 200,
+    "question": "Natural water collected from rivers and ponds contains oxygen, carbon(IV) oxide and",
+    "option": {
+      "a": "Chlorine",
+      "b": "Hydrogen",
+      "c": "Sulphur(IV) oxide",
+      "d": "Nitrogen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 201,
     "question": "Kerosene is commonly used to remove the red colour stain of palm oil from clothes because it",
     "option": {
@@ -2443,6 +2475,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 212,
+    "question": "What will happen if an aluminum spoon is used to stir a solution of iron (II) trioxonitrate(V)",
+    "option": {
+      "a": "The spoon will be reduced while the iron(II) ions will be oxidized",
+      "b": "The spoon will be oxidized while the iron (II) ions will be reduced to the metal",
+      "c": "The spoon will be reduced",
+      "d": "The spoon will increase in size"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -3328,6 +3376,22 @@
     "examyear": "2010"
   },
   {
+    "id": 284,
+    "question": "In which of the following is the entropy change positive",
+    "option": {
+      "a": "Reaction between an acid and a base",
+      "b": "Addition of concentrated acid to water",
+      "c": "Dissolution of sodium metal in water",
+      "d": "Thermal dissociation of ammonium chloride"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 285,
     "question": "If a reaction is exothermic and thee is a great disorder, it means that",
     "option": {
@@ -3527,6 +3591,22 @@
       "b": "In the textile industries",
       "c": "In the production of plastics",
       "d": "As domestic and industrial fuels"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 302,
+    "question": "The haloalkanes used in the dry cleaning industries are",
+    "option": {
+      "a": "Chloroethane and dichloroethene",
+      "b": "trichloroethene and tetrachloroethene",
+      "c": "chloromethane and dichloroethene",
+      "d": "Trichloromethane and tetrachloromethane"
     },
     "section": "",
     "image": "",
@@ -4000,6 +4080,22 @@
     "examyear": "2015"
   },
   {
+    "id": 340,
+    "question": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula [H = 1, C = 12, O = 16]",
+    "option": {
+      "a": "CH₂O",
+      "b": "C₃H₆O₃",
+      "c": "C₆H₁₂O₆",
+      "d": "C₆H₁₂O₃"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Empirical formula: C = 40/12 = 3.33, H = 6.7/1 = 6.7, O = 53.3/16 = 3.33. Divide by smallest (3.33): C:H:O = 1:2:1, giving empirical formula CH₂O (mass = 30). Molecular formula = n × CH₂O where n = 180/30 = 6. Therefore molecular formula = C₆H₁₂O₆.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 341,
     "question": "An oxidation state of Cr in K₂Cr₂O₇",
     "option": {
@@ -4332,6 +4428,22 @@
     "image": "",
     "answer": "b",
     "solution": "Random motion of particles increases from solid to gas, not from gas to solid. Gas particles have the highest kinetic energy and random motion; solid particles have the least. Option B states the opposite of what is true, making it the incorrect (not peculiar to matter) statement.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 374,
+    "question": "Cast iron is used in making",
+    "option": {
+      "a": "Chains and agricultural implements",
+      "b": "Iron sheets and retort stand",
+      "c": "Nails and iron rods",
+      "d": "Stoves and cookers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cast iron, which contains about 3–4% carbon, is hard but brittle. It is used in making stoves, cookers, manhole covers, engine blocks, and pipes. Wrought iron (low carbon) is used for chains and ornamental work; mild steel is used for nails, rods, and sheets.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -6140,6 +6252,22 @@
     "image": "",
     "answer": "a",
     "solution": "Using the general gas law: P₁V₁/T₁ = P₂V₂/T₂. T₁ = 27 + 273 = 300 K, V₁ = 200 cm³, P₂ = 2P₁, V₂ = 150 cm³. T₂ = T₁ × (P₂ × V₂)/(P₁ × V₁) = 300 × (2 × 150)/200 = 300 × 1.5 = 450 K. Increase in temperature = 450 - 300 = 150 K = 150°C.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 525,
+    "question": "When ammonia and hydrogen ion bond together to form ammonium ion, the bond formed is called",
+    "option": {
+      "a": "electrovalent bond",
+      "b": "compound bond",
+      "c": "ionic bond",
+      "d": "dative covalent bond"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When NH₃ donates its lone pair of electrons to H⁺ to form NH₄⁺, a dative covalent (coordinate) bond is formed: NH₃ + H⁺ → NH₄⁺. In a dative bond, both electrons in the bond come from one atom (the nitrogen in NH₃). This is a special type of covalent bond — also called a coordinate bond.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -8668,6 +8796,22 @@
     "image": "",
     "answer": "b",
     "solution": "Benzene is obtained from the fractional distillation of coal tar and is an important raw material in the pharmaceutical industry. It is used in the synthesis of drugs, dyes, and plastics. Although xylene and toluene are also obtained from coal tar, benzene is the most fundamental and widely used aromatic compound in pharmaceutical manufacturing.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 724,
+    "question": "An organic compound contains 53.1% Carbon, 6.2% Hydrogen, 12.4% Nitrogen, and 28.3% Oxygen by mass. What is the molecular formula of the compound if its vapour density is 56.5? [C=12, H=1, N=14, O=16]",
+    "option": {
+      "a": "C₅H₇NO₂",
+      "b": "C₅H₆NO₂",
+      "c": "C₃H₆NO₂",
+      "d": "C₃H₇NO₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Mole ratio: C = 53.1/12 = 4.425; H = 6.2/1 = 6.2; N = 12.4/14 = 0.886; O = 28.3/16 = 1.769. Divide by smallest (0.886): C = 5.0; H = 7.0; N = 1.0; O = 2.0. Empirical formula = C₅H₇NO₂. Empirical formula mass = 60+7+14+32 = 113. Molar mass = 2 × vapour density = 2 × 56.5 = 113 g/mol. n = 113 ÷ 113 = 1. Molecular formula = C₅H₇NO₂.",
     "examtype": "utme",
     "examyear": "2024"
   },
