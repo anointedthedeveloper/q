@@ -2688,6 +2688,22 @@
     "examyear": "2002"
   },
   {
+    "id": 185,
+    "question": "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men",
+    "option": {
+      "a": "15 days",
+      "b": "12 days",
+      "c": "5 days",
+      "d": " 9 days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "T~1/M.\n\nT=k/M.\n\nK=TM.\n\nM=45; T=5.\n\nK=45 x 5.= 225=k.\n\nWhen M= 25. T=?\n\n225/25= T = 9. Ans.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 186,
     "question": "Find the range of values of x for which (x+2)/4−2x−3/3 < 4",
     "option": {
@@ -3740,6 +3756,22 @@
     "image": "",
     "answer": "b",
     "solution": "Let the 4th angle be = x\n∴ x + 45 + 90 + 135 = 360\nx + 270 = 360\nx = 360 - 270\nx = 90\n∴ smallest angle = 45°\n45° = N28.00\n1° = 28.00/45\n135° = (28.00/45) * (135/1)\n= N84.00",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 254,
+    "question": "If <sup>n</sup>P<sub>3</sub>−6(nC<sub>4</sub>)=0, find the value of n.",
+    "option": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8"
+    },
+    "section": "solution <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mi></mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mi>n</mi>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>P</mi>\n    <mn>3</mn>\n  </msub>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>6</mn>\n  <msup>\n    <mo stretchy=\"false\">(</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mi>n</mi>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>4</mn>\n    </mrow>\n  </msub>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mn>0</mn>\n  <mspace linebreak=\"newline\" />\n  <mfrac>\n    <mrow>\n      <mi>n</mi>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>6</mn>\n  <mrow>\n    <mo>(</mo>\n    <mfrac>\n      <mrow>\n        <mi>n</mi>\n        <mo>!</mo>\n      </mrow>\n      <mrow>\n        <mo stretchy=\"false\">(</mo>\n        <mi>n</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>!</mo>\n        <mn>4</mn>\n        <mo>!</mo>\n      </mrow>\n    </mfrac>\n    <mo>)</mo>\n  </mrow>\n  <mo>=</mo>\n  <mn>0</mn>\n  <mspace linebreak=\"newline\" />\n  <mfrac>\n    <mrow>\n      <mi>n</mi>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mn>6</mn>\n  <mrow>\n    <mo>(</mo>\n    <mfrac>\n      <mrow>\n        <mi>n</mi>\n        <mo>!</mo>\n      </mrow>\n      <mrow>\n        <mo stretchy=\"false\">(</mo>\n        <mi>n</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>!</mo>\n        <mn>4</mn>\n        <mo>!</mo>\n      </mrow>\n    </mfrac>\n    <mo>)</mo>\n  </mrow>\n  <mspace linebreak=\"newline\" />\n  <mi>n</mi>\n  <mo>!</mo>\n  <mo stretchy=\"false\">(</mo>\n  <mo stretchy=\"false\">(</mo>\n  <mi>n</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>4</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mo>!</mo>\n  <mn>4</mn>\n  <mo>!</mo>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mn>6</mn>\n  <mi>n</mi>\n  <mo>!</mo>\n  <mo stretchy=\"false\">(</mo>\n  <mi>n</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>3</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mo>!</mo>\n  <mspace linebreak=\"newline\" />\n  <mo stretchy=\"false\">(</mo>\n  <mo stretchy=\"false\">(</mo>\n  <mi>n</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>4</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mo>!</mo>\n  <mn>4</mn>\n  <mo>!</mo>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mn>6</mn>\n  <mo stretchy=\"false\">(</mo>\n  <mi>n</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>3</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mo>!</mo>\n  <mspace linebreak=\"newline\" />\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>4</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>6</mn>\n    <mrow>\n      <mn>4</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>4</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>4</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>6</mn>\n    <mrow>\n      <mn>4</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>3</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mfrac>\n    <mn>1</mn>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mo stretchy=\"false\">]</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>4</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>n</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>3</mn>\n  <mo>=</mo>\n  <mn>4</mn>\n  <mspace linebreak=\"newline\" />\n  <mi>n</mi>\n  <mo>=</mo>\n  <mn>4</mn>\n  <mo>+</mo>\n  <mn>3</mn>\n  <mspace linebreak=\"newline\" />\n  <mi>n</mi>\n  <mo>=</mo>\n  <mn>7</mn>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2003"
   },
