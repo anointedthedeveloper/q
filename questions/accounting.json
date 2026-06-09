@@ -10352,6 +10352,22 @@
     "examyear": "2018"
   },
   {
+    "id": 712,
+    "question": "Using the following information, calculate the balance that should appear on the bank statement. The cashbook shows a balance of ₦13,560. There are unpresented cheques totaling ₦5,120, and a cheque for ₦2,300 has been paid into the bank but not yet credited. The bank has also received a dividend of ₦2,000, charged ₦280 in bank fees, and processed a standing order of ₦600.",
+    "option": {
+      "a": "₦10,740",
+      "b": "₦11,860",
+      "c": " ₦16,380",
+      "d": "₦17,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Balance per bank statement = ₦13,560 + ₦5,120 + ₦2,000 – ₦2,300 – ₦280 – ₦600 = ₦17,500.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 714,
     "question": "The major source of document which enables employer to calculate  the employee wages  is the?",
     "option": {
@@ -18368,6 +18384,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1277,
+    "question": "An expenses account is closed by a debit to?",
+    "option": {
+      "a": " an asset account and a credit to the expenses account",
+      "b": " the expenses account and a credit to an asset account",
+      "c": "profit and loss account and a creit to the expenses account",
+      "d": "the expenses account and a credit to profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When closing an expense account (which normally has a debit balance), you:\n\nCredit the expense account to bring its balance to zero\n\nDebit the Profit and Loss (income summary) account to transfer that expense",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1279,
     "question": "<b>Use the information below to answer questions 15 and 16</b>\nCost of raw materials consumed ₦300,600, carriage inwards ₦6,700, returns of raw materials ₦10,800, closing stock of raw materials ₦100,250, raw materials purchased during the year ₦350,000, manufacturing wages ₦27,000, and lighting, power, insurance and rent in relation to the factory are apportioned 1/3, 2/5, 1/6 and 1/7 with totals ₦30,000, ₦75,000, ₦36,000 and ₦56,000 respectively.\nWhat is the cost of the opening raw materials?",
     "option": {
@@ -20716,6 +20748,22 @@
     "image": "",
     "answer": "c",
     "solution": "Closing work-in-process (WIP) is subtracted when calculating the cost of goods manufactured (COGM):\n\nCOGM = Opening WIP + Manufacturing costs − Closing WIP\nIf the closing WIP is understated, the amount subtracted is too small, making the COGM too high (overstated).",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1444,
+    "question": "Adamu, Babaji and Chukwu are in partnership and they share profit and losses on ratio 3:2:1. Their respective capitals are ₦20 000, ₦15 000 and ₦5 000 on which on which they are entitle to interest at 5% per annum. The profit for the year before charging interest on capital amounted to ₦5 500.\n\nCalculate the profit for Adamu?",
+    "option": {
+      "a": "₦2,750",
+      "b": "₦1,000",
+      "c": "₦1,167",
+      "d": "₦1,750"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find Adamu's profit, calculate the interest on capital first, then distribute the remaining profit according to the profit-sharing ratio.\nGiven information:\n\nProfit-sharing ratio: Adamu:Babaji:Chukwu = 3:2:1\nCapitals: Adamu ₦20,000, Babaji ₦15,000, Chukwu ₦5,000\nInterest on capital: 5% per annum\nProfit before interest on capital: ₦5,500\n\nStep 1: Calculate interest on capital\n\nAdamu's interest: ₦20,000 × 5% = ₦1,000\nBabaji's interest: ₦15,000 × 5% = ₦750\nChukwu's interest: ₦5,000 × 5% = ₦250\nTotal interest on capital: ₦2,000\n\nStep 2: Calculate profit available for distribution\nProfit after charging interest = ₦5,500 - ₦2,000 = ₦3,500\nStep 3: Distribute remaining profit in ratio 3:2:1\nTotal ratio = 3 + 2 + 1 = 6\nAdamu's share = (3/6) × ₦3,500 = ₦1,750\nStep 4: Calculate Adamu's total profit\nAdamu's total profit = Interest on capital + Share of profit\n= ₦1,000 + ₦1,750 = ₦2,750",
     "examtype": "utme",
     "examyear": "1997"
   },
