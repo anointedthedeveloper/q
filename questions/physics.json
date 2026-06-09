@@ -1808,6 +1808,22 @@
     "examyear": "2012"
   },
   {
+    "id": 128,
+    "question": "Five 100-Watt bulbs are put on for 45days during which the home-owner is on vacation. If 1kW-hour of electricity cost N7.50, how much does it cost the home-owner? ",
+    "option": {
+      "a": "N168.75  ",
+      "b": "N90.0  ",
+      "c": "N4050.00  ",
+      "d": "N810.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 129,
     "question": "To convert an a.c generator to d.c generator, one needs to ",
     "option": {
@@ -1932,6 +1948,22 @@
     "image": "",
     "answer": "d",
     "solution": "The appearance of pool of water on road surfaces is called MIRAGE\n\nHis observation show that light from the sun ray refracted through a layer of hot air(layer) which is closed to the ground, passes from a hot air layer to the cold layer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 139,
+    "question": "Which of the following is not luminous object?",
+    "option": {
+      "a": "The sun",
+      "b": "The moon",
+      "c": " light candle",
+      "d": "Star"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Sun are self luminous source\nMoon is a non – luminous",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2556,6 +2588,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a charged particle moves parallel to a magnetic field, it experiences no magnetic force and continues in a straight line.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 182,
+    "question": "What happens to a water pool on a day when the humidity of the air is very low?",
+    "option": {
+      "a": "Temperature decreases",
+      "b": " Slow evaporation",
+      "c": "Temperature increases",
+      "d": "Rapid evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Low humidity means dry air, which promotes rapid evaporation of water.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -5536,6 +5584,22 @@
     "examyear": "2020"
   },
   {
+    "id": 395,
+    "question": "A solid weighs 4.8g in air, 2.8g in water and 3.2g in Kerosine. The ratio of density of the solid to that of the kerosine is ",
+    "option": {
+      "a": "2",
+      "b": "3/2",
+      "c": "2/3",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nWeight in air (W_air) = 4.8g\nWeight in water (W_water) = 2.8g\nWeight in kerosene (W_kerosene) = 3.2g\nRatio of densities = ?\n\nStep 1: Calculate upthrust in water\nUpthrust in water = W_air - W_water\nUpthrust in water = 4.8 - 2.8 = 2.0g\nStep 2: Calculate upthrust in kerosene\nUpthrust in kerosene = W_air - W_kerosene\nUpthrust in kerosene = 4.8 - 3.2 = 1.6g\nStep 3: Use relationship between upthrust and density\nUpthrust = Volume × Density of liquid × g\nSince volume is constant:\nUpthrust in water / Upthrust in kerosene = Density of water / Density of kerosene\n2.0 / 1.6 = ρ_water / ρ_kerosene\nρ_water / ρ_kerosene = 5/4\nStep 4: Find density of solid using water\nUsing Archimedes' principle:\nDensity of solid / Density of water = W_air / Upthrust in water\nρ_solid / ρ_water = 4.8 / 2.0 = 2.4 = 12/5\nStep 5: Find ratio of solid to kerosene\nρ_solid / ρ_kerosene = (ρ_solid / ρ_water) × (ρ_water / ρ_kerosene)\nρ_solid / ρ_kerosene = (12/5) × (5/4) = 12/4 = 3",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 397,
     "question": "When a sound wave passes from air into water its ",
     "option": {
@@ -5996,6 +6060,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nInitial pressure (P₁) = 80 Nm⁻²\nInitial temperature (T₁) = 47°C = 47 + 273 = 320 K\nFinal temperature (T₂) = 27°C = 27 + 273 = 300 K\nVolume constant\nFinal pressure (P₂) = ?\n\nUsing Gay-Lussac's Law (Pressure Law):\nAt constant volume: P₁/T₁ = P₂/T₂\nRearranging to find P₂:\nP₂ = P₁ × (T₂/T₁)\nSubstituting values:\nP₂ = 80 × (300/320)\nP₂ = 80 × 0.9375\nP₂ = 75 Nm⁻²\nExplanation:\nWhen temperature decreases at constant volume, pressure decreases proportionally because the average kinetic energy of gas molecules decreases, resulting in fewer and less forceful collisions with the container walls.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 427,
+    "question": "\n0.5kg of water at 10°C is completely converted to ice at 0°C by extracting 88000J of heat from it. If the specific heat capacity of water is 4200 Jkg⁻¹°C⁻¹, calculate the specific latent heat of fusion of ice.",
+    "option": {
+      "a": "9.0 kJkg⁻¹",
+      "b": "84.0 kJkg⁻¹",
+      "c": "134.0 kJkg⁻¹",
+      "d": "168.0 kJkg⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass of water (m) = 0.5 kg\nInitial temperature = 10°C\nFinal temperature = 0°C (ice)\nTotal heat extracted (Q_total) = 88,000 J\nSpecific heat capacity of water (c) = 4200 J/(kg·°C)\nSpecific latent heat of fusion (L_f) = ?\n\nProcess involves two stages:\nStage 1: Cooling water from 10°C to 0°C\nQ₁ = mcΔT\nQ₁ = 0.5 × 4200 × (10 - 0)\nQ₁ = 0.5 × 4200 × 10\nQ₁ = 21,000 J\nStage 2: Freezing water at 0°C to ice at 0°C\nQ₂ = mL_f\nTotal heat extracted:\nQ_total = Q₁ + Q₂\n88,000 = 21,000 + Q₂\nQ₂ = 88,000 - 21,000\nQ₂ = 67,000 J\nCalculate specific latent heat of fusion:\nQ₂ = mL_f\n67,000 = 0.5 × L_f\nL_f = 67,000 / 0.5\nL_f = 134,000 J/kg\nL_f = 134 kJ/kg",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -12640,6 +12720,22 @@
     "examyear": "2009"
   },
   {
+    "id": 899,
+    "question": "A stone is dropped from the top of a tower 80m high. Calculate the time it takes to reach the ground. [g = 10 ms⁻²]",
+    "option": {
+      "a": "2 s",
+      "b": " 4 s",
+      "c": "6 s",
+      "d": "8 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nHeight of tower (h) = 80 m\nInitial velocity (u) = 0 m/s (dropped from rest)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing equation of motion:\ns = ut + ½gt²\nSince the stone is dropped (u = 0):\nh = ½gt²\nRearranging for time:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 80/10)\nt = √(160/10)\nt = √16\nt = 4 s",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 900,
     "question": "Two cars moving in the same direction have speeds of 100 kmh⁻¹ and 130 kmh⁻¹. What is the velocity of the faster car as measured by an observer in the slower car?",
     "option": {
@@ -13292,6 +13388,22 @@
     "image": "",
     "answer": "c",
     "solution": "The mass is constant while the weight varies.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 948,
+    "question": "The radioisotope ²³⁵₉₂U decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?",
+    "option": {
+      "a": " 215 and 88",
+      "b": "91 and 227",
+      "c": "227 and 91",
+      "d": "92 and 238"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nInitial isotope: ²³⁵₉₂U (Mass number A = 235, Atomic number Z = 92)\nEmissions: 2 alpha particles, 3 beta particles, 1 gamma ray\nFinal mass and atomic number = ?\n\nUnderstanding particle emissions:\nAlpha particle (⁴₂He):\n\nMass number decreases by 4\nAtomic number decreases by 2\n\nBeta particle (⁰₋₁e):\n\nMass number unchanged (0)\nAtomic number increases by 1\n\nGamma ray (γ):\n\nMass number unchanged\nAtomic number unchanged\nOnly energy release\n\nStep 1: Effect of 2 alpha particles\n\nMass number: 235 - 2(4) = 235 - 8 = 227\nAtomic number: 92 - 2(2) = 92 - 4 = 88\n\nStep 2: Effect of 3 beta particles\n\nMass number: 227 - 3(0) = 227 (no change)\nAtomic number: 88 + 3(1) = 88 + 3 = 91\n\nStep 3: Effect of 1 gamma ray\n\nMass number: 227 (no change)\nAtomic number: 91 (no change)\n\nFinal result:\n\nMass number (A) = 227\nAtomic number (Z) = 91\n\nComplete decay equation:\n²³⁵₉₂U → ²²⁷₉₁X + 2(⁴₂He) + 3(⁰₋₁e) + γ\nWhere X is element with Z = 91 (Protactinium, Pa)",
     "examtype": "utme",
     "examyear": "2010"
   },
