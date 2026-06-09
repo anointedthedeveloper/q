@@ -112,6 +112,22 @@
     "examyear": "2006"
   },
   {
+    "id": 14,
+    "question": "The trigonometric expression cos 2A +sin 2A can be written as    ",
+    "option": {
+      "a": "cosA (cosA-sinA),    ",
+      "b": "Cos2A +sin2A-2sinAcosA,  ",
+      "c": "Cos2A + sin2A = Cos2A –sin2A+2sinAcosA",
+      "d": "cos2A+sin2A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 18,
     "question": "All the vertices of an isosceles triangle lie on a circle and each of the base angles  of the triangle is 65o. The angle subtended at the centre of the circle by the base of the triangle is: ",
     "option": {
@@ -123,6 +139,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following specified sets of data is not necessarily sufficient for the construction of a triangle? ",
+    "option": {
+      "a": "three angles  ",
+      "b": "two sides and a right angle  ",
+      "c": "two sides and an included angle ",
+      "d": "three sides"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
@@ -512,6 +544,22 @@
     "examyear": "2000"
   },
   {
+    "id": 103,
+    "question": "If U = {x : x is an integer and 1≤ x ≤ 20\nE1 = {x : x is a multiple of 3}\nE2 = {x : x is a multiple of 4}\nand an integer is picked at random from U, find the probability that it is not in E2",
+    "option": {
+      "a": "3/4",
+      "b": "3/10",
+      "c": "1/4",
+      "d": " 1/20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "U = {1, 2, 3, 4, 5,..., 20}\nE1 = {3, 6, 9, 12, 15, 18}\nE2 = {4, 8, 12, 16, 20}\nP(E1) = 5/20\nP(not E1) = 1 - (5/20) = 15/20 = 3/4",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 108,
     "question": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)? ",
     "option": {
@@ -748,6 +796,22 @@
     "image": "",
     "answer": "b",
     "solution": "(r/L) = (θ/360°)\nGiven θ = 300, and L = 7.2cm,\n\n=> r = (300 x 7.2)/360\nr = 6cm",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 137,
+    "question": "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30°",
+    "option": {
+      "a": "4√3cm",
+      "b": " 8cm",
+      "c": "8√3cm",
+      "d": "4cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Hint: Make a sketch of the moving points such that the hypotenuse is 8cm and the adjacent x cm.\n\nCos 30 = x/8\nx = 8 cos 30 = 8√3cm",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -1116,6 +1180,22 @@
     "image": "",
     "answer": "c",
     "solution": "-2 in the solution implies x = -2.\n\n2x + 1 - 3c = 2c + 3x - 7\n\n2(-2) + 1 - 3c = 2c + 3(-2) - 7\n\n-4 + 1 - 3c = 2c - 6 - 7\n\n-3 + 13 = 2c + 3c ⟹\n c = 2.\n\n ",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 194,
+    "question": "If x varies directly as √n and x = 9 when n = 9, find x when n = (17/9)",
+    "option": {
+      "a": "4",
+      "b": "27",
+      "c": "√3",
+      "d": "√17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x ∝ √n\nx = k√n\n9 = k√9 ⟹ 9 = 3k\nk = 3\nx = 3√n\nWhen n = 17/9,\n\nx = 3 × √(17/9) = √17",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1536,6 +1616,22 @@
     "examyear": "2003"
   },
   {
+    "id": 260,
+    "question": "Find the equation of the locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1).",
+    "option": {
+      "a": "4x + 2y = 5",
+      "b": "4x - 2y = 5",
+      "c": "2x + 2y = 5",
+      "d": "2x + y = 5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1) is the perpendicular bisector of the straight line joining Q and R\nMid point QR = (x<sup>2</sub>+x<sub>1</sub>)/2,(y<sub>2</sub>+y<sub>1</sub>)/2\n\n= 2+0/2,1+0/2\n= (1,1/2)\n Gradient of QR = (y<sub>2</sub>−y<sub>1</sub>)/(x<sub>2</sub>−x<sub>1</sub>)\n= 1−0/2−0\n= 1/2\nGradient of PM = −1/(1/2)\n\n= -2\nEquation of PM = y - y<sub>1</sub>\n = m(x-x_1)\ni.e y - 1/2 = -2(x-1)\n2y - 1 = -4(x-1)\n2y - 1 = -4x + 4\n2y + 4x = 5",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 263,
     "question": "A triangle has vertices P(-1,6), Q(-3, -4) and R(1, -4).Find the midpoint of PQ and QR respectively.",
     "option": {
@@ -1870,6 +1966,22 @@
     "solution": "< PRS = 20° + 35° = 55°\n\n< POS = 2 < PRS\n\n2 x 55° = 10°\n\n< OPS = < PSO = x\n\nIn △\nPOS\n\nOP = OS(radii)\n\n△POS is an isosceles\n\n2x + 110° = 180°\n\n2x = 180° - 110° = 70°\n\nx = 70°/2\n \n\n\n= 35",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 326,
+    "question": "Three boys shared some oranges. The first received 1/3 of the oranges and the second received 2/3 of the remaining. If the third boy received the remaining 12 oranges, how many oranges did they share",
+    "option": {
+      "a": "60",
+      "b": "54",
+      "c": "48",
+      "d": "42"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let x = the number of oranges\nThe 1st received 1/3 of x = 1/3x\n∴Remainder = x - 1/3x = 2x/3\nThe 2nd received 2/3 of 2x/3 = 2/3 * 2x/3 = 4x/3\nThe 3rd received 12 oranges\n∴1/3x + 4x/9 + 12 = x\n(3x + 4x + 108)/9 = x\n3x + 4x + 108 = 9x\n7x + 108 = 9x\n9x - 7x = 108\n2x = 108\nx = 54 oranges",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 327,
@@ -2412,6 +2524,22 @@
     "image": "",
     "answer": "d",
     "solution": "Each ∠of a regular polygon=((n-2)180)/n=((6-2)180)/6=((4)180)/6     = 120°\nΔQSR is isosceles\n∴ Q = S = 30°\nAlso ΔTSR is isosceles\n∴ T = R = 30°\n∠TSV + ∠VSR = 120\n∠TSV + 30 = 120\n∠TSV = 120 - 30\n∠TSV = 90°\n∴∴VTS + ∴VST + ∴TVS = 180 (sum of ∠s of a Δ)\n30 + 90 + ∠TVS = 180\n120 + ∠TVS = 180\n∠TVS = 180 - 120\n∠TVS = 60°\n",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 407,
+    "question": "A binary operation θ defined on the set of real number is such that xθy = xy/6 for all x, y ∈ R. Find the inverse of 20 under this operation when the identity element is 6",
+    "option": {
+      "a": " 1/12",
+      "b": " 10/3",
+      "c": "1/20",
+      "d": "9/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "X ⊕ y = xy/6 = xe/6 = x\nXe = 6x\ne = 6\nX ⊕ y = xx<sup>1</sup>/6 where x<sup>1</sup> = 20\nXx20/6 = 6\nX = 36/20\nX = 9/5",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -3216,6 +3344,22 @@
     "examyear": "2009"
   },
   {
+    "id": 556,
+    "question": "If s = (2 + 3t)(5t - 4), find ds/dt when t = 4/5 secs",
+    "option": {
+      "a": "0 units per sec",
+      "b": "15 units per sec",
+      "c": "22 unit per sec",
+      "d": "26 units per sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "x = (2+3t)(5t-4)\nLet u = 2+3t ∴du/dt = 3\nand v = 5t-4 ∴dv/dt = 5\ndx/dt = Vdu/dt + Udv/dt\n= (5t-4)3 + (2+3t)5\n= 15t - 12 + 10 + 15t\n= 30t - 2\n= 30x4/5 - 2\n= 24 - 2\n= 22",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 558,
     "question": "Evaluate ∫sec<sup>2</sup>θ dθ?",
     "option": {
@@ -3308,6 +3452,22 @@
     "image": "",
     "answer": "d",
     "solution": "18630<sub>9</sub> - 16418<sub>9</sub> = 2211<sub>9</sub>",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 571,
+    "question": "Solve 5<sup>(2(x-1))</sup> × 5<sup>(x+1)</sup>=0.04",
+    "option": {
+      "a": "1/3",
+      "b": "1/4",
+      "c": "-1/5",
+      "d": "-1/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "5<sup>(2(x-1))</sup> × 5<sup>(x+1)</sup> = 0.04 \n5<sup>(2(x-1))</sup>  × 5<sup>(x+1)</sup> =5<sup>−2</sup>\n2x − 2 + x + 1 = −2\n3x − 1 = −2 ⟹ 3x = −2 + 1 = −1\nx =−1/3",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -3504,6 +3664,22 @@
     "examyear": "2010"
   },
   {
+    "id": 599,
+    "question": "Find the equation of a line parallel to y = -4x + 2 passing through (2,3)",
+    "option": {
+      "a": "y + 4x + 11 = 0",
+      "b": " y - 4x - 11 = 0",
+      "c": " y + 4x - 11 = 0",
+      "d": " y - 4x + 11 = 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "By comparing y = mx + c\n\nwith y = -4x + 2,\n\nthe gradient of y = -4x + 2 is m1 = -4\n\nlet the gradient of the line parallel to the given line be m2,\n\nthen, m2 = m1 = -4\n\n(condition for parallelism)\n\nusing, y - y1 = m2(x - x1)\n\nHence the equation of the parallel line is\n\ny - 3 = -4(x-2)\n\ny - 3 = -4 x + 8\n\ny + 4x = 8 + 3\n\ny + 4x = 11\n\ny + 4x - 11 = 0",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 600,
     "question": "Make Q the subject of formula if p = M/5(X + Q) + 1",
     "option": {
@@ -3532,6 +3708,22 @@
     "image": "",
     "answer": "c",
     "solution": "x α 1/y .........(1)\n\nx = k x 1/y .........(2)\n\nWhen x = 2(1/2)\n\n= 5/2, y = 2\n\n(2) becomes 5/2 = k x 1/2\n\ngiving k = 5\n\nfrom (2), x = 5/y\n\nso when y =4, x = 5/y = 1(1/4)",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 610,
+    "question": "A cylindrical pipe 50m long with radius 7m has one end open. What is the total surface area of the pipe?\n",
+    "option": {
+      "a": "749πm<sup>2</sup>",
+      "b": "700πm<sup>2</sup>",
+      "c": "350πm<sup>2</sup>",
+      "d": "98πm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Total surface area of the cylindrical pipe = area of circular base + curved surface area\n\n= πr<sup>2</sup> + 2πrh\n\n= π x 7<sup>2</sup> + 2π x 7 x 50\n\n= 49π + 700π\n= 749πm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -4208,6 +4400,22 @@
     "examyear": "2013"
   },
   {
+    "id": 782,
+    "question": "If r varies inversely as the square root of s and t, how does s vary with r and t?",
+    "option": {
+      "a": " s varies inversely as r and t<sup>2</sup>",
+      "b": "s varies inverely as r<sup>2</sup> and t",
+      "c": "s varies directly as r<sup>2</sup> and t<sup>2</sup>",
+      "d": "s varies directly as r and t"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "r ∝ 1/√s, r ∝ 1/√t\n \n\nr ∝ 1/√s ..... (1)\n\nr ∝ 1/√t ..... (2)\n\nCombining (1) and (2), we get\n\nr = k/(√s × √t) = k/√(st)\n\n\nThis gives √(st) = k/r\n\n\nBy taking the square of both sides, we get\n\nst = k<sup>2</sup>/r<sup>2</sup>\n\n\ns = k<sup>2</sup>/r<sup>2</sup>t",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 789,
     "question": "If y = x sin x, find δy/δx",
     "option": {
@@ -4736,6 +4944,22 @@
     "examyear": "2017"
   },
   {
+    "id": 876,
+    "question": "If temperature t is directly proportional to heat h, and when t = 20oC, h = 50 J, find t when h = 60J",
+    "option": {
+      "a": "24°C",
+      "b": "20°C",
+      "c": "34°C",
+      "d": "30°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "t ∝ h, t = 20, h\n\nt = ? h = 60\n\nt = kh where k is constant\n\n20 = 50k\n\nk = 20/50\n\nk = 2/5\n\n\nwhen h = 60, t = ?\n\nt = 2/5 × 60\n\nt = 24°C",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 877,
     "question": "Evaluate 1 - (1/5 x 2/3) + ( 5 + 2/3)",
     "option": {
@@ -4976,6 +5200,22 @@
     "examyear": "2017"
   },
   {
+    "id": 913,
+    "question": "What is the product of 2x<sup>2</sup − x + 1 and 3 − 2x",
+    "option": {
+      "a": " 4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3",
+      "b": " −4x<sup>3</sup> + 8x<sup>2</sup> − 5x + 3",
+      "c": "−4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3",
+      "d": " 4x<sup>3</sup> + 8x<sup>2</sup> − 5x + 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(2x<sup>2</sup> - x + 1) × (3 - 2x);\n\n3(2x<sup>2</sup> - x + 1) - 2x (2x<sup>2</sup> - x + 1)\n\n6x<sup>2</sup> - 3x + 3 - 4x<sup>3</sup> + 2x<sup>2</sup> - 2x\n\n-4x<sup>3</sup> + 8x<sup>2</sup> -5x + 3",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 914,
     "question": "A card is picked at random from a pack of 52 well shuffled playing cards. Find the probability of NOT picking a red cards in the pack. If there are 13 red card in the pack",
     "option": {
@@ -5008,6 +5248,22 @@
     "examyear": "2017"
   },
   {
+    "id": 916,
+    "question": "The bar chart above is a representation of a candidate’s scores in UTME in 2014, find his total scores",
+    "option": {
+      "a": "210",
+      "b": "240",
+      "c": "340",
+      "d": "200"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006153/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q48_vd1jdm.png",
+    "answer": "a",
+    "solution": "Total marks scored = 75+45+60+30 = 210",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 917,
     "question": "From the diagram above, find the value of x",
     "option": {
@@ -5022,6 +5278,38 @@
     "solution": "∠BDC + ∠BDA = 180° { Sum ∠s on a straight line } 65° + ∠BDA = 180° ∠BDA = 115° ∠BDA + ∠BAD + ∠ABD = 180°  (Sum ∠s in a △ } 115° + 50° + x = 180°.  x = 15°",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 918,
+    "question": "Determine the distance between point P(3, 4) and Q(4,5)",
+    "option": {
+      "a": "2",
+      "b": "√5\n ",
+      "c": "√2",
+      "d": "1"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"right left right left right left right left right left right left\" rowspacing=\"3pt\" columnspacing=\"0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em\" displaystyle=\"true\">\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi></mi>\n        <mo stretchy=\"false\">(</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>x</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>1</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo>,</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>y</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>1</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo stretchy=\"false\">)</mo>\n        <mo>=</mo>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>,</mo>\n        <mtext>&#xA0;</mtext>\n        <mo stretchy=\"false\">(</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>x</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>2</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo>,</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>y</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>2</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo stretchy=\"false\">)</mo>\n        <mo>=</mo>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>5</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>x</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>2</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo>&#x2212;<!-- − --></mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>x</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>1</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>y</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>2</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo>&#x2212;<!-- − --></mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>y</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>1</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mn>4</mn>\n                <mo>&#x2212;<!-- − --></mo>\n                <mn>3</mn>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mn>5</mn>\n                <mo>&#x2212;<!-- − --></mo>\n                <mn>4</mn>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>1</mn>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>1</mn>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n        <mo>=</mo>\n        <msqrt>\n          <mn>2</mn>\n        </msqrt>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "image": "",
+    "answer": "C",
+    "solution": "((x<sub>1</sub>,y<sub>1</sub>)=(3,4),  (x<sub>2</sub>,y<sub>1</sub>) = (4,5) d =√(〖(x<sub>2</sub> -x<sub>1</sub>)<sup>2</sup> +〖(y<sub>2</sub>-y<sub>1</sub>)〗<sup>2</sup> ) & d=√(〖(4 - 3)<sup>2</sup> +〖(5 - 4)〗<sup>2</sup> ) & d=√(1<sup>2</sup> + 1<sup>2</sup> ) = √2)",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 922,
+    "question": "A trader realises 10x - x<sup>2</sup>\nNaira profit from the sale of x bags of corn. How many bags will give him the maximum profit?",
+    "option": {
+      "a": "7",
+      "b": "6",
+      "c": "5",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Profit (P) = 10x − x2\nMaximum profit can be achieved when the differential of profit with respect to number of bags(x) is 0\n\ni.e. dp/dx = 0\n\ndp/dx = 10 - 2x = 0\n\n10 = 2x\n\nThen x = 10/2 = 5",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 923,
@@ -5276,6 +5564,22 @@
     "image": "",
     "answer": "b",
     "solution": "Sin(5x - 28) = Cos(3x - 50)………..i\n\n  But Sinα = Cos(90 - α)\n\n  So Sin(5x - 28) = Cos(90 - [5x - 28])\n\n  Sin(5x - 28) = Cos(90 - 5x + 28)\n\n  Sin(5x - 28) = Cos(118 - 5x)………ii\n\n  Combining i and ii\n\n  Cos(3x - 50) = Cos(118 - 5x)\n\n  3x - 50 = 118 - 5x\n\n  Collecting the like terms\n\n  3x + 5x = 118 + 50\n\n  8x = 168\n\n  x = 168/8\n  x = 21°",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 963,
+    "question": "Find the average of the first four prime numbers greater than 10",
+    "option": {
+      "a": "20",
+      "b": "19",
+      "c": "17",
+      "d": "15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Prime numbers are numbers that has only two factors (i.e 1 and itself). They are numbers that are only divisible by 1 and their selves. First four Prime numbers greater than 10 are 11, 13, 17 and 19\n\n  Average = sum of numbers / number\n\n  = (11+13+17+19)4\n  = 60/4\n  = 15",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5856,6 +6160,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1054,
+    "question": "The sum of the interior angle of pentagon is 6x + 6y. Find y in terms of x.",
+    "option": {
+      "a": "y = 6 - x",
+      "b": " y = 90 - x",
+      "c": " y = 120 - x",
+      "d": "y = 150 - x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Sum of interior angles = (2n - 4) 90°\n \n\nFor perntagon, n = 5 \n\nSum of interior angles = 6 x 90°\n = 540°\n \n\n6x + 6y = 540°\n \n\n6(x + y) = 540°\n \n\nx + y = 540°/6 = 90°\n \n\ny = 90°\n \n\ny = 90 - x",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1065,
     "question": "Find the derivative of the function y = 2x<sup>2</sup>(2x - 1) at the point x = -1?",
     "option": {
@@ -6044,6 +6364,22 @@
     "image": "",
     "answer": "c",
     "solution": "81a<sup>4</sup> - 16b<sup>4</sup> = (9a<sup>2</sup>)<sup>2</sup> - (4b<sup>2</sup>)<sup>2</sup>\n\n\n= (9a<sup>2</sup> + 4b<sup>2</sup>)(9a<sup>2</sup> - 4b<sup>2</sup>)\n\nN:B 9a<sup>2</sup> - 4b<sup>2</sup> = (3a - 2b)(3a+ 2b)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1094,
+    "question": "List all integers satisfying the inequality in -2 < 2x-6 < 4 ",
+    "option": {
+      "a": "2,3,4 and 5",
+      "b": "2,3",
+      "c": "2,5",
+      "d": "3,4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "-2 < 2x - 6   AND  2x - 6 < 4\n\n-2 + 6 <2x  AND  2x < 4 + 6\n\n4 <2x  AND  2x < 10\n\n: 2 <x  AND x <5\n\n2 < x < 5 \n\nAs 3 and 4",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -6288,6 +6624,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1126,
+    "question": "Given that S = 3t<sup>2</sup> + 5t - 10 is displacement of a particle in metres, calculate it initial velocity.",
+    "option": {
+      "a": "10m/s",
+      "b": "2m/s",
+      "c": "5m/s",
+      "d": "6m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The initial velocity (v) is obtained by differentiating the displacement (S) with respect to time, which gives:\n\nv = dS/dt=  d/dt(3t<sup>2</sup>+ 5t - 10) = 6t + 5\n\nThe initial velocity is the velocity of the particle at time t = 0. Substituting t = 0 into the velocity equation:\n\nv(0) = 6(0) + 5 = 5\n\nTherefore, the initial velocity of the particle is 5 m/s.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1130,
     "question": "If 8, p, q and 26 is an A.P. Find the values of p and q",
     "option": {
@@ -6512,6 +6864,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1166,
+    "question": "If A = { 1, 2, 3, 4, 5, 6}, B = { 2, 4, 6, 8 }. Find (A – B) ⋃ (B – A).",
+    "option": {
+      "a": "{1, 3, 5, 8}",
+      "b": "{8}",
+      "c": " {1, 2, 3, 4, 5, 6, 8}",
+      "d": "{1, 3, 5}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A = { 1, 2, 3, 4, 5, 6}\n\nB = { 2, 4, 6, 8 }\n\nA - B = { 1, 3, 5 }\n\nB - A = { 8 }\n\n∴ (A - B) ⋃ (B - A) = {1, 3, 5, 8}",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1167,
     "question": "A bag contains 8 red balls and some white balls. If the probability of drawing a white ball is half of the probability of drawing a red ball then find the probability of drawing a red ball and a white ball if the balls are drawn without replacement.",
     "option": {
@@ -6576,6 +6944,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1178,
+    "question": "Calculate, correct to three significant figures, the length AB in the diagram above.",
+    "option": {
+      "a": "36.4 cm",
+      "b": "36.1 cm",
+      "c": "36.2 cm",
+      "d": " 36.3 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008055/ALOC-Questions/Mathematics/2023/MATH_2023_Q42_msoqr6.jpg",
+    "answer": "c",
+    "solution": "sinA/a = sinB/b = sinC/c\n⟹sin82<sup>0</sup>/43.2 = sin56<sup>0</sup>/AB\n⟹AB × sin82<sup>0</sup> = 43.2 × sin56<sup>0</sup>\n∴ AB = (43.2 × sin56<sup>0</sup>)/sin82<sup>0</sup>  = 36.2cm (to 3 s.f)",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1180,
     "question": "Calculate, correct to three significant figures, the length of the arc AB in the diagram above.[Take π=22/7]",
     "option": {
@@ -6588,6 +6972,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008084/ALOC-Questions/Mathematics/2023/MATH_2023_Q44_cdwigh.jpg",
     "answer": "b",
     "solution": "Consider ∆XOB and using Pythagoras theorem\n\n13<sup>2</sup> = 12<sup>2</sup> + h<sup>2</sup>\n⇒ 169 = 144 + h<sup>2</sup>\n⇒ 169 - 144  =h<sup>2</sup>\n⇒ 25 = h<sup>2</sup>\n⇒ h = √25 = 5cm\n\ntan θ = opp/adj\n⇒ tan θ = 12/5 = 2.4\n\n⇒ θ = tan<sup>-1</sup>(2.4)\n\n⇒ θ = 67.38<sup>o</sup>\n∠AOB = 2θ = 2 x 67.38<sup>o</sup> = 134.76<sup>o</sup>\nL = θ/360<sup>o</sup>×2πr\n⇒ L = 134.76/360 × 2 × (22/7) × 13 =77082.72/2520\n∴ L = 30.6cm (to 3 s.f)",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1181,
+    "question": "A rectangular plot of land has sides with lengths of 38 m and 52 m corrected to the nearest m. Find the range of the possible values of the area of the rectangle",
+    "option": {
+      "a": " 1931.25 m<sup>2</sup> ≤ A < 2021.25 m<sup>2</sup>",
+      "b": " 1950 m<sup>2</sup>\n ≤ A < 2002m<sup>2</sup>",
+      "c": "1957 m<sup>2</sup>\n ≤ A < 1995 m<sup>2</sup>",
+      "d": "1931.25 m<sup>2</sup>\n ≥ A > 2021.25 m<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The sides have been given to the nearest meter, so\n\n51.5 m ≤ length < 52.5\n\n37.5 m ≤ width < 38.5\n\nMinimum area = 37.5 x 51.5 = 1931.25 m<sup>2</sup>\n\n\nMaximum area = 38.5 x 52.5 = 2021.25 m<sup>2</sup>\n\n\n∴ The range of the area = 1931.25 m<sup>2</sup> ≤ A < 2021.25 m<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -6748,6 +7148,22 @@
     "image": "",
     "answer": "b",
     "solution": "x * y = xy\nx * 2 = 12 - x\n\nThus by comparison,\n\nx = x, y = 2\n\nBut x * y = x * 2\n\nxy = 12 - x\n\nx2 = 12 - x\n\nx2 + x - 12 = 0\n\nx2 + 4x - 3x - 12 = 0\n\nx(x + 4) - 3(x + 4) = 0\n\n(x - 3)(x + 4) = 0\n\nx - 3 = 0 or x + 4 = 0\n\nSo x = 3 or x = -4",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1206,
+    "question": "Find y, if (52−6−7)(xy)=(7−11)",
+    "option": {
+      "a": "8",
+      "b": "5",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724001838/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q20_gokncz.jpg",
+    "answer": "c",
+    "solution": "By matrices multiplication;\n\n5x - 6y = 7 ........(1)\n2x - 7y = -11 ......(2)\n2 x (1): 10x - 12y = 14 .......(3)\n5 x (2): 10x - 35y = -55 ......(4)\n\n(3) - (4): 23y = 69\n\ny = 69/23 = 3",
     "examtype": "utme",
     "examyear": "2014"
   },
