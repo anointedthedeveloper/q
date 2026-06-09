@@ -192,6 +192,22 @@
     "examyear": "2007"
   },
   {
+    "id": 32,
+    "question": "Factorize 16(3x +2y)2 -25(a+2b)2  ",
+    "option": {
+      "a": "(12x + 8y -5a-10b)(12x+8y-5a-10b)",
+      "b": "20(3x +2y-a-2b)(3x+2y+a+1-2b) ",
+      "c": "(12x +8y+5a+10b)(12x +8y-5a-10b)",
+      "d": "20(3x +2y+ a+2b)(3x + 2y+a+2b)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 34,
     "question": "A. cylinder has height 4cm and base radius 5cm.its volume to 3 significant figure is  ",
     "option": {
@@ -672,6 +688,22 @@
     "examyear": "2000"
   },
   {
+    "id": 109,
+    "question": "The expression ax<sup>2</sup> + bx + c equals 5 at x = 1. If its derivative is 2x + 1, what are the values of a, b, c respectively?",
+    "option": {
+      "a": " 1, 3, 1",
+      "b": "1, 2, 1",
+      "c": " 2, 1, 1",
+      "d": "1, 1, 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "At x = 1, substituting x = 1 in the equation: ax<sup>2</sup> + bx + c = 5;\nf(1) => a + b + c = 5 .....(1)\n\nTaking the first derivative of f(x) in the original equation gives dy/dx = 2ax + b = 2x + 1 (given)....(2)\n\nFrom (2),=> b = 1, and 2ax = 2x, => a = 1.\n\nsubstituting into (1) 1 + 1 + c = 5, => c = 5 - 2 = 3\n\nThus a = 1, b = 1 and c = 3",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 110,
     "question": "Evaluate 5<sup>-3log5</sup><sup>2</sup> x 2<sup>2log2</sup><sup>3</sup>",
     "option": {
@@ -1120,6 +1152,22 @@
     "examyear": "2001"
   },
   {
+    "id": 158,
+    "question": "Find the variance of 2, 6, 8, 6 2, and 6.",
+    "option": {
+      "a": "6",
+      "b": "5",
+      "c": "√6",
+      "d": " √5"
+    },
+    "section": "(SOLUTION) <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>T</mi>\n  <mi>h</mi>\n  <mi>e</mi>\n  <mspace width=\"1mm\"></mspace>\n  <mi>m</mi>\n  <mi>e</mi>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mspace width=\"1mm\"></mspace>\n  <mrow data-mjx-texclass=\"ORD\">\n    <mover>\n      <mi>x</mi>\n      <mo stretchy=\"false\">&#xAF;</mo>\n    </mover>\n  </mrow>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo data-mjx-texclass=\"OP\">&#x2211;</mo>\n      <mrow data-mjx-texclass=\"ORD\">\n        <mi>x</mi>\n      </mrow>\n    </mrow>\n    <mi>n</mi>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>30</mn>\n    <mn>6</mn>\n  </mfrac>\n  <mo>=</mo>\n  <mn>5</mn>\n  <mtext mathcolor=\"red\">\\Variance</mtext>\n  <mspace width=\"1mm\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo data-mjx-texclass=\"OP\">&#x2211;</mo>\n      <mo stretchy=\"false\">(</mo>\n      <mrow data-mjx-texclass=\"ORD\">\n        <mi>x</mi>\n        <mo>&#x2212;</mo>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mover>\n            <mi>x</mi>\n            <mo stretchy=\"false\">&#xAF;</mo>\n          </mover>\n        </mrow>\n      </mrow>\n      <msup>\n        <mo stretchy=\"false\">)</mo>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n    </mrow>\n    <mi>n</mi>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>30</mn>\n    <mn>6</mn>\n  </mfrac>\n  <mo>=</mo>\n  <mn>5</mn>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "The mean X = sumation x/n = 30/6 = 5\\ Variance = (sumation (x-x)<sup>2</sup>) /n = 30/6= 5",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 162,
     "question": "The identity element with respect to the multiplication shown in the table above is",
     "option": {
@@ -1164,6 +1212,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696819/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_46_nhtrlx.jpg",
     "answer": "c",
     "solution": "< T = x/1\n = 25° (PQ = QT)\n\n< SQR = 2(25°) = 50° (sum of interior angle)\n\n< Q + < R + < S = 180°\n\n50° + 75° + < S = 180° = 125o + < S = 180°\n\n< S = 180° - 125° = 55°",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 168,
+    "question": "Find the value of θ in the diagram",
+    "option": {
+      "a": " 60°",
+      "b": "100°",
+      "c": "120°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696860/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_47_ecac79.jpg",
+    "answer": "c",
+    "solution": "Using cosine formula (t√3)<sup>2</sup> = t<sup>2</sup> + t<sup>2</sup> - 2t<sup>2</sup> cosθ\n\n\n3t<sup>2</sup> = 2t<sup>2</sup> - 2t<sup>2</sup> cosθ\n = 2t<sup>2</sup>(1 - cosθ)\n\n1 - cosθ\n = 3t<sup>2</sup> / 2t<sup>2</sup>\n = 3/2\n\n\ncos = 1 - 3/2 = − 1/2\n\n\nθ = cos<sup>-1</sup>(-1/2)          = 120° and 240°\n\nN.B 0 ≥ θ 360\n ",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -1566,6 +1630,22 @@
     "solution": "< PRQ = 180° - 128° = 52° = < R\n\n< P + < R + < Q = 180°\n\n76° + 52° + < Q = 180°\n\n128° + < Q = 180°\n\n< Q = 180° - 128°\n\n= 52°\n\nPQR is an isosceles",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 222,
+    "question": "Evaluate log<sub>√2</sub>4 + log1/2 16 − log<sub>4</sub>32",
+    "option": {
+      "a": "-5.5",
+      "b": "-2.5",
+      "c": "2.5",
+      "d": "5.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Note that if we set log<sub>(√2)</sub>4 = x<sub>1</sub>, solving gives x<sub>1</sub> =4 if log <sub>1/2</sub>16= x<sub>2</sub>, ⇒ x<sub>2</sub> = −4 Also for log<sub>4</sub> 32= x<sub>3</sub> =2.5 Combining results, x<sub>1</sub> + x<sub>2</sub> +x<sub>3 </sub> = 4+ (−4) −2.5 = −2.5\n\nNote that the solution has been separated to simplify solving difficulty due to different bases.",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 223,
@@ -3104,6 +3184,22 @@
     "examyear": "2007"
   },
   {
+    "id": 431,
+    "question": "Integrate (x<sup>2</sup>-√x)/x with respect to x",
+    "option": {
+      "a": "x<sup>2</sup>/2-2√x+K",
+      "b": "(2(x<sup>2</sup>-x))/3x+K",
+      "c": "x<sup>2</sup>/2-√x+K",
+      "d": "((x<sup>2</sup>-x))/3x+K"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo data-mjx-texclass=\"OP\">&#x222B;</mo>\n  <mfrac>\n    <mrow>\n      <msup>\n        <mi>x</mi>\n        <mn>2</mn>\n      </msup>\n      <mo>&#x2212;</mo>\n      <msqrt>\n        <mi>x</mi>\n      </msqrt>\n    </mrow>\n    <mi>x</mi>\n  </mfrac>\n  <mo>=</mo>\n  <mo data-mjx-texclass=\"OP\">&#x222B;</mo>\n  <mfrac>\n    <msup>\n      <mi>x</mi>\n      <mn>2</mn>\n    </msup>\n    <mi>x</mi>\n  </mfrac>\n  <mo>&#x2212;</mo>\n  <mfrac>\n    <msup>\n      <mi>x</mi>\n      <mrow data-mjx-texclass=\"ORD\">\n        <mfrac>\n          <mn>1</mn>\n          <mn>2</mn>\n        </mfrac>\n      </mrow>\n    </msup>\n    <mi>x</mi>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo data-mjx-texclass=\"OP\">&#x222B;</mo>\n  <mi>x</mi>\n  <mo>&#x2212;</mo>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mfrac>\n        <mrow>\n          <mo>&#x2212;</mo>\n          <mn>1</mn>\n        </mrow>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mrow data-mjx-texclass=\"INNER\">\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\n    <mfrac>\n      <mn>1</mn>\n      <mn>2</mn>\n    </mfrac>\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\n  </mrow>\n  <msup>\n    <mi>x</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>&#x2212;</mo>\n  <mfrac>\n    <msup>\n      <mi>x</mi>\n      <mrow data-mjx-texclass=\"ORD\">\n        <mfrac>\n          <mn>1</mn>\n          <mn>2</mn>\n        </mfrac>\n      </mrow>\n    </msup>\n    <mfrac>\n      <mn>1</mn>\n      <mn>2</mn>\n    </mfrac>\n  </mfrac>\n  <mo>+</mo>\n  <mi>K</mi>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <msup>\n      <mi>x</mi>\n      <mn>2</mn>\n    </msup>\n    <mn>2</mn>\n  </mfrac>\n  <mo>&#x2212;</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mfrac>\n        <mn>1</mn>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <mi>K</mi>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <msup>\n      <mi>x</mi>\n      <mn>2</mn>\n    </msup>\n    <mn>2</mn>\n  </mfrac>\n  <mo>&#x2212;</mo>\n  <mn>2</mn>\n  <msqrt>\n    <mi>x</mi>\n  </msqrt>\n  <mo>+</mo>\n  <mi>K</mi>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "∫(x<sup>2</sup>-√x)/x=∫x<sup>2</sup>/x-x^(1/2)/x∫x-x^((-1)/2)=(1/2)x<sup>2</sup>-x<sup>1/2</sup>/(1/2)+K=x<sup>2</sup>/2-2x<sup>1/2</sup>+K=x<sup>2</sup>/2-2√x+K",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 435,
     "question": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is",
     "option": {
@@ -3212,6 +3308,22 @@
     "image": "",
     "answer": "a",
     "solution": "√12-√147+y√3=0√(4×3)-√(49×3)+y√3=02√3-7√3+y√3=0y√3=7√3-2√3 y=(5√3)/√3 y=5",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 447,
+    "question": "Evaluate ((05652)<sup>2</sup> - (04375)<sup>2</sup>)/0.04 correct to three significant figures",
+    "option": {
+      "a": " 3.11",
+      "b": "3.13",
+      "c": " 0.313",
+      "d": "3.12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "((0.5652<sup>2</sup>-(0.4375)<sup>2</sup>)/0.04  ((0.5625+0.4375)(0.5625-0.4375))/0.04  (1.000×0.125)/0.04=3.125=3.13",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -3600,6 +3712,22 @@
     "examyear": "2008"
   },
   {
+    "id": 512,
+    "question": "Find the mean deviation of 2, 4, 5, and 9",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "5",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546297/ALOC-Questions/Mathematics/2008/MATH_2008_Q41_SOLUTION_hoqtce.jpg",
+    "answer": "b",
+    "solution": "X = 20/4\n= 5\nmean deviation = 8/4 = 2",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 516,
     "question": "The result of rolling a fair die 150 times is as summarized in the table above. What is the probability of obtaining a 5",
     "option": {
@@ -3952,6 +4080,22 @@
     "examyear": "2009"
   },
   {
+    "id": 554,
+    "question": "Find the value of sin 45° - cos 30°",
+    "option": {
+      "a": "(2+√3)/4",
+      "b": "(√2+√3)/4",
+      "c": "(√3+√3)/2",
+      "d": "(√2−√3)/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Sin45 − cos30.    √2/2− √3/2 = (√2−√3)/2",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 556,
     "question": "If s = (2 + 3t)(5t - 4), find ds/dt when t = 4/5 secs",
     "option": {
@@ -4012,6 +4156,22 @@
     "image": "",
     "answer": "d",
     "solution": "= (<sup>5</sup>C<sub>2</sub> × <sup>3</sup>C<sub>1</sub>) + (<sup>5</sup> C<sub>1</sub> × <sup>3</sup>C<sub>2</sub>)\n= (10×3) + G44(5×3)\n= 45.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 565,
+    "question": "In how many ways can 9 people be seated if 3 chairs are available?",
+    "option": {
+      "a": "720",
+      "b": "504",
+      "c": "336",
+      "d": "210"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\n9P3 =9!ways/(9-3)!\n \n=9!/6!\n \n=9 x 8 x 7 x 6!/6!\n\n= 504 ways",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -4464,6 +4624,22 @@
     "examyear": "2010"
   },
   {
+    "id": 621,
+    "question": "Find the sum to infinity of the following series. 0.5 + 0.05 + 0.005 + 0.0005 + .....",
+    "option": {
+      "a": "5/8",
+      "b": "5/7",
+      "c": "5/11",
+      "d": "5/9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using S∞ = a/1−r\n\nr = 0.05/0.5 = 1/10\n\nS∞ = 0.5/(1/10)\n\n\n= 0.5/(9/10)\n\n= 0.5×10/9\n\n= 5/9",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 624,
     "question": "A man invested N5,000 for 9 months at 4%. What is the simple interest?",
     "option": {
@@ -4812,6 +4988,22 @@
     "image": "",
     "answer": "b",
     "solution": "27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>,\n \n3<sup>3(x+2)</sup> ÷ 3<sup>2(x+1)</sup> =3<sup>2x</sup> \n3<sup>3x+6</sup> ÷ 3<sup>2x+2</sup> = 3<sup>2x</sup> \n∴ (3x + 6) − (2x + 2) = 2x\nx + 4 = 2x ⟹ x = 4",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 726,
+    "question": "If log<sub>3</sub> x<sup>2</sup> = -8, what is x?",
+    "option": {
+      "a": "1/3",
+      "b": "1/9",
+      "c": "1/27",
+      "d": "1/81"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "log<sub>3</sub> x<sup>2</sup> = -8\nx<sup>2</sup>  = 3<sup>-8</sup> \n\nx = 3<sup>−8×(1/2)</sup> \n\n\nx = 3<sup>-4</sup> \n\nx = 1/3<sup>4</sup> \n\n\nx = 1/81",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -5232,6 +5424,22 @@
     "examyear": "2013"
   },
   {
+    "id": 785,
+    "question": "The n<sup>th</sup> term of the progression 4/2, 7/3, 10/4, 13/5 is ...",
+    "option": {
+      "a": "(1−3n)/(n+1)",
+      "b": "(3n + 1)/(n+1)",
+      "c": "(3n + 1)/(n-1)",
+      "d": "3n - 1)/(n+1)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Using Tn = (3n+1)/(n+1),\n\nT<sub>1</sub> = 3(1)+1/(1)+1 = 4/2\n\n\nT<sub>2</sub> = (3(2)+1)/((2)+1) = 7/3\n\n\nT<sub>3</sub> = (3(3) +1/((3)+1) = 10/4",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 789,
     "question": "If y = x sin x, find δy/δx",
     "option": {
@@ -5488,6 +5696,22 @@
     "examyear": "2013"
   },
   {
+    "id": 814,
+    "question": "If tanθ=3/4, find the value of sinθ + cosθ\n.",
+    "option": {
+      "a": "1(1/3)",
+      "b": "1(2/3)",
+      "c": "1(3/5)",
+      "d": "1(2/5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "tan θ = opp/adj = 3/4\n \nhyp<sup>2</sup>=opp<sup>2</sup> + adj<sup>2</sup>\nhyp= √(3<sup>2</sup> + 4<sup>2</sup>)\n= 5\n\nsinθ = 3/5; cosθ = 4/5\nsinθ + cosθ = 3/5 + 4/5\n= 7/5 = 1(2/5)",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 815,
     "question": "Integrate 1+x/x<sup>3</sup>dx",
     "option": {
@@ -5712,6 +5936,22 @@
     "examyear": "2016"
   },
   {
+    "id": 849,
+    "question": "The mean of 2-t, 4+t, 3-2t, 2+t and t-1 is",
+    "option": {
+      "a": "2",
+      "b": "t",
+      "c": "-t",
+      "d": "-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Mean = (2−t+4+t+3−2t+2+t+t−1)/5\n\n\n= 10/5\n = 2",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 854,
     "question": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km?",
     "option": {
@@ -5804,6 +6044,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003216/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q44_ogwfpl.jpg",
     "answer": "b",
     "solution": "< PRO = 180° - (110 + 50)°\n= 180 - 160 = 20°",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 865,
+    "question": "The bar chart above shows the marks obtained by students in a mathematics test.\nHow many students in all took the test?",
+    "option": {
+      "a": "40",
+      "b": "30",
+      "c": "10",
+      "d": "20"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003254/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q47_sxav6d.jpg",
+    "answer": "a",
+    "solution": "3 + 2 + 5 + 5 + + 5 + 10 + 4 + 3 + 1 + 2 = 40",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -7440,6 +7696,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1077,
+    "question": "A cylinder pipe, made of metal is 3cm thick.If the internal radius of the pipe is 10cm.Find the volume of metal used in making 3m of the pipe.",
+    "option": {
+      "a": " 153π cm<sup>3</sup>",
+      "b": "207π cm<sup>3</sup>",
+      "c": "15300π cm<sup>3</sup>",
+      "d": "20700π cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Volume of a cylinder = πr<sup>2</sup>h\n\nFirst convert 3 m to cm by multiplying by 100\n\nVolume of External cylinder = π × 13<sup>2</sup> × 300\nVolume of Internal cylinder = π × 10<sup>2</sup> × 300\nHence; Volume of External cylinder - Volume of Internal cylinder\n\nTotal volume (v) = π(169 − 100) × 300\nV = π × 69 × 300\nV = 20700π cm<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1078,
     "question": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the?",
     "option": {
@@ -7516,6 +7788,22 @@
     "image": "",
     "answer": "c",
     "solution": "W α (1/uv)/(u + v)\n\n\n∴ w = (k/uv)/(u + v)\n\n\n= k(u+v)/(uv)\n\n\nw = k(u+v)/uv\n\n\nw = 8, u = 2 and v = 6\n\n8 = k(2+6)/2(6)\n\n\n= k(8)/12\n\n\nk = 12\n\ni.e 12 ( u + v) = uwv",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1088,
+    "question": "factorize m<sup>3</sup> - m<sup>2</sup> + 2m - 2",
+    "option": {
+      "a": "(m<sup>2</sup> + 1)(m - 2)",
+      "b": " (m - 1)(m + 1)(m + 2)",
+      "c": "(m - 2)(m + 1)(m - 1)",
+      "d": "(m<sup>2</sup> + 2)(m - 1)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "(m<sup>2</sup> + 2) (m -1)",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -7856,6 +8144,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1129,
+    "question": "If y varies inversely as x and x = 3 when y =4. Find the value of x when y = 12",
+    "option": {
+      "a": "4",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "y = 1/x; y = k/x\nk =xy → 3 * 4 = 12\n\nx = k/y\n \n\nx = 12/12 = 1",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1130,
     "question": "If 8, p, q and 26 is an A.P. Find the values of p and q",
     "option": {
@@ -7950,6 +8254,22 @@
     "solution": "It is given that the cost of the item reduces to #3800.00 after the discount on the item.\n\nLet original price = x\n\nx – (20% of x) = 100\n\n⇒ x – 0.2x = 100\n\n⇒ 0.8x = #3800\n\n⇒ x = 3800/0.8\n⇒ x = 4,750",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 1139,
+    "question": "Let '*' and '^' be two binary operations such that a * b = a<sup>2</sup>b and a ^ b = 2a + b. Find (-4 * 2) ^ (7 * -1).",
+    "option": {
+      "a": "-49",
+      "b": "64",
+      "c": "113",
+      "d": "15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given that, a * b = a<sup>2</sup>b and a ^ b = 2a + b\n\n(-4 * 2) = (-4)<sup>2</sup> x 2 = 16 x 2 = 32\n\n(7 * -1) = 7<sup>2</sup> x (-1) = 49 x (-1) = -49\n\n∴ (-4 * 2) ^ (7 * -1) = 2(32) + (-49) = 64 - 49 = 15",
+    "examtype": "utme",
+    "examyear": "2023"
   },
   {
     "id": 1140,
@@ -8380,6 +8700,22 @@
     "image": "",
     "answer": "b",
     "solution": "If log 7.5 = 0.8751\nThen 2log75 + log750\n= 2(1.8751) + 2.8751\n= 3.7502 + 2.8751\n= 6.6253",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1192,
+    "question": "Solve for x in 8x<sup>-2</sup> = 2/25",
+    "option": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "8x<sup>-2</sup> = 2/25\n\nx<sup>-2</sup> = 2/25 x 1/8\n\nx<sup>-2</sup> = 2/200\n\nx<sup>-2</sup> = 1/100\n\n1/x<sup>2</sup> = 1/100\n\nx<sup>2</sup> = 100\n\nx = 10",
     "examtype": "utme",
     "examyear": "2014"
   },
