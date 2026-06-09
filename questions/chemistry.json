@@ -1,5 +1,37 @@
 [
   {
+    "id": 3,
+    "question": "A particle that contains 9 protons, 10 neutrons and 10electrons is a",
+    "option": {
+      "a": "Neghative ion",
+      "b": "Positive ion",
+      "c": "Neutral atom of a non metal",
+      "d": "Neutral atom of a metal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 6,
+    "question": "Milikan’s contribution to the development of atomic theory is the determination of",
+    "option": {
+      "a": "Charge on electron",
+      "b": "Positive rays",
+      "c": "Charge to amss ratio",
+      "d": "Cathode rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 11,
     "question": "Deliquenscent substances are used for",
     "option": {
@@ -43,6 +75,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 21,
+    "question": "What current in amperes will deposit 2.7g of aluminium in 2 hours [Al = 27, f = 96500 C mol-1]",
+    "option": {
+      "a": "32",
+      "b": "8",
+      "c": "4",
+      "d": "16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
@@ -151,6 +199,22 @@
       "b": "820C – 840C",
       "c": "600C – 780C",
       "d": "700C – 744C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 51,
+    "question": "Which of the following solutions containing only hydroxyl ions will liberate hydrogen gas when reacted with magnesium metal",
+    "option": {
+      "a": "1.0 x 10-2 mol dm-3",
+      "b": "1.0 x 10-4 mol dm -3",
+      "c": "1.0 x 10-5 mol dm-3",
+      "d": "1.0 x 10-12 mol dm-3"
     },
     "section": "",
     "image": "",
@@ -448,6 +512,22 @@
     "examyear": "2004"
   },
   {
+    "id": 128,
+    "question": "It is difficult to achieve an orderly arrangement of the molecules of a gas because they",
+    "option": {
+      "a": "Have no definite shape",
+      "b": "Have little force attraction between them",
+      "c": "Can collide with one another in the container",
+      "d": "Are too small in size"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 132,
     "question": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecule is its",
     "option": {
@@ -619,6 +699,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 159,
+    "question": "Sodium metal is always kept under oil because it",
+    "option": {
+      "a": "Readily reacts with water",
+      "b": "Is reduced by atmospheric nitrogen",
+      "c": "Reacts vigorously on exposure to air",
+      "d": "Reacts with oxygen and carbon(IV) oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -800,6 +896,22 @@
     "examyear": "2005"
   },
   {
+    "id": 210,
+    "question": "When sulphur (IV) oxide is passed into a solution of sodium hydroxide for a long time. It eventually produces a solution of",
+    "option": {
+      "a": "Na2SO4",
+      "b": "NaHSO4",
+      "c": "Na2SO3",
+      "d": "NaHSO3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 216,
     "question": "H2(g)  +  Br2(g) →  2BHr(g)  The reaction above is carried out at 250C. If Δ H is kJ mol-1 and   Δ S is -106J mol-1K-1 the reaction will",
     "option": {
@@ -939,6 +1051,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 244,
+    "question": "The produce of the combustion of candle wax are",
+    "option": {
+      "a": "Carbon(IV) oxide and water",
+      "b": "Oxygen and water",
+      "c": "Hydrogen and water",
+      "d": "Carbon(II)oxide an d water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -1280,6 +1408,22 @@
     "examyear": "2015"
   },
   {
+    "id": 308,
+    "question": "In the industrial production of H₂ from water gas, the CO₂ produced along with the H₂ is removed by",
+    "option": {
+      "a": "Washing under pressure",
+      "b": "Drying over phosphorus (V) oxide",
+      "c": "Passing the mixture through limewater",
+      "d": "Using ammoniacal copper (I) chloride"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Water gas shift reaction:\n\nCO + H₂O → CO₂ + H₂\nThis produces hydrogen but also carbon dioxide as a byproduct.\nCO₂ removal method:\n\nIn industrial hydrogen production from water gas, CO₂ is removed by washing under pressure, where the gas mixture is passed through water under high pressure to dissolve and remove the carbon dioxide.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 311,
     "question": "The acid in electrolysis of water is dilute",
     "option": {
@@ -1420,6 +1564,22 @@
     "image": "",
     "answer": "b",
     "solution": "Corrosion (rusting of iron) requires both water and oxygen. Water acts as the electrolyte enabling electron transfer, while oxygen acts as the oxidizing agent. CO₂ is not an essential requirement for basic corrosion to occur.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 361,
+    "question": "Ammonium chloride can be separated from its mixture with common salt by",
+    "option": {
+      "a": "Distillation",
+      "b": "Evaporation",
+      "c": "Decantation",
+      "d": "Sublimation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "NH₄Cl sublimes — it converts directly from solid to vapour on heating without melting. NaCl (common salt) does not sublime. Heating the mixture causes NH₄Cl vapour to rise and re-solidify on a cooler surface, separating it cleanly from NaCl.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1568,6 +1728,22 @@
     "examyear": "2016"
   },
   {
+    "id": 388,
+    "question": "In the extraction of iron, the waste gas from the furnace is a mixture of",
+    "option": {
+      "a": "PH₃, CO and CO₂",
+      "b": "CO and C",
+      "c": "N₂, CO and CO₂",
+      "d": "PH₃ and CO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In the blast furnace, hot air (containing N₂) is blasted in and coke reacts with oxygen and CO₂ to form CO. The waste gases leaving the furnace are therefore a mixture of N₂ (from the blast of air), CO (reducing agent), and CO₂ (product of reduction reactions).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 390,
     "question": "An example of a solid emulsion is",
     "option": {
@@ -1676,6 +1852,22 @@
     "image": "",
     "answer": "a",
     "solution": "Charge = I × t = 10 × 4830 = 48300 C. Moles of electrons = 48300/96500 = 0.5 mol. Ag⁺ + e⁻ → Ag, so moles of Ag = 0.5 mol. Mass of Ag = 0.5 × 108 = 54.0 g.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 428,
+    "question": "Tin is unaffected by air at ordinary temperature due to its",
+    "option": {
+      "a": "Low melting point",
+      "b": "Weak electropositive character",
+      "c": "High boiling point",
+      "d": "White lustrous appearance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Tin is resistant to corrosion at ordinary temperatures because of its weak electropositive (low reactivity) character. It has a low tendency to lose electrons and oxidize in air. This weak electropositive character means it does not readily react with oxygen or moisture at room temperature, making it useful as a protective coating (tinning).",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -1952,6 +2144,22 @@
     "examyear": "2018"
   },
   {
+    "id": 487,
+    "question": "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is",
+    "option": {
+      "a": "carbon-14",
+      "b": "phosphorus-32",
+      "c": "cobalt-60",
+      "d": "iodine-131"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Cobalt-60 is used in industrial radiography because it emits high-energy gamma rays that can penetrate metal welds and castings. The gamma rays expose photographic film on the other side, revealing any internal flaws or defects. Carbon-14 is used in radiocarbon dating; iodine-131 is used in thyroid diagnosis/treatment; phosphorus-32 is used in biological research.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 490,
     "question": "(I) 3CuO(s) + 2NH₃(g) → 3Cu(s) + 3H₂O(l) + N₂(g)\n(II) 2NH₃(g) + 3Cl₂(g) → 6HCl(g) + N₂(g)\n(III) 4NH₃(g) + 3O₂(g) → 6H₂O(l) + N₂(g)\nThe reactions represented by the equations above demonstrate the",
     "option": {
@@ -2012,6 +2220,22 @@
     "image": "",
     "answer": "c",
     "solution": "Duralumin is an alloy of Al, Cu, Mg, and Mn. Alnico is an alloy of Al, Ni, and Co. The only element common to both alloys is Aluminium (Al).",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 504,
+    "question": "The solubility of solids that dissolve in a given solvent with the liberation of heat will",
+    "option": {
+      "a": "increase with an increase in temperature",
+      "b": "decrease with an increase in temperature",
+      "c": "decrease with a decrease in temperature",
+      "d": "not be affected by changes in temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a solid dissolves with liberation of heat (exothermic dissolution, ΔH < 0), the dissolution process releases energy. By Le Chatelier's principle, increasing temperature shifts the equilibrium to oppose the heat, i.e., toward the undissolved solid. Therefore, the solubility decreases with increasing temperature for exothermic dissolution.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2336,6 +2560,22 @@
     "examyear": "2020"
   },
   {
+    "id": 595,
+    "question": "Give the common name for the following compound (CH₃)₂ CH CH₂ -Br",
+    "option": {
+      "a": "Isobutyl bromide",
+      "b": "Methyl bromide",
+      "c": "Propyl bromide",
+      "d": "Butyl bromide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The compound (CH₃)₂CHCH₂Br has an isobutyl group (a branched four-carbon group) attached to bromine. The isobutyl group is derived from isobutane (2-methylpropane) by removing a hydrogen from the terminal carbon. The common name of the compound is therefore isobutyl bromide.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 596,
     "question": "The enzyme that converts glucose to ethyl alcohol is?",
     "option": {
@@ -2512,6 +2752,22 @@
     "examyear": "2021"
   },
   {
+    "id": 626,
+    "question": "The reactions involving simultaneous oxidation and reduction are called?",
+    "option": {
+      "a": "Automatic reactions",
+      "b": "Alternate reactions",
+      "c": "Reduction agency",
+      "d": "Redox reactions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Redox reactions are chemical reactions in which oxidation and reduction occur simultaneously. One species loses electrons (is oxidised) while another gains those electrons (is reduced). The term redox is a combination of reduction and oxidation. These reactions include combustion, rusting, electrochemical cells, and many biological processes.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 628,
     "question": "The process or act of extracting a metal from its ore and refining it is called?",
     "option": {
@@ -2636,6 +2892,22 @@
     "image": "",
     "answer": "d",
     "solution": "Nitrochalk is a widely used nitrogen fertilizer consisting of a mixture of ammonium nitrate and calcium carbonate (limestone). It supplies nitrogen to plants in the form of ammonium and nitrate ions. Galena is lead sulphide (ore of lead), bauxite is aluminium ore, and emerald is a gemstone — none of these are fertilizers.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 646,
+    "question": "Addition of charcoal to the filter bed of sand during water treatment for township supply is to?",
+    "option": {
+      "a": "prevent goiter",
+      "b": "prevent tooth decay",
+      "c": "remove odour",
+      "d": "kill germs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Activated charcoal (carbon) is added to the filter bed during water treatment because it is highly porous and has a large surface area. It adsorbs dissolved organic compounds, taste-causing substances, and odour-producing chemicals from the water. It does not kill germs (that is done by chlorination), prevent goiter (iodine does that), or prevent tooth decay (fluoride does that).",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -2784,6 +3056,22 @@
     "examyear": "2022"
   },
   {
+    "id": 673,
+    "question": "The table shows the compositions of the atmosphere of planet X: CO₂ = 4%, N₂ = 72%, O₂ = 24%. Which of these gases are present in higher percentages on earth?",
+    "option": {
+      "a": "CO₂ and O₂",
+      "b": "N₂ and CO₂",
+      "c": "CO₂, O₂ and N₂",
+      "d": "O₂ and N₂"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777639629/ALOC-Questions/Chemistry/UTME/2022/Chemistry_2022_Q39_dvzam2.png",
+    "answer": "a",
+    "solution": "On earth: N₂ ≈ 78%, O₂ ≈ 21%, CO₂ ≈ 0.04%. On planet X: CO₂ = 4%, N₂ = 72%, O₂ = 24%. Comparing each gas: CO₂ on planet X (4%) is far higher than on earth (0.04%). O₂ on planet X (24%) is higher than on earth (21%). N₂ on earth (78%) is higher than on planet X (72%). The gases present in higher percentages on planet X compared to earth are CO₂ and O₂.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 676,
     "question": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium?",
     "option": {
@@ -2928,6 +3216,22 @@
     "examyear": "2023"
   },
   {
+    "id": 695,
+    "question": "What is the trend for ionization energy across a period in the periodic table?",
+    "option": {
+      "a": "Increases from left to right.",
+      "b": "Remains constant",
+      "c": "Varies randomly",
+      "d": "Decreases from left to right"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Across a period from left to right, the atomic number increases, meaning more protons are added to the nucleus. This increases the nuclear charge, which attracts electrons more strongly. As a result, more energy is required to remove an electron, so ionization energy increases from left to right across a period.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 698,
     "question": "What is the product of the electrolysis of aqueous sodium chloride (NaCl) using inert electrodes?",
     "option": {
@@ -3038,6 +3342,22 @@
     "solution": "Non-metals tend to gain electrons in chemical reactions, forming negatively charged anions. This is because non-metals have high electronegativities and need relatively few electrons to complete their outer shells. High thermal and electrical conductivity are properties of metals. Most non-metals are gases or have low melting points at room temperature, though some like carbon (graphite) are solid. Forming cations is a property of metals.",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 715,
+    "question": "At a given temperature and pressure, a gas X diffuses twice as fast as gas Y. It follows that",
+    "option": {
+      "a": "Gas Y is two times as heavy as Gas X",
+      "b": "Gas Y is four times as heavy as Gas X",
+      "c": "Gas Y is monoatomic",
+      "d": "Gas X is diatomic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "By Graham's Law of diffusion: rate of diffusion is inversely proportional to the square root of molar mass. Rate_X/Rate_Y = √(M_Y/M_X). Given Rate_X = 2 × Rate_Y: 2 = √(M_Y/M_X). Squaring both sides: 4 = M_Y/M_X. Therefore M_Y = 4 × M_X. Gas Y is four times as heavy as Gas X.",
+    "examtype": "utme",
+    "examyear": "2024"
   },
   {
     "id": 726,
