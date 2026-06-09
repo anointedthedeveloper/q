@@ -4208,6 +4208,22 @@
     "examyear": "2014"
   },
   {
+    "id": 357,
+    "question": "An error of principle is made, if",
+    "option": {
+      "a": "an entry has been made in the wrong class of account",
+      "b": "a transaction has been completely omitted",
+      "c": "an entry has been made on the wrong side of the two accounts concerned",
+      "d": "a transaction is entered in both accounts for the wrong amount"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 359,
     "question": "The cost of carriage outward is classified as",
     "option": {
@@ -6048,6 +6064,22 @@
     "examyear": "2015"
   },
   {
+    "id": 522,
+    "question": "Using the given information, calculate the acid test ratio:\n\nStock: ₦11,250\nDebtors: ₦18,750\nCreditors: ₦3,750\nBank: ₦4,000\nNet profit: ₦7,500\nNet: ₦60,000",
+    "option": {
+      "a": "5 : 1",
+      "b": " 6 : 1",
+      "c": " 6 : 1 : 1",
+      "d": "4 : 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Quick assets = Debtors + Bank = 18,750 + 4,000 = 22,750\nAcid-test ratio = Quick assets/Creditors = 22,750/3,750 ≈ 6.06 : 1. Rounded to the nearest whole‐number ratio, that’s 6 : 1.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 524,
     "question": "Buhari and Osinbajo entered into a partnership in which Buhari contributed a capital of ₦40,000 and is entitled to a salary allowance of ₦10,000, while Osinbajo contributed ₦70,000 of capital and is entitled to a salary allowance of ₦15,000. Both partners earn interest on their capital at 5% per annum, and any remaining profit or loss is to be shared between them in the ratio of 40 : 60 (Buhari : Osinbajo). For the year ended, the business realized a net profit of ₦80,000, and during the year Buhari withdrew ₦80,000 while Osinbajo withdrew ₦12,000. What is Osinbajo share of profit?\n",
     "option": {
@@ -6800,6 +6832,22 @@
     "examyear": "2016"
   },
   {
+    "id": 587,
+    "question": "When the fixed capital method is used, the partners' share of profits and remunerations are credited to the",
+    "option": {
+      "a": " current account",
+      "b": "profit and loss account",
+      "c": "profit and loss appropriation account",
+      "d": " capital account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Under the fixed capital method, each partner’s capital account remains unchanged (fixed). All profit shares, interest on capital, remuneration, and similar items are routed through the partners’ current accounts—so these amounts are credited to the current account rather than to the capital account or directly to profit & loss",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 588,
     "question": "A discount that is allowed to encourage a debtor to pay off his debt within a period is the",
     "option": {
@@ -7184,6 +7232,22 @@
     "examyear": "2016"
   },
   {
+    "id": 614,
+    "question": "What is the ledger entry for sale of generator on credit to Patrick?",
+    "option": {
+      "a": "credit sales account and debit Patrick",
+      "b": "credit generator account and debit cash account",
+      "c": "credit sales account and debit cash account",
+      "d": "credit generator account and debit Patrick "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Patrick is receiving and should be debited while generator account is giving",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 616,
     "question": "Capital for a profit making organization is generated through",
     "option": {
@@ -7516,6 +7580,22 @@
     "image": "",
     "answer": "b",
     "solution": "Department A’s discount‑received rate is ₦24 000 ÷ ₦150 000 = 16%. Applying this to Department B’s purchases (₦250 000) gives ₦250 000 × 16% = ₦40 000 as the discount received by Department B.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 642,
+    "question": "An advantage of FIFO method of stock valuation is that",
+    "option": {
+      "a": "it serves-as a control during inflation",
+      "b": "it is calculated at the end of the year",
+      "c": " it is progressive in nature",
+      "d": "its flow of cost is in sequence with the flow of stock."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The major advantage of the first in first out(FIFO) method of stock valuation\n\n1. it is very easy to apply\n\n2. no manipulation of income is possible\n\n3. the balance sheet amount for inventory is likely to approximate the current market value\n\n4. its flow of cost is in sequence with the flow of stock. Since the first stock will be considered for sale before other stock. the cost is always in sequence with the flow of stock because it corresponds with the normal physical flow of goods",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -8000,6 +8080,22 @@
     "examyear": "2018"
   },
   {
+    "id": 686,
+    "question": "Adex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch: Stock at branch 1st January at cost ₦400, Goods sent to branch at cost ₦8000, Returns to head office ₦340, Cash sales ₦9160, Stock at branch 31st December at cost ₦720. Use the information to answer the question.  calculate the gross profit",
+    "option": {
+      "a": "₦1870",
+      "b": "₦1530",
+      "c": " ₦1640",
+      "d": "₦1820"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gross Profit = Sales - Cost of Goods Sold….. Cost of Goods Sold = Opening Stock + Goods Sent - Returns - Closing Stock\n= ₦400 + ₦8,000 - ₦340 - ₦720\n= ₦7,340…. Gross Profit = Sales - Cost of Goods Sold\n= ₦9,160 - ₦7,340 = ₦1,820\nThe branch made a gross profit of ₦1,820 for the period.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 688,
     "question": "In departmental accounting, which is not a transfer pricing_________",
     "option": {
@@ -8124,6 +8220,22 @@
     "image": "",
     "answer": "b",
     "solution": "If Khadija is to take 1/5th i.e. 20%\n\n  Sule and Ahmed are to share 80% (100% - 20%) equally\n\n  Sule = 2/5\n\n  Ahmed = 2/5\n\n  Khadija = 1/5",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 703,
+    "question": "Which of the following is a common cause of a discrepancy between head office and branch trial office________",
+    "option": {
+      "a": "Stock and repayment",
+      "b": "Creditors and cash in trans",
+      "c": "Stock and cash in transit",
+      "d": "Debtors and cash in transit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Goods in transit are goods sent by the head office to branch but by the close of financial year, these goods have not yet reached the branch.\n\n Cash in transit are cash remitted by the branch to head office by the end of the financial year this cash has not yet reached the head office\n\nAnother major cause of discrepancy is returns in transit. This is the returns by the branch to head office but by the end of the year, they have not been received by the head office",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -12336,6 +12448,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1081,
+    "question": "<b>Use the information below to answer questions 17 and 18</b>\n\nGiven Information:\n\nOpening balance: ₦10,640\nPurchases: ₦26,912\nReturns inwards: ₦492\nReturns outwards: ₦810\nCash discount received: ₦1,348\nCash discount allowed: ₦1,560\nCash paid to suppliers: ₦20,808\n\nAt the year-end, the purchases ledger showed a\ndebit balance of: ₦108\n\n\nThe total on the debit side of the purchase ledger control account will be:",
+    "option": {
+      "a": "₦23,074.",
+      "b": "₦2,215",
+      "c": "₦21,834",
+      "d": "₦21,054"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Workings (debit entries of the purchases ledger control account):\n\nCash paid to suppliers: ₦20,808\n\nReturns outwards (purchases returns): ₦810\n\nCash discount received: ₦1,348\n\nClosing debit balance shown in ledger: ₦108\n— Total = ₦20,808 + ₦810 + ₦1,348 + ₦108 = ₦23,074.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1083,
     "question": "In a sales ledger, contra entry is found on the?",
     "option": {
@@ -12508,6 +12636,22 @@
     "image": "",
     "answer": "b",
     "solution": "When members pay their subscription before it is due (in advance), the organization has received money but hasn't yet provided the service for that period.\nThis means the organization owes the service to the members - it's a debt that must be settled by providing the service in the future.\nAny amount owed by an organization is a liability.\nSince subscription paid in advance will be settled within one year, it is a current liability.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1097,
+    "question": "<b>Use the information below to answer questions 33 and 34</b>\n\nWhat is the net profit made by department S?",
+    "option": {
+      "a": "₦3,600",
+      "b": "₦3,000",
+      "c": "₦2,400",
+      "d": "₦2,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662591/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q33-34_if0cr9.png",
+    "answer": "c",
+    "solution": "Total depreciation = ₦1,000\n\nDepreciation (S) = ₦60 ⇒ Depreciation (T) = ₦1,000 − ₦60 = ₦940\n\nDept T equation:\nGross profit (T) − Salaries (T) − Electricity (T) − Depreciation (T) = Net profit (T)\n4,000 − 1,200 − Electricity(T) − 940 = 1,600\n\nSolve for Electricity (T):\n4,000 − 1,200 − 940 = 1,860\nElectricity(T) = 1,860 − 1,600 = ₦260\n\nTotal electricity = ₦2,000 ⇒ Electricity(S) = 2,000 − 260 = ₦1,740\n\nDept S net profit:\nNet(S) = Gross(S) − Salaries(S) − Electricity(S) − Depreciation(S)\nNet(S) = 6,000 − 1,800 − 1,740 − 60 = ₦2,400",
     "examtype": "utme",
     "examyear": "2004"
   },
