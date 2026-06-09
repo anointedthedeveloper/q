@@ -192,6 +192,22 @@
     "examyear": "2006"
   },
   {
+    "id": 15,
+    "question": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is with replacement: ",
+    "option": {
+      "a": "0.9",
+      "b": "1",
+      "c": "0.47",
+      "d": "0.49"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 16,
     "question": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is without replacement ",
     "option": {
@@ -668,6 +684,22 @@
     "image": "",
     "answer": "c",
     "solution": "If P-1 is the inverse of P and O is the identity, Then P-1 * P = P * P-1 = 0\ni.e. P-1 + P - P-1.P = 0\nP-1 - P-1.P = -P\nP-1(1 - P) = -P\nP-1 = -P/(P-1)\n= P/(P-1)",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 84,
+    "question": "Evaluate (1/2 - 1/4 - 1/8 - 1/16 + ...) - 1",
+    "option": {
+      "a": "2/3",
+      "b": "zero",
+      "c": "-2/3",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "S = a/(1+r), where a = 1/2, r = 1/2.\nS = 1/2 3/2 = 1/2 x 3/2 = 1/3.\n1/3 - 1 = -2/3",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -1436,6 +1468,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696908/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_48_bsnyk3.jpg",
     "answer": "d",
     "solution": "yellow (Color of Cars) = 3 (Number (frequency). white (Color of Cars) = 4 (Number (frequency). Red (Color of Cars) = 8 (Number (frequency). Green (Color of Cars) = 2 (Number (frequency). Blue (Color of Cars) = 6 (Number (frequency). Black (Color of Cars) = 2 (Number (frequency). TOTAL  = 25                                                           Thus, the fraction of the total numbers that are yellow is 3/25",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 170,
+    "question": "The graph shows the cumulative frequency of the distribution of masses of fertilizer for 48 workers in one institution. Which of the following gives the inter-quartile range?",
+    "option": {
+      "a": "1/2(Q<sub>3</sub> - Q<sub>1</sub>",
+      "b": "(Q<sub>3</sub> - Q<sub>2</sub>",
+      "c": "(Q<sub>3</sub> - Q<sub>2</sub>",
+      "d": "(Q<sub>3</sub> - Q<sub>1</sub>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696947/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_49_eg0oqp.jpg",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -2512,6 +2560,38 @@
     "examyear": "2004"
   },
   {
+    "id": 293,
+    "question": "A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of assembly",
+    "option": {
+      "a": "378 ways",
+      "b": " 462 ways",
+      "c": "840 ways",
+      "d": "924 ways"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mi></mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>3</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>1</mn>\n    </mrow>\n  </msub>\n  <msup>\n    <mo>&#xD7;</mo>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>9</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>5</mn>\n    </mrow>\n  </msub>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>3</mn>\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n      <mn>1</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>&#xD7;</mo>\n  <mfrac>\n    <mrow>\n      <mn>9</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>9</mn>\n      <mo>&#x2212;</mo>\n      <mn>5</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n      <mn>5</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mtext mathcolor=\"red\">\\=</mtext>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>!</mo>\n      <mn>1</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>&#xD7;</mo>\n  <mfrac>\n    <mrow>\n      <mn>9</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mo>!</mo>\n      <mn>5</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mtext mathcolor=\"red\">\\=</mtext>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#xD7;</mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>!</mo>\n      <mo>&#xD7;</mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n  <mo>&#xD7;</mo>\n  <mfrac>\n    <mrow>\n      <mn>9</mn>\n      <mo>&#xD7;</mo>\n      <mn>8</mn>\n      <mo>&#xD7;</mo>\n      <mn>7</mn>\n      <mo>&#xD7;</mo>\n      <mn>6</mn>\n      <mo>&#xD7;</mo>\n      SOLUTION : <mn>5</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mo>&#xD7;</mo>\n      <mn>3</mn>\n      <mo>&#xD7;</mo>\n      <mn>2</mn>\n      <mo>&#xD7;</mo>\n      <mn>1</mn>\n      <mo>&#xD7;</mo>\n      <mn>5</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mtext mathcolor=\"red\">\\=</mtext>\n  <mn>3</mn>\n  <mo>&#xD7;</mo>\n  <mn>9</mn>\n  <mo>&#xD7;</mo>\n  <mn>2</mn>\n  <mo>&#xD7;</mo>\n  <mn>7</mn>\n  <mtext mathcolor=\"red\">\\=</mtext>\n  <mn>378</mn>\n  <mspace width=\"1mm\"></mspace>\n  <mi>w</mi>\n  <mi>a</mi>\n  <mi>y</mi>\n  <mi>s</mi>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "<sup>3</sup>C<sub>1</sub> ×<sup>9</sup> C<sub>5</sub>=3!/((3-1)!1!)×9!/((9-5)!5!) \"\\= \"  3!/2!1!×9!/4!5! \"\\=\"  (3×2!)/(2!×1)×(9×8×7×6×5!)/(4×3×2×1×5!) \"\\=\" 3×9×2×7\"\\=\" 378ways",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 294,
+    "question": "The weight of 10 pupils in a class are 15 kg, 16 kg, 17 kg, 18 kg, 16 kg, 17 kg, 17 kg, 17 kg, 18 kg, and 16 kg. What is the range of this distribution?",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "1",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Range = 18 - 15\n= 3",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 295,
     "question": "I. Rectangular bars of equal width\nII. The height of each rectangular bar is proportional to the frequency of the corresponding class interval.\nIII. Rectangular bars have common sides with no gaps in between\nA histogram is described completely by",
     "option": {
@@ -2636,6 +2716,22 @@
     "image": "",
     "answer": "d",
     "solution": "First teacher received 2/5\n ∴Remainder =1−2/5=3/5\n\n2nd teacher received; 2/15 of 3/5 = 2/15 × 3/5 = 2/25\n\n3rd teacher will receive; 1−2/5 – 2/25 = (25−10−2)/15 = 13/25",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 306,
+    "question": "If 6log<sub>x</sub>2 - 3log<sub>x</sub>3 = 3log<sub>5</sub>0.2, find x.",
+    "option": {
+      "a": "8/3",
+      "b": "4/3",
+      "c": " 3/4",
+      "d": "3/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "6logx2 - 3logx3 = 3log50.2\n= logx26 - 3logx33 = log5(0.2)3\n= logx(64/27) = log5(1/5)3\nlogx(64/27) = log5(1/125)\nlet logx(64/27) = y\n∴xy = 64/27\nand log5(1/125) = y\n∴ 5y = 1/125\n5y = 125-1\n5y = 5-3\n∴ y = -3\nsubstitute y = -3 in xy = 64/27\nimplies x-3 = 64/27\n1/x3 = 64/27\n64x3 = 27\nx3 = 27/64\nx3 = 3√27/64\nx = 3/4",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3020,6 +3116,22 @@
     "image": "",
     "answer": "b",
     "solution": "(n - 1)! = (7 - 1)!\n= 6!\n= 6*5*4*3*2*1\n= 720 ways",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 363,
+    "question": "A box contains 5 blue balls, 3 red balls and 2 white balls. Two balls are selected from the box with replacement. Find the probability of obtaining two blue or two red balls",
+    "option": {
+      "a": "17/50",
+      "b": "3/25",
+      "c": "1/50",
+      "d": "3/250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Blue balls = 5\nRed balls = 3\nWhite balls = 2\nTotal = 10\nP(Two blue) = 5/10 * 5/10 = 25/100\nP(Two Red) = 3/10 * 3/10 = 9/100\n∴P(Two blue or two red balls)\n= 25/100 + 9/100\n= 34/100\n= 17/50",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -4144,6 +4256,22 @@
     "examyear": "2008"
   },
   {
+    "id": 491,
+    "question": "A binary operation * is defined on the set of positive integers is such x*y = 2x-3y+2 for all positive integers x and y. The binary operation is?",
+    "option": {
+      "a": "commutative and close on the set of positive integers",
+      "b": "neither commutative nor closed on the set of positive integers",
+      "c": " commutative but not closed on the set of positive integers",
+      "d": " not cummutative but closed on the set of positive integers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "X * Y = 2X - 3Y + 2\n2*3 = 2(2) - 3(3) + 2\n=4-9+2\n= -3\nBut -3 does not belong to positive integer",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 492,
     "question": "A binary operation on the real set of numbers excluding -1 is such that for all m, n ∈ R, mΔn = m+n+mn. Find the identity element of the operation.",
     "option": {
@@ -4188,6 +4316,22 @@
     "image": "",
     "answer": "a",
     "solution": "V = πr2h\n1m = 100cm\n14cm = 1400cm\n∴V=22/7 × (100 x100 x 1400)/1000 = 44,000liters",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 500,
+    "question": "Find the gradient of a line which is perpendicular to the line with the equation 3x + 2y + 1 = 0",
+    "option": {
+      "a": "3/2",
+      "b": "2/3",
+      "c": "-2/3",
+      "d": "-3/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "3X + 2Y + 1 = 0\n2Y = -3X - 1\n−3/2X−1/2\nGradient of 3X + 2Y +1 = 0 is -3/2\nGradient of a line perpendicular to 3X + 2Y + 1 = 0\n=−1÷3/2 = −1 × −2/3 =2/3",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -5392,6 +5536,22 @@
     "examyear": "2011"
   },
   {
+    "id": 635,
+    "question": "If x varies directly as square root of y and x = 81 when y = 9, Find x when y = 1(7/9)",
+    "option": {
+      "a": "20(1/4)",
+      "b": "27",
+      "c": "2(1/4)",
+      "d": "36"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x α√y\n\n\nx = k√y\n\n\n81 = k√9\n\n\nk = 81/3\n\n\n= 27\n\ntherefore, x = 27√y\n\n\ny = 1(7/9) = 16/9\n\n\nx = 27 x √(16/9)\n\n\n= 27 x 4/3\n\n\ndividing 27 by 3\n\n= 9 x 4\n\n= 36",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 637,
     "question": "Solve the inequality -6(x + 3) ≤ 4(x - 2)",
     "option": {
@@ -5420,6 +5580,22 @@
     "image": "",
     "answer": "b",
     "solution": "x2 + 2x > 15\n\nx2 + 2x - 15 > 0\n\n(x2 + 5x) - (3x - 15) > 0\n\nx(x + 5) - 3(x + 5) >0\n\n(x - 3)(x + 5) > 0\n\ntherefore, x = 3 or -5\n\ni.e. x< 3 or x > -5",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 641,
+    "question": "A binary operation ⊕ on real numbers is defined by x ⊕ y = xy + x + y for two real numbers x and y. Find the value of 3 ⊕ -2/3\n.",
+    "option": {
+      "a": " - 1/2",
+      "b": "1/3",
+      "c": "-1",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "N + Y = XY + X + Y\n\n3 + -2/3 = 3(- 2/3) + 3 + (- 2/3)\n\n= -2 + 3 -2/3\n\n\n= 1−2/1−3\n\n\n= 1/3",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -5584,6 +5760,22 @@
     "examyear": "2011"
   },
   {
+    "id": 661,
+    "question": "In how many was can the letters of the word ELATION be arranged?",
+    "option": {
+      "a": "6!",
+      "b": "7!",
+      "c": "5!",
+      "d": "8!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "ELATION\nSince there are 7 letters. The first letter can be arranged in 7 ways, , the second letter in 6 ways, the third letter in 5 ways, the 4th letter in four ways, the 3rd letter in three ways, the 2nd letter in 2 ways and the last in one way.\n\ntherefore, 7 x 6 x 5 x 4 x 3 x 2 x 1 = 7! ways",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 663,
     "question": "Find the probability that a number picked at random from the set(43, 44, 45, ..., 60) is a prime number.",
     "option": {
@@ -5696,6 +5888,22 @@
     "examyear": "2012"
   },
   {
+    "id": 724,
+    "question": "A man earns N3,500 per month out of which he spends 15% on his children's education. If he spends additional N1,950 on food, how much does he have left?",
+    "option": {
+      "a": "N525",
+      "b": "N1,025",
+      "c": "N1,950",
+      "d": "N2,975"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Amount spent on children = 15/100 × 3500 = N525\n\n\nAmount spent = Amount on children + Additional amount on food\n\nAmount Spent = N525 + N1950 = N2475\n\nTherefore amount left = N3,500 - N2,475 = N1,025",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 725,
     "question": "If 27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>, find x.",
     "option": {
@@ -5804,6 +6012,22 @@
     "image": "",
     "answer": "c",
     "solution": "1/5y + 1/5 < 1/2y + 2/5\n\n\nCollect like terms\n\ny/5 − y/2 < 2/5 − 1/5\n\n\n2y−5y/10 < 2−1/5\n\n\n−3y/10 < 1/5\n\n\ny > −2/3",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 737,
+    "question": "The nth term of a sequence is n2 - 6n - 4. Find the sum of the 3rd and 4th terms",
+    "option": {
+      "a": "24",
+      "b": "23",
+      "c": "-24",
+      "d": "-25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "n<sup>2</sup> - 6n - 4\n\nFor the 3rd term,\n3<sup>2</sup> - 6(3) - 4\n\n9 - 18 -4 = -13\n\nFor the 4th term,\n4<sup>2</sup> - 6(4) - 4\n\n16 - 24 - 4 = -12\n\nSum of both terms\n\n-13 - 12 = -25",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -5932,6 +6156,22 @@
     "image": "",
     "answer": "d",
     "solution": "y = x<sup>2</sup>  - 1/x\n\n\ny = x<sup>2</sup>  - x<sup>-1</sup> \n\nδy/δx = 2x + x<sup>-2</sup> \n\n\nδy/δx = 2x + 1/x<sup>2</sup> ",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 750,
+    "question": "Evaluate ∫<sup>2</sup> <sub>1</sub> (x<sup>2</sup> −4x)dx",
+    "option": {
+      "a": "11/3",
+      "b": "3/11",
+      "c": "-3/11",
+      "d": "-11/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "∫<sup>2</sup> <sub>1</sub> (x<sup>2</sup> −4x)dx\n\n\n(x<sup>3</sup>/3 − 4x<sup>2</sup>/2)\n\n\nsubstituting integrate values\n\n[8/3 − 4 × 4/2] − [1/2 − 2]\n\n\n= −11/3",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -6204,6 +6444,22 @@
     "image": "",
     "answer": "b",
     "solution": "r ∝ 1/√s, r ∝ 1/√t\n \n\nr ∝ 1/√s ..... (1)\n\nr ∝ 1/√t ..... (2)\n\nCombining (1) and (2), we get\n\nr = k/(√s × √t) = k/√(st)\n\n\nThis gives √(st) = k/r\n\n\nBy taking the square of both sides, we get\n\nst = k<sup>2</sup>/r<sup>2</sup>\n\n\ns = k<sup>2</sup>/r<sup>2</sup>t",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 783,
+    "question": "Evaluate 3(x + 2) > 6(x + 3)",
+    "option": {
+      "a": " x < 4",
+      "b": "x > -4",
+      "c": "x < -4",
+      "d": "x > 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "3(x + 2) > 6(x + 3)\n\n3x + 6 > 6x + 18\n\n3x - 6x > 18 - 6\n\n-3x > 12\n\nx < -4",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -7552,6 +7808,22 @@
     "examyear": "2018"
   },
   {
+    "id": 932,
+    "question": "Simplify\n(〖25〗<sup>2/3</sup>)÷〖25〗<sup>(1/6)</sup>)/((1/5 )<sup>(7/6)</sup>÷(1/5 )<sp>(1/6)</sup> )",
+    "option": {
+      "a": "25",
+      "b": "1",
+      "c": "1/5",
+      "d": "1/25"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msup>\n        <mn>25</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n      <mo>&#x00F7;<!-- ÷ --></mo>\n      <msup>\n        <mn>25</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>5</mn>\n      </mfrac>\n      <msup>\n        <mo stretchy=\"false\">)</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>7</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n      <mo>&#x00F7;<!-- ÷ --></mo>\n      <mo stretchy=\"false\">(</mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>5</mn>\n      </mfrac>\n      <msup>\n        <mo stretchy=\"false\">)</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(〖25〗<sup>2/3</sup>)÷〖25〗<sup>(1/6)</sup>)/((1/5 )<sup>(7/6)</sup>÷(1/5 )<sp>(1/6)</sup> ) =〖25〗<sup>(2/3-1/6)</sup>/((1/5 )<sup>(7/6-1/6)</sup> ) = 〖25〗<sup>(1/2)/((1/5)) = 5 / 1/5 = 25",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 933,
     "question": "p = [(Q(R - T)/(15))]<sup>1/3</sup>",
     "option": {
@@ -7579,6 +7851,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 935,
+    "question": "If the simple interest on a sum of money invested at 3% per annum for 2(1/2)\n  years is N123, find the principal.",
+    "option": {
+      "a": "N676.50",
+      "b": "N820",
+      "c": "N1,640",
+      "d": "N4,920"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
@@ -8540,6 +8828,22 @@
     "image": "",
     "answer": "a",
     "solution": "√2/(x + 2) = x - 1/√2\nx√2 (x - √2) = x + √2 (cross multiply)\n\nx√2 - 2 = x + √2 \n\n= x√2 - x \n\n= 2 + √2\nx (√2 - 1) = 2 + √2\n= (2+√2)/(√2 − 1) × (√2+1)/(√2 + 1)\nx = (2√2 + 2 + 2 + √2)/(2 − 1)\n \n\n= 3√2 + 4 ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1047,
+    "question": "A binary operation x is defined by a x b = ab. If a x 2 = 2 - a, find the possible values of a?",
+    "option": {
+      "a": "1, -2",
+      "b": "2, -1",
+      "c": "2, -2",
+      "d": "1, -1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "a = b = a<sup>2</sup>\na + 2 = a<sup>2</sup>\n.....(i)\n\na + 2 = 2 - a..............(ii) \n\na<sup>2</sup> = 2 - a \n\na<sup>2</sup>+ a - 2 = a<sup>2</sup> + a - 2 = 0\n\n= (a + 2)(a - 1) = 0\n\na = 1 or - 2",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -9584,6 +9888,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1161,
+    "question": "Determine the area of the region bounded by y = 2x<sup>2</sup> + 10 and Y = 4x + 16\n.",
+    "option": {
+      "a": "18",
+      "b": "−10/3",
+      "c": " 44/3",
+      "d": "64/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To find the point of intersection, equate the two equations\n\n⇒ 2x<sup>2</sup> + 10 = 4x + 16\n\n⇒ 2x<sup>2</sup>  + 10 - 4x - 16 = 0\n\n⇒ 2x<sup>2</sup>  - 4x - 6 = 0\n\nFactorize\n\n⇒ 2(x + 1)(x - 3) = 0\n\n∴ x = -1 or 3\n\nThe curves will intersect at -1 and 3\n\n\nArea = ∫<sup>b</sup> <sub>a</sub>  [upper function] - [lower function] dx\n\n \n\n= ∫<sup>3</sup> <sub>1</sub> 4x + 16 − (2x<sup>2</sup>+10)dx\n= ∫<sup>3</sup> <sub>1</sub> − 2x<sup>2</sup> + 4x + 6dx\n= ((−2x<sup>3</sup>)/3 + (2x<sup>2</sup>) + 6x)<sup>3</sup> <sub>1</sub>\n= ((−2(3)<sup>3</sup>)/3 + 2(3)<sup>2</sup> + 6(3)) − ((−2(−1)<sup>3</sup>)/3 + 2(−1)<sup>2</sup> + 6(−1))\n= 18 -  (10/3)\n= 18 + 10/3\n= 64/3\n\n ",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1162,
     "question": "Find the value of y if 402<sub>y</sub> =102<sub>ten</sub>",
     "option": {
@@ -10028,6 +10348,22 @@
     "image": "",
     "answer": "a",
     "solution": "x/2 + 3/4 ≤ 5x/6 −7/12\n\n\n12(x/2) + 12(3/4) ≤ 12(5x/6) −12(7/12)\n\n\n6x + 9 ≤ 10x - 7\n\n6x - 10x ≤ - 7 - 9\n\n-4x ≤ -16\n\n-4x/-4 ≥ -16/-4\n\nx ≥ 4",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1203,
+    "question": "The 4th term of an A.P. is 13 while the 10th term is 31. Find the 24th term.",
+    "option": {
+      "a": "89",
+      "b": "75",
+      "c": "73",
+      "d": "69"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "a + 3d = 13 ...... (1)\na + 9d = 31 ...... (2)\n\n(2) - (1): 6d = 18\n\nd = 18/6 = 3\n\nFrom (1), a + 3(3) = 13\n\na + 9 = 13\n\na = 13 - 9 = 4\n\nHence,\nT<sub>24</sub>  = a + 23d\nT<sub>24</sub> = 4 + 23(3)\nT<sub>24</sub> = 4 + 69\nT<sub>24</sub> = 73",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -10540,6 +10876,22 @@
     "image": "",
     "answer": "d",
     "solution": "x2<sup>2</sup>  − 2x − 15\n\n(x<sup>2</sup>  − 5x) + (3x − 15)\n\nx(x − 5)+ 3(x − 5)\n\n(x − 5)(x + 3)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1257,
+    "question": "Find the simple interest on N325 in 5years at 3% per annum.",
+    "option": {
+      "a": "N48.75K",
+      "b": "N50.10K",
+      "c": " N75.50K",
+      "d": "N15.75K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "I =[ PRT ÷ 100]\n\n[(325 × 5 × 3) ÷ (100)]\n\nN(195 ÷ 4)\n\nN48.75K",
     "examtype": "utme",
     "examyear": "2015"
   },
