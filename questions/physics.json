@@ -10144,6 +10144,22 @@
     "examyear": "2006"
   },
   {
+    "id": 739,
+    "question": "The diagram above represents the stress-strain graph for a typical metal rod. What does the X represent?",
+    "option": {
+      "a": "Breaking point",
+      "b": "Yield point",
+      "c": " Elastic limit",
+      "d": "Proportional limit"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430588/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_40_kkckaz.png",
+    "answer": "a",
+    "solution": "In the stress - strain graph shown above, X represents the breaking point of the wire",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 740,
     "question": "In the diagram above, the pressure of the gas is",
     "option": {
@@ -10608,6 +10624,22 @@
     "examyear": "2007"
   },
   {
+    "id": 775,
+    "question": "From the diagram above, the bob of the pendulum has the fastest speed at",
+    "option": {
+      "a": "X",
+      "b": "Y",
+      "c": "Z",
+      "d": "W"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431437/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_26_kpwqqs.png",
+    "answer": "a",
+    "solution": "\nEnergy considerations:\nAt the extremes (W and Z):\n\nMaximum potential energy\nMinimum kinetic energy (velocity = 0)\nBob momentarily stops before reversing direction\n\nAt the lowest point (X):\n\nMinimum potential energy\nMaximum kinetic energy\nAll potential energy converted to kinetic energy\nFastest speed\n\nAt intermediate positions (Y):\n\nMixed potential and kinetic energy\nSpeed between zero and maximum\n\nConservation of energy:\nTotal Energy = PE + KE = constant\nAt extremes: E = PE_max + 0\nAt lowest point: E = PE_min + KE_max\nTherefore: KE_max occurs at lowest point (X)",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 776,
     "question": "In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod?",
     "option": {
@@ -11052,6 +11084,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nMass (m) = 100 kg\nRadius (r) = 10 m\nVelocity (v) = 5 m/s\ng = 10 m/s²\nCoefficient of friction (μ) = ?\n\nUnderstanding the physics:\nFor a motorcycle moving in a circle on a flat road:\n\nCentripetal force is provided by friction between tyres and road\nFriction force = Centripetal force\n\nSetting up equation:\nFriction force = Centripetal force\nμmg = mv²/r\nCancelling mass (m) from both sides:\nμg = v²/r\nSolving for μ:\nμ = v²/(rg)\nSubstituting values:\nμ = (5)²/(10 × 10)\nμ = 25/100\nμ = 0.25",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 808,
+    "question": "A spring of force constant 500 Nm⁻¹ is compressed such that its length shortens by 5cm. The energy stored in the spring is?",
+    "option": {
+      "a": "0.625 J",
+      "b": "6.250 J",
+      "c": " 62.500 J",
+      "d": " 625.000 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nSpring constant (k) = 500 Nm⁻¹\nCompression (x) = 5 cm = 0.05 m\nEnergy stored (E) = ?\n\nFormula for elastic potential energy stored in a spring:\nE = ½kx²\nSubstituting values:\nE = ½ × 500 × (0.05)²\nE = ½ × 500 × 0.0025\nE = ½ × 1.25\nE = 0.625 J",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -12396,6 +12444,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nVelocity Ratio (V.R) = 6\nEffort (E) = 400 N\nLoad (L) = 800 N\nDistance load raised = 1 m\nEfficiency = ?\n\nStep 1: Calculate Mechanical Advantage (M.A)\nM.A = Load/Effort\nM.A = 800/400\nM.A = 2\nStep 2: Calculate Efficiency\nEfficiency = (M.A/V.R) × 100%\nSubstituting values:\nEfficiency = (2/6) × 100%\nEfficiency = (1/3) × 100%\nEfficiency = 33.33%\nEfficiency ≈ 33.3%",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 906,
+    "question": "In a hydraulic press, the pump piston exerts a pressure of 100 pa on the liquid. what force is exerted in the second piston of cross sectional area 3 m2?",
+    "option": {
+      "a": "300 N",
+      "b": "200 N",
+      "c": "150 N",
+      "d": "100 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nPressure exerted (P) = 100 Pa\nCross-sectional area of second piston (A₂) = 3 m²\nForce on second piston (F₂) = ?\n\nUnderstanding hydraulic press:\nPascal's principle: Pressure is transmitted equally throughout the fluid in all directions.\nFormula:\nPressure = Force/Area\nP = F/A\nRearranging for force:\nF = P × A\nCalculating force on second piston:\nF₂ = P × A₂\nF₂ = 100 × 3\nF₂ = 300 N",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -15276,6 +15340,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nFirst displacement: 6.0 m due East\nSecond displacement: 10.0 m in the direction N30°E (30° east of north)\n\nSolution:\n\nStep 1: Resolve the second displacement into components\nTake East as +x direction and North as +y direction.\n\nx-component = 10 sin 30° = 10 × 0.5 = 5.0 m (eastward)\n\ny-component = 10 cos 30° = 10 × 0.8660 = 8.66 m (northward)\n\nStep 2: Find total components\nTotal x = 6.0 + 5.0 = 11.0 m\nTotal y = 0 + 8.66 = 8.66 m\n\nStep 3: Calculate resultant displacement\nResultant R = √[(11.0)² + (8.66)²] = √(121 + 75) = √196 = 14.0 m",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1123,
+    "question": "The density of water is 1 g/cm³ while that of ice is 0.9 g/cm³. Calculate the change in volume when 90 g of ice is completely melted.",
+    "option": {
+      "a": "9 cm³",
+      "b": "90 cm³",
+      "c": "0 cm³",
+      "d": "10 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nMass of ice, m = 90 g\nDensity of ice, ρᵢ = 0.9 g/cm³\nDensity of water, ρ_w = 1.0 g/cm³\n\nSolution:\n\nStep 1: Calculate initial volume of ice\nVᵢ = m / ρᵢ = 90 / 0.9 = 100 cm³\n\nStep 2: Calculate final volume of water (after melting)\nV_w = m / ρ_w = 90 / 1.0 = 90 cm³\n\nStep 3: Calculate change in volume\nΔV = V_w – Vᵢ = 90 – 100 = –10 cm³\nThe negative sign indicates a decrease in volume. The magnitude of change is 10 cm³.",
     "examtype": "utme",
     "examyear": "2025"
   },
