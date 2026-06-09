@@ -2166,6 +2166,25 @@
     "category": "others"
   },
   {
+    "id": 125,
+    "question": "We found a <i>shady</i> place for the display.",
+    "option": {
+      "a": "an open",
+      "b": "an unsafe",
+      "c": "a stuffy",
+      "d": "an enclosed"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 126,
     "question": "expostulate",
     "option": {
@@ -11472,6 +11491,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 41,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 738,
+    "question": "Weare all hungry; we……. anything to eatsincemorning.",
+    "option": {
+      "a": " didn’t have",
+      "b": "hadn’t had",
+      "c": "haven’t had",
+      "d": " never had"
+    },
+    "section": "<b>In each of questions 41 to 62, fill the gap with the most appropriate option from the list provided.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 42,
     "hasPassage": 0,
     "category": "others"
   },
