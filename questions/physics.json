@@ -208,6 +208,22 @@
     "examyear": "2006"
   },
   {
+    "id": 20,
+    "question": "Calculate the length of a displaced pendulum bob that passes its lowest point twice every second. [g=10ms-1] ",
+    "option": {
+      "a": ".100m ",
+      "b": "0.253m ",
+      "c": "0.450m ",
+      "d": "0.58m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 21,
     "question": "When a ball rolls on a  smooth level ground, the motion of its centre is ",
     "option": {
@@ -523,6 +539,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 52,
+    "question": "Radio waves have the velocity of 3 x 108ms-1. If a radio station sends out a broadcast on a frequency 800kHz, what is the wavelength of the broadcast? ",
+    "option": {
+      "a": "375.0m ",
+      "b": "267.0m ",
+      "c": "240.0m ",
+      "d": "37.5m "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -880,6 +912,22 @@
     "examyear": "2011"
   },
   {
+    "id": 93,
+    "question": "the velocity of a 500 kg car moving long a straight  road, changes from 12 m/s to 20 m/s in 5 sec. calculate the average force moving the car. ",
+    "option": {
+      "a": "2000N  ",
+      "b": "1600N  ",
+      "c": "1200N  ",
+      "d": "800N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 96,
     "question": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)  ",
     "option": {
@@ -1180,6 +1228,22 @@
     "image": "",
     "answer": "a",
     "solution": "Stroboscope is a scientific instrument used to make a wave appears stationary when used",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 141,
+    "question": "A vector quantity can only be completely described when ……… and …………are mentioned.",
+    "option": {
+      "a": "Magnitude and motion",
+      "b": " Magnitude and direction",
+      "c": "Distance and specified displacement",
+      "d": "Moment and momentum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A vector quantity has both magnitude and direction",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1596,6 +1660,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nOriginal length (L₀) = 10 m\nInitial temperature (T₁) = 50°C\nFinal temperature (T₂) = 10°C\nLinear expansivity (α) = 3 × 10⁻⁵ K⁻¹\nDecrease in length (ΔL) = ?\n\nStep 1: Calculate temperature change\nΔT = T₁ - T₂ = 50°C - 10°C = 40°C = 40 K\nStep 2: Use linear expansion formula\nΔL = αL₀ΔT\nStep 3: Substitute values\nΔL = 3 × 10⁻⁵ × 10 × 40\nΔL = 3 × 10⁻⁵ × 400\nΔL = 1200 × 10⁻⁵\nΔL = 1.2 × 10⁻² m\nAnswer: C. 1.2 × 10⁻² m",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 191,
+    "question": "When an athlete perspires after running, he loses heat through",
+    "option": {
+      "a": "Evaporation",
+      "b": "Conduction",
+      "c": "Radiation",
+      "d": "Convection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Athletes lose heat through evaporation when perspiring.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -2144,6 +2224,22 @@
     "examyear": "2017"
   },
   {
+    "id": 254,
+    "question": "Determine the focal length of a thin converging lens if the power is 5.0 dioptres",
+    "option": {
+      "a": " 0.1 m",
+      "b": " 0.2 m",
+      "c": "2.0 m",
+      "d": " 2.5 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPower (P) = 5.0 dioptres (D)\nFocal length (f) = ?\n\nFormula:\nP = 1/f\nwhere:\n\nP is in dioptres (D)\nf is in meters (m)\n\nRearranging to find focal length:\nf = 1/P\nSubstituting values:\nf = 1/5.0\nf = 0.2 m",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 257,
     "question": "From the diagram above, calculate the energy stored in the capacitor",
     "option": {
@@ -2448,6 +2544,22 @@
     "examyear": "2018"
   },
   {
+    "id": 282,
+    "question": "Natural radioactivity consists of the emission of",
+    "option": {
+      "a": "α- particles and β-rays",
+      "b": "α- particles and X-rays",
+      "c": " α- particles, β - rays and y-rays",
+      "d": "γ- rays and X-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Radioactivity is the spontaneous emission of radiation from atomic nuclei. This radiation can consist of alpha, beta, and gamma radiation. ",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 287,
     "question": "Cathode rays are",
     "option": {
@@ -2684,6 +2796,22 @@
     "image": "",
     "answer": "b",
     "solution": "Evaporation is the process whereby a liquid turns spontaneously into vapor at temperatures below the boiling point, occurring naturally at the liquid's surface.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 313,
+    "question": "Musical instruments playing the same note can be distinguished from one another owing to the difference in their",
+    "option": {
+      "a": "quality",
+      "b": "pitch",
+      "c": "intensity",
+      "d": "loudness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Musical instruments playing the same note can be distinguished from one another by their quality (timbre), which depends on the unique combination of harmonics and overtones each instrument produces.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3612,6 +3740,22 @@
     "image": "",
     "answer": "b",
     "solution": "The slope of a straight line displacement-time graph indicates uniform velocity, meaning the object is moving with constant velocity (constant speed in a constant direction).",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 422,
+    "question": "Which of the units of the following physical quantities are derived?\n\nI. Area\nII. Thrust\nIII. Pressure\nIV. Mass",
+    "option": {
+      "a": " I, II, III and IV",
+      "b": "I, II, and III only",
+      "c": " I, II, and IV only",
+      "d": " I and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Only 'mass' is a fundamental quantity ",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -5072,6 +5216,22 @@
     "examyear": "2024"
   },
   {
+    "id": 584,
+    "question": "The process of adding impurities to a semiconductor material to increase its conductivity is ",
+    "option": {
+      "a": "Rectification",
+      "b": "Emission",
+      "c": "Doping",
+      "d": "Stabilization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The process of adding impurities to a semiconductor material to increase its conductivity is called doping. This is fundamental to creating functional semiconductor devices like diodes, transistors, and integrated circuits.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 585,
     "question": "A load of 300N is to be lifted by a machine with a velocity ratio of 2 and an efficiency of 60%. What effort will be applied to lift the load?\n",
     "option": {
@@ -5824,6 +5984,38 @@
     "examyear": "2005"
   },
   {
+    "id": 686,
+    "question": "In the figure above, the work done by the force of 100N inclined at an angle of 60° to the object dragged horizontally to a distance of 8m is",
+    "option": {
+      "a": "800J",
+      "b": "600J",
+      "c": "100J",
+      "d": "400J"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296737/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_37_jm6nny.png",
+    "answer": "d",
+    "solution": "Given information:\n\nApplied force, F = 100 N\nAngle with horizontal, θ = 60°\nHorizontal displacement, d = 8 m\n\nSolution:\nStep 1: Formula for work done\nWork done: W = F × d × cos θ\nWhere:\n\nF = applied force\nd = displacement\nθ = angle between force and displacement\n\nStep 2: Identify horizontal component of force\nSince the object moves horizontally, only the horizontal component of the force does work:\nHorizontal component = F cos θ = 100 cos 60°\nStep 3: Calculate cos 60°\ncos 60° = 0.5\nStep 4: Calculate work done\nW = F × d × cos θ\nW = 100 × 8 × cos 60°\nW = 100 × 8 × 0.5\nW = 800 × 0.5\nW = 400 J",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 689,
+    "question": "Two liquids L₁ and L₂ are contained in a U-tube. The height and the density of L₁ are 8 cm and 10³ kgm⁻³ respectively. If the density of L₂ is 800 kgm⁻³, its height measured from the same level is",
+    "option": {
+      "a": "8 cm",
+      "b": "10 cm",
+      "c": "16 cm",
+      "d": "12 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Height of L₁, h₁ = 8 cm\nDensity of L₁, ρ₁ = 10³ kgm⁻³ = 1000 kgm⁻³\nDensity of L₂, ρ₂ = 800 kgm⁻³\nHeight of L₂, h₂ = ?\n\nSolution:\nStep 1: Apply principle of U-tube equilibrium\nIn a U-tube at equilibrium, the pressure at the same horizontal level in both arms must be equal.\nPressure due to liquid column: P = ρgh\nStep 2: Set up equation\nAt the same reference level (bottom of liquids):\nP₁ = P₂\nρ₁gh₁ = ρ₂gh₂\nStep 3: Simplify (g cancels out)\nρ₁h₁ = ρ₂h₂\nStep 4: Substitute values\n1000 × 8 = 800 × h₂\n8000 = 800h₂\nStep 5: Solve for h₂\nh₂ = 8000/800\nh₂ = 10 cm",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 691,
     "question": "The figure above shows three capacitors, 2μF, 3μF and 6μF connected in series. If the p.d across the system is 12V, the p.d across the 6μF capacitor is",
     "option": {
@@ -5900,6 +6092,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296828/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_48_prkfje.png",
     "answer": "d",
     "solution": "Option D is the graph of stopping potential V₀ against the frequency of the incident light I. The straight line graph cuts the intercept I = threshold frequency. As the frequency of the incident light increases above this point(threshold frequency), the stopping potential corresponding to the kinetic energy of the photoelectron also increases.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 699,
+    "question": "A motorcyclist traveling at 30 m/s starts to apply his brakes when he is 50 m from the traffic light that had just turned red. If he reached the traffic light, his deceleration is",
+    "option": {
+      "a": "18 m/s²",
+      "b": "10 m/s²",
+      "c": "9 m/s²",
+      "d": "5 m/s²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nInitial velocity, u = 30 m/s\nDistance to traffic light, s = 50 m\nFinal velocity at light, v = 0 m/s\n\nStep 1: Use kinematic equation for constant acceleration\nv² = u² + 2 a s\n\nStep 2: Substitute known values\n0² = 30² + 2 × a × 50\n0 = 900 + 100 a\n\nStep 3: Solve for deceleration a\n100 a = –900\na = –9 m/s²\n\nThe magnitude of deceleration is 9 m/s².\n",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -6832,6 +7040,22 @@
     "examyear": "2008"
   },
   {
+    "id": 820,
+    "question": "I. Total internal reflection of light.\nII. Conservation of light energy.\nIII. Relative motion of the earth, sun and moon.\nIV. Rectilinear propagation of light.\n\n\nwhich of the above is a phenomenon of total solar eclipse?",
+    "option": {
+      "a": " I and IV only",
+      "b": " II and IV only",
+      "c": " I and III only",
+      "d": " III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Due to rectilinear propagation of light we have ecslipse which occur as a result relative motion of the earth, sun and moon",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 821,
     "question": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?",
     "option": {
@@ -7440,6 +7664,22 @@
     "examyear": "2009"
   },
   {
+    "id": 876,
+    "question": "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will?",
+    "option": {
+      "a": "close up",
+      "b": "become positively charged",
+      "c": "become negatively charged",
+      "d": "open further"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The leaves collapse as the positive charges on the rod neutralize the negative charges on the electroscope.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 877,
     "question": "An electric lamp marked 240 V, 60 W is left to operate for an hour. How much energy is generated by the filament?",
     "option": {
@@ -7840,6 +8080,22 @@
     "examyear": "2010"
   },
   {
+    "id": 939,
+    "question": "Three capacitors of capacitance 2 μF, 4 μF and 8 μF are connected in parallel and a P.D of 6 V is maintained across each capacitor. The total energy stored is?",
+    "option": {
+      "a": " 2.52 × 10⁻⁶ J",
+      "b": "6.90 × 10⁻⁶ J",
+      "c": "2.52 × 10⁻⁴ J",
+      "d": " 6.90 × 10⁻⁴ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nC₁ = 2 μF = 2 × 10⁻⁶ F\nC₂ = 4 μF = 4 × 10⁻⁶ F\nC₃ = 8 μF = 8 × 10⁻⁶ F\nVoltage across each, V = 6 V\nConnection: parallel\n\nSolution:\n\nStep 1: Total capacitance in parallel\nFor parallel combination, total capacitance C = C₁ + C₂ + C₃\nC = (2 + 4 + 8) × 10⁻⁶ F = 14 × 10⁻⁶ F\n\nStep 2: Formula for energy stored in a capacitor\nEnergy stored E = ½ C V²\n\nStep 3: Substitute values\nE = ½ × (14 × 10⁻⁶) × (6)²\nE = ½ × 14 × 10⁻⁶ × 36\n\nStep 4: Simplify\n½ × 36 = 18\nE = 14 × 18 × 10⁻⁶ = 252 × 10⁻⁶ J\n\nStep 5: Express in scientific notation\n252 × 10⁻⁶ = 2.52 × 10⁻⁴ J",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 947,
     "question": "An object is weighed at different locations on the Earth. What will be the right observation?",
     "option": {
@@ -7980,6 +8236,22 @@
     "image": "",
     "answer": "a",
     "solution": "Sound is the only mechanical wave among the rest which are electromagnetic waves.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 966,
+    "question": "The ground is always cold at night because the",
+    "option": {
+      "a": " atmosphere absorbs the sun's energy at night",
+      "b": "earth radiates heat to the atmosphere at night",
+      "c": " sun no longer shine at night",
+      "d": "atmosphere reflects the sun's energy at night"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The earth radiate heat to the atmosphere at night thereby lowering the temperature of the ground",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -8496,6 +8768,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1027,
+    "question": "A glass block of thickness 10cm is placed on an object. If an observer views the object vertically, the displacement of the object is",
+    "option": {
+      "a": "3.33cm",
+      "b": "5.00 cm",
+      "c": " 6.67 cm",
+      "d": "8.50 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "iven information:\nThickness of glass block, t = 10 cm\nRefractive index of glass (not given explicitly, but typically taken as 1.5 for such problems)\nViewing is vertical (normal incidence)\n\nSolution:\n\nStep 1: Apparent depth formula\nWhen viewing an object through a transparent medium, the apparent depth is given by:\nApparent depth = Real depth / Refractive index\nAssuming refractive index of glass, n = 1.5\n\nStep 2: Calculate apparent depth\nApparent depth = 10 cm / 1.5 = 6.6667 cm ≈ 6.67 cm\n\nStep 3: Calculate displacement\nDisplacement = Real depth – Apparent depth = 10 cm – 6.67 cm = 3.33 cm",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1028,
     "question": "I. Rays of light travel from a less dense medium to a denser medium.\nII. The angle of incidence is greater than critical angle.\nIII. Rays of light travel from a denser medium to a less dense medium.\n\nWhich of the statements above are conditions for total internal reflection to occur?",
     "option": {
@@ -8752,6 +9040,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1054,
+    "question": "Two liquids X and Y having the same mass are supplied with the same quantity of heat. If the temperature rise in X is twice that of Y, the ratio of specific heat capacity of X to that of Y is",
+    "option": {
+      "a": "2:1",
+      "b": "1:2",
+      "c": "4:1",
+      "d": "1:4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nSame mass: m_X = m_Y = m\nSame heat supplied: Q_X = Q_Y = Q\nTemperature rise: ΔT_X = 2ΔT_Y\nRatio c_X : c_Y = ?\n\nFormula for heat energy:\nQ = mcΔT\nwhere:\n\nQ = heat energy\nm = mass\nc = specific heat capacity\nΔT = temperature change\n\nSetting up equations:\nFor liquid X:\nQ = mc_X ΔT_X\nFor liquid Y:\nQ = mc_Y ΔT_Y\nSince Q is same for both:\nmc_X ΔT_X = mc_Y ΔT_Y\nSimplifying (m cancels):\nc_X ΔT_X = c_Y ΔT_Y\nRearranging:\nc_X / c_Y = ΔT_Y / ΔT_X\nSubstituting ΔT_X = 2ΔT_Y:\nc_X / c_Y = ΔT_Y / (2ΔT_Y)\nc_X / c_Y = 1/2\nTherefore:\nc_X : c_Y = 1:2",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1055,
     "question": "Steam from boiling water causes more damage on the skin than does boiling water because",
     "option": {
@@ -8924,6 +9228,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Calculate total power consumption\nPower from ten 40 W bulbs = 10 × 40 W = 400 W\nPower from five 100 W bulbs = 5 × 100 W = 500 W\nTotal power = 400 W + 500 W = 900 W = 0.9 kW\n\nStep 2: Calculate energy consumed\nEnergy = Power × Time = 0.9 kW × 10 h = 9 kWh\n\nStep 3: Calculate cost\nCost = Energy × cost per unit = 9 kWh × 5 N = 45 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1073,
+    "question": "An electric device is rated 2000W, 250V. Calculate the maximum current it can take",
+    "option": {
+      "a": "9A",
+      "b": "8A",
+      "c": "7A",
+      "d": "6A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nPower, P = 2000 W\nVoltage, V = 250 V\n\nSolution:\n\nStep 1: Relationship between power, voltage, and current\nThe electrical power is given by P = I × V, where I is the current.\n\nStep 2: Rearrange to find current\nI = P / V\n\nStep 3: Substitute the given values\nI = 2000 W / 250 V = 8 A",
     "examtype": "utme",
     "examyear": "2013"
   },
