@@ -720,6 +720,22 @@
     "examyear": "2012"
   },
   {
+    "id": 54,
+    "question": "The receipt of cash from customers in a payment of their account would recorded by a",
+    "option": {
+      "a": "Debit to account receivable; credit to cash ",
+      "b": "b  Debit to cash credit to accounts receivable  ",
+      "c": "Debit to cash, credit to accounts payable  ",
+      "d": "Debit to account payable credit to cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 55,
     "question": "The essential amount of depreciation or equipment for a period is 2,000 the adjusting end to record depreciation would be",
     "option": {
@@ -731,6 +747,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following assets could be described as a current asset?",
+    "option": {
+      "a": "Stock of goods for resale",
+      "b": "Machinery to manufacture goods for resale ",
+      "c": " Buildings to house the machinery",
+      "d": "Land on which the buildings stand."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -4976,6 +5008,22 @@
     "examyear": "2014"
   },
   {
+    "id": 366,
+    "question": "The cost of sales is",
+    "option": {
+      "a": "GHc/  2,160,000t",
+      "b": "GHc/ 1440,000",
+      "c": "GHc/ 1,080,000",
+      "d": "GHc/  720,000"
+    },
+    "section": "Use the following information to answer question: The total sales of a business was GHc/ 2,160,000. The average mark-up for the year was 50%.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 367,
     "question": "Which of the following is not an administrative expenses in a \tmanufacturing organization?",
     "option": {
@@ -5195,6 +5243,22 @@
     "section": " Use the following information to answer question: Branch stock account (at selling price)  D346,000 - debit Branch mark-up account D62,000 - debit",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 385,
+    "question": "Subscriptions in advance is classified in the balance sheet as",
+    "option": {
+      "a": "an asset",
+      "b": "a liability",
+      "c": "a deficit",
+      "d": "a surplus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -9708,6 +9772,22 @@
     "image": "",
     "answer": "d",
     "solution": "Accounts in accounting are primarily divided into:\n\nPersonal accounts, which relate to individuals, firms, and other organizations.\n\nImpersonal accounts, which are further subdivided into real accounts (assets) and nominal accounts (incomes and expenses).",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 724,
+    "question": "On 31 July 2017, Mr. Ojo provides the following information for his business:\n\nOpening stock: ₦7,000\n\nClosing stock: ₦12,000\n\nPurchases: ₦60,000\n\nExpenses: ₦4,500\n\nUniform gross margin: 33⅓%\n\nCalculate the total sales for the period.",
+    "option": {
+      "a": " ₦55,000",
+      "b": "₦82,500",
+      "c": "₦27,500",
+      "d": "₦50,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "COGS = Opening Stock + Purchases − Closing Stock\n= 7,000 + 60,000 − 12,000 = ₦55,000\n\nLet Sales = S\nGross margin is 33⅓%, meaning Gross Profit = 1/3 of Sales = S/3\n\nSince:\nSales = COGS + Gross Profit\nS = 55,000 + S/3\n\nMultiply both sides by 3 to eliminate the fraction:\n3S = 165,000 + S\n\nSubtract S from both sides:\n2S = 165,000\n\nDivide both sides by 2:\nS = ₦82,500\n\nFinal Answer: ₦82,500",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -14640,6 +14720,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1105,
+    "question": "When a new partner is admitted to a partnership, there is a need to revalue the?",
+    "option": {
+      "a": "capital of the business",
+      "b": "capital and liabilities of the business",
+      "c": "assets and capital of the business",
+      "d": "assets and liabilities of the business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When a new partner joins a partnership, the assets and liabilities need to be revalued to show their current market values.\nWhy revaluation is necessary:\n\nAssets may have increased or decreased in value since they were first recorded\nLiabilities may need adjustment to reflect current amounts\nThe new partner should not gain or lose from unrealized gains/losses that occurred before they joined\nExisting partners should get credit for any increase in asset values that happened during their time\n\nWhat gets revalued:\n\nAssets = property, equipment, inventory, etc. at current market values\nLiabilities = loans, creditors at current amounts owed",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1106,
     "question": "The accounting entry to record the premium on goodwill is to debit?",
     "option": {
@@ -16156,6 +16252,22 @@
     "image": "",
     "answer": "b",
     "solution": "Cost accounting primarily provides detailed cost information for decision making within the organization, helping managers plan, control, and evaluate operations.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1217,
+    "question": "The main objective of accounting report is to provide information about?",
+    "option": {
+      "a": "a company's shareholding",
+      "b": "an entity's management",
+      "c": "the efficacy of assets",
+      "d": "a company's economic resources"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The primary purpose of an accounting report is to convey information about an entity’s economic resources (its assets) and the claims against those resources, as well as changes in them over time.",
     "examtype": "utme",
     "examyear": "2001"
   },
