@@ -16064,6 +16064,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1019,
+    "question": "Given:\n\nRent..............₦10,000\nRates.............₦5,000\nCapital...........₦50,000\nSalaries..........₦14,000\nCash..............₦26,000\nCreditors..........₦5,000\n\nThe total trial balance is?",
+    "option": {
+      "a": "₦110,000",
+      "b": "₦65,000",
+      "c": "₦55,000",
+      "d": "₦45,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "We total debits and credits separately (digit-by-digit):\n\nDebits:\n\nRent = ₦10,000\n\nRates = ₦5,000\n\nSalaries = ₦14,000\n\nCash = ₦26,000\n\nAdd debits:\n₦10,000\n\n₦5,000 = ₦15,000\n\n₦14,000 = ₦29,000\n\n₦26,000 = ₦55,000\n\nCredits:\n\nCapital = ₦50,000\n\nCreditors = ₦5,000\n\nAdd credits:\n₦50,000\n\n₦5,000 = ₦55,000\n\nTrial balance total = ₦55,000 (both sides).",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1020,
     "question": "What are the appropriate recording procedures for entries in the trial balance?",
     "option": {
