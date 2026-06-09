@@ -192,6 +192,22 @@
     "examyear": "2011"
   },
   {
+    "id": 32,
+    "question": "A cheque which has been sent but has yet gone through the bank account of the receiver of it is known as:",
+    "option": {
+      "a": "Dishonoured cheque",
+      "b": "Unpresented cheque ",
+      "c": "Uncredited cheque",
+      "d": "Unhonoured cheque"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 37,
     "question": "Which of the following is not a business asset?",
     "option": {
@@ -448,6 +464,22 @@
     "examyear": "2013"
   },
   {
+    "id": 84,
+    "question": "The capital of a sole trader changes as a result of",
+    "option": {
+      "a": "paying wages by cash.",
+      "b": "equipment purchased by cheque.",
+      "c": "drawings by cheque.",
+      "d": "purchases on credit."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 85,
     "question": "The order of financial accounting process involves: (I) recording; (II) presenting; (III) collecting; (IV) analyzing.",
     "option": {
@@ -571,6 +603,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 105,
+    "question": "A low current ratio in a business indicates that the business is",
+    "option": {
+      "a": "faced with long term loan repayment problem.",
+      "b": "efficient in the utilization of its resources.",
+      "c": "unable to pay its bills on time.",
+      "d": "growing its net asset effectively."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -1648,6 +1696,22 @@
     "examyear": "2006"
   },
   {
+    "id": 242,
+    "question": "Control accounts are also known as",
+    "option": {
+      "a": "contra accounts",
+      "b": "total accounts",
+      "c": "ledger accounts",
+      "d": "integral accounts."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 245,
     "question": "Using the straight line method, the depreciation charged for year 2002 was",
     "option": {
@@ -2183,6 +2247,22 @@
       "b": "Salaries account",
       "c": "Creditors account",
       "d": "Trading account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 310,
+    "question": "The accounting ledger for goods sold on credit are debit",
+    "option": {
+      "a": "Debtors Account, credit Sales Account",
+      "b": "Creditors Account, credit Sales Account",
+      "c": "Sales Account, credit Debtors Account",
+      "d": "Sales Account, credit Creditors Account"
     },
     "section": "",
     "image": "",
@@ -2928,6 +3008,22 @@
     "examyear": "2007"
   },
   {
+    "id": 448,
+    "question": "The receipts and payments account of a not-for-profit-making organization plays a similar role in a profit-making organization as",
+    "option": {
+      "a": "a cash account",
+      "b": "a balance sheet",
+      "c": "an income account",
+      "d": "an expenses account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 449,
     "question": "Osei and Yabo were in partnership sharing profits and losses in the ratio of 3:2. On admitting Takwa, the profit and loss sharing ratio was changed to 1:1:1  Suppose Takwa paid N  30 000 for goodwill this amount would be",
     "option": {
@@ -3324,6 +3420,22 @@
     "image": "",
     "answer": "a",
     "solution": "The defining feature of a revenue expense is that it’s incurred in the normal course of earning income and directly contributes to the business’s operating results for the period.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 520,
+    "question": "Determine wage expenses from the given information, wages outstanding at the beginning, wages paid during the period 15000 and wages outstanding of the period 2,000",
+    "option": {
+      "a": " ₦16,000",
+      "b": " ₦17,000",
+      "c": " ₦13,000",
+      "d": "₦14,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Wage Expense=Wages Paid + Outstanding:\nWage Expense = 15,000 + 2,000 = 17,000",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -4480,6 +4592,22 @@
     "examyear": "2018"
   },
   {
+    "id": 693,
+    "question": "The cost price method is applicable when_____",
+    "option": {
+      "a": "Goods are sold at specific prices",
+      "b": " goods are perishable",
+      "c": " goods attract different gross profit percentage",
+      "d": "to disclose gross profit or loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "cost price method is used to enhance quick sales",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 695,
     "question": "In dealing with incomplete record, fixed assets are posted to___________-\n",
     "option": {
@@ -4816,6 +4944,22 @@
     "examyear": "2019"
   },
   {
+    "id": 753,
+    "question": "Bought motor vehicle ₦60 paying by cheque. The effect of the transaction will be",
+    "option": {
+      "a": "Increase in assets of motor vehicle account",
+      "b": "Decrease in assets of motor vehicle account",
+      "c": " Increase in assets of bank account",
+      "d": "Increase in liabilities of bank account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The motor vehicle account is the receiver while bank account is giving out. Therefore, there will be an increase in motor account and a decrease in bank account.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 754,
     "question": "A proprietor withdraws cash from the business for private use, he",
     "option": {
@@ -5132,6 +5276,22 @@
     "image": "",
     "answer": "a",
     "solution": "The accounting period concept divides a business’s life into regular, comparable intervals—most commonly one year—for which financial statements are prepared. This allows stakeholders to assess performance and financial position over consistent time spans",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 790,
+    "question": "Given the following information from the Appropriation Account showing distributions to partners TAYO and TOPE: Interest on capital amounts to ₦750 for TAYO and ₦550 for TOPE; Salaries are ₦800 for TAYO and ₦600 for TOPE; Share of profit is ₦3,300 for TAYO and ₦3,300 for TOPE. You are required to determine the net profits of the partnership.",
+    "option": {
+      "a": "₦6,600",
+      "b": "₦9,300",
+      "c": "₦4,450",
+      "d": " ₦4,850"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The net profit of the partnership is the total of all appropriations:\n\nInterest on capital: ₦750 + ₦550 = ₦1,300\n\nSalaries: ₦800 + ₦600 = ₦1,400\n\nPartners’ profit share: ₦3,300 + ₦3,300 = ₦6,600\n\nSo\n\nNet Profit=1,300+1,400+6,600= \n₦9,300",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -5820,6 +5980,22 @@
     "image": "",
     "answer": "c",
     "solution": "The features are:\n- include capital and revenue items\n- accruals and prepayments are not included\n- it is a real account\n- only actual receipts and payments are recorded\n- balance represent cash in hand",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 902,
+    "question": "Which of the following is used to service all operations of government?",
+    "option": {
+      "a": " general reserve fund",
+      "b": "consolidated revenue fund",
+      "c": " special operational fund",
+      "d": " consolidated reserve fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Consolidate revenue fund shows the total income derived by the government from all the sources of revenue.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7024,6 +7200,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1094,
+    "question": "Where the debit side of the income and expenditure account is higher than the credit side, the difference is a?",
+    "option": {
+      "a": "deficit",
+      "b": "surplus",
+      "c": "gain",
+      "d": "loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In an Income and Expenditure Account:\n\nCredit side = Money coming in (Income)\nDebit side = Money going out (Expenses)\n\nWhen expenses are more than income, you have spent more than you earned.\nFor non-profit organizations, this is called a deficit.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1095,
     "question": "In the balance sheet of a not-for-profit-making organization, subscription paid in advance is regarded s a?",
     "option": {
@@ -7118,6 +7310,38 @@
     "solution": "Explanation: Share premium arises from issuing shares above their nominal value and is treated as a capital reserve, not available for distribution as dividend like revenue/general reserves.",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1112,
+    "question": "According to the provisions of the 1999 Constitution, all revenues generated by the Federal Government must be paid into the?",
+    "option": {
+      "a": "Consolidated Revenue Fund",
+      "b": "Federation Account",
+      "c": "Revenue Mobilization Allocation and Fiscal Commission's Account",
+      "d": "Equalization Fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Section 80 of the 1999 Constitution requires that all revenues or other moneys raised or received by the Federation shall be paid into and form one Consolidated Revenue Fund of the Federation",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1118,
+    "question": "<b>Use the information below to answer questions 4 and 5</b>\n\nCapital ...................₦2000\nBank ......................₦1200\nPurchase ..................₦2500\nSales .....................₦6700\nStock .....................₦1300\nCreditors .................₦1000\nFixed assets...............₦3700\nDrawings ..................₦?\n\n\nDrawings are always estimated at 50% of capital.\n\nThe trial balance total is?",
+    "option": {
+      "a": "₦9700",
+      "b": "₦8700",
+      "c": "₦7900",
+      "d": "₦7800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Drawings = 50% of capital = 0.5 × ₦2,000 = ₦1,000\n\nDebits: Bank ₦1,200 + Purchases ₦2,500 + Stock ₦1,300 + Fixed assets ₦3,700 + Drawings ₦1,000\n= ₦1,200 + ₦2,500 = ₦3,700\n₦3,700 + ₦1,300 = ₦5,000\n₦5,000 + ₦3,700 = ₦8,700\n₦8,700 + ₦1,000 = ₦9,700\n\nCredits: Capital ₦2,000 + Sales ₦6,700 + Creditors ₦1,000 = ₦9,700\n\nSo the trial balance total is ₦9,700.",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 1120,
@@ -7264,6 +7488,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1133,
+    "question": "<b>Use the information below to answer questions 18 and 19</b>\n\nUsing the periodic simple average method, the cost per unit is",
+    "option": {
+      "a": "₦2.50 ",
+      "b": " ₦3.25",
+      "c": " ₦2.25",
+      "d": "₦1.25"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663211/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q18-19_t9cj1m.png",
+    "answer": "a",
+    "solution": "Periodic Simple Average Method:\nThis method calculates the average of all the different purchase prices, regardless of the quantities purchased at each price.\nCalculation:\nSimple Average = Sum of all purchase prices ÷ Number of different prices\nSimple Average = (₦1.00 + ₦2.00 + ₦3.00 + ₦4.00) ÷ 4\nSimple Average = ₦10.00 ÷ 4\nSimple Average = ₦2.50 per unit",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1137,
     "question": "The stock valuation data is important because it enables management to?",
     "option": {
@@ -7324,6 +7564,22 @@
     "image": "",
     "answer": "a",
     "solution": "Step 1 – Identify assets:\n\nCash = ₦100,000\n\nSubscription in arrears = ₦5,000 (this is money owed to the club, so it’s an asset)\n\nTotal Assets = ₦100,000 + ₦5,000 = ₦105,000\n\nStep 2 – Identify liabilities:\n\nLoan = ₦30,000\n\nSubscription in advance = ₦15,000 (this is money the club owes in service, so liability)\n\nTotal Liabilities = ₦30,000 + ₦15,000 = ₦45,000\n\nStep 3 – Calculate Accumulated Fund:\nAccumulated Fund = Assets − Liabilities\nAccumulated Fund = ₦105,000 − ₦45,000 = ₦60,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1150,
+    "question": "The first step in converting as single entry to a double entry system of bookkeeping is to prepare a?",
+    "option": {
+      "a": "suspense account",
+      "b": "statement of affairs",
+      "c": "realization account",
+      "d": " trial balance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In single-entry systems you don’t have a full set of books, so the first step is to prepare a statement of affairs (a makeshift balance sheet) to determine opening balances and the proprietor’s capital. From that you can make the opening double-entry journal entries to set up the ledger.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -8256,6 +8512,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1279,
+    "question": "<b>Use the information below to answer questions 15 and 16</b>\nCost of raw materials consumed ₦300,600, carriage inwards ₦6,700, returns of raw materials ₦10,800, closing stock of raw materials ₦100,250, raw materials purchased during the year ₦350,000, manufacturing wages ₦27,000, and lighting, power, insurance and rent in relation to the factory are apportioned 1/3, 2/5, 1/6 and 1/7 with totals ₦30,000, ₦75,000, ₦36,000 and ₦56,000 respectively.\nWhat is the cost of the opening raw materials?",
+    "option": {
+      "a": "₦ 418,350",
+      "b": " ₦404,950",
+      "c": "₦54,950",
+      "d": "₦398,250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Raw Materials Consumed = Opening Stock + Purchases + Carriage Inwards - Returns - Closing Stock\nRearranging to find Opening Stock:\nOpening Stock = Raw Materials Consumed + Closing Stock + Returns - Purchases - Carriage Inwards\nSubstituting the values:\nOpening Stock = ₦300,600 + ₦100,250 + ₦10,800 - ₦350,000 - ₦6,700\nOpening Stock = ₦411,650 - ₦356,700 = ₦54,950",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1282,
     "question": "Given:\n\nDepreciation of plant and machinery ₦1,600\nFactory rent ₦650\nIndirect wages ₦695\nGeneral indirect expenses ₦726\nlubricants ₦1235\nCarriage inwards ₦829\nFactory power ₦350\nBank charges ₦612\nCarriage outwards ₦2,900\n\nDetermine the total factory overhead cost?",
     "option": {
@@ -8300,6 +8572,22 @@
     "image": "",
     "answer": "b",
     "solution": "The cash book records all cash receipts and payments\nSimple receivables/payables ledgers track what’s owed by customers and to suppliers without full double‐entry records",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1289,
+    "question": "One of the shortcomings of single entry procedures is that?",
+    "option": {
+      "a": "a trial balance is not available",
+      "b": "profits are overestimated",
+      "c": "there are no subsidiary books",
+      "d": "there are no control accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A key shortcoming of single‐entry systems is that no trial balance can be prepared, since transactions aren’t recorded in full double‐entry form.",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -8412,6 +8700,22 @@
     "image": "",
     "answer": "d",
     "solution": "Assuming the accounting year ends on December 31, we calculate interest on Joy’s drawings from the date of each drawing to the year-end:\n\n₦100 drawn on April 1\nInterest for 9 months (Apr 1–Dec 31):\n\n100 × 5% × 9/12 = 100 × 0.05 × 0.75 = ₦3.75\n\n\n₦240 drawn on July 1\nInterest for 6 months (Jul 1–Dec 31):\n\n240 × 5% × 6/12 = 240 × 0.05 × 0.5 = ₦6.00\n\nTotal interest on Joy’s drawings = ₦3.75 + ₦6.00 = ₦9.75",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1304,
+    "question": "<b>Use the information below to answer question 39 and 40</b>\n\nRakya and Joy are in partnership and agreed that 5% interest per annum is to be charged on drawings. The drawing made by both partners in one year were: Rakiya, ₦200 on March 31 and ₦300 on September 30, Joy, ₦100 on April 1 and ₦240 on July 1\n\nAssuming that Rakiya was not credited with any income during the period, what is her closing current account balance?",
+    "option": {
+      "a": "₦340,000 credit",
+      "b": "₦349,75 debit",
+      "c": "₦500.00 credit",
+      "d": "₦ 511.25 debit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Rakiya’s current account (assuming an opening zero balance and no income credits) will show:\n\nDrawings:\n₦200 + ₦300 = ₦500\n\nInterest on drawings @ 5%\n\n₦200 on March 31 ⇒ 9 months’ interest = 200×0.05×9/12 = ₦7.50\n\n₦300 on September 30 ⇒ 3 months’ interest = 300×0.05×3/12 = ₦3.75\nTotal interest = ₦7.50 + ₦3.75 = ₦11.25\n\nSo the account is debited with ₦500 (drawings) + ₦11.25 (interest) = ₦511.25.",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -9344,6 +9648,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1435,
+    "question": "The process of allocating the cost of an intangible assets over its useful life is known as",
+    "option": {
+      "a": "depreciation",
+      "b": "extraction",
+      "c": "depletion",
+      "d": "amortization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Amortization is the systematic allocation of the cost of an intangible asset (like patents, copyrights, or trademarks) over its useful life.\n\nDepreciation is used for tangible assets.\n\nDepletion is used for natural resources.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1441,
     "question": "Which of the following stock valuation methods is suitable under inflationary conditions?",
     "option": {
@@ -9436,6 +9756,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672047/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q37-38_sdjnqq.png",
     "answer": "a",
     "solution": "To find the correct closing balance for Musa's current account, properly arrange the account with debits on the left and credits on the right.\nMusa's Current Account (Corrected):\nDebit Side (Left):\n\nDrawings: ₦8,800\nBalance c/d (if credit balance): ?\n\nCredit Side (Right):\n\nBalance b/d: ₦1,800\nInterest on capital: ₦800\nShare of profit: ₦26,200\n\nCalculation:\nTotal credits = ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nLess: Drawings = ₦8,800\nNet credit balance = ₦28,800 - ₦8,800 = ₦20,000\nWait, let me recalculate more carefully:\nCredit side total: ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nDebit side: Drawings ₦8,800\nBalance c/d: ₦28,800 - ₦8,800 = ₦20,000 credit",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1453,
+    "question": "Faruk and Osawe are in partnership sharing profits\nand losses in the ratio of 3:7. Faruk isto receive a salary of ₦9,000. In one accounting period, the business\nrecorded a loss of ₦1,500 (before deduction\nof Faruk’s salary). The appropriate distribution of\nthe net loss would be",
+    "option": {
+      "a": "Faruk,(₦450);Osawe,(₦1,050)",
+      "b": "Faruk,(₦3,150); Osawe (₦7,350),",
+      "c": "Faruk,(₦2,250);Osawe,(₦5,250),",
+      "d": "Faruk, (₦8,550);Osawe,(₦1,050)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Adjust loss for Faruk's salary\n\nLoss before salary = ₦1,500\nFaruk's salary = ₦9,000\n\nSince salary is treated as an appropriation before profit is shared, the total loss to be shared becomes:\n\n{Net loss} = ₦1,500 + ₦9,000 = ₦10,500\n\n\nStep 2: Share the net loss in the ratio 3:7\n\nTotal ratio = 3 + 7 = 10\n\nFaruk: {3}/{10} × ₦10,500 = ₦3,150$\nOsawe: {7}/{10} × ₦10,500 = ₦7,350$\n\nStep 3: Net effect\n\nFaruk does not receive the salary because the firm made a loss; the loss including salary is allocated.",
     "examtype": "utme",
     "examyear": "1997"
   },
