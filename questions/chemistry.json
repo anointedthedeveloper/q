@@ -1120,6 +1120,22 @@
     "examyear": "2003"
   },
   {
+    "id": 80,
+    "question": "Neutral atoms of neon with atomic number 10 have the same number of electrons as",
+    "option": {
+      "a": "O2+",
+      "b": "Ca2+",
+      "c": "K+",
+      "d": "Mg2+"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 81,
     "question": "The noble gases owe their inactivity to",
     "option": {
@@ -1435,6 +1451,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 102,
+    "question": "When sugar is dissolved in tea, the reaction is always accompanied by",
+    "option": {
+      "a": "Positive entropy change",
+      "b": "Negative entropy change",
+      "c": "No entropy change",
+      "d": "A minimum entropy change"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -2512,6 +2544,22 @@
     "examyear": "2005"
   },
   {
+    "id": 177,
+    "question": "The ores that can be concentrated by flotation are",
+    "option": {
+      "a": "Nitride ores",
+      "b": "Chloride ores",
+      "c": "Oxide ores",
+      "d": "Sulphide ores"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 178,
     "question": "The most suitable metal that can be used as a lightening  conductor is",
     "option": {
@@ -3531,6 +3579,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 249,
+    "question": "One heating may be produced by shaking a detergent solution with",
+    "option": {
+      "a": "Cu(NO3)2",
+      "b": "AgNO3",
+      "c": "Ca(NO3)2",
+      "d": "NaNO3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -9228,6 +9292,22 @@
     "image": "",
     "answer": "c",
     "solution": "Chlorine (Cl₂) is a yellow-green coloured gas that is highly toxic. It attacks and damages the mucous membranes of the respiratory tract, including the lungs, and was used as a chemical weapon in World War I. Hydrogen sulphide is colourless with a rotten egg smell, carbon(II) oxide is colourless and odourless, and sulphur(IV) oxide is colourless with a pungent smell.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 654,
+    "question": "An organic compound which decolourises bromine water is likely to be?",
+    "option": {
+      "a": "C₃H₈",
+      "b": "C₂H₆",
+      "c": "C₄H₁₀",
+      "d": "C₂H₄"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Bromine water is decolourised by compounds containing a C=C double bond (alkenes) or C≡C triple bond (alkynes) through addition reactions. C₂H₄ is ethene, an alkene with a double bond: C₂H₄ + Br₂ → C₂H₄Br₂ (colourless). C₃H₈, C₂H₆, and C₄H₁₀ are all alkanes, which do not react with bromine water under normal conditions.",
     "examtype": "utme",
     "examyear": "2022"
   },
