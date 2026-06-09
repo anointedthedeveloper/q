@@ -208,6 +208,22 @@
     "examyear": "2000"
   },
   {
+    "id": 124,
+    "question": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p<sup>2</sup> - q<sup>2</sup> /2pq)",
+    "option": {
+      "a": "2(2+√2)",
+      "b": "-2(2+√2)",
+      "c": "2√2",
+      "d": " -2√2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>p</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mo>+</mo>\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mspace width=\"1mm\"></mspace>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mi>d</mi>\n  <mspace width=\"1mm\"></mspace>\n  <mi>q</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mo>&#x2212;</mo>\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>,</mo>\n  <mspace width=\"1mm\"></mspace>\n  <mi>e</mi>\n  <mi>v</mi>\n  <mi>a</mi>\n  <mi>l</mi>\n  <mi>u</mi>\n  <mi>a</mi>\n  <mi>t</mi>\n  <mi>e</mi>\n  <mspace width=\"1mm\"></mspace>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mi>p</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;</mo>\n      <msup>\n        <mi>q</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mi>p</mi>\n      <mi>q</mi>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 131,
     "question": "Find the integral values of x and y satisfying the inequality 3y + 5x( less than equal to)\n 15, given that y > 0, y < 3 and x > 0.",
     "option": {
@@ -236,6 +252,22 @@
     "image": "",
     "answer": "b",
     "solution": "m<sup>2</sup> + n<sup>2</sup> = 29 .......(1)\nm + n = 7 ............(2)\n\nFrom (2),\nm = 7 - n\nbut m<sup>2</sup> + n<sup>2</sup> = 29, substituting;\n(7-n)<sup>2</sup> + n<sup>2</sup> = 29\n49 - 14n + n<sup>2</sup> + n<sup>2</sup> = 29\n=> 2n<sup>2</sup> -14n + 20 = 0\nThus n<sup>2</sup> -7n + 10 = 0\n\nFactorizing;\n(n-5)(n-2) = 0\nn - 5 = 0, => n = 5\nn - 2 = 0, => n = 2.\n\nWhen n = 5,\nm + n = 7, => m = 2,\n\nWhen n = 2,\nm + n = 7, => m = 5.\n\nThus (m,n) = (5,2) and (2,5)",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 135,
+    "question": "Factorize 4x<sup>2</sup>  - 9y<sup>2</sup>  + 20x + 25",
+    "option": {
+      "a": "(2x -3y + 5)(2x - 3y - 5)",
+      "b": "(2x - 3y)(2x + 3y)",
+      "c": "(2x - 3y +5)(2x + 3y + 5)",
+      "d": " (2x + 5)(2x - 9y +5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given: 4x<sup>2</sup> - 9y<sup>2</sup> + 20x + 25\nCollect like terms: 4x<sup>2</sup> + 20x + 25 - 9y<sup>2</sup> (2x + 5)(2x + 5) - 9y<sup>2</sup> \n(2x + 5)<sup>2</sup> - (3y)<sup>2</sup>                            (2x - 3y +5)(2x + 3y + 5)",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -684,6 +716,38 @@
     "image": "",
     "answer": "c",
     "solution": "p + 40° = 100° (exterior ∠ = sum of two interior opp ∠s)\np = 100° - 40°\nP = 60°\nBut q + p = 180° (∠s on a straight line)\nq + 60°\nq = 180° - 60°\nq = 120°\nx = q (corresponding ∠)\n∴x = 120°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 370,
+    "question": "From the diagram above, find the bearing of R and S",
+    "option": {
+      "a": "226°",
+      "b": "224°",
+      "c": "136°",
+      "d": "134°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702612/ALOC-Questions/Mathematics/2005/math_2005_q49_kb66c4.jpg",
+    "answer": "b",
+    "solution": "The diagram x = 44o (alternate ∠s) the bearing of R from S\n= 180 + x\n= 180 + 44\n= 224°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 371,
+    "question": "The grades of 36 students in a test are shown in the pie chart above. How many students had excellent?",
+    "option": {
+      "a": "7",
+      "b": "8",
+      "c": "9",
+      "d": "12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Angle of Excellent\n= 360 - (120+80+90)\n= 360 - 290\n= 70o\nIf 360o represents 36 students\n1o will represent 36/360\n50o will represent 36/360 * 70/1\n= 7",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -1152,6 +1216,22 @@
     "examyear": "2012"
   },
   {
+    "id": 756,
+    "question": "Evaluate <sup>n+1</sup>C<sub>n-2</sub> If n =15",
+    "option": {
+      "a": "3630",
+      "b": "3360",
+      "c": "1120",
+      "d": "560"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "n+1(n−2)/(n+1)!\n\n\n(n+1)+(n−2)!(n−2)!/(n+1)!\n\n\n(n+1)(n+1−1)(n+1−2)(n+1−3)/!3!(n−2)!\n\n\n(n+1)(n)(n−1)(n−2)/!3!(n−2)!\n\n\n(n+1)(n)(n−1/)3!\n\n\nSince n = 15\n\n(15+1)(15)(15−1)/3!\n\n\n16×15×14/3×2×1\n\n\n= 560",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 759,
     "question": "The probabilities that a man and his wife live for 80 years are 2/3 and 3/5 respectively. Find the probability that at least one of them will live up to 80 years",
     "option": {
@@ -1456,6 +1536,22 @@
     "examyear": "2018"
   },
   {
+    "id": 948,
+    "question": "A man's initial salary is N540.00 a month and increases after each period of six months by N36.00. Find his salary in the eight month of the third year.",
+    "option": {
+      "a": "N828.00",
+      "b": "N756.00",
+      "c": "N720.00",
+      "d": "N684.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Since the salary increases by #36 after every 6 months\n\n: 2 years and 8 months imply an increase of five times only:\n\n36 * 5 →  #180\n\n His salary then = initial salary + increment\n\n  = 540 + 180\n\n  = #720",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 952,
     "question": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/",
     "option": {
@@ -1628,6 +1724,22 @@
     "image": "",
     "answer": "d",
     "solution": "234 - 4x<sup>2</sup> = 182<sup>2</sup>  - (2x)<sup>2</sup> = (18 - 2x)(18 + 2x)\n\n2x + 18 = 2x + 18 = (2x + 18)\n\n18 - 2x = 2(a - x) or -2(x - a) \n\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1045,
+    "question": "If x is positive real number, find the range of values for which 1/3x + 1/2 > 1/4x\n ",
+    "option": {
+      "a": "x > -1/6",
+      "b": "x > 0",
+      "c": "0 < x < 6",
+      "d": "0 < x <1/6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "1/3x + 1/2x = (2 + 3x)/6x > 1/4x\n \n\n= 4(2 + 3x) > 6x = 12x<sup></sup>\n - 2x = 0\n\n= 2x(6x - 1) > 0 = x(6x - 1) > 0\n\nCase 1 (-, -) = x < 0, 6x - 1 > 0\n\n= x < 0, x < 1/6 (solution) \n\nCase 2 (+, +) = x > 0, 6x - 1 > 0 = x > 0\nx > 1/6\nCombining solutions in cases (1) and (2) \n\n= x > 0, x < 1/6 = 0 < x < 1/6\n ",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -1852,6 +1964,22 @@
     "image": "",
     "answer": "b",
     "solution": "Let the third number = x\nThen the first number = 100% x + 35%x = 135x/100 = 1.35x (Note: 100% x=x)\n\nThe second number = 180% x = 180x/100 = 1.80x\n∴ The ratio of the first number to the second number = 1.35x:1.80x=3:4",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1180,
+    "question": "Calculate, correct to three significant figures, the length of the arc AB in the diagram above.[Take π=22/7]",
+    "option": {
+      "a": "32.4 cm",
+      "b": "30.6 cm",
+      "c": "28.8 cm",
+      "d": "30.5 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008084/ALOC-Questions/Mathematics/2023/MATH_2023_Q44_cdwigh.jpg",
+    "answer": "b",
+    "solution": "Consider ∆XOB and using Pythagoras theorem\n\n13<sup>2</sup> = 12<sup>2</sup> + h<sup>2</sup>\n⇒ 169 = 144 + h<sup>2</sup>\n⇒ 169 - 144  =h<sup>2</sup>\n⇒ 25 = h<sup>2</sup>\n⇒ h = √25 = 5cm\n\ntan θ = opp/adj\n⇒ tan θ = 12/5 = 2.4\n\n⇒ θ = tan<sup>-1</sup>(2.4)\n\n⇒ θ = 67.38<sup>o</sup>\n∠AOB = 2θ = 2 x 67.38<sup>o</sup> = 134.76<sup>o</sup>\nL = θ/360<sup>o</sup>×2πr\n⇒ L = 134.76/360 × 2 × (22/7) × 13 =77082.72/2520\n∴ L = 30.6cm (to 3 s.f)",
     "examtype": "utme",
     "examyear": "2023"
   },
