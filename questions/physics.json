@@ -1504,6 +1504,22 @@
     "examyear": "2012"
   },
   {
+    "id": 122,
+    "question": "A 25N force pulls a 2.0kg body up a 300 inclined plane. If force is parallel to the plane and the body moves up the plane at constant velocity. Calculate the magnitude of the frictional force between the body and the plane. [g =10m/s2]",
+    "option": {
+      "a": "25N",
+      "b": "10N",
+      "c": "5N",
+      "d": "15N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 124,
     "question": "A coin is at the bottom of a bucket filled with a liquid whose refractive index is 1.35. The coin appears to be 12.0cm below the surface of the liquid. Calculate the depth of the liquid.",
     "option": {
@@ -3116,6 +3132,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611037/ALOC-Questions/Physics/2017/2017_Q_28_lvf0sz.jpg",
     "answer": "b",
     "solution": "Given information:\n\nCapacitance (C) = 8µF = 8 × 10⁻⁶ F\nVoltage (V) = 10V\nEnergy (E) = ?\n\nFormula for energy stored in a capacitor:\nE = ½CV²\nSubstituting values:\nE = ½ × 8 × 10⁻⁶ × (10)²\nE = ½ × 8 × 10⁻⁶ × 100\nE = ½ × 800 × 10⁻⁶\nE = 400 × 10⁻⁶\nE = 4.0 × 10⁻⁴ J",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 259,
+    "question": "I. Refraction II. Interference III. Diffraction Which of the above properties are common to all waves?",
+    "option": {
+      "a": "II and III only",
+      "b": " I, II and III",
+      "c": "I and II only",
+      "d": " I and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "All three properties, refraction, interference, and diffraction, are fundamental wave phenomena that occur in ALL types of waves, whether mechanical (sound, water) or electromagnetic (light, radio).",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -7264,6 +7296,22 @@
     "examyear": "2024"
   },
   {
+    "id": 596,
+    "question": "The degree of precision of a vernier caliper is ",
+    "option": {
+      "a": "0.005 cm",
+      "b": "0.01 cm",
+      "c": "0.1 cm",
+      "d": "1.0 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A standard vernier caliper usually has the least count (its degree of accuracy) of 0.01 cm, meaning it can make measurements to the nearest hundredth of a centimeter. This level of precision allows for accurate readings in various applications.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 598,
     "question": "The property by which a material returns to its original shape after the removal of force is called ",
     "option": {
@@ -8364,6 +8412,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296766/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_38_snlarm.png",
     "answer": "a",
     "solution": "Recognize transistor type\nThe arrow points FROM the center line TOWARD terminal P, indicating an NPN transistor.\nStep 3: Identify terminals\nIn a transistor symbol:\n\nBASE (B): The line that connects to the central vertical bar (terminal Q)\nCOLLECTOR (C): The line without an arrow (terminal R)\nEMITTER (E): The line with the arrow (terminal P)\nThe arrow always points from emitter, indicating current flow direction.\n\nP = EMITTER (has arrow)\nQ = BASE (center connection)\nR = COLLECTOR (top terminal without arrow)\n\nP, Q, R represent: EMITTER, BASE and COLLECTOR",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 688,
+    "question": "²³⁵₉₂U + ¹₀n → ¹⁴⁴₅₆Ba + ⁹⁰₃₆Kr + 2X\nIn the reaction above, X is",
+    "option": {
+      "a": "electron",
+      "b": "proton",
+      "c": "neutrino",
+      "d": "neutron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nuclear fission reaction\nUranium-235 absorbs a neutron\nProducts: Barium-144, Krypton-90, and 2X\n\nSolution:\nStep 1: Apply conservation of mass number (A)\nLeft side: 235 + 1 = 236\nRight side: 144 + 90 + 2A_X = 234 + 2A_X\nEquating: 236 = 234 + 2A_X\n2A_X = 2\nA_X = 1\nStep 2: Apply conservation of atomic number (Z)\nLeft side: 92 + 0 = 92\nRight side: 56 + 36 + 2Z_X = 92 + 2Z_X\nEquating: 92 = 92 + 2Z_X\n2Z_X = 0\nZ_X = 0\nStep 3: Identify particle with A = 1, Z = 0\nThe particle with:\n\nMass number = 1\nAtomic number = 0\n\nis a neutron (¹₀n)",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -9504,6 +9568,22 @@
     "examyear": "2007"
   },
   {
+    "id": 779,
+    "question": "The ratio of the coefficient of linear expansion of two metals ∝₁/∝₂ is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals, e₁/e₂ is 1:2, the ratio of the original lengths l₁/l₂ is",
+    "option": {
+      "a": " 8/3",
+      "b": "3/2",
+      "c": "2/3",
+      "d": "3/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nα₁ / α₂ = 3/4\nΔL₁ / ΔL₂ = 1/2\nTemperature change ΔT is the same for both.\n\nSolution:\n\nStep 1: Linear expansion formula\nFor each metal: ΔL = α L ΔT\n\nStep 2: Ratio of expansions\nΔL₁ / ΔL₂ = (α₁ L₁ ΔT) / (α₂ L₂ ΔT) = (α₁/α₂) × (L₁/L₂)\n\nStep 3: Substitute known ratios\n1/2 = (3/4) × (L₁/L₂)\n\nStep 4: Solve for L₁/L₂\nL₁/L₂ = (1/2) ÷ (3/4) = (1/2) × (4/3) = 4/6 = 2/3",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 780,
     "question": "The fundamental frequency of a plucked wire under a tension of 400N is 250Hz. When the frequency is changed to 500 Hz at constant length, the tension is",
     "option": {
@@ -9532,6 +9612,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431507/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_33_acsxrq.png",
     "answer": "d",
     "solution": "Solution:\n\nStep 1: Recall Fleming's Left-Hand Rule\nFor a current-carrying conductor in a magnetic field, Fleming's Left-Hand Rule states:\n\nThumb: direction of force (motion)\n\nFirst finger: direction of magnetic field\n\nSecond (middle) finger: direction of current\n\nAll three are mutually perpendicular.\n\nStep 2: Apply the rule\n\nMagnetic field (first finger): into the paper (away from you)\n\nForce (thumb): upwards\n\nTo have these two directions, the current (second finger) must point to the left.\n\nStep 3: Visualize\nIf the field is into the paper and force is up, the only perpendicular direction remaining for current is left.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 783,
+    "question": "The instantaneous value of the induced e.m.f as a function of time is ε = ε₀ sin ωt where ε₀ is the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is",
+    "option": {
+      "a": "0.00",
+      "b": "ε₀/4",
+      "c": " ε₀/2",
+      "d": " ε₀"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nε = ε₀ sin(ωt)\nPeriod T = 2π/ω\nTime t = T/4\n\nSolution:\n\nStep 1: Find ωt at t = T/4\nωt = ω × (T/4) = ω × (2π/(4ω)) = π/2\n\nStep 2: Evaluate sin(π/2)\nsin(π/2) = 1\n\nStep 3: Substitute into equation\nε = ε₀ × 1 = ε₀",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -10752,6 +10848,22 @@
     "examyear": "2009"
   },
   {
+    "id": 885,
+    "question": "The value of x, y and z respectively in the expression M^x L^y T^z for the universal gravitational constant G are?",
+    "option": {
+      "a": "2, -3, -2",
+      "b": "-1, 3, -2",
+      "c": "-1, 2, -3",
+      "d": "-2, -1, 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nUniversal gravitational constant G appears in Newton's law of gravitation:\nF = G (m₁ m₂) / r²\n\nSolution:\n\nStep 1: Write dimensional formula for each quantity\nForce F has dimensions: M L T⁻²\nMass m has dimensions: M\nDistance r has dimensions: L\n\nStep 2: Rearrange equation for G\nG = (F × r²) / (m₁ × m₂)\n\nStep 3: Substitute dimensions\n[G] = (M L T⁻² × L²) / (M × M)\n[G] = (M L³ T⁻²) / M²\n\nStep 4: Simplify\n[G] = M⁻¹ L³ T⁻²\n\nStep 5: Compare with M^x L^y T^z\nx = -1, y = 3, z = -2",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 886,
     "question": "An aircraft attempts to fly due north at 100 km h⁻¹. If the wind blows against it from east to west at 60 km h⁻¹, its resultant velocity is?",
     "option": {
@@ -11040,6 +11152,22 @@
     "examyear": "2010"
   },
   {
+    "id": 909,
+    "question": "One special advantage of alcohol over mercury as a thermometric liquid is its?",
+    "option": {
+      "a": " low density",
+      "b": "low freezing point",
+      "c": " high specific",
+      "d": " low boiling point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The special advantage of alcohol over mercury as a thermometric liquid is its low freezing point (-115°C compared to -39°C for mercury), which allows it to measure much lower temperatures, making it suitable for use in very cold climates where mercury would freeze solid.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 913,
     "question": "The small droplet of water that forms on the grass in the early hours of the morning is",
     "option": {
@@ -11228,6 +11356,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nIn an AC circuit, resonance occurs when the inductive reactance equals the capacitive reactance (X_L = X_C).\n\nSolution:\n\nStep 1: Condition at resonance\nAt resonance, the circuit behaves purely resistively. The phase angle between voltage and current is zero.\n\nStep 2: Interpretation\nA phase angle of zero means the voltage and current are in phase, neither leads nor lags.\n\nStep 3: Evaluate options\nOnly 0° corresponds to this condition.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 930,
+    "question": "In a discharge tube, most of the gas is pumped out so that electricity is conducted at?",
+    "option": {
+      "a": "low voltage",
+      "b": "steady voltage",
+      "c": "high pressure",
+      "d": "low pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "pumping out of the gas in the discharge tube reduces the pressure inside the tube, therefore, electricity is conducted at low pressure",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -11644,6 +11788,22 @@
     "image": "",
     "answer": "a",
     "solution": "Sound is the only mechanical wave among the rest which are electromagnetic waves.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 964,
+    "question": "Which of the following electromagnetic waves has the highest frequency?",
+    "option": {
+      "a": " utra - violet rays",
+      "b": "radio waves",
+      "c": "x - rays",
+      "d": " infrared - rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "r - rays has the highest frequency followed by X - rays, ultraviolet ray, visible light intra - red and the least is radio weaves",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -13580,6 +13740,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nThe power of a lens is defined as the reciprocal of its focal length (in metres).\n\nSolution:\n\nStep 1: Formula for power of a lens\nPower P (in dioptres) = 1 / f, where f is the focal length in metres.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1122,
+    "question": "A man moves 6.0 m East and then 10.0 m N30°E. How far is he from his starting point?",
+    "option": {
+      "a": "15.0 m",
+      "b": " 17.0 m",
+      "c": "14.0 m",
+      "d": "12.0 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nFirst displacement: 6.0 m due East\nSecond displacement: 10.0 m in the direction N30°E (30° east of north)\n\nSolution:\n\nStep 1: Resolve the second displacement into components\nTake East as +x direction and North as +y direction.\n\nx-component = 10 sin 30° = 10 × 0.5 = 5.0 m (eastward)\n\ny-component = 10 cos 30° = 10 × 0.8660 = 8.66 m (northward)\n\nStep 2: Find total components\nTotal x = 6.0 + 5.0 = 11.0 m\nTotal y = 0 + 8.66 = 8.66 m\n\nStep 3: Calculate resultant displacement\nResultant R = √[(11.0)² + (8.66)²] = √(121 + 75) = √196 = 14.0 m",
     "examtype": "utme",
     "examyear": "2025"
   },
