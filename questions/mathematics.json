@@ -5536,6 +5536,22 @@
     "examyear": "2007"
   },
   {
+    "id": 463,
+    "question": "What is the value of k if the mid-point of the line joining (1 - k, - 4) and (2, k + 1) is (-k , k)?",
+    "option": {
+      "a": "-3",
+      "b": "-1",
+      "c": "-4",
+      "d": "-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(1-k+2) / 2 = - k and -4 + k + 1 = k\n3-k = -2k and -3 + k = 2k\nK = -3 and k = -3",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 464,
     "question": "Find the size of each exterior angle of a regular octagon",
     "option": {
@@ -12636,6 +12652,22 @@
     "image": "",
     "answer": "c",
     "solution": "Condition for Parallelism means that their gradient value is same\n\nline 2x - y = 5 is rearranged\n\nAs y = 2x - 5 from y = mx + c\n\n: line 2x - y = 5 has the gradient of 2\n\nA parallel line with gradient of 2 and intercept of 5\n\n→ 2x - y = -5\n\nRearranged as y = 2x + 5",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1122,
+    "question": "The equivalent of (10110.011)<sub>2</sub>\n in base 10 is?",
+    "option": {
+      "a": " 26.325",
+      "b": " 24.372",
+      "c": " 42.443",
+      "d": "22.375"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using the expansion method on (10110.011)<sub>2</sub>\n(1 * 2<sup>4</sup>) + (0 * 2<sup>3</sup>) + (1 * 2<sup>2</sup>) + (1 * 2<sup>1</sup>) (0 * 2<sup>0</sup>) + (0 * 2<sup>-1</sup>)  +  (1 * 2<sup>-2</sup>)  + (1 2<sup>-3</sup>)\n\n(1*16) + 0 (1*4) + (1*2) + 0 + 0 + (1*1/4) + (1*1/8) \n\n16 + 4 + 2 + (0.25 + 0.125)\n\n22 + 0.375\n\n(10110.011)<sub>2</sub>\n = 22.375<sub>10</sub>",
     "examtype": "utme",
     "examyear": "2022"
   },
