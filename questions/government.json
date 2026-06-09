@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 5,
+    "question": "In a modern democracy, the ultimate source of sovereignty is the ",
+    "option": {
+      "a": "legislature and executive ",
+      "b": "judiciary ",
+      "c": "ruling political party ",
+      "d": "people"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 6,
     "question": "The British took over Nigeria through ",
     "option": {
@@ -2912,6 +2928,22 @@
     "examyear": "2013"
   },
   {
+    "id": 285,
+    "question": "The following were the consequences of the Nigeria civil war EXCEPT the",
+    "option": {
+      "a": "creation of more states",
+      "b": "disruption of educational and economic activities",
+      "c": "general feelings of insecurity",
+      "d": "loss of lives and properties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 286,
     "question": "The parties that formed the coalition government in 1960 were ___ and ___",
     "option": {
@@ -4368,6 +4400,22 @@
     "examyear": "2010"
   },
   {
+    "id": 430,
+    "question": "The Aro age-grade system in lgboland was",
+    "option": {
+      "a": "a commercial organization",
+      "b": "a political organization",
+      "c": "an imperial organization",
+      "d": "a religious organization."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 431,
     "question": "France introduced the policy of assimilation in her colonies primarily to",
     "option": {
@@ -4848,6 +4896,22 @@
     "examyear": "2012"
   },
   {
+    "id": 472,
+    "question": "The right of citizens to participate in the affairs of government of their country is called",
+    "option": {
+      "a": "economic right",
+      "b": "civil right",
+      "c": "political right",
+      "d": "social light."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 473,
     "question": "The commission charged with the conduct of federal elections in Nigeria is",
     "option": {
@@ -5182,6 +5246,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 507,
+    "question": "De jure sovereignty is acquired through",
+    "option": {
+      "a": "force",
+      "b": "law",
+      "c": "grant",
+      "d": "treaty."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
   },
   {
     "id": 508,
@@ -5851,6 +5931,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 568,
+    "question": "Citizenship is acquired by an alien through",
+    "option": {
+      "a": "registration",
+      "b": "birth",
+      "c": "conferment",
+      "d": "naturalization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -7488,6 +7584,22 @@
     "examyear": "2017"
   },
   {
+    "id": 732,
+    "question": "A system of local council that allows for rotational leadership is known as __",
+    "option": {
+      "a": "single executive",
+      "b": "dual executive",
+      "c": "multi executive",
+      "d": "collegiate executive."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A collegiate executive system allows for rotational leadership.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 733,
     "question": "A type of constitution that is difficult to amend is described as –",
     "option": {
@@ -7756,6 +7868,22 @@
     "image": "",
     "answer": "d",
     "solution": "Nigeria became a republic under the 1963 Constitution (though the 1960 Constitution led to independence).",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 757,
+    "question": " Which of the following is a function of the civil service commission?",
+    "option": {
+      "a": "Enforcement of law and order",
+      "b": "Payment of civil servants salaries",
+      "c": " Discipline of erring civil servants",
+      "d": "Pro action of lives and properties."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Civil Service Commission is responsible for maintaining discipline within the civil service.",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -10048,6 +10176,22 @@
     "examyear": "2022"
   },
   {
+    "id": 985,
+    "question": "Unitary system of government is best applicable to a/an",
+    "option": {
+      "a": " multi-party state",
+      "b": "homogeneous state",
+      "c": "heterogenous state",
+      "d": "unicameral state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An homogeneous state has a single language, belief, culture and ethnicity among its people.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 989,
     "question": "The conference convened to discuss the provisions of the Macpherson Constitution was held in?",
     "option": {
@@ -11536,6 +11680,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1128,
+    "question": "The land use decree of 1978 vested the ownership of land in Nigeria in the",
+    "option": {
+      "a": "local chiefs",
+      "b": " local governments",
+      "c": "state governments",
+      "d": "federal governments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Land Use Decree of 1978 (later revised as the Land Use Act) vested the ownership of land in Nigeria's state governments. According to the decree, all land in urban and rural areas is held in trust by the state governors, who are responsible for managing it on behalf of the citizens. The goal was to ensure better land administration and allocation across the country. ",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1133,
     "question": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalised in the late 1970's for transacting business with",
     "option": {
@@ -12320,6 +12480,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1195,
+    "question": "Government by the wealthy is known as",
+    "option": {
+      "a": "plutocracy",
+      "b": "oligarchy",
+      "c": "aristocracy",
+      "d": "democracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Government by the wealthy is known as plutocracy it is one of the forms of oligarchy which is defined as government ruled by few privileged and powerful people.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1196,
     "question": "A collegial executive is a government in which power is vested in a",
     "option": {
@@ -12636,6 +12812,22 @@
     "image": "",
     "answer": "c",
     "solution": "The 1976 Local Government Reforms in Nigeria were a landmark initiative aimed at restructuring and empowering local governance. These reforms established local governments as the third tier of Nigeria's federal system, granting them constitutional recognition, defined boundaries, and specific administrative and fiscal responsibilities",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1230,
+    "question": "The dispute between Nigeria and Cameroon is over",
+    "option": {
+      "a": "trade",
+      "b": "exploration rights",
+      "c": "territory",
+      "d": " fishing rights"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The dispute between Nigeria and Cameroon is over territory.\n\nThe people of Cameroun have been calming that Bakasi pennisula belongs to them. But Nigeria strongly maintains that the pennisula is one of her territories.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -14428,6 +14620,22 @@
     "image": "",
     "answer": "a",
     "solution": "The AU's right to intervene in a member country in crisis portrays it as an international organization.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1416,
+    "question": "The permanent membership of the UN Security Council is",
+    "option": {
+      "a": "ten",
+      "b": "fifteen",
+      "c": "five",
+      "d": "eleven"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The United Nations Security Council has five permanent members:\n\nUnited States\n\nRussia (formerly the Soviet Union)\n\nChina\n\nFrance\n\nUnited Kingdom\n\nThese nations hold veto power over substantive resolutions. ",
     "examtype": "utme",
     "examyear": "2009"
   },
