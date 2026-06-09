@@ -13488,6 +13488,22 @@
     "examyear": "2022"
   },
   {
+    "id": 872,
+    "question": "The main features of the single system are that?",
+    "option": {
+      "a": "books of accounts are not maintained and business relies only on bank statement\n",
+      "b": "the journal records are absent and only the main ledger is kept 7",
+      "c": "there are incomplete classifications and recording procedures",
+      "d": "only credit sales transactions and credit purchase are recorded"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The main features of a single-entry system include the absence of comprehensive double-entry bookkeeping practices.\n\nIn a single-entry system, businesses typically maintain limited records, and they rely heavily on bank statements to track their financial transactions",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 873,
     "question": "Which of the following concepts recognizes the principle of double entry?",
     "option": {
@@ -19916,6 +19932,22 @@
     "image": "",
     "answer": "a",
     "solution": "Applications were received for 1,550,000 shares, but only applications for 1,250,000 shares are considered for pro rata allotment. The applications for the remaining 300,000 shares are dishonored and fully refunded.\n\nThe 500,000 shares are issued on a pro rata basis to the considered applications (for 1,250,000 shares).\n\nThe allotment ratio is 500,000 / 1,250,000 = 0.4 (or 2/5), meaning each applicant receives 40% of the shares they applied for.\n\nFor an application of 25,000 shares (assumed to be part of the considered group):\n\nShares allotted = 0.4 × 25,000 = 10,000 shares.\n\nShares not allotted = 25,000 - 10,000 = 15,000 shares.\n\nThe issue price is ₦3.00 per share, so the amount paid for the application was 25,000 × ₦3.00 = ₦75,000.\n\nRefund for unallotted shares = 15,000 × ₦3.00 = ₦45,000.\n\nThus, the refund due is ₦45,000.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1293,
+    "question": "<b>Use the information below to answer questions 28 and 29</b>\n\nMaro Merchant Bank Plc is to issue 500,000 ordinary\nshares of 50k each at ₦ 3,000 per share. Applications\nwere received for 1,550,000 shares fully paid, 1,250,000\nshares are to be issued on a pro rata basis and excess\nsubscriptions were dishonored and refunds made\n\nWhat will be the number of shares to be issued to a subscriber who applied for ₦30,000 shares?",
+    "option": {
+      "a": "₦20,000",
+      "b": "₦18,000",
+      "c": "₦15,000",
+      "d": "₦12,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The company is issuing 500,000 shares. Applications were received for 1,550,000 shares, but only applications totaling 1,250,000 shares are considered for pro rata allotment. The remaining applications for 300,000 shares are dishonored and fully refunded.\n\nThe allotment ratio is calculated as follows:\n\nTotal shares to be issued: 500,000\n\nTotal shares considered for allotment: 1,250,000\n\nAllotment ratio = 500,000 / 1,250,000 = 0.4 (or 2/5)\n\nShares allotted = Allotment ratio × Shares applied for\n\nShares allotted = 0.4 × 30,000 = 12,000\n\nThus, the number of shares to be issued to the subscriber is 12,000.",
     "examtype": "utme",
     "examyear": "2000"
   },
