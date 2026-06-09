@@ -5568,6 +5568,22 @@
     "examyear": "2006"
   },
   {
+    "id": 416,
+    "question": "How many terms of the series 3, -6, +12, - 24, + ..... are needed to make a total of 1-2<sup>8</sup>?",
+    "option": {
+      "a": "12",
+      "b": "10",
+      "c": "9",
+      "d": "8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "3, -6, +12, -24\na = 3, r = -2\n8n=a(1−r<sup>n</sup>)/1−r.     ∴1−2<sup>8</sup>=3(1−(−2<sup>n-1</sup>))/1−(−2).       1−2<sup>8</sup>=3(1−(−2<sup>n-1</sup>))/3\n\n1-2<sup>8</sup> = 1-(-2)n-1\n-22<sup>8</sup> = -2<sup>n-1</sup>\n8 = n-1\nn = 9",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 417,
     "question": "If tan θ = 5/4 find sin<sup>2</sup> - cos<sup>2</sup>θ",
     "option": {
@@ -11820,6 +11836,22 @@
     "image": "",
     "answer": "a",
     "solution": "Since it depreciates by 10% At the end of first year, its value = 90% of 20000\n\n= 90/100\n x 20000 =18000\n\n  At the end of second year, its value = 90% of 18000\n\n  = 90/100\n x 18000 = ₦16,200",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 937,
+    "question": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\n \n\nWhat is the median mark?",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006353/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q19_itulpw.jpg",
+    "answer": "c",
+    "solution": "Total frequency = 1 + 2 + 7 + 5 + 4 + 3 = 22\n\n Median is the middle number\n\n = Nth/2\n  term = 22th/2\n = 11th term\n\n  Going in ascending order, 11th term is 3, going in descending order 11th term is 3\n\n  Median = 3 + 3/2 = 6/2 = 3",
     "examtype": "utme",
     "examyear": "2018"
   },
