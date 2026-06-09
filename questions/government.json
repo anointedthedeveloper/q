@@ -3680,6 +3680,22 @@
     "examyear": "2013"
   },
   {
+    "id": 259,
+    "question": "The Economic Community of West African States (ECOWAS) was formed on",
+    "option": {
+      "a": "28th May, 1975",
+      "b": "29th May, 1976",
+      "c": "28th June, 1975",
+      "d": "28th July, 1975"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 260,
     "question": "Revenue allocation means the sharing of the",
     "option": {
@@ -3819,6 +3835,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 272,
+    "question": "Under the 1979 Nigeria constitution, the national assembly was made up of the",
+    "option": {
+      "a": "House of Chiefs and the Senate.",
+      "b": "House of Lords and the House of Representatives.",
+      "c": "Lower House and House of Representatives.",
+      "d": "Senate and House of Representatives."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -4987,6 +5019,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 351,
+    "question": "The major strategy used by OPEC to influence oil price is by",
+    "option": {
+      "a": "allocating production quotas to members",
+      "b": "influencing buyers at the international market to buyer at high prices",
+      "c": "allowing member countries to produce at their discretion",
+      "d": "increasing the supply of the commodity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -12240,6 +12288,22 @@
     "examyear": "2019"
   },
   {
+    "id": 842,
+    "question": "The non-stratified society in the pre-colonial era was that of the ........ where decisions were made________",
+    "option": {
+      "a": "Yoruba, by the Oyomesi",
+      "b": "Igbo, by consensus",
+      "c": "Hausa/Fulani, by the Emir",
+      "d": " Igbo, by the Okpara"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Igbo precolonial was seen as ''headless'' and decisions were made based on popular consultations and acceptability.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 843,
     "question": "The Hausa/Fulani Empire as a result of its heterogeneous population adopted_________",
     "option": {
@@ -19264,6 +19328,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1330,
+    "question": "In the Judicial administration, the term \" bench\" refers to the",
+    "option": {
+      "a": "registrars",
+      "b": "judges",
+      "c": "lawyers",
+      "d": "litigants"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In the Judicial administration, the term \" bench\" refers to the judges.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1331,
     "question": "Serfs are the dominated class under",
     "option": {
@@ -19452,6 +19532,22 @@
     "image": "",
     "answer": "a",
     "solution": "The traditional rulers play advisory role in the present local government structure.\n\nSince the 1976 local government reform, the traditional rulers have maintained the position of advicers to local government councils. And this is mostly on traditional matters.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1343,
+    "question": "In local government administration, Chief and Council implies that",
+    "option": {
+      "a": "the council operates independently of the chief authority",
+      "b": "members of the local council appoints the chief to the office",
+      "c": "all members of the local council are appointed and controlled by the chief",
+      "d": "the chief is a member of the local council but he does not exercise veto power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In many traditional local government systems, especially in contexts like First Nations governance, the structure referred to as \"Chief and Council\" means that the chief is elected as part of the council. While the chief often acts as a symbolic or coordinating leader, he does not have unilateral control or veto power over the council's decisions. Instead, decisions are made collectively by the council, ensuring a balance of power among its members. This distinguishes the \"Chief and Council\" model from systems where one leader might have overriding authority over an independent council.",
     "examtype": "utme",
     "examyear": "2005"
   },
