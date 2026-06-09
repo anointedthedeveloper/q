@@ -1424,6 +1424,22 @@
     "examyear": "2003"
   },
   {
+    "id": 117,
+    "question": "The type of reaction that is peculiar to benzene is",
+    "option": {
+      "a": "Addition",
+      "b": "Hydrolysis",
+      "c": "Polymerization",
+      "d": "Substitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 118,
     "question": "Ethanol reacts with excess acidified K2Cr2O7 to produce",
     "option": {
@@ -4816,6 +4832,22 @@
     "examyear": "2016"
   },
   {
+    "id": 395,
+    "question": "MnO₄⁻(aq) + Y + 5Fe²⁺(aq) → Mn²⁺(aq) + 5Fe³⁺(aq) + 4H₂O(l). In the equation above, Y is",
+    "option": {
+      "a": "10H⁺(aq)",
+      "b": "5H⁺(aq)",
+      "c": "8H⁺(aq)",
+      "d": "4H⁺(aq)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Balancing the half-equation for MnO₄⁻ in acidic solution: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O. The 8H⁺ ions are needed to balance the 4 oxygen atoms from MnO₄⁻ (each O needs 2H⁺ to form H₂O), and to balance the overall charge. Therefore Y = 8H⁺(aq).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 396,
     "question": "The compound CH₃-C(H)(OH)-COOH shown above exhibits",
     "option": {
@@ -6912,6 +6944,22 @@
     "examyear": "2020"
   },
   {
+    "id": 568,
+    "question": "Four elements P, Q, R and S have atomic numbers of 4, 10, 12 and 14 respectively. Which of these elements is a noble gas?",
+    "option": {
+      "a": "P",
+      "b": "Q",
+      "c": "R",
+      "d": "S"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Atomic number 10 is neon (Ne), which belongs to Group 18 (noble gases). Its configuration is 1s² 2s² 2p⁶ — a completely filled outer shell. Atomic number 4 is beryllium, 12 is magnesium, and 14 is silicon — none of these are noble gases.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 569,
     "question": "The products of the thermal decomposition of ammonium trioxonitrate(v) are?",
     "option": {
@@ -7916,6 +7964,22 @@
     "image": "",
     "answer": "d",
     "solution": "A compound that liberates CO₂ from a carbonate (trioxocarbonate) solution must be an acid stronger than carbonic acid. Ethanoic acid (CH₃COOH) reacts with sodium carbonate: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂. Ethanol, propyne, and benzene are not acidic enough to displace CO₂ from carbonate solutions.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 643,
+    "question": "Addition of sodium chloride to water to form a solution would lead to?",
+    "option": {
+      "a": "increase in freezing point and increase the boiling point",
+      "b": "increase in freezing point and decrease the boiling point",
+      "c": "decrease in freezing point and decrease the boiling point",
+      "d": "decrease in freezing point and increase the boiling point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Dissolving a solute (NaCl) in a solvent (water) causes colligative property changes. The dissolved ions lower the vapour pressure of the solution, which results in: (1) depression of freezing point, the solution freezes at a temperature lower than 0°C, and (2) elevation of boiling point, the solution boils at a temperature higher than 100°C. These are called freezing point depression and boiling point elevation.",
     "examtype": "utme",
     "examyear": "2022"
   },
