@@ -10432,6 +10432,22 @@
     "examyear": "2005"
   },
   {
+    "id": 658,
+    "question": "The time it will take a certain radioactive material with a half-life of 50 days to reduce to 1/32 of its original number is",
+    "option": {
+      "a": "250 days",
+      "b": "150 days",
+      "c": " 300 days",
+      "d": "200 days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHalf-life, T₁/₂ = 50 days\nFinal amount = (1/32) of original amount\nTime taken, t = ?\n\nSolution:\nStep 1: Understand radioactive decay\nAfter each half-life, the amount reduces to half of its previous value.\nFormula: N = N₀(1/2)ⁿ\nWhere:\n\nN = final amount\nN₀ = initial amount\nn = number of half-lives\n\nStep 2: Set up equation\nN/N₀ = 1/32\n(1/2)ⁿ = 1/32\nStep 3: Express 1/32 as a power of 1/2\n1/32 = 1/2⁵\nTherefore: (1/2)ⁿ = (1/2)⁵\nStep 4: Solve for number of half-lives\nn = 5\nStep 5: Calculate total time\nTime = n × T₁/₂\nt = 5 × 50\nt = 250 days",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 659,
     "question": "A proton moving with a speed of 1.0 × 10⁶ ms⁻¹ through a magnetic field of 1.0T experiences a magnetic force of magnitude 8.0 × 10⁻¹⁴ N. The angle between the proton's velocity and the field is [1.6 × 10⁻¹⁹ C]",
     "option": {
