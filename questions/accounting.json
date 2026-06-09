@@ -1824,6 +1824,22 @@
     "examyear": "2013"
   },
   {
+    "id": 124,
+    "question": "Which of the following is not part of prime costof production?",
+    "option": {
+      "a": "Depreciation of factory equipment",
+      "b": "Direct expenses",
+      "c": "Direct wages",
+      "d": "Carriage on raw materials"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 126,
     "question": "A statement showing a trader’s financial position as at a particular date is a/an",
     "option": {
@@ -4864,6 +4880,22 @@
     "examyear": "2015"
   },
   {
+    "id": 331,
+    "question": "In which of the following accounts is interest on partners capital found?",
+    "option": {
+      "a": "Profit and loss",
+      "b": "Trading",
+      "c": "Income surplus",
+      "d": "Profit and loss appropriation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 332,
     "question": "Which of the following is not stated in the partnership agreement?",
     "option": {
@@ -7035,6 +7067,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 479,
+    "question": "Musa, a prepaid customer of XYZ and KLM, bought  N1500 recharge card from XYZ and  N2000 recharge card from KLM for business calls. The entry to record these transaction is debit",
+    "option": {
+      "a": "telephone  N 3,500, credit XYZ and KLM  N 3,500",
+      "b": "telephone N 3,500. credit cash  N 3,500",
+      "c": "sundries N 3,500, credit KLM  N 3,500",
+      "d": "sundries  N 3.500, credit telephone  N3,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -15440,6 +15488,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1060,
+    "question": "The capital employed is",
+    "option": {
+      "a": "₦13 000",
+      "b": "₦9 900",
+      "c": "₦8 400",
+      "d": "₦9 000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661640/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q46_epm0o4.jpg",
+    "answer": "d",
+    "solution": "Method 1: Owner's Equity approach\nCapital Employed = Capital + ₦et Profit - Drawings\nCapital Employed = ₦8,400 + ₦1,500 - ₦900\nCapital Employed = ₦9,000\nMethod 2: Total Assets - Current Liabilities\nTotal Assets = ₦4,500 + ₦3,400 + ₦2,800 + ₦2,200 + ₦100 = ₦13,000\nCurrent Liabilities = Creditors + Accruals = ₦2,500 + ₦1,500 = ₦4,000\nCapital Employed = ₦13,000 - ₦4,000 = ₦9,000",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1061,
     "question": "Determine the closing stock under LOFO method",
     "option": {
@@ -18272,6 +18336,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1254,
+    "question": "The main difference between the ordinary and preference shareholders is that?",
+    "option": {
+      "a": " the former receive dividends while the latter do not",
+      "b": "the latter are not members of the company while the former are",
+      "c": "in the case of winding up, the former are paid first before the latter",
+      "d": "the former have voting rights while the latter do not"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The defining distinction is that ordinary shareholders retain voting rights at general meetings, whereas preference shareholders typically do not.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1255,
     "question": "<b>Use the information below to answer questions 41 and 42</b>\n\nGiven the following information: Authorized capital of ₦100,000 ordinary shares of ₦1 each, issued and fully paid 50,000 ordinary shares of ₦1 each amounting to ₦50,000, 10,000 8% preference shares of ₦1 each, reserves ₦10,000, creditors ₦25,000, debtors ₦13,000, and cash in hand ₦5,000. Determine the net current assets.",
     "option": {
@@ -19820,6 +19900,22 @@
     "image": "",
     "answer": "b",
     "solution": "When goods costing ₦10,000 are invoiced to the branch at cost plus 20% (i.e. at ₦12,000), the head office increases its branch‐stock asset and uses the “Branch Stock” account. The entry in the head office books on dispatch is:\n\nDr Branch Stock Account ₦12,000\n  Cr Goods Sent to Branch Account ₦12,000",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1363,
+    "question": "Capital and revenue expenditures of government are usually accounted for under funds which include?",
+    "option": {
+      "a": "A personal advances, technical, special trust and",
+      "b": " technical, special trusth and commercial funds",
+      "c": "personal advances, treasury clearance and special trusth funds",
+      "d": "commercial loans and treasury clearance funds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The proper classification of government funds that separately account for capital and revenue outlays includes enterprise (commercial) activities, special trust (fiduciary) funds, and technical or service‐type funds",
     "examtype": "utme",
     "examyear": "1999"
   },
