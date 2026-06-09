@@ -16,6 +16,22 @@
     "examyear": "2010"
   },
   {
+    "id": 2,
+    "question": "A credit note from a supplier would first be entered in the ",
+    "option": {
+      "a": "purchase book  ",
+      "b": "sales book  ",
+      "c": "returns inward book  ",
+      "d": "returns outward"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 3,
     "question": "Where a proprietor withdraws cash from the business for his private use, the entries would be ",
     "option": {
@@ -2768,6 +2784,22 @@
     "examyear": "1997"
   },
   {
+    "id": 178,
+    "question": "A Receipt and Payments Account reveals",
+    "option": {
+      "a": "net profit",
+      "b": "surplus",
+      "c": "cash in hand",
+      "d": "gross profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 179,
     "question": "An example of appropriation of profit in a company is",
     "option": {
@@ -3883,6 +3915,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 251,
+    "question": "Which of the following columns of a three column cash book \tare memoranda?  I. Discount received  II. Discount allowed III. Cash IV. Bank",
+    "option": {
+      "a": "I and II only",
+      "b": "I and III only",
+      "c": "II and III only",
+      "d": "ll and IV only."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -14928,6 +14976,22 @@
     "examyear": "2008"
   },
   {
+    "id": 973,
+    "question": "Given information:\n\nCapital = ₦6,500\nSales = ₦30,000\nPurchases = ₦12,250\nRent = ₦9,100\nMotor vehicle = ₦2,400\n\nFind the bank balance?",
+    "option": {
+      "a": "₦12,750 credit",
+      "b": "₦71 250 debit",
+      "c": "₦95 000 credit",
+      "d": "₦95 000 debit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "",
+    "solution": "Cash Book Analysis:\nMoney coming in (Credits/Receipts):\n\nCapital = ₦6,500\nSales = ₦30,000\nTotal Receipts = ₦36,500\n\nMoney going out (Debits/Payments):\n\nPurchases = ₦12,250\nRent = ₦9,100\nMotor vehicle = ₦2,400\nTotal Payments = ₦23,750\n\nCalculate Bank Balance:\nBank Balance = Total Receipts - Total Payments\nBank Balance = ₦36,500 - ₦23,750 = ₦12,750 credit",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 974,
     "question": "An entry made in bank column of cash book to record movement of cash between the office and the bank is the?",
     "option": {
@@ -18204,6 +18268,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Total direct labour hours\nEach worker: 40 hours/week × 50 weeks/year = 2,000 hours/year\n3 workers: 2,000 × 3 = 6,000 hours/year\n\nStep 2: Overhead rate\nOverhead rate = Total factory overhead ÷ Total direct labour hours\n= ₦60,000 ÷ 6,000 hours\n= ₦10 per hour",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1188,
+    "question": "<b>Use the information below to answer questions 24 and 25.</b>\n\n<b>Subscriptions received are always put at 125% of the total donations received and refreshment sales.</b>\n\nWhat is the closing cash balance?",
+    "option": {
+      "a": "₦11300",
+      "b": "₦12000",
+      "c": "₦13000",
+      "d": "₦13500"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665455/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q24-Q25_r3qjao.jpg",
+    "answer": "a",
+    "solution": "Given:\n\nOpening balance (Bal b/d) = ₦4,000\n\nDonations received = ₦6,000\n\nRefreshment sales = ₦10,000\n\nSubscriptions received = 125% of (Donations + Refreshment sales)\n= 1.25 × (₦6,000 + ₦10,000) = 1.25 × ₦16,000 = ₦20,000\n\nTotal receipts = 4,000 + 20,000 + 6,000 + 10,000 = ₦40,000\n\nPayments:\n\nMotor vehicle = ₦12,000\n\nInsurance = ₦3,000\n\nAmbulance expenses = ₦12,500\n\nElectricity = ₦1,200\nTotal payments = 12,000 + 3,000 + 12,500 + 1,200 = ₦28,700\n\nClosing cash balance (Balance c/d) = Total receipts − Total payments\n= ₦40,000 − ₦28,700 = ₦11,300\n\nSo the closing cash balance is ₦11,300 (and this will be the next period's balance b/d).",
     "examtype": "utme",
     "examyear": "2002"
   },
