@@ -11248,6 +11248,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1056,
+    "question": "A surveyor walks 500m up a hill which slopes at an angle of 30o\n. Calculate the vertical height through which he rises",
+    "option": {
+      "a": "252 m",
+      "b": "500 m",
+      "c": "250 m",
+      "d": "255 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "h/500  = sin 30°\n \n\n= 500 sin 30°\n \n\n= 500 x 1/2\n \n\n= 250m ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1059,
     "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
     "option": {
