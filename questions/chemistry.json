@@ -704,6 +704,22 @@
     "examyear": "2002"
   },
   {
+    "id": 49,
+    "question": "The chromatographic separation of ink is based on the ability of the components to",
+    "option": {
+      "a": "React with each other",
+      "b": "React with the solvent",
+      "c": "Dissolve in each other in the column",
+      "d": "Move at different speeds in the column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 50,
     "question": "Steam changes the colour of anhydrous cobalt(II) chloride from",
     "option": {
@@ -3387,6 +3403,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 227,
+    "question": "The order in which a mixture of sand ammonium chloride and sodium chloride can be separated is",
+    "option": {
+      "a": "Sublimation   dissolution  filtration  evaporation",
+      "b": "Dissolution  dryness  filtration  evaporation",
+      "c": "Filtration  sublimation  evaporation  dryness",
+      "d": "Dissolution  filtration  sublimation  evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -8064,6 +8096,22 @@
     "examyear": "2019"
   },
   {
+    "id": 541,
+    "question": "Which of the following pollutants will lead to the depletion of ozone layer?",
+    "option": {
+      "a": "chlorofluorocarbon",
+      "b": "carbon (ii) oxide",
+      "c": "hydrogen sulphide",
+      "d": "sulphur (iv) oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Chlorofluorocarbons (CFCs) rise into the stratosphere where UV radiation breaks them apart, releasing chlorine radicals. These radicals catalytically destroy ozone molecules: Cl + O₃ → ClO + O₂. One chlorine atom can destroy thousands of ozone molecules. Answer: A.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 543,
     "question": "Which of the following pairs cannot be represented with a chemical formula?",
     "option": {
@@ -9728,6 +9776,22 @@
     "examyear": "2022"
   },
   {
+    "id": 653,
+    "question": "In order to electroplate a spoon with silver, the arrangement of the electrolytic cell is?",
+    "option": {
+      "a": "the anode is a silver rod and the cathode is the spoon",
+      "b": "the anode is the spoon and the cathode is a silver rod",
+      "c": "the electrolyte is silver trioxonitrate(v) solution and the cathode is a silver rod",
+      "d": "the electrolyte is silver trioxonitrate(v) solution and the anode is the spoon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In electroplating, the object to be plated (the spoon) is the cathode, where silver ions are deposited as silver metal. The anode is a rod of pure silver, which dissolves to replenish the silver ions in solution. The electrolyte is silver trioxonitrate(V) solution. The correct arrangement is: silver rod as anode, spoon as cathode, silver nitrate as electrolyte.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 654,
     "question": "An organic compound which decolourises bromine water is likely to be?",
     "option": {
@@ -11004,6 +11068,22 @@
     "image": "",
     "answer": "a",
     "solution": "H₂SO₄ is a diprotic strong acid: H₂SO₄ → 2H⁺ + SO₄²⁻. [H⁺] = 2 × 0.001 = 0.002 mol/dm³. pH = −log(0.002) = −log(2 × 10⁻³) = −(log 2 + log 10⁻³) = −(0.3 − 3) = −(−2.7) = 2.7.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 737,
+    "question": "Strong acids can be distinguished from weak acids by any of the following methods, EXCEPT",
+    "option": {
+      "a": "Conductivity measurement",
+      "b": "The use of litmus paper",
+      "c": "Measurement of pH",
+      "d": "Measurement of heat of reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Litmus paper only indicates whether a solution is acidic or basic — it turns red for any acid regardless of strength. It cannot distinguish between a strong acid and a weak acid. Conductivity measurement distinguishes them because strong acids fully ionise and conduct electricity much better. pH measurement distinguishes them since strong acids have lower pH at the same concentration. Heat of neutralisation also differs between strong and weak acids.",
     "examtype": "utme",
     "examyear": "2024"
   },
