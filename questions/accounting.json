@@ -4832,6 +4832,22 @@
     "examyear": "2014"
   },
   {
+    "id": 376,
+    "question": "The accounting ratio used to measure the average number of days for which suppliers remain unpaid is",
+    "option": {
+      "a": "stock turnover",
+      "b": "creditors’ payment period",
+      "c": "debtors collection period",
+      "d": "return on capital employed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 377,
     "question": "When the purchase consideration exceeds the value of business, the difference is",
     "option": {
@@ -4907,6 +4923,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 383,
+    "question": "Calculate the stock figure to be included in the balance sheet at the year end.",
+    "option": {
+      "a": "D408,000",
+      "b": "D346,000",
+      "c": "D284,000",
+      "d": "D62,000"
+    },
+    "section": " Use the following information to answer question: Branch stock account (at selling price)  D346,000 - debit Branch mark-up account D62,000 - debit",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -6043,6 +6075,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 473,
+    "question": "How much is sundry expenses?",
+    "option": {
+      "a": "N 2 700",
+      "b": "N 2,250",
+      "c": "N1,550",
+      "d": "N2000."
+    },
+    "section": "Given: Returns inwards [N1, 500]; Cash [N1, 550]; Discount received [N2, 850]; Capital [N3, 800 ]; Debtors [N900];\tSundry expenses [  ?  ]; \tThe value of sundry expenses is 150% of returns inwards plus 50% of debtors.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -8864,6 +8912,22 @@
     "examyear": "2018"
   },
   {
+    "id": 684,
+    "question": "A business has the following balance sheet: Capital ₦40,000, Furnishing ₦10,000, Ceiling Fan ₦1,500, and Cash in Hand ₦28,500, with total assets and liabilities both equaling ₦40,000.\nIf at 31/1/95 the following information was ascertained:\n\nRent for shop ₦12,000 paid for the year\nTotal purchases ₦15,000\nTotal sales ₦8,200\nStock of goods left ₦10,000\nPaid sales boy ₦500\n\nWhat is the balance on its cash account as at 31/1/95?",
+    "option": {
+      "a": "₦22,800",
+      "b": "₦9,200",
+      "c": "₦800",
+      "d": " ₦21,200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Starting with opening cash balance of ₦28,500, we calculate the cash movements:\nCash Outflows:\n\nRent paid: ₦12,000\nPurchases: ₦15,000\nSales boy wages: ₦500\nTotal cash outflows: ₦27,500\n\nCash Inflows:\n\nSales (assuming cash sales): ₦8,200\n\nCash Balance Calculation:\nOpening Cash + Cash Inflows - Cash Outflows\n= ₦28,500 + ₦8,200 - ₦27,500\n= ₦36,700 - ₦27,500\n= ₦9,200\nThe cash account balance as at 31/1/95 is ₦9,200.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 685,
     "question": "The amount paid by the new partner on admission as a compensation for the reputation built up by old partners is a",
     "option": {
@@ -11164,6 +11228,22 @@
     "image": "",
     "answer": "d",
     "solution": "The major distinguishing element between partnership and sole trader final accounts is the Appropriation Account.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 879,
+    "question": "To realize an asset means to",
+    "option": {
+      "a": "mortgage it",
+      "b": "open its account in the ledger",
+      "c": "turn it to cash",
+      "d": "give it out as a collateral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To realize an asset means to turn it into cash.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -13568,6 +13648,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1066,
+    "question": "The loss of equipment in a fire disaster, results in?",
+    "option": {
+      "a": "a decrease in current assets",
+      "b": " an increase in liabiities and assets",
+      "c": "a decrease in assets and capital",
+      "d": "an increase in liabilities and a decrease in assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Reason: losing equipment reduces the company's assets (non-current assets). The loss is charged to the profit and loss account, which reduces profit and therefore owners' equity (capital).",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1068,
     "question": "The rule of accounting equation requires that account payable should be placed under?",
     "option": {
@@ -14892,6 +14988,22 @@
     "image": "",
     "answer": "a",
     "solution": "Current assets = Prepaid expenses + Stock + Cash + Debtors\n= ₦580 + ₦8,100 + ₦9,911 + ₦1,809\n= ₦20,400",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1173,
+    "question": "<b>Use the information below to answer questions 9 and 10</b>\n\nThe Assets and liabilities of Udo Co.ltd. as at 31st December, 2000.\n\nCreditors ₦50,000\n\nDebtors ₦46,000\n\nLoan ₦100,000\n\nStock ₦20,000\n\nMotor vehicle ₦120,000\n\nBuilding ₦70,000\n\nAccrued wages 30,000\n\nBank ₦25 ,000\n\nThe value of capital invested by the owners is?",
+    "option": {
+      "a": " ₦110,000",
+      "b": "₦105,000",
+      "c": "₦101,000",
+      "d": "₦100,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Total assets = ₦46,000 + ₦20,000 + ₦120,000 + ₦70,000 + ₦25,000\n= ₦281,000\n\nTotal liabilities = ₦50,000 + ₦100,000 + ₦30,000\n= ₦180,000\n\nCapital = Assets − Liabilities = ₦281,000 − ₦180,000 = ₦101,000",
     "examtype": "utme",
     "examyear": "2002"
   },
