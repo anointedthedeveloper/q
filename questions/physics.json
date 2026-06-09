@@ -384,6 +384,22 @@
     "examyear": "2007"
   },
   {
+    "id": 27,
+    "question": "What is the acceleration due to gravity ‘g’ on the moon, if ‘g’ is   10ms-2 on the earth?",
+    "option": {
+      "a": "0.74ms-2 ",
+      "b": "0.1ms-2 ",
+      "c": "10.0 ms-2 ",
+      "d": "1.67 ms-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 28,
     "question": "A 5kg block is released from rest on a smooth plane inclined at an angle of 30o to the horizontal. What is the acceleration down the plane?  [ g = 10ms-2]",
     "option": {
@@ -2428,6 +2444,22 @@
     "image": "",
     "answer": "b",
     "solution": "A gas thermometers are more besting use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 166,
+    "question": "A structural engineer stood on a top of a building releasing a light and heavy object to the ground which of the following statement is true?(Neglect Air Resistance)",
+    "option": {
+      "a": "Both the light and heavy subject reach the ground at the same time",
+      "b": "The light object get to the ground first before the heavy object",
+      "c": "The heavy object to the ground first before the light object",
+      "d": "None get to the ground first"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(Neglect of Air resistance)\n\nNote: Both objects reach the ground at the same time",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -9904,6 +9936,22 @@
     "examyear": "2005"
   },
   {
+    "id": 679,
+    "question": "The electric field intensity in a place where a charge of 10⁻¹⁰ C experiences a force of 0.4 N is?",
+    "option": {
+      "a": "4.0 × 10⁷ N C⁻¹",
+      "b": "8.0 × 10⁹ N C⁻¹",
+      "c": "8.0 × 10⁻¹² N C⁻¹",
+      "d": "4.0 × 10⁹ N C⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nCharge, q = 10⁻¹⁰ C\nForce, F = 0.4 N\n\nStep 1: Formula for electric field intensity\nE = F / q\n\nStep 2: Substitute values\nE = 0.4 N / 10⁻¹⁰ C = 0.4 × 10¹⁰ N C⁻¹\n\nStep 3: Express in scientific notation\n0.4 × 10¹⁰ = 4.0 × 10⁹ N C⁻¹",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 680,
     "question": "Two charged particles are projected into a region where there is a magnetic field perpendicular to their velocities. If the charges are deflected in opposite directions, which of the following statements is true of the charge?",
     "option": {
@@ -11692,6 +11740,22 @@
     "image": "",
     "answer": "a",
     "solution": "Altitude is just a measure of height, regardless of direction.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 802,
+    "question": "If a wheel 1.2 m in diameter rotates at one revolution per second, calculate the velocity of the wheel.",
+    "option": {
+      "a": "3.6 ms⁻¹",
+      "b": "3.77 ms⁻¹",
+      "c": " 4.0 ms⁻¹",
+      "d": " 7.5 ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDiameter (d) = 1.2 m\nRadius (r) = d/2 = 0.6 m\nFrequency (f) = 1 revolution per second = 1 Hz\nVelocity (v) = ?\n\nStep 1: Calculate angular velocity\nω = 2πf\nω = 2π × 1\nω = 2π rad/s\nStep 2: Calculate linear velocity\nv = ωr\nv = 2π × 0.6\nv = 1.2π\nv = 1.2 × 3.14159\nv = 3.77 ms⁻¹",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -15660,6 +15724,22 @@
     "image": "",
     "answer": "a",
     "solution": "To convert a galvanometer (which measures current) into a voltmeter (which measures voltage), a high resistance is connected in series with the galvanometer. This limits the current flowing through the galvanometer, allowing it to measure higher voltages without exceeding its maximum current rating.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1076,
+    "question": "Induced emfs are best explained using",
+    "option": {
+      "a": "Ohm's law",
+      "b": " Faraday's law",
+      "c": "Colomb's law",
+      "d": " Lenz's law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Induced emfs are best explained using Faraday's law.",
     "examtype": "utme",
     "examyear": "2013"
   },
