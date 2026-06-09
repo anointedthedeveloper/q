@@ -928,6 +928,22 @@
     "examyear": "1"
   },
   {
+    "id": 59,
+    "question": "In insurance contract offeree is the",
+    "option": {
+      "a": "insured",
+      "b": "insurance company",
+      "c": "client",
+      "d": "Third party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 60,
     "question": "An individual who is interested in taking an insurance policy must fill a form of application called:",
     "option": {
@@ -1499,6 +1515,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 96,
+    "question": "“Hull” in marine policy refers to the",
+    "option": {
+      "a": "boiler",
+      "b": "cost of transporting the goods",
+      "c": "goods on board",
+      "d": "ship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "1"
