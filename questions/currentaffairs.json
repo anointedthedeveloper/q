@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "The current life expectancy in Nigeria is ",
+    "option": {
+      "a": "55",
+      "b": "47",
+      "c": "39",
+      "d": "51"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2013"
+  },
+  {
     "id": 2,
     "question": "Mr Dele Giwa was killed through a letter bomb on ",
     "option": {
@@ -279,6 +295,22 @@
       "b": "Cameroon ",
       "c": "South Africa ",
       "d": "U.S. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2013"
+  },
+  {
+    "id": 20,
+    "question": "The official residence of the Secretary-General of the United Nations is in ",
+    "option": {
+      "a": "Washington D.C.",
+      "b": "Atlanta Georgia, United States ",
+      "c": "New York City, United States ",
+      "d": "London "
     },
     "section": "",
     "image": "",
