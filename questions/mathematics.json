@@ -384,6 +384,22 @@
     "examyear": "2008"
   },
   {
+    "id": 33,
+    "question": "A cone has base radius 4cm and  height 3cm. The area of its curved surface is",
+    "option": {
+      "a": "12pcm2     ",
+      "b": "20pcm2",
+      "c": "24pcm2 ",
+      "d": "15cm2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 34,
     "question": "A. cylinder has height 4cm and base radius 5cm.its volume to 3 significant figure is  ",
     "option": {
@@ -800,6 +816,22 @@
     "examyear": "2013"
   },
   {
+    "id": 68,
+    "question": "What is the remainder when x3 +5x2-6x+1 is divided by x-1? ",
+    "option": {
+      "a": "-1",
+      "b": "2",
+      "c": "-2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 69,
     "question": "If  are the roots of equation 6 +5x –x2 =0, find  x",
     "option": {
@@ -1111,6 +1143,22 @@
       "b": "3/10",
       "c": "1/4",
       "d": " 1/20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "U = {1, 2, 3, 4, 5,..., 20}\nE1 = {3, 6, 9, 12, 15, 18}\nE2 = {4, 8, 12, 16, 20}\nP(E1) = 5/20\nP(not E1) = 1 - (5/20) = 15/20 = 3/4",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 105,
+    "question": " If U = {x : x is an integer and 1 ≤\n x ≤\n 20\nE1 = {x : x is a multiple of 3}\nE2 = {x : x is a multiple of 4}\nand an integer is picked at random from U, find the probability that it is not in E2\n",
+    "option": {
+      "a": "3/4",
+      "b": "3/10",
+      "c": "1/4",
+      "d": "1/20"
     },
     "section": "",
     "image": "",
@@ -1500,6 +1548,22 @@
     "image": "",
     "answer": "b",
     "solution": "m<sup>2</sup> + n<sup>2</sup> = 29 .......(1)\nm + n = 7 ............(2)\n\nFrom (2),\nm = 7 - n\nbut m<sup>2</sup> + n<sup>2</sup> = 29, substituting;\n(7-n)<sup>2</sup> + n<sup>2</sup> = 29\n49 - 14n + n<sup>2</sup> + n<sup>2</sup> = 29\n=> 2n<sup>2</sup> -14n + 20 = 0\nThus n<sup>2</sup> -7n + 10 = 0\n\nFactorizing;\n(n-5)(n-2) = 0\nn - 5 = 0, => n = 5\nn - 2 = 0, => n = 2.\n\nWhen n = 5,\nm + n = 7, => m = 2,\n\nWhen n = 2,\nm + n = 7, => m = 5.\n\nThus (m,n) = (5,2) and (2,5)",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 133,
+    "question": "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity elements is -1, find the inverse of the element 2 under *.",
+    "option": {
+      "a": "4",
+      "b": "0",
+      "c": "-2",
+      "d": "-4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "By definition a*b = a + b + 1.\nLet the inverse of the element 2 be x,\n\nTherefore 2*x = -1\ni.e. 2 + x + 1 = -1\n3 + x = -1\nx = -1 - 3\nx = -4",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -6992,6 +7056,22 @@
     "examyear": "2010"
   },
   {
+    "id": 577,
+    "question": "If y varies directly as the square root of x and y = 3 when x = 16. Calculate y when x = 64",
+    "option": {
+      "a": "12",
+      "b": "6",
+      "c": "3",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "y ∝ √x\ny = K√x\nK = y/√x = 3/√16\n= 3/4\ny = 3/4√x\n= 3/4√64 when x = 64\n= 3/4 x 8/1\n= 6",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 579,
     "question": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
     "option": {
@@ -7852,6 +7932,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129601/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q22_v62583.jpg",
     "answer": "a",
     "solution": "4[(3 x 3) - (-1 x 1)] -2 [(2x 3) - (-1 x -1)] -1 [(2 x 1) - (-1 x 3)]\n\n= 4[9 + 1] -2 [6 - 1] -1 [2 + 3]\n\n= 4(10) - 2(5) - 1(5)\n\n= 40 - 10 - 5\n\n= 25",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 647,
+    "question": "A solid metal cube of side 3 cm is placed in a rectangular tank of dimension 3, 4 and 5 cm. What volume of water can the tank now hold",
+    "option": {
+      "a": "48 cm<sup>3</sup>",
+      "b": "33 cm<sup>3</sup>",
+      "c": "60 cm<sup>3</sup>",
+      "d": "27 cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Volume of cube = L<sup>3</sup>\n\n3<sup>3</sup> = 27cm<sup>3</sup>\n\nvolume of rectangular tank = L x B X h\n\n= 3 x 4 x 5\n\n= 60cm<sup>3</sup>\n\nvolume of H<sub>2</sub> O the tank can now hold\n\n= volume of rectangular tank - volume of cube\n\n= 60 - 27\n\n= 33cm<sup>3</sup>",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -10540,6 +10636,22 @@
     "image": "",
     "answer": "d",
     "solution": "Let the number of people that offer both Mathematics and Physics = y\n\nThen, (32−y)+y+(24−y)+4=40\n60−y=40⟹y=20\n∴\n20 students offer both Mathematics and Physics.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 921,
+    "question": "The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is N7200?",
+    "option": {
+      "a": "1000",
+      "b": "2000",
+      "c": "3000",
+      "d": "4000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006285/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q3_y8hiph.jpg",
+    "answer": "b",
+    "solution": "Let the angle for school fees = x°\n\nThen Housing = 2x°\n\n120° + 90° + x° + 2x° = 360°\n\n3x° = 150° ⟹ x° = 50°.\n\nAmount spent on housing = 100/360 × 7200\n= N2000.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -14716,6 +14828,22 @@
     "image": "",
     "answer": "b",
     "solution": "6½ − 2¾ + 1½\n\n73/12 − 11/4 + 3/2\n\n[(73 − 33 + 18) ÷ (12)]\n\n58/12\n\n29/6\n\n4(5/6)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1271,
+    "question": "Find the distance between the points (-2,-3) and (-2,4)",
+    "option": {
+      "a": "3m",
+      "b": "2.4m",
+      "c": "3.2m",
+      "d": " 7.0m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2015"
   },
