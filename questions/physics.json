@@ -7184,6 +7184,22 @@
     "examyear": "2022"
   },
   {
+    "id": 479,
+    "question": "For a pear-shaped conductor shown above, the concentration of charge on the outside is highest at?",
+    "option": {
+      "a": "X",
+      "b": "Z",
+      "c": "Y",
+      "d": "K"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614104/ALOC-Questions/Physics/2022/PHYSICS_2022_Q_20_u0ws7r.png",
+    "answer": "a",
+    "solution": "The electric field at the surface of the conductor is perpendicular to the surface.\n\nCharge accumulates, and the field is strongest, on pointy parts of the conductor.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 481,
     "question": "The potential energy in an elastic string of force constant k, which has an extension X is?",
     "option": {
@@ -15788,6 +15804,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nRay passes through centre of curvature of concave mirror.\nCentre of curvature lies on the principal axis at distance equal to radius of curvature from the pole.\n\nSolution:\n\nStep 1: Understand the path of the ray\nA ray passing through the centre of curvature strikes the mirror normally (perpendicularly) because it is along the radius.\n\nStep 2: Law of reflection\nWhen a ray is incident normally on a mirror, the angle of incidence is 0°. Therefore, the angle of reflection is also 0°. The ray retraces its path back along the same line.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1065,
+    "question": "Total internal reflection will not occur when light travels from",
+    "option": {
+      "a": " water to air",
+      "b": " water into glass",
+      "c": "glass to air",
+      "d": " glass into water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Total internal reflection will not occur when light travels from water into glass.",
     "examtype": "utme",
     "examyear": "2013"
   },
