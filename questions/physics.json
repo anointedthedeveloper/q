@@ -4224,6 +4224,22 @@
     "examyear": "2018"
   },
   {
+    "id": 283,
+    "question": "Which of the following is true of an electrical charge?",
+    "option": {
+      "a": "Positive charge means deficit electrons",
+      "b": "Negative charge means excess of electrons",
+      "c": "electric current means movement of electrons",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All three statements correctly describe aspects of electrical charge and current.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 284,
     "question": "Which of the following does NOT describe the Image formed by a plane minor?",
     "option": {
@@ -5740,6 +5756,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612576/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_8_x9t0jv.jpg",
     "answer": "a",
     "solution": "Step 1: Current when K is open\nWhen K is open, one path through 8Ω total (4Ω + 4Ω) and 2Ω:\nTotal resistance = 8Ω + 2Ω = 10Ω\nCurrent (I₁) = V/R = 6/10 = 0.6A\nStep 2: Current when K is closed\nWhen K is closed, the two 4Ω resistors are in parallel:\nParallel combination: 1/R_parallel = 1/4 + 1/4 = 2/4\nR_parallel = 4/2 = 2Ω\nWait, let me recalculate:\n1/R = 1/4 + 1/4 = 1/4 + 1/4 = 2/4 = 1/2\nR_parallel = 2Ω... that's not right.\nActually: (4 × 4)/(4 + 4) = 16/8 = 2Ω\nHmm, the explanation shows R_parallel = 4Ω. Let me follow their logic:\nIf 1/8 + 1/8 = 2/8 = 1/4, then R = 4Ω\nTotal resistance with K closed: 4Ω + 2Ω = 6Ω\nCurrent (I₂) = 6/6 = 1A\nStep 3: Change in current\nΔI = I₂ - I₁ = 1 - 0.6 = 0.4A increase",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 388,
+    "question": "Which of the following statements on the use of X-rays is incorrect? X-rays are used",
+    "option": {
+      "a": " In a hospital to obtain photographs of tissues and bones in the body",
+      "b": "For the treatment of malignant growths like cancer cells",
+      "c": " In detecting fingerprints",
+      "d": "To reveal hidden flaws in metal castings and welded joints work of art"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The incorrect statement is C. X-rays are NOT used for detecting fingerprints. Fingerprints are surface impressions detected by other methods, while X-rays are penetrating radiation used for internal imaging.",
     "examtype": "utme",
     "examyear": "2020"
   },
