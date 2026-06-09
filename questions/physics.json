@@ -288,6 +288,22 @@
     "examyear": "2007"
   },
   {
+    "id": 28,
+    "question": "A 5kg block is released from rest on a smooth plane inclined at an angle of 30o to the horizontal. What is the acceleration down the plane?  [ g = 10ms-2]",
+    "option": {
+      "a": "5.0 ms-2 ",
+      "b": " 8.7 ms-2 ",
+      "c": "25.0 ms-2 ",
+      "d": "5.8 ms-2   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 33,
     "question": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four ",
     "option": {
@@ -1184,6 +1200,22 @@
     "examyear": "2015"
   },
   {
+    "id": 149,
+    "question": "The external parts of an object can be measure accurately through the use of which scientific instrument?",
+    "option": {
+      "a": "Micrometer screw gauge",
+      "b": " Vernier Caliper",
+      "c": "Meter rule",
+      "d": "None of the instrument"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Vernier calliper is used to measure the internal and external diameter of an object",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 150,
     "question": "Convert 45°C to kelvin",
     "option": {
@@ -1628,6 +1660,22 @@
     "image": "",
     "answer": "b",
     "solution": "Semiconductors have a unique property:\nIn semiconductors (like silicon and germanium):\n\nAt low temperatures, few electrons have enough energy to conduct\nAs temperature increases, more electrons gain enough energy to break free\nThese free electrons increase conductivity\n\nEffect of temperature:\nHigher temperature → More free charge carriers → Higher conductivity\nThis is opposite to conductors (metals):\n\nMetals: Higher temperature → Lower conductivity\n\nOther options:\n\nPressure = minimal effect on conductivity\nCurrent/Voltage = are results of conductivity, not causes\n\nAnswer: B. Temperature\nSemiconductor conductivity increases with an increase in temperature.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 197,
+    "question": "A dynamo primarily converts",
+    "option": {
+      "a": "Mechanical energy into electrical energy",
+      "b": "Electrical energy into kinetic energy",
+      "c": "Potential energy into kinetic energy",
+      "d": "Kinetic energy into potential energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A dynamo (generator) works by:\n\nUsing mechanical rotation (turning motion)\nTo generate electrical energy\nThrough electromagnetic induction\n\nProcess:\nMechanical energy (rotation) → Magnetic field interaction → Electrical energy (current)\nExample:\n\nBicycle dynamo: wheel rotation → electrical energy for lights\nPower plant generator: turbine rotation → electrical energy\n\nA dynamo converts mechanical energy into electrical energy.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -2624,6 +2672,22 @@
     "examyear": "2018"
   },
   {
+    "id": 310,
+    "question": "The process whereby a liquid turns spontaneously into vapour is called",
+    "option": {
+      "a": "regelation",
+      "b": "evaporation",
+      "c": "boiling",
+      "d": "sublimation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Evaporation is the process whereby a liquid turns spontaneously into vapor at temperatures below the boiling point, occurring naturally at the liquid's surface.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 314,
     "question": "In the diagram shown, If the south-poles of two magnets stroke a steel bar, the polarities at T and V will respectively be",
     "option": {
@@ -3244,6 +3308,22 @@
     "image": "",
     "answer": "c",
     "solution": "Understanding anomalous expansion of water:\nNormal behavior: Most liquids expand when heated and contract when cooled.\nAnomalous behavior of water:\nBetween 0°C and 4°C, water behaves differently:\n\nWater contracts when heated from 0°C to 4°C (instead of expanding)\nWater expands when cooled from 4°C to 0°C (instead of contracting)\nWater has maximum density at 4°C\nBelow 0°C, water freezes and expands significantly\n\nWhy this matters:\n\nIce floats on water (less dense)\nAquatic life can survive in frozen lakes (ice on top, water below)\nThis anomaly is crucial for life on Earth\n\nAnalysis of options:\nA. +208°C to +212°C:\n\nNear boiling point; normal behavior ✗\n\nB. -80°C to -76°C:\n\nWater is solid (ice) at these temperatures ✗\n\nC. 0°C to +4°C:\n\nThis is the exact range of anomalous expansion ✓\n\nD. -4°C to +0°C:\n\nWater is solid (ice) below 0°C ✗\n\nAnswer: C. 0°C to +4°C",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 385,
+    "question": "Which of the following statements about radioactivity is true?\n\n(i) Alpha particle is positively charged\n\n(ii) Beta particle is negatively charged\n\n(iii) Gamma ray is neutral\n\n(iv) Beta particle has the  same mass as helium atom\n\n(v) Gamma ray is charged. ",
+    "option": {
+      "a": "i, ii, iii, iv only",
+      "b": "i, ii, iii only",
+      "c": "iv and v only",
+      "d": "i, ii and v only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The true statements are: (i) alpha particles are positively charged, (ii) beta particles are negatively charged, and (iii) gamma rays are neutral.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -3980,6 +4060,38 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Consider expansion in three dimensions\nFor a solid with initial dimensions L₀ × L₀ × L₀:\n\nInitial volume, V₀ = L₀³\n\nStep 2: Apply linear expansion to each dimension\nAfter temperature change ΔT:\n\nNew length in each dimension = L₀(1 + αΔT)\n\nStep 3: Calculate new volume\nV = [L₀(1 + αΔT)]³\nV = L₀³(1 + αΔT)³\nStep 4: Expand binomially (neglecting higher order terms)\nV = L₀³(1 + 3αΔT + 3α²ΔT² + α³ΔT³)\nSince α is very small (typically 10⁻⁵ to 10⁻⁶), higher powers can be ignored:\nV ≈ L₀³(1 + 3αΔT)\nV = V₀(1 + 3αΔT)\nStep 5: Compare with volumetric expansion formula\nStandard volumetric expansion: V = V₀(1 + γΔT)\nComparing both equations:\nγ = 3α",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 471,
+    "question": "An isotope has an initial activity of 120 Bq. 6 days later its activity is 15 Bq. The half-life is? ",
+    "option": {
+      "a": "3 days",
+      "b": "2 days",
+      "c": "1 day",
+      "d": "4 days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial activity, A₀ = 120 Bq\nFinal activity, A = 15 Bq\nTime elapsed, t = 6 days\nHalf-life, t½ = ?\n\nSolution:\nUsing the radioactive decay formula:\nA = A₀(½)^(t/t½)\nStep 1: Substitute the known values\n15 = 120(½)^(6/t½)\nStep 2: Simplify\n15/120 = (½)^(6/t½)\n1/8 = (½)^(6/t½)\nStep 3: Express 1/8 as a power of ½\n1/8 = (½)³\nStep 4: Equate the exponents\n(½)³ = (½)^(6/t½)\nTherefore:\n3 = 6/t½\nStep 5: Solve for half-life\nt½ = 6/3\nt½ = 2 days",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 472,
+    "question": "The secondary pigments consist of?",
+    "option": {
+      "a": "blue, green, and violet",
+      "b": "yellow, green, and magenta",
+      "c": "magenta, yellow, and cyan",
+      "d": "red, green, and blue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Magenta, yellow, and cyan are the primary colors in the subtractive color system (used for pigments, paints, and printing). They are sometimes called \"secondary\" because they are the secondary colors of the additive (light) system.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -4912,6 +5024,22 @@
     "examyear": "2024"
   },
   {
+    "id": 575,
+    "question": "A thick glass tumbler cracks when boiling water is poured into it because",
+    "option": {
+      "a": "The inside expands more rapidly than the outside",
+      "b": "The inside expands less rapidly than the outside",
+      "c": "The expansion is even",
+      "d": " It does not expand"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When boiling water is poured into the tumbler, the inner surface heats up and expands quickly, while the outer surface remains cooler and expands more slowly. This difference in expansion rates creates stress in the glass, leading to cracks.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 577,
     "question": "The energy of light of frequency 2.0 x 10¹⁵Hz is (h = 6.63 x 10⁻³⁴Js)",
     "option": {
@@ -5036,6 +5164,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nInductance (L) = 7 H\nFrequency (f) = 50 Hz\nInductive reactance (X_L) = ?\n\nFormula for inductive reactance:\nX_L = 2πfL\nSubstituting values:\nX_L = 2 × π × 50 × 7\nX_L = 2 × 3.14159 × 50 × 7\nX_L = 6.28318 × 350\nX_L = 2199.1 Ω\nX_L ≈ 2200 Ω",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 599,
+    "question": "The energy in a moving car is an example of",
+    "option": {
+      "a": " Mechanical energy",
+      "b": "Electrical energy",
+      "c": "Potential energy",
+      "d": "Kinetic energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The energy in a moving car is an example of kinetic energy - energy possessed by an object due to its motion. While mechanical energy (which includes kinetic energy) is also technically correct, kinetic energy is the most specific and direct answer for describing the energy of a moving object.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -5708,6 +5852,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Coulomb's Law\nFormula: F = kq₁q₂/r²\nWhere:\n\nF = electrostatic force\nk = Coulomb's constant\nq₁, q₂ = charges\nr = distance between charges\n\nStep 2: Initial force\nF₁ = kq₁q₂/r²\nStep 3: New force when distance becomes 4r\nF₂ = kq₁q₂/(4r)²\nF₂ = kq₁q₂/16r²\nStep 4: Find ratio of new force to initial force\nF₂/F₁ = [kq₁q₂/16r²] / [kq₁q₂/r²]\nF₂/F₁ = 1/16\nStep 5: Conclusion\nF₂ = F₁/16\nThe force becomes 1/16 of its former value.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 693,
+    "question": "The velocity of sound in air will be doubled if it's absolute temperature is",
+    "option": {
+      "a": "Quadrupled",
+      "b": "Constant",
+      "c": "Halved",
+      "d": "Doulbed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: Relationship between velocity and temperature\nThe velocity of sound in air is given by:\nv ∝ √T\nOr: v = k√T\nWhere:\n\nv = velocity of sound\nT = absolute temperature (in Kelvin)\nk = constant\n\nStep 2: Initial condition\nv₁ = k√T₁\nStep 3: Final condition (velocity doubled)\nv₂ = 2v₁\nStep 4: Set up equation\nk√T₂ = 2(k√T₁)\n√T₂ = 2√T₁\nStep 5: Square both sides\nT₂ = 4T₁\nStep 6: Conclusion\nThe absolute temperature must be quadrupled (multiplied by 4) to double the velocity of sound.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -6512,6 +6672,22 @@
     "examyear": "2007"
   },
   {
+    "id": 797,
+    "question": "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value",
+    "option": {
+      "a": "100Ω",
+      "b": "200Ω",
+      "c": "300Ω",
+      "d": "500Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLamp rating: 120V, 60W\nSupply voltage: 220V AC\nRequired series resistance (R) = ?\n\nStep 1: Calculate lamp current\nAt rated conditions:\nP = VI\nI = P/V = 60/120 = 0.5A\nStep 2: Calculate lamp resistance\nR_lamp = V/I = 120/0.5 = 240Ω\nStep 3: Determine voltage drop needed across series resistor\nExcess voltage = Supply voltage - Lamp voltage\nV_R = 220 - 120 = 100V\nStep 4: Calculate required series resistance\nThe series resistor must drop 100V while carrying 0.5A:\nR = V_R/I\nR = 100/0.5\nR = 200Ω",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 798,
     "question": "A radioactive substance has a half life of 20 days. What fraction of the original radioactive nuclei will remain after 80 days?",
     "option": {
@@ -7228,6 +7404,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nFocal length f = 12 cm (positive for convex mirror in Cartesian sign convention)\nImage distance v = 6 cm (positive, since image is virtual and behind the mirror)\nObject distance u = ?\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n\nStep 2: Substitute values\n1/12 = 1/u + 1/6\n\nStep 3: Solve for 1/u\n1/u = 1/12 – 1/6 = 1/12 – 2/12 = –1/12\n\nStep 4: Find u\nu = –12 cm\n\nThe negative sign indicates the object is placed in front of the mirror (real object). The distance is 12 cm.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 872,
+    "question": "If the refractive index of crown glass is 1.51, its critical angle is?",
+    "option": {
+      "a": "48.6°",
+      "b": "22.5°",
+      "c": "41.5°",
+      "d": "45.0°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nRefractive index n = 1.51\n\nSolution:\n\nStep 1: Critical angle formula\nFor a ray traveling from the medium (glass) to air, the critical angle C is given by:\nsin C = 1 / n\n\nStep 2: Substitute value\nsin C = 1 / 1.51 ≈ 0.66225\n\nStep 3: Find C\nC = sin⁻¹(0.66225) ≈ 41.5°",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -8560,6 +8752,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1055,
+    "question": "Steam from boiling water causes more damage on the skin than does boiling water because",
+    "option": {
+      "a": " water has a high specific heat",
+      "b": "steam has latent heat of vaporization",
+      "c": "the steam is at a highter temperature than the water",
+      "d": " steam brings heat more easily by convection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Steam causes worse burns because when it condenses on skin, it releases the latent heat of vaporization (approximately 2260 kJ/kg at 100°C), which is a huge amount of energy in addition to the sensible heat released as it cools.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1056,
     "question": "What will happen to the boiling point of pure water when it is heated in a place 30m below sea level?",
     "option": {
@@ -8972,6 +9180,38 @@
     "image": "",
     "answer": "b",
     "solution": "PHCN (Power Holding Company of Nigeria) is an electricity distribution company that bills customers for electrical energy consumed. The unit of electrical energy used in utility billing is the kilowatt-hour (kWh).",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1112,
+    "question": "What is the best method of demagnetizing a steel bar magnet?",
+    "option": {
+      "a": "Hammering",
+      "b": " Heating it",
+      "c": " Rough handling it",
+      "d": " Solenoid method"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Solenoid method: This involves placing the magnet inside a solenoid (an electromagnet) and gradually reducing the current. It provides a controlled environment for effective demagnetization.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1116,
+    "question": "Which gas produces a red coloured light in a discharge tube?",
+    "option": {
+      "a": "Mercury",
+      "b": "Argon",
+      "c": "Air",
+      "d": "Neon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Different gases emit characteristic colours when an electric discharge passes through them at low pressure due to excitation and de‑excitation of their atoms.",
     "examtype": "utme",
     "examyear": "2014"
   },
