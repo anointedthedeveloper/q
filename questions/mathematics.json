@@ -1520,6 +1520,22 @@
     "examyear": "2001"
   },
   {
+    "id": 153,
+    "question": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p.",
+    "option": {
+      "a": " square of sides p",
+      "b": "square of sides 2p",
+      "c": "square of sides (p/2)",
+      "d": " square of sides (p/4)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let the rectangle be a square of sides p/4.\n\nSo that perimeter of square = 4p\n4 x (p/4) = p.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 155,
     "question": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. The mean score is",
     "option": {
@@ -2684,6 +2700,22 @@
     "image": "",
     "answer": "a",
     "solution": "Locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1) is the perpendicular bisector of the straight line joining Q and R\nMid point QR = (x<sup>2</sub>+x<sub>1</sub>)/2,(y<sub>2</sub>+y<sub>1</sub>)/2\n\n= 2+0/2,1+0/2\n= (1,1/2)\n Gradient of QR = (y<sub>2</sub>−y<sub>1</sub>)/(x<sub>2</sub>−x<sub>1</sub>)\n= 1−0/2−0\n= 1/2\nGradient of PM = −1/(1/2)\n\n= -2\nEquation of PM = y - y<sub>1</sub>\n = m(x-x_1)\ni.e y - 1/2 = -2(x-1)\n2y - 1 = -4(x-1)\n2y - 1 = -4x + 4\n2y + 4x = 5",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 261,
+    "question": "In the diagram above, PQ is parallel to RS. What is the value of α + β + γ?",
+    "option": {
+      "a": " 360°",
+      "b": "200°",
+      "c": "180°",
+      "d": "90°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699608/ALOC-Questions/Mathematics/2003/math_2003_q40_olppxr.jpg",
+    "answer": "a",
+    "solution": "γ + S = 180(Allied angles)\nS = 180 - γ\nα + P = 180(Allied angles)\np = 180 - α\nβ = P + S\nβ = 180 - α + 180 - γ\nβ = 360 - α - γ\nβ + α + γ = 360",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -5584,6 +5616,22 @@
     "examyear": "2009"
   },
   {
+    "id": 547,
+    "question": "A chord drawn 5 cm away from the center of a circle of radius 13 cm. Calculate the length of the chord?",
+    "option": {
+      "a": " 7cm",
+      "b": "9cm",
+      "c": "12cm",
+      "d": "24cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547172/ALOC-Questions/Mathematics/2009/MATH_2009_Q26_ixhtt4.jpg",
+    "answer": "d",
+    "solution": "x<sup>2</sup> + 5<sup>2</sup> = 13<sup>2</sup>\nx<sup>2</sup> + 25 = 169\nx<sup>2</sup> = 144\n\nx = √ 144 \n\n= 12\nLength of the chord AB = 2x\n2×12= 24cm",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 549,
     "question": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)?",
     "option": {
@@ -7056,6 +7104,22 @@
     "examyear": "2012"
   },
   {
+    "id": 730,
+    "question": "Make 'n' the subject of the formula if w = v(2+cn)/(1−cn)",
+    "option": {
+      "a": "1/c(w−2/vv+w)",
+      "b": "1/c(w−2/vv−w)",
+      "c": "1/c(w+2/vv−w)",
+      "d": " 1/c(w+2/vv+w)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "w = v(2+cn)/1−cn\n\n\n2v + cnv = w(1 - cn)\n\n2v + cnv = w - cnw\n\n2v - w = -cnv - cnw\n\nMultiply through by negative sign\n\n-2v + w = cnv + cnw\n\n-2v + w = n(cv + cw)\n\nn = −(2v+w)/(cv+cw)\n\n\nn = 1/c(−2v+w/v+w)\n\n\nRe-arrange...\n\nn = 1/c(w−2v/v+w)",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 731,
     "question": "Find the remainder when 2x<sup>3</sup>  - 11x<sup>2</sup>  + 8x - 1 is divided by x + 3",
     "option": {
@@ -7244,6 +7308,22 @@
     "image": "",
     "answer": "c",
     "solution": "PQ = y<sub>1</sub> − y<sub>0</sub>/(x<sub>1</sub> − x<sub>0</sub>)\n = −3−(−7)/−2−5\n = −3 + 7/−2−5\n = 4/−7",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 747,
+    "question": "Find the equation of the line through the points (-2, 1) and (-1/2, 4)",
+    "option": {
+      "a": " y = 2x - 3",
+      "b": "y = 2x + 5",
+      "c": "y = 3x - 2",
+      "d": "y = 2x + 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "y − y<sub>1</sub>/x−x<sub>1</sub>\n = y<sub>2</sub> − y<sub>1</sub>/x<sub>2</sub> − x<sub>1</sub>\n\n\ny−1/(x−−2) = 4−1/(−1/2 + 2)\n\n\n= y − 1/x + 2\n = 3/(3/2)\n\n\ny = 2x + 5",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -8528,6 +8608,22 @@
     "examyear": "2016"
   },
   {
+    "id": 863,
+    "question": "OGIVE is constructed using",
+    "option": {
+      "a": "Third quartile range",
+      "b": "Semi-quartile range",
+      "c": "Cummulative frequency table",
+      "d": "Inter-quartile table"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 865,
     "question": "The bar chart above shows the marks obtained by students in a mathematics test.\nHow many students in all took the test?",
     "option": {
@@ -9248,6 +9344,22 @@
     "examyear": "2018"
   },
   {
+    "id": 941,
+    "question": "In the diagram, GI is a tangent to the circle at H. If EF||GI, calculate the size of ∠EHF",
+    "option": {
+      "a": "126°",
+      "b": "72°",
+      "c": "54°",
+      "d": "28°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006406/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q23_lnsqew.jpg",
+    "answer": "b",
+    "solution": "<IHF = < EFH = 54° ( alternate angles)\n\n< EHG = < EFH = 54° ( alternate segment)\n\n54° + 54° + < EHF = 180° ( sum of angles in a triangle)\n\n< EHF = 180° - 108° = 72°",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 943,
     "question": "(0.00256×0.0064)/(0.025 × 0.08)",
     "option": {
@@ -9772,6 +9884,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006832/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q19_o3ffor.jpg",
     "answer": "d",
     "solution": "Area of rectangle ABCD = length x breadth\n\n= 7 x 4 \n\n= 28 cm<sup>2</sup>\nArea of triangle CDE = 1/2\n base x height\n\n= 1/2 × 3 × 4\n= 6 cm<sup>2</sup>\nArea of the figure = 28 cm<sup>2</sup>\n + 6 cm<sup>2</sup> = 34 cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 987,
+    "question": "The marks scored by 30 students in a Mathematics test are recorded in the table below: What is the total number of marks scored by the children?",
+    "option": {
+      "a": "82",
+      "b": "15",
+      "c": "63",
+      "d": "75"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006858/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q20_r3zmlm.jpg",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -10364,6 +10492,22 @@
     "image": "",
     "answer": "a",
     "solution": "a = b = a<sup>2</sup>\na + 2 = a<sup>2</sup>\n.....(i)\n\na + 2 = 2 - a..............(ii) \n\na<sup>2</sup> = 2 - a \n\na<sup>2</sup>+ a - 2 = a<sup>2</sup> + a - 2 = 0\n\n= (a + 2)(a - 1) = 0\n\na = 1 or - 2",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1048,
+    "question": "The chord ST of a circle is equal to the radius r of the circle. Find the length of arc ST",
+    "option": {
+      "a": "πr/3",
+      "b": "πr/2",
+      "c": "πr/12",
+      "d": "πr/6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(r/2)/r Sin θ = 1/2\nθ = sin<sp>(−1)</sup> (1/2) = 30°\n = 60°\n \n\nLength of arc (minor)\n\nST = θ/360 x 2πr\n \n\n60/360 × 2π × r = π/3\n ",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -12940,6 +13084,22 @@
     "image": "",
     "answer": "b",
     "solution": "[1 ÷ (x+1)] + [1 ÷ (x − 1)]\n\n= ((x − 1) + [(x + 1)) ÷ (x+1)(x − 1)]\n\nUsing the L.C.M.\n\n= (x − 1 + x + 1) ÷ (x + 1)(x − 1)\n\n= (x + 2 − 1 + 1) ÷ (x + 1)(x − 1)\n\n= 2x ÷ (x + 1)(x − 1) =2x ÷ (x + 1)(x − 1)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1281,
+    "question": "The area of a circle of radius 4cm is equal to (Take π = 3.142 )",
+    "option": {
+      "a": "10.3 cm<sup>2</sup>",
+      "b": "15.7 cm<sup>2</sup>",
+      "c": "50.3 cm<sup>2</sup>",
+      "d": "17.4 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Area of a circle (A) = πr<sup>2</sup>\n\nRadius = 4cm\n\nπ = 3.142\n\nA = 3.142 × (4)<sup>2</sup>\n\n= 3.142 × 16\n\n= 50.272\n\nA = 50.3 cm<sup>2</sup> (1dp)",
     "examtype": "utme",
     "examyear": "2015"
   },
