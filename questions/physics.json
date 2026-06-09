@@ -5072,6 +5072,22 @@
     "examyear": "2019"
   },
   {
+    "id": 337,
+    "question": "Lamps in domestic lightings are usually in",
+    "option": {
+      "a": "series",
+      "b": "divergent",
+      "c": "convergent",
+      "d": "parallel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Lamps in domestic lighting are usually connected in parallel so that each receives full voltage and can operate independently.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 338,
     "question": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce temperature increase because",
     "option": {
@@ -11580,6 +11596,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nForce F = 2 N\nAngle θ = 60°\nDisplacement s = 3 m\nFloor is smooth (no friction)\n\nSolution:\n\nStep 1: Work done formula\nWork done W = F × s × cosθ\n\nStep 2: Substitute values\nW = 2 N × 3 m × cos60°\n\nStep 3: Calculate\ncos60° = 0.5\nW = 2 × 3 × 0.5 = 3 J",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 778,
+    "question": "A blacksmith heated a metal whose cubic expansivity is 6.3 × 10⁻⁶ K⁻¹. The area expansivity is",
+    "option": {
+      "a": "2.0 × 10⁻⁶ K⁻¹",
+      "b": "2.1 × 10⁻⁶ K⁻¹",
+      "c": "4.2 × 10⁻⁶ K⁻¹",
+      "d": "6.3 × 10⁻⁶ K⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nCubic expansivity (γ) = 6.3 × 10⁻⁶ K⁻¹\n\nSolution:\n\nStep 1: Relationship between expansivities\nFor an isotropic solid:\nLinear expansivity α = γ / 3\nArea expansivity β = 2α\n\nStep 2: Express area expansivity in terms of cubic expansivity\nβ = 2 × (γ / 3) = (2/3)γ\n\nStep 3: Substitute the given value\nβ = (2/3) × 6.3 × 10⁻⁶ K⁻¹\nβ = (12.6 / 3) × 10⁻⁶ K⁻¹\nβ = 4.2 × 10⁻⁶ K⁻¹",
     "examtype": "utme",
     "examyear": "2007"
   },
