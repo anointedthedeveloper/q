@@ -1552,6 +1552,22 @@
     "examyear": "2011"
   },
   {
+    "id": 99,
+    "question": "Basic economic problems of society include the following except:  ",
+    "option": {
+      "a": "what to produce",
+      "b": "how to produce ",
+      "c": "where to produce  ",
+      "d": "for whom to produce "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 100,
     "question": "An economic system can be defined as an ",
     "option": {
@@ -3179,6 +3195,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 205,
+    "question": "The responsiveness of demand to a change in income is the measurement of",
+    "option": {
+      "a": "foreign exchange rate",
+      "b": "cross elasticity of demand",
+      "c": "income elasticity of demand",
+      "d": "price index elasticity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2001"
