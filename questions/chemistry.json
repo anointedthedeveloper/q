@@ -400,6 +400,22 @@
     "examyear": "2003"
   },
   {
+    "id": 101,
+    "question": " CO(g) + H2O(g) ⇌  CO2(g)  +  H2(g)\nFrom the reaction above, calculate the standard heat change if the standard enthalpies of formation of CO2 (g), H2O (g) and CO (g) in kJ mol-1 are -394, -242 and -110 respectively.\n",
+    "option": {
+      "a": "-262 kJ  mol-1",
+      "b": "-42kJ mol-1",
+      "c": "+42 kJ mol-1",
+      "d": "+262 kJ mol-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 105,
     "question": "Metals of the first transition series have special proper ties which are different from those of groups I and II elements because they have partially filled",
     "option": {
@@ -832,6 +848,22 @@
     "examyear": "2005"
   },
   {
+    "id": 186,
+    "question": "Treatment of cancer   II. Detection of leakages in water mains   III. Detection of the ages of ancient tools    Which combination of the above refers to the uses of radioactive isotopes?",
+    "option": {
+      "a": "I, II and III",
+      "b": "I, II, III and IV",
+      "c": "II and III",
+      "d": "I and II"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 187,
     "question": "An element will readily form an electrovalent compound if its electron configuration is",
     "option": {
@@ -907,6 +939,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 214,
+    "question": "2H2 + O2  → 2H2O  ΔH = -571Kj  In equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen?",
+    "option": {
+      "a": "-1713kJ",
+      "b": "+1142kJ",
+      "c": "-571kJ",
+      "d": "-1142kJ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -1003,6 +1051,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 237,
+    "question": "Which of the following has an isomer",
+    "option": {
+      "a": "C4H10",
+      "b": "C6H6",
+      "c": "C2H4",
+      "d": "C2H6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -1200,6 +1264,22 @@
     "examyear": "2010"
   },
   {
+    "id": 263,
+    "question": "The droplets of water observed around a bottle of milk taken out of though refrigerator is due to the fact that the",
+    "option": {
+      "a": "Temperature of the milk drops as it loses heat into the surroundings",
+      "b": "Saturated vapour pressure of the milk is equal to the atmospheric pressure",
+      "c": "Water vapour in the air around loses some of its energy to the bottle",
+      "d": "Water vapour in the air around the bottle gains some energy from the bottle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 271,
     "question": "Permanent hardness of water can be removed by",
     "option": {
@@ -1211,6 +1291,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 273,
+    "question": "Calculate the solubility in mol dm -3 of 40g of Cu So4 dissolved in 100g of water at 1200C  {Cu = 64, S = 32, 0 = 16}",
+    "option": {
+      "a": "2.5",
+      "b": "0.4",
+      "c": "0.25",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1452,6 +1548,22 @@
     "image": "",
     "answer": "c",
     "solution": "Ethanoic acid reacts with sodium hydrogen trioxocarbonate(IV) (sodium hydrogen carbonate, NaHCO₃) to produce carbon dioxide gas, which effervesces.\nEthanol does not react with NaHCO₃.\n\n\nSodium hydrogen trioxocarbonate(IV) is suitable for distinguishing between ethanoic acid and ethanol.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 334,
+    "question": "All these are electromagnetic waves except",
+    "option": {
+      "a": "White light",
+      "b": "Photon",
+      "c": "X-ray",
+      "d": "Infrared"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A photon is a quantum (particle) of electromagnetic energy, not a type of electromagnetic wave. White light, X-rays, and infrared radiation are all types of electromagnetic waves within the electromagnetic spectrum.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1840,6 +1952,22 @@
     "examyear": "2017"
   },
   {
+    "id": 426,
+    "question": "The shape of ammonia molecules is",
+    "option": {
+      "a": "trigonal pyramidal",
+      "b": "octahedral",
+      "c": "square planar",
+      "d": "tetrahedral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "NH₃ has 3 bonding pairs and 1 lone pair of electrons around the nitrogen. The lone pair repels the bonding pairs more strongly, compressing the H-N-H bond angle to ~107°. This gives a trigonal pyramidal shape (not tetrahedral, which is the electron geometry).",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 427,
     "question": "The mass of silver deposited when a current of 10 A is passed through a solution of silver salt for 4830 s is [Ag = 108, F = 96500 C mol⁻¹]",
     "option": {
@@ -2060,6 +2188,22 @@
     "image": "",
     "answer": "a",
     "solution": "Gas molecules moving in straight lines between collisions implies there are no intermolecular forces acting on them during flight. The fact that they bounce off each other and the walls without loss of kinetic energy means the collisions are perfectly elastic. This is a key postulate of the kinetic theory of ideal gases.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 472,
+    "question": "If 1 litre of 2.2 M sulphuric acid is poured into a bucket containing 10 litres of water and the resulting solution mixed thoroughly, the resulting sulphuric acid concentration will be",
+    "option": {
+      "a": "2.2 M",
+      "b": "1.1 M",
+      "c": "0.2 M",
+      "d": "0.11 M"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using C₁V₁ = C₂V₂. C₁ = 2.2 M, V₁ = 1 L, V₂ = 1 + 10 = 11 L. C₂ = (2.2 × 1)/11 = 0.20 M.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2688,6 +2832,22 @@
     "examyear": "2021"
   },
   {
+    "id": 612,
+    "question": "The reactivity of fluorine is due to?",
+    "option": {
+      "a": "Its high electronegativity",
+      "b": "Small size of fluorine atom",
+      "c": "Availability of D-orbitals",
+      "d": "Strong f-f bond"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Fluorine is the most reactive non-metal primarily because of its very small atomic size. The small size means the F-F bond in F₂ is weak (low bond dissociation energy) and easily broken, and the high charge density of F⁻ makes fluoride very stable. Although fluorine is also highly electronegative, the small atomic size is the root cause of its exceptional reactivity.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 617,
     "question": "The most abundant rare gas in the atmosphere is?",
     "option": {
@@ -2988,6 +3148,22 @@
     "image": "",
     "answer": "d",
     "solution": "Using Charles's Law: V₁/T₁ = V₂/T₂ at constant pressure. T₁ = 0°C = 273 K; V₁ = 29.5 cm³; T₂ = 15°C = 288 K. V₂ = 29.5 × 288 ÷ 273 = 31.12 ≈ 31.1 cm³.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 662,
+    "question": "The dehydration of CH₃CH₂CH₂CH₂OH will give?",
+    "option": {
+      "a": "HC≡CCH₂CH₃",
+      "b": "CH₂=CCH₂CH₃",
+      "c": "CH₃C≡CCH₃",
+      "d": "CH₃CH=CHCH₃"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Dehydration of an alcohol removes water (H₂O) to form an alkene. CH₃CH₂CH₂CH₂OH (butan-1-ol) loses -OH and an adjacent -H to form a C=C double bond. The major product by Zaitsev's rule is the more substituted alkene: CH₃CH=CHCH₃ (but-2-ene). The double bond forms between C2 and C3, giving the more stable internal alkene.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -3324,6 +3500,22 @@
     "image": "",
     "answer": "d",
     "solution": "Alkanols (alcohols) are formed from alkenes by the addition of water across the C=C double bond in a reaction called hydration. For example: CH₂=CH₂ + H₂O → CH₃CH₂OH. This is an addition reaction because atoms are added across the double bond without any atoms being removed. The reaction requires a catalyst (concentrated H₂SO₄ or H₃PO₄) and heat.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 713,
+    "question": "What is the mass percentage of carbon (C) in methane (CH₄)? (The molar mass of carbon is approximately 12 g/mol.)",
+    "option": {
+      "a": "25%",
+      "b": "12%",
+      "c": "75%",
+      "d": "50%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Molar mass of CH₄ = 12 + (4 × 1) = 16 g/mol. Mass percentage of C = (mass of C ÷ molar mass of CH₄) × 100 = (12 ÷ 16) × 100 = 75%.",
     "examtype": "utme",
     "examyear": "2023"
   },
