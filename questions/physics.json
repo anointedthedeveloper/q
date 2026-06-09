@@ -9872,6 +9872,22 @@
     "examyear": "2004"
   },
   {
+    "id": 647,
+    "question": "Calculate the angle of minimum deviation for a ray which is refracted through an equiangular prism of refractive index 1.4",
+    "option": {
+      "a": "60°",
+      "b": "29°",
+      "c": "99°",
+      "d": "90°\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nEquiangular prism (all angles equal to 60°)\nAngle of prism, A = 60°\nRefractive index, n = 1.4\nAngle of minimum deviation, Dₘ = ?\n\nSolution:\nStep 1: Formula for minimum deviation\nAt minimum deviation:\nn = sin[(A + Dₘ)/2] / sin(A/2)\nWhere:\n\nn = refractive index\nA = angle of prism\nDₘ = angle of minimum deviation\n\nStep 2: Substitute known values\n1.4 = sin[(60° + Dₘ)/2] / sin(60°/2)\n1.4 = sin[(60° + Dₘ)/2] / sin(30°)\n1.4 = sin[(60° + Dₘ)/2] / 0.5\nStep 3: Solve for the numerator\nsin[(60° + Dₘ)/2] = 1.4 × 0.5\nsin[(60° + Dₘ)/2] = 0.7\nStep 4: Find the angle\n(60° + Dₘ)/2 = sin⁻¹(0.7)\n(60° + Dₘ)/2 = 44.43°\nStep 5: Solve for Dₘ\n60° + Dₘ = 2 × 44.43°\n60° + Dₘ = 88.86°\nDₘ = 88.86° - 60°\nDₘ = 28.86° ≈ 29°",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 648,
     "question": "A cell whose internal resistance is 0.5Ω delivers a current of 4A to an external resistor,The loss voltage of the cell is",
     "option": {
