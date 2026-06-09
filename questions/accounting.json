@@ -1120,6 +1120,22 @@
     "examyear": "2013"
   },
   {
+    "id": 82,
+    "question": "credit balance is",
+    "option": {
+      "a": "a liability or an expense.",
+      "b": "a liability or an income.",
+      "c": "an expenditure or an income.",
+      "d": "an asset or an expense."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 83,
     "question": "Which of the following is not a characteristic of a Trial Balance?",
     "option": {
@@ -1927,6 +1943,22 @@
       "b": "Retained profit.",
       "c": "Share premium",
       "d": "Loss on forfeited shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 137,
+    "question": "The effect of overstating-revenue expenditure in the profit and loss account is that the",
+    "option": {
+      "a": "opening stock will be increased",
+      "b": "net profit will be understated",
+      "c": "net profit will be overstated",
+      "d": "opening stock will be decreased"
     },
     "section": "",
     "image": "",
@@ -5344,6 +5376,22 @@
     "examyear": "2014"
   },
   {
+    "id": 373,
+    "question": "The concept that states that a business should not lay claim to any profits before it is earned with reasonable certainty is",
+    "option": {
+      "a": "consistency concept",
+      "b": "prudence concept",
+      "c": "accrual concept",
+      "d": "going concern concept"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 374,
     "question": "When shares are issued above their nominal value, the \texcess above the nominal value is",
     "option": {
@@ -7195,6 +7243,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 501,
+    "question": "What is the accumulated fund?",
+    "option": {
+      "a": "23,700",
+      "b": "27,750",
+      "c": "29,650",
+      "d": "51,650"
+    },
+    "section": "Given: Furniture and fittings [N 20,000]  Equipment [N15,000] Bank overdrafts [ N6,500] Bar creditors [ N4,800 ] Subscription in arrears [ N4,700 ] Subscription in advance [ N650]",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -18960,6 +19024,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1326,
+    "question": "A provision for bad debt account had ₦3,800 at the beginning of the year and ₦4,220 at the close of the year. If bad debts are calculated at the rate of 1/2% of annual sales, what was the credit sales for the period?",
+    "option": {
+      "a": "₦2,100,000",
+      "b": " ₦84,000",
+      "c": " ₦840,000",
+      "d": "₦500,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "nder the provision-for-bad-debts method, the bad debt expense for the year is the change in the provision account, not the closing balance.\nCalculation:\nBad debt expense = Closing provision - Opening provision\nBad debt expense = ₦4,220 - ₦3,800 = ₦420\nSince bad debts are calculated at 0.5% of credit sales:\nCredit sales = Bad debt expense ÷ 0.005\nCredit sales = ₦420 ÷ 0.005 = ₦84,000",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1328,
     "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\t\t\t\t  ₦\nCapital: Opening balance \t307,000\nClosing balance \t\t342,000\n₦et profit for the period \t121,600\nOpening stock \t\t\t98,800\nPurchases \t\t\t706,000\nCarriage inwards \t\t17,500\nCost of goods sold \t\t740,700\nTotal selling, general and\nAdministrative expenses  \t526,000\nDiscount received \t\t9,650\n\n\nWhat is the closing stock for the period?",
     "option": {
@@ -19132,6 +19212,22 @@
     "image": "",
     "answer": "d",
     "solution": "The manufactured goods (i.e., cost of production) are transferred by debiting the Trading Account and crediting the Manufacturing Account.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1339,
+    "question": "Lawal and co makes blocks and sell to builders.\nIn computing prime cost, which of the following costs would be considered appropriate?",
+    "option": {
+      "a": "Cement, sand and carriage outwards",
+      "b": "Water carriage inwards and cement",
+      "c": " Sales boys'wages, cement and sand",
+      "d": "Carriage outwards,carriage inwards and cement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The prime cost refers to all direct costs involved in the production of goods. This includes:\n\nDirect materials (e.g., cement, sand, water)\n\nDirect labor (e.g., workers making the blocks)\n\nDirect expenses (e.g., carriage inwards, which brings materials to the factory)",
     "examtype": "utme",
     "examyear": "1999"
   },
@@ -19804,6 +19900,22 @@
     "image": "",
     "answer": "c",
     "solution": "Using the debtors’ account approach:\n\nSales = Total cash receipts from debtors and cash sales + Closing debtors − Opening debtors\n=₦153,000 + ₦6,800 − ₦5,600\n=₦154,200\n​\n ",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1389,
+    "question": "The statement of affairs prepared from incomplete records can be described as?",
+    "option": {
+      "a": " the summary of all the business transactions of the trader ascertained by the accountant",
+      "b": "a balance sheet at a particular date showing the assets and liabilities of the business",
+      "c": "a schedule of all the business ventures entered into for the period to which the records relates",
+      "d": "the statement that shows the profit or loss made during the period"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The statement of affairs in the context of incomplete records is essentially a balance sheet drawn up at a specific date from whatever information is available, to show the assets and liabilities of the business and thus its capital (net worth).",
     "examtype": "utme",
     "examyear": "199"
   },
