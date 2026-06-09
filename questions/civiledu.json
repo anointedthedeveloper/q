@@ -560,6 +560,22 @@
     "examyear": "2014"
   },
   {
+    "id": 69,
+    "question": "Which of the following is a legal obligation of a citizen?",
+    "option": {
+      "a": "Giving financial assistance to the poor",
+      "b": "Helping in community development",
+      "c": "Payment of taxes",
+      "d": "Respecting the national symbols"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 70,
     "question": "Which of these is not a system of government?",
     "option": {
@@ -592,6 +608,22 @@
     "examyear": "2014"
   },
   {
+    "id": 74,
+    "question": "How many Senator(s) represent the Federal Capital Territory in the senate?",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 77,
     "question": "One advantage of Bi-cameral legislature is that it",
     "option": {
@@ -603,6 +635,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 81,
+    "question": "The United Nations universal declaration on human rights was proposed in the year",
+    "option": {
+      "a": "1925",
+      "b": "1930",
+      "c": "1946",
+      "d": "1948"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2014"
@@ -672,6 +720,38 @@
     "examyear": "2014"
   },
   {
+    "id": 97,
+    "question": "The channel through which political parties make their program known to the people is ..............",
+    "option": {
+      "a": "canvassing",
+      "b": "campaigning",
+      "c": "convincing",
+      "d": "coronation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 98,
+    "question": "What arm of the criminal justice system is prison?",
+    "option": {
+      "a": "first",
+      "b": "second",
+      "c": "third",
+      "d": "none"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 99,
     "question": "................ is the apex body saddled by law to fight corruption and other related offences",
     "option": {
@@ -731,6 +811,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 104,
+    "question": "Television and radio are example  of ......... media",
+    "option": {
+      "a": "print",
+      "b": "electronic",
+      "c": "advertising",
+      "d": "mass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -859,6 +955,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 123,
+    "question": "The clause which exempts the president from being prosecuted while still in office is called",
+    "option": {
+      "a": "military clause",
+      "b": "special clause",
+      "c": "conviction clause",
+      "d": "immunity clause"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -1008,6 +1120,22 @@
     "examyear": "2012"
   },
   {
+    "id": 136,
+    "question": "The process whereby an individual choose to favour a person who come from his family or tribe over other people or tribes is known as",
+    "option": {
+      "a": "stereotype",
+      "b": "ethnicity",
+      "c": "nepotism",
+      "d": "favouritism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 138,
     "question": "Traffic lights are also known and referred to as",
     "option": {
@@ -1047,6 +1175,22 @@
       "b": "4",
       "c": "5",
       "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 142,
+    "question": "From the basic road traffic regulation pedestrians should not attempt to cross the road when the light are ............. and ...............",
+    "option": {
+      "a": "green and yellow",
+      "b": "green and red",
+      "c": "yellow and red",
+      "d": "red and yellow"
     },
     "section": "",
     "image": "",
@@ -1115,6 +1259,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
+    "id": 149,
+    "question": "The commission charged with the conduct of federal \telections in Nigeria between 2014 and 2015 is..........",
+    "option": {
+      "a": "Nec",
+      "b": "fedeco",
+      "c": "Inec",
+      "d": "Necon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "neco",
     "examyear": "2012"
@@ -1520,6 +1680,22 @@
     "examyear": "2013"
   },
   {
+    "id": 204,
+    "question": "One of the ways to prevent the spread of HIV/AIDs is",
+    "option": {
+      "a": "Not to eat in fast food joints",
+      "b": "Not to shake hands with anybody",
+      "c": "To avoid any object contaminated with blood",
+      "d": "Sleep under a mosquito net"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 208,
     "question": "The illicit or illegal business in the sales and \ttransportation of human beings for economic and other selfish purposes is known as",
     "option": {
@@ -1920,6 +2096,22 @@
     "examyear": "2013"
   },
   {
+    "id": 258,
+    "question": "In the year 2014, the Nigerian President Good luck Ebelle Jonathan  urged Nigerians to .......... the rumors  that drinking and bathing with salt water prevents or cures Ebola virus",
+    "option": {
+      "a": "ignore",
+      "b": "accept",
+      "c": "welcome",
+      "d": "embrace"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 261,
     "question": "On a particular day in 2014, the National flag was flown half mask. This act symbolizes",
     "option": {
@@ -1931,6 +2123,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 262,
+    "question": "Vehicles are expected to continue with their journey when the traffic light shows ...............",
+    "option": {
+      "a": "Red",
+      "b": "Blue",
+      "c": "Yellow",
+      "d": "Green"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -1959,6 +2167,22 @@
       "b": "in forced labour",
       "c": "in skill acquisition activities",
       "d": "in recreational activities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 270,
+    "question": "During a particular voting exercise if majority of the \tpeople refuse to vote, this can be described as",
+    "option": {
+      "a": "political stubbornness",
+      "b": "political apathy",
+      "c": "political awareness",
+      "d": "political socialization"
     },
     "section": "",
     "image": "",
@@ -2016,6 +2240,22 @@
     "examyear": "2013"
   },
   {
+    "id": 277,
+    "question": "Any forms of restricted franchise is a violation of the principle of",
+    "option": {
+      "a": "political equality",
+      "b": "sovereignty",
+      "c": "legality",
+      "d": "constitutionalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 278,
     "question": "Which of the following is not the civic obligation of a citizen",
     "option": {
@@ -2055,6 +2295,22 @@
       "b": "wrong doings by the youths",
       "c": "Refusal to worship God by the youths",
       "d": "Urban Rural migration by the youth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 282,
+    "question": "Psychopathy is a form of ................ behaviour",
+    "option": {
+      "a": "Normal",
+      "b": "abnormal",
+      "c": "desired",
+      "d": "valued"
     },
     "section": "",
     "image": "",
@@ -2135,6 +2391,22 @@
       "b": "headaches and diarrhea",
       "c": "muscle pains",
       "d": "frequent hunger and increase thirst for water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 294,
+    "question": "Public service belongs to ................",
+    "option": {
+      "a": "the legislative arm of government",
+      "b": "the judiciary arm of government",
+      "c": "senate arm of government",
+      "d": "the executive arm of government"
     },
     "section": "",
     "image": "",
@@ -2439,6 +2711,38 @@
       "b": "Capitalist",
       "c": "socialist",
       "d": "Feudalist"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 337,
+    "question": "Some years to come, when you become the President of Nigeria, which of the options below will you choose \tto eradicate porzverty in the country",
+    "option": {
+      "a": "carry all the poor people away from Nigeria to another country so when there are no poor people poverty will be gone forever",
+      "b": "print plenty Naira Notes and give millions to every Nigeria",
+      "c": "Import plenty Agricultural and Manufactured goods",
+      "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 339,
+    "question": "In the year 2014 the catholic church in Nigeria suspended the usual hand shaking (as a sign of peace) among its members just after the “Lord’s prayer” The most likely reason for this action is to prevent the \t\tspread of ............, in case a member has it",
+    "option": {
+      "a": "HIV/AIDs virus",
+      "b": "The Ebola virus",
+      "c": "Evil and demonic spirit",
+      "d": "malaria fever"
     },
     "section": "",
     "image": "",
@@ -2848,6 +3152,22 @@
     "examyear": "2015"
   },
   {
+    "id": 390,
+    "question": "Based on the above diagram, the candidates would not have cheated if",
+    "option": {
+      "a": "they were well-spaced",
+      "b": "there was an invigilator",
+      "c": "they were hardworking",
+      "d": "there was nobody to copy from"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 391,
     "question": "In which year did the United Nations General Assembly adopt the Universal Declaration of Human Rights?",
     "option": {
@@ -3227,6 +3547,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 433,
+    "question": "Which of the following is necessary for the effective application of the rule of law?",
+    "option": {
+      "a": "Political will to ensure that laws are obeyed",
+      "b": "Employment opportunities for all citizens",
+      "c": "The fusion of the three arms of government",
+      "d": "Extension of the retirement age of judges"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
