@@ -2112,6 +2112,22 @@
     "examyear": "2004"
   },
   {
+    "id": 148,
+    "question": "Which of the following hydrogen halides has the highest entropy value",
+    "option": {
+      "a": "HF",
+      "b": "HCl",
+      "c": "HBr",
+      "d": "Hl"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 149,
     "question": " N2O4(g)    ⇌  2NO2(g)",
     "option": {
@@ -4160,6 +4176,22 @@
     "examyear": "2010"
   },
   {
+    "id": 289,
+    "question": "Which of the following is used as a rocket fuel",
+    "option": {
+      "a": "CH3COOH",
+      "b": "H2SO4",
+      "c": "HCL",
+      "d": "HNO3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 290,
     "question": "A constituent common to moist air, it gradually rusts. This is due to the formation of",
     "option": {
@@ -5952,6 +5984,22 @@
     "examyear": "2017"
   },
   {
+    "id": 415,
+    "question": "For a general equation of the nature xP + yQ → mR + nS, the expression for the equilibrium constant is",
+    "option": {
+      "a": "k[P]ˣ[Q]ʸ",
+      "b": "[P]ˣ[Q]ʸ / [R]ᵐ[S]ⁿ",
+      "c": "[R]ᵐ[S]ⁿ / [P]ˣ[Q]ʸ",
+      "d": "m[R]n[S] / x[P]y[Q]"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The equilibrium constant Kc for the reaction xP + yQ ⇌ mR + nS is expressed as the concentration of products raised to their stoichiometric powers divided by the concentration of reactants raised to their stoichiometric powers: Kc = [R]ᵐ[S]ⁿ / [P]ˣ[Q]ʸ.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 416,
     "question": "A given mass of gas occupies 2 dm³ at 300 K. At what temperature will its volume be doubled, keeping the pressure constant?",
     "option": {
@@ -7472,6 +7520,22 @@
     "examyear": "2019"
   },
   {
+    "id": 521,
+    "question": "Which of the following statements does NOT show Rutherford's account of Nuclear Theory? An atom contains a region",
+    "option": {
+      "a": "which contains protons and neutrons",
+      "b": "which is positively charged",
+      "c": "which is massive and can cause deflection of a few projectiles",
+      "d": "which is very large and in which close to 98% of projectiles pass undeflected"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Rutherford's nuclear model described the nucleus as a tiny, dense, positively charged centre (options B and C). Most alpha particles passed straight through (option D — though the nucleus is tiny, not large). However, Rutherford did NOT identify neutrons — that was Chadwick in 1932. Rutherford's model only described protons in the nucleus, not neutrons. Option A is not part of Rutherford's original nuclear theory.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 522,
     "question": "Elements X and Y have electronic configurations 1s²2s²2p⁴ and 1s²2s²2p⁶3s²3p¹ respectively. When they combine, the formula of the compound formed is",
     "option": {
@@ -7724,6 +7788,22 @@
     "image": "",
     "answer": "c",
     "solution": "Number of half-lives in 40 years = 40 ÷ 20 = 2. Remaining particles = 100,000 × (½)² = 100,000 × ¼ = 25,000 particles. Answer: C.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 543,
+    "question": "Which of the following pairs cannot be represented with a chemical formula?",
+    "option": {
+      "a": "air and bronze",
+      "b": "bronze and sodium chloride",
+      "c": "copper and sodium chloride",
+      "d": "caustic soda and washing soda"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Air is a mixture of gases (N₂, O₂, Ar, CO₂) with variable composition — no fixed formula. Bronze is an alloy of copper and tin with variable composition — no fixed formula. Mixtures and alloys of variable composition cannot be represented by a single chemical formula. Answer: A.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -10080,6 +10160,22 @@
     "examyear": "2023"
   },
   {
+    "id": 700,
+    "question": "Which of the following factors does NOT affect the rate of a chemical reaction?",
+    "option": {
+      "a": "Concentration of reactants",
+      "b": "Presence of a catalyst",
+      "c": "Molecular weight of products",
+      "d": "Temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The rate of a chemical reaction is affected by concentration of reactants, temperature, surface area, presence of a catalyst, and light (for some reactions). The molecular weight of products has no effect on the rate of the reaction, as products are formed after the reaction occurs and do not influence how quickly reactants are converted.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 701,
     "question": "Which organic compound is responsible for the characteristic aroma of fruits?",
     "option": {
@@ -10620,6 +10716,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Gibbs free energy change (ΔG) determines spontaneity. A reaction is spontaneous when ΔG < 0 (negative). When ΔG > 0, the reaction is non-spontaneous. When ΔG = 0, the system is at equilibrium. The relationship is ΔG = ΔH − TΔS, where both enthalpy and entropy contributions determine spontaneity.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 740,
+    "question": "How many moles of CO₂ are produced when ethanol is burnt with 6g of oxygen?",
+    "option": {
+      "a": "0.125",
+      "b": "0.250",
+      "c": "0.375",
+      "d": "0.750"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Equation: C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O. Moles of O₂ = 6 ÷ 32 = 0.1875 mol. From equation, 3 mol O₂ produces 2 mol CO₂. Moles of CO₂ = (2/3) × 0.1875 = 0.125 mol.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -11196,6 +11308,22 @@
     "image": "",
     "answer": "a",
     "solution": "Covalent molecules are held together by weak van der Waals (intermolecular) forces between molecules. Little energy is needed to overcome these forces, resulting in low melting and boiling points. The strong covalent bonds within the molecule are not broken during melting or boiling.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 779,
+    "question": "Iron produced directly from a blast furnace is",
+    "option": {
+      "a": "wrought iron",
+      "b": "cast iron",
+      "c": "pig iron",
+      "d": "carbon steel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The iron tapped directly from a blast furnace is called pig iron. It contains about 3-4% carbon and other impurities. Pig iron is then further refined to produce wrought iron, cast iron, or steel.",
     "examtype": "utme",
     "examyear": "2025"
   },
