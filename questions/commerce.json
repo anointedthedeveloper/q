@@ -4800,6 +4800,22 @@
     "examyear": "2010"
   },
   {
+    "id": 318,
+    "question": "The warehouse that is owned and controlled by the government is a ",
+    "option": {
+      "a": "wholesalers’ warehouse ",
+      "b": "public warehouse ",
+      "c": "state warehouse",
+      "d": "manufacturers’ warehouse"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 319,
     "question": "One of the main features of a partnership is ",
     "option": {
@@ -8811,6 +8827,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 592,
+    "question": "An instruction from a current account holder requesting to pay a named person or organization a. specified amount is \t\tcalled",
+    "option": {
+      "a": "bankers order",
+      "b": "certified cheque",
+      "c": "internal transfer",
+      "d": "money order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
