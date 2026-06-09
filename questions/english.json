@@ -342,6 +342,25 @@
     "category": "others"
   },
   {
+    "id": 59,
+    "question": "The boys knew that a storm was <i>imminent</i>",
+    "option": {
+      "a": "Impending ",
+      "b": "encroaching ",
+      "c": "possible ",
+      "d": "threatening "
+    },
+    "section": "choose the option nearest in meaning to the word(s) or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 62,
     "question": "The carpenter built a <i>commodious</i> wardrobe ",
     "option": {
@@ -752,6 +771,25 @@
     "section": "choose the option nearest in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 131,
+    "question": "The presence of the captain makes the sailors <i>ill at ease</i>.",
+    "option": {
+      "a": "uncomfortable ",
+      "b": "sickly ",
+      "c": "impatient",
+      "d": "easily ill"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004",
@@ -2090,6 +2128,25 @@
     "category": "others"
   },
   {
+    "id": 362,
+    "question": "Didn't .......  draw your attention to the entry requirements?",
+    "option": {
+      "a": "anyone ",
+      "b": "everyone ",
+      "c": "everybody",
+      "d": "no body"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 364,
     "question": "My advice to Tolu was: 'Look before you leap.'",
     "option": {
@@ -2527,6 +2584,25 @@
     "category": "others"
   },
   {
+    "id": 430,
+    "question": "Uncle Ochai now has enough money to complete his…….. building.",
+    "option": {
+      "a": "two storey ",
+      "b": "two-storeyed ",
+      "c": "two-story ",
+      "d": "two storeyed "
+    },
+    "section": "choose the option  best completes the gap(s) .",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 431,
     "question": "By the end of this month……….for three years in this school.",
     "option": {
@@ -2861,6 +2937,25 @@
     "section": "Choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 475,
+    "question": "He <i>commands</i> the confidence and respect of all his subordinates ",
+    "option": {
+      "a": "requests",
+      "b": " enjoys   ",
+      "c": "enforces",
+      "d": "conjures."
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -3591,6 +3686,25 @@
     "category": "others"
   },
   {
+    "id": 573,
+    "question": "They are the.... dresses ",
+    "option": {
+      "a": "babys' ",
+      "b": "baby ",
+      "c": "babies",
+      "d": "babies'"
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 574,
     "question": "The politician was sent …….. exile",
     "option": {
@@ -3781,6 +3895,25 @@
     "category": "others"
   },
   {
+    "id": 630,
+    "question": "Modern dancing has become rather scientific and so requires .......?",
+    "option": {
+      "a": "bizzarre costuming",
+      "b": " some choreographic skill",
+      "c": "immmense instrumentation",
+      "d": "a rapping voice"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 34,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 631,
     "question": "Had he considered his public image carefully, he ..... for his in the election? ",
     "option": {
@@ -3834,6 +3967,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 45,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 645,
+    "question": "The police came early enough to...... the bomb planted by the rioters.",
+    "option": {
+      "a": "diffuse",
+      "b": "insulate",
+      "c": "detonate",
+      "d": "defuse"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 49,
     "hasPassage": 0,
     "category": "others"
   },
@@ -3929,6 +4081,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 71,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 670,
+    "question": "Some equatorial areas have a <u>sultry</u> climate?",
+    "option": {
+      "a": "a hot",
+      "b": " an inclement",
+      "c": "a temperate",
+      "d": " a stable"
+    },
+    "section": "<b>In each of questions 63 to 77,choose the option opposite in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 74,
     "hasPassage": 0,
     "category": "others"
   },
@@ -4347,6 +4518,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 63,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 760,
+    "question": "Though he is our elected representative he often takes a rather jaundiced view of our problems?",
+    "option": {
+      "a": " He takes a rather hazy view of our problems",
+      "b": "He takes an unfavourable position concerning our problems",
+      "c": "He takes a rather forceful view of our problems",
+      "d": "He takes a sickly view of our problems"
+    },
+    "section": "<b>In each of questions 63 to 67, select the option that best explain the information conveyed in the sentence?</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 64,
     "hasPassage": 0,
     "category": "others"
   },
@@ -4784,6 +4974,25 @@
     "examtype": "utme",
     "examyear": "2002",
     "questionNub": 42,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 841,
+    "question": "Despite all preparations, the wedding did not ....... ?",
+    "option": {
+      "a": "come along",
+      "b": "come off",
+      "c": " come on",
+      "d": "come up"
+    },
+    "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.</b>\n",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 45,
     "hasPassage": 0,
     "category": "others"
   },
@@ -6080,6 +6289,25 @@
     "category": "others"
   },
   {
+    "id": 1075,
+    "question": "Many workers were............ as a result of the textile closure",
+    "option": {
+      "a": "laid down",
+      "b": "laid off",
+      "c": "laid out",
+      "d": " laid up"
+    },
+    "section": "<b>In each of the question 66 to 85 choose the option that best completes the gap(s)</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "If workers are laid off, they are told by their employers to leave their job, usually because there is no more work for them to do.\n\nMany workers were laid off as a result of the textile closure",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 81,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1076,
     "question": "The driver died in the .......... road accident",
     "option": {
@@ -6403,6 +6631,25 @@
     "category": "others"
   },
   {
+    "id": 1167,
+    "question": "All farmers were encouraged ......carry out fumigation on their farms",
+    "option": {
+      "a": "in",
+      "b": "with",
+      "c": "to",
+      "d": "from"
+    },
+    "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "All farmers were encouraged to carry out fumigation on their farms",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 75,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1170,
     "question": "Local governments are authorized to pass",
     "option": {
@@ -6707,6 +6954,25 @@
     "category": "others"
   },
   {
+    "id": 1235,
+    "question": "choose the option with the correct spelling from the options lettered A-E",
+    "option": {
+      "a": "Sucesful",
+      "b": "Succeful",
+      "c": "Successful",
+      "d": "Sucessful"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 42,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1240,
     "question": "Conventional",
     "option": {
@@ -6779,6 +7045,25 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 55,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1254,
+    "question": "What did the author of the book study?",
+    "option": {
+      "a": "B.Sc (Ed) Mathematics",
+      "b": " B.A English Language",
+      "c": "B.A Literary Studies",
+      "d": "BSc Political Science"
+    },
+    "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 1,
     "hasPassage": 0,
     "category": "others"
   },
@@ -6992,6 +7277,25 @@
     "category": "others"
   },
   {
+    "id": 1283,
+    "question": "Choose the word that has a different stress pattern",
+    "option": {
+      "a": "embrace",
+      "b": "suspect(V)",
+      "c": "member",
+      "d": "project(V)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "All the other options are stressed on the second syllable except suspend that is stressed on the first syllable.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 30,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1288,
     "question": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nNa<u>t</u>ional\n\n\n",
     "option": {
@@ -7178,6 +7482,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 14,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1330,
+    "question": "Choose the one with the different stress pattern",
+    "option": {
+      "a": "apparent",
+      "b": "attractive",
+      "c": "devastate",
+      "d": "infections"
+    },
+    "section": "In the following options lettered A to D, all the words except one have the same stress pattern.",
+    "image": "",
+    "answer": "c",
+    "solution": "Option A, B and D has its stress on the second syllable except for Option C",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 17,
     "hasPassage": 0,
     "category": "others"
   },
@@ -7444,6 +7767,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 56,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1372,
+    "question": "Although Chide's manners are quite <u>refined</u> , his colleagues are rather ___________",
+    "option": {
+      "a": "bold",
+      "b": "crude",
+      "c": "hostile",
+      "d": "rash"
+    },
+    "section": "From the list of words or group of words lettered A to D, choose the one that is most nearest opposite in meaning to the underlined word or group of words and that will, at the same time correctly fill in the gap in the sentence. ",
+    "image": "",
+    "answer": "b",
+    "solution": "Refined implies to purify or to be free from impurities. Option B; crude, is a direct opposite to the word 'refine'' which means being in a natural state.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 59,
     "hasPassage": 0,
     "category": "others"
   },
@@ -8185,6 +8527,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 56,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1544,
+    "question": "choose the option nearest in meaning to the underlined. Thousands of students <u>are candidates</u> for the examination but only very few pass",
+    "option": {
+      "a": "Come in",
+      "b": "Call for",
+      "c": "Go into",
+      "d": "Enter for"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Enter for implies to partake, participate or take part in something",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 61,
     "hasPassage": 0,
     "category": "others"
   },
@@ -9154,6 +9515,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 23,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1711,
+    "question": "\nIf the armed robbers ------------------------ caught, they would have been lynched",
+    "option": {
+      "a": " would be",
+      "b": "have been",
+      "c": "are",
+      "d": "had been"
+    },
+    "section": "From the options, choose the word(s) that best fill the gap.",
+    "image": "",
+    "answer": "d",
+    "solution": "The correct answer is ‘D’ because it is a past perfect tense. Option ‘A’ is ‘would be’ which implies the future past tense, option ‘B’ ‘have been’ which means/is a present perfect tense, option ‘C’ are which indicates ‘plural’",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 24,
     "hasPassage": 0,
     "category": "others"
   },
