@@ -9680,6 +9680,22 @@
     "examyear": "1989"
   },
   {
+    "id": 681,
+    "question": "Bicameralism refers to",
+    "option": {
+      "a": "a one chamber legislature",
+      "b": "the process of voting in the legislature",
+      "c": "the upper chamber in a legislature",
+      "d": "a two-chamber legislature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 682,
     "question": "The head of state under the independence constitution of Nigeria was",
     "option": {
@@ -18112,6 +18128,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1273,
+    "question": "The highest grade in the civil service is known as the",
+    "option": {
+      "a": "administrative cadre",
+      "b": "executive cadre",
+      "c": "clerical cadre",
+      "d": "technical cadre"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The highest grade in the civil service is known as the administrative cadre",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1274,
     "question": "The fundamental assumption on which the idea of the rule of law is based is",
     "option": {
@@ -19916,6 +19948,38 @@
     "image": "",
     "answer": "a",
     "solution": "NAP was the party that did not control any state in the Second Republic. Nigeria Advanced Party (NAP) was not recognized for the 1979 election. The reason was that it was unable to establish branches in 13 states of the federation as stipulated by FEDECO. In the 1983 general elections, which the party contested, it did not win a single seat in all the constituencies.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1410,
+    "question": "Pacification refers to a process through which some areas in Nigeria were acquired by",
+    "option": {
+      "a": "military conquest",
+      "b": " gunboat diplomacy",
+      "c": " signing of treaties",
+      "d": "peaceful negotiations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Pacification refers to a process through which colonial empires imposed their presence and legal violence through the use of force or military to coerce obedience and subvert the will of the people. It was mainly done in regions impacted and divided by insurgency or rebels.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1411,
+    "question": "Counter-trade was introduced by the government led by",
+    "option": {
+      "a": " Abdusalami Abubakar",
+      "b": " Olusegun Obasanjo",
+      "c": "Muhammadu Buhari",
+      "d": " Ibrahim Babangida"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Counter-trade was introduced by the government led by Ibrahim Babangida",
     "examtype": "utme",
     "examyear": "2009"
   },
