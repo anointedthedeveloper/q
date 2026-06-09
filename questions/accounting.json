@@ -4016,6 +4016,22 @@
     "examyear": "2004"
   },
   {
+    "id": 396,
+    "question": "A debit in the suspense account will appear in the balance sheet as",
+    "option": {
+      "a": "a current asset",
+      "b": "a current liability",
+      "c": "capital",
+      "d": "drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 397,
     "question": "The recipient whose name appears on a cheque is called a",
     "option": {
@@ -5756,6 +5772,22 @@
     "image": "",
     "answer": "b",
     "solution": "Accounting policies refer to the specific principles, bases, conventions, rules, and practices that an enterprise chooses to adopt and consistently apply in preparing and presenting its financial statements.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 556,
+    "question": "Which of the following cannot be realized?",
+    "option": {
+      "a": "creditors",
+      "b": "debtors",
+      "c": "motor vehicles",
+      "d": "goodwill"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Good will being an intangible asset cannot be seen or touched and are just believed to exist goodwill can only be valued to be a certain amount, the realizable value becomes a difficult task.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -13292,6 +13324,22 @@
     "image": "",
     "answer": "d",
     "solution": "Opening cash: ₦20 000\nAdd receipts:\n\nSales of match tickets: ₦15 000\n\nDonation from local government: ₦3 800\nSubtotal: 20 000 + 15 000 + 3 800 = ₦38 800\n\nLess payments:\n\nClearing of pitch: ₦1 200\n\nRefreshments: ₦3 500\n\nReferees’ allowance: ₦1 000\n\nCost of petrol: ₦1 120\nTotal payments: 1 200 + 3 500 + 1 000 + 1 120 = ₦6 820\n\nClosing cash: 38 800 − 6 820 = ₦31 980",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1298,
+    "question": "<b>Use the information below to answer question 33 and 34</b>\n\nMaimalari Ltd had (i) Earning per share 47k\n(ii) Dividend per share 30k\n(iii) Par value of each share ₦1.20\n(iv) Market price per share ₦1.50\n\nWhat will be the price earnings ratio of the company?",
+    "option": {
+      "a": "3.91",
+      "b": "3.19",
+      "c": "2.95",
+      "d": "2.55"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Price‐Earnings (P/E) ratio is calculated as:\n\nP/E Ratio = Market Price per Share/Earnings per Share = ₦1.50/₦0.47 ≈ 3.19",
     "examtype": "utme",
     "examyear": "2000"
   },
