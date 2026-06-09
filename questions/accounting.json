@@ -3056,6 +3056,22 @@
     "examyear": "2006"
   },
   {
+    "id": 221,
+    "question": "The basis of accounting which eliminates debtors and creditors is",
+    "option": {
+      "a": "cash basis",
+      "b": "accrual basis",
+      "c": "fund basis",
+      "d": "commitment basis."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 222,
     "question": "Which of the following is not a revenue account?",
     "option": {
@@ -4759,6 +4775,22 @@
       "b": "assets",
       "c": "sales",
       "d": "profits"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 352,
+    "question": "Which of the following transactions will result in disagreement between the cash book and the bank statement?",
+    "option": {
+      "a": "Selling of goods on credit to a customer",
+      "b": "Withdrawal of goods by the proprietor for his personal use",
+      "c": "Cheque paid directly into the bank account by a customer",
+      "d": "Omission of purchases received from a supplier on credit"
     },
     "section": "",
     "image": "",
@@ -6603,6 +6635,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 496,
+    "question": "Which of the following is an item in the debit side of the sales ledger control account?",
+    "option": {
+      "a": "Interest charged by suppliers",
+      "b": "Bills receivable honoured",
+      "c": "Transfer of credit balances from credit control account",
+      "d": "Transfer of debit balances from creditors control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -9244,6 +9292,22 @@
     "image": "",
     "answer": "a",
     "solution": "In the branch’s own books, when cash is sent to head office but not yet received there, it isn’t left in the cash balance, instead the branch debits a “Remittance in Transit” asset account and credits cash. Thus, on reconciliation, the branch treats remittances in transit as debit entries.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 683,
+    "question": "Profit or loss in a partnership is usually arrived at after deducting from gross profit all expenses including____________",
+    "option": {
+      "a": " Partners salaries",
+      "b": "Interest on capital",
+      "c": " Interest on loans",
+      "d": "Partners drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "is charged in the profit and loss account as finance expenses",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -15552,6 +15616,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1178,
+    "question": "The concise statement used to explain entries in the general journal is known as?",
+    "option": {
+      "a": "narration",
+      "b": "summary",
+      "c": "information",
+      "d": "commentary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reason: In accounting, a narration is the brief explanation written below a journal entry to describe the transaction.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1179,
     "question": "<b>Use the information below to answer questions 15 and 16.</b>\n\nThe gross profit ratio for the company is 25%.\n\nIf the total expenses is ₦20,845, what will be the net profit for the company during the month?",
     "option": {
@@ -16300,6 +16380,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665949/ALOC-Questions/Accounting/UTME/2001/Accounting_JAMB_2001_Q17-18_tvdlto.png",
     "answer": "a",
     "solution": "To find x, Calculate the balance after Jan. 15:\nStock movements:\n\nJan. 1: 100 units (₦500.00)\nJan. 5: +50 units (₦300.00) = 150 units total\nJan. 7: -40 units (₦240.00) = 110 units remaining\nJan. 10: +50 units (₦200.00) = 160 units total\nJan. 15: -50 units (₦200.00) = 110 units remaining\n\nRemaining stock composition:\n\n100 units at ₦5.00 = ₦500.00\n10 units at ₦6.00 = ₦60.00\nTotal = 110 units worth ₦560.00\n\nTherefore, x = ₦560.00",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1233,
+    "question": "Use the information below to answer questions 19 and 20\n\nPurchases ledger opening balance ₦4,000\nSales ledger opening balance ₦6,000\nCredit purchases during the year ₦25,000\nDiscounts allowed ₦1,000\nReturns inwards ₦2,000\nCredit sales during the year ₦10,000\nReturns outwards ₦6,000\n\nCalculate the sales ledger balance?",
+    "option": {
+      "a": "₦3,000",
+      "b": "₦6,000",
+      "c": "₦10,000",
+      "d": "₦13,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To calculate the Sales Ledger balance, we track all amounts owed by customers (debtors). The Sales Ledger includes:\n\nOpening balance (debtors): ₦6,000\n\nAdd: Credit sales during the year: ₦10,000\n\nLess: Returns inwards (sales returns): ₦2,000\n\nLess: Discounts allowed: ₦1,000\n\n₦ow calculate:\n\nSales Ledger Closing Balance = 6,000 + 10,000 − 2,000 − 1,000 = ₦13,000",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -17260,6 +17356,22 @@
     "image": "",
     "answer": "b",
     "solution": "At par acquisition means the price paid for the business exactly equals the fair value of its net assets (i.e., assets minus liabilities).\n\nIn this case, no goodwill is recognized because there is neither a premium paid nor a discount received on the net assets.\n\nHence, the business is acquired “at par” when the purchase consideration equals the net asset value.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1307,
+    "question": "The body constitutionally charged with the responsibility of examining the audited accounts of the Federation and other reports as referred by the National Assembly is the?",
+    "option": {
+      "a": "Public Accounts Committee",
+      "b": "Public Audit Committee",
+      "c": " Internal Audit Committee",
+      "d": "External Audit Committee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The body is the Public Accounts Committee of the National Assembly, which reviews audited accounts and related reports.",
     "examtype": "utme",
     "examyear": "2000"
   },
