@@ -9690,6 +9690,25 @@
     "category": "others"
   },
   {
+    "id": 658,
+    "question": "<u>S</u>ure?",
+    "option": {
+      "a": "cheer",
+      "b": "cheap",
+      "c": "charlatan",
+      "d": "church"
+    },
+    "section": "<b>In each of questions 59 to 62 choose from the option the word that has the same consonant sound as the represented by the letter(s) underlined.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 62,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 660,
     "question": "Had I known about their plan much earlier I would have <u>nipped it in the bud</u>?",
     "option": {
@@ -11890,6 +11909,25 @@
     "examtype": "utme",
     "examyear": "2002",
     "questionNub": 61,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 860,
+    "question": "The man outran his wife when they heard the <u>eerie</u> sound?",
+    "option": {
+      "a": "scary",
+      "b": "hissing",
+      "c": "harsh",
+      "d": "loud"
+    },
+    "section": "<b>In each of questions 59 to 73, choose the option nearest in meaning to the underlined word(s).</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 64,
     "hasPassage": 0,
     "category": "others"
   },
@@ -20155,6 +20193,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 28,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1512,
+    "question": "The events of last Friday show that there is no love lost between the Principal and the Vice-principal",
+    "option": {
+      "a": "They like each other",
+      "b": "They work independently",
+      "c": "They couldn't part company",
+      "d": "They dislike each other"
+    },
+    "section": "Choose the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "d",
+    "solution": "The term no love lost signifies ill will exclusively. If there is no love lost between two people, they have a strong enmity towards or hate for the other and make no effort to conceal it.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 29,
     "hasPassage": 0,
     "category": "others"
   },
