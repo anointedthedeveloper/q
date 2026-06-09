@@ -646,6 +646,25 @@
     "category": "others"
   },
   {
+    "id": 42,
+    "question": "Students could be <i>timid</i>",
+    "option": {
+      "a": "Pugnacious ",
+      "b": "friendly ",
+      "c": "bold ",
+      "d": "covetous"
+    },
+    "section": "opposite in meaning to the word(s) or phrase in italics ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 43,
     "question": "The labour leader’s <i>recalcitrant</i> stance was applauded ",
     "option": {
@@ -10887,6 +10906,25 @@
     "category": "others"
   },
   {
+    "id": 755,
+    "question": "He arrived ....... to see his family leave for the countryside? ",
+    "option": {
+      "a": "in time",
+      "b": "timely",
+      "c": "late",
+      "d": "with"
+    },
+    "section": "<b>In each of questions 41 to 62, fill the gap with the most appropriate option from the list provided.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 59,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 756,
     "question": "You can travel on your own ......?",
     "option": {
@@ -12764,6 +12802,25 @@
     "examtype": "utme",
     "examyear": "2002",
     "questionNub": 99,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 896,
+    "question": "The President gave another <u>extemporaneous</u> speech last Friday?",
+    "option": {
+      "a": "unprepared",
+      "b": "fascinating",
+      "c": "planned",
+      "d": "unfavourable"
+    },
+    "section": "<b>In each of questions 86 to 100, choose the option opposite in meaning to the underlined word(s).</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 100,
     "hasPassage": 0,
     "category": "others"
   },
@@ -20003,6 +20060,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 92,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1466,
+    "question": "\n\nAmerica is the Mecca of the world",
+    "option": {
+      "a": "America is the commercial garden of the world",
+      "b": "America is a beautiful place in the world",
+      "c": "America is a place where people like to visit",
+      "d": " America accepts assorted races throughout the world"
+    },
+    "section": "Choose the correct interpretations of the statement given, for the question",
+    "image": "",
+    "answer": "c",
+    "solution": "The representative quality or title of Mecca indicates here that America is a sought after State by most people to visit",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 93,
     "hasPassage": 0,
     "category": "others"
   },
