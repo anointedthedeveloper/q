@@ -224,6 +224,22 @@
     "examyear": "2001"
   },
   {
+    "id": 17,
+    "question": "In which of the following reactuions does reduction take place",
+    "option": {
+      "a": "Fe2+ - e-   Fe3+",
+      "b": "2O2-  → O2 + 4e-",
+      "c": "Cr - 2e-  → Cr2+",
+      "d": "2H+  +  2e-   →H2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 20,
     "question": "Which of the following best explains the increase in the rate of a chemical reaction as the temperature rises",
     "option": {
@@ -1792,6 +1808,22 @@
     "examyear": "2004"
   },
   {
+    "id": 144,
+    "question": "Which of the following acts as both a reducing and an oxidizing agent",
+    "option": {
+      "a": "H2",
+      "b": "SO2",
+      "c": "H2S",
+      "d": "CO2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 145,
     "question": "In the electrolysis of brine, the anode is",
     "option": {
@@ -1803,6 +1835,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 147,
+    "question": " 2CO(g)  +  O2(g) →  2CO2(g)\nGiven that   Δ H [CO] is 110.4kJ mol-1 and Δ H [CO2] is -393.0kJ mol-1, the energy change for the reaction above is\n",
+    "option": {
+      "a": "-503.7kJ",
+      "b": "-282.6kJ",
+      "c": "+282.6kJ",
+      "d": "+503.7kJ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "N",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -2715,6 +2763,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 218,
+    "question": "The ion that can be used as an oxidizing agent is",
+    "option": {
+      "a": "Fe3+",
+      "b": "F-",
+      "c": "Ca2+",
+      "d": "Au3+"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -9680,6 +9744,22 @@
     "examyear": "2025"
   },
   {
+    "id": 758,
+    "question": "An example of an alkaline gas is",
+    "option": {
+      "a": "HCl",
+      "b": "N₂",
+      "c": "NH₃",
+      "d": "NO₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "NH₃ (ammonia) dissolves in water to form an alkaline solution (NH₄OH). HCl forms an acidic solution, NO₂ forms acidic solutions, and N₂ is neutral. NH₃ is the only alkaline gas listed.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 759,
     "question": "The dusty and sand particles present in the air is an example of",
     "option": {
@@ -9740,6 +9820,22 @@
     "image": "",
     "answer": "d",
     "solution": "Citric acid is used as a flavoring and preservative in soft drinks, and reacts with sodium bicarbonate in baking powder to produce CO₂ for leavening. It is the common acid in both applications.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 765,
+    "question": "The compound CH₃CH(NH₂)CH₂CH₂CH₃ is an example of a",
+    "option": {
+      "a": "primary amine",
+      "b": "tertiary amine",
+      "c": "quaternary amine",
+      "d": "secondary amine"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In CH₃CH(NH₂)CH₂CH₂CH₃, the nitrogen atom of the -NH₂ group is bonded to only one carbon atom. A primary amine has nitrogen attached to exactly one carbon, so this compound is a primary amine.",
     "examtype": "utme",
     "examyear": "2025"
   },
