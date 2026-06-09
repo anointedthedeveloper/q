@@ -1,5 +1,53 @@
 [
   {
+    "id": 11,
+    "question": "The journal is a book ",
+    "option": {
+      "a": "of primary entry into which all transactions are entered before posting ",
+      "b": "kept by journalist for reporting events ",
+      "c": "of prime entry into which postings are made from the ledger  ",
+      "d": "of analyzing major accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 69,
+    "question": "A debit balance of Nl50,000 in a cash account   shows   that   ",
+    "option": {
+      "a": "  cash  has   been overspent   by   N150,000   ",
+      "b": "  there   was N150,000 cash in hand ",
+      "c": " the total of cash received   was   less   than   N150,000   ",
+      "d": "N150,000 was the total of cash paid out. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 93,
+    "question": "Which of the following is a nominal account?",
+    "option": {
+      "a": "Machinery Account",
+      "b": "Drawings Account",
+      "c": "Debtors Account",
+      "d": "Wages Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 121,
     "question": "Upon the dissolution of a partnership business, the party to be settled first out of the proceeds realized is",
     "option": {
@@ -48,6 +96,22 @@
     "examyear": "2016"
   },
   {
+    "id": 160,
+    "question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled N800,000. A provision of 2% was made for discount and 5% provision for bad and doubtful debts.  Find the amount for sundry debtors after provision.",
+    "option": {
+      "a": "N744,800",
+      "b": "N 760,000",
+      "c": "N784, 000",
+      "d": "N744, 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 173,
     "question": "A suspense account is used to",
     "option": {
@@ -59,6 +123,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 196,
+    "question": "A provision is",
+    "option": {
+      "a": "an expense of business to be paid for in cash",
+      "b": "an amount of loss from trading activities",
+      "c": "a loss in value of all business assets",
+      "d": "an expense the amount of which is not certain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -80,6 +160,70 @@
     "examyear": "1997"
   },
   {
+    "id": 201,
+    "question": "The amount for which a business is sold is known as",
+    "option": {
+      "a": "goodwill",
+      "b": "capital reserve",
+      "c": "purchase consideration",
+      "d": "premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 246,
+    "question": "Using the reducing balance method, the depreciation charged for year 2002 was",
+    "option": {
+      "a": "N 100,000",
+      "b": "N  90,000",
+      "c": "N  80,000",
+      "d": "N  60,000"
+    },
+    "section": "Motor vehicles (at cost) 1/1/2002   [N1,000,000],  Addition to motor vehicles 1/7/2003  [N  600,000] \tDepreciation rate 10%",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 262,
+    "question": "A fixed asset fully written-down by a trader is now considered to be worth N5,000. The double entry required to effect       this is: debit",
+    "option": {
+      "a": "Asset Account; credit Purchases Account.",
+      "b": "Asset Account; credit Capital Account.",
+      "c": "Capital Account; credit Asset Account.",
+      "d": "Capital Account; credit Profit and Loss Account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 311,
+    "question": "Which of the following is not a book of original entry?",
+    "option": {
+      "a": "Sales journal",
+      "b": "Purchases account",
+      "c": "Cash account",
+      "d": "Return inwards journal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 391,
     "question": "The principle of double entry book - keeping states that",
     "option": {
@@ -94,6 +238,70 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
+  },
+  {
+    "id": 399,
+    "question": "The three-column cash book differs from the two-column cash book in",
+    "option": {
+      "a": "cash column",
+      "b": "discount column",
+      "c": "bank column",
+      "d": "folio column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 411,
+    "question": "What is the figure for purchases?",
+    "option": {
+      "a": "N 2,400",
+      "b": "N 2,500",
+      "c": "N 4,200",
+      "d": "N 5,200"
+    },
+    "section": "Beginning inventory [ ? ]; Purchases [? ]; Ending inventory [ N4,800 ]; Sales [ N12,800 ]; Wages [ N1,040 ]; Gross profit [N 5,900]. The beginning inventory was estimated at 80% of sales.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 425,
+    "question": "What is Kunle’s share of the profit?",
+    "option": {
+      "a": "N 600",
+      "b": "N 300",
+      "c": "N180",
+      "d": "N 120"
+    },
+    "section": "Jumoke and Kunle have an original investment of N 25,000 and N15,000 respectively in a partnership.   The articles of partnership provide 3% interest on capital and salaries of N1,500 and N 1,000 respectively for the partners.   The profits and losses are to be shared in the ratio 3:2. Miscellaneous expenses of N 2,500 were incurred with gross profit of N 6,500 during the financial year.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 447,
+    "question": "Determine the working capital.",
+    "option": {
+      "a": "N 7,38,0000",
+      "b": "N 8,48,0000",
+      "c": "N  5 480 000",
+      "d": "N  6 480 000."
+    },
+    "section": "Shaku Company Ltd: Stock [N 3,600, 000]; Cash at hand [N800, 000]; Cash in bank [2,400, 000]; Debtors [ 580, 000]; Trade creditors [N 920, 000 ]; \tBank overdraft [ N200, 000 ]; Tax liabilities [N600, 000]; Salary owed to staff {N 180, 000]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
   },
   {
     "id": 490,
@@ -144,6 +352,22 @@
     "examyear": "2015"
   },
   {
+    "id": 537,
+    "question": "The following accounting entries are made when bad debt is recovered",
+    "option": {
+      "a": "debit bad debts accounts and credit bad debt recovered account",
+      "b": "debit debtors accounts and recovered account",
+      "c": "debit bad debts recovered account and credit bad debts account",
+      "d": "debit bad debts account and credit profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The standard “recovery of a previously written-off debt” entry is:\n\nReinstate the debtor: Debit Debtors Control Account\n\nRecognize the income: Credit Bad Debts Recovered Account\n\nSo the debit entry is against the Debtors Control Account.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 565,
     "question": "Balance as per cashbook ₦2, 970\nBank Charges ₦220\nUnpresented cheques ₦3, 950\nUncredited cheques ₦4, 178\nDirect debit by bank ₦1, 0000\n\nDetermine the balance as per bank statement.",
     "option": {
@@ -158,6 +382,118 @@
     "solution": "\nCalculation:\nBalance as per bank statement = 2,970 + 3,950 - 4,178 - 220 - 1,000\n= 2,970 + 3,950 - 5,398\n= 6,920 - 5,398\n= 1,522\n",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 570,
+    "question": "The ratio that gives the indication of the efficiency of a firm's sales with respect to cost of goods sold is a",
+    "option": {
+      "a": " return on capital employed",
+      "b": " gross profit margin",
+      "c": "net profit margin",
+      "d": "return on equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Return on capital employed or ROCE is a profitability ratio that measures how efficiently a company can generate profits from its capital employed by comparing net operating profit to capital employed.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 643,
+    "question": "Discount allowed is enjoyed by",
+    "option": {
+      "a": "Managers",
+      "b": "Customers",
+      "c": "Suppliers",
+      "d": "Staff of the company"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Customer: customers are the one that enjoys discount allowed. It is allowed to them by the suppliers. it can be in cash or trade",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 663,
+    "question": "When expenses are paid on behalf of the venture, the accounting entries is to debit",
+    "option": {
+      "a": "bank account and credit joint venture account",
+      "b": "expenses account and credit bank account",
+      "c": " joint venture account and credit expenses account",
+      "d": "joint venture account and credit bank account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Joint venture account is an account that all expenditure incurred for the venture is debited and all income is credited to.\nDebit joint venture and credit bank account because expenses incurred on behalf of the venture has to be debited to the joint venture account and since the money is joint out the bank must be credited to balance the account",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 665,
+    "question": "Statement of Financial Position as at 31st Dec 2010 showing:\n\nNoncurrent assets: Plant and equipment ₦10,000\nCurrent assets: Stock ₦7,000, Receivables ₦5,000 (Total current assets ₦12,000)\nTotal assets ₦22,000\nCapital ₦15,000\nCurrent liabilities: Payables ₦7,000\nTotal ₦22,000\n\nWhat is the amount of capital employed?",
+    "option": {
+      "a": "₦7000",
+      "b": "₦10000",
+      "c": "₦22000",
+      "d": "₦15000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Capital employed can be calculated in two ways:\nMethod 1 (Asset approach):\nCapital Employed = Total Assets - Current Liabilities\n= ₦22,000 - ₦7,000 = ₦15,000\nMethod 2 (Financing approach):\nCapital Employed = Shareholders' Capital + Long-term Liabilities\n= ₦15,000 + ₦0 = ₦15,000",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 706,
+    "question": "The rent expense for Trendy store is ₦3500. Trendy store has three departments; jewelry, hair dressing, and clothing. The floor spaces occupied by the departments are 3:2:5 respectively. What is the rent allocated to clothing department?",
+    "option": {
+      "a": "₦700",
+      "b": "₦1050",
+      "c": " ₦1750",
+      "d": "₦3500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Jewelry 3/10 x 3500 = 1050\n\nHairdressing 2/10 x 3500 = 700\n\nClothing 5/10 x 3500 = 1750",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 708,
+    "question": "Use the information to answer the questions\n\n  Rakiya and joy are in a partnership and agreed that 5% interest per annum is to be charged on drawings. The drawing made by both partners in one year were:\n\n  Rakiya, ₦200 on March 31 and ₦300 on September 30.\n\n  Joy, ₦100 on April 1 and ₦240 on July 1.\n\n  The interest on Joy’s drawing is___________",
+    "option": {
+      "a": "₦11.25",
+      "b": "₦500.00",
+      "c": "₦9.75.",
+      "d": "₦340.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The interest on Joy’s drawings is ₦9.75, calculated as follows:\n\n₦100 drawn on April 1 for 9 months:\n₦100 × 5% × 9/12 = ₦3.75\n\n₦240 drawn on July 1 for 6 months:\n₦240 × 5% × 6/12 = ₦6.00\n\nTotal interest = ₦3.75 + ₦6.00 = ₦9.75.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 725,
+    "question": "Use the following to answer this question.\nIndustry ltd, issued 100,000 shares at ₦1 each out of its Authorized share capital of ₦200,000 at ₦1 each. At the of the first call, all shareholders paid in full, except for two shareholder who owes ₦20,000.\n\nThe company's paid-up capital is",
+    "option": {
+      "a": "₦70,000",
+      "b": " ₦80,000",
+      "c": "₦220,000",
+      "d": " ₦120,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Paid up capital is the total amount paid up or credited as paid up, on the issued share capital.\nFrom the question above, the issued share capital is ₦100,000 and two of the shareholder owes ₦20,000. Therefore, the paid up is 100,000 - 20,000 = ₦80,000.",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 804,
@@ -192,6 +528,70 @@
     "examyear": "2021"
   },
   {
+    "id": 847,
+    "question": "The excess of income over expenditure is usually transferred to the?",
+    "option": {
+      "a": "accumulated fund",
+      "b": "\nprofit and loss account",
+      "c": "current assets in the balance sheet",
+      "d": "current liabilities in the balance sheet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In not‑for‑profit organizations, any surplus (excess of income over expenditure) is not taken to a Profit and Loss Account but is transferred to the Accumulated Fund, which represents the retained surpluses of the organization.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 856,
+    "question": "A rent of ₦50,000 was paid by samson to his landlady by cheque. The double entry in Samson's book is",
+    "option": {
+      "a": "Debit rent account, Credit bank account\n",
+      "b": "Debit Rent account, Credit Samson's account\n",
+      "c": "Debit Bank account, Credit Rent account\n",
+      "d": "Debit Samson's account, Credit Rent account\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In double entry bookkeeping:\n\nRent is an expense, so it is debited.\n\nBank is an asset, and since money is going out of the bank, it is credited.\n\nSo, when Samson pays ₦50,000 rent by cheque:\n\nDebit Rent Account (to record the expense)\n\nCredit Bank Account (to show the payment made)",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 891,
+    "question": "A part of public company's profit belonging to the shareholders is",
+    "option": {
+      "a": " right issue",
+      "b": "bonus",
+      "c": "dividends",
+      "d": " public issue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Dividends are a part of a public company's profit that is distributed to shareholders. It is a way for companies to distribute a portion of their earnings back to their shareholders. Public issue, bonus, and right issue are not parts of a company's profit that belong to the shareholders.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 960,
+    "question": "The reward given to debenture holder is",
+    "option": {
+      "a": "interest",
+      "b": "dividend",
+      "c": "profit",
+      "d": "premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Debentures are long-term debt instruments issued by companies to raise funds. Debenture holders are the creditors of the company, and they receive regular interest payments as a reward for lending their money to the company.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 969,
     "question": "Given:\n\nSales.....................₦4,000\nLight expenses............₦900\nRent......................₦1,500\nPurchases.................₦7,500\nDebtors...................₦6,000\nCreditors.................₦9,000\nDrawings..................₦2,500\nBank......................₦400\nGeneral expenses..........₦1,500\nCapital...................₦10,300\n\nCalculate the total of trial balance?",
     "option": {
@@ -222,6 +622,70 @@
     "solution": "Given (from extract):\n  Opening stock (Q)   = ₦1,000\n  Purchases (Q)       = ₦1,500\n  Closing stock (Q)   = ₦1,000\n  Sales (Q)           = ₦4,000\n\nCost of goods sold (Q) = Opening stock + Purchases − Closing stock\n                        = 1,000 + 1,500 − 1,000\n                        = ₦1,500\n\nGross profit (Q) = Sales − Cost of goods sold\n                 = 4,000 − 1,500\n                 = ₦2,500",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 1020,
+    "question": "What are the appropriate recording procedures for entries in the trial balance?",
+    "option": {
+      "a": " source documents, ledgers and trial balance",
+      "b": "Ledgers, trial balance and source documents",
+      "c": "Ledgers, source documents and trial balance",
+      "d": "Cash account, ledgers and trial balance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Explanation: Recording starts with source documents (invoices, receipts), entries are posted to the ledgers, and then ledger totals are used to prepare the trial balance.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1036,
+    "question": "<b>Use the information below to answer questions 22 to 23</b>\n\nZazzau Company:\n\nCash in hand................₦50\nCash in bank................₦1 250\nStock.......................₦4 880\nFurniture...................₦9 60\nBuilding....................₦5 500\nDebtor......................₦1 750\nCreditors...................₦2 150\n\nDrawings of ₦125 were made by the shareholders of the company..\n\nThe capital of the company stands at?",
+    "option": {
+      "a": " ₦12 240",
+      "b": "₦12 115",
+      "c": " ₦2 510",
+      "d": "₦2 150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Assets\n\nCash in hand = ₦50\n\nCash at bank = ₦1,250 → running total = ₦1,300\n\nStock = ₦4,880 → running total = ₦6,180\n\nFurniture = ₦960 → running total = ₦7,140\n\nBuilding = ₦5,500 → running total = ₦12,640\n\nDebtors = ₦1,750 → Total assets = ₦14,390\n\nLess: Liabilities\n\nCreditors = ₦2,150\n\nSubtotal (Assets − Liabilities) = ₦14,390 − ₦2,150 = ₦12,240\n\nLess: Drawings by shareholders = ₦125\n\nCapital = ₦12,240 − ₦125 = ₦12,115",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1087,
+    "question": "<b>Use the information below to answer questions 23 and 24</b>\n\nBeginning inventory............₦?\nPurchases......................₦?\nEnding inventory...............₦4,800\nSales..........................₦12,800\nWages..........................₦1,040\nGross profit...................₦5,900\n\n<b>The beginning inventory was estimated at 80% of sales.</b>\n\nDetermine the amount for the beginning inventory?",
+    "option": {
+      "a": "₦20,140",
+      "b": "₦10,240",
+      "c": "₦8,140",
+      "d": "₦7,240"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate Cost of Goods Sold\nGross Profit = Sales - Cost of Goods Sold\n₦5,900 = ₦12,800 - Cost of Goods Sold\nCost of Goods Sold = ₦12,800 - ₦5,900 = ₦6,900\nStep 2: Apply the inventory equation\nCost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory\n₦6,900 = Beginning Inventory + Purchases - ₦4,800\nBeginning Inventory + Purchases = ₦6,900 + ₦4,800 = ₦11,700\nStep 3: Calculate Beginning Inventory\nBeginning Inventory = 80% of Sales\nBeginning Inventory = 80% × ₦12,800\nBeginning Inventory = 0.8 × ₦12,800 = ₦10,240",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1093,
+    "question": "<b>Use the information below to answer questions 28 and 29</b>\n\n\nOn January 1,2000, a club's assets and liabilities were as follows:\nClub house...................₦8,000\nSubscription.................₦300\nCash.........................₦1,000\nWages owed...................₦100\n\nThe club has 50 members and annual subscription is ₦100 per member.\nSubscription received is ₦4,000 and this includes 1999 arrears of ₦200.\n\nIn the balance sheet, the subscription in arrears will be?",
+    "option": {
+      "a": "₦200",
+      "b": "₦300",
+      "c": "₦1,200",
+      "d": "₦1,300"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Calculate total subscription due for the year 2000\nTotal subscription due = 50 members × ₦100 per member\nTotal subscription due = ₦5,000\nStep 2: Calculate subscription received for 2000 only\nSubscription received for 2000 = Total received - 1999 arrears\nSubscription received for 2000 = ₦4,000 - ₦200\nSubscription received for 2000 = ₦3,800\nStep 3: Calculate subscription in arrears at end of 2000\nSubscription in arrears = Total due for 2000 - Amount received for 2000\nSubscription in arrears = ₦5,000 - ₦3,800\nSubscription in arrears = ₦1,200",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 1120,
@@ -256,6 +720,54 @@
     "examyear": "2003"
   },
   {
+    "id": 1164,
+    "question": "Mamza ₦igeria Limited issued 20 000 ordinary shares of ₦1.50 per share on 2nd July 2002.\n1500 ordinary shares were fully subscribed for and their monies received as below:\n\nOn application .........................₦0.40\nOn allotment ...........................₦0.20\nFirst call (including premium of ₦0.50)..₦0.70\n\nThe last and final call was yet to be made.\n\nWhat is the balance of the ordinary share capital account after the first call was received?",
+    "option": {
+      "a": "₦300",
+      "b": "₦1050",
+      "c": "₦1200",
+      "d": "₦1950"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given Information:\n\n20,000 ordinary shares issued at ₦1.50 per share\n1,500 ordinary shares were fully subscribed\nPayment schedule:\n\nOn application: ₦0.40\nOn allotment: ₦0.20\nFirst call (including premium of ₦0.50): ₦0.70\n\n\n\nStep 1: Determine the nominal value per share\nTotal payment per share = ₦0.40 + ₦0.20 + ₦0.70 = ₦1.30\nSince the issue price is ₦1.50 and there's a premium of ₦0.50 in the first call, the nominal value per share = ₦1.50 - ₦0.50 = ₦1.00\nStep 2: Calculate amounts received by stage\n\nApplication: 1,500 shares × ₦0.40 = ₦600\nAllotment: 1,500 shares × ₦0.20 = ₦300\nFirst call: 1,500 shares × ₦0.70 = ₦1,050\n\nStep 3: Determine what goes to Ordinary Share Capital Account\nThe Ordinary Share Capital Account only records the nominal value, not the premium.\nFrom the first call of ₦0.70:\n\nPremium portion: ₦0.50 (goes to Share Premium Account)\nNominal value portion: ₦0.70 - ₦0.50 = ₦0.20 (goes to Share Capital Account)\n\nStep 4: Calculate total in Ordinary Share Capital Account\n\nFrom application: 1,500 × ₦0.40 = ₦600\nFrom allotment: 1,500 × ₦0.20 = ₦300\nFrom first call (nominal portion): 1,500 × ₦0.20 = ₦300\n\nTotal in Ordinary Share Capital Account = ₦600 + ₦300 + ₦300 = ₦1,200",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1203,
+    "question": "In an incomplete record system a trading account cannot be prepared until the?",
+    "option": {
+      "a": " day book has been balanced",
+      "b": "amount of personal drawings has been established",
+      "c": " cash book has been balanced",
+      "d": "amount os sales and purchases has been established"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: a trading account needs total sales and cost of goods sold (which depends on purchases, opening and closing stock). In an incomplete records system you must first determine the totals for sales and purchases before you can prepare the trading account.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1215,
+    "question": "The current growth in the volume of trading and financial dealings in Nigeria is helped by?",
+    "option": {
+      "a": "increased financial activities",
+      "b": "government intervention",
+      "c": "credit as a factor in business",
+      "d": "payment for goods in cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The availability of credit as a factor in business expands purchasing power and allows firms and consumers to transact beyond immediate cash resources, thereby boosting the overall volume of trade and financial dealings.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1238,
     "question": "Given:\nDirect material ₦2,500\nDirect labour ₦5,000\nDirect expenses ₦1,000\nOverhead expenses ₦1,500\n\nFrom the data above, compute the prime cost?",
     "option": {
@@ -268,6 +780,22 @@
     "image": "",
     "answer": "a",
     "solution": "Prime cost consists of all direct costs only. It does not include any overhead or indirect expenses.\nPrime Cost = Direct Material + Direct Labour + Direct Expenses\nPrime Cost = ₦2,500 + ₦5,000 + ₦1,000 = ₦8,500",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1242,
+    "question": "<b>Use the information below to answer questions 28 and\n29</b>\n\nSubscription received during the year ₦30,000\nSubscription owed last year ₦4,000\nSubscription received for next year ₦6,000\n\nThe ₦6,000 subscription received is?",
+    "option": {
+      "a": "current asset",
+      "b": "current liability",
+      "c": " fixed asset",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The ₦6,000 subscription received for next year is a current liability.\n\n\nWhen an organization receives money for subscriptions that relate to the following year, it creates an obligation to provide services in the future. This is known as \"unearned revenue\" or \"deferred income.\"\n\nThe organization has received cash (₦6,000)\nBut it has not yet provided the service/benefit for next year\nTherefore, it owes a service to the subscribers\nThis creates a liability that must be settled by providing the service next year\nSince it will be settled within one year, it's a current liability\n\nThis amount would typically be shown on the balance sheet as \"Subscriptions Received in Advance\" or \"Unearned Subscription Income\" under current liabilities.\nNext year, when the service period begins, this liability will be transferred to subscription income in the profit and loss account.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -288,6 +816,86 @@
     "examyear": "2000"
   },
   {
+    "id": 1295,
+    "question": "An outright sale of a partnership amounts to the?",
+    "option": {
+      "a": "compensation of vendors by the purchase",
+      "b": "admission of a new partner",
+      "c": "purchase of rights of a dead partner",
+      "d": "change of sharing ratio of vendors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An outright sale of the partnership business effectively involves the compensation of the outgoing partners (vendors) by the purchaser of the business.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1337,
+    "question": "Manufacturing costs can be classified based on?",
+    "option": {
+      "a": "timing of charges degree of averaging and size of capital",
+      "b": "degree of averaging, ease of traceability and timing of charges",
+      "c": "degree of averaging, size of floor space occupied and cost accounts",
+      "d": "number of employees, timing of charges and management style"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Degree of averaging, ease of traceability and timing of charges\n\nDegree of averaging:  Valid (actual vs. standard/average costs)\nEase of traceability:  Valid (direct vs. indirect costs)\nTiming of charges:  Valid (historical vs. predetermined costs)",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1338,
+    "question": "When the factory cost of production has been ascertained, manufactured goods are transferred to trading account by?",
+    "option": {
+      "a": "debting manufacturing account and crediting trading acccount",
+      "b": "crediting sales account and debtiting trading account",
+      "c": "debiting sales account and crediting trading account",
+      "d": "crediting manufacturing account and debiting trading account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The manufactured goods (i.e., cost of production) are transferred by debiting the Trading Account and crediting the Manufacturing Account.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1373,
+    "question": "If the inventory at the end of the current year is understated and the error is not caught during the following year, the effect is to?",
+    "option": {
+      "a": "overstate income this year and understate in next year",
+      "b": "understate income this year and overstate in next year",
+      "c": "understate this year's income with no effect on the next year's",
+      "d": "overstate the income for the two-year period"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Year 1 (Current Year) - Ending inventory understated:\n\nCost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory\nIf ending inventory is understated (too low), COGS will be overstated (too high)\nIf COGS is overstated, Net Income will be understated (too low)\n\nYear 2 (Following Year) - The understated ending inventory becomes beginning inventory:\n\nBeginning inventory is understated (too low)\nCost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory\nIf beginning inventory is understated, COGS will be understated (too low)\nIf COGS is understated, Net Income will be overstated (too high)\n\nSummary:\n\nYear 1: Income is understated (too low)\nYear 2: Income is overstated (too high)\nThe error self-corrects over the two-year period",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1396,
+    "question": "A non-profit-making organization differs from a profit-making one in that?",
+    "option": {
+      "a": " it does not earn income",
+      "b": "proceeds from sale of shares form part of its income",
+      "c": "all its income is committed",
+      "d": " annual subscriptions and levies form part of its income"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The best distinguishing feature of a non-profit-making organization is that its routine income sources are things like annual subscriptions and levies rather than trading profits.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1409,
     "question": "Which of the following entries is effected by a department when goods are charged to it at selling prices?",
     "option": {
@@ -302,6 +910,22 @@
     "solution": "When goods are transferred to a department at the selling price, the department must separate the cost and the markup. The markup portion is removed from the stock valuation by debiting the Mark-up Account.",
     "examtype": "utme",
     "examyear": "199"
+  },
+  {
+    "id": 1446,
+    "question": "Share premium can be used to?\ni. write off discount on shares\nii. give loans to directors\niii.pay dividends\niv. pay company's formation expenses.",
+    "option": {
+      "a": "i and iv only",
+      "b": "i and iii only",
+      "c": "ii and iii only",
+      "d": " iii and iv only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "According to company law, the share premium account is treated as a capital reserve and can only be used for specific purposes, such as:\n\nWriting off discount on shares (i)\n\nPaying the company's formation (preliminary) expenses (iv)\n\nIssuing fully paid bonus shares",
+    "examtype": "utme",
+    "examyear": "1997"
   },
   {
     "id": 1449,
