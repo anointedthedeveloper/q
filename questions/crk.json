@@ -368,6 +368,22 @@
     "examyear": "2007"
   },
   {
+    "id": 32,
+    "question": "Daniel was delivered from the den of lions for all the following reason except ",
+    "option": {
+      "a": "his holiness and faith ",
+      "b": "his kindness ",
+      "c": "God’s love for him ",
+      "d": "God’s mighty power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 35,
     "question": "The prophet who was with the exiles of 597 BC in Babylon was ",
     "option": {
@@ -839,6 +855,38 @@
       "b": "fasting for seven day ",
       "c": "looking at the bronze serpent ",
       "d": "call upon the lord "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 79,
+    "question": "Those inspired by God to lead the tribes of Israel in battle were the ",
+    "option": {
+      "a": "Judges  ",
+      "b": "Captains of Guard  ",
+      "c": "priest  ",
+      "d": "prophet  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 82,
+    "question": "Who is reputed for pulling down the altar of Baal at the risk of annoying his father? ",
+    "option": {
+      "a": "Joseph ",
+      "b": "Jesse ",
+      "c": "Gideon   ",
+      "d": "Samuel "
     },
     "section": "",
     "image": "",
@@ -1632,6 +1680,22 @@
     "examyear": "2012"
   },
   {
+    "id": 151,
+    "question": "The prophet whose message was primarily on social justice and true religion is  ",
+    "option": {
+      "a": "Isaiah  ",
+      "b": "Agabus  ",
+      "c": "Amos  ",
+      "d": "Jeremiah"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 152,
     "question": "The prophet who prophesied that Paul would be arrested in Jerusalem is  ",
     "option": {
@@ -2379,6 +2443,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 225,
+    "question": "The final trial of Jesus was presided over by",
+    "option": {
+      "a": "Herod",
+      "b": "Caiaphas",
+      "c": "the High Priest",
+      "d": "Pilate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -3568,6 +3648,22 @@
     "examyear": "2011"
   },
   {
+    "id": 337,
+    "question": "Paul in Romans stated that the righteousness of God has been manifested through",
+    "option": {
+      "a": "the Law",
+      "b": "the priests",
+      "c": "faith in Jesus",
+      "d": "Temple sacrifices."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 338,
     "question": "According to Romans, all who were baptized into Christ were also baptized into His",
     "option": {
@@ -4560,6 +4656,22 @@
     "examyear": "2013"
   },
   {
+    "id": 431,
+    "question": "“He was not the light but was sent to bear witness to the light.” The statement above refers to",
+    "option": {
+      "a": "Simeon",
+      "b": "Jesus",
+      "c": "John the Baptist",
+      "d": "Peter Barjona"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 433,
     "question": "According to Paul, before his conversion, he persecuted the church violently to",
     "option": {
@@ -5143,6 +5255,22 @@
       "b": "He was excited",
       "c": "He was troubled",
       "d": "He became calm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 498,
+    "question": "The ruler of the synagogue whose child Jesus raised to life was",
+    "option": {
+      "a": "Zebedee",
+      "b": "a widow",
+      "c": "Jairus",
+      "d": "a centurion"
     },
     "section": "",
     "image": "",
@@ -6416,6 +6544,22 @@
     "examyear": "2010"
   },
   {
+    "id": 617,
+    "question": "‘... But let justice roll down like waters, and righteousness like an overflowing stream.’ Amos’ statement above suggests that the society was terribly",
+    "option": {
+      "a": "vindictive",
+      "b": "abusive",
+      "c": "oppressive",
+      "d": "destructive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 618,
     "question": "Isaiah emphasized holiness above all things be¬cause God",
     "option": {
@@ -6731,6 +6875,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 655,
+    "question": "Joel and Abijah were the sons of",
+    "option": {
+      "a": "Eli.",
+      "b": "Saul",
+      "c": "Samuel",
+      "d": "David."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -7083,6 +7243,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 694,
+    "question": "According to Paul in Galatians, law ceased to be our custodian as soon as",
+    "option": {
+      "a": "it was made available to us.",
+      "b": "Christ adopted us as his children.",
+      "c": "we adopted the faith of Abraham.",
+      "d": "we stopped worshipping the elemental spirits."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -7776,6 +7952,22 @@
     "examyear": "2019"
   },
   {
+    "id": 763,
+    "question": "St Paul's teaching on spiritual gifts was directed to _______",
+    "option": {
+      "a": "Corinthians",
+      "b": "Thessalonians",
+      "c": "Galatians",
+      "d": "Macedonians"
+    },
+    "section": "",
+    "image": "",
+    "answer": " a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 765,
     "question": "For how long did the Lord supply the children of Israel with manna in the wilderness?",
     "option": {
@@ -8256,6 +8448,22 @@
     "examyear": "2010"
   },
   {
+    "id": 807,
+    "question": "Daniel was delivered from the lion’s den because ",
+    "option": {
+      "a": "of his faith in God’s power. ",
+      "b": "of  the king’s prayers. ",
+      "c": "he was able to charm the lions. ",
+      "d": "the lions were kind to him."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 808,
     "question": "The person who discovered the book of law in the sanctuary during the reign of Josiah was ",
     "option": {
@@ -8727,6 +8935,22 @@
       "b": "God was sending him to Midian",
       "c": "Pharaoh was looking for his arrest",
       "d": "His killing of an Egyptian was known"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 845,
+    "question": "God made Pharaoh to chase and bring the Israelites back to Egypt so that He would",
+    "option": {
+      "a": "show that Moses was his true servant",
+      "b": "destroy first born males of Egyptians",
+      "c": "get glory over Pharaoh and his hosts",
+      "d": "reveal his supernatural powers to the world"
     },
     "section": "",
     "image": "",
@@ -9792,6 +10016,22 @@
     "examyear": "2011"
   },
   {
+    "id": 949,
+    "question": "“It is the Lord, let Him do what seems good to Him”. These were the words of ",
+    "option": {
+      "a": "Saul",
+      "b": "Samuel.               ",
+      "c": "Moses.            ",
+      "d": "Eli."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 950,
     "question": "What reasons were put forward by the Israelites in asking for a king? ",
     "option": {
@@ -9819,6 +10059,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 953,
+    "question": "God promised to punish the house of Ahab and not Ahab himself, because he",
+    "option": {
+      "a": "humbled himself. ",
+      "b": "acted under pressure. ",
+      "c": "was a righteous man. ",
+      "d": "acted wisely."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -10027,6 +10283,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 971,
+    "question": "“But I say to you, do not resist one who is evil.” This was part of Jesus’ teaching on ",
+    "option": {
+      "a": "humility.",
+      "b": "   prayer",
+      "c": "retaliation.        ",
+      "d": "violence."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
