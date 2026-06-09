@@ -1007,6 +1007,25 @@
     "category": "others"
   },
   {
+    "id": 73,
+    "question": "There was a <i>glut</i> of oil on the market",
+    "option": {
+      "a": "an abundance of",
+      "b": "an increase in",
+      "c": "a variety of",
+      "d": "an accumulation of"
+    },
+    "section": "choose the option nearest in meaning to the word(s) or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 74,
     "question": "Typist",
     "option": {
@@ -2698,6 +2717,25 @@
     "category": "others"
   },
   {
+    "id": 197,
+    "question": "The public library has stopped………. books to readers",
+    "option": {
+      "a": "borrowing",
+      "b": "lending ",
+      "c": "renting ",
+      "d": "loaning"
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 198,
     "question": "We won't leave until it ……..  Raining",
     "option": {
@@ -2916,6 +2954,25 @@
       "d": "departmenTAIize"
     },
     "section": "choose the appropriate stress pattern from the options. The syllables are written in capital letters",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 217,
+    "question": "refuse(noun)",
+    "option": {
+      "a": "reform   ",
+      "b": "intact   ",
+      "c": "obscure",
+      "d": "phantom"
+    },
+    "section": "choose the option that has same stress pattern as the given word.",
     "image": "",
     "answer": "d",
     "solution": "",
@@ -3488,6 +3545,25 @@
     "section": "choose the option nearest in meaning to the word or phrase in italics",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 269,
+    "question": "His discovery of the vaccine became a <i>quantum leap</i> in the search for a scientific cure for the illness",
+    "option": {
+      "a": "victorious battle ",
+      "b": "slow but steady step",
+      "c": " great improvement   ",
+      "d": "fast but sure step"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006",
@@ -7505,6 +7581,25 @@
     "category": "others"
   },
   {
+    "id": 560,
+    "question": "Ugo is  <i>eligible</i>  for the post of secretary ",
+    "option": {
+      "a": "nominated",
+      "b": "invited",
+      "c": "qualified ",
+      "d": "intelligent"
+    },
+    "section": "choose the option nearest  in meaning to the word or phrase in Italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 562,
     "question": "Lemoti ………..",
     "option": {
@@ -9781,6 +9876,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 100,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 822,
+    "question": "The army officer said that more ...... would be needed to prosecute the war?",
+    "option": {
+      "a": "guerrilas",
+      "b": "guerrillas",
+      "c": "geurrilas",
+      "d": "geurrillas"
+    },
+    "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 26,
     "hasPassage": 0,
     "category": "others"
   },
@@ -13775,6 +13889,25 @@
     "category": "others"
   },
   {
+    "id": 1165,
+    "question": "The police described the boy as being.....hand",
+    "option": {
+      "a": "over at",
+      "b": "out of",
+      "c": "on by",
+      "d": " up to"
+    },
+    "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "Out of hand means to be out of control.",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 73,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1166,
     "question": "It was very easy for the two political parties to form a .......Government",
     "option": {
@@ -17742,6 +17875,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 57,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1541,
+    "question": "Choose the option that has the same consonant sound as the one represented by the letter(s) emboldened.\n\n<b>J</b>oint",
+    "option": {
+      "a": "dagger",
+      "b": "advantage",
+      "c": "guardian",
+      "d": "mightier"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Joint /dʒɔɪnt/\n\nAdvantage /əd.ˈvɑːn.tɪdʒ/",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 58,
     "hasPassage": 0,
     "category": "others"
   },
