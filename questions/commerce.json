@@ -528,6 +528,22 @@
     "examyear": "2004"
   },
   {
+    "id": 38,
+    "question": "Commerce includes all the occupations concerned with ",
+    "option": {
+      "a": "sales  ",
+      "b": "production",
+      "c": "marketing    ",
+      "d": "distribution "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 39,
     "question": "Factors of production can be described as the",
     "option": {
@@ -1115,6 +1131,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 83,
+    "question": "A major function of a chamber of commerce is",
+    "option": {
+      "a": " increasing productivity",
+      "b": "promoting both home and foreign trade",
+      "c": "promoting trade in a particular line",
+      "d": " maximizing profit."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -3792,6 +3824,22 @@
     "examyear": "2009"
   },
   {
+    "id": 274,
+    "question": "The type of partnership in which all partners are jointly liable in bearing risk is ",
+    "option": {
+      "a": "limited partnership ",
+      "b": "partnership-at will",
+      "c": "ordinary partnership ",
+      "d": "industrial partnership "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 275,
     "question": "The financial instrument that entitles the holder to receive dividend and capital gains is a ",
     "option": {
@@ -5920,6 +5968,22 @@
     "examyear": "2012"
   },
   {
+    "id": 424,
+    "question": "The promotion and protection of trade, industry and agriculture thorugh trade fairs is a function of ",
+    "option": {
+      "a": "NACRDB",
+      "b": "NACCIMA",
+      "c": "the Consumer Protection Council ",
+      "d": "the Chamber of Commerce "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 425,
     "question": "Dealing in quoted securities on the Nigeria Stock Exchange is restricted to authorized ",
     "option": {
@@ -6843,6 +6907,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 493,
+    "question": "The coming together of two or more firms at different stages of production is",
+    "option": {
+      "a": "horizontal merger",
+      "b": "vertical merger",
+      "c": "amalgamation",
+      "d": "cartel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
