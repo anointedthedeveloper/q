@@ -7744,6 +7744,22 @@
     "examyear": "2008"
   },
   {
+    "id": 501,
+    "question": "If sinθ = 3/5. Find Tanθ",
+    "option": {
+      "a": "3/4",
+      "b": "3/5",
+      "c": "2/5",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546229/ALOC-Questions/Mathematics/2008/MATH_2008_Q30_SOLUTION_nstl3z.jpg",
+    "answer": "a",
+    "solution": "sinθ = 3/5\nx2 = 52 - 32",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 502,
     "question": "Find the derivative of y=x<sup>7</sup> −x<sup>7</sup>/ x<sup>4</sup> ",
     "option": {
