@@ -512,6 +512,22 @@
     "examyear": "2010"
   },
   {
+    "id": 83,
+    "question": "Which of the following statements are correct of nuclear fission? During the process \nI. energy is released \nII. More neutrons are released than those that cause fission \nIII. Small nuclei merge into large nuclei \nIV. There is a loss on mass\n",
+    "option": {
+      "a": "II and I only",
+      "b": "III",
+      "c": "I,II and IV",
+      "d": "IV and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 84,
     "question": "Which of the following statements is not true? ",
     "option": {
@@ -1600,6 +1616,22 @@
     "examyear": "2018"
   },
   {
+    "id": 297,
+    "question": "Which of the following may be used to explain a mirage?\nI. Layers of air near the road surface have varying refractive indices in hot weather\nII. Road surfaces sometimes becomes invisible in hot weather\nIII. Light from the sky can be refracted upwards after coming close to the road surface.",
+    "option": {
+      "a": "I and III only",
+      "b": " II and III only",
+      "c": " II only",
+      "d": "I, II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Statements I and III correctly explain mirages through the physics of refraction, while statement II merely describes an observation.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 303,
     "question": "A lead bullet of mass 0.05 kg is fired with a velocity of 200 m/s into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is",
     "option": {
@@ -1644,6 +1676,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nTime elapsed (t) = 120 years\nFraction remaining = 1/64\nHalf-life (T½) = ?\n\nUnderstanding radioactive decay:\nAfter each half-life, half of the material remains.\nStep 1: Determine number of half-lives\nFraction remaining = (1/2)ⁿ\nwhere n = number of half-lives\n1/64 = (1/2)ⁿ\nFinding n:\n64 = 2ⁿ\n2⁶ = 2ⁿ\nn = 6\nSo 6 half-lives have passed.\nStep 2: Calculate half-life\nn × T½ = total time\n6 × T½ = 120 years\nT½ = 120/6\nT½ = 20 years",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 308,
+    "question": "A positively charged rod X is brought near an uncharged metal sphere Y and is then touched by a finger with X still in place. When the finger is removed, the result is that Y has",
+    "option": {
+      "a": " no charge and a zero potential",
+      "b": " no charge and a zero potential",
+      "c": " a negative charge and a positive potential",
+      "d": "a negative charge and a negative potential"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nSolution:\nStep-by-step process:\nStep 1: Positively charged rod X is brought near sphere Y\n\nRod X (positive) repels positive charges in Y\nPositive charges move away from X (to far side)\nNegative charges attracted toward X (near side)\nY is polarized but still neutral overall\n\nStep 2: Sphere Y is touched by finger (grounded) with X still in place\n\nFinger provides path to ground (infinite charge reservoir)\nPositive charges repelled by X escape through finger to ground\nNegative charges remain attracted to near side by rod X\nY now has excess negative charge\n\nStep 3: Finger is removed, then rod X is removed\n\nY retains the negative charge\nWhen X is finally removed, negative charges distribute uniformly over Y\nY has negative charge and therefore negative potential",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1708,6 +1756,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nMass (m) = 800g = 0.8 kg\nInitial velocity (u) = +5 m/s (toward wall)\nFinal velocity (v) = -5 m/s (away from wall, opposite direction)\nImpulse = ?\n\nFormula for impulse:\nImpulse = Change in momentum\nImpulse = m(v - u)\nNote: Since the ball reverses direction, we must consider the sign change.\nCalculating:\nImpulse = 0.8 × (-5 - 5)\nImpulse = 0.8 × (-10)\nImpulse = -8 kgm/s\nMagnitude of impulse:\n|Impulse| = 8 kgm/s\nExplanation:\nThe negative sign indicates direction (force acts opposite to initial motion). The magnitude of impulse is 8 kgm/s.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 325,
+    "question": "A 20kg mass is to be pulled up a slope inclined at 30° to the horizontal. If efficiency of the plane is 75%, the force required to pull the load up the plane is [g = 10ms⁻²]",
+    "option": {
+      "a": "87N",
+      "b": "73.5N",
+      "c": "133.3N",
+      "d": "533.2N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass (m) = 20 kg\nAngle of inclination (θ) = 30°\nEfficiency = 75% = 0.75\ng = 10 m/s²\nEffort (Force) = ?\n\nStep 1: Calculate Load (Total weight)\nLoad = mg\nLoad = 20 × 10 = 200 N\nStep 2: Calculate Velocity Ratio (V.R)\nFor an inclined plane:\nV.R = 1/sin θ = 1/sin 30° = 1/0.5 = 2\nStep 3: Calculate Mechanical Advantage (M.A)\nEfficiency = (M.A / V.R) × 100%\n75 = (M.A / 2) × 100\n75/100 = M.A / 2\nM.A = (75 × 2) / 100\nM.A = 150 / 100 = 1.5\nStep 4: Calculate Force (Effort)\nM.A = Load / Force\n1.5 = 200 / Force\nForce = 200 / 1.5\nForce = 133.3 N",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1982,6 +2046,22 @@
     "solution": "Given information:\n\nCurrent (I) = 1A (r.m.s value)\nFrequency (f) = 800 Hz\nInductance (L) = 2.5mH = 2.5 × 10⁻³ H\nResistance (R) = 5Ω\nPower absorbed = ?\n\nKey principle:\nIn an AC circuit with resistance and inductance:\n\nPower is dissipated only in the resistance\nInductance stores and returns energy (no net power dissipation)\n\nFormula for power absorbed:\nP = I²R\nNote: The inductance affects impedance and phase angle but doesn't dissipate power.\nCalculating power:\nP = I²R\nP = (1)² × 5\nP = 1 × 5\nP = 5W",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 384,
+    "question": "In what range of temperature is the expansion of water anomalous?",
+    "option": {
+      "a": "+208°C to +212°C",
+      "b": " -80°C to -76°C",
+      "c": "0°C to +4°C",
+      "d": "-4°C to +0°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Understanding anomalous expansion of water:\nNormal behavior: Most liquids expand when heated and contract when cooled.\nAnomalous behavior of water:\nBetween 0°C and 4°C, water behaves differently:\n\nWater contracts when heated from 0°C to 4°C (instead of expanding)\nWater expands when cooled from 4°C to 0°C (instead of contracting)\nWater has maximum density at 4°C\nBelow 0°C, water freezes and expands significantly\n\nWhy this matters:\n\nIce floats on water (less dense)\nAquatic life can survive in frozen lakes (ice on top, water below)\nThis anomaly is crucial for life on Earth\n\nAnalysis of options:\nA. +208°C to +212°C:\n\nNear boiling point; normal behavior ✗\n\nB. -80°C to -76°C:\n\nWater is solid (ice) at these temperatures ✗\n\nC. 0°C to +4°C:\n\nThis is the exact range of anomalous expansion ✓\n\nD. -4°C to +0°C:\n\nWater is solid (ice) below 0°C ✗\n\nAnswer: C. 0°C to +4°C",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 397,
@@ -3200,6 +3280,22 @@
     "examyear": "2004"
   },
   {
+    "id": 628,
+    "question": "The diagram above shows forces 4N, 6N, 10N and 8N which act at a point O in the directions indicated. The net horizontal force is",
+    "option": {
+      "a": "13N",
+      "b": "17N",
+      "c": "3N",
+      "d": "7√3N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296034/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_29_hfrs8z.png",
+    "answer": "a",
+    "solution": "Given information:\n\nForce 1: 4N (horizontal, pointing left)\nForce 2: 10N (horizontal, pointing right)\nForce 3: 8N (at 60° above horizontal, pointing right-upward)\nForce 4: 6N (at 60° below horizontal, pointing right-downward)\n\nSolution:\nStep 1: Resolve forces into horizontal components\nTaking rightward as positive direction:\n4N force (horizontal left):\nHorizontal component = -4 N\n10N force (horizontal right):\nHorizontal component = +10 N\n8N force (at 60° above horizontal):\nHorizontal component = 8 cos(60°) = 8 × 0.5 = 4 N\n6N force (at 60° below horizontal):\nHorizontal component = 6 cos(60°) = 6 × 0.5 = 3 N\nStep 2: Calculate net horizontal force\nNet horizontal force = -4 + 10 + 4 + 3\nNet horizontal force = 13 N (rightward)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 634,
     "question": "A person can focus an object only when it lies within 200cm from him. Which spectacles should be used to increase his maximum distance of distinct vision infinity",
     "option": {
@@ -3356,6 +3452,22 @@
     "image": "",
     "answer": "c",
     "solution": "Displacement: Has magnitude and direction (e.g., 5m north)\nTorque: Has magnitude and direction (clockwise/counterclockwise, follows right-hand rule)\n\nBoth displacement and torque are vectors.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 656,
+    "question": "An object is projected from a height of 80 m above the ground with a velocity of 40ms⁻¹ at an angle of 30° to the horizontal. The time of flight [g ≈ 10m/s²]",
+    "option": {
+      "a": "8 s",
+      "b": "6.5 s",
+      "c": "16 s",
+      "d": " 10 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial height, h = 80 m\nInitial velocity, u = 40 ms⁻¹\nAngle of projection, θ = 30°\nAcceleration due to gravity, g = 10 ms⁻²\nTime of flight, t = ?\n\nSolution:\nStep 1: Resolve initial velocity into components\nVertical component: uᵧ = u sin θ\nuᵧ = 40 × sin 30°\nuᵧ = 40 × 0.5\nuᵧ = 20 ms⁻¹ (upward)\nStep 2: Apply vertical motion equation\nUsing: s = uᵧt - ½gt²\nThe object starts at height 80 m and ends at ground level (0 m).\nTaking downward as negative displacement:\ns = -80 m (final position relative to starting point)\nStep 3: Substitute into equation\n-80 = 20t - ½(10)t²\n-80 = 20t - 5t²\n5t² - 20t - 80 = 0\nStep 4: Simplify\nDivide by 5:\nt² - 4t - 16 = 0\nStep 5: Solve quadratic equation\nUsing quadratic formula: t = [-b ± √(b² - 4ac)] / 2a\nWhere a = 1, b = -4, c = -16\nt = [4 ± √(16 + 64)] / 2\nt = [4 ± √80] / 2\nt = [4 ± 8.94] / 2\nt = (4 + 8.94) / 2  or  t = (4 - 8.94) / 2\nt = 6.47 s  or  t = -2.47 s (rejected, negative time)\nt ≈ 6.5 s",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -4044,6 +4156,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nDiameter (d) = 1.00 mm = 1.00 × 10⁻³ m\nLength (L) = 2.00 m\nResistance (R) = 0.1 Ω\nResistivity (ρ) = ?\n\nStep 1: Calculate cross-sectional area\nRadius (r) = d/2 = 0.5 × 10⁻³ m = 5 × 10⁻⁴ m\nArea (A) = πr²\nA = π × (5 × 10⁻⁴)²\nA = π × 25 × 10⁻⁸\nA = 3.14159 × 25 × 10⁻⁸\nA = 78.54 × 10⁻⁸\nA = 7.854 × 10⁻⁷ m²\nStep 2: Use resistance formula\nR = ρL/A\nRearranging for resistivity:\nρ = RA/L\nSubstituting values:\nρ = (0.1 × 7.854 × 10⁻⁷)/2.00\nρ = (0.7854 × 10⁻⁷)/2.00\nρ = 0.3927 × 10⁻⁷\nρ = 3.927 × 10⁻⁸ Ωm\nρ ≈ 3.93 × 10⁻⁸ Ωm",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 794,
+    "question": "The instrument that measures both ac and dc is called",
+    "option": {
+      "a": "A current balance",
+      "b": "a moving coil ammenter",
+      "c": "a moving iron ammeter",
+      "d": "an inverter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A moving iron ammeter can measure both alternating current (AC) and direct current (DC) due to its design, which allows it to respond to the magnetic field created by both types of current.",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -5184,6 +5312,22 @@
     "examyear": "2011"
   },
   {
+    "id": 993,
+    "question": "A length of wire has a frequency of 225 Hz when stretched by a force of 225 N. If the force increased to 324 N, what is the new frequency of vibration?",
+    "option": {
+      "a": "270 Hz",
+      "b": "512 Hz",
+      "c": "488 Hz",
+      "d": "356 Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial tension, T₁ = 225 N\nInitial frequency, f₁ = 225 Hz\nFinal tension, T₂ = 324 N\n\nSolution:\n\nStep 1: Relationship for frequency of a stretched string\nFor a string of fixed length and linear density, frequency f ∝ √T.\nThus, f₂ / f₁ = √(T₂ / T₁)\n\nStep 2: Substitute values\nf₂ / 225 = √(324 / 225)\n\nStep 3: Simplify the square root\n√(324 / 225) = √324 / √225 = 18 / 15 = 6 / 5 = 1.2\n\nStep 4: Calculate f₂\nf₂ = 225 × 1.2 = 270 Hz",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 994,
     "question": "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is",
     "option": {
@@ -5228,6 +5372,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nGiven information:\n\nInitial velocity (u) = 0 m/s (starts from rest)\nAcceleration (a) = 30 m/s²\nTime (t) = 20 s\nDistance (s) = ?\n\nUsing equation of motion:\ns = ut + ½at²\nSubstituting values:\ns = 0(20) + ½(30)(20)²\ns = 0 + ½(30)(400)\ns = ½ × 12,000\ns = 6,000 m\ns = 6 km",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1004,
+    "question": "A rocket is fired from the earth's surface to a distant planet. By Newton's law of universal gravitation, the force F will",
+    "option": {
+      "a": " increase as r reduces",
+      "b": "increase as G varies",
+      "c": " remains constant",
+      "d": "increases as r increases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "By Newton's law of universal gravitation, the gravitational force increases as the distance (r) reduces. This is because gravitational force is inversely proportional to the square of the distance between the objects (F ∝ 1/r²).\nPractical example: As the rocket approaches the distant planet, it experiences increasingly stronger gravitational pull from that planet. Conversely, as it moves away from Earth, Earth's gravitational pull weakens.",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -5932,6 +6092,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nHalf‑life, T₁/₂ = 138.5 s\n\nSolution:\n\nStep 1: Relationship between decay constant and half‑life\nλ = ln 2 / T₁/₂\n\nStep 2: Substitute ln 2 ≈ 0.693\nλ = 0.693 / 138.5\n\nStep 3: Calculate\n0.693 ÷ 138.5 = 0.0050036 ≈ 5.00 × 10⁻³ s⁻¹",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1153,
+    "question": "A wooden block of relative density 0.4 floats in a liquid of density 1600 kg m⁻³. What fraction of its volume is immersed?",
+    "option": {
+      "a": "0.15",
+      "b": "0.1",
+      "c": "0.25",
+      "d": "0.2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nRelative density of wood = 0.4\nDensity of wood = 0.4 × 1000 = 400 kg m⁻³\nDensity of liquid = 1600 kg m⁻³\n\nSolution:\n\nStep 1: Condition for floating\nFor a floating object, weight = upthrust.\nWeight = ρ_wood × V × g\nUpthrust = ρ_liquid × V_immersed × g\n\nStep 2: Cancel g and rearrange\nρ_wood × V = ρ_liquid × V_immersed\nV_immersed / V = ρ_wood / ρ_liquid\n\nStep 3: Substitute values\nV_immersed / V = 400 / 1600 = 0.25",
     "examtype": "utme",
     "examyear": "2025"
   },
