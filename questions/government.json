@@ -6320,6 +6320,22 @@
     "examyear": "2016"
   },
   {
+    "id": 401,
+    "question": "Citizenship of a state by descent requires that",
+    "option": {
+      "a": "one is born and bred in the state",
+      "b": "one’s mother was born in the state",
+      "c": "one’s grandparents were citizens of that state",
+      "d": "one is domiciled in that state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 402,
     "question": "In order to dispense justice impartially, the judiciary primarily needs",
     "option": {
@@ -20636,6 +20652,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Lyttleton Constitution of 1954 was Nigeria’s first federal constitution, establishing a semi-federal system with shared powers between the central government and three regions (Northern, Western, and Eastern). ",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1309,
+    "question": "Under the emirate system,legislative functions were performed by the",
+    "option": {
+      "a": "Khadi",
+      "b": "Ulama",
+      "c": "Hakimi",
+      "d": "Emir"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Emir performed the legislative functions under the emirate system. It should be understood that the laws of emirate were the Islamic or Sharia laws. Where the laws were clear they were to be enforced. But where the Islamic laws were silent. Emirs had power to make laws to provide for peace, orderliness and good government.",
     "examtype": "utme",
     "examyear": "2005"
   },
