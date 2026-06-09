@@ -80,6 +80,38 @@
     "examyear": "2008"
   },
   {
+    "id": 69,
+    "question": "Which is the main crop grown in the Ghezira plains ",
+    "option": {
+      "a": "Wheat  ",
+      "b": "Millet  ",
+      "c": "Rice  ",
+      "d": "Cotton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 86,
+    "question": "The highest volume of shipping across the Atlantic ocean is  ",
+    "option": {
+      "a": "between Europe and Africa  ",
+      "b": "between North America and Europe  ",
+      "c": "between African and South America ",
+      "d": "between North America and South America"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 89,
     "question": "Which of the following location in Nigeria has the least mean annual rainfall total?  ",
     "option": {
@@ -87,6 +119,22 @@
       "b": "Maiduguri  ",
       "c": "Potiskum  ",
       "d": "Nguru"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 104,
+    "question": "A degree latitudinal distance is approximately ",
+    "option": {
+      "a": "70km  ",
+      "b": "111km  ",
+      "c": "180km  ",
+      "d": "360km"
     },
     "section": "",
     "image": "",
@@ -144,6 +192,22 @@
     "examyear": "2011"
   },
   {
+    "id": 130,
+    "question": "Orographic rainfall is also called ",
+    "option": {
+      "a": "Relief rainfall",
+      "b": "cyclonic rainfall ",
+      "c": "convectional rainfall ",
+      "d": "frontal rainfall "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 146,
     "question": "The World’s richest fishing grounds are found  ",
     "option": {
@@ -176,6 +240,38 @@
     "examyear": "2012"
   },
   {
+    "id": 153,
+    "question": "At the summer solstice (June 21), which of the following latitudes will have the shortest night?",
+    "option": {
+      "a": "30 “N  ",
+      "b": "30 “S  ",
+      "c": "50 “N  ",
+      "d": "50 “S"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 159,
+    "question": "Sandstone is metamorphosed into  ",
+    "option": {
+      "a": "Slate  ",
+      "b": "Quartzite  ",
+      "c": "Schiest  ",
+      "d": "Graphite "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 185,
     "question": "A traveler crossing the international Date line from America to Asia at 1.00 P.M. on Saturday, July 13th, 2013, would have to change his watch to 1.00 P.m. on",
     "option": {
@@ -192,6 +288,54 @@
     "examyear": "2013"
   },
   {
+    "id": 197,
+    "question": "The capital of Niger state in Nigeria is: ",
+    "option": {
+      "a": "Gusau",
+      "b": "Yola",
+      "c": "Makurdi",
+      "d": "Minna"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 204,
+    "question": "Orographic rainfall is a:   ",
+    "option": {
+      "a": "Temperate rainfall",
+      "b": "Relief rainfall. ",
+      "c": "Coastal rainfall",
+      "d": "Forest rainfall.   "
+    },
+    "section": "b",
+    "image": "",
+    "answer": "",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 220,
+    "question": "The act of graphical representation of places with identified scale and legend is called ",
+    "option": {
+      "a": "Scaling ",
+      "b": "Mapping  ",
+      "c": "Sketching ",
+      "d": "Drawing "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 230,
     "question": "……...Refers to the nature of the surface of an area and the features that abound therein above the sea level",
     "option": {
@@ -203,6 +347,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 231,
+    "question": "Any buoyant parcel of air is said to exhibit ________. ",
+    "option": {
+      "a": "Instability ",
+      "b": "The dry adiabatic lapse rate ",
+      "c": "The moist adiabatic lapse rate ",
+      "d": "Advection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme-aaua",
     "examyear": "2014"
@@ -247,6 +407,22 @@
       "b": "International port",
       "c": "Sea port",
       "d": "Jetty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 272,
+    "question": "Which of the following minerals is produced in Niger Republic?",
+    "option": {
+      "a": "Uranium",
+      "b": "Crude oil",
+      "c": "Copper",
+      "d": "Tin and Columbite"
     },
     "section": "",
     "image": "",
@@ -320,6 +496,38 @@
     "examyear": "2017"
   },
   {
+    "id": 357,
+    "question": "What is a typical farmer in the Susan Savannah of Nigeria most likely to be doing in June?",
+    "option": {
+      "a": "Taking part in a fishing festival",
+      "b": "Clearing his land for planting",
+      "c": "Resting because he has less to do",
+      "d": "Planting his main cash crop"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 359,
+    "question": "Which of the following is a correct pair?",
+    "option": {
+      "a": "River/Cut-off",
+      "b": "Glacier/Erratic boulder",
+      "c": "Limestone/Pass",
+      "d": "Desert/Cavern"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 360,
     "question": "With which of the following processes are drumlins boulder clay and terminal moraines associated?",
     "option": {
@@ -368,6 +576,22 @@
     "examyear": "2019"
   },
   {
+    "id": 386,
+    "question": "An igneous rock with distinct grains of mica feldspar and quartz is",
+    "option": {
+      "a": "Basalt",
+      "b": "Granite",
+      "c": "Schist",
+      "d": "Rhyolite"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 409,
     "question": "The progressive widening of joints and cracks in limestone by solutions, initially lead to the formation of ",
     "option": {
@@ -379,6 +603,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 414,
+    "question": "In what order do the following occur from the surface to the bottom of an oil well?",
+    "option": {
+      "a": "Gas, water, oil",
+      "b": "Gas, oil, water",
+      "c": "Oil, water, gas",
+      "d": "Oil, gas, water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 421,
+    "question": "The most important determinants of air temprature of a region are",
+    "option": {
+      "a": "Latitude and altitude",
+      "b": "Evaporationa and sunshine hours",
+      "c": "Wind and air mass",
+      "d": "Rainfall and humidity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
