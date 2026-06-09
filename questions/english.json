@@ -1558,6 +1558,25 @@
     "category": "others"
   },
   {
+    "id": 130,
+    "question": "<i>Funnily enough,</i> the priest prayed for the robber who shot him.",
+    "option": {
+      "a": "Timidly",
+      "b": "Unexpectedly",
+      "c": "Disappointingly",
+      "d": "Fearlessly."
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 131,
     "question": "The presence of the captain makes the sailors <i>ill at ease</i>.",
     "option": {
@@ -6874,6 +6893,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 651,
+    "question": "Three quarter of the hostel ........ been painted and three quarter of the students ...... moved in.",
+    "option": {
+      "a": "has/ has",
+      "b": "has /have",
+      "c": "hace / has",
+      "d": "have / have"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "Have is the root verb and is generally used alongside the pronoun I / You / We / Ye and They and plural noun. Generally, have is a present tense word. Has is used alongside the PRONOUNS He / She / It and Who and SINGULAR NOUNS.\n\nHence the sentence would read;\nThree quarter of the hostel has  been painted and three quarter of the students have  moved in.",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 55,
     "hasPassage": 0,
     "category": "others"
   },
@@ -15880,6 +15918,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 17,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1631,
+    "question": "He suddenly found himself in the thick of the situation",
+    "option": {
+      "a": "He did not agree with the situation",
+      "b": "He used his experience to settle the sitution",
+      "c": "He saved himself out of the situation",
+      "d": "He found himself deeply involved in the situation"
+    },
+    "section": "For this question, select the option that best explains the information conveyed in the question.",
+    "image": "",
+    "answer": "d",
+    "solution": "be in the thick of something means = to be very involved at the busiest or most active stage of a situation or activity",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 19,
     "hasPassage": 0,
     "category": "others"
   },
