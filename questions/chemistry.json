@@ -32,6 +32,22 @@
     "examyear": "2001"
   },
   {
+    "id": 20,
+    "question": "Which of the following best explains the increase in the rate of a chemical reaction as the temperature rises",
+    "option": {
+      "a": "The bonds in the reacting molecules are more readily broken",
+      "b": "The molecules collisions become more violent",
+      "c": "A lower proportion of the molecules has the necessary minimum energy to react",
+      "d": "The collision frequency of the molecules increases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 24,
     "question": " 2SO2(g) + O2(g) ⇌  2SO3(g)  The equilibrium constant for the reaction above is increased by  [ΔH = -189kJ mol -1]",
     "option": {
@@ -48,6 +64,70 @@
     "examyear": "2001"
   },
   {
+    "id": 34,
+    "question": "Catalytic hydrogenation of benzene produces",
+    "option": {
+      "a": "Oil",
+      "b": "Cyclohexane",
+      "c": "Cycloexane",
+      "d": "Margarine"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 44,
+    "question": "When sodium reacts with water, the resulting solution is",
+    "option": {
+      "a": "weakly acdic",
+      "b": "neutral",
+      "c": "acidic",
+      "d": "alkaline"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 48,
+    "question": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from",
+    "option": {
+      "a": "699C – 700C",
+      "b": "820C – 840C",
+      "c": "600C – 780C",
+      "d": "700C – 744C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 62,
+    "question": "The processes which return carbon(IV) oxide to the atmosphere include",
+    "option": {
+      "a": "Photosynthesis, decay and respiration",
+      "b": "Photosynthesis, respiration and transpiration",
+      "c": "Respiration, decay and combustion",
+      "d": "Ozone, depletion, combustion and decay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 72,
     "question": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate(VI) is",
     "option": {
@@ -62,6 +142,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 82,
+    "question": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to",
+    "option": {
+      "a": "Decrease",
+      "b": "Increase",
+      "c": "Remain constant",
+      "d": "Be zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 87,
@@ -112,6 +208,38 @@
     "examyear": "2004"
   },
   {
+    "id": 132,
+    "question": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecule is its",
+    "option": {
+      "a": "Electrovalency",
+      "b": "Electron affinity",
+      "c": "Electropositivity",
+      "d": "Electronegativity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 133,
+    "question": "Chlorine consisting of two isotopes of mass numbers 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotope of mass number 37.",
+    "option": {
+      "a": "20",
+      "b": "25",
+      "c": "60",
+      "d": "75"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 137,
     "question": "A carcinogenic substance is",
     "option": {
@@ -151,6 +279,38 @@
       "b": "NaSO4",
       "c": "NaHCO3",
       "d": "Na2CO3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 151,
+    "question": "The allotrope of carbon used in the decolourization of sugar is",
+    "option": {
+      "a": "Graphite",
+      "b": "Soot",
+      "c": "Charcoal",
+      "d": "Lampblack"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 157,
+    "question": "Alloys are best prepared by",
+    "option": {
+      "a": "Electroplating",
+      "b": "Arc-welding",
+      "c": "Reducing a mixture of their metallic oxides",
+      "d": "Cooling a molten mixture of the metals"
     },
     "section": "",
     "image": "",
@@ -219,6 +379,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 241,
+    "question": "Nigerian crude oil is described as light crude because of its",
+    "option": {
+      "a": "Low aliphatic hydrocarbon content",
+      "b": "Low sulphur content",
+      "c": "High natural gas content",
+      "d": "High octane number"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -295,6 +471,22 @@
       "b": "Sand",
       "c": "Washing soda",
       "d": "Common salt"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 275,
+    "question": "Carbon (II) oxide is considered dangerous if inhaled mainly because it",
+    "option": {
+      "a": "Competes with oxygen in the blood",
+      "b": "Competes with carbon (IV) oxide in the blood",
+      "c": "Can cause lung cancer",
+      "d": "Can cause injury to the nervous system"
     },
     "section": "",
     "image": "",
@@ -464,6 +656,22 @@
     "examyear": "2016"
   },
   {
+    "id": 384,
+    "question": "Ethanol is soluble in water due to the presence of a",
+    "option": {
+      "a": "Carbonyl group",
+      "b": "Hydroxyl group",
+      "c": "Phenyl group",
+      "d": "Methyl group"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Ethanol (C₂H₅OH) is soluble in water because of its hydroxyl group (-OH), which forms hydrogen bonds with water molecules. The -OH group is polar and interacts strongly with the polar water molecules, allowing ethanol to mix with water in all proportions.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 386,
     "question": "The drying agent suitable for drying ammonia is",
     "option": {
@@ -544,6 +752,22 @@
     "examyear": "2017"
   },
   {
+    "id": 431,
+    "question": "The enzyme used in the hydrolysis of starch to dextrin and maltose is",
+    "option": {
+      "a": "lipase",
+      "b": "amylase",
+      "c": "invertase",
+      "d": "zymase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Amylase catalyses the hydrolysis of starch, breaking the glycosidic bonds to produce dextrin (intermediate) and then maltose. Salivary and pancreatic amylase perform this function in digestion. Lipase digests fats; invertase hydrolyses sucrose; zymase converts sugars to ethanol.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 442,
     "question": "An oxide XO₂ has a vapour density of 32. What is the atomic mass of X?",
     "option": {
@@ -588,6 +812,22 @@
     "image": "",
     "answer": "a",
     "solution": "Ethene (C₂H₄) is a natural plant hormone that accelerates the ripening of fruits. It is produced naturally by fruits and is also used commercially to ripen fruits uniformly after harvesting. The other gases (propane, methane, butane) are simple fuel gases with no ripening function.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 468,
+    "question": "A basic postulate of the kinetic theory of gases is that the molecules of a gas move in straight lines between collisions. This implies that",
+    "option": {
+      "a": "collisions are perfectly elastic",
+      "b": "forces of repulsion exist",
+      "c": "forces of repulsion and attraction are in equilibrium",
+      "d": "collisions are inelastic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Gas molecules moving in straight lines between collisions implies there are no intermolecular forces acting on them during flight. The fact that they bounce off each other and the walls without loss of kinetic energy means the collisions are perfectly elastic. This is a key postulate of the kinetic theory of ideal gases.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -640,6 +880,22 @@
     "examyear": "2018"
   },
   {
+    "id": 503,
+    "question": "The constituent common to duralumin and alnico is",
+    "option": {
+      "a": "Co",
+      "b": "Mn",
+      "c": "Al",
+      "d": "Mg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Duralumin is an alloy of Al, Cu, Mg, and Mn. Alnico is an alloy of Al, Ni, and Co. The only element common to both alloys is Aluminium (Al).",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 507,
     "question": "The IUPAC name for CH₃CH₂COOCH₂CH₃ is",
     "option": {
@@ -684,6 +940,22 @@
     "image": "",
     "answer": "d",
     "solution": "Water (H₂O) has 2 bonding pairs and 2 lone pairs on the central oxygen atom. Lone pair–lone pair repulsion compresses the bond angle from the ideal tetrahedral 109.5° to approximately 105°, giving water a bent/V-shape. Answer: D.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 539,
+    "question": "A radioactive nucleus has a half-life of 20 years, starting with 100,000 particles, how many particles will be left exactly at the end of 40 years",
+    "option": {
+      "a": "75,000 particles",
+      "b": "35,000 particles",
+      "c": "25,000 particles",
+      "d": "50,000 particles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Number of half-lives in 40 years = 40 ÷ 20 = 2. Remaining particles = 100,000 × (½)² = 100,000 × ¼ = 25,000 particles. Answer: C.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -832,6 +1104,38 @@
     "examyear": "2021"
   },
   {
+    "id": 604,
+    "question": "The atomic weight of nitrogen is?",
+    "option": {
+      "a": "10",
+      "b": "12",
+      "c": "14",
+      "d": "16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nitrogen (N) has an atomic number of 7 and a relative atomic mass (atomic weight) of 14. This value reflects that the most abundant isotope of nitrogen is ¹⁴N, which contains 7 protons and 7 neutrons. Atomic weight 12 belongs to carbon, and 16 belongs to oxygen.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 617,
+    "question": "The most abundant rare gas in the atmosphere is?",
+    "option": {
+      "a": "He",
+      "b": "Ne",
+      "c": "Ar",
+      "d": "Xe"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Argon (Ar) is the most abundant noble (rare) gas in the atmosphere, making up approximately 0.93% of dry air by volume. It is the third most abundant gas in the atmosphere after nitrogen and oxygen. Helium, neon, and xenon are present in much smaller quantities.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 634,
     "question": "The process by which salt and water react in a limited way to form an acid or a base is?",
     "option": {
@@ -912,6 +1216,22 @@
     "examyear": "2022"
   },
   {
+    "id": 664,
+    "question": "Which of the following best represents a solid-gas mixture?",
+    "option": {
+      "a": "milk",
+      "b": "kerosene",
+      "c": "soil",
+      "d": "smoke"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Smoke is a colloidal dispersion of solid particles (soot, ash, carbon) in a gaseous medium (air). It is classified as a solid-in-gas colloid, also known as an aerosol. Milk is a liquid-in-liquid colloid (emulsion), kerosene is a pure liquid, and soil is a solid mixture with no gas as the dispersing medium.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 665,
     "question": "H⁺ + OH⁻ → H₂O. The equation above illustrates?",
     "option": {
@@ -944,6 +1264,38 @@
     "examyear": "2023"
   },
   {
+    "id": 683,
+    "question": "Which of the following is an example of an endothermic reaction?",
+    "option": {
+      "a": "Combustion of propane (C₃H₈) to produce carbon dioxide (CO₂) and water (H₂O).",
+      "b": "Burning of methane (CH₄) in the presence of oxygen",
+      "c": "Formation of table salt (NaCl) from sodium (Na) and chlorine (Cl₂).",
+      "d": "Decomposition of hydrogen peroxide (H₂O₂) into water (H₂O) and oxygen (O₂)."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An endothermic reaction absorbs heat energy from the surroundings (ΔH is positive). The decomposition of hydrogen peroxide (2H₂O₂ → 2H₂O + O₂) is endothermic — energy must be supplied to break the O-O bonds in H₂O₂. Combustion of propane, burning of methane, and formation of sodium chloride are all exothermic reactions that release heat energy.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 687,
+    "question": "Which trace gas in the atmosphere plays a significant role in the greenhouse effect?",
+    "option": {
+      "a": "Oxygen",
+      "b": "Argon",
+      "c": "Carbon dioxide",
+      "d": "Nitrogen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Carbon dioxide (CO₂) is a trace gas (about 0.04% of the atmosphere) that plays a major role in the greenhouse effect. It absorbs infrared radiation emitted from the earth's surface and re-radiates it, trapping heat in the atmosphere. Nitrogen and oxygen make up most of the atmosphere but do not absorb infrared radiation significantly. Argon is chemically inert and does not contribute to the greenhouse effect.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 698,
     "question": "What is the product of the electrolysis of aqueous sodium chloride (NaCl) using inert electrodes?",
     "option": {
@@ -972,6 +1324,38 @@
     "image": "",
     "answer": "a",
     "solution": "Calcium (Ca) has atomic number 20 and electron configuration [Ar] 4s². It is in Group IIA (Group 2) of the periodic table, known as the alkaline earth metals. This group includes beryllium, magnesium, calcium, strontium, barium, and radium. Alkali metals are Group IA, halogens are Group VIIA, and noble gases are Group VIII/0.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 707,
+    "question": "Which of the following is a primary constituent of crude oil?",
+    "option": {
+      "a": "Pentane",
+      "b": "Ethanol",
+      "c": "Heptane",
+      "d": "Methane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Crude oil is a complex mixture of hydrocarbons. Heptane (C₇H₁₆) is a significant and representative primary constituent of crude oil, used as a reference compound in the octane rating scale (heptane = 0 octane rating). Pentane is also present in crude oil but heptane is more commonly cited as a primary constituent. Ethanol is not a constituent of crude oil, and methane is the main component of natural gas rather than crude oil.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 712,
+    "question": "What type of reaction is involved in the formation of alkanols from alkenes?",
+    "option": {
+      "a": "Elimination reaction",
+      "b": "Redox reaction",
+      "c": "Substitution reaction",
+      "d": "Addition reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Alkanols (alcohols) are formed from alkenes by the addition of water across the C=C double bond in a reaction called hydration. For example: CH₂=CH₂ + H₂O → CH₃CH₂OH. This is an addition reaction because atoms are added across the double bond without any atoms being removed. The reaction requires a catalyst (concentrated H₂SO₄ or H₃PO₄) and heat.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -1020,6 +1404,22 @@
     "image": "",
     "answer": "d",
     "solution": "Potassiumhexacyanoferrate(II) contains Fe²⁺. The hexacyano complex [Fe(CN)₆]⁴⁻ has a 4− charge (since Fe is +2 and 6 CN⁻ each contribute −1, total = +2 − 6 = −4). To balance, 4 K⁺ ions are needed. The correct formula is K₄Fe(CN)₆. K₃Fe(CN)₆ is potassiumhexacyanoferrate(III) which contains Fe³⁺.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 742,
+    "question": "In the graph above, y represents ",
+    "option": {
+      "a": "endothermic reaction",
+      "b": "activation energy",
+      "c": "exothermic reaction",
+      "d": "ionization energy"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777640487/ALOC-Questions/Chemistry/UTME/2024/Chemistry_2024_Q28_q3tdxs.png",
+    "answer": "b",
+    "solution": "In an energy profile diagram, the activation energy is the minimum energy required for a reaction to occur. It is represented by the energy difference between the reactants and the peak of the curve (transition state). Arrow y in the diagram points from the reactant energy level up to the peak (t), which represents the activation energy. ΔH represents the overall energy change between reactants and products.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -1120,6 +1520,22 @@
     "examyear": "2025"
   },
   {
+    "id": 769,
+    "question": "The products of the thermal decomposition of ammonium trioxonitrate(v) are",
+    "option": {
+      "a": "N₂O and H₂O",
+      "b": "NO₂ and H₂O",
+      "c": "N₂O and O₂",
+      "d": "NO₃ and H₂O"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ammonium trioxonitrate(v) is NH₄NO₃. On gentle heating it decomposes as: NH₄NO₃ → N₂O + 2H₂O. The products are dinitrogen oxide (N₂O) and water vapour.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 770,
     "question": "2X + 2HCl → 2XCl + H₂. In the equation above, X is",
     "option": {
@@ -1148,6 +1564,38 @@
     "image": "",
     "answer": "d",
     "solution": "Diagonal relationships exist between: Li and Mg, Be and Al, B and Si. These pairs share similar properties due to similar charge density. B and Si is a recognised diagonal pair, making D the correct answer.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 777,
+    "question": "Acid radicals are present in",
+    "option": {
+      "a": "CO₃²⁻, PO₄³⁻, Mg²⁺",
+      "b": "CO₃²⁻, SO₄²⁻, Na⁺",
+      "c": "CO₃²⁻, SO₄²⁻, NO₃⁻",
+      "d": "CO₃²⁻, SO₄²⁻, K⁺"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Acid radicals are negatively charged ions (anions) derived from acids. CO₃²⁻ (from H₂CO₃), SO₄²⁻ (from H₂SO₄), and NO₃⁻ (from HNO₃) are all acid radicals. Options A, B, and D each contain a cation (Mg²⁺, Na⁺, K⁺) which are basic radicals, not acid radicals.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 781,
+    "question": "Alkenes are represented with the general molecular formula",
+    "option": {
+      "a": "CₙH₂ₙ",
+      "b": "CₙH₂ₙ₋₂",
+      "c": "CₙH₂ₙ₊₂",
+      "d": "CₙH₂ₙ₊₁OH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Alkenes contain one C=C double bond and have the general formula CₙH₂ₙ. CₙH₂ₙ₊₂ is for alkanes, CₙH₂ₙ₋₂ is for alkynes, and CₙH₂ₙ₊₁OH is for alkanols.",
     "examtype": "utme",
     "examyear": "2025"
   },
