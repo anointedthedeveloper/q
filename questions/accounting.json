@@ -96,6 +96,22 @@
     "examyear": "2013"
   },
   {
+    "id": 72,
+    "question": "A business shows total debtors' balance of N400,000 in its ledger at the end of its financial customer owing N40,00 are bankrupt, and there is no  possibility of getting the debt paid. A further 2% of the debt is considered doubtful. What debtor’ total will be included as a current asset in the balance sheet? ",
+    "option": {
+      "a": "N400,000  ",
+      "b": "N352,800  ",
+      "c": "N352, 000  ",
+      "d": "N36, 200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 75,
     "question": " Impersonal accounts contain ",
     "option": {
@@ -288,6 +304,22 @@
     "examyear": "2016"
   },
   {
+    "id": 142,
+    "question": "A proprietor started business with N13, 000.  Assets and liabilities at the end of the year; fixed assets N8, 800, stock N2, 600, debtors  N1 , 000, cash N3, 000 and creditors N1 , 000. Determine the profit for the year?",
+    "option": {
+      "a": "N2, 400",
+      "b": "N3, 000",
+      "c": "N9, 800",
+      "d": "N 1 , 400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 144,
     "question": "When goods are sent to the branch at cost plus mark­up, it means that the branch should sell at",
     "option": {
@@ -432,6 +464,22 @@
     "examyear": "2016"
   },
   {
+    "id": 167,
+    "question": "The difference between book keeping and accounting is that while",
+    "option": {
+      "a": "book keeping interprets data accounting records it",
+      "b": "book keeping is regarded as  the language of the business, accounting ascertains its .strength and weakness",
+      "c": "book keeping records data accounting interprets it",
+      "d": "book keeping - summaries information, accounting communicates it."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 168,
     "question": "Alaka who owed Saka N15, 000, settled his deb  after- deducting cash discount of 10%. To record the discount in the book of Saka, debit",
     "option": {
@@ -491,6 +539,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 175,
+    "question": "Subscription in advance is treated in the Balance Sheet of \tnon-profit making organizations as",
+    "option": {
+      "a": "current asset",
+      "b": "fixed asset",
+      "c": "Current liability",
+      "d": "accumulated fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -1200,6 +1264,22 @@
     "examyear": "2004"
   },
   {
+    "id": 405,
+    "question": "The balancing figure in the purchases ledger control account is",
+    "option": {
+      "a": "N 15,828",
+      "b": "N 15,720",
+      "c": "N 14,940",
+      "d": "N 14,694"
+    },
+    "section": "Opening balance [N 10,640 ]; Purchases [N 26,912 ]; Returns inwards [N 492 ]; Returns outwards [N 810 ]; Cash discount received [N 1,348 ]; Cash discount allowed [N 1,560 ]; Cash paid to suppliers [N 20,808 ] ",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 411,
     "question": "What is the figure for purchases?",
     "option": {
@@ -1371,6 +1451,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 451,
+    "question": "The lighting charge to be apportioned to Zema is",
+    "option": {
+      "a": "N 891",
+      "b": "N 819",
+      "c": "N 927",
+      "d": "N 975"
+    },
+    "section": "Lighting [N2, 925]; Rent [ N2, 640]; Salary [N4, 050] The expenses are for three different products: Zema, Zeta and Zera. They are apportioned on the basis of production. 4500 units of the products are produced, out of which 1260 and 2060 units are for Zema and Zeta respectively.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -1724,6 +1820,22 @@
     "image": "",
     "answer": "d",
     "solution": "A cash discount is a deduction allowed by some sellers of goods or by some providers of services in order to motivate customers to pay within a specified time. The cash discount is also referred to as an early payment discount.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 589,
+    "question": "The costs of acquiring fixed assets and bringing them into the firm is a",
+    "option": {
+      "a": "general expenses",
+      "b": "recurrent expenditure",
+      "c": " revenue expenditure",
+      "d": " capital expenditure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Capital expenditure; money spent by a business or organization on acquiring or maintaining fixed assets, such as land, buildings, and equipment.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -2096,6 +2208,22 @@
     "examyear": "2018"
   },
   {
+    "id": 716,
+    "question": "Show how the following transaction will be recorded applying the double-entry principle:\nRent ₦50,000 was paid by Mr. Roi to his landlord on 1st July 2017 by cheque.",
+    "option": {
+      "a": " Dr Rent A/c; Dr Bank A/c",
+      "b": " Dr Bank A/c; Cr Rent A/c",
+      "c": "Dr Rent A/c; Cr Bank A/c",
+      "d": "Dr Rent A/c; Cr Mr. Roi"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In the double-entry principle, we debit income and credit expenses.\n\nThe rent account will be debited with the sum of ₦50,000 in regards to the landlord (because money has been paid in as rent, e.i income), while the bank column will be credited with N50,000 (money has gone out of Mr. Rio bank account via the cheque that was issued to the landlord)",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 719,
     "question": "Accounts can be classified into",
     "option": {
@@ -2238,6 +2366,22 @@
     "solution": "Share issued at discount is a situation whereby shares are quoted below the nominal value.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 766,
+    "question": "Which of the following accounting records are source documents?",
+    "option": {
+      "a": " journals and ledgers",
+      "b": "sales invoice and debit note",
+      "c": "sales invoice and cashbook",
+      "d": " cashbook and debit note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Source documents are the original vouchers evidencing that a transaction has occurred. A sales invoice and a debit note are both such vouchers. In contrast, journals, ledgers, and the cashbook are accounting records prepared from those source documents.",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 767,
@@ -2480,6 +2624,22 @@
     "examyear": "2021"
   },
   {
+    "id": 836,
+    "question": "Use the information below to answer this question\nAt the end of a financial period, the trading profit and loss account of a sole trader shows a profit of \n₦180,000 it is however discovered that revenue of \n₦15,000 is recorded as expenses while expenses of\n₦4,000 is recorded as revenue.\n\nDetermine the adjusted net profit",
+    "option": {
+      "a": "₦202,000",
+      "b": "₦210,000",
+      "c": "₦195,000",
+      "d": "₦184,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The net profit is understated by ₦22,000 (₦15,000 mis‐posted revenue → expense: −2×15,000 = −30,000; ₦4,000 mis‐posted expense → revenue: +2×4,000 = +8,000), so:\n\n\nAdjusted Net Profit = ₦180,000 + 22,000 = ₦202,000",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 847,
     "question": "The excess of income over expenditure is usually transferred to the?",
     "option": {
@@ -2492,6 +2652,22 @@
     "image": "",
     "answer": "a",
     "solution": "In not‑for‑profit organizations, any surplus (excess of income over expenditure) is not taken to a Profit and Loss Account but is transferred to the Accumulated Fund, which represents the retained surpluses of the organization.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 849,
+    "question": "Statement of assets and liabilities as at 31st December, 2001.\n\nShareholders' interest ₦240\n\nCurrent liabilities ₦20\n\nCurrent assets ₦110\n\nFixed assets ₦140\nWhat is the networking capital?",
+    "option": {
+      "a": "₦90",
+      "b": "₦70",
+      "c": "₦100",
+      "d": "₦80"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Working capital (also called net working capital) is calculated as Current Assets minus Current Liabilities.\nWorking Capital = Current Assets - Current Liabilities\nWorking Capital = ₦110 - ₦20 = ₦90\nThe working capital is ₦90.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -3440,6 +3616,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1194,
+    "question": "The gross profit on manufactured goods is the difference between the cost of goods manufactured and the?",
+    "option": {
+      "a": "market value of goods produced",
+      "b": "prime cost of production",
+      "c": "indirect cost of production",
+      "d": "goods produced"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reason: Gross profit on manufactured goods = Selling price (market value) of goods produced − Cost of goods manufactured.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1201,
     "question": "Given:\n\nCapital at start.......................₦3250\n\nCapital at close ......................₦6250\n\nAdditional capital during the period...₦1000\n\n\n\nCalculate the profit or loss?",
     "option": {
@@ -3600,6 +3792,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1239,
+    "question": "<b>Use the information below to answer question 25 and 26.</b>\nBar opening stock ₦10,000\nAmount owed to bar suppliers at\nthe end the beginning of the year ₦10,000\nBar sales ₦50,000\nBar credit purchases ₦40,000\nPayment to suppliers ₦30,000\nBar expenses ₦1,000\nBar closing stock ₦15,000\n\nWhat is the bar profits?",
+    "option": {
+      "a": "₦20,000",
+      "b": "₦15,000",
+      "c": "₦14,000",
+      "d": "₦10,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To calculate bar profit, Prepare a Trading and Profit & Loss Account:\nStep 1: Calculate Cost of Goods Sold\nCost of Goods Sold = Opening Stock + Purchases - Closing Stock\nCost of Goods Sold = ₦10,000 + ₦40,000 - ₦15,000 = ₦35,000\nStep 2: Calculate Gross Profit\nGross Profit = Sales - Cost of Goods Sold\nGross Profit = ₦50,000 - ₦35,000 = ₦15,000\nStep 3: Calculate Net Profit (Bar Profit)\nNet Profit = Gross Profit - Expenses\nNet Profit = ₦15,000 - ₦1,000 = ₦14,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1242,
     "question": "<b>Use the information below to answer questions 28 and\n29</b>\n\nSubscription received during the year ₦30,000\nSubscription owed last year ₦4,000\nSubscription received for next year ₦6,000\n\nThe ₦6,000 subscription received is?",
     "option": {
@@ -3612,6 +3820,22 @@
     "image": "",
     "answer": "b",
     "solution": "The ₦6,000 subscription received for next year is a current liability.\n\n\nWhen an organization receives money for subscriptions that relate to the following year, it creates an obligation to provide services in the future. This is known as \"unearned revenue\" or \"deferred income.\"\n\nThe organization has received cash (₦6,000)\nBut it has not yet provided the service/benefit for next year\nTherefore, it owes a service to the subscribers\nThis creates a liability that must be settled by providing the service next year\nSince it will be settled within one year, it's a current liability\n\nThis amount would typically be shown on the balance sheet as \"Subscriptions Received in Advance\" or \"Unearned Subscription Income\" under current liabilities.\nNext year, when the service period begins, this liability will be transferred to subscription income in the profit and loss account.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1246,
+    "question": "The excess of income over expenditure is usually transferred to the?",
+    "option": {
+      "a": "accumulated fund",
+      "b": "profit and loss account",
+      "c": "current assets in the balance sheet",
+      "d": " current liabilities in the balance sheet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The excess of income over expenditure is usually transferred to the accumulated fund.\n\nIn non-profit organizations (like clubs, societies, associations):\n\nThe accumulated fund is equivalent to capital in a commercial business\nIt represents the net worth or fund balance of the organization\nAny surplus (excess of income over expenditure) increases this fund\nAny deficit (excess of expenditure over income) reduces this fund\nIt appears in the balance sheet as part of the organization's equity",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -3708,6 +3932,22 @@
     "image": "",
     "answer": "b",
     "solution": "Factory overhead includes all indirect manufacturing costs. From the items listed, the factory overheads are:\n\nDepreciation of plant and machinery: ₦1,600\n\nFactory rent: ₦650\n\nIndirect wages: ₦695\n\nGeneral indirect expenses: ₦726\n\nLubricants: ₦1,235\n\nFactory power: ₦350\n\n(Carriage inwards is part of materials cost, and bank charges & carriage outwards are non-manufacturing.)\n\nSumming the factory overheads:\n\n1,600 + 650 + 695 + 726 + 1,235 + 350 = ₦5,256",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1287,
+    "question": "The simplest form of single entry procedure consists fo keeping a?",
+    "option": {
+      "a": "day book or general journal",
+      "b": "cash book and ledger accounts showing debtors and creditors balances",
+      "c": "cash journal, sales journal and purchases journal",
+      "d": "day book in which transactions are described in chronological order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The cash book records all cash receipts and payments\nSimple receivables/payables ledgers track what’s owed by customers and to suppliers without full double‐entry records",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -4108,6 +4348,22 @@
     "image": "",
     "answer": "b",
     "solution": "To calculate the interest on Baker's drawings, determine the period each drawing was outstanding and apply the 6% annual interest rate.\nGiven information:\n\nBaker drew ₦14,000 in four equal installments\nEach installment = ₦14,000 ÷ 4 = ₦3,500\nDrawing dates: 31/3, 30/6, 30/9, and 31/12\nInterest rate: 6% per annum\n\nCalculation of interest on each drawing:\nDrawing on 31/3:\n\nAmount: ₦3,500\nPeriod outstanding: 9 months (April to December)\nInterest = ₦3,500 × 6% × 9/12 = ₦157.50\n\nDrawing on 30/6:\n\nAmount: ₦3,500\nPeriod outstanding: 6 months (July to December)\nInterest = ₦3,500 × 6% × 6/12 = ₦105.00\n\nDrawing on 30/9:\n\nAmount: ₦3,500\nPeriod outstanding: 3 months (October to December)\nInterest = ₦3,500 × 6% × 3/12 = ₦52.50\n\nDrawing on 31/12:\n\nAmount: ₦3,500\nPeriod outstanding: 0 months (drawn at year end)\nInterest = ₦0\n\nTotal interest on Baker's drawings:\n₦157.50 + ₦105.00 + ₦52.50 + ₦0 = ₦315.00\nThe interest on Baker's drawings is ₦315.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1404,
+    "question": "The ordinary shareholders enjoy the following rights except the right to?",
+    "option": {
+      "a": "vote at annual general meetings",
+      "b": "elect the board of directors",
+      "c": "participate in additional issues of shares",
+      "d": "receive dividends at a preddetermined rate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ordinary shareholders have all of those rights except the right to receive dividends at a predetermined rate. Dividends for ordinary shares are declared at the discretion of the board and vary with the company’s profitability and dividend policy.",
     "examtype": "utme",
     "examyear": "199"
   },
