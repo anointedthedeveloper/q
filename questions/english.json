@@ -1482,6 +1482,25 @@
     "category": "others"
   },
   {
+    "id": 159,
+    "question": "if I visited England, I might go to Manchester City ",
+    "option": {
+      "a": "When I go to England, I could go to Manchester City",
+      "b": "Whenever I visit England, I must go to Manchester City",
+      "c": "I did not go to England and could not go to Manchester City",
+      "d": "I could not visit Manchester City because I did not want to go to England."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 160,
     "question": "The man puts his foot down whenever he is convince of his action",
     "option": {
@@ -7657,6 +7676,25 @@
     "category": "others"
   },
   {
+    "id": 930,
+    "question": "Mrs. Asio wanted her sister to stop being so <u>detached</u>?",
+    "option": {
+      "a": "friendly",
+      "b": "careless",
+      "c": "indifferent",
+      "d": "passionate"
+    },
+    "section": "<b>In each of the questions 34 to 48, Choose the option nearest in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "Detached: separate or disconnected.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 35,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 931,
     "question": "Lantana <u>dwelt</u> in a ruined cottage on the hillside?",
     "option": {
@@ -9519,6 +9557,25 @@
     "category": "others"
   },
   {
+    "id": 1152,
+    "question": "Nwankwo was on the <u>verge</u> of signing a two year contract with the club",
+    "option": {
+      "a": "brink",
+      "b": "summit",
+      "c": "height",
+      "d": "shore"
+    },
+    "section": "In each of questions 56 to 65, choose the option <b>nearest</b> in meaning to the word or phrase underlined.\n",
+    "image": "",
+    "answer": "a",
+    "solution": "Verge; To be at the extreme end or edge of something.\n\nBrink; the extreme edge of something happening",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 60,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1154,
     "question": "I am tired of your <u>eternal</u> argument",
     "option": {
@@ -10237,6 +10294,25 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 55,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1249,
+    "question": "<u>T</u>each",
+    "option": {
+      "a": "deviate",
+      "b": "through",
+      "c": "wrath",
+      "d": "both"
+    },
+    "section": "choose the option that has the same consonant sound as the letter(s) underlined from the options lettered A-E",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 56,
     "hasPassage": 0,
     "category": "others"
   },
@@ -11073,6 +11149,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 32,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1349,
+    "question": "After interrogation, the police ______ the information from the suspect.",
+    "option": {
+      "a": "exposed",
+      "b": "wrung",
+      "c": "received",
+      "d": "obtained"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "d",
+    "solution": "Option D, 'Obtained' means to gain or acquire. This option completes the above sentence.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 36,
     "hasPassage": 0,
     "category": "others"
   },
@@ -12612,6 +12707,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 74,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1559,
+    "question": "Select the option that best explains the information conveyed in the sentence.\n\n  Grandma told the boys a story that cheered them up.",
+    "option": {
+      "a": "The story made them cry.",
+      "b": " The story made them scared.",
+      "c": "The story made them delighted.",
+      "d": "The story made them uninterested"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To cheer one up means to make them happy especially after having been sad.\n\nTo be delighted means to be happy. The correct answer is C.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 76,
     "hasPassage": 0,
     "category": "others"
   },
