@@ -192,6 +192,22 @@
     "examyear": "2006"
   },
   {
+    "id": 13,
+    "question": "What figure of speech is “shining coal”?  ",
+    "option": {
+      "a": "paradox ",
+      "b": "irony  ",
+      "c": "oxymoron",
+      "d": "paronomasia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 14,
     "question": "The rhythm of the poem “Serenade” is  ",
     "option": {
@@ -825,6 +841,22 @@
       "d": "the sum-total of all the characters’ experiences"
     },
     "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 61,
+    "question": "A part from emphasis, what other effect does the repetition have?  ",
+    "option": {
+      "a": "makes the poem rhythmical  ",
+      "b": "makes the poem tedious  ",
+      "c": "makes the poem -notonous  ",
+      "d": "makes the poem exhilarating."
+    },
+    "section": "Read the following extract from a poem to answer questions \nAmong rocks, I am the loose one,\nAmong arrows, I am the heart\nAmong daughters, I am the recluse,\nAmong sons, the one who dies young\n",
     "image": "",
     "answer": "a",
     "solution": "",
@@ -6080,6 +6112,22 @@
     "examyear": "2017"
   },
   {
+    "id": 432,
+    "question": "A character who remains unchanged in a work of art is called",
+    "option": {
+      "a": "A flat character",
+      "b": "A stereotypic character",
+      "c": "A round character",
+      "d": "An illusive character"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 433,
     "question": "The figure of speech in which a poet implicity compares an object or idea with another totally different object or idea is called a ",
     "option": {
@@ -6667,6 +6715,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 478,
+    "question": "In literature, a flat character can be described as one who",
+    "option": {
+      "a": "Is underdeveloped",
+      "b": "Undergoes changes",
+      "c": "Dies abruptly",
+      "d": "Achieves greatness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
