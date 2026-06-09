@@ -512,6 +512,22 @@
     "examyear": "2008"
   },
   {
+    "id": 60,
+    "question": "The maximization of profit tends to be the driving force in the economics decision making of:",
+    "option": {
+      "a": "entrepreneurs. ",
+      "b": "Workers ",
+      "c": "consumers ",
+      "d": "legislators."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 61,
     "question": "Which of these factors does not cause a change in demand? ",
     "option": {
@@ -523,6 +539,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 62,
+    "question": "When the demand for a commodity is inelastic, total revenue will fall if ",
+    "option": {
+      "a": "price is increase ",
+      "b": "price remains constant ",
+      "c": "price is reduced ",
+      "d": "The commodity is a luxury."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -1968,6 +2000,22 @@
     "examyear": "2001"
   },
   {
+    "id": 197,
+    "question": "The marginal product at the fourth variable factor is",
+    "option": {
+      "a": "12",
+      "b": "9",
+      "c": "8",
+      "d": "6"
+    },
+    "section": "Use the value to answer question: Units  of Variable factor [1,2,3,4,5,]  Total Product [25,31,40,48,55]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 200,
     "question": "The cost incurred by using both fixed and variable factors in production is called",
     "option": {
@@ -2139,6 +2187,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 221,
+    "question": "Commercial banks settle their daily interbank indebtedness through the",
+    "option": {
+      "a": "Money Market",
+      "b": "Finance House",
+      "c": "Acceptance House",
+      "d": "Clearing House"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2001"
@@ -3344,6 +3408,22 @@
     "examyear": "2009"
   },
   {
+    "id": 343,
+    "question": "The ability of commercial banks to create money depends on the",
+    "option": {
+      "a": "Ratio",
+      "b": "liquidity ratio",
+      "c": "interest rate",
+      "d": "capital base"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 344,
     "question": "The reform in the banking sector in Nigeria is principally \tmotivated by the need to",
     "option": {
@@ -3479,6 +3559,22 @@
       "b": "medium–scale Industries",
       "c": "small – and medium–scale Industries",
       "d": "medium–and large–scale Industries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 361,
+    "question": "Activities in the oil and gas industry are classified into",
+    "option": {
+      "a": "oil exportation and distribution",
+      "b": "refining and marketing of finished products",
+      "c": "upstream and downstream",
+      "d": "exploration and drilling"
     },
     "section": "",
     "image": "",
@@ -3840,6 +3936,22 @@
     "examyear": "2010"
   },
   {
+    "id": 400,
+    "question": "In Nigeria, the huge public debt is as a result of",
+    "option": {
+      "a": "balanced budgeting",
+      "b": "surplus budgeting",
+      "c": "deficit budgeting",
+      "d": "zero budgeting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 401,
     "question": "National development plans in Nigeria fail mainly because of",
     "option": {
@@ -3915,6 +4027,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 410,
+    "question": "If  Nigeria imports vehicles from Japan, the transaction will appear as a",
+    "option": {
+      "a": "debit on Japan’s balance of payments",
+      "b": "credit on Nigeria’s balance of trade",
+      "c": "credit on Japan’s balance of payments",
+      "d": "credit on Nigeria’s balance of payments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -6123,6 +6251,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 644,
+    "question": "Monetary control measures are coordinated by",
+    "option": {
+      "a": "development banks",
+      "b": "merchant banks",
+      "c": "commercial banks",
+      "d": "the Central banks"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 646,
+    "question": "The Net National Product (NNP) is Gross National Product (GNP) less",
+    "option": {
+      "a": "domestic product",
+      "b": "foreign product",
+      "c": "depreciation",
+      "d": "investment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
