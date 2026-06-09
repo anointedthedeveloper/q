@@ -5263,6 +5263,25 @@
     "category": "others"
   },
   {
+    "id": 324,
+    "question": "The suggestions he made were very <i>unobtrusive</i>",
+    "option": {
+      "a": "forceful   ",
+      "b": "helpful ",
+      "c": "sincere    ",
+      "d": "reasonable."
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 325,
     "question": "Mr. Adeyemo is quite a <i>conceited</i> young man",
     "option": {
@@ -5863,6 +5882,25 @@
     "section": "select the option that best explains the information conveyed in the sentence.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 366,
+    "question": "Emeka hardly ever holds with my view on good governance.",
+    "option": {
+      "a": "Emeka sometimes opposes my idea of good governance.  ",
+      "b": "My view on what good Governance is conforms with that of Emeka.",
+      "c": "Emeka never really supports my opinion of good governance ",
+      "d": "Emeka may never hold a view which conflicts with mine on good governance."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007",
@@ -7364,6 +7402,25 @@
     "section": "Choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 461,
+    "question": "The <i>computerised</i> service of the new banks is heart­  warming. ",
+    "option": {
+      "a": "manual ",
+      "b": "mechanical ",
+      "c": "electrical",
+      "d": "condensed."
+    },
+    "section": "Choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -9169,6 +9226,25 @@
     "section": "choose the option nearest  in meaning to the word or phrase in Italics.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 561,
+    "question": "This is an  <i>abridged</i> version of No Longer at Ease",
+    "option": {
+      "a": "an outdated    ",
+      "b": "an enlarged ",
+      "c": "an illustrated ",
+      "d": "a shortened"
+    },
+    "section": "choose the option nearest  in meaning to the word or phrase in Italics.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010",
@@ -24320,6 +24396,25 @@
     "category": "others"
   },
   {
+    "id": 1664,
+    "question": "task<u>ed</u>",
+    "option": {
+      "a": "bagged",
+      "b": "floored",
+      "c": "laughed",
+      "d": "shouted"
+    },
+    "section": "For these questions, choose the option that have the same consonant sound as the ones represented by the letter (s) underlined",
+    "image": "",
+    "answer": "c",
+    "solution": "task; /tɑːskt/\n\nlaughed; /lɑːft/",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 52,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1665,
     "question": "Risen",
     "option": {
@@ -26501,6 +26596,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 49,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1809,
+    "question": "She traced her family history _____ matrilineal.",
+    "option": {
+      "a": "At.",
+      "b": "In.",
+      "c": "By.",
+      "d": "With."
+    },
+    "section": "Choose the option that best complete the gap.",
+    "image": "",
+    "answer": "c",
+    "solution": "She traced her family history by matrilineal.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 50,
     "hasPassage": 0,
     "category": "others"
   },
