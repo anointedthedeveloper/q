@@ -576,6 +576,22 @@
     "examyear": "2008"
   },
   {
+    "id": 49,
+    "question": "Which of the following best describes a perfectly inelastic demand function? ",
+    "option": {
+      "a": "The quantity demand is insensitive to changes in price ",
+      "b": "Price is insensitive changes in quantity ",
+      "c": "price and quantity demanded changes by some percentage ",
+      "d": "The demand function is horizontal."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 50,
     "question": " Which of the following statement is false? ",
     "option": {
@@ -935,6 +951,22 @@
       "b": "Its yield is a fixed rate of interest ",
       "c": "It has no redemption date ",
       "d": "There is a voting when interest is paid "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 76,
+    "question": "Which of these is not included in measuring national income by the income approach? ",
+    "option": {
+      "a": "Wages and salaries of public servants ",
+      "b": "students branches and scholarships ",
+      "c": "profit of international ",
+      "d": "income of self-employment persons "
     },
     "section": "",
     "image": "",
@@ -3584,6 +3616,22 @@
     "examyear": "2012"
   },
   {
+    "id": 290,
+    "question": "A market structure where profit is maximized when marginal \trevenue, marginal cost and price are equal is known as",
+    "option": {
+      "a": "perfect competition",
+      "b": "monopoly",
+      "c": "oligopoly",
+      "d": "imperfect competition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 291,
     "question": "In which of the following markets does a firm have power to \tmake super normal profits both in the short run and long run?",
     "option": {
@@ -4128,6 +4176,22 @@
     "examyear": "2009"
   },
   {
+    "id": 333,
+    "question": "Determine the average product of the 4th unit of capital",
+    "option": {
+      "a": "53",
+      "b": "86",
+      "c": "212",
+      "d": "213"
+    },
+    "section": "Use the table below to answer questions. Unit of capital [1,2,3,4,5,6]\t  Total output (kg) [16, 64, 126, 212, 425, 684]",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 334,
     "question": "Which of the following can be deduced from law of variable proportions when total output is rising?",
     "option": {
@@ -4523,6 +4587,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 371,
+    "question": "The mean is the best measure of central tendency because it",
+    "option": {
+      "a": "is not affected by extreme values in a data",
+      "b": "is a balancing point in an observation",
+      "c": "is a midpoint value in an array of data",
+      "d": "can be calculated from incomplete data"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -5952,6 +6032,22 @@
     "examyear": "2004"
   },
   {
+    "id": 489,
+    "question": "The market consisting  of  a  network  of  dealers  where \tcurrencies can be bought and sold is known as",
+    "option": {
+      "a": "capital market",
+      "b": "foreign exchange market",
+      "c": "commodity market",
+      "d": "the stock market"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
     "id": 490,
     "question": "Open Market Operation (OMO) means the",
     "option": {
@@ -6027,6 +6123,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 495,
+    "question": "Which of the following is not a direct effort to increase agricultural production?",
+    "option": {
+      "a": "Operation feed the nation",
+      "b": "Use of improved seedlings",
+      "c": "Increased loans to farmer and co-operative societies",
+      "d": "National Youth Service Corps"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
