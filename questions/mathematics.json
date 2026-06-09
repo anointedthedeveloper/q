@@ -11808,6 +11808,22 @@
     "examyear": "2016"
   },
   {
+    "id": 822,
+    "question": "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects?",
+    "option": {
+      "a": "45",
+      "b": "10",
+      "c": "35",
+      "d": "30"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "80 - x + x + 60 - x + 20 = 150\n160 - x = 150\nx = 160 - 150 = 10",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 823,
     "question": "If the 2nd term of a G.P is 8/9\n and the 6th term is 4(1/2)\n. Find the common ratio.",
     "option": {
@@ -17052,6 +17068,22 @@
     "image": "",
     "answer": "c",
     "solution": "log (y + 8) + log (y - 8) = 2log 3 + 2log 5\n\n⇒ log (y + 8)(y - 8) = 2log 3 + 2log 5 (log ab = log a + log b)\n\n⇒ log (y<sup>2</sup> -8y + 8y - 64) = log 3<sup>2</sup> + log 5<sup>2</sup>\n\n\n⇒ log (y<sup>2</sup> - 64) = log 3<sup>2</sup> + log 5<sup>2</sup>\n\n\n⇒ log (y<sup>2</sup> - 64) = log 9 + log 25\n\n⇒ log (y<sup>2</sup> - 64) = log (9 × 25)\n\n⇒ log(y<sup>2</sup> - 64) = log 225\n\n⇒ y<sup>2</sup> - 64 = 225\n\n⇒ y<sup>2</sup> = 225 + 64\n\n⇒ y<sup>2</sup> = 289\n\n⇒ y = ±√289\n\n∴ y = ±17",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1164,
+    "question": "In a group of 500 people, 350 people can speak English, and 400 people can speak French. Find how many people can speak both languages.",
+    "option": {
+      "a": "750",
+      "b": " 850",
+      "c": " 250",
+      "d": "150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let F be the set of people who can speak French and E be the set of people who can speak English. Then,\n\nn(F) = 400\n\nn(E) = 350\n\nn(F ∪ E) = 500\n\nWe have to find n(F ∩ E).\n\nNow, n(F ∪ E) = n(F) + n(E) – n(F ∩ E)\n\n⇒ 500 = 400 + 350 – n(F ∩ E)\n\n⇒ n(F ∩ E) = 750 – 500 = 250.\n\n∴ 250 people can speak both languages.",
     "examtype": "utme",
     "examyear": "2023"
   },
