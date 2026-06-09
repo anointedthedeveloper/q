@@ -9824,6 +9824,22 @@
     "examyear": "2011"
   },
   {
+    "id": 645,
+    "question": "What is the size of each interior angle of a 12-sided regular polygon?",
+    "option": {
+      "a": "120°",
+      "b": "150°",
+      "c": "30°",
+      "d": "180°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Interior angle = (n - 2)180\n\nbut, n = 12\n\n= (12 -2)180\n\n= 10 x 180\n\n= 1800\n\nlet each interior angle = x\n\nx = (n−2)180/n\n\n\nx = 1800/12\n\n\n= 150°",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 646,
     "question": "A chord of circle of radius 7cm is 5cm from the centre of the circle.What is the length of the chord?",
     "option": {
