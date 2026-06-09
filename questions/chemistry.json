@@ -8016,6 +8016,22 @@
     "examyear": "2019"
   },
   {
+    "id": 519,
+    "question": "Which of the following is a set of neutral oxides?",
+    "option": {
+      "a": "N₂O, H₂O, CO",
+      "b": "N₂O, SO₂, CO",
+      "c": "N₂O, Na₂O, ZnO",
+      "d": "N₂O, SO₃, NO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Neutral oxides do not react with acids or bases to form salts. N₂O (nitrous oxide), H₂O (water), and CO (carbon monoxide) are all neutral oxides. SO₂ is acidic; Na₂O is basic; ZnO is amphoteric; SO₃ is acidic; NO can behave as a neutral oxide in some contexts but it is debated. Option A (N₂O, H₂O, CO) is the most consistent set of neutral oxides.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 520,
     "question": "SO₃ is not directly dissolved in water in the industrial preparation of H₂SO₄ by the contact process because",
     "option": {
