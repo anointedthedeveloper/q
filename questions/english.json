@@ -57,6 +57,25 @@
     "category": "others"
   },
   {
+    "id": 8,
+    "question": "Three quarters of the people in the village  killed but only half of then \n          huts……. affected  \n",
+    "option": {
+      "a": "were/ were ",
+      "b": "was/was",
+      "c": "were/ was",
+      "d": "was/were "
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 11,
     "question": "The candidate's charisma should be a..………factor in winning the election. ",
     "option": {
@@ -68,6 +87,25 @@
     "section": "most appropriate option",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 12,
+    "question": "I can't stand people prying into my private life. 'Ladi said '………… agree Agbenu",
+    "option": {
+      "a": "Me too ",
+      "b": "Likewise myself ",
+      "c": "Me neither ",
+      "d": "I also "
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003",
@@ -836,6 +874,25 @@
     "category": "others"
   },
   {
+    "id": 117,
+    "question": "The journalist said he was working <i>freelance</i>",
+    "option": {
+      "a": "tirelessly",
+      "b": "satisfactorily",
+      "c": "without a pay",
+      "d": "dependently"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 118,
     "question": "My father’s presentation was rather <i>causal</i>",
     "option": {
@@ -1463,6 +1520,25 @@
     "category": "others"
   },
   {
+    "id": 212,
+    "question": "heal<u>th</u>y    ",
+    "option": {
+      "a": "father",
+      "b": "path",
+      "c": "they",
+      "d": "that"
+    },
+    "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 215,
     "question": "suburbanite",
     "option": {
@@ -1835,6 +1911,25 @@
     "section": "choose the option that has the same vowel sound as the one represented by the letter(s) underlined.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 278,
+    "question": "c<u>o</u>ck",
+    "option": {
+      "a": "cop   ",
+      "b": "cope ",
+      "c": "cork ",
+      "d": "cup"
+    },
+    "section": "choose the option that has the same vowel sound as the one represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006",
@@ -2329,6 +2424,25 @@
     "section": "choose the appropriate stress pattern from the options. The syllables are written in capital letters.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 336,
+    "question": "advertisement ",
+    "option": {
+      "a": "adVERtisement  ",
+      "b": "advertiseMENT",
+      "c": " adverTISEment   ",
+      "d": "ADvertisement."
+    },
+    "section": "choose the appropriate stress pattern from the options. The syllables are written in capital letters.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007",
@@ -3279,6 +3393,25 @@
     "section": "select the option that best explains the information conveyed in the sentence. ",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 454,
+    "question": "Emeka was always conspicuous by his absence when it came to attending lecturers.",
+    "option": {
+      "a": "That Emeka always attended lecturer made him conspicuous at school.",
+      "b": "Emeka’s absence from lecturers was all too glaring. ",
+      "c": "It was obvious that Emeka was not present at lectures   ",
+      "d": "What made Emeka conspicuous was his occasional absence from school"
+    },
+    "section": "select the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -4560,6 +4693,44 @@
     "category": "others"
   },
   {
+    "id": 589,
+    "question": "shine ",
+    "option": {
+      "a": "clean ",
+      "b": "fine ",
+      "c": " machine ",
+      "d": "lain"
+    },
+    "section": "choose the option that rhymes with the given word.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 590,
+    "question": "seer ",
+    "option": {
+      "a": "snare   ",
+      "b": "spare",
+      "c": "spear ",
+      "d": "square"
+    },
+    "section": "choose the option that rhymes with the given word.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 591,
     "question": "political ",
     "option": {
@@ -5088,6 +5259,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 28,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 726,
+    "question": "T<u>ea</u>r?\n\n. ",
+    "option": {
+      "a": "dare",
+      "b": "care",
+      "c": "here",
+      "d": "wear"
+    },
+    "section": "<b>LEXIS, STRUCTURE AND ORALFORMS</b> In each of the question 26 to 30 Choose the option that has the same vowel sound as the one represented by the letters underlined.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "The verb tear is pronounced as /tɛː/\n\nWear is pronounced as /wɛː/",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 30,
     "hasPassage": 0,
     "category": "others"
   },
@@ -5757,6 +5947,25 @@
     "category": "others"
   },
   {
+    "id": 832,
+    "question": "The members of the team agree ........ all the members of the contract?",
+    "option": {
+      "a": "by",
+      "b": "to",
+      "c": "on",
+      "d": "with"
+    },
+    "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.</b>\n",
+    "image": "",
+    "answer": "d",
+    "solution": "with is a PREPOSITION accompanied by (another person or thing). in this context, it is used in indicating the manner or attitude in which a person does something.\n\nThe members of the team agree with all the members of the contract.",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 36,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 834,
     "question": "The match gave the team a chance to show their ........?",
     "option": {
@@ -5981,6 +6190,25 @@
     "examtype": "utme",
     "examyear": "2002",
     "questionNub": 72,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 872,
+    "question": "The organization is constantly in a state of flux?",
+    "option": {
+      "a": "There are perodic changes in the organization",
+      "b": "The organization is facing a difficult period",
+      "c": "The organization is experiencing good times",
+      "d": "The organization is moribund"
+    },
+    "section": "<b>In each of questions 76 to 80, select the option that best explains the information conveyed in the sentence.</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 76,
     "hasPassage": 0,
     "category": "others"
   },
@@ -6361,6 +6589,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 41,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 938,
+    "question": "The old woman is suffering from <u>dementia</u>?",
+    "option": {
+      "a": "lucidity",
+      "b": "senility",
+      "c": "insanity",
+      "d": "sagacity"
+    },
+    "section": "<b>In each of the questions 34 to 48, Choose the option nearest in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "Dementia; a chronic or persistent disorder of the mental processes caused by brain disease or injury and marked by memory disorders, personality changes, and impaired reasoning.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 43,
     "hasPassage": 0,
     "category": "others"
   },
@@ -6817,6 +7064,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 90,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 986,
+    "question": "Match?",
+    "option": {
+      "a": "harsh",
+      "b": "batch",
+      "c": "such",
+      "d": "watch"
+    },
+    "section": "<b>In each of the questions 90 to 92 choose the option that rhymes with the given word.</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "match; /matʃ/\n\nbatch; /batʃ/",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 91,
     "hasPassage": 0,
     "category": "others"
   },
@@ -7900,6 +8166,25 @@
     "examtype": "utme",
     "examyear": "2013",
     "questionNub": 78,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1171,
+    "question": "Umar: I have never visted the dentist\nAliyu: ......?",
+    "option": {
+      "a": " neither myself",
+      "b": " i myself haven't",
+      "c": "neither have i",
+      "d": " i also never"
+    },
+    "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "Neither have I; is used to say that a negative sentence is also true for me. ",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 79,
     "hasPassage": 0,
     "category": "others"
   },
@@ -9747,6 +10032,25 @@
     "category": "others"
   },
   {
+    "id": 1465,
+    "question": "I know my onions",
+    "option": {
+      "a": "I know my job very well",
+      "b": "I know my rights",
+      "c": "I am clever because of experience",
+      "d": "I am aware of my position"
+    },
+    "section": "Choose the correct interpretations of the statement given, for the question",
+    "image": "",
+    "answer": "a",
+    "solution": "To know one's onions' is to be fully acquainted with a subject or the parctice in a field.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 92,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1467,
     "question": "All the Nigerian footballers have itchy feet",
     "option": {
@@ -10142,6 +10446,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 38,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1526,
+    "question": "We found a <i>shady</i> place for the display",
+    "option": {
+      "a": "an open",
+      "b": "an unsafe",
+      "c": "a stuffy",
+      "d": " an enclosure"
+    },
+    "section": "Choose the option opposite in meaning to the word(s) or phrase in italics. ",
+    "image": "",
+    "answer": "a",
+    "solution": "Shady means situated in or full of shade",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 43,
     "hasPassage": 0,
     "category": "others"
   },
@@ -11894,6 +12217,25 @@
     "category": "others"
   },
   {
+    "id": 1760,
+    "question": "\nThe minister considered the ministry's budget to be a drop in the ocean in view of the number of projects in the pipeline.",
+    "option": {
+      "a": "The pipeline project across the ocean will be abandoned unless budgetary allocation improves",
+      "b": "The amount available may be inadequate for projected expenditure",
+      "c": "The minister may be dropped for failing to complete a number of projects",
+      "d": "The money approved cannont complete the pipeline project acorss the ocean"
+    },
+    "section": "Select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "b",
+    "solution": "A drop in the ocean; a very small amount compared with what is needed or expected.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 1,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1764,
     "question": "Kunana is like a bear in the sore head.",
     "option": {
@@ -12061,6 +12403,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 16,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1776,
+    "question": "Some of my neighbours have an <u>antipathy</u> to dogs.",
+    "option": {
+      "a": "Alarm for.",
+      "b": "Enmity towards.",
+      "c": "Affection for.",
+      "d": "Acronym for."
+    },
+    "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "c",
+    "solution": "antipathy; a deep-seated feeling of aversion/ dislike.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 17,
     "hasPassage": 0,
     "category": "others"
   },
