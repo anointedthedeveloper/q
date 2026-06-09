@@ -336,6 +336,22 @@
     "examyear": "2007"
   },
   {
+    "id": 30,
+    "question": "A temperature scale has a lower fixed point of 40mm and an upper fixed point of 200mm. What is the reading on this scale when the temperature reads 60oc? ",
+    "option": {
+      "a": "136.omm ",
+      "b": "33.3mm ",
+      "c": "96.0mm ",
+      "d": "36.0mm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 33,
     "question": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four ",
     "option": {
@@ -427,6 +443,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 41,
+    "question": "Two bodies P and Q are projected on the same horizontal plane, with the same initial speed but at different angles of 30o and 60o respectively to the horizontal. Neglecting air resistance, what is the ratio of range of P to that of Q? ",
+    "option": {
+      "a": "1:01",
+      "b": "1:√3 ",
+      "c": "√3:1 ",
+      "d": "1:02"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
@@ -2032,6 +2064,22 @@
     "examyear": "2016"
   },
   {
+    "id": 213,
+    "question": "Which of the following is obtained when a magenta is mixed with green colour?",
+    "option": {
+      "a": "Yellow",
+      "b": "Blue",
+      "c": "White",
+      "d": "Red"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Color mixing (light - additive):\nMagenta = Red + Blue\nGreen = Green\nWhen mixed:\nMagenta + Green = (Red + Blue) + Green = Red + Blue + Green\nRed + Blue + Green = White light\nNote: This applies to mixing colored lights (additive color mixing), not paints (subtractive mixing).\n\nWhen magenta and green light are mixed together, they produce white light.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 216,
     "question": "A satellite revolving around the earth is kept on its orbit by?",
     "option": {
@@ -2540,6 +2588,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nSeven 40W lamps\nFive 80W lamps\nTime = 12 hours\nCost per kWh = N7.00\nTotal cost = ?\n\nStep 1: Calculate total power\nPower from 40W lamps = 7 × 40 = 280W\nPower from 80W lamps = 5 × 80 = 400W\nTotal power = 280 + 400 = 680W = 0.68kW\nStep 2: Calculate energy consumed\nEnergy = Power × Time\nEnergy = 0.68kW × 12 hours\nEnergy = 8.16 kWh\nStep 3: Calculate total cost\nCost = Energy × Rate\nCost = 8.16 × N7.00\nCost = N57.12",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 271,
+    "question": "From the diagram above, calculate the total current in the circuit",
+    "option": {
+      "a": "5.0A",
+      "b": "3.7A",
+      "c": " 4.5A",
+      "d": "4.0A"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611100/ALOC-Questions/Physics/2017/2017_Q_42_fqgmd3.jpg",
+    "answer": "b",
+    "solution": "Given information:\n\nVoltage = 12V\nThree resistors: 18Ω, 12Ω, and 6Ω\nFrom the diagram, the resistors appear to be in parallel\n\nStep 1: Calculate equivalent resistance for parallel resistors\n1/Rₑq = 1/R₁ + 1/R₂ + 1/R₃\n1/Rₑq = 1/18 + 1/12 + 1/6\nFinding common denominator (36):\n1/Rₑq = 2/36 + 3/36 + 6/36\n1/Rₑq = 11/36\nTherefore:\nRₑq = 36/11 = 3.27Ω\nStep 2: Calculate total current using Ohm's Law\nI = V/Rₑq\nI = 12/3.27\nI = 3.67A ≈ 3.7A",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3744,6 +3808,22 @@
     "examyear": "2020"
   },
   {
+    "id": 394,
+    "question": "A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is ",
+    "option": {
+      "a": "5 volts",
+      "b": "10 volts",
+      "c": "15 volts",
+      "d": " 20 volts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nSolution:\nGiven information:\n\nPrimary turns (Nₚ) = 300 turns\nSecondary turns (Nₛ) = 30 turns\nPrimary voltage (Vₚ) = 100 volts\nSecondary voltage (Vₛ) = ?\n\nTransformer equation:\nVₛ/Vₚ = Nₛ/Nₚ\nRearranging to find Vₛ:\nVₛ = Vₚ × (Nₛ/Nₚ)\nSubstituting values:\nVₛ = 100 × (30/300)\nVₛ = 100 × (1/10)\nVₛ = 10 volts\nExplanation:\nThis is a step-down transformer because the secondary coil has fewer turns than the primary coil (30 < 300). The voltage is reduced by the same ratio as the turns ratio (1:10).",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 397,
     "question": "When a sound wave passes from air into water its ",
     "option": {
@@ -3868,6 +3948,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\nInitial volume (V₀) = 10 cm³\nInitial temperature (T₀) = 0°C\nFinal temperature (T) = 100°C\nTemperature change (ΔT) = 100°C\nFinal volume (V) = ?\n\nStep 1: Find volume expansivity\nVolume expansivity (γ) = 3α (for isotropic materials)\nγ = 3 × 2 × 10⁻⁵ = 6 × 10⁻⁵ °C⁻¹\nStep 2: Calculate final volume\nV = V₀(1 + γΔT)\nSubstituting values:\nV = 10(1 + 6 × 10⁻⁵ × 100)\nV = 10(1 + 0.006)\nV = 10(1.006)\nV = 10.06 cm³",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 408,
+    "question": "The lower and upper fixed points marked on a Mercury-in-glass thermometer are 210mm apart. The end of the mercury column in the tube is 49mm above the lower fixed point in a room. What is the temperature of the room in degrees Celsius? ",
+    "option": {
+      "a": "55.3°C",
+      "b": "23.3°C",
+      "c": "49.0°C",
+      "d": "16.43°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDistance between fixed points = 210 mm\nMercury column height above lower fixed point = 49 mm\nLower fixed point (ice point) = 0°C\nUpper fixed point (steam point) = 100°C\nRoom temperature = ?\n\nUnderstanding the thermometer scale:\nThe distance of 210 mm represents the temperature range from 0°C to 100°C.\nFormula:\nTemperature = (Height above lower fixed point / Total distance) × 100°C\nCalculating:\nTemperature = (49/210) × 100°C\nTemperature = 0.2333... × 100°C\nTemperature = 23.33°C\nTemperature ≈ 23.3°C",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -4752,6 +4848,22 @@
     "examyear": "2022"
   },
   {
+    "id": 499,
+    "question": "If an object just begins to slide on a surface inclined at 30º to the horizontal, the coefficient of friction is?",
+    "option": {
+      "a": "√3",
+      "b": "√3/2",
+      "c": "1/√2",
+      "d": "1/√3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nAngle of inclination, θ = 30º\nObject just begins to slide (limiting friction)\nCoefficient of friction, μ = ?\n\nSolution:\nStep 1: Analyze forces on the inclined plane\nWhen the object just begins to slide:\n\nComponent of weight down the plane = mg sinθ\nNormal reaction force = mg cosθ\nLimiting friction force = μN = μ mg cosθ\n\nStep 2: Apply equilibrium condition\nAt the point of sliding:\nFriction force = Component of weight down the plane\nμ mg cosθ = mg sinθ\nStep 3: Simplify and solve for μ\nμ cosθ = sinθ\nμ = sinθ/cosθ\nμ = tanθ\nStep 4: Calculate for θ = 30º\nμ = tan 30º\nμ = 1/√3",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 500,
     "question": "The property of wave shown in the diagram above is?",
     "option": {
@@ -5020,6 +5132,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nInitial period, T₁ = 5.77 s\nFinal period, T₂ = 4.60 s\nChange in length = 3 m (shortened)\nInitial length, L₁ = ?\nFinal length, L₂ = L₁ - 3\ng = 10 m/s² (or 9.8 m/s²)\n\nSolution:\nStep 1: Write period formula for both cases\nFor a simple pendulum:\nT = 2π√(L/g)\nInitial pendulum:\nT₁ = 2π√(L₁/g)  -----(1)\nShortened pendulum:\nT₂ = 2π√(L₂/g) = 2π√[(L₁-3)/g]  -----(2)\nStep 2: Form ratio to eliminate constants\nDividing equation (1) by equation (2):\nT₁/T₂ = √(L₁/(L₁-3))\n5.77/4.60 = √(L₁/(L₁-3))\n1.254 = √(L₁/(L₁-3))\nStep 3: Square both sides\n(1.254)² = L₁/(L₁-3)\n1.573 = L₁/(L₁-3)\nStep 4: Solve for L₁\n1.573(L₁-3) = L₁\n1.573L₁ - 4.719 = L₁\n1.573L₁ - L₁ = 4.719\n0.573L₁ = 4.719\nL₁ = 8.23 m\nStep 5: Calculate new length\nL₂ = L₁ - 3\nL₂ = 8.23 - 3\nL₂ = 5.23 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 525,
+    "question": "Three forces with magnitudes 16 N, 12 N and 21 N are shown in the diagram below. Determine the magnitude of their resultant force and angle with the x-axis",
+    "option": {
+      "a": "7.63N,61°",
+      "b": " 8.71N,61°",
+      "c": "7.63N,29°",
+      "d": " 8.71N,29°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614922/ALOC-Questions/Physics/2023/physics_2023-Q26_gyyxse.png",
+    "answer": "b",
+    "solution": "Given information:\n\nForce F₁ = 16 N at 26° above negative x-axis\nForce F₂ = 12 N at 32° above positive x-axis\nForce F₃ = 21 N along negative y-axis\n\nSolution:\nStep 1: Resolve forces into x-components\nTaking right as positive (+ve) and left as negative (-ve):\nFₓ = 12 cos 32° - 16 cos 26°\nFₓ = 10.18 - 14.38\nFₓ = -4.20 N\nStep 2: Resolve forces into y-components\nTaking up as positive (+ve) and down as negative (-ve):\nFᵧ = 12 sin 32° + 16 sin 26° - 21\nFᵧ = 6.36 + 7.01 - 21\nFᵧ = -7.63 N\nStep 3: Calculate magnitude of resultant\nR² = Fₓ² + Fᵧ²\nR² = (-4.20)² + (-7.63)²\nR² = 17.64 + 58.22\nR² = 75.86\nR = √75.86\nR = 8.71 N\nStep 4: Calculate angle with x-axis\ntan θ = opposite/adjacent\ntan θ = Fᵧ/Fₓ\ntan θ = 7.63/4.20\ntan θ = 1.8095\nθ = tan⁻¹(1.8095)\nθ = 61°\nAnswer: B. 8.71N, 61°",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -5328,6 +5456,22 @@
     "examyear": "2024"
   },
   {
+    "id": 562,
+    "question": "The value of R required to make the galvanometer measure voltage up to 40V in the diagram above is?",
+    "option": {
+      "a": "1885Ω",
+      "b": "1990Ω",
+      "c": "1995Ω",
+      "d": "1100Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765615477/ALOC-Questions/Physics/2024/Physics_2024_Q13_p2yj5a.png",
+    "answer": "b",
+    "solution": "Given information:\n\nMaximum current through galvanometer, I = 20 mA = 0.020 A\nInternal resistance of galvanometer, r = 10 Ω\nMaximum voltage to be measured, V = 40 V\nMultiplier resistance, R = ?\n\nSolution:\nStep 1: Understand the circuit\nThe multiplier resistance R is connected in series with the galvanometer to extend its voltage range. The same current flows through both R and the galvanometer.\nStep 2: Apply voltage division\nTotal voltage = Voltage across R + Voltage across galvanometer\nV = IR + Ir\nStep 3: Substitute the known values\n40 = 0.020 × R + 0.020 × 10\n40 = 0.020R + 0.2\nStep 4: Solve for R\n40 - 0.2 = 0.020R\n39.8 = 0.020R\nR = 39.8/0.020\nR = 1990 Ω",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 564,
     "question": "\nIf the S.V.P of water vapour was 13.5mmHg at 33ºC and 7.3mmHg at 7ºC. Find the percentage relative humidity of the air on a day when average air temperature was 33ºC and dew point was 7ºC.",
     "option": {
@@ -5632,6 +5776,22 @@
     "examyear": "2024"
   },
   {
+    "id": 598,
+    "question": "The property by which a material returns to its original shape after the removal of force is called ",
+    "option": {
+      "a": "Elasticity",
+      "b": "Ductility",
+      "c": "Malleability",
+      "d": "Plasticity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The property described in this question is called Elasticity which is the ability of a substance to regain its original shape and size after the removal of the distorting force.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 599,
     "question": "The energy in a moving car is an example of",
     "option": {
@@ -5660,6 +5820,22 @@
     "image": "",
     "answer": "b",
     "solution": "To convert a DC dynamo to an AC dynamo, the split-ring commutator must be replaced with slip rings. This allows the alternating current generated in the rotating coil to be delivered to the external circuit without rectification.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 602,
+    "question": "An a.c circuit of e.m.f 12V has a resistor of resistance 8Ω connected in series to an inductor of inductive reactance 16Ω and a capacitor of capacitive reactance 10Ω. The current flow in the circuit is",
+    "option": {
+      "a": "1.4A",
+      "b": "1.2A",
+      "c": "12.0A",
+      "d": " 14.0A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nEMF (V) = 12V\nResistance (R) = 8Ω\nInductive reactance (X_L) = 16Ω\nCapacitive reactance (X_C) = 10Ω\nCurrent (I) = ?\n\nUnderstanding series RLC circuit:\nIn a series RLC circuit, the impedance (Z) is:\nZ = √[R² + (X_L - X_C)²]\nStep 1: Calculate net reactance\nNet reactance = X_L - X_C\nNet reactance = 16 - 10 = 6Ω\nStep 2: Calculate impedance\nZ = √[R² + (X_L - X_C)²]\nZ = √[8² + 6²]\nZ = √[64 + 36]\nZ = √100\nZ = 10Ω\nStep 3: Calculate current using Ohm's law\nI = V/Z\nI = 12/10\nI = 1.2A",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -6032,6 +6208,22 @@
     "examyear": "2004"
   },
   {
+    "id": 644,
+    "question": "Metal rods of length 20m each are laid end to end to form a bridge at 25°C. What gap will be provided between consecutive rails for the bridge to withstand 75°C? [Linear expansivity of the material = 2.0 × 10⁻⁵K⁻¹]",
+    "option": {
+      "a": "0.20m",
+      "b": "0.22m",
+      "c": "0.25m",
+      "d": "0.02m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Original length, L₀ = 20 m\nInitial temperature, T₁ = 25°C\nFinal temperature, T₂ = 75°C\nLinear expansivity, α = 2.0 × 10⁻⁵ K⁻¹\nGap required = ?\n\nSolution:\nStep 1: Calculate temperature change\nΔT = T₂ - T₁\nΔT = 75 - 25\nΔT = 50°C = 50 K\nStep 2: Apply linear expansion formula\nFormula: ΔL = αL₀ΔT\nWhere:\n\nΔL = change in length (expansion)\nα = linear expansivity\nL₀ = original length\nΔT = temperature change\n\nStep 3: Substitute values\nΔL = 2.0 × 10⁻⁵ × 20 × 50\nΔL = 2.0 × 10⁻⁵ × 1000\nΔL = 2.0 × 10⁻²\nΔL = 0.02 m\nStep 4: Interpretation\nThe gap must accommodate the expansion of the metal rod when temperature increases from 25°C to 75°C.\nGap required = 0.02 m",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 645,
     "question": "Transverse waves can be distinguished from longitudinal waves using the characteristic of",
     "option": {
@@ -6124,6 +6316,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nInitial height, h = 80 m\nInitial velocity, u = 40 ms⁻¹\nAngle of projection, θ = 30°\nAcceleration due to gravity, g = 10 ms⁻²\nTime of flight, t = ?\n\nSolution:\nStep 1: Resolve initial velocity into components\nVertical component: uᵧ = u sin θ\nuᵧ = 40 × sin 30°\nuᵧ = 40 × 0.5\nuᵧ = 20 ms⁻¹ (upward)\nStep 2: Apply vertical motion equation\nUsing: s = uᵧt - ½gt²\nThe object starts at height 80 m and ends at ground level (0 m).\nTaking downward as negative displacement:\ns = -80 m (final position relative to starting point)\nStep 3: Substitute into equation\n-80 = 20t - ½(10)t²\n-80 = 20t - 5t²\n5t² - 20t - 80 = 0\nStep 4: Simplify\nDivide by 5:\nt² - 4t - 16 = 0\nStep 5: Solve quadratic equation\nUsing quadratic formula: t = [-b ± √(b² - 4ac)] / 2a\nWhere a = 1, b = -4, c = -16\nt = [4 ± √(16 + 64)] / 2\nt = [4 ± √80] / 2\nt = [4 ± 8.94] / 2\nt = (4 + 8.94) / 2  or  t = (4 - 8.94) / 2\nt = 6.47 s  or  t = -2.47 s (rejected, negative time)\nt ≈ 6.5 s",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 657,
+    "question": "In an a.c circuit that contains only a capacitor, the voltage lags behind the current by",
+    "option": {
+      "a": "180°",
+      "b": "90°",
+      "c": "60°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\n\nGiven information:\n\nA.C. circuit with only a capacitor (purely capacitive circuit)\nPhase relationship between voltage and current\nSolution:\nStep 1: Understand capacitor behavior in A.C. circuits\nIn a purely capacitive circuit:\n\nThe capacitor stores and releases charge\nCurrent flow depends on the rate of voltage change\n\nStep 2: Derive phase relationship\nFor a capacitor: Q = CV\nCurrent: I = dQ/dt = C(dV/dt)\nWhen voltage V = V₀ sin(ωt):\nCurrent I = C × d/dt[V₀ sin(ωt)]\nI = CV₀ω cos(ωt)\nI = CV₀ω sin(ωt + 90°)",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -6768,6 +6976,22 @@
     "examyear": "2006"
   },
   {
+    "id": 733,
+    "question": "An object placed 10cm from a concave mirror of focal length 5cm would have its image",
+    "option": {
+      "a": "at the centre of convature",
+      "b": "at the radius of curvature",
+      "c": " at infinity",
+      "d": "10 cm from the focus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The image is formed 10 cm from the mirror, on the same side as the object (real image). For a concave mirror, the radius of curvature R = 2f = 10 cm. The centre of curvature is located at distance R from the mirror. Since u = 10 cm, the object is at the centre of curvature, and with v = 10 cm, the image is also formed at the centre of curvature.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 734,
     "question": "A submarine is observed to rise from a real depth of 80 m to 60 m in water. Calculate the change in apparent depth.\n[Refractive index of water = 4/3]",
     "option": {
@@ -6908,6 +7132,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430694/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_47_pp0zer.png",
     "answer": "b",
     "solution": "Generally, period T = 1/f(reciprocal of frequency).\n=> f = 1/T\nAnd from the diagram, period T = 4s\n∴ frequency, f = 1/T = 1/4 = 0.25 Hz",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 747,
+    "question": "Use the diagram above to answer the question below.\n\nWhich of the following diagrams represents the magnetic field of two isolated unlike poles",
+    "option": {
+      "a": "A",
+      "b": "B ",
+      "c": "C",
+      "d": "D"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430720/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_48_ixllq2.png",
+    "answer": "b",
+    "solution": "Diagram B correctly represents two isolated unlike poles, with clear, symmetric field lines joining N to S",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -7440,6 +7680,22 @@
     "examyear": "2008"
   },
   {
+    "id": 819,
+    "question": "The fundamental property of a propagating wave which depends only on the source and not the medium of propagation is the?",
+    "option": {
+      "a": "wavelength",
+      "b": "harmonics",
+      "c": "frequency",
+      "d": "velocity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The property that depends only on the source and is independent of the medium is frequency.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 820,
     "question": "I. Total internal reflection of light.\nII. Conservation of light energy.\nIII. Relative motion of the earth, sun and moon.\nIV. Rectilinear propagation of light.\n\n\nwhich of the above is a phenomenon of total solar eclipse?",
     "option": {
@@ -7904,6 +8160,22 @@
     "examyear": "2009"
   },
   {
+    "id": 858,
+    "question": "If a load of mass 10 N stretched a cord by 1.2 cm, what is the total work done?",
+    "option": {
+      "a": "6.0 × 10⁻² J",
+      "b": "7.6 × 10⁻² J",
+      "c": " 1.8 × 10⁻² J",
+      "d": " 6.6 × 10⁻² J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nForce (weight of load) = 10 N\nExtension = 1.2 cm = 0.012 m\n\n\nStep 1: Interpret the situation\nThe cord behaves like a spring; the force is proportional to extension (Hooke’s law). The work done in stretching the cord is the area under the force‑extension graph, which is a triangle:\nWork = ½ × force × extension\n\nStep 2: Calculate work\nWork = ½ × 10 N × 0.012 m = 5 × 0.012 = 0.06 J = 6.0 × 10⁻² J",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 859,
     "question": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is?",
     "option": {
@@ -8028,6 +8300,22 @@
     "image": "",
     "answer": "a",
     "solution": "The quality of a note is a characteristic that distinguishes it from note of the same frequency played by another musical instrument.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 869,
+    "question": "I. Moon.\nII. Sun.\nIII.street light.\nIV. stars.\n\n\nWhich of these are natural sources of light?",
+    "option": {
+      "a": "II, III, and IV only",
+      "b": "I, II and III only",
+      "c": "III and IV only",
+      "d": " II and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The sun and stars are self luminous object.",
     "examtype": "utme",
     "examyear": "2009"
   },
