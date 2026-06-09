@@ -2672,6 +2672,22 @@
     "examyear": "1997"
   },
   {
+    "id": 179,
+    "question": "An example of appropriation of profit in a company is",
+    "option": {
+      "a": "salaries",
+      "b": "rent income",
+      "c": "debenture interest",
+      "d": "dividend."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 180,
     "question": "In a partnership goodwill is recognized when",
     "option": {
@@ -10316,6 +10332,22 @@
     "image": "",
     "answer": "a",
     "solution": "Interest on Tea’s drawings is calculated as the sum of each drawing × 10% × (months outstanding ÷ 12):\n\n₦3 000 on 31 Jan: 3 000 × 10% × (11/12) = ₦275.00\n\n₦2 000 on 31 Mar: 2 000 × 10% × (9/12) = ₦150.00\n\n₦4 000 on 1 Jul: 4 000 × 10% × (6/12) = ₦200.00\n\n₦1 500 on 30 Sep: 1 500 × 10% × (3/12) = ₦37.50\n\n₦2 500 on 1 Nov: 2 500 × 10% × (2/12) = ₦41.67\n\nTotal interest = ₦275 + ₦150 + ₦200 + ₦37.50 + ₦41.67 = ₦704.17  ≈ ₦705..",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 697,
+    "question": "Which of the following should not be adjusted for in the profit and loss account?",
+    "option": {
+      "a": "Accruals",
+      "b": "inventory",
+      "c": "subscription",
+      "d": "depreciation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "is adjusted for in the income and expenditure account",
     "examtype": "utme",
     "examyear": "2018"
   },
