@@ -16832,6 +16832,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1070,
+    "question": "<b>Use the information below to answer questions 5 and 6</b>\n\nThe owner wishes to maintain an amount equal to 1/3 of capital as drawings\n\nThe cash book closing balance will be?",
+    "option": {
+      "a": "₦900",
+      "b": "₦2,400",
+      "c": "₦4,200",
+      "d": "₦4,600"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662497/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q5-6_ebfydd.png",
+    "answer": "b",
+    "solution": "Debit side (receipts):\n\nCapital = ₦6,600\n\nSales = ₦3,000\n\nDebtors = ₦2,500\nTotal receipts = ₦12,100\n\nCredit side (payments):\n\nPurchases = ₦3,500\n\nStationery = ₦1,300\n\nWages = ₦2,700\n\nDrawings = ₦2,200\nTotal payments = ₦9,700\n\nClosing balance = Total receipts − Total payments\n= ₦12,100 − ₦9,700\n= ₦2,400",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1071,
     "question": "A debit in the suspense accounting will appear in the balance sheet as?",
     "option": {
