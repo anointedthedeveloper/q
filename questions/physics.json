@@ -1376,6 +1376,22 @@
     "examyear": "2011"
   },
   {
+    "id": 105,
+    "question": "A hydraulic press works on the principle of transmission of   ",
+    "option": {
+      "a": "force  ",
+      "b": "energy  ",
+      "c": "volume  ",
+      "d": "pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 106,
     "question": "Which of the following is not a thermometer?  ",
     "option": {
@@ -2780,6 +2796,22 @@
     "image": "",
     "answer": "b",
     "solution": "At -273°C (absolute zero), the pressure of an ideal gas becomes zero because all molecular motion ceases.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 209,
+    "question": "Which of the following does Not use magnetic effect of current to function?",
+    "option": {
+      "a": "Lead acid accumulator",
+      "b": "An electric bell",
+      "c": "A moving coil galvanometer",
+      "d": "A telephone receiver"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A lead acid accumulator (battery) works on chemical principles, not the magnetic effect of current.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -5408,6 +5440,22 @@
     "examyear": "2020"
   },
   {
+    "id": 415,
+    "question": "Which of the following instruments in the image consumes the highest current?",
+    "option": {
+      "a": "I",
+      "b": "II only",
+      "c": "III only",
+      "d": "IV"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612922/ALOC-Questions/Physics/2020/Screenshot_2025-12-13_at_9.01.44_AM_muuzw3.png",
+    "answer": "c",
+    "solution": "Formula:\nCurrent (I) = Power (P) / Voltage (V)\nCalculating current for each instrument:\nI. Electric iron:\nI = 1000W / 250V = 4A\nII. Television set:\nI = 110W / 220V = 0.5A\nIII. Torchlight:\nI = 30W / 6V = 5A\nIV. Immersion heater:\nI = 500W / 110V = 4.55A\nComparing currents:\n\nElectric iron: 4A\nTelevision set: 0.5A\nTorchlight: 5A (highest)\nImmersion heater: 4.55A",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 416,
     "question": "In which of the following diagrams is the length of the tube equal to one wavelength? ",
     "option": {
@@ -5516,6 +5564,22 @@
     "image": "",
     "answer": "b",
     "solution": "Only 'mass' is a fundamental quantity ",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 423,
+    "question": "A ball of mass 0.5kg moving at 10ms⁻¹ collides with another ball of equal mass at rest. If the two balls move off together after the impact, calculate their common velocity.",
+    "option": {
+      "a": "0.2 ms⁻¹",
+      "b": "0.5 ms⁻¹",
+      "c": "5.0 ms⁻¹",
+      "d": "5.5 ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass of first ball (m₁) = 0.5 kg\nInitial velocity of first ball (u₁) = 10 m/s\nMass of second ball (m₂) = 0.5 kg\nInitial velocity of second ball (u₂) = 0 m/s (at rest)\nCommon final velocity (v) = ?\n\nThis is an inelastic collision (balls stick together)\nUsing Conservation of Momentum:\nTotal momentum before collision = Total momentum after collision\nm₁u₁ + m₂u₂ = (m₁ + m₂)v\nSubstituting values:\n(0.5 × 10) + (0.5 × 0) = (0.5 + 0.5)v\n5 + 0 = 1.0v\n5 = v\nv = 5.0 m/s",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -8176,6 +8240,22 @@
     "examyear": "2004"
   },
   {
+    "id": 631,
+    "question": "What types of mirror are capable of producing parallel beams of light such as those arising from the headlamps of a car?",
+    "option": {
+      "a": " Parabolic mirrors",
+      "b": "Plane mirrors",
+      "c": "Cylindrical mirrors",
+      "d": "Spherical mirrors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Parabolic mirrors have a geometric property such that light rays originating at the focal point are reflected into a parallel beam. This principle is used in car headlamps, searchlights, and other devices that require a collimated beam.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 632,
     "question": "What happens to the rays in a parallel beam of light?",
     "option": {
@@ -9472,6 +9552,22 @@
     "examyear": "2006"
   },
   {
+    "id": 725,
+    "question": "The process through which free electrons leave the surface of hot metal is known as?",
+    "option": {
+      "a": "photon emission",
+      "b": "photo emission",
+      "c": "thermionic emission",
+      "d": " electron emission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Thermionic emission occurs when heat provides sufficient energy to electrons in a metal to overcome the work function, allowing them to escape from the surface.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 726,
     "question": "The battery connection that permits current to flow across a p-n junction is called?",
     "option": {
@@ -10140,6 +10236,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nInitial tension, T₁ = 400 N\nInitial frequency, f₁ = 250 Hz\nFinal frequency, f₂ = 500 Hz\nLength and linear density are constant.\n\nSolution:\n\nStep 1: Relationship for a stretched string\nThe fundamental frequency is given by:\nf = (1/(2L)) √(T/μ)\nThus, for constant L and μ, f ∝ √T.\n\nStep 2: Set up ratio\nf₂ / f₁ = √(T₂ / T₁)\n\nStep 3: Substitute values\n500 / 250 = √(T₂ / 400)\n2 = √(T₂ / 400)\n\nStep 4: Square both sides\n4 = T₂ / 400\nT₂ = 4 × 400 = 1600 N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 781,
+    "question": "Three cells each of e.m.f 1.5 V and internal resistance 2.5 Ω are connected as shown in the diagram above. Find the net e.m.f and the internal resistance.",
+    "option": {
+      "a": "1.5 V, 7.50 Ω",
+      "b": "1.5 V, 0.83 Ω",
+      "c": "4.5 V, 7.50 Ω",
+      "d": "4.5 V, 0.83 Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431480/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_32_iriuvb.png",
+    "answer": "b",
+    "solution": "Given information:\nEach cell: e.m.f = 1. V, internal resistance r = 2.5 Ω\nThree cells connected as shown.\n\nSolution:\n\nStep 1: Interpret the diagram\nThe diagram indicates a parallel connection of the three cells. In a parallel combination of identical cells, the net e.m.f is the same as that of one cell, and the internal resistance is the parallel combination of the individual internal resistances.\n\nStep 2: Calculate net e.m.f\nFor cells in parallel, net e.m.f E = 1.5 V.\n\nStep 3: Calculate net internal resistance\nFor identical resistors in parallel:\n1/R = 1/r + 1/r + 1/r = 3/r\nR = r/3 = 2.5 Ω / 3 ≈ 0.833 Ω",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -10860,6 +10972,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nMass m = 4 kg\nForces: F₁ = 6 N, F₂ = 8 N, perpendicular to each other.\nPlane is smooth (no friction).\n\nSolution:\n\nStep 1: Find resultant force\nSince forces are perpendicular, resultant R = √(F₁² + F₂²)\nR = √(6² + 8²) = √(36 + 64) = √100 = 10 N\n\nStep 2: Apply Newton's second law\nAcceleration a = R / m = 10 N / 4 kg = 2.5 m s⁻²",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 840,
+    "question": "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by?",
+    "option": {
+      "a": "moving Q nearer to O",
+      "b": "moving P nearer to O",
+      "c": "addding a weight Q to O",
+      "d": " moving P further away from O"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432399/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_41_pq0eiq.png",
+    "answer": "b",
+    "solution": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -14524,6 +14652,22 @@
     "image": "",
     "answer": "d",
     "solution": "Different gases emit characteristic colours when an electric discharge passes through them at low pressure due to excitation and de‑excitation of their atoms.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1118,
+    "question": "When ²¹⁰₈₂Pb decays to ²⁰⁶₈₀Pb, it emits",
+    "option": {
+      "a": "two alpha and two beta particles",
+      "b": "an alpha particle",
+      "c": "one beta particle",
+      "d": " one alpha and one beta particle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nInitial nuclide: ²¹⁰₈₂Pb (mass number 210, atomic number 82)\nFinal nuclide: ²⁰⁶₈₀Pb (mass number 206, atomic number 80)\n\nSolution:\n\nStep 1: Determine changes in mass and atomic numbers\nChange in mass number = 210 – 206 = 4\nChange in atomic number = 82 – 80 = 2\n\nStep 2: Identify particle(s) that produce these changes\n\nAn alpha particle (⁴₂He) decreases mass number by 4 and atomic number by 2.\n\nA beta particle (⁰₋₁e) increases atomic number by 1 with no mass change.\n\nStep 3: Match the changes\nA single alpha emission exactly accounts for:\nΔA = –4, ΔZ = –2\nThis matches the observed changes. No beta particle is involved.",
     "examtype": "utme",
     "examyear": "2014"
   },
