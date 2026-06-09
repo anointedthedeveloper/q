@@ -1040,6 +1040,22 @@
     "examyear": "2016"
   },
   {
+    "id": 133,
+    "question": "The instrument used in analysis and interpretation of financial statement is the",
+    "option": {
+      "a": "accounting ratios",
+      "b": "income and expenditure extract",
+      "c": "balance sheet extract",
+      "d": "fund accounting."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 135,
     "question": "The documents that provide instant information to firms on their transactions with banks are",
     "option": {
@@ -1067,6 +1083,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 138,
+    "question": "Which of the following conditions would attract credit and debit notes to be used?",
+    "option": {
+      "a": "When goods are received from supplier.",
+      "b": "When a trial balance is extracted",
+      "c": "When a buyer is under or over charged.",
+      "d": "When goods are sold to a buyer."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -2240,6 +2272,22 @@
     "examyear": "2006"
   },
   {
+    "id": 252,
+    "question": "The adjusted cash book balance is",
+    "option": {
+      "a": "D11,200",
+      "b": "D8,400",
+      "c": "D6,200",
+      "d": "D5,600"
+    },
+    "section": "Balance as per cash book [8,400], Bank charges [300], Standing order paid [2,500 ], Unpresented cheques [2,800]",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 253,
     "question": "The balance as per bank statement is",
     "option": {
@@ -2295,6 +2343,22 @@
       "b": "gross profit and increase cost of sales.",
       "c": "purchases and increase sales.",
       "d": "sales and increase purchases."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 261,
+    "question": "Which of the following is not a source document?",
+    "option": {
+      "a": "Journal proper",
+      "b": "Sales invoice",
+      "c": "Debit note",
+      "d": "Credit note"
     },
     "section": "",
     "image": "",
@@ -2699,6 +2763,22 @@
     "section": "Use the following information to answer questions:: Cash in hand\t[D 1,440]; Cash at Bank [D 2,440]; Stock [D 2,500]; Furniture and fittings [D 2,200]; Creditors [D 1,000]",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 302,
+    "question": "A loss made on the disposal of a fixed asset is debited to",
+    "option": {
+      "a": "Sales Account.",
+      "b": "Purchases Account.",
+      "c": "Profit and Loss Account.",
+      "d": "Capital Account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -3968,6 +4048,22 @@
     "examyear": "2007"
   },
   {
+    "id": 475,
+    "question": "If Mr. Ajasin paid his creditors N 5 000 out of N 20 000 owed, what would be the effect of this transaction on the accounting equation?",
+    "option": {
+      "a": "A decrease .in the total liabilities and assets by N5 000.",
+      "b": "An increase in total liabilities and owners’ equity by N15 000.",
+      "c": "An increase in the total assets by N15 000",
+      "d": "A decrease in owners’ equity by N 5 000."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 478,
     "question": "The process of bookkeeping includes records produced from",
     "option": {
@@ -4876,6 +4972,22 @@
     "image": "",
     "answer": "a",
     "solution": "In traditional accounting classification, accounts are first split into personal accounts (which relate to individuals and organizations) and impersonal accounts. The impersonal accounts are then further subdivided into:\n\nReal accounts (assets—both tangible and intangible)\n\nNominal accounts (income, expenses, gains and losses)",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 591,
+    "question": "Opening balance of Diks company was ₦12,202, closing balance ₦15,300, total cash received during the period ₦40,000. What was the amount of cash paid during the same period?",
+    "option": {
+      "a": "₦36,902",
+      "b": "₦27,502",
+      "c": "₦12,498",
+      "d": "₦43,098"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "opening balance = 12,202 + cash recieved = 40,000 = 52,202\nless closing balance\n= 52,202 - 15,300 = 36902 (Amount spent during the period) \n\n ",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -6480,6 +6592,22 @@
     "examyear": "2020"
   },
   {
+    "id": 795,
+    "question": "The debenture issued at price  above the nominal value is Said to be issued at a",
+    "option": {
+      "a": "margin",
+      "b": "premium",
+      "c": "cost price",
+      "d": "mark-up"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a debenture is issued at a price above its nominal (face) value, it is said to be issued at a premium. For example, if a debenture with a nominal value of ₦100 is issued for ₦110, it is issued at a premium of ₦10.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 797,
     "question": "The value of the sales ledger control account is derived from the summation of the",
     "option": {
@@ -6880,6 +7008,22 @@
     "examyear": "2022"
   },
   {
+    "id": 848,
+    "question": "Zazzau Company:\n\nCash in hand................₦50\nCash in bank................₦1 250\nStock.......................₦4 880\nFurniture...................₦9 60\nBuilding....................₦5 500\nDebtor......................₦1 750\nCreditors...................₦2 150\n\nDrawings of ₦125 were made by the shareholders of the company.\n\nThey company's net current assets amount to?",
+    "option": {
+      "a": "₦5,780",
+      "b": "₦570",
+      "c": "₦6,580",
+      "d": "₦7,930"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Net current assets (also known as working capital) = Current Assets - Current Liabilities\nCurrent Assets:\n\nCash in hand: ₦50\nCash in bank: ₦1,250\nStock: ₦4,880\nDebtors: ₦1,750\nTotal Current Assets = ₦7,930\n\nCurrent Liabilities:\n\nCreditors: ₦2,150\n\nNet Current Assets = ₦7,930 - ₦2,150 = ₦5,780\nThe company's net current assets amount to ₦5,780.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 849,
     "question": "Statement of assets and liabilities as at 31st December, 2001.\n\nShareholders' interest ₦240\n\nCurrent liabilities ₦20\n\nCurrent assets ₦110\n\nFixed assets ₦140\nWhat is the networking capital?",
     "option": {
@@ -7068,6 +7212,22 @@
     "image": "",
     "answer": "d",
     "solution": "The concept that recognizes the principle of double entry is the dual aspect concept.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 874,
+    "question": "Bola, UTC's regular customer, owed N1,00 on account of a radio bought. If he sent in a cheque for N1,500, UTC would send him a",
+    "option": {
+      "a": "credit note",
+      "b": "debit note",
+      "c": "journal voucher",
+      "d": "way bill"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If Bola sends in a cheque for more than the owed amount, UTC would send him a credit note for the excess amount paid.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -7328,6 +7488,22 @@
     "examyear": "2023"
   },
   {
+    "id": 907,
+    "question": "One of the options below have the same features as the profit and loss account in non-profit organization",
+    "option": {
+      "a": " non profit account",
+      "b": " profit and loss account",
+      "c": " income and expenditure account",
+      "d": "receipts and payment account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The income and expenditure account shows the summary of revenue and running costs of a non-profit making organization. It follows the same principles as the profit and loss account of a trading concern.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 908,
     "question": "From the following information: Plant and Machinery is valued at ₦190,000, Motor Vehicle at ₦170,000, Stock at ₦60,000, Current Liabilities amount to ₦50,000, and Purchase consideration is ₦400,000. What is the goodwill?",
     "option": {
@@ -7372,6 +7548,22 @@
     "image": "",
     "answer": "d",
     "solution": "A transaction file is used to hold data during transaction processing. The file is later used to update the master file and audit daily, weekly or monthly transactions.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 913,
+    "question": "A double entry for a transaction that offsets one amount against another on both sides of the cashbook is a",
+    "option": {
+      "a": "original entry",
+      "b": "contract entry",
+      "c": "prime entry",
+      "d": " contra entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Contra entry shows that cash has been withdrawn from the office and deposited in the bank or withdrawals of cash from bank for office use. Contra entries affect both cash and bank accounts.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7436,6 +7628,22 @@
     "image": "",
     "answer": "c",
     "solution": "Fictitious assets are intangible assets that do not have a physical form and lack inherent value. They represent deferred expenses or prepaid costs that provide benefits over future periods. For example: Preliminary Expense: Discount on Issue of Shares, Goodwill etc.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 930,
+    "question": "Tolu purchased a machine for ₦6,000 on credit. The effect is to debit.. supplier\nand credit the account of the",
+    "option": {
+      "a": "machinery",
+      "b": "creditor",
+      "c": "cash",
+      "d": "debtor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The complete journal entry would be:\n\nDebit: Machinery ₦6,000\nCredit: Creditor/Supplier ₦6,000\n\nThis follows the accounting principle that when you acquire an asset on credit, you debit the asset account and credit the creditor's account.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -7808,6 +8016,22 @@
     "examyear": "2008"
   },
   {
+    "id": 977,
+    "question": "The medium that enables the ATM to read the account details and process transaction directly with the account held in the bank is the?",
+    "option": {
+      "a": "smart card",
+      "b": "communication network",
+      "c": "magnetic strip",
+      "d": "computerized account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The magnetic strip on your ATM card is what enables the machine to read your account details and process transactions.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 979,
     "question": "Determine the closing balance of the cash book?",
     "option": {
@@ -7836,6 +8060,22 @@
     "image": "",
     "answer": "d",
     "solution": "To calculate periodic depreciation, you need three key factors:\n1. Asset Cost (Original Cost)\n\nThe initial purchase price of the asset\nWhat you paid to acquire the asset\n\n2. Salvage Value (Residual Value)\n\nThe estimated value of the asset at the end of its useful life\nWhat you expect to get when you dispose of the asset\n\n3. Useful Life\n\nThe estimated period the asset will be used in the business\nHow long the asset will generate economic benefits\n\nDepreciation Formula:\nAnnual Depreciation = (Asset Cost - Salvage Value) ÷ Useful Life",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 981,
+    "question": "<b>Use the information below to answer questions 17 to 18.</b>\n\nAug. 1 Received 20 units at ₦60 each\nAug. 6 Received 20 units at ₦68 each\nAug. 10 Issued 16 units\nAug. 20 Received 40 units at ₦80 each\nAug. 31 Issued 48 units\n\nUsing the simple average method, what is the cost per unit of the closing stock?",
+    "option": {
+      "a": "₦80",
+      "b": "₦72",
+      "c": "₦64",
+      "d": "₦60"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate the average cost after each receipt\n\nAug. 1\n\nReceived 20 units @ ₦60\n\nAverage cost = ₦60 (only one purchase so far)\n\nAug. 6\n\nReceived 20 units @ ₦68\n\nSimple average = (60 + 68)/2 = 128/2 = ₦64 per unit\n\nStep 2: Issue stock (Aug. 10)\n\nIssued 16 units at ₦64 each (no change in average price — simple average method keeps cost until next purchase)\n\nBalance after issue = 20 + 20 − 16 = 24 units @ ₦64\n\n\nStep 3: Aug. 20 purchase\n\nReceived 40 units @ ₦80\n\n₦ew average = (64 + 80)/2 = 144/2 = 72 per unit\n\n\nStep 4: Aug. 31 issue\n\nIssued 48 units @ ₦72 (still same average after last purchase)\n\nClosing stock units = 24 + 40 − 48 = 16 units @ ₦72\n\nCost per unit of closing stock = ₦72",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -8544,6 +8784,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1058,
+    "question": "The tier of government that uses financial memorandum is the?",
+    "option": {
+      "a": "federal government",
+      "b": "state government",
+      "c": "local government",
+      "d": "municipal government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Financial Memorandum is a guideline or manual used mainly by local governments in Nigeria to regulate their financial management, accounting procedures, and internal controls. It ensures uniformity and accountability in the handling of public funds at the local government level.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1061,
     "question": "Determine the closing stock under LOFO method",
     "option": {
@@ -8732,6 +8988,22 @@
     "image": "",
     "answer": "a",
     "solution": "rom the previous solution, we established:\n\nBeginning Inventory + Purchases = ₦11,700\nBeginning Inventory = ₦10,240\n\nStep: Calculate Purchases\nPurchases = (Beginning Inventory + Purchases) - Beginning Inventory\nPurchases = ₦11,700 - ₦10,240\nPurchases = ₦1,460\nTherefore, the figure for purchases is ₦1,460",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1089,
+    "question": "Cost classification in relation to charges is determined by the level of?",
+    "option": {
+      "a": "raw materials",
+      "b": "labour",
+      "c": "activity",
+      "d": "profitability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Cost classification in relation to charges examines how costs behave as the level of activity changes:\n\nVariable costs change proportionally with activity level\nFixed costs remain constant regardless of activity level\nSemi-variable costs have both fixed and variable components",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -9292,6 +9564,22 @@
     "image": "",
     "answer": "b",
     "solution": "COGS = Opening stock + Purchases + Direct production wages − Closing stock\n\nSo: ₦800 + ₦2,450 + ₦675 − ₦940\n= ₦3,925 − ₦940\n= ₦2,985",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1167,
+    "question": "In a petty cash book the imprest is ₦1380.\nExpenses:\nStationery ₦350\nCleaning material ₦335\nGeneral expenses ₦265\n\nHow much was received to maintain the imprest at the ends of the month?",
+    "option": {
+      "a": "₦950",
+      "b": "₦970",
+      "c": "₦430",
+      "d": "₦380"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Total expenses = ₦350 + ₦335 + ₦265 = ₦950.\nSo the imprest must be replenished by ₦950.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -10112,6 +10400,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1266,
+    "question": "To write off bad debt, debt?",
+    "option": {
+      "a": "debtor's account and credit provision for bad debt",
+      "b": "bad debt account and credit debtor's account",
+      "c": "debtor's account credit bad debt",
+      "d": "provision for bad debt account and credit debtor's account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "You would debit the Bad Debts account and credit the Debtor’s (Accounts Receivable) account.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1268,
     "question": "<b>Use the information below to answer question 4 and 5.</b>\n\nSales ₦20,000\nCost sales ₦10,000\nOperating expenses ₦2,500\nExpenses prepaid included\nin operating expenses ₦500\n\nCalculate the net profit?",
     "option": {
@@ -10156,6 +10460,22 @@
     "image": "",
     "answer": "b",
     "solution": "A cheque stub is the source document used to ascertain amounts paid out of the current (cash) account.\n\nWhen you write a cheque, you fill in the cheque itself (which goes to the payee and then to the bank).\n\nThe stub (or counterfoil) remains in your cheque book and records the cheque number, date, payee, and amount.\n\nThis stub provides a ready reference for all disbursements and is used to update the cash book.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1273,
+    "question": "Yahuza Enterpises\nTrial Balance (Extracts) as at Dec. 31, 1998.\nCapital\nPremises 90,000 21,000\nDebtors 35,000\nProvisions 1/1/98:\nDepreciation 9,000\nBad and doubtful 1,500\n\nIf premises is to be depreciated at 10% on cost and a 5% provision is to be allowed on debtors, the total asset in the balance sheet is",
+    "option": {
+      "a": " ₦ 125, 000",
+      "b": "₦114,500",
+      "c": " ₦105,500",
+      "d": " ₦105,250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "1. Premises (fixed asset)\n\nCost = ₦90,000\n\nAccumulated depreciation brought forward = ₦9,000\n\nDepreciation for the year @10% on cost = ₦90,000 × 10% = ₦9,000\n\nTotal accumulated depreciation = ₦9,000 + ₦9,000 = ₦18,000\n\nNet book value of premises = ₦90,000 − ₦18,000 = ₦72,000\n\n2. Debtors (receivables)\n\nGross debtors = ₦35,000\n\nProvision required @5% of ₦35,000 = ₦1,750\n\nNet debtors = ₦35,000 − ₦1,750 = ₦33,250\n\n3. Total assets\n\nNet premises + Net debtors = ₦72,000 + ₦33,250 = ₦105,250",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -10816,6 +11136,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1354,
+    "question": "<b>Use the information below to answer questions 39 and 40</b>\n\n\t\t\t\t  \nDetermine the owners equity",
+    "option": {
+      "a": "₦200,000",
+      "b": "₦215,000",
+      "c": " ₦275,000",
+      "d": "₦755,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756668418/ALOC-Questions/Accounting/UTME/1999/Accounting_JAMB_1999_Q39-40_i72dvt.png",
+    "answer": "c",
+    "solution": "If Total Assets = ₦755,000\nAnd Total Liabilities = ₦200,000 + ₦87,000 + ₦100,000 = ₦387,000\nThen Owners' Equity = ₦755,000 - ₦387,000 = ₦368,000\nBut based on the equity section shown:\nOwners' Equity = ₦200,000 + ₦15,000 + ₦60,000 = ₦275,000\nThe answer is C. ₦275,000.RetryClaude can make mistakes. Please double-check responses.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1355,
     "question": "If a promoter pays a lawyer ₦5,000 for services rendered in preparing a Memorandum of Incorporation, the journal entry is to debit?",
     "option": {
@@ -11212,6 +11548,22 @@
     "image": "",
     "answer": "c",
     "solution": "To find total purchases, use the materials flow equation:\n\nMaterials Consumed = Opening Inventory + Purchases − Returns − Closing Inventory\nRearrange for Purchases:\n\nPurchases = Materials Consumed + Returns + Closing Inventory − Opening Inventory \nSubstitute the figures:\n\nPurchases = ₦448,500 + ₦9,200 +₦38,600 − ₦46,800 = ₦449,500\n",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1394,
+    "question": "The limitations of the receipts and payments account arise mainly because of the reliance on?",
+    "option": {
+      "a": "cash movement as evidence of transaction",
+      "b": "the acconuting officer to report",
+      "c": " the capital account of the organization",
+      "d": "the transaction papers as evidence of transaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The primary limitation of a receipts and payments account is its reliance on actual cash movements as the sole evidence of transactions. Because it’s prepared on a cash basis and ignores accruals, it:\n\nOmits non-cash items (e.g., depreciation, accrued expenses)\n\nDoes not match income and related expenses to the same period\n\nFails to show true surplus or deficit",
     "examtype": "utme",
     "examyear": "199"
   },
