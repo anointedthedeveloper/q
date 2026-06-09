@@ -240,6 +240,22 @@
     "examyear": "2012"
   },
   {
+    "id": 48,
+    "question": "If goods purchased on account is returned, the buyer may inform the seller of the details by issuing:",
+    "option": {
+      "a": "An invoice  ",
+      "b": "A debt memorandum",
+      "c": "A credit memorandum  ",
+      "d": " A bill"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 53,
     "question": "A debit may signify: ",
     "option": {
@@ -624,6 +640,22 @@
     "examyear": "2013"
   },
   {
+    "id": 116,
+    "question": "When the going concern concept is no longer applicable, the fixed assets are recorded at their",
+    "option": {
+      "a": "net book value.",
+      "b": "realizable value.",
+      "c": "gross value.",
+      "d": "revalued amount."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 117,
     "question": "The cost of raw materials consumed is",
     "option": {
@@ -715,6 +747,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 132,
+    "question": "The ratio that gives the indication of the efficiency of a firm’s sales with respect to cost of goods sold is a",
+    "option": {
+      "a": "return on capital employed",
+      "b": "gross profit margin",
+      "c": "net profit margin",
+      "d": "return on equity."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -1744,6 +1792,22 @@
     "examyear": "2012"
   },
   {
+    "id": 264,
+    "question": "A Balance Sheet shows only",
+    "option": {
+      "a": "fixed assets and current assets",
+      "b": "assets and long term liabilities.",
+      "c": "assets and liabilities",
+      "d": "assets and capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 265,
     "question": "The process of entering transaction from one book to another is",
     "option": {
@@ -2480,6 +2544,22 @@
     "examyear": "2004"
   },
   {
+    "id": 398,
+    "question": "The imprest account is subsidiary to the",
+    "option": {
+      "a": "ledger account",
+      "b": "bank account",
+      "c": "cash book",
+      "d": "petty cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 399,
     "question": "The three-column cash book differs from the two-column cash book in",
     "option": {
@@ -3129,6 +3209,22 @@
       "d": "N 28,500"
     },
     "section": "Use the information to answer question: Jan. 1 Received 1,000 units at   N 10 each; Jan. 2 Received 2,000 units at   N  12 each; Jan. 3 Issued 1,500 units; Jan. 4 Received 1,000 units at   N  11 eac; Jan. 5 Issued 1000 units",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 495,
+    "question": "Which of the following is a debit item in the purchases ledger control account?",
+    "option": {
+      "a": "Balance b/d",
+      "b": "Cheque dishonoured",
+      "c": "Purchases",
+      "d": "Balance c/d"
+    },
+    "section": "",
     "image": "",
     "answer": "d",
     "solution": "",
@@ -4220,6 +4316,22 @@
     "image": "",
     "answer": "a",
     "solution": "Cost plus mark up is a pricing strategy in which the selling price is determined by adding a specific amount mark up to a product unit cost",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 671,
+    "question": "A Trading account for the year ended 31st December 2009 shows the following information:\nOpening Stock: ₦32,000\nPurchases: ₦40,000\nCarriage inwards: ₦1,000\nLess Returns: ₦2,000\nSales: ₦48,000\nLess Returns: ₦2,000\nClosing Stock: ₦9,000\nCalculate:\n\nWhat is the cost of goods sold?",
+    "option": {
+      "a": "₦61,000",
+      "b": "₦62,000",
+      "c": " ₦58,000",
+      "d": " ₦57,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Calculate Cost of Goods Sold\nCost of Goods Sold = Cost of Goods Available - Closing Stock\n= ₦71,000 - ₦9,000 = ₦62,000",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -6224,6 +6336,22 @@
     "examyear": "2008"
   },
   {
+    "id": 992,
+    "question": "Receipt and payment account discloses?",
+    "option": {
+      "a": "debtors",
+      "b": "creditors",
+      "c": "prepayment",
+      "d": "depreciation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation:\nA Receipts and Payments Account can disclose prepayments because when you make advance payments (like rent or insurance paid in advance), these cash outflows appear in the payments side of the account. By comparing these payments with the actual expenses for the period, prepayments can be identified.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 993,
     "question": "Given:\n\nSubscription in arrears 01/10/06...........₦2 000\nSubscription in advance 01/10/06...........₦1 500\nSubscription paid during the year..........₦7 000\nSubscription in arrears 31/12/06...........₦3 000\n\nDetermine the amount of subscription included in the income and expenditure account for the year?",
     "option": {
@@ -7116,6 +7244,38 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663151/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q15-16_s3clfz.png",
     "answer": "a",
     "solution": "Fixed assets:\n\nLand & building = ₦8,470\n\nFurniture & fittings = ₦5,120\n\nMotor vehicles = ₦3,462\n\nTotal fixed assets =\n8,470 + 5,120 + 3,462 = ₦17,052",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1131,
+    "question": "Provision for discount allowed can be recorded as debit to?",
+    "option": {
+      "a": " the profit and loss account and a credit to provision for discount allowed",
+      "b": "provision for discount allowed and a credit to the profit and loss account",
+      "c": " discount allowed and a credit to the profit and loss account",
+      "d": "expenses and a credit to customers' account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This follows the principle that provisions for future expenses are debited to profit and loss (reducing profit) and credited to the provision account (creating a liability).",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1137,
+    "question": "The stock valuation data is important because it enables management to?",
+    "option": {
+      "a": " separate debtors from creditors",
+      "b": "determine the cost of stock at the end of business",
+      "c": "determine the cost of stock at the beginning of business",
+      "d": "determine the total cost of goods purchased"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Stock valuation data enables management to accurately determine the value of inventory on hand at any point in time, particularly at the end of accounting periods for financial reporting purposes.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -8816,6 +8976,22 @@
     "examyear": "1998"
   },
   {
+    "id": 1380,
+    "question": "A pottery company had sales of ₦176,000 during the current period and a gross profit rate of 40%.\nThe company's cost of merchandize available for sale during the period was ₦128,000. The company's ending inventory is?",
+    "option": {
+      "a": "₦22,400",
+      "b": "₦32,000",
+      "c": "₦51,200",
+      "d": "₦76,800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the ending inventory:\n\nCompute Gross Profit\nGross profit = Sales × Gross profit rate\n= ₦176 000 × 40%\n= ₦70 400\n\nCompute Cost of Goods Sold (COGS)\nCOGS = Sales − Gross profit\n= ₦176 000 − ₦70 400\n= ₦105 600\n\nCompute Ending Inventory\nEnding inventory = Cost of merchandise available for sale − COGS\n= ₦128 000 − ₦105 600\n= ₦22 400",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
     "id": 1381,
     "question": "<b>Use the information below to answer questions 17 and 18\n\nIf at 31/1/95 the following information was ascertained (i)Rent shop ₦12,000 paid for the year (ii) Total purchases\n₦15,000 (iii) Total sales ₦8,200 (iv) Stock of goods left ₦10,000 (v) Paid sales boy ₦500.</b>\n\n\nWhat is the new balance sheet total as at31/1/95?",
     "option": {
@@ -8992,6 +9168,22 @@
     "examyear": "199"
   },
   {
+    "id": 1407,
+    "question": "The part of equity which is payable on winding up is called?",
+    "option": {
+      "a": "general reserve",
+      "b": "revenue reserve",
+      "c": "capital reserve",
+      "d": "normal reserve"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The portion of equity that represents realized profits and is available for distribution when the company is wound up is known as the revenue reserve.\n\nUnlike capital reserves (which arise from non-trading activities and are generally not distributable), revenue reserves are built up from operating profits and can be used to pay out to shareholders on winding up.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1409,
     "question": "Which of the following entries is effected by a department when goods are charged to it at selling prices?",
     "option": {
@@ -9148,6 +9340,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nRecorded profit: ₦120,000\nError 1: Revenue of ₦12,000 was recorded as expenses\nError 2: Expenses of ₦4,000 were recorded as revenue\n\nAnalysis of errors:\nError 1: Revenue ₦12,000 recorded as expenses\n\nThis reduced profit by ₦24,000 (₦12,000 revenue not added + ₦12,000 wrongly deducted as expenses)\nCorrection: Add back ₦24,000\n\nError 2: Expenses ₦4,000 recorded as revenue\n\nThis increased profit by ₦8,000 (₦4,000 wrongly added as revenue + ₦4,000 expenses not deducted)\nCorrection: Deduct ₦8,000\n\nCorrect profit calculation:\n₦120,000 + ₦24,000 - ₦8,000 = ₦136,000",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1441,
+    "question": "Which of the following stock valuation methods is suitable under inflationary conditions?",
+    "option": {
+      "a": "FIFO",
+      "b": "LIFO",
+      "c": "Simple average",
+      "d": "Weighted average"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Under inflationary conditions (rising prices), LIFO charges the most recent (higher) costs to the cost of goods sold. This:\n\nMatches current costs with current revenues,\n\nResults in lower reported profits (because costs are higher),\n\nReduces tax liability compared to FIFO.",
     "examtype": "utme",
     "examyear": "1997"
   },
