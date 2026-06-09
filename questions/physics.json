@@ -15968,6 +15968,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1008,
+    "question": "A block and tackle is used to raise a load of 250N through a vertical distance of 30m. What is the efficiency of the system if the work done against friction is 1500J?",
+    "option": {
+      "a": "62.50%",
+      "b": "73.30%",
+      "c": "83.30%",
+      "d": "94.30%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nLoad = 250 N\nDistance moved by load = 30 m\nWork against friction = 1500 J\n\nSolution:\n\nStep 1: Calculate useful work output\nWork output = Load × distance = 250 N × 30 m = 7500 J\n\nStep 2: Calculate total work input\nWork input = Work output + Work against friction = 7500 J + 1500 J = 9000 J\n\nStep 3: Calculate efficiency\nEfficiency = (Work output / Work input) × 100%\nEfficiency = (7500 / 9000) × 100% = 0.8333 × 100% = 83.33%",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1009,
     "question": "If a load of 1 kg stretches a cord by 1.2 cm, what is the force constant of the cord? {g = 10 m s⁻²}",
     "option": {
