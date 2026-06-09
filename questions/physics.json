@@ -12800,6 +12800,22 @@
     "examyear": "2008"
   },
   {
+    "id": 828,
+    "question": "An electric generator has e.m.f. of 240 V and an internal resistance of 1Ω if the current supplied by the generator is 20A when the terminal voltage is 220 V, find the ratio of the power supplied to the power dissipated?",
+    "option": {
+      "a": "11:01",
+      "b": "1:11",
+      "c": "12:11",
+      "d": "11:12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\nElectromotive force (e.m.f.), E = 240 V\nInternal resistance, r = 1 Ω\nCurrent, I = 20 A\nTerminal voltage, V = 220 V\n\nSolution:\n\nStep 1: Power supplied (useful output power)\nPower supplied to the external circuit = V × I\nP_supplied = 220 V × 20 A = 4400 W\n\nStep 2: Power dissipated (lost as heat in the internal resistance)\nPower dissipated internally = I² × r\nP_dissipated = (20 A)² × 1 Ω = 400 × 1 = 400 W\n\nStep 3: Ratio of power supplied to power dissipated\nP_supplied : P_dissipated = 4400 : 400\nDivide both sides by 400:\n4400 ÷ 400 = 11\n400 ÷ 400 = 1\nRatio = 11 : 1",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 829,
     "question": "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is?",
     "option": {
