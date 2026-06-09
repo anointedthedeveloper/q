@@ -128,6 +128,22 @@
     "examyear": "2003"
   },
   {
+    "id": 16,
+    "question": "The structure can be found in the",
+    "option": {
+      "a": "sympathetic and parasympathetic nervous systems  ",
+      "b": "peripheral and central nervous systems",
+      "c": "peripheral nervous system only  ",
+      "d": "central nervous system only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 17,
     "question": "The point marked I is referred to as  ",
     "option": {
@@ -704,6 +720,22 @@
     "examyear": "2004"
   },
   {
+    "id": 67,
+    "question": "The association between termites and the cellulose digesting protozoans in heir guts is an example of  ",
+    "option": {
+      "a": "saprophytism  ",
+      "b": "mutualism",
+      "c": "parasitism  ",
+      "d": "commensalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 68,
     "question": "The progressive loss of energy at each level in a food chain  leads to",
     "option": {
@@ -715,6 +747,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 71,
+    "question": "The Scarcity of food causes a sudden decrease in population size by",
+    "option": {
+      "a": "decrease the reproductive rate",
+      "b": "bringing about immigration",
+      "c": "raising the mortality rate",
+      "d": "minimizing the rate of competition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -1088,6 +1136,22 @@
     "examyear": "2005"
   },
   {
+    "id": 107,
+    "question": "In Nigeria, the Guinea Savanna belt borders the",
+    "option": {
+      "a": "mangrove swamps and the Sahel  savanna  ",
+      "b": "rainforests and the Sudan savanna  ",
+      "c": "deserts and the Sudan savanna  ",
+      "d": "rainforests and the desert."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 108,
     "question": "The population density of Tridax in an abandoned square farmland of side 200m was found to be 5 plants per m2. The population size of the plant on the farm is",
     "option": {
@@ -1243,6 +1307,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 124,
+    "question": "Hassan and Hussain are identical twins but Hasan grows taller and fatter than Hussain. This is probably  because  ",
+    "option": {
+      "a": "Hussain in endowed with genes for shortness and thinness  ",
+      "b": "They are raised in different environments",
+      "c": "they have dissimilar genotypes  ",
+      "d": "Hassan inherits genes for tallness and fatness from the father."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -1584,6 +1664,22 @@
     "examyear": "2006"
   },
   {
+    "id": 149,
+    "question": "The dominant phase in the life cycle of a bryophyte is the",
+    "option": {
+      "a": "prothallus  ",
+      "b": "Gametangium  ",
+      "c": "saprophyte   ",
+      "d": "gametophyte"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 151,
     "question": "A characteristic that best exemplifies the evolutionary advancement of mammals over other  vertebrates in the  ",
     "option": {
@@ -1659,6 +1755,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 160,
+    "question": "In mammals , the  organ directly on top of the kidney is the",
+    "option": {
+      "a": "prostate gland  ",
+      "b": " pancrease   ",
+      "c": "thyroid gland  ",
+      "d": " adrenal gland"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -2416,6 +2528,38 @@
     "examyear": "2009"
   },
   {
+    "id": 227,
+    "question": "The first terrestrial vertebratese volved from",
+    "option": {
+      "a": "pisces  ",
+      "b": "Reptilia  ",
+      "c": "Amphibia  ",
+      "d": "Mammalia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 228,
+    "question": "In plants, the structures that play roles similar to the arteries and veins of animals are the  ",
+    "option": {
+      "a": "xylem and phloem",
+      "b": "root hairs and xylem  ",
+      "c": "lenticels and phloem  ",
+      "d": "roots and stems"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 229,
     "question": "A blue-green alga is not a protophytes because",
     "option": {
@@ -2679,6 +2823,22 @@
       "b": "75%",
       "c": "50%",
       "d": "25%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 255,
+    "question": "A health condition that isi known to have resulted from gene mutation is  ",
+    "option": {
+      "a": "heamophilia ",
+      "b": "colour blindeness  ",
+      "c": " sickle cell anaemia  ",
+      "d": " anaemia  "
     },
     "section": "",
     "image": "",
@@ -2971,6 +3131,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 278,
+    "question": "In the male reproductive system of a mammal, sperm is stored in the",
+    "option": {
+      "a": "van deferens  ",
+      "b": "urethra",
+      "c": "epididymis  ",
+      "d": "seminiferous tubules   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -3440,6 +3616,22 @@
     "examyear": "2011"
   },
   {
+    "id": 319,
+    "question": "The movement response of a cockroach away  from a light source can be described as  ",
+    "option": {
+      "a": "negative phototaxism  ",
+      "b": "negative photropism",
+      "c": "positive  photropism  ",
+      "d": "positive phototaxism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 320,
     "question": "The vascular tissues in higher plants are responsible for  ",
     "option": {
@@ -3655,6 +3847,54 @@
       "b": " mutation  ",
       "c": " linkage",
       "d": "co dominance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 340,
+    "question": "Which of the following theories was NOT considered by Darwin in his evolutionary theory?",
+    "option": {
+      "a": "survival of the fittest  ",
+      "b": "use and disuse  ",
+      "c": "competition ",
+      "d": " variation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 341,
+    "question": "The crossing of individuals of the same species with different genetic characters is",
+    "option": {
+      "a": " polygenic inheritance  ",
+      "b": " non disjunction  ",
+      "c": "inbreeding",
+      "d": "cross breeding"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 342,
+    "question": "The number of alleles controlling  blood groups in humans is",
+    "option": {
+      "a": "4",
+      "b": "5",
+      "c": "2",
+      "d": "3"
     },
     "section": "",
     "image": "",
@@ -3959,6 +4199,22 @@
       "b": "increase exponentially",
       "c": "slow down",
       "d": "remain steady"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 374,
+    "question": "An indigenous method of renewing and maintaining  soil fertility is by",
+    "option": {
+      "a": "clearing farms a by burning",
+      "b": "planting one crop type  ",
+      "c": "adding inorganic fertilizers yearly   ",
+      "d": "crop rotation and shifting cultivation"
     },
     "section": "",
     "image": "",
