@@ -8320,6 +8320,22 @@
     "examyear": "2019"
   },
   {
+    "id": 540,
+    "question": "Which two gases can be used for the demonstration of the fountain experiment?",
+    "option": {
+      "a": "SO₄ and NH₃",
+      "b": "SO₃ and NH₃",
+      "c": "HCl and NH₃",
+      "d": "SO₂ and CO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The fountain experiment requires a gas with very high solubility in water. When the gas dissolves rapidly, pressure inside the flask drops sharply, drawing water up in a fountain. HCl and NH₃ are both extremely soluble in water and satisfy this requirement. Answer: C.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 541,
     "question": "Which of the following pollutants will lead to the depletion of ozone layer?",
     "option": {
