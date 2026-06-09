@@ -1,5 +1,21 @@
 [
   {
+    "id": 121,
+    "question": "Upon the dissolution of a partnership business, the party to be settled first out of the proceeds realized is",
+    "option": {
+      "a": "unsecured creditors.",
+      "b": "partners’ loan and advances.",
+      "c": "secured creditors.",
+      "d": "partners’ capital."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 149,
     "question": "A discount that is allowed to encourage a debtor to pay off his debt within a period is the",
     "option": {
@@ -7,6 +23,22 @@
       "b": "annual discount",
       "c": "periodic discount",
       "d": "cash discount."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 154,
+    "question": "Which of the followings is a credit item in creditors ledger control account?",
+    "option": {
+      "a": "Returns outwards.",
+      "b": "Discount Received.",
+      "c": "Bad debts.",
+      "d": "Purchases."
     },
     "section": "",
     "image": "",
@@ -46,6 +78,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
+  },
+  {
+    "id": 391,
+    "question": "The principle of double entry book - keeping states that",
+    "option": {
+      "a": "every debtor must have a creditor",
+      "b": "every account debited must be immediately credited",
+      "c": "for every debit entry, there must be a corresponding credit entry",
+      "d": "for every double debit, there must be a double credit."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
   },
   {
     "id": 490,
@@ -222,6 +270,38 @@
     "solution": "Prime cost consists of all direct costs only. It does not include any overhead or indirect expenses.\nPrime Cost = Direct Material + Direct Labour + Direct Expenses\nPrime Cost = ₦2,500 + ₦5,000 + ₦1,000 = ₦8,500",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 1272,
+    "question": "A source document that aids the ascertainment of amount paid out of current account is the?",
+    "option": {
+      "a": "teller",
+      "b": " cheque stub",
+      "c": "cheque",
+      "d": "teller stub"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A cheque stub is the source document used to ascertain amounts paid out of the current (cash) account.\n\nWhen you write a cheque, you fill in the cheque itself (which goes to the payee and then to the bank).\n\nThe stub (or counterfoil) remains in your cheque book and records the cheque number, date, payee, and amount.\n\nThis stub provides a ready reference for all disbursements and is used to update the cash book.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1409,
+    "question": "Which of the following entries is effected by a department when goods are charged to it at selling prices?",
+    "option": {
+      "a": "stock account is debited",
+      "b": "purchases account is debited",
+      "c": "stock account is credited",
+      "d": " mark-up account is debited"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When goods are transferred to a department at the selling price, the department must separate the cost and the markup. The markup portion is removed from the stock valuation by debiting the Mark-up Account.",
+    "examtype": "utme",
+    "examyear": "199"
   },
   {
     "id": 1449,
