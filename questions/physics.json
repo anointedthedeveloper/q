@@ -288,6 +288,22 @@
     "examyear": "2006"
   },
   {
+    "id": 19,
+    "question": "What is the dimension of pressure? ",
+    "option": {
+      "a": "ML-1T-2 ",
+      "b": "MLT-2 ",
+      "c": "ML2T-3 ",
+      "d": "ML-3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 20,
     "question": "Calculate the length of a displaced pendulum bob that passes its lowest point twice every second. [g=10ms-1] ",
     "option": {
@@ -8256,6 +8272,22 @@
     "examyear": "2023"
   },
   {
+    "id": 536,
+    "question": "How much work is done against the gravitational force on a 3.0 kg object when it is carried from the ground floor to the roof of a building, a vertical climb of 240 m?",
+    "option": {
+      "a": "7.2 kJ",
+      "b": "4.6 kJ",
+      "c": "6.8 kJ",
+      "d": "8.4 kJ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass, m = 3.0 kg\nVertical height, h = 240 m\nAcceleration due to gravity, g = 10 m/s²\nWork done, W = ?\n\nSolution:\nStep 1: Identify the work done formula\nWork done against gravitational force equals the change in gravitational potential energy:\nW = mgh\nStep 2: Substitute the known values\nW = 3.0 × 10 × 240\nStep 3: Calculate the work done\nW = 7200 J\nW = 7.2 kJ",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 537,
     "question": "A beam of light travelling in water is incident on a glass which is immersed in the water. The incident beam makes an angle of 40° with the normal. Calculate the angle of refraction in the glass. [Refractive index of water = 1.33, Refractive index of glass = 1.5]",
     "option": {
@@ -13056,6 +13088,22 @@
     "examyear": "2008"
   },
   {
+    "id": 847,
+    "question": "If electrons are accelerated from rest through a potential difference of 10kV, what is the wavelength of the associated electron? [m = 9.1 × 10⁻³¹ kg, e = 1.6 × 10⁻¹⁹ C, h = 6.6 × 10⁻³⁴ Js]",
+    "option": {
+      "a": "1.22 × 10⁻¹¹ m",
+      "b": "3.87 × 10⁻¹⁰ m",
+      "c": "2.27 × 10¹¹ m",
+      "d": " 2.27 × 10¹⁴ m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nPotential difference (V) = 10 kV = 10,000 V\nMass of electron (m) = 9.1 × 10⁻³¹ kg\nCharge of electron (e) = 1.6 × 10⁻¹⁹ C\nPlanck's constant (h) = 6.6 × 10⁻³⁴ Js\nWavelength (λ) = ?\n\nStep 1: Calculate kinetic energy gained\nKE = eV\nKE = 1.6 × 10⁻¹⁹ × 10,000\nKE = 1.6 × 10⁻¹⁵ J\nStep 2: Calculate velocity\nKE = ½mv²\nv² = 2KE/m\nv² = (2 × 1.6 × 10⁻¹⁵)/(9.1 × 10⁻³¹)\nv² = (3.2 × 10⁻¹⁵)/(9.1 × 10⁻³¹)\nv² = 3.516 × 10¹⁵\nv = 5.93 × 10⁷ m/s\nStep 3: Calculate momentum\np = mv\np = 9.1 × 10⁻³¹ × 5.93 × 10⁷\np = 5.40 × 10⁻²³ kg·m/s\nStep 4: Calculate de Broglie wavelength\nλ = h/p\nλ = (6.6 × 10⁻³⁴)/(5.40 × 10⁻²³)\nλ = 1.22 × 10⁻¹¹ m",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 848,
     "question": "\n¹⁴₇N + ⁴₂He → ¹⁷₈O + X\nIn the equation above, the particle X is?",
     "option": {
@@ -13564,6 +13612,22 @@
     "image": "",
     "answer": "c",
     "solution": "Canorous cells can be destroyed with a high penetrating radiation which is x - rays",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 880,
+    "question": "If the decay constant of a radioactive substance is 0.231 s⁻¹, the half-life is?",
+    "option": {
+      "a": "3.00 s",
+      "b": "0.12 s",
+      "c": "0.33 s",
+      "d": "1.50 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nDecay constant, λ = 0.231 s⁻¹\n\nSolution:\n\nStep 1: Relationship between half-life and decay constant\nHalf-life T₁/₂ = ln 2 / λ\n\nStep 2: Substitute the value of ln 2\nln 2 ≈ 0.693\n\nStep 3: Calculate half-life\nT₁/₂ = 0.693 / 0.231 = 3.00 s",
     "examtype": "utme",
     "examyear": "2009"
   },
