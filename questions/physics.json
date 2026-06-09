@@ -7760,6 +7760,22 @@
     "examyear": "2023"
   },
   {
+    "id": 516,
+    "question": "A man swung an object of mass 2 kg in a circular path with a rope 1.2 m long. If the object was swung at 120 rev/min, find the tension in the rope.",
+    "option": {
+      "a": "400",
+      "b": "288",
+      "c": "240",
+      "d": "379"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 2 kg\nRadius (rope length), r = 1.2 m\nFrequency, f = 120 rev/min\nTension, T = ?\n\nSolution:\nStep 1: Convert frequency to rev/s\nf = 120 rev/min = 120/60 rev/s\nf = 2 rev/s = 2 Hz\nStep 2: Calculate angular velocity\nω = 2πf\nω = 2 × π × 2\nω = 4π rad/s\nω = 12.566 rad/s\nStep 3: Calculate centripetal force (tension)\nFor horizontal circular motion, tension provides the centripetal force:\nT = mω²r\nT = 2 × (12.566)² × 1.2\nT = 2 × 157.914 × 1.2\nT = 2 × 189.497\nT = 378.99 N\nT ≈ 379 N",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 517,
     "question": "A 200 kg load is raised using a 110 m long lever as shown in the diagram above. The load is 10m from the pivot P. If the efficiency of the lever is 80%, find the effort E required to lift the load. [Take g = 10ms⁻²]",
     "option": {
@@ -9244,6 +9260,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nGiven information:\n\nC₁ = 0.3 μF\nC₂ = 0.5 μF\nC₃ = 0.2 μF\n\nSolution:\nKey concept:\nMinimum capacitance is obtained when capacitors are connected in series.\nFormula for series capacitors:\n1/Cₜₒₜₐₗ = 1/C₁ + 1/C₂ + 1/C₃\nStep 1: Substitute values\n1/Cₜₒₜₐₗ = 1/0.3 + 1/0.5 + 1/0.2\nStep 2: Calculate each term\n1/Cₜₒₜₐₗ = 3.333 + 2.0 + 5.0\n1/Cₜₒₜₐₗ = 10.333 μF⁻¹\nStep 3: Find Cₜₒₜₐₗ\nCₜₒₜₐₗ = 1/10.333\nCₜₒₜₐₗ = 0.0968 μF ≈ 0.1 μF",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 618,
+    "question": "The difference between X-rays and gamma rays is that",
+    "option": {
+      "a": "x-rays are more penetrating than gamma rays",
+      "b": " x-rays are electromagnetic radiations while gamma rays are negatively charged radiation",
+      "c": "x-rays have higher frequencies than gamma rays",
+      "d": "x-rays arise from energy changes in the electronic structure of atoms while gamma rays come from the nucleus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x-rays arise from energy changes in the electronic structure of atoms while gamma rays come from the nucleus",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -17036,6 +17068,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nMass of water, m = 4 kg\nInitial temperature, T₁ = 30 °C\nFinal temperature, T₂ = 65 °C\nTemperature change, Δθ = 35 K\nSpecific heat capacity, c = 4200 J kg⁻¹ K⁻¹\nCurrent, I = 5 A\nVoltage, V = 240 V\n\nSolution:\n\nStep 1: Calculate heat energy required\nQ = m × c × Δθ = 4 × 4200 × 35\nQ = 4 × 4200 = 16 800\n16 800 × 35 = 588 000 J\n\nStep 2: Calculate electrical power\nP = I × V = 5 × 240 = 1200 W\n\nStep 3: Relate energy, power, and time\nQ = P × t\nt = Q / P = 588 000 / 1200 = 490 s",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1149,
+    "question": "The figure shows a uniform metre rule of weight 100 N balanced by a knife edge at the 10 cm mark and a cord attached at the 85 cm mark. What is the tension in the string?",
+    "option": {
+      "a": "23.62 N",
+      "b": " 53.33 N",
+      "c": "35.74 N",
+      "d": " 78.68 N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774443729/ALOC-Questions/Physics/2025/PHYSICS_2025_Q_30_og6l5z.png",
+    "answer": "b",
+    "solution": "Solution:\nFrom the diagram:\n\nUniform metre rule (100 cm long)\nWeight of rule = 100 N\nPivot (fulcrum) at 10 cm mark\nTension T acts upward at 85 cm mark\nRule is in equilibrium\n\nKey information:\nFor a uniform metre rule:\n\nWeight acts at the center of gravity = 50 cm mark\n\nDistances from pivot (at 10 cm):\n\nDistance to center of gravity (where weight acts): 50 - 10 = 40 cm\nDistance to tension point: 85 - 10 = 75 cm\n\nStep 1: Apply principle of moments\nFor equilibrium, taking moments about the pivot:\nClockwise moments = Anticlockwise moments\nClockwise moment (due to weight):\nMoment = Weight × distance from pivot\nMoment = 100 × 40\nMoment = 4000 N·cm\nAnticlockwise moment (due to tension):\nMoment = T × 75 N·cm\nStep 2: Set up equation\nT × 75 = 100 × 40\nT × 75 = 4000\nStep 3: Solve for T\nT = 4000/75\nT = 53.33 N",
     "examtype": "utme",
     "examyear": "2025"
   },
