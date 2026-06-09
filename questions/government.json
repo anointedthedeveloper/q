@@ -1040,6 +1040,22 @@
     "examyear": "2009"
   },
   {
+    "id": 86,
+    "question": "Under the Presidential system ",
+    "option": {
+      "a": "The party with the majority of seat forms the executive ",
+      "b": "there is the principles of collective responsibility ",
+      "c": "the president may come from any of the parties ",
+      "d": "the states take instructions from the federal government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 87,
     "question": "Public opinion is important because it ",
     "option": {
@@ -1952,6 +1968,22 @@
     "examyear": "2012"
   },
   {
+    "id": 162,
+    "question": "The Chick’s Commission in Nigeria was set up to look into  ",
+    "option": {
+      "a": "state’s creation  ",
+      "b": "revenue allocation  ",
+      "c": "minorities issues  ",
+      "d": "extra-judicial killings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 165,
     "question": "The principle of checks and balances empowers the judiciary to  ",
     "option": {
@@ -2619,6 +2651,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 222,
+    "question": "If the federal government and the unit governments are to \tpreserve their autonomy, the",
+    "option": {
+      "a": "Federal government must be supreme",
+      "b": "Unit governments must be supreme",
+      "c": "Judiciary must be supreme",
+      "d": "Constitution must be supreme"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -3803,6 +3851,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 328,
+    "question": "A dominant two-party system is operated in",
+    "option": {
+      "a": "the United Kingdom and the United States",
+      "b": "India and Pakistan",
+      "c": "France and Germany",
+      "d": "South Africa and Senegal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 329,
+    "question": "Indirect legislation can be achieved by",
+    "option": {
+      "a": "judicial interpretation and precedent",
+      "b": "passing a private member’s bill",
+      "c": "second read of the law",
+      "d": "the two legislative chambers considering a bill"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -6944,6 +7024,22 @@
     "examyear": "2014"
   },
   {
+    "id": 594,
+    "question": "Which of the following is a guiding principle of Nigeria’s foreign policy?",
+    "option": {
+      "a": "Total opposition to the Cold War",
+      "b": "Posting of only carrier diplomats as envoys",
+      "c": "Interference in the affairs of African countries",
+      "d": "Decolonization of all African states"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 597,
     "question": "Nigeria is regarded as a frontline state because she",
     "option": {
@@ -7063,6 +7159,22 @@
       "b": "act of vetoing a bill",
       "c": "orders of judiciary and legislature",
       "d": "activities by which governmental policies are made and implemented"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 608,
+    "question": "Which of the following is not the function of the government?",
+    "option": {
+      "a": "Building of roads, bridges, canals, etc.",
+      "b": "Provision of education.",
+      "c": "Maintenance of relations with other states.",
+      "d": "Provision of all the material needs of all citizens."
     },
     "section": "",
     "image": "",
@@ -7662,6 +7774,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
+  },
+  {
+    "id": 664,
+    "question": "Government is the machinery established to manage the affairs of",
+    "option": {
+      "a": "rulers",
+      "b": "aliens",
+      "c": "the civil service",
+      "d": "the state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
   },
   {
     "id": 665,
@@ -8768,6 +8896,22 @@
     "examyear": "2017"
   },
   {
+    "id": 760,
+    "question": "Delegated legislation is the—",
+    "option": {
+      "a": "limitation of responsibilities to agencies",
+      "b": "transfer of responsibilities to agencies",
+      "c": "deterring of responsibilities of agencies",
+      "d": "facilitation responsibilities of agencies."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Delegated legislation involves transferring legislative powers to other bodies.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 762,
     "question": "An important element of the doctrine of separation of powers is __",
     "option": {
@@ -9468,6 +9612,22 @@
     "image": "",
     "answer": "a",
     "solution": "Power is referred to as the ability to control others by imposing ones will on others",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 822,
+    "question": "The creation of more states in Nigeria has_______\n",
+    "option": {
+      "a": "eliminated ethnic and religious conflicts",
+      "b": "reduced the gap between the rich and poor states",
+      "c": "increased the powers of the federal government",
+      "d": "increased the powers of the states and local government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The creation of more states in Nigeria has eliminated ethnic and religious conflicts which used to be a bane of crises in the country, as both minor and major ethnic groups are involved.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -10752,6 +10912,22 @@
     "examyear": "2021"
   },
   {
+    "id": 933,
+    "question": "The independent National Electoral Commission has the power to prepare and maintain the register of.____",
+    "option": {
+      "a": "Electoral candidates",
+      "b": "Constituencies",
+      "c": "Political parties",
+      "d": "Voters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "This is the only body saddled with the responsibility of effecting a credible election by ensuring voter's registration are updated.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 935,
     "question": "A major issue that distinguishes pressure groups from political parties is the …",
     "option": {
@@ -11776,6 +11952,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1028,
+    "question": "The civil service in Nigeria operates under the principle of",
+    "option": {
+      "a": "autonomy",
+      "b": " separation of powers",
+      "c": "none of the above",
+      "d": "meritocracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The civil service in Nigeria operates under the principle of meritocracy. This means that positions and promotions in the civil service are based on merit, rather than factors such as political affiliation or personal connections. This is intended to ensure that the civil service is staffed by competent and qualified individuals.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1029,
     "question": "The Commonwealth of Nations was initially known as",
     "option": {
@@ -12400,6 +12592,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1076,
+    "question": "Lack of separation of power is a feature of ",
+    "option": {
+      "a": " presidential system",
+      "b": " cabinet system",
+      "c": " democratic government",
+      "d": "military government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Separation of power is the division of powers and functions among the three arms of government - the legislature, executive and judiciary. This is essential to prevent the abuse of power when it is concentrated in the hands of a single authority. In a presidential system, there is a clear separation of power. In a cabinet system, there is still separation of power although, it is not as clear (this is because the legislature and executive arms are fused). However, in a military government, power is concentrated in the hands of the military leader. He has the power to make laws through the promulgation of decrees; to execute the law; as well as to punish law breakers. In this case, there is a lack of separation of power. \n\n ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1078,
     "question": "Which local government reform in Nigeria prevented traditional rulers from engaging in politics?",
     "option": {
@@ -12972,6 +13180,22 @@
     "image": "",
     "answer": "c",
     "solution": "The Land Use Decree of 1978 (later revised as the Land Use Act) vested the ownership of land in Nigeria's state governments. According to the decree, all land in urban and rural areas is held in trust by the state governors, who are responsible for managing it on behalf of the citizens. The goal was to ensure better land administration and allocation across the country. ",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1130,
+    "question": "The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of",
+    "option": {
+      "a": "the office of sole administrators",
+      "b": "caretaker management committees",
+      "c": "uniformity in struture and functions",
+      "d": "the third tier of government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of uniformity in structure and functions.\n\nIn February 1976 Federal Military Government issued a degree establishing a uniform Local Government Structure throughout the country. The measure is significant in a away in the sense that the first time in the history of Nigeria a national rather than Region/state approach was adopted toward Local Government.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -13756,6 +13980,22 @@
     "image": "",
     "answer": "d",
     "solution": "Rilwanu Lukman, a Nigerian engineer and technocrat, served as the Secretary General of OPEC from 1995 to 2000. During his tenure, he played a crucial role in managing the organization’s policies and navigating the complexities of global oil markets. His leadership is often noted for its contributions to stabilizing oil production levels and addressing the challenges faced by member countries.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1190,
+    "question": "Nigeria's active role in the liberation of some countries in Southern Africa earned her",
+    "option": {
+      "a": "the chairmanship of the Eminent Persons Group",
+      "b": " membership of SADC",
+      "c": "recognition as the giant of Africa",
+      "d": "the status of a frontline state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nigeria's active role in the liberation of some countries in Southern Africa earned her the status of a frontline state.\n\nIt made Nigeria to because very ifluential in the world community as outside countries began to consult Nigeria on issues concerning Africa.\n\nIt was also in recognition of Nigeria's contributions to liberation Movements that made ANC deputy President Dr.Nelson Mandela to make Nigeria his first port of call outside the front line states immediately after his release from prison in 1990.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -15164,6 +15404,22 @@
     "image": "",
     "answer": "a",
     "solution": "The principle of checks and balances empowers the judiciary to invalidate the actions of the other arms.\nFor instance, the judges who can try government officials can as well declare a legislation ultra vires.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1321,
+    "question": "In a first-past-the-post electoral system, a candidate is declared when he",
+    "option": {
+      "a": "records the highest number of votes cast",
+      "b": "obtains a two-thirds majority of the votes cast",
+      "c": "obtains one-third of the votes cast",
+      "d": "scors the aggregates of the opponent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In a first-past-the-post electoral system, a candidate is declared when he records the highest number of votes cast. This system is also know as plurality system or simple majority. In this elected candidate must secure majority of the votes cast.",
     "examtype": "utme",
     "examyear": "2005"
   },
