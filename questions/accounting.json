@@ -10336,6 +10336,22 @@
     "examyear": "2018"
   },
   {
+    "id": 667,
+    "question": "Capital ₦39,000, Long Term Loan ₦15,000, Creditors ₦9,000, Accrued wages ₦5,000 totaling ₦68,000 on one side, and Land ₦20,000, Building ₦30,000, Stock ₦40,000, Debtors ₦6,000, Cash ₦8,000 totaling ₦68,000 on the other side, use the information above to answer the question: The acid test ratio in the company is ________.",
+    "option": {
+      "a": "1:1",
+      "b": " 2:3",
+      "c": " 1:2",
+      "d": "3:2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The acid test ratio (quick ratio) measures a company's ability to pay short-term debts using liquid assets.\nFormula:\nAcid Test Ratio = (Current Assets - Stock) ÷ Current Liabilities\nCalculation:\n\nCurrent Assets = Stock + Debtors + Cash = ₦40,000 + ₦6,000 + ₦8,000 = ₦54,000\nQuick Assets = Current Assets - Stock = ₦54,000 - ₦40,000 = ₦14,000\nCurrent Liabilities = Creditors + Accrued wages = ₦9,000 + ₦5,000 = ₦14,000\n\nAcid Test Ratio = ₦14,000 ÷ ₦14,000 = 1:1\nThis means the company has exactly enough liquid assets to cover its current liabilities.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 668,
     "question": "When goods are sent to branch at cost plus mark up, it means that the branch should sell at_____________",
     "option": {
@@ -18496,6 +18512,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1197,
+    "question": "Costs that vary in proportion to the level of production in a manufacturing environment are known as?",
+    "option": {
+      "a": "control costs",
+      "b": " overheads",
+      "c": " direct costs",
+      "d": " indirect costs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Direct costs are the costs that vary in direct proportion to production levels. When production increases, direct costs increase proportionally. When production decreases, direct costs decrease proportionally.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1198,
     "question": "A company operating a chain of retail provision stores invoices goods to the branches at cost plus a mark-up of 25%. What is the mark-up percentage on selling price?",
     "option": {
@@ -22300,6 +22332,22 @@
     "image": "",
     "answer": "a",
     "solution": "According to company law, the share premium account is treated as a capital reserve and can only be used for specific purposes, such as:\n\nWriting off discount on shares (i)\n\nPaying the company's formation (preliminary) expenses (iv)\n\nIssuing fully paid bonus shares",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1447,
+    "question": "Alabede (₦IG) limited issued 50 000 ordinary shares of ₦1 each at a market value of ₦2.50 each. the share premium is?",
+    "option": {
+      "a": "₦75,000",
+      "b": "₦500 000",
+      "c": "₦50 000",
+      "d": "₦25 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Calculate the share premium:\n\nNominal value (par) = ₦1 per share\n\nIssue (market) price = ₦2.50 per share\n\nPremium per share = ₦2.50 − ₦1 = ₦1.50\n\nTotal share premium = Premium per share × Number of shares\n\nShare premium = ₦1.50 × 50,000 = ₦75,000",
     "examtype": "utme",
     "examyear": "1997"
   },
