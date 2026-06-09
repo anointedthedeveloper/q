@@ -1,5 +1,21 @@
 [
   {
+    "id": 15,
+    "question": "What was the primary purpose of the Sir Henry Willink Commission of Inquiry? ",
+    "option": {
+      "a": "to approve the independence of Nigeria ",
+      "b": "to allay the fears of minorities in Nigeria ",
+      "c": "to amalgamate northern and southern  Nigeria ",
+      "d": "to make Lagos a British Colony"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 19,
     "question": "The electorate is generally  understood to refer to ",
     "option": {
@@ -48,6 +64,22 @@
     "examyear": "2010"
   },
   {
+    "id": 142,
+    "question": "The Nigeria-Cameroon crisis over Bakaasi peninsula occurred owning to the interpretation of the Treaty of 1913 and the:",
+    "option": {
+      "a": "resolution of the OAU ",
+      "b": "Maroua Accord",
+      "c": "decision of the ECOWAS Tribunal ",
+      "d": "decision of the International Court of Justice "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 182,
     "question": "Which of these is not an instrument of foreign policy",
     "option": {
@@ -77,6 +109,54 @@
     "answer": "c",
     "solution": "",
     "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 229,
+    "question": "Which of the following factors may work against a representative system of government?",
+    "option": {
+      "a": "High literacy of the electorate",
+      "b": "The introduction of universal adult suffrage",
+      "c": "Independent electoral commission",
+      "d": "Rigging of elections"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 297,
+    "question": "How many members of the security council of the United Nations (UN) exercise veto power?",
+    "option": {
+      "a": "Eight",
+      "b": "Five",
+      "c": "Four",
+      "d": "Six"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 306,
+    "question": "The process of sensitizing the electorate on the need to vote on the election day and also observe the rules and regulations of election is referred to as",
+    "option": {
+      "a": "campaign",
+      "b": "free and fair election",
+      "c": "gerrymandering",
+      "d": "political socialization."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
     "examyear": "2013"
   },
   {
@@ -112,6 +192,22 @@
     "examyear": "1999"
   },
   {
+    "id": 362,
+    "question": "The Mid-Western Region was created in Nigeria in",
+    "option": {
+      "a": "1961",
+      "b": "1962",
+      "c": "1963",
+      "d": "1964"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 376,
     "question": "Before Nigeria became a republic, the highest body charged with the administration of justice was the",
     "option": {
@@ -142,6 +238,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 408,
+    "question": "Nation-state is synonymous with",
+    "option": {
+      "a": "liberation",
+      "b": "sovereignty",
+      "c": "nationalism",
+      "d": "self-actualization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 412,
@@ -176,6 +288,22 @@
     "examyear": "2010"
   },
   {
+    "id": 447,
+    "question": "Nigeria broke diplomatic relations with France in 1961 because of:",
+    "option": {
+      "a": "her poor relations with the francophone countries",
+      "b": "General de-Gaulle’s negative attitude towards her",
+      "c": "France’s diplomatic relations with Israel",
+      "d": "France’s atomic test in the Sahara Desert"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 452,
     "question": "The head of Nigeria’s foreign mission in a Commonwealth nation is known as",
     "option": {
@@ -190,6 +318,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 502,
+    "question": "The African leader mostly credited for spearheading the formation of the African Union is",
+    "option": {
+      "a": "Muammar Ghaddafi",
+      "b": "Abdelaziz Bouteflika",
+      "c": "Abdoulaye Wade",
+      "d": "Thabo Mbeki."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
   },
   {
     "id": 510,
@@ -272,6 +416,38 @@
     "examyear": "1989"
   },
   {
+    "id": 698,
+    "question": "The major advantage of the secret ballot is that",
+    "option": {
+      "a": "it is faster than other systems",
+      "b": "nobody can be prevented from voting",
+      "c": "it ensures the anonymity of each voter",
+      "d": "losers can ask for another secret vote"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 700,
+    "question": "A parliamentary-cabinet system of government is practiced in",
+    "option": {
+      "a": "Canada",
+      "b": "Nigeria",
+      "c": "the Soviet Union",
+      "d": "all European countries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 730,
     "question": " The right of a state is known as ___",
     "option": {
@@ -304,6 +480,22 @@
     "examyear": "2017"
   },
   {
+    "id": 736,
+    "question": "The three major political parties of the First Republic can be said to have had __",
+    "option": {
+      "a": "national outlook",
+      "b": "regional and ethnic undertone",
+      "c": "governmental funding",
+      "d": "religious and sectional appeals."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The major political parties of the First Republic were largely based on regional and ethnic divisions.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 747,
     "question": "Which of the following is a major feature of democracy?",
     "option": {
@@ -332,6 +524,22 @@
     "image": "",
     "answer": "d",
     "solution": " In the Emirate system, the Emir of Gwandu controlled the western section.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 765,
+    "question": "The essence of ECOWAS is to________",
+    "option": {
+      "a": "bring political parties together",
+      "b": "foster interstate economic and political co-operation",
+      "c": "emerging political event",
+      "d": "expansion of scopes and powers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Economic Community of West African States (ECOWAS) is a regional organisation of 15 West African countries established on 28 May 1975. Its main goal is the promotion of the economic integration among its members. Indeed, ECOWASis one the five regional pillars of the African Economic Community (AEC).",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -448,6 +656,22 @@
     "examyear": "2020"
   },
   {
+    "id": 951,
+    "question": "One of the duties of the legislature is to_______",
+    "option": {
+      "a": "Exercise oversight",
+      "b": " Implement law",
+      "c": "Promulgate decrees",
+      "d": "Adjudicate disputess"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The legislature has several key functions in a government, including exercising oversight. This involves monitoring and evaluating the actions and policies of the executive branch to ensure accountability and transparency. The legislature holds hearings, conducts investigations and reviews the implementation of laws and policies to prevent misuse of power and corruption.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 964,
     "question": "A group of people with different natures, opinions, and goals with complicated networks of social relation",
     "option": {
@@ -460,6 +684,22 @@
     "image": "",
     "answer": "c",
     "solution": "A group of people with different natures, opinions, and goals with complicated networks of social relation is referred to as a society. ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 984,
+    "question": "Which of these is not a major characteristic of the rule of law?",
+    "option": {
+      "a": "Judicial independence",
+      "b": "Separation of powers",
+      "c": "Equality before the law",
+      "d": "Supremacy of the law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Separation of powers is also called a system of checks and balances because the branches can check up on each other and if any of the branches get too strong, that branch will be balanced by the others. However, it is not a feature of the rule of law.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -496,6 +736,54 @@
     "examyear": "2024"
   },
   {
+    "id": 1063,
+    "question": "The power of prerogative of mercy rests with the ",
+    "option": {
+      "a": " legislature",
+      "b": " executive",
+      "c": "judiciary",
+      "d": " national assembly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The \"prerogative of mercy\" is one of the powers of the executive. It is also a method of checking the activities of the Judiciary. It is the power of the president to grant pardon to a convicted criminal or to commute his/her sentence. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1092,
+    "question": "The June 12 election in Nigeria was annulled by the regime of ",
+    "option": {
+      "a": " Olusegun Obasanjo",
+      "b": " Ibrahim Babangida",
+      "c": "Muhammadu Buhari",
+      "d": " Yakubu Gowon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Presidential Election of 1993 which was supposedly meant to transfer power back to civilian rule from the hands of Ibrahim Babangida was contested by Alhaji Tofa of the NRC and Moshood K.O. Abiola of the SDP. The Armed Forces Ruling Council (AFRC) then annulled the entire exercise.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1103,
+    "question": "when a bill passed by the legislature is vetoed by the executive, the action underscores the principle",
+    "option": {
+      "a": "probity and accountability",
+      "b": "separation of powers",
+      "c": "collective responsibility",
+      "d": "checks and balances."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When a bill passed by the legislature is vetoed by the executive the action underscores the principle of checks and balances.\n\nThe doctrine or principle of checks and balances advocates the use of one organ of government to check the activities of the other organs. When the executive vetoes the bill passed by the legislature, and the executive has checked the activities of the legislature, thereby putting the principles of the checks and balances into practice.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1170,
     "question": "In pre-colonial Igbo society, decisions on public issues were reached mainly through",
     "option": {
@@ -512,6 +800,38 @@
     "examyear": "2002"
   },
   {
+    "id": 1215,
+    "question": "The Arthur Richards Constitution was designed to last for",
+    "option": {
+      "a": " nine years",
+      "b": "five years",
+      "c": "twelve years",
+      "d": "six years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Richard constitution of 1946 replaced the Clifford constitution of 1922. it was due to the weakness of Clifford constitution that made the Nigerian nationalists to bring pressure on Sir Bernard Boudillon, the then governor of Nigeria (1935-1943) to give them a new constitution.\n\nIt was then Sir Bernard Boudillon who split Nigeria into northern, eastern and western regions in 1939. He also made other proposals which seemed to be very useful. But Boudillon's constitution never saw the light of the day due to outbreak of the second world war. It was the proposals of Bernard Boudillon that formed the basis of Sir Arthur Richard's constitution of 1946 which came into force on January 1st 1947.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1222,
+    "question": "The most important challenge facing the Fourth Republic is",
+    "option": {
+      "a": "the need to develop Nigeria culturally",
+      "b": "the successful conduct of the 2003 election",
+      "c": "how to develop Nigeria's social institutions",
+      "d": "how to deal with the military"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The most important challenge facing the Fourth Republic is the successful conduct of the 2003 elections.\n\nIf certain things are not well done, such issues as rigging and election violence may plunge the nation into state of anarchy and this may eventually attract another military regime.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1241,
     "question": "The headquarters of the International Court of Justice is in",
     "option": {
@@ -526,6 +846,54 @@
     "solution": "The headquarters of the International Court of Justice is at Hague in the Court of Justice is at Hague in the Netherlands.\n\nThe court is composed of fifteen judges. The judges are elected independently by the security council and the general assembly. It elects its own president and vice president, a registrar and other officers. Only nations and not individuals can bring cases to the court.",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 1276,
+    "question": "In a parliamentary system of government,a vote of no confidence leads to the resignation of",
+    "option": {
+      "a": "the entire parliament",
+      "b": "the prime minister",
+      "c": "the entire cabinet",
+      "d": " B and C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a parliamentary system, a successful vote of no confidence results in the resignation of both the Prime Minister and the entire cabinet. This occurs because the government (executive) derives its authority from the legislature's support. Losing this support means the government can no longer govern effectively, leading to collective resignation.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1350,
+    "question": "A key characteristics of the civil service is",
+    "option": {
+      "a": "transparency",
+      "b": "patriotism",
+      "c": " merit system",
+      "d": "quota system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A fundamental characteristic of a professional civil service is that it is based on a merit system. This means that appointments, promotions, and other personnel decisions are made based on qualifications, competence, and performance rather than on political connections, favoritism, or quotas. This merit-based approach helps ensure that the civil service is efficient, impartial, and able to deliver quality public services.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1355,
+    "question": "Membership of a society is",
+    "option": {
+      "a": "reserved",
+      "b": "voluntary",
+      "c": "mandatory",
+      "d": "honorary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Membership of a society is voluntary.\n\nSociety could include any of the multiplicity of groups, units or organizations found among men. e.g. Society of Friends, Society for the Advancement of Human Rights, Clubs, Fraternities, Criminal Groups, Professional Organizations, Families, Kinship Groups and Clusters of Friends. According to Barker (1928), '' The area of society is voluntary cooperation, its energy is goodwill and its method is elasticity.''",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 1361,
@@ -558,5 +926,37 @@
     "solution": "socialism an economic system that encourages even distribution of wealth in the society.\n\nSocialism is the system of government in which there is a public ownership of production and the establishment of a society in which every person is equal.",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 1453,
+    "question": "The OAU was formed in",
+    "option": {
+      "a": "1946",
+      "b": "1956",
+      "c": "1960",
+      "d": "1963"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Organisation of African Unity (OAU) was formed on May 25, 1963, in Addis Ababa, Ethiopia. It was established to promote unity and cooperation among African countries and to support the decolonization of African nations. It was later replaced by the African Union (AU) in 2001 to address more modern political and economic challenges.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1458,
+    "question": "An electoral process in which candidates are selected for elective offices by party members is",
+    "option": {
+      "a": "primary election",
+      "b": "electoral college",
+      "c": "bye election",
+      "d": "general election"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "It is only the party that can nominate (choose) an individual for a position or post. Furthermore, it an in-house affair where the party’s candidate is given a ticket to vote for a particular post.",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]
