@@ -208,6 +208,22 @@
     "examyear": "2003"
   },
   {
+    "id": 15,
+    "question": "Metabolic production of urea is carried out in the",
+    "option": {
+      "a": "Urinary bladder and kidney",
+      "b": "liver   ",
+      "c": "pancreas  ",
+      "d": "kidney and malphigian tubule"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 16,
     "question": "The structure can be found in the",
     "option": {
@@ -1367,6 +1383,22 @@
       "b": "supply the heart with oxygen and nutrients  ",
       "c": "prevent disease organisms from attacking the heart  ",
       "d": "reduce the  intensity of the pumping action of the heart"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 97,
+    "question": "The mammalian lung is made air light by the",
+    "option": {
+      "a": "pleural cavity  ",
+      "b": "mucous membrane",
+      "c": "pleural membrane  ",
+      "d": "diaphragm"
     },
     "section": "",
     "image": "",
@@ -3963,6 +3995,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 274,
+    "question": "The sheet of muscle that separates the thoracic and the abdominal cavities is the ",
+    "option": {
+      "a": "diaphragm  ",
+      "b": "intercostal muscles",
+      "c": " pleural membrane   ",
+      "d": " pericardium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
