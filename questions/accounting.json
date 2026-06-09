@@ -1872,6 +1872,22 @@
     "examyear": "1997"
   },
   {
+    "id": 186,
+    "question": "Which of the following is an advantage of the imprest system?",
+    "option": {
+      "a": "Making high profits in the business",
+      "b": "Rewarding the imprest holder",
+      "c": "Easy preparation of the final accounts",
+      "d": "Meeting small items of expenditure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 187,
     "question": "Where a business is purchased, the full amount of the purchase consideration is credited to",
     "option": {
@@ -2379,6 +2395,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 228,
+    "question": "In company accounts, profit after tax is shared in the",
+    "option": {
+      "a": "appropriation account",
+      "b": "revaluation account",
+      "c": "current account",
+      "d": "realization account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 229,
+    "question": "Which of the following is not a source of revenue to a government?",
+    "option": {
+      "a": "Taxation",
+      "b": "Sale of goods",
+      "c": "Imposition of fines",
+      "d": "Grants"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -2907,6 +2955,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 273,
+    "question": "Which of the following is not prepared by a partnership?",
+    "option": {
+      "a": "Trading Account",
+      "b": "Profit and Loss Account",
+      "c": "Income and Expenditure Account",
+      "d": "Profit and Loss Appropriation Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -4704,6 +4768,22 @@
     "examyear": "2007"
   },
   {
+    "id": 459,
+    "question": "What was the asset value at the beginning of the third year?",
+    "option": {
+      "a": "N 63 m",
+      "b": "N 133 m",
+      "c": "N 36m",
+      "d": "N 28 m."
+    },
+    "section": "An asset was purchased for  N 343 m in 2003. The estimated life of the asset was 3 years with a residual value of  N28 m.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 460,
     "question": "The drawings for the period stand at",
     "option": {
@@ -5223,6 +5303,22 @@
       "b": "total assets by outstanding shares",
       "c": "gross profit by outstanding shares",
       "d": "net profit by outstanding shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 511,
+    "question": "Expenditure incurred on consumables and goods for resale is",
+    "option": {
+      "a": "revenue expenditure",
+      "b": "capital expenditure",
+      "c": "sunk cost",
+      "d": "miscellaneous expenses"
     },
     "section": "",
     "image": "",
@@ -5808,6 +5904,22 @@
     "examyear": "2016"
   },
   {
+    "id": 572,
+    "question": "An item in the balance sheet of a limited liability company is",
+    "option": {
+      "a": " accrued expenses",
+      "b": " lighting and heating",
+      "c": "salaries and wages",
+      "d": "general expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Accrued expense is expense which has been incurred but not yet paid. Expense must be recorded in the accounting period in which it is incurred. Therefore, accrued expense must be recognized in the accounting period in which it occurs rather than in the following period in which it will be paid.\n\nIt can be found on the liabilities part of a balance sheet of a limited liability company",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 574,
     "question": "Which of the following is the capital reserve of a company?",
     "option": {
@@ -6252,6 +6364,22 @@
     "image": "",
     "answer": "c",
     "solution": "subtract the revised scrap value (₦15,000) from the original cost (₦35,000) to get ₦20,000, then divide by the machine’s 5-year lifespan. Thus, annual depreciation is ₦20,000 ÷ 5 = ₦4,000 per year.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 609,
+    "question": "Use the information below to answer the question that follows,\n\nA machine bought for N35,000 was estimated to have a life span of 5years with a scrap value of N9,000.\nThe yearly depreciation using the straight line method would be?",
+    "option": {
+      "a": "₦5,200",
+      "b": " ₦6,500",
+      "c": " ₦8,800",
+      "d": "₦4,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "You take the cost (₦35,000), subtract the scrap value (₦9,000) to get ₦26,000, then divide by the useful life of 5 years: So the annual depreciation is ₦5,200.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -10208,6 +10336,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1011,
+    "question": "<b>Use the information below to answer question 47 to 48.</b>\n\nThe debit ratio is approximately",
+    "option": {
+      "a": "43%",
+      "b": "42%",
+      "c": "41%",
+      "d": "23%"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756660709/ALOC-Questions/Accounting/UTME/2008/Accounting_JAMB_2008_Q47-48_IMAGES_ns5goz.jpg",
+    "answer": "b",
+    "solution": "Liabilities (debts) = 5% debenture + Creditors\n                     = ₦100,000 + ₦80,000\n                     = ₦180,000\n\nTotal assets = ₦430,000\n\nDebt ratio = Liabilities / Total assets\n           = 180,000 / 430,000\n           = 0.4186 ≈ 41.86% ≈ 42%",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1013,
     "question": "<b>Use the information below to answer question 49 to 50.</b>\n\nGoods worth ₦300 was transferred from department Q to P Similarly, P's total expenses for the period was ₦200\n\nWhat was department Q's gross profit?",
     "option": {
@@ -10716,6 +10860,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Start with Net Profit\nGiven:\nNet profit for the year = ₦10,000\n\nStep 2: Deduct salary to partner\nJide’s salary = ₦2,000\n\n₦10,000 − ₦2,000 = ₦8,000 (this is now the balance before drawings)\n\nStep 3: Ignore drawings\nDrawings by partners (₦1,500 × 2 = ₦3,000 for Jide, ₦1,700 × 2 = ₦3,400 for Haruna)\nThese are not expenses — they are taken from profit after appropriation.\nSo they do not reduce the profit available for appropriation.\n\nProfit available for appropriation = ₦8,000",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1054,
+    "question": "<b>Use the information below to answer questions 39 to 40</b>\n\n\nJide and Haruna contribute ₦12000 each as capital and share profit equally. Jide draws ₦1500 and Haruna ₦1700 half-yearly. The profit for the year is ₦10000. Jide receives a salary of ₦2000.\n\nThe balances of current accounts of Jide and Haruna are respectively?",
+    "option": {
+      "a": "₦6000 and ₦5000",
+      "b": "₦3000 and ₦3400",
+      "c": "₦4000 and ₦4000",
+      "d": "₦3000 and ₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Add items that increase the current account\nItems that increase the current account:\n\nShare of profit\n\nSalary (for Jide)\n\nWe already found:\n\nTotal profit available for appropriation = ₦8,000\n\nThey share profit equally = ₦4,000 each\n\nFor Jide:\n\nSalary = ₦2,000\n\nShare of profit = ₦4,000\n\nIncrease = ₦2,000 + ₦4,000 = ₦6,000\n\nFor Haruna:\n\nShare of profit = ₦4,000\n\nIncrease = ₦4,000\n\nStep 2: Deduct drawings\nDrawings are given half-yearly:\n\nFor Jide:\n\n₦1,500 × 2 = ₦3,000\n\nFor Haruna:\n\n₦1,700 × 2 = ₦3,400\n\nStep 3: Calculate closing balances\nJide: ₦6,000 − ₦3,000 = ₦3,000\nHaruna: ₦4,000 − ₦3,400 = ₦600\n\nAnswer:₦3,000 and ₦600",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -11504,6 +11664,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1148,
+    "question": "<b>Use the information below to answer questions 34 and 35</b>\n\nTotal sales of ticket.......................₦300 000\nAmount received from the sales..............₦260 000\nCash purchase of club house.................₦100 000\nCredit purchase of equipment ...............₦60 000\nElectricity bill paid ......................₦5 000\nSalaries owed ..............................₦2 000\n\nWhat is the receipts and payment account balance?",
+    "option": {
+      "a": "₦260 000",
+      "b": "₦233 000",
+      "c": "₦155 000",
+      "d": "₦100 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Receipts:\n  Cash from sales = ₦260,000\n\nPayments (cash):\n  Cash purchase of clubhouse = ₦100,000\n  Electricity paid = ₦5,000\n  Total payments = ₦105,000\n\nBalance = Receipts − Payments = ₦260,000 − ₦105,000 = ₦155,000\n(credit purchase of equipment and salaries owed are not cash transactions, so they’re excluded from the receipts & payments account.)",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1150,
     "question": "The first step in converting as single entry to a double entry system of bookkeeping is to prepare a?",
     "option": {
@@ -12128,6 +12304,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1204,
+    "question": "<b>Use the information below to answer questions 40 and 41.</b>\n\nPurchases:\n\nDate: January 2nd, Qty (units): 500, Rate (₦): 25, Total (₦): 12,500\nDate: March 7th, Qty (units): 250, Rate (₦): 28, Total (₦): 7,000\n\nIssues were made as follow:\n\nDate: January 9th, Qty (units): 300\nDate: February 14th, Qty (units): 200\nDate: March 11th, Qty (units): 200\n\nThe closing stock on March 11th by LIFO valuation is?",
+    "option": {
+      "a": "₦1,400",
+      "b": "₦2,700",
+      "c": "₦4,500",
+      "d": "₦3,900"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: Track issues using LIFO\n\nJanuary 9th issue (300 units): From January 2nd purchase (500 units available)\nFebruary 14th issue (200 units): From January 2nd purchase (200 units remaining)\nMarch 11th issue (200 units): From March 7th purchase (250 units available)\n\nStep 2: Calculate remaining stock\nAfter March 11th:\n\nFrom January 2nd purchase: 500 - 300 - 200 = 0 units remaining\nFrom March 7th purchase: 250 - 200 = 50 units remaining\n\nClosing stock = 50 units at ₦28 = ₦1,400",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1206,
     "question": "Given an incomplete record without sufficient information to determine profit, the necessary thing to do is to?",
     "option": {
@@ -12620,6 +12812,22 @@
     "image": "",
     "answer": "a",
     "solution": "Step 1: Understand the current situation\n\nMarhumu and Yusuf share profits in ratio 2:1\nThis means Marhumu gets 2/3 and Yusuf gets 1/3 of total profits\n\nStep 2: Calculate remaining profits after Idris joins\n\nIdris will take 1/4 of future profits\nRemaining profits for Marhumu and Yusuf = 1 - 1/4 = 3/4\n\nStep 3: Calculate new sharing ratio\nSince the ratio between Marhumu and Yusuf remains 2:1, they will share the remaining 3/4 in the same proportion:\n\nMarhumu's new share = 2/3 × 3/4 = 6/12 = 1/2 = 50%\nYusuf's new share = 1/3 × 3/4 = 3/12 = 1/4 = 25%",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1249,
+    "question": "If a partner pays a premium of ₦500 for 1/5 share of profit, then the total value of goodwill is?",
+    "option": {
+      "a": "₦500",
+      "b": "₦2,000",
+      "c": "₦2,500",
+      "d": "₦3,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a new partner pays a premium to join a partnership, this premium represents their share of the goodwill of the business.\nGiven:\n\nPremium paid = ₦500\nShare of profit = 1/5\n\nCalculation:\nIf 1/5 share of goodwill = ₦500\nThen total goodwill = ₦500 ÷ (1/5)\nTotal goodwill = ₦500 × 5 = ₦2,500",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -13408,6 +13616,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1332,
+    "question": "The main features of the single system are that?",
+    "option": {
+      "a": "books of accounts are not maintained and business relies only on bank statement",
+      "b": "the journal records are absent and only the main ledger is kept 7",
+      "c": "there are incomplete classifications and recording procedures",
+      "d": "only credit sales transactions and credit purchase are recorded"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The hallmark of the single-entry (or “incomplete”) system is that it lacks full double‐entry records—there are incomplete classifications and recording procedures, with many transactions only partially recorded (e.g., cash receipts and payments, with limited or no subsidiary ledgers).",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1333,
     "question": "The principal function of a sales ledger control account is to?",
     "option": {
@@ -13532,6 +13756,22 @@
     "image": "",
     "answer": "a",
     "solution": "To find the total club sales, Calculate both cash sales and credit sales.\nGiven information:\n\nClub debtors at opening: ₦150\nCash sales: ₦4,850\nClub debtors at close: ₦900\nCash received from debtors: ₦550\n\nStep 1: Calculate credit sales using debtors control account\nOpening debtors + Credit sales - Cash received = Closing debtors\n₦150 + Credit sales - ₦550 = ₦900\nCredit sales = ₦900 - ₦150 + ₦550\nCredit sales = ₦1,300\nStep 2: Calculate total club sales\nTotal club sales = Cash sales + Credit sales\nTotal club sales = ₦4,850 + ₦1,300 = ₦6,150",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1343,
+    "question": "A credit balance on a receipt and payments account indicates that the non-profit making organization?",
+    "option": {
+      "a": " had more revenues than expenses during the period",
+      "b": " did not owe much liabilities during the period",
+      "c": "received more cash than it paid out during the period",
+      "d": "made more cash payments than it received during the period"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A credit balance means total receipts exceeded total payments, indicating more cash was received than paid out",
     "examtype": "utme",
     "examyear": "1999"
   },
@@ -14300,6 +14540,22 @@
     "image": "",
     "answer": "d",
     "solution": "When goods are transferred to a department at the selling price, the department must separate the cost and the markup. The markup portion is removed from the stock valuation by debiting the Mark-up Account.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1413,
+    "question": "Money not required to meet chargeable expenditure in any fiscal year under cash accounting, should be?",
+    "option": {
+      "a": " surrendered to the consolidated revenue fund",
+      "b": "carried forward to the next financial year",
+      "c": "reserved to meetany deficits or contingencies",
+      "d": "returned to the taxpayer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In government accounting, unspent funds at the end of a fiscal year are typically surrendered to the Consolidated Revenue Fund (or similar central treasury fund). This ensures proper control and accountability of public funds.",
     "examtype": "utme",
     "examyear": "199"
   },
