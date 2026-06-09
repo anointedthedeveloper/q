@@ -1568,6 +1568,22 @@
     "examyear": "2004"
   },
   {
+    "id": 129,
+    "question": "A given volume of methane diffuses in 20s. how long will it take the same volume of sulphur(IV) oxide to diffuse under the same conditions    [C = 12, H = 1, S = 32, O = 16]",
+    "option": {
+      "a": "5s",
+      "b": "20s",
+      "c": "40s",
+      "d": "60s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 130,
     "question": "An electron can be added to a halogen atom to form a halide ion with",
     "option": {
@@ -1899,6 +1915,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 162,
+    "question": "An isomer of C5H12 is",
+    "option": {
+      "a": "Butane",
+      "b": "2-methylbutane",
+      "c": "2-methylprpane",
+      "d": "2-ethylbutane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -4108,6 +4140,22 @@
     "image": "",
     "answer": "a",
     "solution": "A bomb calorimeter is used to measure the calorific (energy) value of fuels like petrol. The fuel is burned in a sealed oxygen-filled vessel surrounded by water, and the temperature rise is used to calculate the heat released.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 339,
+    "question": "What volume of 0.5 mol dm⁻³ H₂SO₄ will exactly neutralize 20 cm³ of 0.1 mol dm⁻³ NaOH solution?",
+    "option": {
+      "a": "2.0 cm³",
+      "b": "5.0 cm³",
+      "c": "6.8 cm³",
+      "d": "8.3 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reaction: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O. Moles of NaOH = 0.1 × 20/1000 = 0.002 mol. Moles of H₂SO₄ needed = 0.002/2 = 0.001 mol. Volume of H₂SO₄ = 0.001/0.5 = 0.002 dm³ = 2.0 cm³.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -7520,6 +7568,22 @@
     "examyear": "2021"
   },
   {
+    "id": 620,
+    "question": "The metal used to recover copper from a solution of copper sulphate is?",
+    "option": {
+      "a": "Na",
+      "b": "Ag",
+      "c": "Hg",
+      "d": "Fe"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Iron (Fe) is higher in the reactivity series than copper and can displace copper from its salt solution. When iron is placed in copper sulphate solution, the reaction Fe + CuSO₄ → FeSO₄ + Cu occurs, depositing copper metal. Silver and mercury are below copper in the reactivity series and cannot displace it. Sodium would react violently with water before displacing copper.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 621,
     "question": "The nucleus of an atom consists of?",
     "option": {
@@ -7708,6 +7772,22 @@
     "image": "",
     "answer": "b",
     "solution": "Ionization enthalpy (ionization energy) is the energy required to remove one mole of electrons from one mole of gaseous atoms or ions in their ground state. The first ionization enthalpy removes the outermost electron. Electron gain enthalpy is the opposite process, involving the addition of an electron to a gaseous atom.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 633,
+    "question": "The fourteen elements (atomic number 90-103) after actinium are called?",
+    "option": {
+      "a": "Actinoids",
+      "b": "Nucleotides",
+      "c": "Pre-actinum elements",
+      "d": "Atomic elements"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The actinoids (also called actinides) are the series of fourteen elements with atomic numbers 90 to 103, beginning after actinium (atomic number 89). They include thorium, uranium, plutonium, and others. These elements are placed in the f-block of the periodic table and are characterised by the filling of the 5f electron subshell.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -9008,6 +9088,22 @@
     "examyear": "2024"
   },
   {
+    "id": 730,
+    "question": "When a few drops of Millon's reagent is added to egg-white solution in a test tube, the white precipitate changes to",
+    "option": {
+      "a": "orange",
+      "b": "brick red",
+      "c": "reddish brown",
+      "d": "blue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Millon's reagent (a solution of mercury in concentrated nitric acid) is a test for proteins containing the amino acid tyrosine. When added to egg white (which contains tyrosine-containing proteins), the white precipitate first forms then turns brick red on gentle heating. This brick red colour is characteristic of the Millon test for proteins.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 731,
     "question": "If the solubility of KNO₃ at 30°C is 3.10 mol/dm³, a solution containing 303g/dm³ KNO₃ is likely to be",
     "option": {
@@ -9500,6 +9596,22 @@
     "image": "",
     "answer": "a",
     "solution": "The product XCl shows X forms a monovalent chloride, meaning X has a valency of 1. Among the options, only K (potassium) is monovalent. Mg, Ca, and Ba are divalent and would form XCl₂, not XCl.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 771,
+    "question": "Alkanoic acids have higher boiling points than alkanols because",
+    "option": {
+      "a": "alkanoic acids are more volatile than alkanols",
+      "b": "alkanols are more polar than alkanoic acids",
+      "c": "alkanoic acids are larger molecules",
+      "d": "alkanoic acids form stronger hydrogen bonds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Alkanoic acids (carboxylic acids) form dimers through two cooperative hydrogen bonds between the -COOH groups, creating stronger intermolecular attractions than the single hydrogen bonds formed by alkanols (-OH). Greater intermolecular forces require more energy to overcome, giving alkanoic acids higher boiling points.",
     "examtype": "utme",
     "examyear": "2025"
   },
