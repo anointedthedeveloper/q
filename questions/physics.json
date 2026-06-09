@@ -8640,6 +8640,22 @@
     "examyear": "2023"
   },
   {
+    "id": 546,
+    "question": "From the diagram above, if the potential differences across the resistor, capacitor, and inductor are 30V, 120V, and 60V, respectively, the effective potential difference is",
+    "option": {
+      "a": "81",
+      "b": "67",
+      "c": "59",
+      "d": "73"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765615031/ALOC-Questions/Physics/2023/physics_2023-Q47_cb6kfj.png",
+    "answer": "b",
+    "solution": "Given information:\n\nVoltage across resistor, VR = 30 V\nVoltage across capacitor, VC = 120 V\nVoltage across inductor, VL = 60 V\nEffective potential difference (supply voltage), V = ?\n\nSolution:\nStep 1: Apply voltage equation for RLC series circuit\nIn an a.c. series circuit, the effective voltage is given by:\nV² = VR² + (VL - VC)²\nStep 2: Substitute the known values\nV² = 30² + (60 - 120)²\nV² = 30² + (-60)²\nV² = 900 + 3600\nStep 3: Calculate the effective voltage\nV² = 4500\nV = √4500\nV = 67.08 V\nV ≈ 67 V",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 547,
     "question": "When light of a certain frequency is incident on a metal surface, no photoelectrons are emitted. If the frequency of the light is increased, what happens to the stopping potential?",
     "option": {
