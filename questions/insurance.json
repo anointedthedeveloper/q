@@ -608,6 +608,22 @@
     "examyear": "1"
   },
   {
+    "id": 62,
+    "question": "The temporary document issued by the insurer to the insured while the policy is being prepared is",
+    "option": {
+      "a": "insurance certificate",
+      "b": "promissory note",
+      "c": "exchange slip",
+      "d": "cover note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 63,
     "question": "The evidence of the contractual agreement between the insured and insurer is",
     "option": {
@@ -1136,6 +1152,22 @@
     "examyear": "2"
   },
   {
+    "id": 121,
+    "question": "Insurance is necessary because of the need to",
+    "option": {
+      "a": "Pool resources together",
+      "b": "Meet uncertainties in future",
+      "c": "Make profit",
+      "d": "Lend money to individual"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 122,
     "question": "The policy that covers debt that cannot be recovered is called",
     "option": {
@@ -1291,6 +1323,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 132,
+    "question": "The transfer of risk already undertaken from one insurance company to another is",
+    "option": {
+      "a": "Over insurance",
+      "b": "Re insurance",
+      "c": "Under insurance",
+      "d": "Group insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -1952,6 +2000,22 @@
     "examyear": "3"
   },
   {
+    "id": 199,
+    "question": "The policy that provides protection for goods or cargoes and ships against the perils of the sea is",
+    "option": {
+      "a": "Fire",
+      "b": "Marine",
+      "c": "Aviation",
+      "d": "Credit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 200,
     "question": "Another name for an insured in a life insurance contract is",
     "option": {
@@ -1979,6 +2043,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 202,
+    "question": "In a contract of insurance, a firm statement is usually made by a person known as the",
+    "option": {
+      "a": "offeror",
+      "b": "offeree",
+      "c": "insur",
+      "d": "client"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -2224,6 +2304,22 @@
     "examyear": "4"
   },
   {
+    "id": 224,
+    "question": "Risk that affect the society and whose causes are beyond human control is",
+    "option": {
+      "a": "particular risk",
+      "b": "pure risk",
+      "c": "fundamental risk",
+      "d": "static risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 227,
     "question": "Inter company agreement in which insurers agreed to waive their right against each other for loss is",
     "option": {
@@ -2347,6 +2443,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 245,
+    "question": "A reminder to the insured that this existing contract is due to expire is",
+    "option": {
+      "a": "proposal form",
+      "b": "slip",
+      "c": "claim form",
+      "d": "renewal notice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -2667,6 +2779,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 282,
+    "question": "The periodic payment made by the insured to the insurer as financial cost of obtaining insurance",
+    "option": {
+      "a": "annuity",
+      "b": "premium",
+      "c": "claim",
+      "d": "dividend"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
@@ -3056,6 +3184,22 @@
     "examyear": "2015"
   },
   {
+    "id": 326,
+    "question": "What is the full meaning of “NCRIB” in the insurance industry?",
+    "option": {
+      "a": "National  Council of  Registered Insurance  Brokers",
+      "b": "Nigerian  Council of  Registered Insurance  Brokers",
+      "c": "Nigerian Corporation of Registered Insurance Brokers",
+      "d": "National Corporation of Registered Insurance Brokers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 327,
     "question": "Which of the following is not a function of an insurance underwriter?",
     "option": {
@@ -3067,6 +3211,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 328,
+    "question": "The cover that is taken at the option of the motor vehicle owner is",
+    "option": {
+      "a": "a comprehensive cover",
+      "b": "an act only cover",
+      "c": "a third party only cover",
+      "d": "a special type cover"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
