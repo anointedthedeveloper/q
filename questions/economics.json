@@ -320,6 +320,22 @@
     "examyear": "2008"
   },
   {
+    "id": 68,
+    "question": "Tax incidence is the analysis of  ",
+    "option": {
+      "a": "How progressive a tax is ",
+      "b": "How distorting a tax is ",
+      "c": "Who ultimately pays the tax ",
+      "d": "How a tax is collected."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 69,
     "question": " A monopolist will practice price discrimination in two market if ",
     "option": {
@@ -414,6 +430,38 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 113,
+    "question": "A commodity is said to be price inelastic if  ",
+    "option": {
+      "a": "Changes in the quantity purchased of a good is less than proportionate changes in its price  ",
+      "b": "Changes in the quantity purchased of a good is proportional to changes in its price  ",
+      "c": "Changes in the quantity purchased of a good is more than proportionate changes in its price  ",
+      "d": "The quantity purchased of a good never responds to change in its price."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 117,
+    "question": "Change in demand and change in quantity demanded are not the same because  ",
+    "option": {
+      "a": "All factors affecting change in demand also affect change in quantity demanded except income  ",
+      "b": "All factors affecting change in demand are not affecting change in quantity demanded except income  ",
+      "c": "Many factors leads to change in demand but only change in price affect change in quantity demanded   ",
+      "d": "Many factors leads to change in demand but only change in income affect change in quantity demanded"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 129,
@@ -528,6 +576,22 @@
     "examyear": "2013"
   },
   {
+    "id": 152,
+    "question": "A 50% increase in the quantity demanded of a commodity, following a 100% decrease in its price, shows that the commodity has ",
+    "option": {
+      "a": "Fairly elastic demand  ",
+      "b": "Unitary elastic demand",
+      "c": "Inelastic demand",
+      "d": "Perfectly elastic demand "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 159,
     "question": "The law of comparative cost and absolute cost advantage are not the same is that; ",
     "option": {
@@ -571,6 +635,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 166,
+    "question": "As it relates to international trade, dumping: ",
+    "option": {
+      "a": "is a form of price discrimination illegal under U.S antitrust laws ",
+      "b": "is the practice of selling goods in a foreign market at less than the cost ",
+      "c": "Constitutes a general case for permanent tariffs ",
+      "d": "is defined as selling more goods than allowed by an import quota."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -635,6 +715,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 179,
+    "question": "The discount rate is the interest: ",
+    "option": {
+      "a": "rate at which the Central Bank of Nigeria lends in the Nigeria Government ",
+      "b": "yield on long-term government bonds ",
+      "c": "rate at which commercial banks lend to the public ",
+      "d": "rate at which the Central Banks of Nigeria lend to commercial banks."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -768,6 +864,22 @@
     "examyear": "2001"
   },
   {
+    "id": 223,
+    "question": "Short-term loans can be sourced from",
+    "option": {
+      "a": "the central bank",
+      "b": "development banks",
+      "c": "mortgage banks",
+      "d": "commercial banks"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 225,
     "question": "Public expenditure can be financed from all the following sources except",
     "option": {
@@ -848,6 +960,22 @@
     "examyear": "2010"
   },
   {
+    "id": 243,
+    "question": "Greater inter-dependence among workers in production is associated with",
+    "option": {
+      "a": "utility",
+      "b": "manufacturing",
+      "c": "division of labour",
+      "d": "factory workers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 248,
     "question": "The public sector of an economy includes",
     "option": {
@@ -903,6 +1031,22 @@
       "b": "availability of labour",
       "c": "nearness to raw materials",
       "d": "proximity to market"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 259,
+    "question": "Which of the following is not a concept in National income accounting?",
+    "option": {
+      "a": "Domestic National Product (DNP)",
+      "b": "Gross National Product (GNP)",
+      "c": "Gross Domestic Product (GDP)",
+      "d": "Net Domestic Product (NDP)"
     },
     "section": "",
     "image": "",
@@ -1072,6 +1216,22 @@
     "examyear": "2012"
   },
   {
+    "id": 283,
+    "question": "When total utility is constant, it means marginal utility is",
+    "option": {
+      "a": "Increasing",
+      "b": "zero",
+      "c": "decreasing",
+      "d": "one"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 284,
     "question": "A rational consumer is one who",
     "option": {
@@ -1184,6 +1344,22 @@
     "examyear": "2012"
   },
   {
+    "id": 313,
+    "question": "When governments want to discourage consumption, they \ttax goods whose demand",
+    "option": {
+      "a": "price inelastic",
+      "b": "abnormal in nature",
+      "c": "price elastic",
+      "d": "normal in nature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 318,
     "question": "The privatization exercise in Nigeria is a move towards a",
     "option": {
@@ -1211,6 +1387,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 324,
+    "question": "Price elasticity of demand is expressed as",
+    "option": {
+      "a": "percentage change in price percentage change in quantity demanded",
+      "b": "percentage change in quantity demanded percentage change in Income",
+      "c": "percentage change in Income percentage change in quantity demanded",
+      "d": "percentage change in quantity demande percentage change in price"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -1456,6 +1648,22 @@
     "examyear": "2010"
   },
   {
+    "id": 395,
+    "question": "The function of money which makes division of  labour \tpossible is its",
+    "option": {
+      "a": "unit of account",
+      "b": "medium of exchange",
+      "c": "store of value",
+      "d": "standard of deferred payment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 396,
     "question": "By buying treasury bills, the Central Bank of  Nigeria intends \tto",
     "option": {
@@ -1648,6 +1856,22 @@
     "examyear": "2003"
   },
   {
+    "id": 434,
+    "question": "A normal demand curve slopes",
+    "option": {
+      "a": "downwards from left to right",
+      "b": "upwards from left to right",
+      "c": "downwards from right to left",
+      "d": "upwards from the origin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 435,
     "question": "If the quantity demanded of a commodity increases from 20 to 30 units when there is an increase in price from 4 naira to 5 naira, the elasticity of demand is",
     "option": {
@@ -1792,6 +2016,22 @@
     "examyear": "2003"
   },
   {
+    "id": 463,
+    "question": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a",
+    "option": {
+      "a": "perfect competition",
+      "b": "monopsony",
+      "c": "duopoly",
+      "d": "cartel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 466,
     "question": "The three broad categories of production are",
     "option": {
@@ -1851,6 +2091,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 483,
+    "question": "The market structure in which the operators are many and none of them can influence the price is",
+    "option": {
+      "a": "imperfect market",
+      "b": "perfect market",
+      "c": "oligopolistic market",
+      "d": "stock market"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
@@ -1952,6 +2208,22 @@
     "examyear": "2004"
   },
   {
+    "id": 510,
+    "question": "Economic activities are undertaken to solve the problem of",
+    "option": {
+      "a": "consumption",
+      "b": "opportunity cost",
+      "c": "production",
+      "d": "scarcity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 513,
     "question": "The 150.00 Naira which Olu would have used to purchase a textbook was used to buy a T-shirt. This implies that",
     "option": {
@@ -1979,6 +2251,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 518,
+    "question": "Which of the following determines the sizes of a country’s population?    (l) Birth rate    (ll) Death rate     \n\t(lll) Migration rate     (lV) lmportation rate    (V) Unemployment",
+    "option": {
+      "a": "l), (ll) and (V)",
+      "b": "(ll) and (lV)",
+      "c": "(I), (II) and (lll)",
+      "d": "(I) and (V)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -2224,6 +2512,22 @@
     "examyear": "2006"
   },
   {
+    "id": 590,
+    "question": "The motive for holding money for investing in securities is \treferred to as",
+    "option": {
+      "a": "transactionary",
+      "b": "speculative",
+      "c": "accumulation",
+      "d": "deflationary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 601,
     "question": "An increase in the quantity of goods and services produced \tin a country which raises her national income is known as",
     "option": {
@@ -2254,6 +2558,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
+  },
+  {
+    "id": 612,
+    "question": "One characteristic of labour is that it is",
+    "option": {
+      "a": "fixed in demand",
+      "b": "fixed in supply",
+      "c": "mobile",
+      "d": "untrainable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
   },
   {
     "id": 616,
@@ -2315,6 +2635,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 626,
+    "question": "The practice whereby a business is owned by two or more independent firms is termed",
+    "option": {
+      "a": "indigenization",
+      "b": "joint venture",
+      "c": "commercialization",
+      "d": "foreign investment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
@@ -2411,6 +2747,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 636,
+    "question": "The value of money is generally measured in relation to the",
+    "option": {
+      "a": "interest rate charged on bank loan",
+      "b": "general price level",
+      "c": "size of a country’s gold stock",
+      "d": "volume of imports"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
