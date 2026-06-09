@@ -10592,6 +10592,22 @@
     "examyear": "2024"
   },
   {
+    "id": 929,
+    "question": "The short term solvency of a company is determined with ___ ratio",
+    "option": {
+      "a": "debtors to equity",
+      "b": "current",
+      "c": "acid test",
+      "d": "gross profit margin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The acid-test ratio assesses a company's ability to meet its short-term obligations (due within a year) using its most liquid assets. It goes beyond the current ratio by excluding inventory from the calculation, as inventory might take longer to convert into cash to pay off debts.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 930,
     "question": "Tolu purchased a machine for ₦6,000 on credit. The effect is to debit.. supplier\nand credit the account of the",
     "option": {
@@ -12112,6 +12128,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1057,
+    "question": "The accounting method that reports incomes when earned and expenses when incurred is called?",
+    "option": {
+      "a": "cash accounting",
+      "b": "commitment accounting",
+      "c": "fund accounting",
+      "d": "accrual accounting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Accrual accounting records income when it is earned (not necessarily when cash is received) and expenses when they are incurred (not necessarily when cash is paid).\n\nThis method gives a more accurate picture of financial performance than cash accounting, which only records transactions when cash changes hands.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1058,
     "question": "The tier of government that uses financial memorandum is the?",
     "option": {
@@ -12972,6 +13004,22 @@
     "image": "",
     "answer": "c",
     "solution": "The Income and Expenditure Account is more comprehensive because it includes debtors (amounts owed to the organization) and creditors (amounts the organization owes), giving a complete picture of the organization's financial performance regardless of whether cash has been exchanged.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1145,
+    "question": "A company has two departments X and Y. Y transferred goods to X at a profit margin of 25%. ₦10,000 worth of goods was not sold at the end of the accounting period.\nHow much is the unrealized profit?",
+    "option": {
+      "a": "₦2000",
+      "b": "₦2500",
+      "c": "12000",
+      "d": "12500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Key Point: The ₦10,000 represents the transfer value (cost + profit), not the original cost.\nCalculation:\nIf Department Y added 25% profit margin:\n\nTransfer price = Cost + 25% profit\nTransfer price = Cost × 1.25\nTherefore: ₦10,000 = Cost × 1.25\nOriginal cost = ₦10,000 ÷ 1.25 = ₦8,000\n\nUnrealized profit = Transfer price - Original cost\nUnrealized profit = ₦10,000 - ₦8,000 = ₦2,000",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -16496,6 +16544,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1434,
+    "question": "The records of wages due but not yet paid is an example of an adjustment for",
+    "option": {
+      "a": "apportionment of revenue between two periods",
+      "b": "recognizing accrued expenses",
+      "c": " recognizing unaccounted revenue",
+      "d": "recognizing prepaid expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Wages due but not yet paid at the end of the accounting period are accrued expenses. These are expenses that have been incurred but not yet settled in cash, and they must be recognized to match expenses with the correct accounting period.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1435,
     "question": "The process of allocating the cost of an intangible assets over its useful life is known as",
     "option": {
@@ -16828,6 +16892,22 @@
     "image": "",
     "answer": "a",
     "solution": "Traditionally, public sector accounting is based on the cash basis, where transactions are recorded only when cash is received or paid. (Note: Some modern public sector entities are now adopting accrual basis, but cash basis is the traditional foundation.)",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1464,
+    "question": "The end result of governmental accounting procedure is\nto",
+    "option": {
+      "a": "keep proper records of government\nexpenditures",
+      "b": "give financial information to the public and\ninvestors",
+      "c": "produce timely and accurate financial reportstimely and accurate financial reports for legislators and the public",
+      "d": "give information on the performance of\npublic enterprises"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The ultimate purpose of governmental accounting is accountability and transparency. It ensures that public funds are properly managed and that legislators and the public receive reliable information on how resources are utilized.",
     "examtype": "utme",
     "examyear": "1997"
   }
