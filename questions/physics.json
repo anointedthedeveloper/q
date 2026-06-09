@@ -192,6 +192,22 @@
     "examyear": "2006"
   },
   {
+    "id": 17,
+    "question": "Which of the following radiations cannot be deflected by an electric field or ",
+    "option": {
+      "a": "(i) and (ii) only ",
+      "b": "(ii) only ",
+      "c": "(iii) and (iv) only ",
+      "d": "(i) and (iii) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 18,
     "question": "The half-life of a radioactive element is 9 days. What fraction of atoms has decayed in 36 days? ",
     "option": {
@@ -1072,6 +1088,22 @@
     "examyear": "2011"
   },
   {
+    "id": 110,
+    "question": "A p-n junction can act as  ",
+    "option": {
+      "a": "an amplifier  ",
+      "b": "a rectifier  ",
+      "c": "an inductor ",
+      "d": "a capacitor "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 111,
     "question": "  Calcium has a work function of 19 eV with a wavelength of 150 nm. Calculate the maximum energy of a photo electron emitted. (1 eV = 16.1 x 10-19J, h = 6.6 x 10-34Js)            ",
     "option": {
@@ -1147,6 +1179,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following quantities is a scalar quantity?",
+    "option": {
+      "a": "Electric field ",
+      "b": "Coulomb force",
+      "c": "Electric potential ",
+      "d": "Acceleration due to gravity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1244,6 +1292,22 @@
     "image": "",
     "answer": "a",
     "solution": "Stroboscope is a scientific instrument used to make a wave appears stationary when used",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 138,
+    "question": "A motor boy of a driver saw what seems to appear to be a pool of water a head of him, while his driver drives a new truck on a sunny day. Which of the following explains his observation?",
+    "option": {
+      "a": "He saw a flying objects",
+      "b": "He must be thinking of water and food",
+      "c": "He was seeing the shadow of the car",
+      "d": "The sun ray from the sky were passing from a hot air (layer) to cold layer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The appearance of pool of water on road surfaces is called MIRAGE\n\nHis observation show that light from the sun ray refracted through a layer of hot air(layer) which is closed to the ground, passes from a hot air layer to the cold layer",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1484,6 +1548,22 @@
     "image": "",
     "answer": "c",
     "solution": "Microscope is used for nearby object",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 169,
+    "question": "The symbol  ₋₁⁰X used to represent which of the particles?",
+    "option": {
+      "a": "Proton",
+      "b": "Neutron",
+      "c": "Electrons",
+      "d": "Atoms"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The symbol ₋₁⁰X shows:\n\n0 (top) = mass number (electrons have negligible mass)\n-1 (bottom) = charge (electrons are negatively charged)\n\nAnswer: C. Electrons\nElectrons have zero mass and a charge of -1, which matches the symbol ₋₁⁰X.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2224,6 +2304,22 @@
     "examyear": "2017"
   },
   {
+    "id": 246,
+    "question": "When two objects P and Q are supplied with the same quantity of heat, the temperature change in P is observed to be twice that of Q. The mass of P is half that of Q. The ratio of the specific heat capacity pf P to Q is",
+    "option": {
+      "a": "1:04",
+      "b": "4:01",
+      "c": "1:01",
+      "d": "2:01"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nSame heat supplied: Qₚ = Q_Q = Q\nTemperature change: ΔTₚ = 2ΔT_Q\nMass: mₚ = ½m_Q\nRatio Cₚ:C_Q = ?\n\nFormula:\nQ = mcΔT\nFor object P:\nQ = mₚCₚΔTₚ\nQ = (½m_Q)Cₚ(2ΔT_Q)\nQ = m_QCₚΔT_Q\nFor object Q:\nQ = m_QC_QΔT_Q\nSince both receive the same heat:\nm_QCₚΔT_Q = m_QC_QΔT_Q\nCanceling m_Q and ΔT_Q:\nCₚ = C_Q\nTherefore:\nCₚ/C_Q = 1/1 = 1:1",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 249,
     "question": "The net capacitance in the circuit above is",
     "option": {
@@ -2704,6 +2800,22 @@
     "examyear": "2018"
   },
   {
+    "id": 298,
+    "question": "In the diagram given if the atmospheric pressure is 760mm, the pressure in the chamber G Is",
+    "option": {
+      "a": " 660mm",
+      "b": " 830mm",
+      "c": "690mm",
+      "d": " 860mm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611616/ALOC-Questions/Physics/2018/2018_Q_19_mwygwr.jpg",
+    "answer": "b",
+    "solution": "From the diagram:\n\nU-tube manometer connected to chamber G\nAtmospheric pressure = 760 mmHg\nHeight difference visible in the U-tube: 10 cm = 100 mm\nOne side (left) shows 10 cm scale\nRight side shows 3 cm = 30 mm height\n\nAnalyzing the manometer:\nThe liquid level difference = 10 cm - 3 cm = 7 cm = 70 mm\nDetermining pressure in chamber G:\nIf the liquid is higher on the atmospheric side (left), then:\n\nPressure in G is greater than atmospheric pressure\nP_G = P_atm + height difference\nP_G = 760 + 70 = 830 mmHg",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 299,
     "question": "Which of the following has the lowest internal resistance when new?",
     "option": {
@@ -3132,6 +3244,22 @@
     "image": "",
     "answer": "a",
     "solution": "Ripple in a power supply is fundamentally caused by using an alternating current source, which produces a pulsating DC output after rectification that retains some AC variation.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 345,
+    "question": "The distance between an object and its real image in a convex lens is 40cm. If the magnification of the image is 3, calculate the focal length of the lens\n",
+    "option": {
+      "a": "6.5 cm",
+      "b": "7.5 cm",
+      "c": " 8.5 cm",
+      "d": " 4.5 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDistance between object and image = 40 cm\nMagnification (m) = 3\nFocal length (f) = ?\n\nStep 1: Use magnification formula\nFor real image: m = v/u = 3 (taking magnitudes)\nTherefore: v = 3u\nStep 2: Use distance between object and image\nDistance = u + v (both on opposite sides of lens)\n40 = u + v\n40 = u + 3u\n40 = 4u\nu = 10 cm\nStep 3: Calculate image distance\nv = 3u = 3 × 10 = 30 cm\nStep 4: Use lens formula\n1/f = 1/v - 1/u\nFor real image with sign convention (u = -10, v = +30):\n1/f = 1/30 - 1/(-10)\n1/f = 1/30 + 1/10\n1/f = 1/30 + 3/30\n1/f = 4/30\nf = 30/4 = 7.5 cm",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -3856,6 +3984,22 @@
     "examyear": "2021"
   },
   {
+    "id": 421,
+    "question": "A man will exert the greatest pressure when he?",
+    "option": {
+      "a": " lies flat on his back",
+      "b": "lies on his belly",
+      "c": "stands on both feet",
+      "d": "stands on the toes of one foot"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A man exerts the greatest pressure when standing on the toes of one foot because this position has the smallest contact area, and since Pressure = Force/Area, smaller area means greater pressure for the same weight",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 422,
     "question": "Which of the units of the following physical quantities are derived?\n\nI. Area\nII. Thrust\nIII. Pressure\nIV. Mass",
     "option": {
@@ -4092,6 +4236,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nMass (m) = 800 kg\nFinal velocity (v) = 25 m/s\nInitial velocity (u) = 0 m/s (starts from rest)\nTime (t) = 20 seconds\nPower (P) = ?\n\nStep 1: Calculate kinetic energy gained\nChange in KE = ½mv² - ½mu²\nΔKE = ½mv² - 0  (since u = 0)\nΔKE = ½ × 800 × (25)²\nΔKE = 400 × 625\nΔKE = 250,000 J\nStep 2: Calculate power\nPower = Work done / Time\nPower = Energy / Time\nP = ΔKE / t\nP = 250,000 / 20\nP = 12,500 W\nP = 1.25 × 10⁴ W",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 443,
+    "question": "When the breaks in a car are applied, the frictional force on the tyres is?",
+    "option": {
+      "a": "a disadvantage because it is in the direction of the motion of the car",
+      "b": "a disadvantage because it is in the opposite direction of the motion of the car",
+      "c": "an advantage because it is in the direction of the motion of the car",
+      "d": "an advantage because it is in the opposite direction of the motion of the car"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Frictional force opposes motion",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -4508,6 +4668,22 @@
     "image": "",
     "answer": "a",
     "solution": "Specific latent heat of fusion is the energy required per kilogram to change a substance from solid to liquid at its melting point without temperature change. For ice, this value is approximately 334 kJ/kg or 3.34 × 10⁵ J/kg.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 491,
+    "question": "Which expression gives magnetic flux?",
+    "option": {
+      "a": "qVB sinθ",
+      "b": "μ₀I/2πr",
+      "c": "BA cos θ",
+      "d": " -N dϕ/dt"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Magnetic flux is the product of magnetic field strength (B), area (A), and the cosine of the angle between the field and the perpendicular to the area. When the field is perpendicular to the surface (θ = 0°), flux is maximum (Φ = BA).",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -5504,6 +5680,22 @@
     "examyear": "2004"
   },
   {
+    "id": 608,
+    "question": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance X_L and X_C respectively are related as",
+    "option": {
+      "a": "X_L = X_C",
+      "b": "X_L = ½X_C",
+      "c": "X_L = 1/X_C",
+      "d": "X_L = 2X_C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nRLC series circuit at resonance\n\nSolution:\nKey formulas:\nInductive reactance: XL = ωL = 2πfL\nCapacitive reactance: XC = 1/(ωC) = 1/(2πfC)\nResonance condition:\nAt resonance in an RLC series circuit, the impedance is minimum and purely resistive.\nThis occurs when the inductive and capacitive reactances cancel each other:\nXL = XC\nStep 1: Mathematical proof\nAt resonance frequency f₀:\n2πf₀L = 1/(2πf₀C)\nThis confirms: XL = XC\nStep 2: Physical interpretation\nWhen XL = XC:\n\nInductive and capacitive effects cancel\nTotal impedance Z = R (minimum)\nCurrent is maximum\nCircuit is in resonance",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 609,
     "question": "\nThe binding energy of helium ⁴₂He is\n[atomic mass of proton = 1.00783U, atomic mass of neutron = 1.00867U]",
     "option": {
@@ -5580,6 +5772,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nCurrent, I = 16 mA = 16 × 10⁻³ A\nTime, t = 1 s\nElectronic charge, e = 1.6 × 10⁻¹⁹ C\n\nSolution:\nFormula:\nCurrent: I = Q/t\nCharge: Q = ne\nWhere:\n\nQ = total charge (in coulombs)\nn = number of electrons\ne = charge of one electron\n\nStep 1: Calculate total charge transported\nQ = I × t\nQ = 16 × 10⁻³ × 1\nQ = 16 × 10⁻³ C\nStep 2: Calculate number of electrons\nn = Q/e\nn = (16 × 10⁻³)/(1.6 × 10⁻¹⁹)\nStep 3: Simplify\nn = (16/1.6) × 10⁻³⁻(⁻¹⁹)\nn = 10 × 10⁻³⁺¹⁹\nn = 10 × 10¹⁶\nn = 1.0 × 10¹⁷\nFinal Answer:\nNumber of electrons = 1.00 × 10¹⁷ electrons",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 616,
+    "question": "Electrical appliances at home are normally earthed so that?",
+    "option": {
+      "a": "the appliances are maintained at a lower p.d than the earth",
+      "b": "both the a.c and d.c sources can be used",
+      "c": "a person touching the appliances is safe from electric shock",
+      "d": "the appliances are maintained at a higher p.d than the earth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Earthing is used to protect you from an electric shock. It does this by providing a path (a protective conductor) for a fault current to flow to earth. It also causes the protective device (either a circuit-breaker or fuse) to switch off the electric current to the circuit that has the fault.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -6412,6 +6620,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nFirst case: m₁ = 2.0 g, I₁ = 0.5 A, t₁ = 3 hours\nSecond case: m₂ = ?, I₂ = 1.5 A, t₂ = 1 hour\n\nSolution:\nStep 1: Faraday's First Law of Electrolysis\nMass deposited: m = ZIt\nWhere:\n\nm = mass deposited\nZ = electrochemical equivalent (constant for a given metal)\nI = current\nt = time\n\nOr: m ∝ It (for same metal)\nStep 2: Set up relationship\nm₁/m₂ = (I₁t₁)/(I₂t₂)\nStep 3: Calculate charge in first case\nQ₁ = I₁t₁ = 0.5 × 3 = 1.5 A·hours\nStep 4: Calculate charge in second case\nQ₂ = I₂t₂ = 1.5 × 1 = 1.5 A·hours\nStep 5: Find mass ratio\nm₁/m₂ = Q₁/Q₂\n2.0/m₂ = 1.5/1.5\n2.0/m₂ = 1\nm₂ = 2.0 g",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 716,
+    "question": "When a certain a.c supply is connected to a lamp, it lights with the same brightness as it does with a 12 V d.c battery. Then r.m.s value of the a.c supply is?",
+    "option": {
+      "a": "12.0 V",
+      "b": "3.5 V",
+      "c": "17.0 V",
+      "d": " 8.5 V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\nDC voltage that produces the same brightness, V_dc = 12 V\n\nSolution:\n\nStep 1: Condition for equal brightness\nFor a resistive load like a lamp, brightness depends on the power dissipated.\nEqual brightness means equal power delivered to the lamp.\n\nStep 2: Power comparison\nFor DC: Power P_dc = V_dc² / R\nFor AC: Power P_ac = V_rms² / R\n\nStep 3: Equate powers\nV_rms² / R = V_dc² / R\nV_rms = V_dc\n\nStep 4: Substitute value\nV_rms = 12 V",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -7436,6 +7660,22 @@
     "image": "",
     "answer": "c",
     "solution": "\nGiven information:\nForce F₁ = 12 N\nForce F₂ = 5 N\nResultant R = 13 N\n\nSolution:\n\nStep 1: Formula for resultant of two forces\nR² = F₁² + F₂² + 2F₁F₂ cos θ\nwhere θ is the angle between the forces.\n\nStep 2: Substitute the given values\n13² = 12² + 5² + 2 × 12 × 5 × cos θ\n169 = 144 + 25 + 120 cos θ\n169 = 169 + 120 cos θ\n\nStep 3: Simplify and solve for cos θ\n169 – 169 = 120 cos θ\n0 = 120 cos θ\ncos θ = 0\n\nStep 4: Determine the angle\ncos θ = 0 ⇒ θ = 90°\n",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 838,
+    "question": "A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled?",
+    "option": {
+      "a": " 4.0 ms-1",
+      "b": "6.6 m s⁻¹",
+      "c": "12.1 m s⁻¹",
+      "d": "21.0 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass m = 5 kg\nRadius r = 3.5 m\nInitial speed v₁ = 7 m s⁻¹\nInitial force = F\nNew force = 3F\n\nSolution:\n\nStep 1: Centripetal force formula\nFor circular motion, centripetal force F = mv² / r\n\nStep 2: Set up ratio for two conditions\nSince m and r are constant, F ∝ v²\nTherefore, F₁ / F₂ = (v₁)² / (v₂)²\n\nStep 3: Substitute known values\nF / (3F) = (7)² / (v₂)²\n1/3 = 49 / (v₂)²\n\nStep 4: Solve for v₂\n(v₂)² = 49 × 3 = 147\nv₂ = √147 ≈ 12.124 m s⁻¹",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -8636,6 +8876,22 @@
     "image": "",
     "answer": "d",
     "solution": "Hot wire ammeter is used because the heat affect of A C is same as that of DC",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 980,
+    "question": "\nIf the charge of electricity is K per kWh is N4, what is the cost of operating an electrical appliance rated 250V, 2A for six hours?",
+    "option": {
+      "a": "N28",
+      "b": "N12",
+      "c": "N16",
+      "d": "N24"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nCost per kWh = N4\nVoltage (V) = 250 V\nCurrent (I) = 2 A\nTime (t) = 6 hours\nTotal cost = ?\n\nStep 1: Calculate power of the appliance\nP = VI\nP = 250 × 2\nP = 500 W = 0.5 kW\nStep 2: Calculate energy consumed\nEnergy = Power × Time\nE = 0.5 kW × 6 hours\nE = 3 kWh\nStep 3: Calculate total cost\nCost = Energy × Rate per kWh\nCost = 3 × N4\nCost = N12",
     "examtype": "utme",
     "examyear": "2011"
   },
