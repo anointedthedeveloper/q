@@ -400,6 +400,22 @@
     "examyear": "2013"
   },
   {
+    "id": 161,
+    "question": "Disposable income means:",
+    "option": {
+      "a": "Income that is lost after tax has been removed   ",
+      "b": "Income that could be spent when tax has been removed   ",
+      "c": "Income that tax authority mandated to be given to charity when tax has been removed  ",
+      "d": "Income to be disposed secretly for future spending after tax has been removed "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 165,
     "question": "When economics say that people act rationally in their self-interest, they mean that individual: ",
     "option": {
@@ -555,6 +571,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 248,
+    "question": "The public sector of an economy includes",
+    "option": {
+      "a": "cooperative societies",
+      "b": "nationalized industries",
+      "c": "joint stock companies",
+      "d": "pressure groups"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -743,6 +775,22 @@
       "b": "subsistence economy",
       "c": "market economy",
       "d": "command economy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 331,
+    "question": "Production takes place when",
+    "option": {
+      "a": "output is transformed into input",
+      "b": "machines replace human effort",
+      "c": "input is transformed into output",
+      "d": "there is specialization and division of labour"
     },
     "section": "",
     "image": "",
@@ -1040,6 +1088,22 @@
     "examyear": "2003"
   },
   {
+    "id": 447,
+    "question": "Which of the following is a function of the central bank?",
+    "option": {
+      "a": "Accepting deposits from the public",
+      "b": "Lending to the commercial bank",
+      "c": "Discounting bills of exchange",
+      "d": "Agent of payment for individuals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 460,
     "question": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the",
     "option": {
@@ -1278,6 +1342,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
+  },
+  {
+    "id": 616,
+    "question": "Revenue is the",
+    "option": {
+      "a": "total profit made after sales",
+      "b": "amount spent on purchases",
+      "c": "amount of goods produced",
+      "d": "total money realized from sales."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
   },
   {
     "id": 621,
