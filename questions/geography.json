@@ -2032,6 +2032,22 @@
     "examyear": "2011"
   },
   {
+    "id": 128,
+    "question": "Noonday sun is vertically overhead along the Tropic of Cancer during the month of  ",
+    "option": {
+      "a": "June  ",
+      "b": "July  ",
+      "c": "August  ",
+      "d": "September "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 129,
     "question": "An instrument used in measuring the atmospheric pressure is called ",
     "option": {
@@ -4667,6 +4683,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 299,
+    "question": "A rift valley can develop given",
+    "option": {
+      "a": "Parallel faults and tensional forces",
+      "b": "Landslide and slump",
+      "c": "Volcanic intrusion and avalanche",
+      "d": "Heavy rainfall and earthquake"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
