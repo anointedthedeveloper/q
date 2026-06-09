@@ -1680,6 +1680,22 @@
     "examyear": "2010"
   },
   {
+    "id": 122,
+    "question": "One of the distinctive features of a democracy is that it ",
+    "option": {
+      "a": "Connotes civil rule ",
+      "b": "facilitates popular participation ",
+      "c": "provides for a unicameral legislature ",
+      "d": "is not associated with one party state."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 123,
     "question": "Serfs are the dominated class under ",
     "option": {
@@ -2736,6 +2752,22 @@
     "examyear": "2013"
   },
   {
+    "id": 200,
+    "question": "Political authority is the",
+    "option": {
+      "a": "legitimate right to exercise political power.",
+      "b": "ability to control political behaviour.",
+      "c": "right to participate in political campaigns.",
+      "d": "right to form political parties."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 201,
     "question": "The rule of law refers to the principle of",
     "option": {
@@ -2971,6 +3003,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 218,
+    "question": "The programme of a political party is known as its",
+    "option": {
+      "a": "constitution",
+      "b": "document",
+      "c": "manifesto",
+      "d": "propaganda"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -5712,6 +5760,22 @@
     "examyear": "2010"
   },
   {
+    "id": 422,
+    "question": "16.\tThe rights of a citizen can be withdrawn by the state if the person",
+    "option": {
+      "a": "is convicted of a serious crime",
+      "b": "leaves the country permanently",
+      "c": "is pronounced dead",
+      "d": "opposes the government violently."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 423,
     "question": "An electoral process in which candidates are selected for elective offices by party members is",
     "option": {
@@ -7115,6 +7179,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 522,
+    "question": "The right of citizens to vote is",
+    "option": {
+      "a": "adult suffrage",
+      "b": "universal suffrage",
+      "c": "nationality suffrage",
+      "d": "electoral suffrage."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -10576,6 +10656,22 @@
     "examyear": "2018"
   },
   {
+    "id": 782,
+    "question": "Disenfranchisement refers to the",
+    "option": {
+      "a": "qualification of voters in an election",
+      "b": "Disqualification of fraudulent president aspirants",
+      "c": "denial of the right to vote in an election",
+      "d": "right to vote and be voted for."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Disenfranchisement means being deprived of voting rights.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 784,
     "question": "Which of the following is not an agent of political socialisation?",
     "option": {
@@ -12028,6 +12124,22 @@
     "image": "",
     "answer": "d",
     "solution": "A political party is defined as an organized group of citizens, who act together as a political unit, who act together as a political unit, having distinctive aims and objectives involving political questions in the state and acting together and seeking to obtain control of government",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 892,
+    "question": "In the traditional Hausa-Fulani political system, political authority was vested in the ___________",
+    "option": {
+      "a": "Emir",
+      "b": "Talakawa",
+      "c": "Alkali",
+      "d": "Emirate Council"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Caliphate was divided into emirates and each headed by an emir. The Emir was the traditional ruler and held significant political, judicial, and religious authority within the emirate. The Emirate Council, composed of various officials and advisors, assisted the Emir in governance, but the ultimate authority resided with the Emir.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -16528,6 +16640,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1223,
+    "question": "The Bureau for Public Enterprises is charged with the responsibility for",
+    "option": {
+      "a": "privatization and commercialization",
+      "b": "generating revenue",
+      "c": "eradicating poverty",
+      "d": "providing employment opportunities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Bureau for Public Enterprises is charged with the responsibility for privatization and commercialization",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1224,
     "question": "Financial allocations to local governments by the federal or the state government to supplement the cost of a project is called",
     "option": {
@@ -19420,6 +19548,22 @@
     "image": "",
     "answer": "a",
     "solution": "A State with a hegemonic political party is one in which there is only one dominant party. In this system, one party is firmly established in office. The party has hegemony, that is, it enjoys unchallenged authority. The law does not operate formally against any opposition, but clearly the state concerned is effectively single-party for longer period of many years. For example, South Africa was an example of a hegemonic party. There, the National party came into power in 1948, and it only left when Dr. Nelson Mandela was elected president in 1994.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1441,
+    "question": "The set of policies on the basis of which countries interact with one another is called",
+    "option": {
+      "a": "constructive engagement policy",
+      "b": "socio-economic policy",
+      "c": "national policy",
+      "d": "foreign policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The set of policies on the basis of which countries interact with one another is called foreign policy.\nIt could also be defined as the sum total of decision formulated by the government of a country to manipulate the international environment to attain certain national interest or objective.",
     "examtype": "utme",
     "examyear": "2009"
   },
