@@ -3040,6 +3040,25 @@
     "category": "others"
   },
   {
+    "id": 283,
+    "question": "The usually hostile crowd was captivated by the .player's <i>winsome</i> attitude",
+    "option": {
+      "a": "obnoxious  ",
+      "b": "friendly  ",
+      "c": "colourful  ",
+      "d": "drunken"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 284,
     "question": "The reporter made a <i>masterly</i> analysis of the situation",
     "option": {
@@ -5920,6 +5939,25 @@
     "section": "choose the option opposite In meaning to the word or phrase In Italics",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 542,
+    "question": "There was a general  <i>acquiescence</i>  on the new drug law ",
+    "option": {
+      "a": "resistance ",
+      "b": "discrepancy ",
+      "c": "compromise",
+      "d": "agreement"
+    },
+    "section": "choose the option opposite In meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010",
@@ -10507,6 +10545,25 @@
     "category": "others"
   },
   {
+    "id": 1084,
+    "question": "<u>H</u>air",
+    "option": {
+      "a": "heir",
+      "b": "hour",
+      "c": "honest",
+      "d": "house"
+    },
+    "section": "<b>In each of questions 89 to 91, choose the \noption that has the same consonant \nsound as the one represented by the \nletter(s) underlined.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "hair; /hɛː/\n\nhouse; /haʊs/",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 90,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1087,
     "question": "Impossible",
     "option": {
@@ -10826,6 +10883,25 @@
     "examtype": "utme",
     "examyear": "2013",
     "questionNub": 46,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1142,
+    "question": "The accused was <u>eventually</u> convicted",
+    "option": {
+      "a": "consequently",
+      "b": "subsequently",
+      "c": "finally",
+      "d": "lnitially"
+    },
+    "section": "In each of questions 46 to 55, choose the option <b>opposite</b> in meaning to the word or phrase underlined.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "Eventually; in the end, especially after a long delay, dispute, or series of problems.\n\nInitially; means at first",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 50,
     "hasPassage": 0,
     "category": "others"
   },
@@ -12574,6 +12650,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 14,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1329,
+    "question": "Choose the one with the different stress pattern",
+    "option": {
+      "a": "commit",
+      "b": "compare",
+      "c": "complete",
+      "d": "column"
+    },
+    "section": "In the following options lettered A to D, all the words except one have the same stress pattern.",
+    "image": "",
+    "answer": "d",
+    "solution": "Option A - C has its stress on the first syllable except for Option D.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 16,
     "hasPassage": 0,
     "category": "others"
   },
@@ -16773,6 +16868,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 2,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1762,
+    "question": "Jummai's father remarked that pigs would fly before she passed.",
+    "option": {
+      "a": "She would have to cheat in order to pass.",
+      "b": "It would be possible to pass only if she worked harder.",
+      "c": "It would never be possible for her to pass.",
+      "d": "He would have to bribe her teachers to enable her to pass."
+    },
+    "section": "Select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "c",
+    "solution": "When \"pigs fly\" is an adynaton, a way of saying that something will never happen.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 3,
     "hasPassage": 0,
     "category": "others"
   },
