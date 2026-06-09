@@ -7312,6 +7312,22 @@
     "examyear": "2008"
   },
   {
+    "id": 477,
+    "question": "The cost of kerosene per liter increased from N60 to N85. What is the percentage rate of increase?",
+    "option": {
+      "a": " 42%",
+      "b": " 41%",
+      "c": "40%",
+      "d": "25%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "N85 - N60 = N25 increase\n∴percentage increase 25/60 × 100/1 = 125/3 = 41.67 = 42",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 478,
     "question": "simplify 〖16〗<sup>((-1)/2)</sup> × 4<sup>((-1)/2)</sup>×〖27〗<sup>(1/3)</sup>",
     "option": {
@@ -10396,6 +10412,22 @@
     "image": "",
     "answer": "b",
     "solution": "P = {2,3,5}\n\nQ = {2,3,6,9}\n\nP ∩ Q = {2,3}",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 729,
+    "question": "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither?",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "n(f ∩ v) + n(f) + n(v) + n(f ∩ v) = 46\n\n3 + 19 + 23 + x = 46\n\n22 + 23 + x = 46\n\n45 + x = 46\n\nx = 46 - 45\n\nx = 1",
     "examtype": "utme",
     "examyear": "2012"
   },
