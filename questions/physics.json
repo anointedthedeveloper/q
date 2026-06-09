@@ -9472,6 +9472,22 @@
     "examyear": "2004"
   },
   {
+    "id": 606,
+    "question": "The particle and wave nature of matter are demonstrated in the equation",
+    "option": {
+      "a": "λ = hc/E",
+      "b": "λ = h/P",
+      "c": " λ = c/f",
+      "d": "λ = 2 d sin θ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The de Broglie equation λ = h/P demonstrates that:\n\nMatter has wavelength λ (wave nature)\nMatter has momentum P (particle nature)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 607,
     "question": "In a reverse biased junction diode, current flows in by",
     "option": {
@@ -14780,6 +14796,22 @@
     "image": "",
     "answer": "b",
     "solution": "In Faradays law of electrolysis\nM = It = Q\nWhere M is the mass of substance deposit . Q is the quantity of charge. A graph of m against Q is a straight line passing through the origin with slope equal to the electrochemical equivalent.Z",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 946,
+    "question": "The process whereby a substance changes from a solid to liquid when heat is applied, is called?",
+    "option": {
+      "a": "Evaporation",
+      "b": "Vaporization",
+      "c": "Fission",
+      "d": "Fusion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The process of a substance changing from solid to liquid upon heating is called fusion. It happens when the temperature reaches the melting point, allowing particles to gain enough energy to move freely as a liquid.",
     "examtype": "utme",
     "examyear": "2010"
   },
