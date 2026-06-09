@@ -320,6 +320,22 @@
     "examyear": "2001"
   },
   {
+    "id": 30,
+    "question": "Fermentation is the",
+    "option": {
+      "a": "Breaking down of carbohydrate to glucose",
+      "b": "Conversion of sugar to alcohol in the presence of yeast",
+      "c": "Breaking down of sugar to carbohydrate",
+      "d": "Conversion of alcohol to sugar in the presence of yeast"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 31,
     "question": "The general formula for the alkanals is",
     "option": {
@@ -1856,6 +1872,22 @@
     "examyear": "2005"
   },
   {
+    "id": 173,
+    "question": "Which of the following alloys contain iron",
+    "option": {
+      "a": "Steel and permalloy",
+      "b": "Duralumlin and steel",
+      "c": "nd Soft Solder a Duralumlin ",
+      "d": "Brass and bronze"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 174,
     "question": "To obtain pure carbon(II) oxide from its mixture with carbon (IV)oxide, the mixture should be",
     "option": {
@@ -2048,6 +2080,22 @@
     "examyear": "2005"
   },
   {
+    "id": 190,
+    "question": "Which of these properties gives a solid its definite shape",
+    "option": {
+      "a": "Weak intermolecular attraction",
+      "b": "High boiling point",
+      "c": "High melting point",
+      "d": "Strong intermolecular attraction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 191,
     "question": "The component of an atom that contributes least to its mass is the",
     "option": {
@@ -2203,6 +2251,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 205,
+    "question": "When water boilers are used for a long period of time, the solid substances left behind as scale are",
+    "option": {
+      "a": "Magnesium trioxosilicate (IV) and calcium Tetraoxosulphate(VI)",
+      "b": "Magnesium trioxosilicate(IV) and rust",
+      "c": "Clay and magnesium trioxosilicate (IV)",
+      "d": "clay and rust"
+    },
+    "section": "",
+    "image": "",
+    "answer": "",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -2923,6 +2987,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 265,
+    "question": "Moving from left to right across a period, the general rise in the first ionization energy can be attributed to the",
+    "option": {
+      "a": "Increase in nuclear charge",
+      "b": "Decrease in screening effect",
+      "c": "Increase in screening effect",
+      "d": "Decrease in nuclear charge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -3708,6 +3788,22 @@
     "image": "",
     "answer": "c",
     "solution": "Calcium (Ca) is reactive enough to displace hydrogen from a hot alkaline solution. It reacts vigorously with water/alkaline solutions: Ca + 2H₂O → Ca(OH)₂ + H₂↑. Cu and Fe are insufficiently reactive, while Sn only reacts with strong acids.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 331,
+    "question": "Rare gases are stable because they",
+    "option": {
+      "a": "are monoatomic",
+      "b": "form ions easily",
+      "c": "have duplet or octet electronic configuration in the outermost shells in their atoms",
+      "d": "are volatile gases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Rare (noble) gases are stable because their outermost shells contain a full complement of electrons — a duplet (2 electrons, for He) or octet (8 electrons, for Ne, Ar, Kr, Xe, Rn). This full outer shell configuration makes them chemically inert with no tendency to gain or lose electrons.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -4972,6 +5068,22 @@
     "image": "",
     "answer": "d",
     "solution": "Ethene (CH₂=CH₂) is produced industrially by cracking — the thermal or catalytic decomposition of larger hydrocarbon molecules from petroleum into smaller, more useful ones. Steam cracking of naphtha or ethane is the main industrial route to ethene.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 447,
+    "question": "Calculate the amount in moles of a gas which occupies 10.5 dm³ at 6 atm and 30°C [R = 0.082 atm dm³ K⁻¹ mol⁻¹]",
+    "option": {
+      "a": "2.536",
+      "b": "1.623",
+      "c": "4.736",
+      "d": "0.394"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using the ideal gas equation PV = nRT. T = 30 + 273 = 303 K. n = PV/RT = (6 × 10.5)/(0.082 × 303) = 63/24.846 = 2.536 mol.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -6960,6 +7072,22 @@
     "examyear": "2021"
   },
   {
+    "id": 627,
+    "question": "A binary compound of oxygen with another element is referred to as?",
+    "option": {
+      "a": "Oxide",
+      "b": "Element",
+      "c": "Carbon",
+      "d": "Nitrogen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An oxide is a binary compound formed between oxygen and another element. Binary means it contains exactly two different elements, one of which is oxygen. Examples include water (H₂O), iron oxide (Fe₂O₃), carbon dioxide (CO₂), and sodium oxide (Na₂O). All these are classified as oxides.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 628,
     "question": "The process or act of extracting a metal from its ore and refining it is called?",
     "option": {
@@ -8652,6 +8780,22 @@
     "image": "",
     "answer": "b",
     "solution": "Transition metals act as catalysts because they have partially filled d-orbitals that allow them to form temporary bonds with reactants, adopt variable oxidation states, and adsorb reactant molecules — all of which lower the activation energy.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 762,
+    "question": "Calculate the pH of 0.001 M KOH solution.",
+    "option": {
+      "a": "11",
+      "b": "14",
+      "c": "12",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "KOH is a strong base: [OH⁻] = 0.001 M = 1 × 10⁻³ M. pOH = -log(10⁻³) = 3. pH = 14 - 3 = 11.",
     "examtype": "utme",
     "examyear": "2025"
   },
