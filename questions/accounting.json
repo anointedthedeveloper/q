@@ -21392,6 +21392,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1353,
+    "question": "<b>Use the information below to answer questions 39 and 40</b>\n\n\t\t\t\t  \nThe quick ratio is",
+    "option": {
+      "a": "0.65:1",
+      "b": "0.91 : 1",
+      "c": "0.95 : 1",
+      "d": "1.53 :1."
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756668418/ALOC-Questions/Accounting/UTME/1999/Accounting_JAMB_1999_Q39-40_i72dvt.png",
+    "answer": "a",
+    "solution": "From the Balance Sheet:\nCurrent Assets:\n\nDebtors: ₦90,000\nOther current assets: ₦60,000\nStock: ₦28,000\nBank: ₦100,000\n\nQuick Assets (Current Assets minus Stock):\n\nDebtors: ₦90,000\nOther current assets: ₦60,000\nBank: ₦100,000\nTotal Quick Assets = ₦90,000 + ₦60,000 + ₦100,000 = ₦250,000\n\nCurrent Liabilities:\n\nCreditors: ₦200,000\nProvision: ₦87,000\nOther current liabilities: ₦100,000\nTotal Current Liabilities = ₦200,000 + ₦87,000 + ₦100,000 = ₦387,000\n\nQuick Ratio Calculation:\nQuick Ratio = Quick Assets ÷ Current Liabilities\nQuick Ratio = ₦250,000 ÷ ₦387,000 = 0.646:1\nTherefore, the quick ratio is approximately 0.65:1\nThis means the company has ₦0.65 of quick assets for every ₦1 of current liabilities.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1354,
     "question": "<b>Use the information below to answer questions 39 and 40</b>\n\n\t\t\t\t  \nDetermine the owners equity",
     "option": {
