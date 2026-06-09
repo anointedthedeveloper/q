@@ -32,6 +32,22 @@
     "examyear": "2006"
   },
   {
+    "id": 17,
+    "question": "Which of the following political parties did not participate in the 1979 General Elections in Nigeria? ",
+    "option": {
+      "a": "Unity Party of Nigeria ",
+      "b": "National Party of Nigeria ",
+      "c": "social Democratic Party ",
+      "d": "Great Nigeria People’s Party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 19,
     "question": "The electorate is generally  understood to refer to ",
     "option": {
@@ -48,6 +64,38 @@
     "examyear": "2006"
   },
   {
+    "id": 24,
+    "question": "Which of these countries has the highest population in West Africa? ",
+    "option": {
+      "a": "Mauritania",
+      "b": "Ghana ",
+      "c": "The Gambia ",
+      "d": "Nigeria."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 47,
+    "question": "The French colonial policy of Assimilation  was intended to ",
+    "option": {
+      "a": "to transfer technology to Africa ",
+      "b": "to make Frenchmen out of African ",
+      "c": "to produce well educated Africans ",
+      "d": "to prepare Africans for the Olympic Games"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 64,
     "question": "In many countries, citizenship can be acquired through the following processes except ",
     "option": {
@@ -62,6 +110,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
+  },
+  {
+    "id": 80,
+    "question": "Which of these constitutions recognized local government is the third tier of government? ",
+    "option": {
+      "a": "The 1946 constitution ",
+      "b": "The 1960 constitution",
+      "c": "The  1963 constitution ",
+      "d": "the 1979 constitution."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   },
   {
     "id": 83,
@@ -192,6 +256,22 @@
     "examyear": "2013"
   },
   {
+    "id": 227,
+    "question": "The grant of the right to vote is called",
+    "option": {
+      "a": "enfranchisement",
+      "b": "disqualification",
+      "c": "prohibition",
+      "d": "participation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 229,
     "question": "Which of the following factors may work against a representative system of government?",
     "option": {
@@ -206,6 +286,38 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
+  },
+  {
+    "id": 237,
+    "question": "Which of the following military regimes in Nigeria played a prominent role in the liberation of colonized African states?",
+    "option": {
+      "a": "Aguiyi Ironsi",
+      "b": "Murtala / Obasanjo",
+      "c": "Muhammadu Buhari",
+      "d": "Ibrahim Babangida"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 279,
+    "question": "In the pre-colonial Hause/Fulani society, the political head was called",
+    "option": {
+      "a": "Alkali",
+      "b": "Galadima",
+      "c": "Ma `aji",
+      "d": "Wasiri"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
   },
   {
     "id": 282,
@@ -464,6 +576,38 @@
     "examyear": "2010"
   },
   {
+    "id": 462,
+    "question": "A governmental system in which constitutional supremacy resides in the centre is",
+    "option": {
+      "a": "federal",
+      "b": "confederal",
+      "c": "unitary",
+      "d": "parliamentary."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 469,
+    "question": "To ensure the rights and freedom of citizens, the powers of the arms of government must be",
+    "option": {
+      "a": "fused",
+      "b": "incorporated",
+      "c": "separated",
+      "d": "rotated."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 486,
     "question": "In Nigeria, the agency mainly responsible for the maintenance of internal peace and security is the",
     "option": {
@@ -471,6 +615,22 @@
       "b": "Navy",
       "c": "Civil Defense Corps",
       "d": "Police."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 494,
+    "question": "The central objective of privatization in Nigeria is to",
+    "option": {
+      "a": "reduce the retrenchment of workers",
+      "b": "encourage prompt payment of salaries",
+      "c": "improve standard of living",
+      "d": "improve the efficiency of enterprises."
     },
     "section": "",
     "image": "",
@@ -640,6 +800,22 @@
     "examyear": "2014"
   },
   {
+    "id": 571,
+    "question": "The main objective of pressure groups is to",
+    "option": {
+      "a": "promote the interest of political parties",
+      "b": "influence legislation for the benefit of their members",
+      "c": "protect the interest of the country against foreigners",
+      "d": "serve as opposition to the government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 583,
     "question": "The President of Nigeria was indirectly elected through secret ballot for a period of five years by the senate in",
     "option": {
@@ -704,6 +880,22 @@
     "examyear": "1988"
   },
   {
+    "id": 632,
+    "question": "The Armed Forces Ruling Council came into existence under the",
+    "option": {
+      "a": "Buhari Administration",
+      "b": "Gowon  Administration",
+      "c": "Ironsi Administration",
+      "d": "Babangida Administration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 633,
     "question": "Which of the following is not a specialized agency of the United Nations Organization?",
     "option": {
@@ -715,6 +907,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 634,
+    "question": "The creation of the office of the Prime Minister in Nigeria was accomplished in",
+    "option": {
+      "a": "1951",
+      "b": "1954",
+      "c": "1957",
+      "d": "1959"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -912,6 +1120,22 @@
     "examyear": "2017"
   },
   {
+    "id": 758,
+    "question": "The concentration of power on the units is a merit of __",
+    "option": {
+      "a": " quasi-federal-system",
+      "b": "confederal system",
+      "c": " federal system\n",
+      "d": "system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a confederation, power is concentrated at the unit level.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 762,
     "question": "An important element of the doctrine of separation of powers is __",
     "option": {
@@ -944,6 +1168,38 @@
     "examyear": "2017"
   },
   {
+    "id": 768,
+    "question": "The granting of internal authority to the regions came under which constitution?",
+    "option": {
+      "a": "Littleton Constitution",
+      "b": "Richard Constitution",
+      "c": "Clifford Constitution",
+      "d": "Macpherson Constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "This constitution was the only constitution that granted Internal authority",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 787,
+    "question": "In a republic parliamentary system of government, the ceremonial Head of State is the",
+    "option": {
+      "a": "Chief Justice",
+      "b": "Prime Minister",
+      "c": "President",
+      "d": "Queen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a parliamentary system, the President is the ceremonial Head of State.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 789,
     "question": "Delegated legislation is suitable for",
     "option": {
@@ -956,6 +1212,38 @@
     "image": "",
     "answer": "a",
     "solution": "Delegated legislation allows the executive and agencies to make laws under parliamentary supervision.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 804,
+    "question": " In which of the following political systems is rule of law most enhanced?",
+    "option": {
+      "a": "Cabinet system",
+      "b": "Feudal system",
+      "c": "  Fascist system",
+      "d": " Communist system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The cabinet (parliamentary) system enhances the rule of law by ensuring accountability.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 814,
+    "question": "The second ballot is based on the principle that a successful candidate must obtain",
+    "option": {
+      "a": "absolute majority",
+      "b": "simple majority",
+      "c": "forty percent of the votes",
+      "d": "fifty percent of the votes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Before the Second Ballot System is introduce in an election is when none of the candidates wins the election by absolute majority in a general election, another election would be conducted. In this final election, only the candidates with the highest votes are allowed to contest. \n\nSo the second ballot is based on the principle that a successful candidate must obtain Absolute Majority\n\nAbsolute Majority System is a system of voting in which a candidate must acquire more than half of the total vote cast before he can be declared winner.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1216,6 +1504,54 @@
     "examyear": "2023"
   },
   {
+    "id": 1008,
+    "question": "Which African country successfully resisted European imperialism and maintained its independence?",
+    "option": {
+      "a": "Ghana",
+      "b": "Ethiopia",
+      "c": "Kenya",
+      "d": "Algeria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Ethiopia is the African country that successfully resisted European imperialism and maintained its independence. Ethiopia was able to maintain its independence after defeating Italy at the Battle of Adwa in 1896.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1021,
+    "question": "Which of the following was a significant trade commodity in the pre-colonial Kingdom of Benin?",
+    "option": {
+      "a": "Ivory",
+      "b": "Gold",
+      "c": "Rubber",
+      "d": "Salt"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ivory was a significant trade commodity in the pre-colonial Kingdom of Benin. The Kingdom of Benin, located in modern-day Nigeria, was known for its ivory carvings, which were traded with European merchants.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1041,
+    "question": "which pre-colonial Nigerian Kingdom was known for its artistic and cultural achievement?",
+    "option": {
+      "a": "Nupe",
+      "b": "Igbo",
+      "c": "Kanem-Bornu",
+      "d": "Benin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Benin Kingdom, in pre-colonial Nigeria, was known for its artistic and cultural achievements. The kingdom was renowned for its brass sculptures, its ivory carvings, and its palace architecture. The Benin Kingdom's art was so highly valued that it influenced the development of modern Western art.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1046,
     "question": "The main argument against the 1999 Constitution is that ",
     "option": {
@@ -1408,6 +1744,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1187,
+    "question": "Which of the following is a founding member of OPEC?",
+    "option": {
+      "a": "Nigeria",
+      "b": "Indonesia",
+      "c": "Venezuela",
+      "d": "Algeria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Venezuela is a founding member of OPEC.\n\nOther founding members are Iran, Iraq, Kuwait and Saudi Arabia.\n\nThe Organization was formed in September 1960.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1193,
     "question": "An attribute that Nigeria shares with most non-aligned countries is",
     "option": {
@@ -1422,6 +1774,22 @@
     "solution": "An attribute that Nigeria shares with most non-aligned countries is the state of her economy.\n\nLike other members of the non-aligned movement, Nigeria's internal economic structures that depend on external support has made Nigeria to be political on-aligned and economically aligned.",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 1214,
+    "question": "The type of government operated in Nigeria between October 1st 1979 to December 31st 1983 is called a",
+    "option": {
+      "a": " collegial system of government",
+      "b": " presidential system of government",
+      "c": "unitary system of government",
+      "d": "parliamentary system of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The type of government operated in Nigeria between October 1st 1979 to December 31st 1983 is called a presidential system of government.\n\nThat was the first time Nigeria started to practice the presidential system. The first executive president was Alhaji Shehu Shagari",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 1215,
@@ -1502,6 +1870,54 @@
     "solution": "The President of the United Nations Security Council serves a tenure of one month, with the position rotating among the 15 member states (5 permanent and 10 non-permanent) in alphabetical order (based on English country names). This monthly rotation ensures equitable representation and shared leadership.",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 1255,
+    "question": "The responsibility for admitting new members to the OPEC rests with the",
+    "option": {
+      "a": "Summit",
+      "b": "Secretariate",
+      "c": "Conference",
+      "d": "Board of Governors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The authority to admit new members to OPEC resides with the OPEC Conference, which is the organization's supreme decision-making body. Composed of delegations from all member countries, the Conference meets biannually and requires a three-quarters majority vote (including approval from all five founding members) to admit a new state.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1267,
+    "question": "The first franchise in the history of the democratic process is",
+    "option": {
+      "a": "property franchise",
+      "b": "universal franchise",
+      "c": "male franchise",
+      "d": "female franchise"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The first franchise in the history of the democratic process is male franchise. \nThis  is a form of voting rights in which all adult males within a political system are allowed to vote, regardless of income, property, religion, race, or any other qualification.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1268,
+    "question": "The principle of separation of powers was made popular by",
+    "option": {
+      "a": "Thomas Hobbes",
+      "b": "John Locke",
+      "c": "Niccolo Machiavelli",
+      "d": "Baron de Montesquieu"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The principle of separation of powers was made popular by Baron Montesquieu. He was a french political thinker and Jurist. In his book titled The Spirit of Law, he divided governmental powers into three separate and co-ordinate branches the legislature, Executive and Judiciary.",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 1276,
@@ -1644,6 +2060,22 @@
     "image": "",
     "answer": "d",
     "solution": "A political entity that possesses independence is a state.\n\nThe state must posses supreme authority within its territory. It must be independent of any foreign control.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1436,
+    "question": "The consciousness of a common identity of a people is called",
+    "option": {
+      "a": "nationalism",
+      "b": "integration",
+      "c": "indoctrination",
+      "d": "emancipation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Consciousness of a common identity of a people is called nationalism. Nationalism is then defined as the strong emotional awareness of belonging to a nation/state which leads to the struggle against foreign rule of domination.",
     "examtype": "utme",
     "examyear": "2009"
   },
