@@ -6384,6 +6384,22 @@
     "examyear": "2000"
   },
   {
+    "id": 507,
+    "question": "Which of the following is sent in reply to a letter of enquiry?",
+    "option": {
+      "a": "Quotation",
+      "b": "Order",
+      "c": "Consumer invoice",
+      "d": "Advice note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 508,
     "question": "The abbreviated phrase E & OE is usually printed on",
     "option": {
@@ -8688,6 +8704,22 @@
     "examyear": "2016"
   },
   {
+    "id": 685,
+    "question": "Which of the following is NOT backed by gold but by government securities?",
+    "option": {
+      "a": "Fiduciary note.",
+      "b": "Fiat money.",
+      "c": "Token money.",
+      "d": "Commodity money."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 686,
     "question": "Which of the following is a legal tender?",
     "option": {
@@ -9723,6 +9755,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 765,
+    "question": "The indemnification of Ama by his insurance company after a fire disaster means that he",
+    "option": {
+      "a": "has been guaranteed by the insurance company",
+      "b": "will be cleared of any fault by the insurance company",
+      "c": "has been covered by the insurance company",
+      "d": "will be covered to the limit of the amount in the policy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
