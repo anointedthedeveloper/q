@@ -48,6 +48,22 @@
     "examyear": "2014"
   },
   {
+    "id": 4,
+    "question": "Citizenship status is acquired through",
+    "option": {
+      "a": "birth, indigenization, colonization and referendum",
+      "b": "association, convention, naturalization and incorporation",
+      "c": "birth, naturalization, honorary and registration",
+      "d": "registration, inter-relationship, integration and declaration."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 5,
     "question": "Human Rights are basic natural rights which people enjoy primarily because they are",
     "option": {
