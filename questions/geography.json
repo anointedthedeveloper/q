@@ -2800,6 +2800,22 @@
     "examyear": "2014"
   },
   {
+    "id": 188,
+    "question": "Igneous rocks are rocks formed by",
+    "option": {
+      "a": "The cooling of molten minerals from a liquid into a solid.",
+      "b": "The change of minerals from a solid into a liquid",
+      "c": "The deposition of minerals. ",
+      "d": "The deposition of minerals a solid into a liquid. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 189,
     "question": "Temperature is a measure of: ",
     "option": {
@@ -3931,6 +3947,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 265,
+    "question": "The most common tree in the desert is the",
+    "option": {
+      "a": "Pine",
+      "b": "Date ",
+      "c": "Larch",
+      "d": "African walnut"
+    },
+    "section": "",
+    "image": "",
+    "answer": "e",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -5870,6 +5902,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 397,
+    "question": "If a map at scale of 1:50,000 is reduced by half, what is the scale of the new map?",
+    "option": {
+      "a": "1:100,000",
+      "b": "1:750,000",
+      "c": "1:200,000",
+      "d": "1:25,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 398,
