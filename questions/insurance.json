@@ -96,6 +96,38 @@
     "examyear": "2014"
   },
   {
+    "id": 8,
+    "question": "The evidence of the insurance contract is",
+    "option": {
+      "a": "proposal form",
+      "b": "policy",
+      "c": "schedule",
+      "d": "endorsement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 13,
+    "question": "The class of non-life insurance policy where cover note is issued is",
+    "option": {
+      "a": "fire insurance",
+      "b": "burglary insurance",
+      "c": "motor insurance",
+      "d": "fidelity guarantee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 14,
     "question": "Abandonment is mostly applicable to",
     "option": {
@@ -363,6 +395,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 41,
+    "question": "A small fixed sum retained by the insured in the form of a claim is",
+    "option": {
+      "a": "slip",
+      "b": "severity",
+      "c": "excess",
+      "d": "frequency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -1008,6 +1056,22 @@
     "examyear": "2"
   },
   {
+    "id": 118,
+    "question": "The principle of subrogation imposed an obligation on the insured to",
+    "option": {
+      "a": "Disclose all material information",
+      "b": "Have financial risks in the object",
+      "c": "Press for compensation",
+      "d": "Surrender legal right after compensation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 119,
     "question": "Which of the following is not a principle of insurance",
     "option": {
@@ -1095,6 +1159,22 @@
       "b": "Certainty",
       "c": "Insurance",
       "d": "Hazard"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 127,
+    "question": "Re-insurance contract is between",
+    "option": {
+      "a": "Re-insurer and insurer",
+      "b": "Re- insurance and insurance",
+      "c": "Co-insurer and insurer",
+      "d": "Insurance broker and re-insurer"
     },
     "section": "",
     "image": "",
@@ -2384,6 +2464,22 @@
     "examyear": "5"
   },
   {
+    "id": 265,
+    "question": "Which of the following risks is covered by insurance policy?",
+    "option": {
+      "a": "an investment loss on the stock market",
+      "b": "dishonesty of an employee leading to fraud",
+      "c": "failure of a business venture",
+      "d": "rise and fall of prices of goods in the market"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 267,
     "question": "One of this is the consideration paid for insurance contract",
     "option": {
@@ -2551,6 +2647,22 @@
       "b": "non-financial risk",
       "c": "speculative risk",
       "d": "insurable risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 297,
+    "question": "The  factor  that has  the  tendency  to  increase  the occurrence of a risk is called",
+    "option": {
+      "a": "risk",
+      "b": "loss",
+      "c": "hazard",
+      "d": "peril"
     },
     "section": "",
     "image": "",
@@ -2752,6 +2864,22 @@
     "examyear": "2015"
   },
   {
+    "id": 313,
+    "question": "Which class of life assurance would a young couple who desires to start a new business in five years time purchase?",
+    "option": {
+      "a": "Whole life policy",
+      "b": "Limited whole life policy",
+      "c": "Keyman policy",
+      "d": "Endowment policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 314,
     "question": "In which of the following policies is <em>certificate of insurance</em>  used?",
     "option": {
@@ -2800,6 +2928,22 @@
     "examyear": "2015"
   },
   {
+    "id": 320,
+    "question": "A policy taken to cover several shipments for a sum assured is",
+    "option": {
+      "a": "floating policy",
+      "b": "valued policy",
+      "c": "declaration policy",
+      "d": "special policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 323,
     "question": "A clause in marine insurance policy prohibiting the insured from giving up a damaged property is",
     "option": {
@@ -2807,6 +2951,22 @@
       "b": "abandonment",
       "c": "indemnity",
       "d": "compensation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 325,
+    "question": "A fire insurance policy valued at N= 250,000 is issued at the rate of 0.2%. How much would the premium be, if the policy is granted with 5% long - term agreement discount?",
+    "option": {
+      "a": "N= 475",
+      "b": "N= 500",
+      "c": "N= 12,500",
+      "d": "N= 13,000"
     },
     "section": "",
     "image": "",
