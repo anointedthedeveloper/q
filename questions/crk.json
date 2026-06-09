@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 9,
+    "question": "Joshua and Caleb were from the tribe of ",
+    "option": {
+      "a": "Judah and Rueben ",
+      "b": "Reuben and Dan ",
+      "c": "Ephraim and Reuben ",
+      "d": "Judah and Ephraim"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 10,
     "question": "Manahem, the son of Gadi reigned over Israel for ",
     "option": {
@@ -320,6 +336,22 @@
     "examyear": "2007"
   },
   {
+    "id": 42,
+    "question": "Josiah’s reign was popular because of his ",
+    "option": {
+      "a": "allies ",
+      "b": "victory ",
+      "c": "violence ",
+      "d": "reforms"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 43,
     "question": "The meaning of Ephphatha is ",
     "option": {
@@ -359,6 +391,22 @@
       "b": "Ezekiel ",
       "c": "Jeremiah ",
       "d": "Zephaniah."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 47,
+    "question": "Who was the priest that confronted Uzziah in the temple ",
+    "option": {
+      "a": "Zadokaul ",
+      "b": "Phineas ",
+      "c": "Azariah ",
+      "d": "Aaron"
     },
     "section": "",
     "image": "",
@@ -427,6 +475,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 57,
+    "question": "Which of the following carried Judah into captivity ",
+    "option": {
+      "a": "pharaoh  Neco of Egypt ",
+      "b": "Goliath of philistia ",
+      "c": "Assyrians ",
+      "d": "Nebuchadnezzar of Babylon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -816,6 +880,22 @@
     "examyear": "2010"
   },
   {
+    "id": 107,
+    "question": "When was this statement made? ‘I repent that I Made Saul king '",
+    "option": {
+      "a": "at the anointing of Saul ",
+      "b": "When Saul failed to ray ",
+      "c": "When Saul disobeyed God over Amalek ",
+      "d": "When Saul finished the morning offering"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 108,
     "question": "The commander of David’s army was ",
     "option": {
@@ -827,6 +907,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 109,
+    "question": "That was the sin of David that involved Bathseba? ",
+    "option": {
+      "a": "Murder ",
+      "b": "adultery ",
+      "c": "dishonesty ",
+      "d": "arrogance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -2192,6 +2288,22 @@
     "examyear": "2009"
   },
   {
+    "id": 287,
+    "question": "God had pity on the people of Nineveh because",
+    "option": {
+      "a": "they listened to Jonah’s message",
+      "b": "the king punished all the violent people in the land",
+      "c": "they turned from their evil way.",
+      "d": "they made sacrifices of sin offering to God."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 288,
     "question": "The Kingdom of Israel was divided because the",
     "option": {
@@ -2368,6 +2480,22 @@
     "examyear": "2011"
   },
   {
+    "id": 303,
+    "question": "Why was God angry with Eli?",
+    "option": {
+      "a": "Eli’s sons disregarded the people’s warning",
+      "b": "Eli’s sons were wicked people.",
+      "c": "Eli’s sons dishonoured God and he treated them with levity.",
+      "d": "Eli’s sons were appointed as priests against God’s will."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 304,
     "question": "Laxity in disciplining children is dangerous to both the family and society as exemplified by",
     "option": {
@@ -2423,6 +2551,22 @@
       "b": "lacked accounting capabilities",
       "c": "bribed the Temple officials",
       "d": "were honest workmen."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 313,
+    "question": "During Jehoiakim’s reign, Judah was destroyed as punishment for Manasseh’s sin of",
+    "option": {
+      "a": "keeping Temple prostitutes in the land",
+      "b": "defiling the vessels in the Temple",
+      "c": "offering unacceptable sacrifice",
+      "d": "shedding innocent blood."
     },
     "section": "",
     "image": "",
@@ -2715,6 +2859,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 346,
+    "question": "Peter in his epistle, charged his fellow elders to",
+    "option": {
+      "a": "take care of their families",
+      "b": "be strong in their faith",
+      "c": "have compassion on the weak",
+      "d": "tend the flock of God."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -3115,6 +3275,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 406,
+    "question": "‘...why then have you not kept watch over your lord the king?...” The question above by David was addressed to",
+    "option": {
+      "a": "Amasa",
+      "b": "Joab",
+      "c": "Abishai",
+      "d": "Abner."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -4192,6 +4368,22 @@
     "examyear": "2010"
   },
   {
+    "id": 548,
+    "question": "The wife of Moses was called",
+    "option": {
+      "a": "Rebecca.",
+      "b": "Rachel.",
+      "c": "Zipporah.",
+      "d": "Deborah"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 550,
     "question": "How old was Joshua before he died?",
     "option": {
@@ -4363,6 +4555,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 573,
+    "question": "St. John refers to Jesus’ miracles as ‘signs’ because they convey the following ideas except",
+    "option": {
+      "a": "acceptance of Jesus as son of God.",
+      "b": "proofs of the kingdom of God.",
+      "c": "faith in Jesus as the means to eternal life.",
+      "d": "demand for more wonders."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -5266,6 +5474,22 @@
   {
     "id": 697,
     "question": "“The sword devours now one and now another.” This statement was made by David in reaction to the death of __________.",
+    "option": {
+      "a": "Saul",
+      "b": "Joab",
+      "c": "Ishbosheth",
+      "d": "Uriah"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 698,
+    "question": "“The sword devours now one and now another.” This statement was David’s reaction to the death of __________.",
     "option": {
       "a": "Saul",
       "b": "Joab",
@@ -6784,6 +7008,22 @@
     "examyear": "2012"
   },
   {
+    "id": 881,
+    "question": "And we are witnesses to these  things, and so is the Holy Spirit whom God has given to those who obey him”\n “These things” in the disciples’ statement before the\n Sanhedrin refers to\n",
+    "option": {
+      "a": "the election of Matthias",
+      "b": "outpouring of the Holy Spirit",
+      "c": "cater for the poor and needy",
+      "d": "defend Christianity as a true religious "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 888,
     "question": "Partially according to James is manifested in the Church through",
     "option": {
@@ -7600,6 +7840,22 @@
     "examyear": "2011"
   },
   {
+    "id": 997,
+    "question": "Deborah, a prophetess who was a judge in Israel was the wife of    ",
+    "option": {
+      "a": "Joshu ",
+      "b": "Abijah",
+      "c": "Lappidoth.  ",
+      "d": "Sisera."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 998,
     "question": "The sons of Eli were regarded as worthless men for all the ",
     "option": {
@@ -7872,6 +8128,22 @@
     "examyear": "2011"
   },
   {
+    "id": 1037,
+    "question": "James strongly condemned partiality in the Church for all the following reasons except that it ",
+    "option": {
+      "a": "is contrary to Christ’s example of humility ",
+      "b": "accords due respect to the rich who merit it. ",
+      "c": "is a transgression of the commandment of Go",
+      "d": "does not harmonize with the Christian virtue of love"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 1038,
     "question": "The Galatians, were reminded by Paul that they were Abraham’s offspring and heirs according to ",
     "option": {
@@ -7952,6 +8224,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1048,
+    "question": "The sons of Samuel misused their privileged positions by        ",
+    "option": {
+      "a": "not allowing the fats of animals to burn first to God ",
+      "b": "sleeping with women who came to sacrifice ",
+      "c": "bribery and false judgement ",
+      "d": "stealing from the offering"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 1050,
     "question": "Saul lied to Samuel when the (Saul)",
     "option": {
@@ -8009,6 +8297,22 @@
       "d": "Building walls around Jerusalem"
     },
     "section": "      ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1059,
+    "question": "Huldah, the prophetess announced evil upon Judah and its inhabitants because people ",
+    "option": {
+      "a": "had burned incense to other gods ",
+      "b": "were marrying foreign women ",
+      "c": "were disobedient to the law of God ",
+      "d": "had failed to keep the sabbath"
+    },
+    "section": "",
     "image": "",
     "answer": "c",
     "solution": "",
