@@ -1184,6 +1184,22 @@
     "examyear": "2011"
   },
   {
+    "id": 100,
+    "question": "An airplane increases its speed 36 km/h to 360 km/h in 20.0 s. How far does it travel while accelerating.  ",
+    "option": {
+      "a": "4.4 km     ",
+      "b": "1.1 km  ",
+      "c": "2.3 km  ",
+      "d": "1.0 km"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 102,
     "question": "A wheel and axle is used to raise a weight of 600n with an effort of 300n. if the radii of the wheel and axle are 50 cm and 10 cm respectively, what is the efficiency of the system      ",
     "option": {
@@ -6464,6 +6480,22 @@
     "examyear": "2023"
   },
   {
+    "id": 547,
+    "question": "When light of a certain frequency is incident on a metal surface, no photoelectrons are emitted. If the frequency of the light is increased, what happens to the stopping potential?",
+    "option": {
+      "a": "The stopping potential does not change.",
+      "b": "The stopping potential decreases.",
+      "c": "The stopping potential can either increase or decrease, depending on the intensity of the light.",
+      "d": "The stopping potential increases."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The stopping potential is the voltage that is required to stop the emitted photoelectrons from reaching the anode. When the frequency of the light is increased, the kinetic energy of the emitted photoelectrons also increases. This means that a higher stopping potential will be required to stop the photoelectrons from reaching the anode.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 548,
     "question": "Which of the following is NOT a limitation of experimental measurements?",
     "option": {
@@ -7100,6 +7132,22 @@
     "image": "",
     "answer": "b",
     "solution": "To convert a DC dynamo to an AC dynamo, the split-ring commutator must be replaced with slip rings. This allows the alternating current generated in the rotating coil to be delivered to the external circuit without rectification.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 601,
+    "question": "A radioisotope has a decay constant of 10⁻⁷ s⁻¹. The average life of the radioisotope is",
+    "option": {
+      "a": "1.00 × 10⁷ s",
+      "b": "6.93 × 10⁶ s",
+      "c": " 1.00 × 10⁻⁷ s",
+      "d": " 6.93 × 10⁷ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁷ s⁻¹\nAverage life (mean life) = ?\n\nUnderstanding average life:\nThe average (mean) life of a radioisotope is the average time a nucleus exists before decaying.\nFormula for average life:\nAverage life (τ) = 1/λ\nNote: This is different from half-life:\n\nHalf-life: T₁/₂ = 0.693/λ = ln(2)/λ\nAverage life: τ = 1/λ\n\nCalculating average life:\nτ = 1/λ\nτ = 1/(10⁻⁷)\nτ = 10⁷ s\nτ = 1.00 × 10⁷ s\nVerification:\nThe relationship between average life and half-life:\nτ = T₁/₂/0.693 = 1.44 × T₁/₂",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -8060,6 +8108,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296737/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_37_jm6nny.png",
     "answer": "d",
     "solution": "Given information:\n\nApplied force, F = 100 N\nAngle with horizontal, θ = 60°\nHorizontal displacement, d = 8 m\n\nSolution:\nStep 1: Formula for work done\nWork done: W = F × d × cos θ\nWhere:\n\nF = applied force\nd = displacement\nθ = angle between force and displacement\n\nStep 2: Identify horizontal component of force\nSince the object moves horizontally, only the horizontal component of the force does work:\nHorizontal component = F cos θ = 100 cos 60°\nStep 3: Calculate cos 60°\ncos 60° = 0.5\nStep 4: Calculate work done\nW = F × d × cos θ\nW = 100 × 8 × cos 60°\nW = 100 × 8 × 0.5\nW = 800 × 0.5\nW = 400 J",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 687,
+    "question": "\nIn the circuit diagram of a transistor above, the terminal P, Q and R represent",
+    "option": {
+      "a": "EMITTER, BASE and COLLECTOR",
+      "b": "COLLECTOR, EMITTER and BASE",
+      "c": "BASE, COLLECTOR and EMITTER",
+      "d": " BASE, EMITTER and COLLECTOR"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296766/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_38_snlarm.png",
+    "answer": "a",
+    "solution": "Recognize transistor type\nThe arrow points FROM the center line TOWARD terminal P, indicating an NPN transistor.\nStep 3: Identify terminals\nIn a transistor symbol:\n\nBASE (B): The line that connects to the central vertical bar (terminal Q)\nCOLLECTOR (C): The line without an arrow (terminal R)\nEMITTER (E): The line with the arrow (terminal P)\nThe arrow always points from emitter, indicating current flow direction.\n\nP = EMITTER (has arrow)\nQ = BASE (center connection)\nR = COLLECTOR (top terminal without arrow)\n\nP, Q, R represent: EMITTER, BASE and COLLECTOR",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -11152,6 +11216,22 @@
     "examyear": "2011"
   },
   {
+    "id": 958,
+    "question": "A copper wire was subjected to a tensile stress of 7.7 × 10⁷ Nm⁻². Calculate the strain of the wire. [Young's modulus = 1.1 × 10¹¹ Nm⁻²]",
+    "option": {
+      "a": " 2.0 × 10⁻⁵",
+      "b": "7.0 × 10⁻³",
+      "c": "7.0 × 10⁻⁴",
+      "d": "2.2 × 10⁻⁴"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nTensile stress (σ) = 7.7 × 10⁷ Nm⁻²\nYoung's modulus (E) = 1.1 × 10¹¹ Nm⁻²\nStrain (ε) = ?\n\nFormula for Young's modulus:\nE = Stress/Strain\nE = σ/ε\nRearranging for strain:\nε = σ/E\nSubstituting values:\nε = (7.7 × 10⁷)/(1.1 × 10¹¹)\nε = (7.7/1.1) × 10⁷⁻¹¹\nε = 7.0 × 10⁻⁴",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 959,
     "question": "I. High thermal capacity\nII. High sensitivity\nIII. Easy readability\nIV. Accuracy over a wide range of temperature\nFrom the statement above, the qualities of a good thermometer are",
     "option": {
@@ -11868,6 +11948,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nRatio of linear expansivities, α₁ / α₂ = 2 / 3\nRatio of original lengths, L₁ / L₂ = 3 / 4\nTemperature change Δθ is the same for both.\n\nSolution:\n\nStep 1: Formula for increase in length\nΔL = α L Δθ\n\nStep 2: Ratio of increases\nΔL₁ / ΔL₂ = (α₁ L₁ Δθ) / (α₂ L₂ Δθ) = (α₁ / α₂) × (L₁ / L₂)\n\nStep 3: Substitute the given ratios\nΔL₁ / ΔL₂ = (2 / 3) × (3 / 4) = 6 / 12 = 1 / 2",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1016,
+    "question": "Calculate the temperature change when 500 J of heat is supplied to 100 g of water.\n[specific heat capacity of water = 4200 J kg⁻¹ K⁻¹]",
+    "option": {
+      "a": "12.1 °C",
+      "b": "2.1 °C",
+      "c": "1.2 °C",
+      "d": "0.1 °C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nHeat supplied, Q = 500 J\nMass of water, m = 100 g = 0.1 kg\nSpecific heat capacity of water, c = 4200 J kg⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Heat formula\nThe heat required to change the temperature of a substance is given by:\nQ = m × c × Δθ\nwhere Δθ is the temperature change.\n\nStep 2: Rearrange for Δθ\nΔθ = Q / (m × c)\n\nStep 3: Substitute values\nΔθ = 500 J / (0.1 kg × 4200 J kg⁻¹ K⁻¹)\nΔθ = 500 / (420)\n\nStep 4: Calculate\nΔθ = 1.1905 °C ≈ 1.2 °C",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -12844,6 +12940,22 @@
     "image": "",
     "answer": "d",
     "solution": "The correct term is dew point.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1103,
+    "question": "An object is placed 10m from a pinhole camera of length 25cm. Calculate the linear magnification.",
+    "option": {
+      "a": "2.5 × 10²",
+      "b": "2.5 × 10⁻²",
+      "c": "2.5 × 10⁻¹",
+      "d": " 2.5 × 10¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nObject distance, u = 10 m\nImage distance (camera length), v = 25 cm = 0.25 m\n\nSolution:\n\nStep 1: Magnification formula for a pinhole camera\nLinear magnification m = image height / object height = v / u\n\nStep 2: Substitute the values\nm = 0.25 m / 10 m = 0.025\n\nStep 3: Express in scientific notation\n0.025 = 2.5 × 10⁻²",
     "examtype": "utme",
     "examyear": "2014"
   },
