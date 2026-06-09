@@ -3184,6 +3184,22 @@
     "examyear": "2005"
   },
   {
+    "id": 208,
+    "question": "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes. The ion that will be discharged at the cathode is",
+    "option": {
+      "a": "OH-",
+      "b": "Cl-",
+      "c": "Cu2+",
+      "d": "H+"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 209,
     "question": "Phenolphthalein in acidic solution is",
     "option": {
@@ -4283,6 +4299,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 283,
+    "question": "What quantity of aluminum is deposited when a current of 10A is passed through a solution of an aluminum salt for 1930s  {AI = 27, F = 96500 C mol-}",
+    "option": {
+      "a": "1.8g",
+      "b": "5.4g",
+      "c": "14.2g",
+      "d": "0.2g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -7632,6 +7664,22 @@
     "examyear": "2018"
   },
   {
+    "id": 498,
+    "question": "Which of the following is used to power steam engines?",
+    "option": {
+      "a": "lubricating oil",
+      "b": "coal",
+      "c": "bitumen",
+      "d": "diesel oil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Coal is the fuel used to power steam engines. It is burned in the furnace of the steam engine to heat water and produce steam, which drives the pistons or turbines. Coal was the primary fuel of the Industrial Revolution and early locomotives. Lubricating oil reduces friction; bitumen is used for road surfacing; diesel powers internal combustion engines.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 499,
     "question": "In the reaction between sodium hydroxide and sulphuric acid solutions, what volume of 0.5 mol dm⁻³ sodium hydroxide would exactly neutralise 10 cm³ of 1.25 mol dm⁻³ sulphuric acid?",
     "option": {
@@ -10876,6 +10924,22 @@
     "image": "",
     "answer": "b",
     "solution": "In urban areas, the primary source of carbon monoxide (CO) is vehicle emissions. CO is produced by the incomplete combustion of petrol and diesel in internal combustion engines when there is insufficient oxygen. High concentrations of CO in cities are directly linked to traffic density. Volcanic eruptions and forest fires contribute CO but are not the main urban sources.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 709,
+    "question": "What is the empirical formula of a compound containing 40.00% carbon, 6.67% hydrogen, and 53.33% oxygen by mass?",
+    "option": {
+      "a": "C₄H₈O₄",
+      "b": "CH₂O",
+      "c": "C₂H₄O₂",
+      "d": "C₃H₆O₃"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Mole ratio: C = 40.00/12 = 3.33; H = 6.67/1 = 6.67; O = 53.33/16 = 3.33. Divide by smallest (3.33): C = 1; H = 2; O = 1. Empirical formula = CH₂O.",
     "examtype": "utme",
     "examyear": "2023"
   },
