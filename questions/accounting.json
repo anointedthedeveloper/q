@@ -12688,6 +12688,22 @@
     "examyear": "2022"
   },
   {
+    "id": 858,
+    "question": "Given the following excerpt from incomplete records—Sales ₦10,600; Rent ₦200; Depreciation on a vehicle (cost ₦5,000) at 10%; and a uniform gross profit margin of 20%—what is the Cost of Goods Sold for the period?",
+    "option": {
+      "a": "₦4,800\n",
+      "b": "₦8,480\n",
+      "c": "₦2,320\n",
+      "d": "₦9,900\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Gross profit = 20% of sales = 0.20 × ₦10,600 = ₦2,120\nCost of Goods Sold = Sales − Gross Profit = ₦10,600 − ₦2,120 = ₦8,480.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 859,
     "question": "Departmentalization of accounts is useful because it shows the?",
     "option": {
@@ -14268,6 +14284,22 @@
     "image": "",
     "answer": "a",
     "solution": "The conservatism (or prudence) convention in accounting states that when there is uncertainty, accountants should choose the method that is least likely to overstate assets or income and more likely to recognize potential losses early.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 967,
+    "question": "A financial analyst needs accounting information to?",
+    "option": {
+      "a": " maintain the production section of the business",
+      "b": " know why transactions cause increase and decreases in assets",
+      "c": " advise on how to manage the business",
+      "d": "know how to record transaction in T account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation: a financial analyst uses accounting information to evaluate performance, spot trends, assess risks and opportunities, and make recommendations for improving decisions and managing the business.",
     "examtype": "utme",
     "examyear": "2008"
   },
