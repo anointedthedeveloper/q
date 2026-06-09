@@ -5776,6 +5776,22 @@
     "examyear": "2016"
   },
   {
+    "id": 398,
+    "question": "The compound H-C(H₂)-C(H)(OH)-C(H₂)-C(HCl)(Cl) shown above — the functional groups present in the compound are",
+    "option": {
+      "a": "Alkene and halo-group",
+      "b": "Hydroxyl and chloro-group",
+      "c": "Alkene and chloro-group",
+      "d": "Hydroxyl and halo-group"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636198/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q44_wzo0lb.png",
+    "answer": "b",
+    "solution": "From the structural diagram, the compound contains an -OH (hydroxyl) group on carbon 2 and two Cl (chloro) atoms on carbon 4. There are no double bonds (C=C) present, so it is not an alkene. The two functional groups are the hydroxyl group (-OH) and the chloro-group (-Cl). Note: halo-group and chloro-group are the same here, so B and D are equivalent — B is the more specific correct answer.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 399,
     "question": "In the diagram above, X is the",
     "option": {
@@ -7088,6 +7104,22 @@
     "examyear": "2018"
   },
   {
+    "id": 484,
+    "question": "An aqueous solution of a metal salt M gives a white precipitate with NaOH which dissolves in excess NaOH. With aqueous ammonia, the solution of M also gives a white precipitate which dissolves in excess ammonia. Therefore the cation in M is",
+    "option": {
+      "a": "Zn",
+      "b": "Ca",
+      "c": "Al",
+      "d": "Pb"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Zn²⁺ gives a white precipitate of Zn(OH)₂ with NaOH, which dissolves in excess NaOH (amphoteric): Zn(OH)₂ + 2OH⁻ → [Zn(OH)₄]²⁻. It also gives a white precipitate with NH₃ solution that dissolves in excess NH₃ to form the tetraamminezinc complex: Zn(OH)₂ + 4NH₃ → [Zn(NH₃)₄]²⁺. Al³⁺ dissolves in excess NaOH but not in excess NH₃, eliminating option C.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 485,
     "question": "What is the concentration of a solution containing 2 g of NaOH in 100 cm³ of solution? [Na = 23, O = 16, H = 1]",
     "option": {
@@ -7180,6 +7212,22 @@
     "image": "",
     "answer": "c",
     "solution": "In all three reactions, nitrogen in NH₃ is oxidized from -3 to 0 (in N₂). In reaction I, NH₃ reduces CuO to Cu. In reaction II, NH₃ reduces Cl₂ (Cl goes from 0 to -1 in HCl). In reaction III, NH₃ is oxidized by O₂. In every case, NH₃ is the reducing agent — demonstrating the reducing properties of ammonia.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 491,
+    "question": "The salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate (VII) solution is",
+    "option": {
+      "a": "Na₂SO₄",
+      "b": "Na₂SO₃",
+      "c": "Na₂S",
+      "d": "Na₂CO₃"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Na₂SO₃ reacts with dilute HCl to produce SO₂: Na₂SO₃ + 2HCl → 2NaCl + H₂O + SO₂↑. SO₂ has a pungent smell and is a reducing agent that decolourizes (reduces) acidified KMnO₄ solution: 5SO₂ + 2KMnO₄ + 2H₂O → K₂SO₄ + 2MnSO₄ + 2H₂SO₄. Na₂S gives H₂S (rotten egg smell, not the same); Na₂CO₃ gives odourless CO₂.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -9276,6 +9324,22 @@
     "image": "",
     "answer": "d",
     "solution": "Most non-metals form acidic oxides. Phosphorus forms P₂O₅, sulphur forms SO₂ and SO₃, and carbon forms CO₂, all of which are acidic oxides that dissolve in water to form acids. Chlorine oxides (such as Cl₂O and Cl₂O₇) do exist, but chlorine does not directly and simply react with oxygen to form a stable acidic oxide under normal conditions.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 640,
+    "question": "How many neutrons are present in an atom with mass number and atomic number 37 and 17 respectively?",
+    "option": {
+      "a": "18",
+      "b": "20",
+      "c": "37",
+      "d": "17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Number of neutrons = mass number − atomic number = 37 − 17 = 20. The atom described is chlorine-37 (³⁷Cl), which has 17 protons and 20 neutrons in its nucleus.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -11596,6 +11660,22 @@
     "image": "",
     "answer": "a",
     "solution": "During ammonification, decomposer bacteria break down nitrogenous compounds in dead organic matter (proteins, nucleic acids) and release ammonia (NH₃). This is the first step in the recycling of nitrogen from dead materials back into the nitrogen cycle.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 793,
+    "question": "CH₃C≡CCH(CH₃)₂. The IUPAC nomenclature of the compound above is",
+    "option": {
+      "a": "3-ethyl but-2-yne",
+      "b": "4-methylpent-2-yne",
+      "c": "2-ethyl but-2-yne",
+      "d": "2-methylpent-2-yne"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The structure is CH₃-C≡C-CH(CH₃)-CH₃. The longest chain containing the triple bond has 5 carbons (pentyne). Numbering from the end nearer the triple bond: C1=CH₃, C2≡C3, C4=CH with a CH₃ branch, C5=CH₃. The triple bond is at C2 and the methyl branch is at C4. IUPAC name: 4-methylpent-2-yne.",
     "examtype": "utme",
     "examyear": "2025"
   }
