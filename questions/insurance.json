@@ -736,6 +736,22 @@
     "examyear": "2014"
   },
   {
+    "id": 48,
+    "question": "A <em>revival clause</em> in a life policy will allow an insured to revive a policy that lapsed on account of nonpayment of premium, provided the insured",
+    "option": {
+      "a": "can prove he is sick at the time",
+      "b": "cannot fall sick after the policy",
+      "c": "can prove he is in good health",
+      "d": "can recover from the ill health"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 49,
     "question": "Which of  the  following  risks  are  covered  under engineering insurance?",
     "option": {
@@ -1808,6 +1824,22 @@
     "examyear": "2"
   },
   {
+    "id": 120,
+    "question": "An application form which is filled by anyone taking out an insurance policy is called",
+    "option": {
+      "a": "A policy form",
+      "b": "A claim form",
+      "c": "A proposal form",
+      "d": "Proximate cause form"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 121,
     "question": "Insurance is necessary because of the need to",
     "option": {
@@ -2875,6 +2907,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 192,
+    "question": "The process of changing anything wrong with the policy to make it current is",
+    "option": {
+      "a": "Endorsement",
+      "b": "Specification",
+      "c": "Rectification",
+      "d": "Correction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -4112,6 +4160,22 @@
     "examyear": "5"
   },
   {
+    "id": 276,
+    "question": "The contract aimed at providing specific payment at regular intervals for a fixed   period or for life is",
+    "option": {
+      "a": "accident",
+      "b": "annuity",
+      "c": "average",
+      "d": "term"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 277,
     "question": "policy designed for the insured who is incapacitated to carry out normal duty is",
     "option": {
@@ -5067,6 +5131,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 341,
+    "question": "The right of choice of option for method of indemnity is exercised by the",
+    "option": {
+      "a": "insured",
+      "b": "insurance broker",
+      "c": "insurance consultant",
+      "d": "insurer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
