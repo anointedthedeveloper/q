@@ -1881,6 +1881,25 @@
     "category": "others"
   },
   {
+    "id": 139,
+    "question": "There has been a <i>downturn</i> in the affairs of the company.",
+    "option": {
+      "a": "a massive increase",
+      "b": "little progress",
+      "c": "a turn-around",
+      "d": "a decline"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 140,
     "question": "The <i>mottled</i> skin of a person with HIV indicates an advance stage  of its development.",
     "option": {
@@ -5194,6 +5213,25 @@
       "b": "did you come yesterday ",
       "c": "whether I had come the day before ",
       "d": "If I had come yesterday"
+    },
+    "section": "choose the option  best completes the gap(s) .",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 416,
+    "question": "The young man has..... to sober...……  after being drunk.",
+    "option": {
+      "a": "began/up ",
+      "b": "begun/in    ",
+      "c": "begun/up    ",
+      "d": "began/down"
     },
     "section": "choose the option  best completes the gap(s) .",
     "image": "",
@@ -9823,6 +9861,25 @@
     "category": "others"
   },
   {
+    "id": 876,
+    "question": "Audu was taken bad in the middle of the night?",
+    "option": {
+      "a": "He was caught",
+      "b": "He was robbed",
+      "c": "He was ill",
+      "d": "He was drunk"
+    },
+    "section": "<b>In each of questions 76 to 80, select the option that best explains the information conveyed in the sentence.</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 80,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 877,
     "question": "He travelled ONLY 20 kilometres before his car stopped?",
     "option": {
@@ -10199,6 +10256,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 32,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 929,
+    "question": "Since its <u>inception</u> 1983, the newspaper has attracted thousands of readers?",
+    "option": {
+      "a": "renaissance",
+      "b": "coming",
+      "c": "commencement",
+      "d": "publication"
+    },
+    "section": "<b>In each of the questions 34 to 48, Choose the option nearest in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "Inception; the commencement or starting point of something",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 34,
     "hasPassage": 0,
     "category": "others"
   },
@@ -10807,6 +10883,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 79,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 975,
+    "question": "Getting a well paid job nowadays is an ...... task?",
+    "option": {
+      "a": "utmost",
+      "b": "upbeat",
+      "c": "uphill",
+      "d": "upfield"
+    },
+    "section": "<b>In each of the questions 64 to 83, choose the option that best completes the gap(s).</b> \n",
+    "image": "",
+    "answer": "c",
+    "solution": "Getting a well paid job nowadays is an uphill task?\n\nWhen something is an uphill task or an uphill struggle, it's a difficult thing to do. ",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 80,
     "hasPassage": 0,
     "category": "others"
   },
@@ -11757,6 +11852,25 @@
     "examtype": "utme",
     "examyear": "2012",
     "questionNub": 68,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1064,
+    "question": "His many years of success in legal practice,…... didn’t come without challenges.\n",
+    "option": {
+      "a": "indeed",
+      "b": "but",
+      "c": "in spite of it\nall",
+      "d": "however"
+    },
+    "section": "<b>In each of the question 66 to 85 choose the option that best completes the gap(s)</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 70,
     "hasPassage": 0,
     "category": "others"
   },
@@ -13623,6 +13737,25 @@
     "category": "others"
   },
   {
+    "id": 1251,
+    "question": "The Parents Teachers Association promised to build a CAFETERIA. ",
+    "option": {
+      "a": "Does the alumni association promised to build a cafeteria?",
+      "b": "Does the school authority promised to build a library?",
+      "c": "Did the parents teachers association promise to build a library?",
+      "d": "Does the parents teachers association promised to demolish a cafeteria?"
+    },
+    "section": "choose the option that best answers the question from the options lettered A-D",
+    "image": "",
+    "answer": "c",
+    "solution": "Option C is the correct answer because CAFETERIA contradicts the word 'library'. The interrogative statement, therefore, provides a chance to emphasize the word CAFETERIA.\n\nDid the parents teachers association promise to build a library? No, The Parents Teachers Association promised to build a CAFETERIA. ",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 58,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1254,
     "question": "What did the author of the book study?",
     "option": {
@@ -14265,6 +14398,25 @@
     "examtype": "utme",
     "examyear": "2022",
     "questionNub": 57,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1311,
+    "question": "Pick out the option with a different rhyme",
+    "option": {
+      "a": "Roar",
+      "b": "Four",
+      "c": "Growl",
+      "d": "Bore"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Only Growl has a different rhyme",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 58,
     "hasPassage": 0,
     "category": "others"
   },
@@ -17841,6 +17993,25 @@
     "category": "others"
   },
   {
+    "id": 1656,
+    "question": "The officer ....that he was not supposed to talk to the press on the matter",
+    "option": {
+      "a": "could have known",
+      "b": "shall know",
+      "c": " should have known",
+      "d": "will know"
+    },
+    "section": "For these questions, choose the option that best complete the gap(s) \n",
+    "image": "",
+    "answer": "c",
+    "solution": "Use \"I should have known ___\" to talk about something that you made a mistake about, but now you think that the correct answer is obvious.",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 44,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1657,
     "question": "He said, ' We shouldn't do it ........?",
     "option": {
@@ -18160,6 +18331,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 4,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1692,
+    "question": "Select the wrongly spelt words",
+    "option": {
+      "a": "occurrence",
+      "b": "surprise",
+      "c": "personnel",
+      "d": "posses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The correct answer is ‘D’ because its correct spelling is ‘possess’. The others on the list are properly spelt.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 5,
     "hasPassage": 0,
     "category": "others"
   },
