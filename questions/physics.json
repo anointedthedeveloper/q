@@ -1120,6 +1120,22 @@
     "examyear": "2010"
   },
   {
+    "id": 76,
+    "question": "An air bubble at the bottom of a lake has a volume of 20cm3, pressure of 4.9Pa, and temperature 4oc the bubble rises to the surface where the temperature is 20oc and the pressure 1.0Pa. Find the volume as the bubble reaches the surface. (take 1 atm = 1.0 x 105 N/m2) ",
+    "option": {
+      "a": "124cm3 ",
+      "b": "319cm3 ",
+      "c": "60cm3 ",
+      "d": "104 cm3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 78,
     "question": "Highly polished silvery  surfaces are: ",
     "option": {
@@ -1227,6 +1243,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following about electrolysis is false? ",
+    "option": {
+      "a": "liquid that conduct electricity and are split up chemically by the current are electrolyzed",
+      "b": "the current into the electrolyte by the anode ",
+      "c": "the current is taken away from the electrolyte by the cathode ",
+      "d": "the container which holds the electrolyte and the electrode is the voltmeter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -16688,6 +16720,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1098,
+    "question": "The melting point of a substance is equivalent to its",
+    "option": {
+      "a": "Vapour Pressure",
+      "b": "Solidification Temperature",
+      "c": " Liquidification Temperature",
+      "d": "Solidification Pressures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The melting point is equivalent to the solidification temperature.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1099,
     "question": "The temperature at which the water vapour present in the air is just sufficient to saturate air is",
     "option": {
@@ -16700,6 +16748,22 @@
     "image": "",
     "answer": "d",
     "solution": "The correct term is dew point.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1100,
+    "question": "Heat transfer by convection in a liquid is due to the",
+    "option": {
+      "a": "Latent heat of vaporization of the liquid",
+      "b": " Increased vibration of the molecules of the liquid about theit mean position",
+      "c": " Variation of density of the liquid",
+      "d": "Expansion of the liquid as it is heated"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Liquids and gases expand when they are heated. The liquid or gas in hot areas is less dense than the liquid or gas in cold areas, so it rises into the cold areas.",
     "examtype": "utme",
     "examyear": "2014"
   },
