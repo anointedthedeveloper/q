@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "25cm3 of a gas X contains Zmolecules at 150C and 75mmHg. How many molecules will 25cmm3 of another gas Y contain at the same temperature and pressure",
+    "option": {
+      "a": "2Y",
+      "b": "2Z",
+      "c": "Z",
+      "d": "Y"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 2,
     "question": "What mass of water is produced when 8.0g of hydriogen reacts with excess oxygen [H = 1, O = 16]",
     "option": {
@@ -267,6 +283,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 28,
+    "question": "In which of the following reactions has the oxidation number of nitrogen increased",
+    "option": {
+      "a": "2NO(g)  +  Br2(l)  → 2NOBr(l)",
+      "b": "2NO2(g)  +  O2(g)   → 2NO2(g)",
+      "c": "FeSO4(aq)  +  NO(g) → Fe(NO)SO4(s)",
+      "d": "2NO(g)  +  CI2(g) →  2NOCI(l)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
@@ -1083,6 +1115,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 106,
+    "question": "Hydrogen can be displaced form a hot alkaline solution by",
+    "option": {
+      "a": "Fe",
+      "b": "Cu",
+      "c": "Ca",
+      "d": "Sn"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -2416,6 +2464,22 @@
     "examyear": "2006"
   },
   {
+    "id": 246,
+    "question": "Which of the following results in the fall of acid rain",
+    "option": {
+      "a": "Gaseous hydrocarbons",
+      "b": "Oxide of lead",
+      "c": "Particulate matter",
+      "d": "Oxides of sulphur"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 247,
     "question": "Water has the ability to dissolve almost all substances because its molecule has a structure with",
     "option": {
@@ -2640,6 +2704,22 @@
     "examyear": "2010"
   },
   {
+    "id": 266,
+    "question": "How many unpaired electron(s) are there in the nitrogen  sub - levels",
+    "option": {
+      "a": "2",
+      "b": "1",
+      "c": "0",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 270,
     "question": "A noble gas with a high power of fog penetration used in aerodrome beacons is",
     "option": {
@@ -2699,6 +2779,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 274,
+    "question": "Coffee stains can best be removed by",
+    "option": {
+      "a": "Turpentine",
+      "b": "A solution of borax in water",
+      "c": "Ammonia solution",
+      "d": "Kerosene"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -4640,6 +4736,22 @@
     "examyear": "2018"
   },
   {
+    "id": 477,
+    "question": "Methanoic acid mixes with water in all proportions and has about the same boiling point as water. Which of the following methods would you adopt to obtain pure water from a mixture of sand, water and methanoic acid?",
+    "option": {
+      "a": "Extractive distillation",
+      "b": "Filtration followed by distillation",
+      "c": "Neutralization with sodium hydroxide followed by distillation",
+      "d": "Neutralization with sodium hydroxide followed by filtration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Since methanoic acid (HCOOH) is miscible with water and has a similar boiling point, simple distillation will not separate them. The correct approach is: (1) neutralize methanoic acid with NaOH to form sodium methanoate (a non-volatile salt): HCOOH + NaOH → HCOONa + H₂O; then (2) distil the mixture — water distils over, leaving the salt behind. Sand is removed by filtration at the start.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 478,
     "question": "A quantity of electricity liberates 3.6 g of silver from its salt. What mass of aluminium will be liberated from its salt by the same quantity of electricity? [Al = 27, Ag = 108]",
     "option": {
@@ -4780,6 +4892,22 @@
     "image": "",
     "answer": "c",
     "solution": "In all three reactions, nitrogen in NH₃ is oxidized from -3 to 0 (in N₂). In reaction I, NH₃ reduces CuO to Cu. In reaction II, NH₃ reduces Cl₂ (Cl goes from 0 to -1 in HCl). In reaction III, NH₃ is oxidized by O₂. In every case, NH₃ is the reducing agent — demonstrating the reducing properties of ammonia.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 494,
+    "question": "A balanced chemical equation obeys the law of",
+    "option": {
+      "a": "conservation of mass",
+      "b": "definite proportions",
+      "c": "multiple proportions",
+      "d": "conservation of energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A balanced chemical equation ensures that the number of atoms of each element is equal on both sides of the equation, in accordance with the Law of Conservation of Mass (Lavoisier's Law): matter is neither created nor destroyed in a chemical reaction. Balancing an equation is the practical application of this fundamental law.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -4928,6 +5056,22 @@
     "examyear": "2019"
   },
   {
+    "id": 510,
+    "question": "Hydrocarbons which will react with Tollen's reagent conform to the general formula",
+    "option": {
+      "a": "CₙH₂ₙ",
+      "b": "CₙH₂ₙ₊₂",
+      "c": "CₙH₂ₙ₋₂",
+      "d": "CₙH₂ₙ₊₁OH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Tollen's reagent (ammoniacal silver nitrate) reacts with terminal alkynes (RC≡CH) to give a silver acetylide precipitate. Alkynes have the general formula CₙH₂ₙ₋₂. CₙH₂ₙ are alkenes; CₙH₂ₙ₊₂ are alkanes (unreactive); CₙH₂ₙ₊₁OH are alkanols. Note: Tollen's reagent also oxidizes aldehydes, but the question specifies hydrocarbons, pointing to alkynes.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 511,
     "question": "The IUPAC name of the compound CF₃CHBrCl is",
     "option": {
@@ -4972,6 +5116,22 @@
     "image": "",
     "answer": "a",
     "solution": "Lead (II) trioxonitrate (V) [Pb(NO₃)₂] on heating decomposes to give oxygen most readily: 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂. It is the best starting material because the reaction is clean and produces O₂ at moderate temperatures. NaNO₃ gives NaNO₂ + O₂ but requires higher temperatures; Zn and Ca nitrates behave similarly but Pb(NO₃)₂ is the classic lab choice.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 516,
+    "question": "Which of the following alkaline earth metals react more spontaneously with water?",
+    "option": {
+      "a": "Calcium",
+      "b": "Beryllium",
+      "c": "Magnesium",
+      "d": "Strontium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reactivity of alkaline earth metals with water increases down Group II: Be < Mg < Ca < Sr < Ba. Strontium (Sr) is the most reactive among the options given, reacting vigorously and spontaneously with cold water to give Sr(OH)₂ and H₂. Be barely reacts with water; Mg reacts only with steam; Ca reacts with cold water but less vigorously than Sr.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -5180,6 +5340,22 @@
     "image": "",
     "answer": "b",
     "solution": "In Cr₂O₇²⁻: 2x + 7(−2) = −2 → 2x = 12 → x = +6. In the product Cr³⁺, the oxidation number is +3. Chromium is reduced from +6 to +3. Answer: B.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 545,
+    "question": "Which of the following is a physical change?",
+    "option": {
+      "a": "Exposing white phosphorus to air",
+      "b": "Burning kerosene",
+      "c": "Dissolving calcium in water",
+      "d": "Freezing ice cream"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A physical change alters the form or appearance of a substance without changing its chemical composition. Freezing ice cream involves a change of state (liquid to solid) — no new substance is formed. Exposing white phosphorus to air, burning kerosene, and dissolving calcium in water all involve chemical reactions that produce new substances.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -6208,6 +6384,22 @@
     "examyear": "2022"
   },
   {
+    "id": 649,
+    "question": "N₂O₄ ⇌ 2NO₂ (Δ = -ve). From the reaction above, which of these conditions would produce the highest equilibrium yield for N₂O₄?",
+    "option": {
+      "a": "Low temperature and high pressure",
+      "b": "Low temperature and low pressure",
+      "c": "High temperature and low pressure",
+      "d": "High temperature and high pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The forward reaction (N₂O₄ formation) is exothermic (ΔH = −ve). By Le Chatelier's principle: (1) Low temperature favours the exothermic forward reaction, increasing N₂O₄ yield. (2) The forward reaction also involves 2 moles of gas converting to 1 mole — a decrease in moles. High pressure favours the side with fewer moles of gas, which is the forward reaction (N₂O₄ side). Therefore, low temperature and high pressure give the highest yield of N₂O₄.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 650,
     "question": "Zn + 2HCl → ZnCl₂ + H₂. What happens to zinc in the above reaction?",
     "option": {
@@ -7040,6 +7232,22 @@
     "examyear": "2024"
   },
   {
+    "id": 722,
+    "question": "During the fractional distillation of crude oil, the fraction that distils at 200–250°C is",
+    "option": {
+      "a": "bitumen",
+      "b": "diesel",
+      "c": "kerosene",
+      "d": "petrol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "During fractional distillation of crude oil, different fractions condense at different temperature ranges. Kerosene (paraffin) distils between approximately 150–250°C. Petrol distils below 150°C, diesel distils between 250–350°C, and bitumen remains as a residue above 350°C. The fraction that distils at 200–250°C is kerosene.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 725,
     "question": "The empirical formula of an organic liquid hydrocarbon is XY. If the relative molar masses of X and Y are 72 and 6 respectively, its vapour density is likely to be",
     "option": {
@@ -7244,6 +7452,22 @@
     "image": "",
     "answer": "c",
     "solution": "In this reaction, CuO and Cu are solids and do not contribute to the gas-phase equilibrium. The gaseous species are H₂(g) on the left and H₂O(g) on the right — 1 mole of gas on each side. Since the number of moles of gas is equal on both sides of the equation, a change in pressure has no effect on the equilibrium position.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 746,
+    "question": "What method is suitable for the separation of gases present in air?",
+    "option": {
+      "a": "Catalytic cracking of liquid air",
+      "b": "Fractional distillation of liquid air",
+      "c": "Thermal decomposition of air",
+      "d": "Catalytic decomposition of air"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The gases in air (mainly nitrogen, oxygen, and argon) are separated by fractional distillation of liquid air. Air is first cooled and compressed until it liquefies. The liquid air is then allowed to warm up gradually in a fractionating column. Nitrogen (b.p. −196°C) boils off first, followed by argon (b.p. −186°C), and oxygen (b.p. −183°C) is collected last.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -7664,6 +7888,22 @@
     "examyear": "2025"
   },
   {
+    "id": 786,
+    "question": "A metal that can be found in the free state in nature is",
+    "option": {
+      "a": "silver",
+      "b": "Zinc",
+      "c": "Iron",
+      "d": "copper"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Metals low in the reactivity series (noble metals) occur uncombined in nature. Silver, gold, and platinum are classic examples. Zinc and iron are too reactive and are found only as ores. While copper also occurs natively, silver is the most recognised answer here.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 787,
     "question": "Which of the following has the highest boiling point?",
     "option": {
@@ -7724,6 +7964,22 @@
     "image": "",
     "answer": "b",
     "solution": "Hard water contains dissolved Ca²⁺ and Mg²⁺ ions which help build strong bones and teeth (A and D are true), and it does taste better than soft water (C is true). Statement B is false: hard water can be supplied in lead pipes because it deposits a protective scale of calcium carbonate inside the pipes, preventing lead from dissolving. It is soft water that is dangerous in lead pipes.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 792,
+    "question": "The nitrogenous compound in dead materials in the soil is converted to",
+    "option": {
+      "a": "ammonia",
+      "b": "trioxonitrate(V)",
+      "c": "ammonium salts",
+      "d": "dioxonitrate(III)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "During ammonification, decomposer bacteria break down nitrogenous compounds in dead organic matter (proteins, nucleic acids) and release ammonia (NH₃). This is the first step in the recycling of nitrogen from dead materials back into the nitrogen cycle.",
     "examtype": "utme",
     "examyear": "2025"
   }
