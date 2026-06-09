@@ -496,6 +496,22 @@
     "examyear": "2011"
   },
   {
+    "id": 35,
+    "question": "A credit balance of N350,000 in a cash account shows that  ",
+    "option": {
+      "a": "N350.000 was the total cash received  ",
+      "b": "N350,000 was the total cash paid out  ",
+      "c": "Cash at hand equals N350,000 ",
+      "d": "N350,000 was the cash overspent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 36,
     "question": "Which   accounting  concept  states; that revenues and expenses are recognized as they are earned or incurred and not when  money is received?",
     "option": {
@@ -17500,6 +17516,22 @@
     "image": "",
     "answer": "a",
     "solution": "Step 1: Track issues using LIFO\n\nJanuary 9th issue (300 units): From January 2nd purchase (500 units available)\nFebruary 14th issue (200 units): From January 2nd purchase (200 units remaining)\nMarch 11th issue (200 units): From March 7th purchase (250 units available)\n\nStep 2: Calculate remaining stock\nAfter March 11th:\n\nFrom January 2nd purchase: 500 - 300 - 200 = 0 units remaining\nFrom March 7th purchase: 250 - 200 = 50 units remaining\n\nClosing stock = 50 units at ₦28 = ₦1,400",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1205,
+    "question": "<b>Use the information below to answer questions 40 and 41.</b>\n\nPurchases:\n\nDate: January 2nd, Qty (units): 500, Rate (₦): 25, Total (₦): 12,500\nDate: March 7th, Qty (units): 250, Rate (₦): 28, Total (₦): 7,000\n\nIssues were made as follow:\n\nDate: January 9th, Qty (units): 300\nDate: February 14th, Qty (units): 200\nDate: March 11th, Qty (units): 200\n\nThe value of closing stock as at February 14th by simple average method is?",
+    "option": {
+      "a": "₦6,625",
+      "b": "₦2,500",
+      "c": "₦4,100",
+      "d": "₦2,700."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: Calculate simple average cost\nAverage cost = (₦25 + ₦28) ÷ 2 = ₦26.50 per unit\nStep 2: Determine remaining units as at February 14th\n\nTotal purchased: 500 + 250 = 750 units\nTotal issued by Feb 14th: 300 + 200 = 500 units\nRemaining: 750 - 500 = 250 units\n\nStep 3: Calculate closing stock value\nClosing stock = 250 units × ₦26.50 = ₦6,625",
     "examtype": "utme",
     "examyear": "2002"
   },
