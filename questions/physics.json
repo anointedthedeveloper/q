@@ -1424,6 +1424,22 @@
     "examyear": "2011"
   },
   {
+    "id": 98,
+    "question": "When white light passes through a triangular prism, the emerging rays of light arranged in order of decreasing angle of deviation are ",
+    "option": {
+      "a": "red, orange, yellow, green  ",
+      "b": "blue, green,  orange, yellow ",
+      "c": "red, green, yellow, orange ",
+      "d": "blue, green, yellow, orange"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 99,
     "question": " The electric field between two parallel plates is E.  A particle of mass m and carrying charge q is released at a point half the distance between the plates. The velocity  of the particle t  seconds after its release is  ",
     "option": {
@@ -13952,6 +13968,22 @@
     "examyear": "2010"
   },
   {
+    "id": 919,
+    "question": "During a thunderstorm, the sound is heard over a long time. this phenomenon is referred to as?",
+    "option": {
+      "a": " diffraction of sound",
+      "b": "refraction of sound",
+      "c": "superposition",
+      "d": "reveraberation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The lengthening effect of sound is known as reverberation.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 920,
     "question": "In comparing the camera and the human eye, the film of the camera function as the?",
     "option": {
@@ -15776,6 +15808,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1041,
+    "question": "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle of 30° with the resultant, find its magnitude.",
+    "option": {
+      "a": "100.0 N",
+      "b": "57.7 N",
+      "c": "43.3 N",
+      "d": "25.0 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nResultant force (R) = 50 N\nTwo forces are perpendicular to each other (90° angle between them)\nOne force makes 30° angle with resultant\nMagnitude of this force = ?\n\nSetting up the problem:\nLet:\n\nF₁ = force making 30° with resultant (what we're finding)\nF₂ = the other force\nF₁ and F₂ are perpendicular to each other\n\nUnderstanding the geometry:\nSince F₁ and F₂ are perpendicular (90° apart):\n\nF₁ makes 30° with resultant R\nF₂ makes (90° - 30°) = 60° with resultant R\n\nUsing vector components:\nThe resultant is the vector sum of F₁ and F₂.\nMethod 1: Using trigonometry directly\nSince F₁ makes 30° angle with resultant:\n\nF₁ is along the resultant direction at 30°\nThe component of F₁ along R is: F₁ cos 30°\n\nFor perpendicular forces forming a resultant:\nF₁ = R cos θ\nwhere θ is the angle F₁ makes with R.\nCalculating:\nF₁ = R cos 30°\nF₁ = 50 × cos 30°\nF₁ = 50 × (√3/2)\nF₁ = 50 × 0.866\nF₁ = 43.3 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1042,
     "question": "The pair of physical quantities that are scalar only are ?",
     "option": {
@@ -15884,6 +15932,22 @@
     "image": "",
     "answer": "c",
     "solution": "\nGiven information:\n\nMass of water (m) = 5000 kg\nHeight (h) = 60 m\nTime (t) = 15 min = 15 × 60 = 900 s\ng = 10 m/s² (assumed)\nPower (P) = ?\n\nUnderstanding power:\nPower = Work done / Time taken\nStep 1: Calculate work done\nWork = Potential energy gained\nW = mgh\nSubstituting values:\nW = 5000 × 10 × 60\nW = 3,000,000 J\nW = 3.0 × 10⁶ J\nStep 2: Calculate power\nP = W/t\nP = (3.0 × 10⁶)/900\nP = 3333.33 W\nP = 3.3 × 10³ W\nP = 3.3 × 10³ Js⁻¹",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1049,
+    "question": "Calculate the work done when a force of 20N stretches a spring by 50mm.",
+    "option": {
+      "a": "0.5J",
+      "b": "1.5J",
+      "c": " 2.0J",
+      "d": "2.5J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nForce (F) = 20 N\nExtension (x) = 50 mm = 0.05 m\nWork done (W) = ?\n\nUnderstanding work done on a spring:\nWhen stretching a spring, the force varies from 0 to maximum F.\nThe work done is NOT simply F × x, but rather the average force times distance.\nFormula for work done in stretching a spring:\nW = ½Fx\nor equivalently:\nW = ½kx²  (where F = kx from Hooke's Law)\nWhy ½Fx?\n\nInitial force = 0 (unstretched)\nFinal force = F\nAverage force = (0 + F)/2 = F/2\nWork = Average force × distance = (F/2) × x = ½Fx\n\nCalculating work done:\nW = ½Fx\nW = ½ × 20 × 0.05\nW = ½ × 1.0\nW = 0.5 J",
     "examtype": "utme",
     "examyear": "2013"
   },
