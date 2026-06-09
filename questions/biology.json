@@ -48,6 +48,22 @@
     "examyear": "2003"
   },
   {
+    "id": 6,
+    "question": "An insect whose economic importance is both harmful and beneficial is the",
+    "option": {
+      "a": "tests fly  ",
+      "b": "black",
+      "c": "mosquito   ",
+      "d": "butterfly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 7,
     "question": "The cell component that is present in a prokaryotic cell is the",
     "option": {
@@ -843,6 +859,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 66,
+    "question": "Zone  © (mm)\nI 45 300\nII 32 2000\nIII 30 2200\nIV 15 800\n\nWhich of the zones is likely to be a desert\n",
+    "option": {
+      "a": "I  ",
+      "b": "II  ",
+      "c": "III  ",
+      "d": "IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -4496,6 +4528,22 @@
     "examyear": "2011"
   },
   {
+    "id": 330,
+    "question": "Which of the following  instruments is used  to measure relative humidity?",
+    "option": {
+      "a": "Thermometer  ",
+      "b": "Hygrometer  ",
+      "c": "Anemometer",
+      "d": "Hydrometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 332,
     "question": "Habitats are generally classified into  ",
     "option": {
@@ -4971,6 +5019,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 366,
+    "question": "Plants of temperate origin can be grown in tropical areas in the vegetation zones of the",
+    "option": {
+      "a": "rain forest   ",
+      "b": "Guinea savanna   ",
+      "c": "Sudan savanna",
+      "d": "montane forest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
