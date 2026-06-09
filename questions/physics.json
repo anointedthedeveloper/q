@@ -2848,6 +2848,22 @@
     "examyear": "2017"
   },
   {
+    "id": 261,
+    "question": "Which of the following is a semiconductor",
+    "option": {
+      "a": "copper",
+      "b": "silicon",
+      "c": "plastic",
+      "d": "Iron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Semi-conductor have an elecctric conductivity intermediate in value between that of a pure metal and a good insulator. Silicon is an example",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 262,
     "question": "Which of the following surfaces will absorb radiant heat energy?",
     "option": {
@@ -4396,6 +4412,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612628/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_20_dsjmk2.jpg",
     "answer": "d",
     "solution": "The ray deviates by certain angles at each reflection, and when you sum all the angular changes (50° + 50° + 40° + 40°), the total deviation from the original direction is 180°.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 401,
+    "question": "A hydrometer is an instrument for measuring the ",
+    "option": {
+      "a": "a depth of water of water in a vessel",
+      "b": " relative density of a liquid by the method of flotation",
+      "c": " relative density of a liquid by finding the apparent loss in weight",
+      "d": "relative humidity of the air"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A hydrometer measures the relative density of a liquid using the flotation method - it floats at different depths depending on the liquid's density.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -7612,6 +7644,22 @@
     "image": "",
     "answer": "c",
     "solution": "Low humidity causes moisture to evaporate from the skin, leading to dryness and a rough texture.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 703,
+    "question": "The thermometric property of a constant volume thermometer is?",
+    "option": {
+      "a": "change in volume",
+      "b": "differential expanssion",
+      "c": "change in pressure",
+      "d": "change in length"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The thermometric property of a constant volume thermometer is change in pressure with temperature",
     "examtype": "utme",
     "examyear": "2006"
   },
