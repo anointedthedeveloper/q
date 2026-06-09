@@ -1328,6 +1328,22 @@
     "examyear": "2013"
   },
   {
+    "id": 107,
+    "question": "In departmental accounts, administrative expenses are recorded in the",
+    "option": {
+      "a": "Trading Account.",
+      "b": "Balance Sheet.",
+      "c": "Profit and Loss Account.",
+      "d": "Profit and Loss Appropriation Account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 108,
     "question": "The Public Accounts Committee is an organ of",
     "option": {
@@ -7168,6 +7184,22 @@
     "examyear": "2015"
   },
   {
+    "id": 559,
+    "question": "If sales return is understated, it implies that ------------------------------ is overstated",
+    "option": {
+      "a": "return inward",
+      "b": " sales figure",
+      "c": "cost of sales",
+      "d": "return outward"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "This is so because returns inwards are deducted from sales to ascertain the actual sales made after subtracting defected goods",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 560,
     "question": "Accounting information is used by investors and creditors of a company to predict",
     "option": {
@@ -7276,6 +7308,22 @@
     "image": "",
     "answer": "c",
     "solution": "Sales - Cost of Goods Sold = Gross Profit\n\nCOGS = Beginning Inventory + Purchases During the Period – Ending Inventory.\n\nCOGS = 2,500, +  120,000 - 3,000 = 119,500\n\ngross profit for K = 180,000 - 119,500 = 60,500",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 569,
+    "question": "One of the objectives of accounting is that it can be used for",
+    "option": {
+      "a": " business decision making",
+      "b": "due process in business",
+      "c": " motivating employees",
+      "d": "determining the work force"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Objectives of accounting in any business are; systematically record transactions, sort and analyzing them, prepare financial statements, assessing the financial position, and aid in decision making with financial data and information about the business.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -11424,6 +11472,22 @@
     "examyear": "2023"
   },
   {
+    "id": 904,
+    "question": "Which of these is not a subsidiary books?",
+    "option": {
+      "a": "sales day book",
+      "b": "purchase day book",
+      "c": "credit note",
+      "d": " return inward day book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The subsidiary book is a book of original entr or prime entry which consists of: purchases day book, sales day book, returns inwards day book, returns outward day book, cash book, journal, petty cash book.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 906,
     "question": "Capital for a profit making organization is generated through",
     "option": {
@@ -11804,6 +11868,22 @@
     "image": "",
     "answer": "a",
     "solution": "Share premium is different. When a company issues shares at a price exceeding their par value, the excess amount is recorded as a credit balance in the share premium account. It represents additional capital received from shareholders beyond the face value of the shares.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 934,
+    "question": "In government accounting, money allocated to each head and sub-heads is referred to as     ",
+    "option": {
+      "a": "allocation",
+      "b": "imprest",
+      "c": "vote",
+      "d": "float"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In government budgeting, funds are authorized for spending through a voting process. Each government department or agency submits a budget request, which is then debated and approved (or voted on) by the legislature. The approved amounts for each department's programs and activities become the official votes that they can spend from.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -12556,6 +12636,22 @@
     "image": "",
     "answer": "b",
     "solution": "Formula:\nSubscription Income = Cash Received + Opening Arrears - Closing Arrears + Opening Advance - Closing Advance\nGiven:\n\nOpening arrears (01/10/06): ₦2,000\nOpening advance (01/10/06): ₦1,500\nCash received during the year: ₦7,000\nClosing arrears (31/12/06): ₦3,000\n\nCalculation:\nSubscription Income = ₦7,000 + ₦2,000 - ₦3,000 + ₦1,500\nSubscription Income = ₦7,000 + ₦2,000 - ₦3,000 + ₦1,500\nSubscription Income = ₦7,500",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 994,
+    "question": "The main reason for adopting a departmental account is to?",
+    "option": {
+      "a": "record transactions for each department for better documentation",
+      "b": "tackle any recording problem as a result of expansion",
+      "c": "continuously evaluate the profitability of different departments",
+      "d": "ensure that departmental mangers are adequately monitored"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The primary purpose of departmental accounting is to assess and compare the financial performance of different departments within an organization.",
     "examtype": "utme",
     "examyear": "2008"
   },
