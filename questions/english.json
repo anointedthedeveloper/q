@@ -57,6 +57,25 @@
     "category": "others"
   },
   {
+    "id": 4,
+    "question": "If you saw the photograph of the man……………………you be able to identify him?",
+    "option": {
+      "a": "could",
+      "b": "would   ",
+      "c": "can ",
+      "d": "will "
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 5,
     "question": "As Obande does not know anyone in this city, he hopes that some kind …………  will put him up for the night",
     "option": {
@@ -2446,6 +2465,25 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 151,
+    "question": "If the rain hadn’t fallen, we wouldn’t have missed the match.",
+    "option": {
+      "a": "The rain is falling, so we will miss the match.",
+      "b": "The rain fell, so we didn’t watch the match",
+      "c": "The rain fell, so we watched the match",
+      "d": "The rain didn’t fall, so we didn’t watch the match."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
@@ -10389,6 +10427,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 91,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 688,
+    "question": "Ugo has often been described as <u>belligerent</u>?\n",
+    "option": {
+      "a": "attractive",
+      "b": "patient",
+      "c": "innocent",
+      "d": "combative"
+    },
+    "section": "<b>In each of questions 86 to 100 choose from the options nearest in meaning to the word underlined.</b>\n",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 92,
     "hasPassage": 0,
     "category": "others"
   },
@@ -18829,6 +18886,25 @@
     "category": "others"
   },
   {
+    "id": 1341,
+    "question": "The soldier _________ his gun on the wall after the armed robber______",
+    "option": {
+      "a": "hang/has been hung",
+      "b": "hung/had been hanged",
+      "c": "hanged/has been hanged",
+      "d": "hung/ has been hunged"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "b",
+    "solution": "Option B is the correct answer.\n\nIn the arrangement of tenses, 'when the main clause is in past or past perfect tense, the subordinate clause must be in the past or past perfect tense'.\n\n'had' is used to express a past perfect tense as opposed to 'has' which is used to express a present perfect tense",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 28,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1342,
     "question": "Thank you for the __________ of presenting my paper.",
     "option": {
@@ -19623,6 +19699,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 31,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1405,
+    "question": "... is quick to anger and doesn't hide it when she is",
+    "option": {
+      "a": "Aliyu",
+      "b": "Mrs Bello",
+      "c": " Mr Bello",
+      "d": "Bobo"
+    },
+    "section": "<b>Questions are based on Bolaji Abdullahi's \"Sweet Sixteen\"</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "Mrs Bello doesn't hide her anger whenever she is, she outter speaks her mind on the issue. Although she may not agree with her husband on something, she supports him however.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 32,
     "hasPassage": 0,
     "category": "others"
   },
