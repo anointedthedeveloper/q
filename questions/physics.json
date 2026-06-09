@@ -944,6 +944,22 @@
     "examyear": "2010"
   },
   {
+    "id": 73,
+    "question": "A boat is passing under a bridge. The deck of the boat is 15m below the bridge. A small package is to be dropped from the bridge onto the deck of the boat is 25m from just below the drop point. What speed is necessary to have the package land in the boat? (g= 9.8ms-2)",
+    "option": {
+      "a": "17m/s ",
+      "b": "14m/s ",
+      "c": "1.7m/s ",
+      "d": "4.9m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 74,
     "question": "A 0.60kg rubber stopper is whirled in a horizontal circle of 0.80m radius at a rate of 3.0 revolutions per second. What is the tension in the string? ",
     "option": {
@@ -3216,6 +3232,22 @@
     "examyear": "2017"
   },
   {
+    "id": 256,
+    "question": "How can energy loss be minimized through Eddy-current?",
+    "option": {
+      "a": "By using high resistance wire",
+      "b": "By using insulated soft iron wires",
+      "c": " By using low resistance wires",
+      "d": "By using turns of wires"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Understanding Eddy currents:\nEddy currents are circular electric currents induced in conductors when exposed to changing magnetic fields. They cause energy loss as heat (I²R losses).\nHow to minimize Eddy current losses:\nThe key is to reduce the paths available for eddy currents to flow.\nMethod: Lamination\n\nUse thin sheets (laminations) of the magnetic core material\nInsulate each sheet from the others\nThis breaks up the continuous conducting path\nEddy currents are confined to smaller loops within each lamination\nSmaller current loops = less energy loss\n\nEnergy loss through eddy currents is minimized by using laminated (insulated soft iron) cores, which break up the conducting paths and reduce eddy current circulation.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 257,
     "question": "From the diagram above, calculate the energy stored in the capacitor",
     "option": {
@@ -4064,6 +4096,22 @@
     "examyear": "2018"
   },
   {
+    "id": 321,
+    "question": "When an atom loses or gain a charge it becomes",
+    "option": {
+      "a": "An electron",
+      "b": "An ion",
+      "c": " A neutron",
+      "d": "A proton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When an atom loses or gains electrons (charge), it becomes an ion - a charged particle.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 322,
     "question": "A ball of mass 800g moving horizontally with a speed of 5m/s hits a vertical wall and rebounds with the same speed. The impulse experienced by the ball is?",
     "option": {
@@ -4158,6 +4206,22 @@
     "solution": "The energy needed to move a unit positive charge around a complete electric circuit is indeed referred to as Electromotive Force (EMF).",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 330,
+    "question": "The limiting frictional force between two surface depends on\n\nI. the gaseous reaction between the surfaces\n\nII. the nature of the surfaces in contact\n\nIII. the relative velocity between the surfaces",
+    "option": {
+      "a": "I only",
+      "b": "I & II only",
+      "c": "II only",
+      "d": "III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The limiting frictional force depends only on the nature of the surfaces in contact",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 331,
@@ -6784,6 +6848,22 @@
     "examyear": "2023"
   },
   {
+    "id": 545,
+    "question": "Which of the following is a type of incandescent light source?",
+    "option": {
+      "a": "Fluorescent lamp",
+      "b": "LED lamp",
+      "c": "Tungsten filament lamp",
+      "d": "Neon lamp"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A tungsten filament lamp is an incandescent light source because it produces light by heating a tungsten wire filament until it glows white-hot. The other options produce light through gas discharge (fluorescent, neon) or semiconductor emission (LED), not through heating a material to incandescence.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 547,
     "question": "When light of a certain frequency is incident on a metal surface, no photoelectrons are emitted. If the frequency of the light is increased, what happens to the stopping potential?",
     "option": {
@@ -7308,6 +7388,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nLoad (L) = 300 N\nVelocity Ratio (V.R) = 2\nEfficiency = 60% = 0.60\nEffort (E) = ?\n\nStep 1: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A / V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.60 × 2\nM.A = 1.2\nStep 2: Calculate Effort using M.A\nM.A = Load / Effort\nRearranging:\nEffort = Load / M.A\nEffort = 300 / 1.2\nEffort = 250 N",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 586,
+    "question": "The average translational kinetic energy of gas molecules depends on ",
+    "option": {
+      "a": "Temperature only",
+      "b": "Number of moles and temperature",
+      "c": "Pressure and temperature",
+      "d": "Pressure only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The average translational kinetic energy of gas molecules depends on temperature only. This is expressed as Average KE = (3/2)kT, where temperature is the sole determining factor.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -10976,6 +11072,22 @@
     "examyear": "2009"
   },
   {
+    "id": 879,
+    "question": "Cancerous cells can be destroyed by?",
+    "option": {
+      "a": "ultraviolet rays",
+      "b": "alpha particules",
+      "c": " x - rays",
+      "d": " infrared rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Canorous cells can be destroyed with a high penetrating radiation which is x - rays",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 883,
     "question": "Which of the following can conduct electricity owing to the presence of free mobile electrons?",
     "option": {
@@ -11324,6 +11436,22 @@
     "image": "",
     "answer": "b",
     "solution": "The special advantage of alcohol over mercury as a thermometric liquid is its low freezing point (-115°C compared to -39°C for mercury), which allows it to measure much lower temperatures, making it suitable for use in very cold climates where mercury would freeze solid.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 911,
+    "question": "Heat is radiated by hot objects in the form?",
+    "option": {
+      "a": "x-rays",
+      "b": "light energy",
+      "c": " infrared rays",
+      "d": "solar energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Infrared rays falling on the skin causes the skin causes the sensation of warmth. since the objects are hot, the correct option is informed.",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -12928,6 +13056,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1038,
+    "question": "A piece of radioactive material contains 1000 atoms. If its half‑life is 20 seconds, the time taken for 125 atoms to remain is",
+    "option": {
+      "a": "20 seconds",
+      "b": "40 seconds",
+      "c": "80 seconds",
+      "d": "60 seconds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nInitial number of atoms, N₀ = 1000\nHalf‑life, T = 20 s\nRemaining atoms, N = 125\n\nSolution:\n\nStep 1: Radioactive decay formula\nN = N₀ × (½)^(t / T)\n\nStep 2: Substitute the values\n125 = 1000 × (½)^(t / 20)\n\nStep 3: Divide both sides by 1000\n125 / 1000 = (½)^(t / 20)\n0.125 = (½)^(t / 20)\n\nStep 4: Express 0.125 as a power of ½\n0.125 = ⅛ = (½)³\n\nStep 5: Equate exponents\n(½)^(t / 20) = (½)³\nt / 20 = 3\nt = 60 s",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1039,
     "question": "The p-n junction diodes can act as rectifiers because they",
     "option": {
@@ -13424,6 +13568,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1077,
+    "question": "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?",
+    "option": {
+      "a": " 2.4g",
+      "b": "3.2g",
+      "c": "4.6g",
+      "d": "4.8g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nFirst case: current I₁ = 2.5 A, time t₁ = 3 h, mass m₁ = 1.8 g\nSecond case: current I₂ = 4 A, time t₂ = 4.8 h\n\nSolution:\n\nStep 1: Faraday's law of electrolysis\nThe mass deposited is proportional to the total charge passed: m ∝ I × t.\n\nStep 2: Set up the ratio\nm₂ / m₁ = (I₂ × t₂) / (I₁ × t₁)\n\nStep 3: Substitute values\nI₁ × t₁ = 2.5 × 3 = 7.5 A h\nI₂ × t₂ = 4 × 4.8 = 19.2 A h\nm₂ / 1.8 = 19.2 / 7.5 = 2.56\n\nStep 4: Calculate m₂\nm₂ = 1.8 × 2.56 = 4.608 g ≈ 4.6 g",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1078,
     "question": "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV",
     "option": {
@@ -13788,6 +13948,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nCapacitance, C = 0.1 F\nVoltage, V = 10 V\n\nSolution:\n\nStep 1: Formula for charge stored in a capacitor\nThe charge Q stored in a capacitor is given by:\nQ = C × V\n\nStep 2: Substitute the values\nQ = 0.1 F × 10 V = 1 C",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1109,
+    "question": "The maximum power transfer occur in a cell when the external resistance is",
+    "option": {
+      "a": "Twice the internal resistance of the cell",
+      "b": "The same as the internal resistance of the cell",
+      "c": "Greater than the internal resistance of the cell",
+      "d": " Less than the internal resistance of the cell"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "the maximum power transfer theorem states that the maximum power is transferred from a source e.g. cell or battery to its load (external resistance) when the resistance of the load is equal to the internal resistance of the source.",
     "examtype": "utme",
     "examyear": "2014"
   },
