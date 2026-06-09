@@ -1862,6 +1862,25 @@
     "category": "others"
   },
   {
+    "id": 145,
+    "question": "n<u>i</u>ne",
+    "option": {
+      "a": "pint",
+      "b": "gill",
+      "c": "pin",
+      "d": "click"
+    },
+    "section": "choose the option that has the same vowel sound as the one represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 146,
     "question": "b<u>ea</u>r",
     "option": {
@@ -3040,6 +3059,44 @@
     "category": "others"
   },
   {
+    "id": 255,
+    "question": "After the war the victors became Increasingly vindictive ",
+    "option": {
+      "a": "Vengeful attacks were Incessantly carried out on those who lost the war ",
+      "b": "  Friendly measures were taken to heal the wounds",
+      "c": "Repressive measures were taken against those who lost the war",
+      "d": "Those who won the war became treacherous "
+    },
+    "section": "the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 258,
+    "question": "The dispute over land acquisition has now come a head",
+    "option": {
+      "a": "The problem has reached crisis proportions ",
+      "b": "The problem has now been referred to the headquarters ",
+      "c": "Because of the dispute, land acquisition has now been halted ",
+      "d": "The problem has now been solved "
+    },
+    "section": "the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 259,
     "question": "He has hardly spoken when the bell rang ",
     "option": {
@@ -3830,6 +3887,25 @@
     "section": "choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 320,
+    "question": "The man paid a large sum to <i>redeem</i> his mortgaged property ",
+    "option": {
+      "a": "ransom ",
+      "b": "acquire ",
+      "c": "pawn ",
+      "d": "recover."
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007",
@@ -4769,6 +4845,25 @@
     "category": "others"
   },
   {
+    "id": 404,
+    "question": "Scientists have <i>invented</i> ways of preserving fruits much longer   ",
+    "option": {
+      "a": "coined ",
+      "b": "devised   ",
+      "c": "arranged",
+      "d": "organized"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 407,
     "question": "I cannot stand Simon, I find his attitude <i>offensive</i>",
     "option": {
@@ -5443,6 +5538,25 @@
       "d": "unfair."
     },
     "section": "Choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 473,
+    "question": "Agwube's explanation of her poor performance at the examination only <i>begged the question.</i>",
+    "option": {
+      "a": "delayed her punishment   ",
+      "b": "sounded quite convincing ",
+      "c": " did not address the issue",
+      "d": "overflogged the matter"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -6281,6 +6395,25 @@
     "section": "choose the option opposite In meaning to the word or phrase In Italics",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 533,
+    "question": "The trader was amused by the  <i>cutthroat</i>  rush for the goods ",
+    "option": {
+      "a": "worrisome",
+      "b": "strange ",
+      "c": "lacklustre ",
+      "d": "mad"
+    },
+    "section": "choose the option opposite In meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010",
@@ -7425,6 +7558,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 61,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 661,
+    "question": "What a <u>harmless</u> thought he has?",
+    "option": {
+      "a": "pericious",
+      "b": "pertinent",
+      "c": "pleasant",
+      "d": "perfect"
+    },
+    "section": "<b>In each of questions 63 to 77,choose the option opposite in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 65,
     "hasPassage": 0,
     "category": "others"
   },
@@ -11685,6 +11837,25 @@
     "category": "others"
   },
   {
+    "id": 1136,
+    "question": "Usman needs to get his act together if he wants to pass the examination",
+    "option": {
+      "a": "He needs to organized himself",
+      "b": " He needs to be fast when writing the examination",
+      "c": "He needs to put on his stage costume",
+      "d": "Heneeds to pull all points down in the examination"
+    },
+    "section": "<b>questions 36 - 45 are on LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of this question select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "a",
+    "solution": "Usman needs to sit up, get better or get serious.",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 44,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1137,
     "question": "Ramatus expressed her feelings in uncertain terms",
     "option": {
@@ -15770,6 +15941,25 @@
     "category": "others"
   },
   {
+    "id": 1565,
+    "question": "Select the option that best explain the information conveyed in the sentence\n\nThe man's Achilles' heel is women ________",
+    "option": {
+      "a": "His weakness is women",
+      "b": "His strength is women",
+      "c": " He fights women",
+      "d": "He respects women"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The phase 'Achilles' heel' means a small problem or weakness in a person or system that can result in failure. The phrase has it origin traced to the legend of Achilles, which tells the talk of Achilles, how he was dipped into the river by his mother, That is in order to make him invulnerable. His heel wasn't covered by the water and he was later killed by a narrow wound to his heel.",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 2,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1566,
     "question": "Choose the most appropriate stress pattern from the options below\n\nConstitution",
     "option": {
@@ -15861,6 +16051,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 9,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1573,
+    "question": "Choose the interpretation that you consider most appropriate for each sentence.\n\nNow that Michael has become rich, Nancy has begun to make much of him. This means __________",
+    "option": {
+      "a": "now values Michael",
+      "b": " now gets a lot of money from Michael",
+      "c": "only recently married Michael",
+      "d": "no longer wants to leave Michael"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Make much of means to give much attention to someone or something or to treat very well ",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 10,
     "hasPassage": 0,
     "category": "others"
   },
