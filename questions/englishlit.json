@@ -224,6 +224,22 @@
     "examyear": "2007"
   },
   {
+    "id": 47,
+    "question": "The play Hamlet may be described as a tragedy of: ",
+    "option": {
+      "a": "belief in ghosts ",
+      "b": "marital infidelity ",
+      "c": "indecision and procrastination ",
+      "d": "inordinate love of father by son. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 48,
     "question": "What figure of speech does the following quotation contain? A life's but a walking shadow (Macbeth)",
     "option": {
@@ -331,6 +347,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 65,
+    "question": "The sounds in the following lines may be described as an example of: The moan of doves in immemorial elms, and murmuring of innumerable bees ",
+    "option": {
+      "a": "alliteration ",
+      "b": "euphony ",
+      "c": "cacophony ",
+      "d": "a mixture of all the above."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -475,6 +507,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 91,
+    "question": "The literary device  which anticipates that an event will take place is best described as ",
+    "option": {
+      "a": "parody ",
+      "b": "flashback ",
+      "c": "foreshadowing ",
+      "d": "rising action "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -1664,6 +1712,22 @@
     "examyear": "2008"
   },
   {
+    "id": 311,
+    "question": "The poet’s tone above can be described as",
+    "option": {
+      "a": "lamentative",
+      "b": "satiric",
+      "c": "imploring",
+      "d": "adoring."
+    },
+    "section": "based on Literary Appreciation.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 312,
     "question": "In the play, the character of Lawyer B is represented through the use of",
     "option": {
@@ -1883,6 +1947,22 @@
     "section": "based on Literary Appreciation",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 354,
+    "question": "‘The huge sacrifice that <br>\n\twards off death <br>\n\tThe big offering that <br>\n\tprevents diseases....’ <br>\n\t( Temi Osofison: Morountodun ) <br>\nThe poem above can best be described as",
+    "option": {
+      "a": "epic",
+      "b": "heroic",
+      "c": "praise",
+      "d": "quatrain"
+    },
+    "section": "based on Literary Appreciation",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -2775,6 +2855,22 @@
       "b": "Dr. Bledsoe",
       "c": "The narrator",
       "d": "Norton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 537,
+    "question": "What do the gold coins that boys must scramble for at the battle royal turnout to be?",
+    "option": {
+      "a": "Chocolate candies",
+      "b": "Wooden coins",
+      "c": "Brass pocket token",
+      "d": "Pennies"
     },
     "section": "",
     "image": "",
