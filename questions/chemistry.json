@@ -6688,6 +6688,22 @@
     "examyear": "2017"
   },
   {
+    "id": 444,
+    "question": "In the laboratory preparation of trioxonitrate (V) acid, the nitrogen (IV) oxide formed as a by-product is removed by",
+    "option": {
+      "a": "further heating",
+      "b": "adding concentrated H₂SO₄",
+      "c": "cooling the acid solution with cold water",
+      "d": "bubbling air through the acid solution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In the preparation of HNO₃, NO₂ (nitrogen IV oxide) dissolves in the acid giving it a brown colour. To remove it, air is bubbled through the acid solution: 4NO₂ + O₂ + 2H₂O → 4HNO₃. The oxygen in the air oxidises the dissolved NO₂, converting it to more HNO₃ and producing a colourless acid.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 445,
     "question": "A particle that contains 9 protons, 10 neutrons and 10 electrons is",
     "option": {
