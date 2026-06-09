@@ -704,6 +704,22 @@
     "examyear": "2009"
   },
   {
+    "id": 57,
+    "question": "If 7 and 189 are the first and fourth terms of a geometric progression respectively find the sum of the first three terms of the progression ",
+    "option": {
+      "a": "182",
+      "b": "180",
+      "c": "91",
+      "d": "63"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 58,
     "question": "Find the positive number n such that thrice its square is equal to twelve time the number ",
     "option": {
@@ -2044,6 +2060,22 @@
     "image": "",
     "answer": "b",
     "solution": "The mean X = sumation x/n = 30/6 = 5\\ Variance = (sumation (x-x)<sup>2</sup>) /n = 30/6= 5",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 160,
+    "question": "Find the range of these fractions:\n1/6, 1/3, 3/2, 2/3, 8/9 and 4/3.",
+    "option": {
+      "a": "3/4",
+      "b": "5/6",
+      "c": "7/6",
+      "d": "4/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using the L.C.M of the fractions, convert them to uniform base.\nL.C.M = 36, the new fraction becomes: 6/36, 12/36, 54/36, 24/36, 32/36 and 48/36.\nRange = highest value - lowest value\nHighest among the given fraction = 54/36\nLowest among the given fraction = 6/36.\n\nRange = (54/36) - (6/36) = 48/36 = 4/3",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -4060,6 +4092,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700918/ALOC-Questions/Mathematics/2004/math_2004_q45_ck0bbt.jpg",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 317,
+    "question": "The shaded area in the diagram above is represented by",
+    "option": {
+      "a": " {(x,y) : y - 3x < -6}",
+      "b": "{(x,y) : y + 3x < 6}",
+      "c": "{(x,y) : y + 3x < -6}",
+      "d": "{(x,y) : y - 3x < 6}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Coordinates of the line are (x1 y1)(0,2) respectively and (x2 y2)(2,0) respectively\nGradient (m) of the line = (y2 - y1) / (x2 - x1) = (0-6) / (2-0) = -6/2\n= -3\nEquation of the line y-y1 = m(x-x1)\ny - 6 = -3(x - 0)\ny - 6 = -3x\ny + 3x = 6\ninequality; from the y axis, the shaded region is below the line\n∴ y + 3x ∠ 6 and line is a broken line",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -9088,6 +9136,22 @@
     "examyear": "2012"
   },
   {
+    "id": 752,
+    "question": "The mean of seven numbers is 96. If an eighth number is added, the mean becomes 112. Find the eighth number.",
+    "option": {
+      "a": "126",
+      "b": "180",
+      "c": "216",
+      "d": "224"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x/7 = 96/1  ==> 672/ + x/8 =112\n\n\nTherefore x = 224",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 754,
     "question": "Find the range of 4,9,6,3,2,8,10 and 11",
     "option": {
@@ -12416,6 +12480,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1021,
+    "question": "Find all real number x which satisfy the inequality 1/3 (x + 1) - 1 > 1/5(x + 4) ",
+    "option": {
+      "a": " x < 11",
+      "b": "x < -1",
+      "c": " x > 6",
+      "d": "x > 11"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "1/3 (x + 1) - 1 > 1/5(x + 4)  = (x+1)/3−1 > (x+4)/5\n \n\n(x+1)/3 − (x + 4)/5 − 1 > 0 \n\n= (5x + 5 − 3x − 12)/15\n \n\n2x - 7 > 15\n\n2x > 22 = x > 11",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1022,
     "question": "Reach each number to two significant figures and then evaluate (0.02174 × 1.2047)/0.023789",
     "option": {
@@ -12944,6 +13024,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1061,
+    "question": "determine the maximum value of y=3x<sup>2</sup> + 5x - 3",
+    "option": {
+      "a": "6",
+      "b": "0",
+      "c": "2",
+      "d": "No correct option"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y=3x<sup>2</sup> + 5x - 3\n\ndy/dx = 6x + 5\n\nas dy/dx = 0\n\n6x + 5 = 0\n\nx = −5/6\nMaximum value: 3<sup>2</sup> (−5)/6\n + 5 (−5/6) - 3\n\n3(75/36) - 25/6 - 3\n\nUsing the L.C.M. 36\n\n= (25 −50−36)/36\n= −61/36   No correct option\n",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1062,
     "question": "A trapezium has two parallel sides of lengths 5cm and 9cm. If the area is 91cm2\n, find the distance between the parallel sides",
     "option": {
@@ -13324,6 +13420,22 @@
     "image": "",
     "answer": "d",
     "solution": "(m<sup>2</sup> + 2) (m -1)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1089,
+    "question": "The angles of a quadrilateral are 5x-30, 4x+60, 60-x and 3x+61.find the smallest of these angles​",
+    "option": {
+      "a": "5x - 30",
+      "b": "4x + 60",
+      "c": "60 - x",
+      "d": "3x + 61"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Sum of all 4 angles of a quadrilateral = 360°\n\n(5x-30) + (3x + 61) + (60-x) + (4x+ 60) = 360°\n\n11x + 151 = 360°\n\n11x = 360 - 151 = 209\n\nx = 209/11 = 19°\n\nEach angles is :\n\n5x - 30 =  65°\n\n4x+ 60 = 136°\n\n60 - x =41°\n\n3x + 61 = 118°\n\n \n\nSmallest of these angles is 41° ",
     "examtype": "utme",
     "examyear": "2021"
   },
