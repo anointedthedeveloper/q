@@ -688,6 +688,22 @@
     "examyear": "2001"
   },
   {
+    "id": 139,
+    "question": "Given an isosceles triangle with length of 2 equal sides t units and opposite side √3t units with angle θ. Find the value of the angle θ opposite to the √3t units.",
+    "option": {
+      "a": "100°",
+      "b": "120°",
+      "c": "30°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Cos θ° = t<sup>2</sup> + t<sup>2</sup> -(√3t)<sup>2</sup> 2 x t x t\n\n= 2t<sup>2</sup> - 3t<sup>2</sup> 2t<sup>2</sup>\n= -t<sup>2</sup>/2t<sup>2</sup>\n= -1/2\n\nThus θ = cos<sup>-1</sup> (-0.5) = 120°",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 141,
     "question": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.",
     "option": {
@@ -716,6 +732,22 @@
     "image": "",
     "answer": "a",
     "solution": "PQ<sup>2</sup> = (x<sub>2</sub> - x<sub>1</sub>)<sup>2</sup> + (y<sub>2</sub> - y<sub>1</sub>)<sup>2</sup>\n\n= 12<sup>2</sup> + 5<sup>2</sup>\n= 144 + 25\n= 169\n\nPQ = √169 = 13\n\nBut PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 147,
+    "question": "If the gradient of the curve y = 2kx<sup>2</sup> + x + 1 at x = 1 is 9, find k.",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = 2kx<sup>2</sup> + x + 1\nGradient function dy/dx = 4kx + 1\nat dy/dx = 9, => 9 = 4kx + 1\n=> 8 = 4kx, and k = 8/4x.\n\nAt x = 1, k = 8/4 = 2",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -812,6 +844,22 @@
     "image": "",
     "answer": "a",
     "solution": "6Pr = 6 Thus r = 1\n\nN.B 6P<sup>1</sup> = 6!/(6-1)!\n=6!/5!\n= 6x 5!/5! = 6\n= 6P<subr+1</sub> = 6P<sub>2</sub> =  6!/(6-2)! =6!/4!\n \n = (6x5x4!)/4!\n= 30",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 162,
+    "question": "The identity element with respect to the multiplication shown in the table above is",
+    "option": {
+      "a": "o",
+      "b": "m",
+      "c": "i",
+      "d": "k"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696566/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_40_wirh19.jpg",
+    "answer": "b",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -956,6 +1004,22 @@
     "image": "",
     "answer": "a",
     "solution": "Let y = f(x).\n\nY = 3x + 4 ⟹ x = y−4/3\nReplace y with x.\n\nY = x−4/3",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 191,
+    "question": "If -2 is the solution of the equation 2x + 1 - 3c = 2c + 3x - 7, find the value of c.",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "-2 in the solution implies x = -2.\n\n2x + 1 - 3c = 2c + 3x - 7\n\n2(-2) + 1 - 3c = 2c + 3(-2) - 7\n\n-4 + 1 - 3c = 2c - 6 - 7\n\n-3 + 13 = 2c + 3c ⟹\n c = 2.\n\n ",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -2224,6 +2288,22 @@
     "examyear": "2007"
   },
   {
+    "id": 452,
+    "question": "Given\nP = {1, 3, 5, 7, 9, 11}\nand Q = {2, 4, 6, 8, 10, 12}. Determine the relationship between P and Q",
+    "option": {
+      "a": "P∩Q = ∅",
+      "b": "P ⊂ Q",
+      "c": " Q⊂P",
+      "d": "P = Q"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "P = {1, 3, 5, 7, 9, 11}\nQ = {2, 4, 6, 8, 1, 12}\nP∩Q = {1, 3, 5, 7, 9, 11}∩{2, 4, 6, 8, 1, 12}\n= {} = ∅",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 454,
     "question": "If X = {all the perfect squares less than 40}\nY = {all the odd numbers fro, 1 to 15}. Find X ∩ Y.",
     "option": {
@@ -2476,6 +2556,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546346/ALOC-Questions/Mathematics/2008/MATH_2008_Q45_c23x6z.jpg",
     "answer": "b",
     "solution": "Total possible outcome\n12+18+x+30+2x+45 = 105+3x\nâˆ´105+3x = 150\n3x = 150-105\n3x = 45\nx = 15\nP(obtaining 5) =  2x/((105+3x)) Butx=15=(2(15))/((105+3(15)))=30/((105+45))=30/150=1/5",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 518,
+    "question": "( −2 2 1 3 ) ( p r q s ) = ( 1 0 0 1 ) . What is the value of r?",
+    "option": {
+      "a": "-1/8",
+      "b": "3/8",
+      "c": "5/8",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546423/ALOC-Questions/Mathematics/2008/MATH_2008_Q47_nqccri.jpg",
+    "answer": "d",
+    "solution": "-2p + r = 1.......(i)\n\n2p + 3r = 0.......(ii)\n\nr - 1 + 2p ........(iii)\n\n2p + 3(1 + 2p) = 0\n\n2p + 3(1 + 2p) = 0\n\n2p + 3 + 6p = 0\n\n3 - 8p = 0 → 8p = 3\n\np = 3/8\n\n6 = 1 - 2 (3/8)\n\n= 1 - 6/8\n\n8−6/8 = 2/8\n\n= 1/4",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -3008,6 +3104,22 @@
     "examyear": "2010"
   },
   {
+    "id": 615,
+    "question": "Evaluate ∫<sup>2</sup><sub>0</sub>(x<sup>3</sup>+x<sup>2</sup>)dx.",
+    "option": {
+      "a": "4(5/6)",
+      "b": "6(2/3)",
+      "c": "1(5/6)",
+      "d": "2(5/6)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "∫<sup>2</sup>, <sub>0</sub>(x<sup>3</sup> + x<sup>2</sup>)dx = ∫<sup>2</sup>, <sub>0</sub>(x<sup>4</sup>/4+x<sup>3</sup>/3)\n\n= (2<sup>4</sup>/4+2<sup>3</sup>/3) - (0<sup>4</sup>/4+0<sup>3</sup>/3)\n\n= (16/4+8/3) - 0\n\n= 80/12=20/3 or 6(2/3)",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 616,
     "question": "In how many ways can a committee of 2 women and 3 men be chosen from 6 men and 5 women?",
     "option": {
@@ -3168,6 +3280,22 @@
     "examyear": "2011"
   },
   {
+    "id": 643,
+    "question": "Evaluate ∣∣∣∣42−1231−1−13∣∣∣∣",
+    "option": {
+      "a": "25",
+      "b": "45",
+      "c": "15",
+      "d": "55"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>|</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>4</mn>\n        </mtd>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mn>3</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mtd>\n        <mtd>\n          <mn>1</mn>\n        </mtd>\n        <mtd>\n          <mn>3</mn>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>|</mo>\n  </mrow>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129601/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q22_v62583.jpg",
+    "answer": "a",
+    "solution": "4[(3 x 3) - (-1 x 1)] -2 [(2x 3) - (-1 x -1)] -1 [(2 x 1) - (-1 x 3)]\n\n= 4[9 + 1] -2 [6 - 1] -1 [2 + 3]\n\n= 4(10) - 2(5) - 1(5)\n\n= 40 - 10 - 5\n\n= 25",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 649,
     "question": "The midpoint of P(x, y) and Q(8, 6) is (5, 8). Find x and y.",
     "option": {
@@ -3216,6 +3344,22 @@
     "examyear": "2011"
   },
   {
+    "id": 656,
+    "question": "Evaluate ∫<sup>1</sup><sub>0</sub>(3 - 2x)dx",
+    "option": {
+      "a": "33m",
+      "b": "5",
+      "c": "2",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫<sup>1</sup><sub>0</sub>(3 - 2x)dx   [3x - x2]<sup>1</sup<sub>0</sub>\n\n\n[3(1) - (1)<sup>2</sup>] - [3(0) - (0)<sup>2</sup>]\n\n(3 - 1) - (0 - 0) = 2 - 0\n\n= 2",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 659,
     "question": " From the table above, find the median and range of the data respectively.",
     "option": {
@@ -3228,6 +3372,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129770/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q38_a2z1n7.jpg",
     "answer": "b",
     "solution": "Median = ∑fx/∑f \n \n\n∑fx = 0 + 4 + 6 + 24 + 8 + 25 = 67\n\n∑f = 23\n\nMedian = ∑fx/∑f = 67/23 =2.913\n\n= ≈ 3\n\nRange = 5 - 0 = 5\n\n(3, 5)",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 664,
+    "question": "Find the derivative of sinθ/cosθ",
+    "option": {
+      "a": " sec<sup>2</sup> θ",
+      "b": "tan θ\n cosec θ",
+      "c": " cosec θ\nsec θ",
+      "d": "cosec<sup>2</sup>θ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "sinθ/cosθ.                                    (cosθ (d(sinθ))/dθ - sinθ (d(cosθ))/dθ)/cos<sup>2</sup>θ.   (cosθ.cosθ-sinθ(-sinθ))/(cos<sup>2</sup> θ) (cos<sup>2</sup> θ+sin<sup>2</sup>⁡θ)/(cos<sup>2</sup> θ) Recall that sin<sup>2</sup> θ + cos<sup>2</sup> θ = 1\n\n1/cos<sup>2</sup>θ\n = sec<sup>2</sup> θ",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -3436,6 +3596,22 @@
     "image": "",
     "answer": "d",
     "solution": "Man lives = 2/3\n not live = 1/3\n\n\nWife lives = 3/5\n not live = 2/5\nP(at least one lives to 80 years) = P(man lives to 80 not woman) + P(woman lives to 80 and not man) + P(both live to 80)\n\nP=(2/3 × 2/5) + (2/5 × 1/3) + (2/3 × 3/5)\n\n= 4/15 + 3/15 + 6/15\n\n\n= 13/15",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 762,
+    "question": "In the diagram above, PQR is a circle centre O. If < QPR is x°, find < QRP.",
+    "option": {
+      "a": " x°",
+      "b": "(90 – x)°",
+      "c": "(90 + x)°",
+      "d": " (180 – x)°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716130441/ALOC-Questions/Mathematics/2012/2012_MATH_JAMB_Q42_omnqe2.jpg",
+    "answer": "b",
+    "solution": "< PQR = 90° (angle in a semi-circle)\n\n< QRP = (90 - x)°",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -4304,6 +4480,22 @@
     "examyear": "2018"
   },
   {
+    "id": 946,
+    "question": "Divide the L.C.M of 48, 64 and 80 by their H.C.F",
+    "option": {
+      "a": "20",
+      "b": "30",
+      "c": "48",
+      "d": "60"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 947,
     "question": "Find the equation of the line through (5,7) parallel to the line 7x + 5y = 12 ",
     "option": {
@@ -4448,6 +4640,22 @@
     "examyear": "2019"
   },
   {
+    "id": 974,
+    "question": "Rationalize  (√2+√3)/(√2-√3)",
+    "option": {
+      "a": "−5−2√6",
+      "b": "−5 + 3√2\n ",
+      "c": "5 − 2√3",
+      "d": "5 + 2√6"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n      <mo>+</mo>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(√2+√3)/(√2-√3) = ((√2+√3)/(√2-√3))((√2+√3)/(√2+√3)) = (2+√6+√6+3)/(2-√6+√6-3) = 5 + 2√6/−1 = = −5 − 2√6",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 975,
     "question": "Find the length of the chord |AB| in the diagram shown above.",
     "option": {
@@ -4524,6 +4732,22 @@
     "image": "",
     "answer": "c",
     "solution": "4sin<sup>2</sup>x − 3 = 0\n4sin<sup>2</sup>x = 3 ⟹ sin<sup>2</sup>x = 3/4 \nsin x = √3/2\n∴ x = sin<sup>−1</sup>(√3/2)\nx = 60°",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 992,
+    "question": "d/dx [log⁡(4x<sup>3</sup> - 2x) ] is equal to",
+    "option": {
+      "a": "(12x−2)/4x<sup>2</sup>",
+      "b": "(43x<sup>2</sup>−2x)/7x",
+      "c": "(4x<sup>2</sup>−2)/7x+6",
+      "d": "(12x<sup>2</sup>−2)/4x<sup>3</sup>−2x"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mi>d</mi>\n    <mrow>\n      <mi>d</mi>\n      <mi>x</mi>\n    </mrow>\n  </mfrac>\n  <mo stretchy=\"false\">[</mo>\n  <mi>log</mi>\n  <mo>&#x2061;<!-- ⁡ --></mo>\n  <mo stretchy=\"false\">(</mo>\n  <mn>4</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>3</mn>\n  </msup>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>2</mn>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mo stretchy=\"false\">]</mo>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "d/dx [log(4x<sup>3</sup> - 2x) ]   ... (1)\n\nLet u = 4x<sup>3</sup - 2x.\n\nd/dx(log(4x<sup>3</sup> − 2x)) = (d/du)(du/dx)\nd/du(logu) = 1/u\ndu/dx = 12x<sup>2</sup> − 2\n∴d/dx[log(4x<sup>3</sup> − 2x) ]= (12x<sup>2</sup> − 2)/u\n= (12x<sup>2</sup> − 2)/(4x<sup>3</sup> − 2x)",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -4892,6 +5116,22 @@
     "image": "",
     "answer": "b",
     "solution": "Total number of acres = 2 + 5 + 3 + 11 + 9 = 30\n\nThe angle of acres = 2 + 5 + 3 + 11 + 9 = 30\n\nThe angle of the sector for cassava in a pie chart = 3/30 × 360° = 36°\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1053,
+    "question": "In a class of 40 students, 32 offer mathematics, 24 offer physics and 4 offer neither mathematics nor physics. How many offer both mathematics and physics? ",
+    "option": {
+      "a": "4",
+      "b": "8",
+      "c": "16",
+      "d": "20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "40 = 32 - x + x + 24 + 4\n\n40 = 60 - x\n\nx = 60 - 40 \n\nx = 20",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -5440,6 +5680,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1168,
+    "question": "The ages of students in a small primary school were recorded in the table below.                                                                               Estimate the median.",
+    "option": {
+      "a": "7.725",
+      "b": "6.225",
+      "c": " 7.5",
+      "d": "6.5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007869/ALOC-Questions/Mathematics/2023/MATH_2023_Q32_qhpmgj.jpg",
+    "answer": "a",
+    "solution": "(N + 1)/2  = (107 + 1)/2 th = 54th value i.e the median age is in the interval \"7 - 8\" (29 + 25 = 54)?\n\nMedian = 1<sub>m</sub> + (((∑f)/2 − f<sub>b</sub>) /f<sub>m</sub> )c\n\nl<sub>m</sub>= lower class boundary of the median age = 6.5\n\n∑f = 107\n\nf<sub>b</sub> = sum of all frequencies before the median age = 29\n\nf<sub>m</sub> = frequency of the median age = 40\n\nc = class width = 8.5 - 6.5 = 2\n\nMedian = 6.5 + (((107/2) − 29)/40) x 2\n\n= 6.5 + ((53.5 − 29)/40) x 2\n\n= 6.5 + (24.5/40) x 2\n\n= 6.5 + 1.225\n\n∴\n median age = 7.725\n",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1176,
     "question": "Two numbers are respectively 35% and 80% more than a third number. The ratio of the two numbers is",
     "option": {
@@ -5920,6 +6176,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1258,
+    "question": "Simplify (0.09)<sup>2</sup> and give your answer correct to 4 significant figures",
+    "option": {
+      "a": "0.81",
+      "b": "0.081",
+      "c": "0.0081",
+      "d": "8.0001"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(0.09)<sup>2</sup> = 0.09 × 0.09\n\n= 0.0081\n\n= 0.008100 to 4 significant figures\n\nPlease, start counting first from the non-zero digits i.e. 8",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1262,
     "question": "Find x if 132<sub>x</sub>  = 70 <sub>eight</sub> .",
     "option": {
@@ -5964,6 +6236,38 @@
     "image": "",
     "answer": "b",
     "solution": "(159.75)10 = (y)6\n\n\n\n15910 = 4236\n\nThen Convert 0.75 to base 6\n\n0.75 x 6 =4.5 i.e 4.5 - 3.00 = 1.5\n0.5 x 6 = 3.00 423 + 1.5 =424.5\n\n159.75 = (424.5)6\n\n(159)10 = (424.5)6",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1269,
+    "question": "A man bought a car for N800 and sold it for N520. Find his loss per cent",
+    "option": {
+      "a": "15%",
+      "b": "25%",
+      "c": "35%",
+      "d": "10%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Percentage Loss = (actual loss ) ÷ (Cost price) × 100\n\nActual loss = Cost Price − Selling Price (sold price)\n\n= N800 − N520 = N280\n\nPercentage loss = (280 ÷ 800) × 100 = 35%\n\n∴ His loss percent = 35%",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1273,
+    "question": "Given that S and T are sets of real numbers such that S = {x : 0 ≤\n x ≤ 5} and T = {x : − 2 < x < 3} Find S ∪ T",
+    "option": {
+      "a": "−3 < x < ≤3",
+      "b": "−2< x < ≤5",
+      "c": " 2< x < ≥ −5",
+      "d": "−1< x ≥ ≤2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "S = {0, 1, 2, 3, 4, 5}\n\nT = {− 1, 0, 1, 2}\n\nS ∪ T = {− 1, 0, 1, 2, 3, 4, 5 }\n\n⇒ − 2 < x ≤ 5",
     "examtype": "utme",
     "examyear": "2015"
   },
