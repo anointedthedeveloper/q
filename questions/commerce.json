@@ -1360,6 +1360,22 @@
     "examyear": "2005"
   },
   {
+    "id": 101,
+    "question": "question",
+    "option": {
+      "a": "optiona",
+      "b": "optionb",
+      "c": "optionc",
+      "d": "optiond"
+    },
+    "section": "",
+    "image": "image",
+    "answer": "answer",
+    "solution": "solution",
+    "examtype": "utme",
+    "examyear": "examye"
+  },
+  {
     "id": 102,
     "question": "Tourism can be classified as ",
     "option": {
@@ -4320,6 +4336,22 @@
     "examyear": "2010"
   },
   {
+    "id": 321,
+    "question": "An illegal arrangement by manufacturers to control the price or condition of sale of a product is ",
+    "option": {
+      "a": "ring ",
+      "b": "factoring ",
+      "c": "consortium ",
+      "d": "merger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 322,
     "question": "A public company with an authorized capital of N60,000, issued 36,000 shraes at 150k each. What is its capital?",
     "option": {
@@ -5223,6 +5255,22 @@
       "b": "bailee and the bailor",
       "c": "principal and the agent",
       "d": "shareholder and the creditor "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 384,
+    "question": "The body charged with the responsibility of regulating foods and drugs in Nigeria is the ",
+    "option": {
+      "a": "SON",
+      "b": "NDLEA",
+      "c": "NAFDAC",
+      "d": "CAC"
     },
     "section": "",
     "image": "",
@@ -10635,6 +10683,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 789,
+    "question": "One of the main objectives of establishing the Niger River Basin Commission was to",
+    "option": {
+      "a": "embark on a comprehensive survey of the available water resources",
+      "b": "carry out research for the development of fresh water fisheries",
+      "c": "develop infrastructure to facilitate economic activities",
+      "d": "promote trade among member-states to improve standards of living."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
