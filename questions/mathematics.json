@@ -4640,6 +4640,22 @@
     "examyear": "2005"
   },
   {
+    "id": 331,
+    "question": "If m = 3, p = -3, q = 7 and r = 5/2, evaluate m(p+q+r)",
+    "option": {
+      "a": "19.50",
+      "b": "19.15",
+      "c": "18.95",
+      "d": "18.05"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "m = 3, p = -3, q = 7 and r = 5/2\nm(p+q+r) = 3(-3 + 7 + 5/2)\n= 3(4 + 5/2)\n= 3(4 + 21/2)\n= 3 * 61/2\n= 3 * 13/2\n= 39/2\n= 19.50",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 333,
     "question": "The time taken to do a piece of work is inversely proportional to the number of men employed. If it takes 30 men to do a piece of work in 6 days, how many men are required to do the work in 4 days?",
     "option": {
