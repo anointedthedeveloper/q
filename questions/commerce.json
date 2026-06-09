@@ -1,5 +1,21 @@
 [
   {
+    "id": 21,
+    "question": "Charges for loans paid by commercial banks to the Central Bank of Nigeria are called   ",
+    "option": {
+      "a": "bank rates   ",
+      "b": "credit charges   ",
+      "c": "interest rates",
+      "d": " bank charges"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 27,
     "question": "A specialized institution in Nigeria that deals in  capital investments in the form of stocks, shares, bonds and debentures is the ",
     "option": {
@@ -91,6 +107,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 80,
+    "question": "The necessary documents used in foreign trade are ",
+    "option": {
+      "a": "bill of lading, invoice and letter of inquiry",
+      "b": "indent, bill of exchange, bill of lading and invoice",
+      "c": "invoice, shipping note, bill of lading and freight note   ",
+      "d": "shipping note, certificate of origin and visible exports."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -199,6 +231,38 @@
       "b": "draws members closer to government",
       "c": "promotes awareness among members",
       "d": "encourages thrift among members."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 168,
+    "question": "The creation of utilities to satisfy human wants is referred to as   ",
+    "option": {
+      "a": "production  ",
+      "b": "consumption",
+      "c": "industrialization    ",
+      "d": "occupation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 172,
+    "question": "An agreement by the insurer to compensate the insured for losses suffered is   ",
+    "option": {
+      "a": "policy",
+      "b": "surrender value   ",
+      "c": "caveat emptor ",
+      "d": "indemnity."
     },
     "section": "",
     "image": "",
@@ -384,6 +448,22 @@
     "examyear": "2009"
   },
   {
+    "id": 273,
+    "question": "Partnerships are most effective where ",
+    "option": {
+      "a": "the partners are family friends ",
+      "b": "professionals are involved",
+      "c": "members can easily raise enough capital ",
+      "d": "government regulations are favourable "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 278,
     "question": "A body established to protect the interest of members against the exploitation of retail traders and manufacturers is the ",
     "option": {
@@ -560,6 +640,22 @@
     "examyear": "2011"
   },
   {
+    "id": 356,
+    "question": "A document that indicates obligation that is transferable by delivery and endorsement is a ",
+    "option": {
+      "a": "bill of lading ",
+      "b": "bill of exchange ",
+      "c": "documentary evidence ",
+      "d": "negotiable instrument "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 368,
     "question": "The business organization that can effectively combine management with control is ",
     "option": {
@@ -587,6 +683,54 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 375,
+    "question": "A communication process providing information for decision-making in an organization is the ",
+    "option": {
+      "a": "Management Information System",
+      "b": "Transmission Control Protocol ",
+      "c": "Information Retrieval System ",
+      "d": "File Transfer Protocol."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 380,
+    "question": "The slogan, a wonderful world,  used by a communication network is a form of ",
+    "option": {
+      "a": "product differentiation ",
+      "b": "persuasive advertising ",
+      "c": "publicity ",
+      "d": "packaging "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 390,
+    "question": "The symbol @ in an internet mail address is used  to  ",
+    "option": {
+      "a": "separate the user name from the machine name ",
+      "b": "link the user with other internet users ",
+      "c": "locate the addresses of internet  uses ",
+      "d": "link the user with the machine."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -688,6 +832,22 @@
     "examyear": "2013"
   },
   {
+    "id": 459,
+    "question": "Which of the following will NOT be stated in a Memorandum of Association? ",
+    "option": {
+      "a": "Name clause ",
+      "b": "Rights of shareholders ",
+      "c": "object clause ",
+      "d": "Registered office"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 462,
     "question": "A lawyer that defrauds his client may be derobed by the Nigerian Bar Association in order to ",
     "option": {
@@ -752,6 +912,22 @@
     "examyear": "2013"
   },
   {
+    "id": 482,
+    "question": "The process of transferring data from one computer to another is referred to as ",
+    "option": {
+      "a": "down loading ",
+      "b": "faxing ",
+      "c": "browsing ",
+      "d": "decoding "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 492,
     "question": "A private company is one which",
     "option": {
@@ -784,6 +960,22 @@
     "examyear": "2000"
   },
   {
+    "id": 512,
+    "question": "Which of the following is not a financial institution?",
+    "option": {
+      "a": "Commodity Board",
+      "b": "Insurance company",
+      "c": "Clearing house",
+      "d": "Stock exchange"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 516,
     "question": "Which of the following services is not rendered by commercial banks?",
     "option": {
@@ -795,6 +987,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 519,
+    "question": "When an insurance company indemnifies the insured and takes over his rights, this is known as",
+    "option": {
+      "a": "abandonment",
+      "b": "subrogation",
+      "c": "proximate cause",
+      "d": "contribution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 528,
+    "question": "Firms wishing to defend established products as well as launch new ones will make use of",
+    "option": {
+      "a": "franchising",
+      "b": "product differentiation",
+      "c": "branding",
+      "d": "advertising"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -814,6 +1038,38 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
+  },
+  {
+    "id": 539,
+    "question": "Commercialization is good for the Nigerian economy because it",
+    "option": {
+      "a": "creates room for competition",
+      "b": "increases the cost of living",
+      "c": "leads to the reduction of workforce",
+      "d": "leads to uneven distribution of wealth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 540,
+    "question": "Obtaining feedback on the quality and performance of competing products of different manufacturers, explains the retailer’s function of",
+    "option": {
+      "a": "after sales service",
+      "b": "granting to credits to consumers",
+      "c": "market research",
+      "d": "stocking variety of goods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
   },
   {
     "id": 542,
@@ -875,6 +1131,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 564,
+    "question": "Which of the following is NOT a function of courier companies?",
+    "option": {
+      "a": "Ensuring international transmission of message",
+      "b": "Providing door to door delivery services",
+      "c": "Providing efficient means of mail delivery",
+      "d": "Undertaking the shipment of export and import"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -976,6 +1248,22 @@
     "examyear": "1990"
   },
   {
+    "id": 650,
+    "question": "Ordinary warehouse is usually owned and used by",
+    "option": {
+      "a": "government",
+      "b": "agents",
+      "c": "retailers",
+      "d": "wholesalers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 662,
     "question": "The component of balance of payments which shows how the balance of both current and capital accounts are settled is \t\t\tknown as",
     "option": {
@@ -1040,6 +1328,54 @@
     "examyear": "2016"
   },
   {
+    "id": 674,
+    "question": "Which of the following is a traditional medium of communication used to mark festivals?",
+    "option": {
+      "a": "Palm frond.",
+      "b": "Metal gong.",
+      "c": "Talking drum.",
+      "d": "Gun blast."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 681,
+    "question": "An association that acts as a watchdog between  entrepreneurs and government to protect trade from any unfavourable laws is said",
+    "option": {
+      "a": "cartel",
+      "b": "syndicate",
+      "c": "Chamber of Commerce",
+      "d": "Nigeria Bar Association."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 705,
+    "question": "The main factors militating against the rapid growth of trade in Nigeria are",
+    "option": {
+      "a": "inadequate transportation network and huge capital outlay",
+      "b": "lack of motivation and government attitude towards trade",
+      "c": "lack of good transportation network and insecurity of investments",
+      "d": "huge capital outlay and government attitude to trade."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 709,
     "question": "Ocean liners are subdivided into",
     "option": {
@@ -1056,6 +1392,22 @@
     "examyear": "2000"
   },
   {
+    "id": 713,
+    "question": "The Central Bank differs from commercial banks because it",
+    "option": {
+      "a": "renders service to customers",
+      "b": "carries out foreign exchange transactions",
+      "c": "issues currencies",
+      "d": "discounts bills."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 724,
     "question": "The type of advertising that seeks to persuade consumers to buy a particular product is",
     "option": {
@@ -1063,6 +1415,22 @@
       "b": "competitive advertising",
       "c": "persuasive advertising",
       "d": "mass and specific advertising."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 732,
+    "question": "The first known legislation to protect consumer rights in Nigeria is the",
+    "option": {
+      "a": "Usury Laws",
+      "b": "Hire Purchase Act",
+      "c": "Sale of Goods Act",
+      "d": "Food and Drugs Act."
     },
     "section": "",
     "image": "",
@@ -1195,6 +1563,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 825,
+    "question": "Recognized members of the Stock Exchange who buy and sell securities on their own behalf are known as",
+    "option": {
+      "a": "bolls",
+      "b": "jobbers",
+      "c": "brokers",
+      "d": "stags."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
