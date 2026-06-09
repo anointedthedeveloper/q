@@ -3776,6 +3776,22 @@
     "examyear": "2017"
   },
   {
+    "id": 237,
+    "question": "Calculate the specific latent heat of vaporization of steam if 1.13 × 10⁶ J of heat energy is required to convert 15kg of steam to water.",
+    "option": {
+      "a": "7.53 × 10⁵ Jkg⁻¹",
+      "b": "7.53 × 10⁻² Jkg⁻¹",
+      "c": "7.53 × 10⁴ Jkg⁻¹",
+      "d": "7.53 × 10⁻³ Jkg⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nHeat energy (Q) = 1.13 × 10⁶ J\nMass of steam (m) = 15 kg\nSpecific latent heat of vaporization (L) = ?\n\nFormula:\nQ = mL\nRearranging to find L:\nL = Q/m\nSubstituting values:\nL = (1.13 × 10⁶)/15\nL = 0.0753 × 10⁶\nL = 7.53 × 10⁴ J/kg",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 238,
     "question": "A cell of internal resistance 2Ω supplies current to a 6Ω resistor. The efficiency of the cell is",
     "option": {
