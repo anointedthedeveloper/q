@@ -6608,6 +6608,22 @@
     "examyear": "2004"
   },
   {
+    "id": 433,
+    "question": "The statement of assets and liabilities in the public sector can be described as the",
+    "option": {
+      "a": "income and expenditure account of government",
+      "b": "appropriation account of government",
+      "c": "balance sheet of government",
+      "d": "funds flow statement of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 434,
     "question": "A company has departments X, Y and Z. Department X occupies a space twice that of Y while Z   occupies half the space of  Y. If the company pays N 70 000 on rent, what is the amount of rent that should be allocated to Y?",
     "option": {
@@ -7451,6 +7467,22 @@
     "section": "Use the information to answer question: Total current assets [N2,000 ]; Total fixed assets [N 4,000 ]; Current liabilities [N 1,200 ]; Drawings [N 200 ]; Long-term loan \t[N 2,000 ]",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 489,
+    "question": "What is the net working capital?",
+    "option": {
+      "a": "N 2,600",
+      "b": "N1,800",
+      "c": "N 800",
+      "d": "N 600"
+    },
+    "section": "Use the information to answer question: Total current assets [N2,000 ]; Total fixed assets [N 4,000 ]; Current liabilities [N 1,200 ]; Drawings [N 200 ]; Long-term loan \t[N 2,000 ]",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -11740,6 +11772,22 @@
     "image": "",
     "answer": "b",
     "solution": "To calculate closing stock, use the cost of goods sold formula and rearrange:\nCost of Goods Sold = Opening Stock + Purchases + Carriage Inwards - Closing Stock\nRearranging to find closing stock:\nClosing Stock = Opening Stock + Purchases + Carriage Inwards - Cost of Goods Sold\nClosing Stock = ₦98,800 + ₦706,000 + ₦17,500 - ₦740,700\nClosing Stock = ₦822,300 - ₦740,700 = ₦81,600\nTherefore, the closing stock for the period is ₦81,600.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 770,
+    "question": "Using the information provided: capital opening balance ₦307,000, closing balance ₦342,000, net profit for the period ₦121,600, purchases ₦706,000, carriage inwards ₦17,500, cost of goods sold ₦740,700, total selling, general and administration expenses ₦526,000, discount received ₦9,650, and opening stock ₦98,800, What is the gross profit for the period?",
+    "option": {
+      "a": "₦637,950",
+      "b": "₦628,300",
+      "c": " ₦647,600",
+      "d": "₦106,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the gross profit, first calculate sales from the given information, then subtract cost of goods sold.\nFrom the profit and loss relationship:\nNet Profit = Gross Profit - Operating Expenses + Other Income\n₦121,600 = Gross Profit - ₦526,000 + ₦9,650\nRearranging:\nGross Profit = ₦121,600 + ₦526,000 - ₦9,650 = ₦637,950\nAlternatively, using the gross profit formula:\nSales = Cost of Goods Sold + Gross Profit\nSales = ₦740,700 + Gross Profit\nFrom the net profit calculation:\nSales - ₦740,700 - ₦526,000 + ₦9,650 = ₦121,600\nSales = ₦1,378,650\nTherefore: Gross Profit = ₦1,378,650 - ₦740,700 = ₦637,950\nThe gross profit for the period is ₦637,950.RetryClaude can make mistakes. Please double-check responses. Sonnet 4",
     "examtype": "utme",
     "examyear": "2020"
   },
