@@ -256,6 +256,22 @@
     "examyear": "2007"
   },
   {
+    "id": 19,
+    "question": "A square tile measures 20cm by 20cm. How many of such tiles will cover a floor measuring 5m by 4m? ",
+    "option": {
+      "a": "500",
+      "b": "400",
+      "c": "320",
+      "d": "250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 20,
     "question": "The volume of a certain sphere is numerically equal to twice its surface area. The diameter of the sphere is: ",
     "option": {
@@ -4656,6 +4672,22 @@
     "examyear": "2004"
   },
   {
+    "id": 320,
+    "question": "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?",
+    "option": {
+      "a": "9000 tonnes",
+      "b": "6000 tonnes",
+      "c": "1500 tonnes",
+      "d": "1200tonnes"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710701186/ALOC-Questions/Mathematics/2004/math_2004_q49_lqap9i.jpg",
+    "answer": "d",
+    "solution": "beans angle = 360° - (60° + 90° + 150°)\n\n360° - 300° = 60°\n\n150° - 3000 tonnes\n\n60° - 60/150 x 3000 tonnes\n\n= 1,200 tonnes",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 321,
     "question": "the graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?",
     "option": {
@@ -4796,6 +4828,22 @@
     "image": "",
     "answer": "b",
     "solution": "((√12-√3))/((√12+√3))=(√(4×3)-√3)/(√(4×3)+√3)=(2√3-√3)/(2√3+√3)=√3/(3√3)=1/3",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 330,
+    "question": "The venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only?",
+    "option": {
+      "a": "19",
+      "b": "16",
+      "c": "15",
+      "d": "4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702000/ALOC-Questions/Mathematics/2005/math_2005_q9_qkzbd6.jpg",
+    "answer": "c",
+    "solution": "Two games played only = 5 + 7 + 3\n= 15",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -17312,6 +17360,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1229,
+    "question": "In the figure above, KL//NM, LN bisects < KNM. If angles KLN is 54o and angle MKN is 35°, calculate the size of angle KMN.",
+    "option": {
+      "a": " 91°",
+      "b": "89°",
+      "c": "37°",
+      "d": "19°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206803/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q44_tzglsu.jpg",
+    "answer": "c",
+    "solution": "In the diagram above, α\n = 54o(alternate angles; KL||MN) < KNM = 2α\n (LN is bisector of < KNM) = 108°\n\n35° + < KMN + 108° = 180°(sum of angles of △\n)\n\n< KMN + 143° = 180°\n\n< KMN = 180° - 143°\n\n= 37°",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1230,
     "question": "From the figure above, what is the value of p?",
     "option": {
@@ -18108,6 +18172,22 @@
     "image": "",
     "answer": "d",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1283,
+    "question": "The volume of a cone (s) of height 6cm and base radius 5cm is",
+    "option": {
+      "a": "157 cm<sup>3</sup>",
+      "b": "155 cm<sup>3</sup>",
+      "c": "175 cm<sup>3</sup>",
+      "d": "145 cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "V = ⅓ πr<sup>2</sup> h\n\nVolume of a cone (Vc) = ⅓ × 3.14 × (5)2 × 6\n\n= 156.9<sup>3</sup>\n\n157 cm<sup>3</sup>",
     "examtype": "utme",
     "examyear": "2015"
   },
