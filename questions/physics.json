@@ -7216,6 +7216,22 @@
     "examyear": "2021"
   },
   {
+    "id": 461,
+    "question": "A bar magnet is divided into two pieces, which of the following statement is correct?",
+    "option": {
+      "a": "two new magnets are created",
+      "b": "the magnetic field of each separate piece becomes stronger",
+      "c": "the electric field is created",
+      "d": "the bar magnet is demagnetized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When it is cut into two, the two cut pieces will have their own north and south poles.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 462,
     "question": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is?",
     "option": {
@@ -11868,6 +11884,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nDepth (h) = 500 m\nDensity of fluid (ρ) = 850 kg/m³\nAtmospheric pressure (P₀) = 1.05 × 10⁵ N/m²\ng = 10 m/s²\nPressure at bottom (P) = ?\n\nFormula for pressure at depth:\nP = P₀ + ρgh\nwhere:\n\nP₀ = atmospheric pressure\nρgh = pressure due to fluid column\n\nStep 1: Calculate pressure due to fluid column\nρgh = 850 × 10 × 500\nρgh = 850 × 5000\nρgh = 4,250,000 N/m²\nρgh = 4.25 × 10⁶ N/m²\nStep 2: Calculate total pressure at bottom\nP = P₀ + ρgh\nP = 1.05 × 10⁵ + 4.25 × 10⁶\nP = 0.105 × 10⁶ + 4.25 × 10⁶\nP = 4.355 × 10⁶ N/m²\nP ≈ 4.36 × 10⁶ N/m²",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 756,
+    "question": "A piece of iron weighs 250 N in air and 200 N in a liquid of density 1000 kgm⁻³. The volume of the iron is?",
+    "option": {
+      "a": "5.0 × 10⁻³ m³",
+      "b": " 4.5 × 10⁻³ m³",
+      "c": "2.5 × 10⁻³ m³",
+      "d": "2.0 × 10⁻³ m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nWeight in air (W_air) = 250 N\nWeight in liquid (W_liquid) = 200 N\nDensity of liquid (ρ) = 1000 kg/m³\ng = 10 m/s² (assumed)\nVolume of iron (V) = ?\n\nStep 1: Calculate upthrust (buoyant force)\nUpthrust = Weight in air - Weight in liquid\nUpthrust = 250 - 200 = 50 N\nStep 2: Use Archimedes' Principle\nUpthrust = Weight of liquid displaced\nUpthrust = ρVg\nwhere:\n\nρ = density of liquid\nV = volume of object (iron)\ng = acceleration due to gravity\n\nStep 3: Solve for volume\n50 = 1000 × V × 10\n50 = 10,000 × V\nV = 50/10,000\nV = 0.005 m³\nV = 5.0 × 10⁻³ m³",
     "examtype": "utme",
     "examyear": "2007"
   },
