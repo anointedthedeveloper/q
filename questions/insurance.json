@@ -368,6 +368,22 @@
     "examyear": "2014"
   },
   {
+    "id": 35,
+    "question": "Risk Net Insurance Brokers Limited placed a business with an insurance company, in return the broker will be entitled to",
+    "option": {
+      "a": "fees",
+      "b": "commission",
+      "c": "profit",
+      "d": "revenue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 36,
     "question": "The professional service required for effective claims administration by insurers would be provided by",
     "option": {
@@ -542,6 +558,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
+  },
+  {
+    "id": 53,
+    "question": "An insurance principle that requires the insured to be honest and disclose all relevant facts is called",
+    "option": {
+      "a": "subrogation",
+      "b": "utmost good faith",
+      "c": "proximate cause",
+      "d": "insurable interest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
   },
   {
     "id": 54,
@@ -1584,6 +1616,22 @@
     "examyear": "3"
   },
   {
+    "id": 159,
+    "question": "The price of insurance is known as",
+    "option": {
+      "a": "Rate",
+      "b": "Interest",
+      "c": "Premium",
+      "d": "Profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 160,
     "question": "The monetary consideration paid by the insured to the insurers for the insurance granted by the policy is called",
     "option": {
@@ -1643,6 +1691,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 164,
+    "question": "Change for the transportation of goods by water is called",
+    "option": {
+      "a": "Bill",
+      "b": "Ticket",
+      "c": "Freight",
+      "d": "Consideration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -1840,6 +1904,22 @@
     "examyear": "3"
   },
   {
+    "id": 182,
+    "question": "A professional officer of an insurance company whose duty among others is to calculate the premium to be \tpaid by the insured is called",
+    "option": {
+      "a": "Agent",
+      "b": "Principal",
+      "c": "Actuarist",
+      "d": "Adjuster"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 185,
     "question": "In insurance contract, failure to disclose all relevant material facts will render the contract",
     "option": {
@@ -1931,6 +2011,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 193,
+    "question": "A syndicate or an insurance company that transfer risk under re-insurance is",
+    "option": {
+      "a": "Cede",
+      "b": "Cession",
+      "c": "Commutation",
+      "d": "Cedant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -2432,6 +2528,22 @@
     "examyear": "4"
   },
   {
+    "id": 240,
+    "question": "One of these shows the introduction to the details of the insurance policy, parties as well as the premium for the contract",
+    "option": {
+      "a": "preamble",
+      "b": "heading",
+      "c": "exception",
+      "d": "condition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 242,
     "question": "A written amendment in addition or alterations to the information stated in the policy is called",
     "option": {
@@ -2587,6 +2699,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 261,
+    "question": "The settlement of disagreement between the insured and the insurer is called",
+    "option": {
+      "a": "litigation",
+      "b": "arbitration",
+      "c": "negotiation",
+      "d": "compromising"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
@@ -3104,6 +3232,22 @@
     "examyear": "2015"
   },
   {
+    "id": 316,
+    "question": "Educational endowment policy is designed to protect the interest of",
+    "option": {
+      "a": "father",
+      "b": "mother",
+      "c": "child",
+      "d": "uncle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 317,
     "question": "A clause in an insurance policy that makes a claim jointly payable to the policyholder and the third party is",
     "option": {
@@ -3147,6 +3291,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 322,
+    "question": "The  person  that   transfers  risks  to  the  insurance company is called",
+    "option": {
+      "a": "a broker",
+      "b": "an insured",
+      "c": "an underwriter",
+      "d": "a loss adjuster"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
