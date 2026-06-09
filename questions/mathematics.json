@@ -528,6 +528,22 @@
     "examyear": "2001"
   },
   {
+    "id": 151,
+    "question": "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1.",
+    "option": {
+      "a": "12π",
+      "b": "4π",
+      "c": "24π",
+      "d": " 8π"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Volume of sphere, V = 4/3 x πr<sup>3</sup>\nRate of change of V = dv/dr\nThus if V = 4/3 x πr<sup>3</sup>,\n=> dv/dr = 4πr<sup>2</sup>\n\nAt r = 1, Rate = 4 x π x 1 = 4π",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 157,
     "question": "If <sup>6</sup>P<sub>r</sub> = 6, find the value of If <sup>6</sup>P<sub>r+1</sub> ",
     "option": {
@@ -620,6 +636,22 @@
     "image": "",
     "answer": "a",
     "solution": "Let y = f(x).\n\nY = 3x + 4 ⟹ x = y−4/3\nReplace y with x.\n\nY = x−4/3",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 196,
+    "question": "If tan θ = 4/3, calculate sin<sup>2</sup> θ - cos<sup>2</sup> θ.",
+    "option": {
+      "a": "16/25",
+      "b": "24/25",
+      "c": "7/25",
+      "d": "9/25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "tan θ = opposite/adjacent = 4/3\n \nHyp<sup>2</sup> = 4<sup>2</sup>\n + 3<sup>2</sup>\nHyp = 5.\n\nsin θ = 4/5; cos θ = 3/5\nsin<sup>2</sup>θ − cos<sup>2</sup>θ = 16/25 −9/25\n= 7/25",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -796,6 +828,22 @@
     "image": "",
     "answer": "a",
     "solution": "Black balls = 5\nRed balls = 3/8\nP(B) = 5/8, P(R) = 3/8\nP( a Black and a Red) = BR + RB\n= (5/8) * (3/7) * (3/8) * (5/7)\n= (15/56) + (15/56)\n= 30/56\n= 15/28",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 264,
+    "question": "In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and ∠SPR = 40o. Find ∠PSQ",
+    "option": {
+      "a": "40°",
+      "b": "30°",
+      "c": "20°",
+      "d": "10°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699712/ALOC-Questions/Mathematics/2003/math_2003_q43_vwszv6.jpg",
+    "answer": "a",
+    "solution": "R = P (base ∠s of isc Δ, ps = RS)\n∴R = 40o\n∠PSQ = R (∠s in alternate segment)\n∴∠PSQ = 40°",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -1168,6 +1216,22 @@
     "examyear": "2006"
   },
   {
+    "id": 424,
+    "question": "The histogram above represents the weights of students who travelled out to their school for an examination. How many people made the trip?",
+    "option": {
+      "a": " 78",
+      "b": "38",
+      "c": "29",
+      "d": "69"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715544832/ALOC-Questions/Mathematics/2007/JAMB_2007_Q3_cugyix.jpg",
+    "answer": "c",
+    "solution": "students who made the trip = 2 + 3 + 4 + 5 + 6 + 8 + 1 = 29",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 439,
     "question": "Factorize 2t<sup>2</sup> + t - 15",
     "option": {
@@ -1180,6 +1244,22 @@
     "image": "",
     "answer": "b",
     "solution": "2t<sup>2</sup> + t - 15 = (2t-5)(t+3)",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 440,
+    "question": "Solve the inequalities -3(x - 2) < -2(x + 3)",
+    "option": {
+      "a": "x > 12",
+      "b": " x < 12",
+      "c": "x > -12",
+      "d": "x < - 12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "-3(x-3) < -2(x+3) = -3x + 6 < -2x - 6\n-3x + 2x < -6 - 6\n-x < - 12\nx > -12/-1\nx > 12",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -1212,6 +1292,22 @@
     "image": "",
     "answer": "d",
     "solution": "All the perfect squares < 40\nX = {1, 4, 9, 16, 25, 36}\nAll the odd numbers from 1 to 15\nY = {1, 3, 5, 7, 9, 11, 13, 15}\nX ∩ Y = {1, 9}",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 459,
+    "question": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus of P",
+    "option": {
+      "a": "It is a semi circle with ST as diameter",
+      "b": " It is a perpendicular bisector of St",
+      "c": "It is a quadrant of a circle with ST as diameter",
+      "d": "It is a straight line perpendicular to ST"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -1292,6 +1388,22 @@
     "image": "",
     "answer": "c",
     "solution": "30 + 45 + 60 + 90 + 2x + x = 360°\n225 + 3x = 360\n3x = 360 - 225\n3x = 135\nx = 45°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 516,
+    "question": "The result of rolling a fair die 150 times is as summarized in the table above. What is the probability of obtaining a 5",
+    "option": {
+      "a": "3/10",
+      "b": "1/5",
+      "c": " 1/6",
+      "d": " 1/10"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546346/ALOC-Questions/Mathematics/2008/MATH_2008_Q45_c23x6z.jpg",
+    "answer": "b",
+    "solution": "Total possible outcome\n12+18+x+30+2x+45 = 105+3x\nâˆ´105+3x = 150\n3x = 150-105\n3x = 45\nx = 15\nP(obtaining 5) =  2x/((105+3x)) Butx=15=(2(15))/((105+3(15)))=30/((105+45))=30/150=1/5",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -1424,6 +1536,22 @@
     "examyear": "2009"
   },
   {
+    "id": 558,
+    "question": "Evaluate ∫sec<sup>2</sup>θ dθ?",
+    "option": {
+      "a": "sec θ tan θ + k",
+      "b": " tan θ + k",
+      "c": "2sec θ + k",
+      "d": "sec θ + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "∫sec2θ dθ = ∫ 1/cos2 dθ\n∫(cos)-2 dθ,\nlet u = cos θ\n∴∫u-2 = 1/u + c\n∫cos θ = sin θ + c\n∫sec-2θ = 1/u sin θ + c\n= (sinθ / cosθ) + c\n= Tan θ + c",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 559,
     "question": "The distribution above shows the number of days a group of 260 students were absent from school in a particular term. How many students were absent for at least four days in the term?",
     "option": {
@@ -1484,6 +1612,22 @@
     "image": "",
     "answer": "a",
     "solution": "(2√3 + √5)/(√5 - √3)  = ((2√3+√5)/(√5-√3))((√5+√3)/(√5+√3)) = (2√15+6+5+√15)/(5-3) = (3√15+11)/2",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 579,
+    "question": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
+    "option": {
+      "a": "q = 18",
+      "b": "p <1",
+      "c": "p = 18",
+      "d": " q < 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If 18(p + q) = (18 + p)q\n\nthen 18p + 18q = 18q + pq\n\n18p = pq ⟹ q = 18.",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -1568,6 +1712,22 @@
     "examyear": "2010"
   },
   {
+    "id": 591,
+    "question": "The table above show the marks obtained in a given test.\nFind the mean mark",
+    "option": {
+      "a": "3.1",
+      "b": "3.0",
+      "c": "3.2",
+      "d": "3.3"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128511/ALOC-Questions/Mathematics/2010/MATH_2010_Q20_odkimk.jpg",
+    "answer": "d",
+    "solution": "Mean=∑fx∑f\n= 66/20\n= 3.3",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 612,
     "question": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5).",
     "option": {
@@ -1628,6 +1788,22 @@
     "image": "",
     "answer": "b",
     "solution": "2−√5/3−√5 x 3+√5/3+√5 ((2-√5)(3+√5))/((3-√5)(3+√5)) = (6+2√5-3√5-√2 5)/(9+3√5-3√5-√2 5) = (6-√5-5)/(9-5) = (1-√5)/4",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 630,
+    "question": "Raial has 7 different posters to be hanged in her bedroom, living room and kitchen. Assuming she has plans to place at least a poster in each of the 3 rooms, how many choices does she have?",
+    "option": {
+      "a": "49",
+      "b": "170",
+      "c": "21",
+      "d": "210"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The first poster has 7 ways to be arranges, the second poster can be arranged in 6 ways and the third poster in 5 ways.\n\n= 7 x 6 x 5\n\n= 210 ways\n\nor 7/P<sub>3</sub>\n = 7!/(7−3)!\n = 7!/4!\n\n\n= 7×6×5×4!/4!\n\n\n= 210 ways",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -1728,6 +1904,22 @@
     "examyear": "2012"
   },
   {
+    "id": 749,
+    "question": "If y = x<sup>2</sup>  - 1/x, find δy/δx",
+    "option": {
+      "a": "2x - 1/x<sup>2</sup> ",
+      "b": "2x + x<sup>2</sup> ",
+      "c": " 2x - x<sup>2</sup> ",
+      "d": "2x + 1x<sup>2</sup> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = x<sup>2</sup>  - 1/x\n\n\ny = x<sup>2</sup>  - x<sup>-1</sup> \n\nδy/δx = 2x + x<sup>-2</sup> \n\n\nδy/δx = 2x + 1/x<sup>2</sup> ",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 756,
     "question": "Evaluate <sup>n+1</sup>C<sub>n-2</sub> If n =15",
     "option": {
@@ -1756,6 +1948,22 @@
     "image": "",
     "answer": "d",
     "solution": "Man lives = 2/3\n not live = 1/3\n\n\nWife lives = 3/5\n not live = 2/5\nP(at least one lives to 80 years) = P(man lives to 80 not woman) + P(woman lives to 80 and not man) + P(both live to 80)\n\nP=(2/3 × 2/5) + (2/5 × 1/3) + (2/3 × 3/5)\n\n= 4/15 + 3/15 + 6/15\n\n\n= 13/15",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 765,
+    "question": "The bar chart above shows the distribution of marks in a class test. If the pass mark is 5, what percentage of students failed the test?",
+    "option": {
+      "a": "10%",
+      "b": "20%",
+      "c": " 50%",
+      "d": " 60%"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716130528/ALOC-Questions/Mathematics/2012/2012_MATH_JAMB_Q45_ef7qqi.jpg",
+    "answer": "c",
+    "solution": "Number that score less than 5: 5 + 6 + 4 + 3 + 2 = 20\n\nTotal number of students: 5 + 6 + 4 + 3 + 2 + 4 + 6 + 5 + 1 + 3 + 1 = 40.\n\n%age of students that failed: 20/40 × 100",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -1808,6 +2016,22 @@
     "examyear": "2013"
   },
   {
+    "id": 792,
+    "question": "Find the mean of t + 2, 2t - 4, 3t + 2 and 2t.",
+    "option": {
+      "a": "t + 1",
+      "b": "2t",
+      "c": " 2t + 1",
+      "d": "t"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "∑x\n  = (t + 2) + (2t + 4) + (3t + 2) + 2t = 8t\n\nN = 4\n\n∴ Mean, x = ∑xN=8t4=2t\n\n\n= 2t",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 794,
     "question": "Calculate the median age of the frequency distribution in the table above",
     "option": {
@@ -1836,6 +2060,38 @@
     "image": "",
     "answer": "b",
     "solution": "Let δ<sup>2</sup> and δ denote the variance and standard deviation of the distribution respectively.\n\nBut δ<sup>2</sup> = 4 (given)\n\nHence δ = √4 = 2",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 800,
+    "question": "A basket contains 9 apples, 8 bananas and 7 oranges. A fruit is picked from the basket, find the probability that it is neither an apple nor an orange.\n",
+    "option": {
+      "a": "3/8",
+      "b": "1/3",
+      "c": "7/24",
+      "d": "2/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "n(apples) = 9\nn(bananas) = 8\nn(oranges) = 7\n\nn(ε) = 24\n\nHence Prob(not apple, nor orange) = Prob(banana) = 8/24\n = 1/3",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 807,
+    "question": "A square tile has side 30 cm. How many of these tiles will cover a rectangular floor of length 7.2m and width 4.2m?",
+    "option": {
+      "a": "720",
+      "b": "336",
+      "c": "420",
+      "d": "576"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Length of the tile = 30 cm = 0.3m\n\nArea of the tile = 0.3 ×\n 0,3 = 0.09 m<sup>2</sup>\nArea of the room = (7.2 × 4.2)m<sup>2</sup>\nNumber of tiles = 7.2×4.2/0.09\n= 336",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -2480,6 +2736,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1035,
+    "question": "Find the gradient of the line passing through the points (-2, 0) and (0, -4) ",
+    "option": {
+      "a": "-2",
+      "b": "-4",
+      "c": "-2",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given (-2, 0) ans (0, -4).\n\nGradient = y<sub>2</sub>−y<sub>1</sub>/x<sub>2</sub> − x<sub>1</sub>\n\n= (−4−0)/(0−(−2))\n= −4/2\n \n= -2",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1045,
     "question": "If x is positive real number, find the range of values for which 1/3x + 1/2 > 1/4x\n ",
     "option": {
@@ -2540,6 +2812,22 @@
     "image": "",
     "answer": "b",
     "solution": "y = 2x<sup>2</sup>(2x - 1)\ny = 4x<sup>3</sup> - 2x<sup>2</sup>\n\ndy/dx = 12x<sup>2</sup>\n - 4x\nat x = -1\ndy/dx = 12(-1)<sup>2</sup>\n - 4(-1)\n= 12 + 4\n= 16",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1066,
+    "question": "Correct 241.34(3 x 10<sup>-3</sup>\n)2<sup>2</sup>\n to 4 significant figures",
+    "option": {
+      "a": "0.0014",
+      "b": "0.001448",
+      "c": "0.0022",
+      "d": "0.002172"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "first work out the expression and then correct the answer to 4 s.f = 241.34..............(A)\n\n(3 x 10<sup>-3</sup>)<sup>2</sup>............(B)\n\n= 3<sup>2</sup>x<sup>2</sup>\n\n\n= 1/10<sup>3</sup>\n x 1/10<sup>3</sup>\n\n\n(Note that x<sup>2</sup> = 1/x<sup>3</sup>)\n\n= 24.34 x 3<sup>2</sup> x 1/10<sup>6</sup>\n\n\n= 2172.06/10<sup>6</sup>\n\n\n= 0.00217206\n\n= 0.002172(4 s.f)",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2748,6 +3036,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007628/ALOC-Questions/Mathematics/2022/JAMB_MATH_2022_Q39_tjnbuv.jpg",
     "answer": "c",
     "solution": "x ≥ 2 is represented by an arrow with an filled-in dot above the 2.\n\nThe arrow points in the direction of all the numbers that are greater than 2.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1136,
+    "question": "If a dress is sold for #3800.00 at 20% discount. what is its original price?",
+    "option": {
+      "a": "#3,000.00",
+      "b": "#4,000.00",
+      "c": " #5,000.00",
+      "d": " #4,750.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "It is given that the cost of the item reduces to #3800.00 after the discount on the item.\n\nLet original price = x\n\nx – (20% of x) = 100\n\n⇒ x – 0.2x = 100\n\n⇒ 0.8x = #3800\n\n⇒ x = 3800/0.8\n⇒ x = 4,750",
     "examtype": "utme",
     "examyear": "2022"
   },
