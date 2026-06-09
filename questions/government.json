@@ -1648,6 +1648,22 @@
     "examyear": "2000"
   },
   {
+    "id": 225,
+    "question": "The appointment, promotion and discipline of civil servants are the responsibility of the",
+    "option": {
+      "a": "Civil Service Union",
+      "b": "Judicial Service Commission",
+      "c": "Civil Service Commission",
+      "d": "Electoral Commission."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 226,
     "question": "Red tapism in the civil service refers to",
     "option": {
@@ -2619,6 +2635,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 364,
+    "question": "A constitution of any country is basically",
+    "option": {
+      "a": "a mere piece of paper",
+      "b": "a guide to how the country should be governed",
+      "c": "a document stating what the leaders should do",
+      "d": "a document stating how to power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -4048,6 +4080,22 @@
     "examyear": "2013"
   },
   {
+    "id": 557,
+    "question": "Membership of a society is",
+    "option": {
+      "a": "conventional",
+      "b": "mandatory",
+      "c": "voluntary",
+      "d": "constitutional"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 558,
     "question": "In a democratic political system, the political sovereign is usually the",
     "option": {
@@ -4832,6 +4880,38 @@
     "examyear": "1989"
   },
   {
+    "id": 676,
+    "question": "A unified - local government system was adopted in Nigeria under the",
+    "option": {
+      "a": "Tafawa Balewa administration",
+      "b": "Yakubu Gowon administration",
+      "c": "Shehu Shagari administration",
+      "d": "Murtala / Obasanjo administration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 679,
+    "question": "The process of depriving persons of the right of voting is known as",
+    "option": {
+      "a": "enfranchisement",
+      "b": "disqualification",
+      "c": "dismissal",
+      "d": "disenfranchisement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 680,
     "question": "The predominant influence of Northern Nigeria in the First Republic violated the federal principle of",
     "option": {
@@ -4955,6 +5035,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 691,
+    "question": "According to Marxist theory, those who own and control the means of production in a capitalist society are",
+    "option": {
+      "a": "exploiters",
+      "b": "colonialists",
+      "c": "workers",
+      "d": "bourgeoisie"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
@@ -5840,6 +5936,22 @@
     "examyear": "2018"
   },
   {
+    "id": 811,
+    "question": " Which of the following countries had a strained relationship with Nigeria over the Angolan crisis of 1975?",
+    "option": {
+      "a": "The Soviet Union",
+      "b": "Tanzania",
+      "c": "The United States of America",
+      "d": "South Africa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nigeria opposed U.S. policy on the Angolan crisis, as Nigeria supported the MPLA while the U.S. backed UNITA.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 813,
     "question": "Which of these international organisations is the predecessor of the United Nations?",
     "option": {
@@ -6012,6 +6124,22 @@
     "image": "",
     "answer": "b",
     "solution": "The independence of the judiciary means that the courts must be free from interference by the executive and legislative arms of government. This ensures that judges make decisions based on law and justice, not political pressure or external influence.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 831,
+    "question": "The political party serves as________",
+    "option": {
+      "a": " A platform upon which the rights and liberties of the people can be attained",
+      "b": "The group aggregating the interest of all in the state",
+      "c": "A platform for rebelling against military rule",
+      "d": "A platform for interest representation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A political party primarily serves as a platform for interest representation by:\n\nOrganizing and representing the views and interests of different groups in society.\nCompeting for political power through elections.\nInfluencing government policies in favor of their supporters.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -7276,6 +7404,22 @@
     "image": "",
     "answer": "a",
     "solution": "Ivory was a significant trade commodity in the pre-colonial Kingdom of Benin. The Kingdom of Benin, located in modern-day Nigeria, was known for its ivory carvings, which were traded with European merchants.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1022,
+    "question": "__________ was a major factor that contributed to the rise of the Sokoto Caliphate.",
+    "option": {
+      "a": "Agricultural revolution.",
+      "b": "Slave trade",
+      "c": "European colonization",
+      "d": " Islamic Jihad"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Islamic Jihad was a major factor that contributed to the rise of the Sokoto Caliphate. The Sokoto Caliphate was an Islamic state in what is now northern Nigeria, led by Usman dan Fodio, who led a jihad to spread Islam in the region.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -8832,6 +8976,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1226,
+    "question": "The military Head of State during the Third Republic was",
+    "option": {
+      "a": "General Olusegun Obasanjo",
+      "b": "General Ibrahim Babangida",
+      "c": "General Murtala Muhammed",
+      "d": "General Sani Abacha"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The military Head of State during the Third Republic was General Ibrahim Babangida.\n\nThe regime established two political parties, NRC and SDP. All the states had elected governors as well as state legislators. Every local government in the country was also run by elected chairmen and Councillors. That was the time Ibrahim Babangida took up the name ''Mr President.''",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1227,
     "question": "In the First Republic,politics in the Northern region was dominated by the",
     "option": {
@@ -9344,6 +9504,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1291,
+    "question": "The difference between commercialized and privatized companies is that in the former",
+    "option": {
+      "a": "public ownership is dominant",
+      "b": "government subsidizes costs",
+      "c": "profit motive is recessive",
+      "d": "private ownership is dominant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The difference between commercialized and privatized companies is that in the former public ownership is dominant",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1292,
     "question": "The immediate cause of the January 15 1966 military coup in Nigeria was the",
     "option": {
@@ -9804,6 +9980,22 @@
     "image": "",
     "answer": "c",
     "solution": "\"Equality before the law\" is a core component of the rule of law, which ensures that all individuals and institutions—including the government—are subject to and accountable under the law. This principle mandates that laws are applied impartially, without favoritism or discrimination based on status, wealth, or power.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1357,
+    "question": "An example of promotional pressure group is the",
+    "option": {
+      "a": "Supreme Council for Islamic Affairs",
+      "b": "Nigerian Medical Association",
+      "c": "Civil Liberties Organisation",
+      "d": " Manufacturers Association of Nigeria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Promotional pressure groups are primarily focused on advocating for a specific cause or value system rather than representing economic or professional interests. The Civil Liberties Organisation is known for campaigning to promote human rights and civil liberties in Nigeria, making it a clear example of a promotional pressure group. By contrast, the Nigerian Medical Association and Manufacturers Association of Nigeria represent professional and economic interests respectively, while the Supreme Council for Islamic Affairs functions more as a religious advisory body.",
     "examtype": "utme",
     "examyear": "2008"
   },
