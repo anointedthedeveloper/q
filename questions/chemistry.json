@@ -128,6 +128,22 @@
     "examyear": "2002"
   },
   {
+    "id": 59,
+    "question": "25cm3 of a 0.2mol dm-3 solution of Na2CO3 requires 20cm3 of  solution of HCl for neutralization. The concentration of the solution is",
+    "option": {
+      "a": "0.6 mol dm-3",
+      "b": "0.5 mol dm-3",
+      "c": "0.4 mol dm-3",
+      "d": "0.2 mol dm-3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 62,
     "question": "The processes which return carbon(IV) oxide to the atmosphere include",
     "option": {
@@ -2332,6 +2348,22 @@
     "image": "",
     "answer": "a",
     "solution": "Only metals above hydrogen in the reactivity series can displace hydrogen from water or steam. Iron is sufficiently reactive to liberate hydrogen from steam at high temperatures: 3Fe + 4H₂O → Fe₃O₄ + 4H₂. Copper, tin, and lead are all below or at the level of hydrogen in the reactivity series and cannot liberate hydrogen from steam.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 650,
+    "question": "Zn + 2HCl → ZnCl₂ + H₂. What happens to zinc in the above reaction?",
+    "option": {
+      "a": "oxidized",
+      "b": "a reactant",
+      "c": "reduced",
+      "d": "a metal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In this reaction, zinc (Zn) goes from an oxidation state of 0 in the element to +2 in ZnCl₂. A loss of electrons and an increase in oxidation number constitutes oxidation. Zinc is therefore oxidised. Hydrogen simultaneously goes from +1 in HCl to 0 in H₂ gas, meaning hydrogen is reduced. Zinc is the reducing agent.",
     "examtype": "utme",
     "examyear": "2022"
   },
