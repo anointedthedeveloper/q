@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 2,
+    "question": "A girl walks 30m from a point P on  a bearing of 040 to a point Q. she   then walks 30m on a bearing of 140 to a point R. the bearing of R from P is ",
+    "option": {
+      "a": "90",
+      "b": "50 ",
+      "c": "45",
+      "d": "40"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 3,
     "question": "How many different three digit numbers can be formed using the integers 1 to 6 if no integer 1 to 6 if no integer occurs twice in a number? ",
     "option": {
@@ -5248,6 +5264,22 @@
     "examyear": "2005"
   },
   {
+    "id": 344,
+    "question": "A sector of a circle has an area of 55 cm<sup>2</sup> . If the radius of the circle is 10 cm, calculate the angle of the sector\n[π = 22/7]",
+    "option": {
+      "a": "45°",
+      "b": "63°",
+      "c": "75°",
+      "d": "90°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "θ/360×πr<sup>2</sup>.  55=θ/360×22/7×(10×10)/1. θ=(360×55×7)/(22×10×10). θ = 63°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 345,
     "question": "Find the curved surface area of a cone with circular base diameter 10 cm and height 12 cm",
     "option": {
@@ -7596,6 +7628,22 @@
     "image": "",
     "answer": "b",
     "solution": "3X + 2Y + 1 = 0\n2Y = -3X - 1\n−3/2X−1/2\nGradient of 3X + 2Y +1 = 0 is -3/2\nGradient of a line perpendicular to 3X + 2Y + 1 = 0\n=−1÷3/2 = −1 × −2/3 =2/3",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 502,
+    "question": "Find the derivative of y=x<sup>7</sup> −x<sup>7</sup>/ x<sup>4</sup> ",
+    "option": {
+      "a": " x(x<sup>2</sup> -1)",
+      "b": "3x(x<sup>2</sup> -1)",
+      "c": "3x<sup>2</sup> -1",
+      "d": "7x<sup>6</sup> -5x<sup>4</sup> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y=(x<sup>7</sup> -x<sup>5</sup> )/x<sup>4</sup>.   y=x<sup>7</sup> /x<sup>4</sup>  ÷ x<sup>5</sup> /x<sup>4</sup>.   y=x<sup>3</sup> -x. dy/dx=3x<sup>2</sup> -1",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -12204,6 +12252,22 @@
     "image": "",
     "answer": "a",
     "solution": "y = 3x<sup>3</sup>  + 2x<sup>2</sup>  + 3x + 1\ndy/dx = 9x<sup>2</sup>  + 4x + 3",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 856,
+    "question": "Evaluate ∫\n(sinx - 5x<sup>2</sup>)dx",
+    "option": {
+      "a": " -cosx - 10x + k",
+      "b": "cosx - 5x<sup>3</sup>/3\n + k",
+      "c": "-cosx - 5x<sup>3</sup>/3 + k",
+      "d": "cosx - 10x + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫ (sin x - 5x<sup>2</sup>) = -cosx - 5x<sup>3</sup>/3 + k",
     "examtype": "utme",
     "examyear": "2016"
   },
