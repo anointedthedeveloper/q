@@ -1,5 +1,53 @@
 [
   {
+    "id": 15,
+    "question": "A coil of copper wire of N turns is kept rotating between the poles of a magnet  such that the magnetic flux linking the coil changes continuously. Which of the  following statements is TRUE? ",
+    "option": {
+      "a": "An e.m.f is induced in the coil such that when  the change of flux is positive the e.m.f is positive, and when the change of flux is negative the e.m.f is negative. ",
+      "b": "An e.m.f is induced in the coil whose magnitude  is inversely proportional to both the number of turns in the coil and the rate of  change of magnetic flux ",
+      "c": ". An e.m.f is set up in the permanent magnet which  reduces the flux in the coil to zero ",
+      "d": "A current flows in the coil and e.m.f is set  up proportional to both the rate of change of the flux and the number of turns"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 16,
+    "question": "The principle of operation of an induction coil is based on ",
+    "option": {
+      "a": "Ohm’s law ",
+      "b": "Ampere’s Law ",
+      "c": "Faraday’s Law ",
+      "d": "Coulomb’s Law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 18,
+    "question": "The half-life of a radioactive element is 9 days. What fraction of atoms has decayed in 36 days? ",
+    "option": {
+      "a": "16-Jan",
+      "b": "¼ ",
+      "c": " ½ ",
+      "d": "15/16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 39,
     "question": "The electromagnetic waves that are sensitive to temperature changes are",
     "option": {
@@ -96,6 +144,38 @@
     "examyear": "2015"
   },
   {
+    "id": 181,
+    "question": "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will",
+    "option": {
+      "a": "Be a straight line",
+      "b": "Curve inwards",
+      "c": "Be a parabola",
+      "d": "Curve outwards"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a charged particle moves parallel to a magnetic field, it experiences no magnetic force and continues in a straight line.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 192,
+    "question": "The rate of cooling of a heated quantity of liquid in an enclosure depends on the",
+    "option": {
+      "a": "Pressure of the liquid",
+      "b": "Temperature in the enclosure",
+      "c": "Pressure of the enclosure",
+      "d": "Volume of the liquid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The rate of cooling depends on the temperature in the enclosure (the surrounding temperature).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 198,
     "question": "A saturated vapour pressure of a liquid increases when the",
     "option": {
@@ -128,6 +208,22 @@
     "examyear": "2017"
   },
   {
+    "id": 263,
+    "question": "It is known that a neutron exists in a light atomic nucleus\nWhich of the following also exists in the nucleus?",
+    "option": {
+      "a": "An electron",
+      "b": "A β - particle",
+      "c": " β - particle",
+      "d": "proton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Protons exist in the atomic nucleus along with neutrons. Together they form the nucleus, while electrons orbit outside.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 270,
     "question": "What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh?",
     "option": {
@@ -140,6 +236,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nSeven 40W lamps\nFive 80W lamps\nTime = 12 hours\nCost per kWh = N7.00\nTotal cost = ?\n\nStep 1: Calculate total power\nPower from 40W lamps = 7 × 40 = 280W\nPower from 80W lamps = 5 × 80 = 400W\nTotal power = 280 + 400 = 680W = 0.68kW\nStep 2: Calculate energy consumed\nEnergy = Power × Time\nEnergy = 0.68kW × 12 hours\nEnergy = 8.16 kWh\nStep 3: Calculate total cost\nCost = Energy × Rate\nCost = 8.16 × N7.00\nCost = N57.12",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 272,
+    "question": "Calculate the time taken for a mango fruit that falls from a tree 20m to the ground [g = 10 ms⁻²]",
+    "option": {
+      "a": "10s",
+      "b": "5s",
+      "c": "4s",
+      "d": "2s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nHeight (h) = 20 m\nInitial velocity (u) = 0 m/s (dropped from rest)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing equation of motion:\nh = ut + ½gt²\nSince u = 0:\nh = ½gt²\nRearranging:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 20/10)\nt = √(40/10)\nt = √4\nt = 2 seconds",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -272,6 +384,22 @@
     "examyear": "2020"
   },
   {
+    "id": 418,
+    "question": "A stone is thrown vertically upward with an initial velocity of 30 m/s from the top of a building. If the stone takes 8 seconds to reach the ground, what is the height of the building? [Take g = 10 m/s²]",
+    "option": {
+      "a": "80 m",
+      "b": "100 m",
+      "c": "120 m",
+      "d": " 160 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInitial velocity (u) = 30 m/s (upward, positive)\nTime to reach ground (t) = 8 seconds\nAcceleration due to gravity (g) = -10 m/s² (downward, negative)\nHeight of building (h) = ?\n\nUsing equation of motion:\ns = ut + ½at²\nwhere s is the displacement from starting point (negative when below starting point)\nStep 1: Calculate displacement\nSince the stone ends up below the starting point (at ground level):\ns = ut + ½gt²\ns = 30(8) + ½(-10)(8)²\ns = 240 + ½(-10)(64)\ns = 240 - 320\ns = -80 m\nStep 2: Interpret the result\nThe negative sign indicates the stone is 80 m below the starting point (top of building).\nTherefore, the height of the building = 80 m",
+    "examtype": "utme",
+    "examyear": ""
+  },
+  {
     "id": 426,
     "question": "A given mass of gas has a pressure of 80 Nm⁻² at a temperature of 47°C. If the temperature is reduced to 27°C with volume remaining constant, the new pressure is?",
     "option": {
@@ -336,6 +464,38 @@
     "examyear": "2021"
   },
   {
+    "id": 458,
+    "question": "An astronomical telescope is said to be in normal adjustment when the?",
+    "option": {
+      "a": "eye is accommodated",
+      "b": "focal length of an object lens is longer than that of eye piece",
+      "c": " final image is at the near point of eye",
+      "d": "final image is at infinity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A normal arrangement is an arrangement where the principal focus of objective coincides with the eyepiece so that the final image is at infinity ",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 462,
+    "question": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is?",
+    "option": {
+      "a": " 0.1 cm⁻¹",
+      "b": "10 cm⁻¹",
+      "c": " 1.0 cm⁻¹",
+      "d": "2 cm⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given wave equation:\ny = 5 mm sin[1 cm⁻¹x - 60 s⁻¹t]\nStandard form of wave equation:\ny = A sin(kx - ωt)\nwhere:\n\nA = amplitude\nk = wave number\nω = angular frequency\nx = position\nt = time\n\nComparing given equation with standard form:\ny = 5 mm sin[1 cm⁻¹x - 60 s⁻¹t]\ny = A sin(kx - ωt)\nIdentifying parameters:\n\nAmplitude (A) = 5 mm\nWave number (k) = 1 cm⁻¹\nAngular frequency (ω) = 60 s⁻¹\n\nThe coefficient of x in the wave equation is the wave number.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 465,
     "question": "Tyres are treaded to?",
     "option": {
@@ -364,6 +524,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Recall Hooke's Law\nFor an elastic material:\nF = kX\nWhere:\n\nF = restoring force\nk = force constant (spring constant)\nX = extension\n\nStep 2: Derive potential energy\nPotential energy stored in an elastic string is the work done in stretching it:\nE = ∫F dx\nE = ∫kx dx (from 0 to X)\nStep 3: Integrate\nE = k∫x dx (from 0 to X)\nE = k[x²/2]₀ˣ\nE = k(X²/2 - 0)\nE = ½kX²",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 483,
+    "question": "Water is not a good thermometric liquid because it?",
+    "option": {
+      "a": "expands unevenly between 0 ºC and 4 ºC",
+      "b": "maintains fixed density",
+      "c": "has low freezing point",
+      "d": "wets glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Water's anomalous expansion between 0 ºC and 4 ºC (where it contracts instead of expands) makes it unsuitable as a thermometric liquid. A thermometer requires uniform, predictable expansion throughout its temperature range for accurate measurements.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -416,6 +592,22 @@
     "examyear": "2023"
   },
   {
+    "id": 543,
+    "question": "The branch of physics that deals with the motion of objects and the forces acting on them is called:",
+    "option": {
+      "a": "Electromagnetism",
+      "b": "Thermodynamics",
+      "c": "Mechanics",
+      "d": "Quantum mechanics"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mechanics is the branch of physics that deals with the motion of objects and the forces acting on them. It is the foundation of all other branches of physics, and it is used to study everything from the motion of planets to the motion of electrons.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 565,
     "question": "Electrolysis can be investigated using ",
     "option": {
@@ -446,6 +638,22 @@
     "solution": "Teapots are often silver-coated to prevent heat loss by reflecting infrared radiation. Silver is a good reflector of thermal radiation, which helps to minimize heat loss from the teapot, keeping the contents warm for a longer period.",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 650,
+    "question": "Marching soldiers crossing a suspension bridge are usually advised to break their steps to avoid damaging the bridge owing to",
+    "option": {
+      "a": "oscillation",
+      "b": "resonance",
+      "c": "swinging",
+      "d": "vibration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When soldiers march in synchronized steps across a suspension bridge, their footsteps create periodic forces at a specific frequency (the marching cadence). If this frequency matches or is close to the natural frequency of the bridge, a phenomenon called resonance occurs, where the amplitude of the bridge's oscillations increases dramatically with each successive step. This amplification can lead to dangerous vibrations that may cause structural damage or even collapse of the bridge. By breaking their steps (marching out of sync), soldiers prevent the establishment of a regular periodic force, thus avoiding the resonance condition. Historical examples like the Tacoma Narrows Bridge collapse demonstrate the destructive power of resonance in structures. While oscillation, swinging, and vibration are general terms for back-and-forth motion, resonance specifically describes the dangerous amplification effect that occurs when the driving frequency matches the natural frequency of the system.",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 670,
@@ -512,6 +720,22 @@
     "examyear": "2006"
   },
   {
+    "id": 721,
+    "question": "The component of vector X along the direction of vector Y is zero when",
+    "option": {
+      "a": "X and Y are in opposite directions to each other",
+      "b": " X is at an angle of 45° to Y",
+      "c": "X is perpendicular to Y",
+      "d": "X and Y are parallel to each other"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The component of vector X along vector Y is given by |X|cosθ, where θ is the angle between them. This component becomes zero when cosθ = 0, which occurs at θ = 90°. Therefore, the component is zero only when X is perpendicular to Y",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 724,
     "question": "The energy associated with the emitted photon when a mercury atom changes from one state to another is 3.3 eV. Calculate the frequency of the photon. [e = 1.6 × 10⁻¹⁹C; h = 6.6 × 10⁻³⁴Js]",
     "option": {
@@ -528,6 +752,54 @@
     "examyear": "2006"
   },
   {
+    "id": 738,
+    "question": "A conductor has a diameter of 1.00 mm and length 2.00m. if the resistance of the material is 0.1Ω, its resistivity is?",
+    "option": {
+      "a": "2.55 × 10⁵ Ω m",
+      "b": "2.55 × 10² Ω m",
+      "c": "3.93 × 10⁻⁶ Ω m",
+      "d": "3.93 × 10⁻⁸ Ω m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Diameter, d = 1.00 mm = 1.00 × 10⁻³ m\nLength, L = 2.00 m\nResistance, R = 0.1 Ω\n\nSolution:\n\nStep 1: Compute cross‑sectional area\nA = πd²/4 = π × (1.00 × 10⁻³)² / 4 = π × 10⁻⁶ / 4 ≈ 7.854 × 10⁻⁷ m²\n\nStep 2: Resistivity formula\nρ = R × A / L\n\nStep 3: Substitute values\nρ = 0.1 Ω × 7.854 × 10⁻⁷ m² / 2.00 m\n= 0.1 × 3.927 × 10⁻⁷ Ω m\n= 3.927 × 10⁻⁸ Ω m ≈ 3.93 × 10⁻⁸ Ω m",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 750,
+    "question": "The unit of moment of a couple can be expressed in?",
+    "option": {
+      "a": "N m⁻¹",
+      "b": "N m⁻²",
+      "c": "N m",
+      "d": "N m²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Understanding moment of a couple:\nA couple consists of two equal and opposite parallel forces separated by a perpendicular distance.\nMoment of a couple:\nMoment = Force × Perpendicular distance between forces\nDetermining the unit:\nFormula:\nMoment of couple = F × d\nwhere:\n\nF = Force (measured in Newtons, N)\nd = Distance (measured in meters, m)\n\nUnit calculation:\nUnit = N × m = Nm (Newton-meter)",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 761,
+    "question": "I. Mass\nII. Density\nIII. Temperature\nIV. Nature of substance\n\n\nwhich of the above affect diffusion?",
+    "option": {
+      "a": " I and II only",
+      "b": "I,II and IV only",
+      "c": "II, III and IV only",
+      "d": " I, II, III and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Diffusion rates of a substance generally depend on mass, density, and temperature. and nature of substances I II, III, and IV",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 785,
     "question": "from the diagram above, the inductive reactance and the resistance R are respectively",
     "option": {
@@ -540,6 +812,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431541/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_36_mzam4o.png",
     "answer": "d",
     "solution": "The inductive reactance is given as\nXl = 2πfl\n= 2 x 50/π x 0.1\n= 10Ω\nAgain from ohms law,\nR = V/I = 75/1.5 = 50Ω\n∴ Thus the inductive reactance and the resistance are respectively 10Ω, and 50Ω",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 786,
+    "question": "118.8 cm² surface of the copper cathode of a voltameter is to be coated with 10⁻⁶ m thick copper of density 9 × 10³ kg m⁻³. How long will the process run with 10 A constant current?\n[3.3 × 10⁻⁷ kg C⁻¹]",
+    "option": {
+      "a": " 0.54 min",
+      "b": "10.8 min",
+      "c": "15.0 min",
+      "d": "20.0 min"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nSurface area (A) = 118.8 cm² = 118.8 × 10⁻⁴ m² = 0.01188 m²\nThickness (t) = 10⁻⁶ m\nDensity of copper (ρ) = 9 × 10³ kg/m³\nCurrent (I) = 10 A\nElectrochemical equivalent (Z) = 3.3 × 10⁻⁷ kg/C\nTime = ?\n\nStep 1: Calculate volume of copper to be deposited\nVolume = Area × Thickness\nV = 0.01188 × 10⁻⁶\nV = 1.188 × 10⁻⁸ m³\n\nStep 2: Calculate mass of copper required\nMass = Density × Volume\nm = ρV\nm = 9 × 10³ × 1.188 × 10⁻⁸\nm = 10.692 × 10⁻⁵\nm = 1.0692 × 10⁻⁴ kg\n\nStep 3: Use Faraday's law of electrolysis\nMass deposited: m = ZIt\nRearranging for time:\nt = m/(ZI)\nSubstituting values:\nt = (1.0692 × 10⁻⁴)/(3.3 × 10⁻⁷ × 10)\nt = (1.0692 × 10⁻⁴)/(3.3 × 10⁻⁶)\nt = 1.0692/3.3 × 10⁻⁴⁺⁶\nt = 0.324 × 10²\nt = 32.4 seconds\n\n\nConverting to minutes: 32.4/60 = 0.54 minutes",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -624,6 +912,22 @@
     "examyear": "2009"
   },
   {
+    "id": 865,
+    "question": "It is observed that water will wet a clean glass because the?",
+    "option": {
+      "a": "cohesion of water to glass is stronger than the cohesion of water molecules",
+      "b": "adhesion of water molecules is weaker than the cohesion of water to glass",
+      "c": " cohesion of water to glass is weaker than the cohesion of water molecules",
+      "d": "adhesion of water molecules is stronger than the cohesion of water molecules"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When the adhesion of liquid molecules to the glass is more than the cohesion of the liquid, the liquid will wet glass.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 867,
     "question": "Metal cables are used as telephone wires because?",
     "option": {
@@ -636,6 +940,22 @@
     "image": "",
     "answer": "d",
     "solution": "The speed of sound is highest in solid.\n\nMetals (solids) like copper, steel rod, etc",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 884,
+    "question": "When a pentavalent impurity is added to a pure semiconductor, it becomes?",
+    "option": {
+      "a": "a p-type semiconductor",
+      "b": "an n-type semiconductor",
+      "c": "an insulator",
+      "d": "an intrinsic semi-conductor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a pentavalent (5 outer electron)atom is added to a pure semiconductor, there is an extra electrons which does not take part in the covalent bonding resulting in an n-type semiconductor.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -656,6 +976,70 @@
     "examyear": "2010"
   },
   {
+    "id": 937,
+    "question": "Two metals P and Q of length l1 and l2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of lengths is 3:4. What is the ratio of increase in length of P to Q?",
+    "option": {
+      "a": "7:5",
+      "b": "5:7",
+      "c": "1:2",
+      "d": "2:1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nRatio of linear expansivities, α₁ / α₂ = 2 / 3\nRatio of original lengths, l₁ / l₂ = 3 / 4\nTemperature change Δθ is the same for both.\n\nSolution:\n\nStep 1: Formula for increase in length\nIncrease in length Δl = α l Δθ\n\nStep 2: Ratio of increases\nΔl₁ / Δl₂ = (α₁ l₁ Δθ) / (α₂ l₂ Δθ) = (α₁ / α₂) × (l₁ / l₂)\n\nStep 3: Substitute given ratios\nΔl₁ / Δl₂ = (2/3) × (3/4) = 6 / 12 = 1 / 2\n\nFinal Answer:\nThe ratio of increase in length of P to Q is 1:2.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 971,
+    "question": "I. Change of state\nII. Diffusion\nIII. Radiation\nIV. Osmosis\nWhich of the processes above can be explained using the kinetic theory?",
+    "option": {
+      "a": "I, II, III and IV",
+      "b": " I, II and III",
+      "c": "I, III and IV",
+      "d": " I, II and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The processes that can be explained using kinetic theory are change of state (I), diffusion (II), and osmosis (IV). Radiation (III) involves electromagnetic waves and requires different theoretical frameworks beyond simple kinetic theory of particles.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 981,
+    "question": "Under which of the following conditions do gases conduct electricity?",
+    "option": {
+      "a": "Low presssure and low p.d",
+      "b": "ow pressure and high p.d",
+      "c": "high pressure an low p.d",
+      "d": "high pressure and high p.d"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Under high potential difference and low pressure gases are good conductor of electricity",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 983,
+    "question": "Which of the following materials has an increase in resistance with temperature?",
+    "option": {
+      "a": "water",
+      "b": "metals",
+      "c": "wood",
+      "d": "electrolyte"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Metals have an increase in resistance with temperature due to increased atomic vibrations that scatter conducting electrons more frequently.\nPractical example: This is why incandescent light bulb filaments (tungsten metal) have much higher resistance when hot and glowing than when cold.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 984,
     "question": "The bond between silicon and germanium is",
     "option": {
@@ -668,6 +1052,22 @@
     "image": "",
     "answer": "a",
     "solution": "The bond between silicon and germanium is covalent because both are metalloids from the same group with similar electronegativity values, leading to electron sharing rather than electron transfer.\nPractical application: Silicon-germanium (SiGe) alloys are used in high-speed semiconductor devices, and the covalent bonding between Si and Ge atoms is crucial for their electronic properties.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 990,
+    "question": "The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as",
+    "option": {
+      "a": "Z only",
+      "b": " X only",
+      "c": " Y and Z",
+      "d": " Y and X"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774439348/ALOC-Questions/Physics/2011/PHYSICS_2011_Q_41_p3q4wh.png",
+    "answer": "a",
+    "solution": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -686,6 +1086,22 @@
     "solution": "Given information:\n\nR₁ = 5Ω\nR₂ = 10Ω\nVoltage (V) = 24V\n\nPower in Series Arrangement:\nTotal Resistance:\nR_series = R₁ + R₂ = 5 + 10 = 15Ω\nTotal Power:\nP_series = V²/R = (24)²/15 = 576/15 = 38.4 W\nPower in Parallel Arrangement:\nTotal Resistance:\nR_parallel = (R₁ × R₂)/(R₁ + R₂) = (5 × 10)/(5 + 10) = 50/15 = 10/3 ≈ 3.33Ω\nTotal Power:\nP_parallel = V²/R = (24)²/(10/3) = 576 × (3/10) = 1728/10 = 172.8 W\nRatio of Powers:\nP_series : P_parallel = 38.4 : 172.8\nSimplifying:\n= 38.4/172.8\n= 1/4.5\n= 2/9",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 1007,
+    "question": "An object of mass 20kg slides down an inclined plane at an angle of 30° to the horizontal. The coefficient of static friction is? [g = 10ms⁻²]",
+    "option": {
+      "a": "0.2",
+      "b": ". 0.3",
+      "c": "0.5",
+      "d": "0.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Condition for impending motion\nWhen an object is on the verge of sliding down an incline, the static friction force is maximum, and μ_s = tan θ.\n\nStep 2: Calculate tan 30°\ntan 30° = 1/√3 ≈ 0.577",
+    "examtype": "utme",
+    "examyear": "2012"
   },
   {
     "id": 1010,
@@ -736,6 +1152,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1063,
+    "question": "A man 1.5m tall is standing 3m in front of a pinhole camera whose distance between the hole and the screen is 0.1m. What is the height of the image of the man on the screen?",
+    "option": {
+      "a": "0.05m",
+      "b": "0.15m",
+      "c": "0.30m",
+      "d": "1.00m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHeight of man (object height, h_o) = 1.5 m\nDistance from man to pinhole (object distance, u) = 3 m\nDistance from pinhole to screen (image distance, v) = 0.1 m\nHeight of image (h_i) = ?\n\nUnderstanding pinhole camera:\nA pinhole camera forms an inverted real image on a screen. Light travels in straight lines through the pinhole, creating similar triangles.\nUsing similar triangles:\nThe ratio of image height to object height equals the ratio of image distance to object distance:\nh_i / h_o = v / u\nRearranging for image height:\nh_i = h_o × (v/u)\nSubstituting values:\nh_i = 1.5 × (0.1/3)\nh_i = 1.5 × (1/30)\nh_i = 1.5/30\nh_i = 0.05 m\nh_i = 5 cm",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1090,
     "question": "The energy in the nucleus of atoms produce heat which can be used to generate",
     "option": {
@@ -750,6 +1182,22 @@
     "solution": "Electrical energy: This is primarily done in nuclear power plants, where the heat generated from nuclear reactions is used to produce steam that drives turbines, ultimately generating electricity.",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 1132,
+    "question": "\nI. The colour of light depends on its frequency\nII. When white light is dispersed by a triangular prism, yellow is deviated more than green\nIII. Rainbows are formed when rains fall heavily\nWhich of the above statements is/are correct about dispersion and colours?",
+    "option": {
+      "a": " I and III only",
+      "b": "I only",
+      "c": " II and III only",
+      "d": "I and II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Color depends on frequency (I is true), but green is deviated more than yellow in a prism (II is false), and rainbows don't specifically require heavy rain - they just need sunlight and water droplets (III is false or misleading).",
+    "examtype": "utme",
+    "examyear": "2025"
   },
   {
     "id": 1145,
