@@ -9696,6 +9696,22 @@
     "examyear": "2021"
   },
   {
+    "id": 618,
+    "question": "The heat required to raise the temperature of a body by 1K is called?",
+    "option": {
+      "a": "Specific heat",
+      "b": "Thermal capacity",
+      "c": "Water equivalent",
+      "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Thermal capacity (also called heat capacity) is the amount of heat energy required to raise the temperature of a given body (object) by 1 Kelvin (or 1°C). It depends on the mass and nature of the substance. Specific heat capacity is heat required per unit mass per degree temperature rise, which is different from thermal capacity.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 619,
     "question": "The nucleus of a hydrogen atom consists of a?",
     "option": {
