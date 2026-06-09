@@ -11520,6 +11520,22 @@
     "examyear": "2006"
   },
   {
+    "id": 735,
+    "question": "Non-luminous object can be seen because they",
+    "option": {
+      "a": "reflect light",
+      "b": "are near",
+      "c": " are polished",
+      "d": "emit light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Non-luminous objects do not emit light; instead, they are visible because they reflect light from luminous sources (such as the sun or artificial lights). This reflection allows us to see them.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 736,
     "question": "The wavelength of the first overtone of a note in a closed pipe of length 33 cm is?",
     "option": {
@@ -17264,6 +17280,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1102,
+    "question": "A boy receives the echo of his clap reflected by a nearby hill 0.8 s later. How far is he from the hill? [speed of sound in air = 340 m s⁻¹]",
+    "option": {
+      "a": "528 m",
+      "b": "66 m",
+      "c": "136 m",
+      "d": "136 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nTime for echo, t = 0.8 s\nSpeed of sound, v = 340 m s⁻¹\n\nSolution:\n\nStep 1: Understand the echo process\nThe sound travels from the boy to the hill and then back. The total distance covered is twice the distance to the hill (2d).\n\nStep 2: Use the formula\nDistance = speed × time\n2d = v × t\nd = (v × t) / 2\n\nStep 3: Substitute values\nd = (340 × 0.8) / 2 = 272 / 2 = 136 m",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1103,
     "question": "An object is placed 10m from a pinhole camera of length 25cm. Calculate the linear magnification.",
     "option": {
@@ -17644,6 +17676,22 @@
     "image": "",
     "answer": "c",
     "solution": "open circuit (EMF is maximum PD with no current drawn.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1128,
+    "question": "The thermometric property of mercury is best on the change in",
+    "option": {
+      "a": "density with temperature",
+      "b": "volume with temperature",
+      "c": " pressure with temperature",
+      "d": " resistance with temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "volume with temperature (Mercury thermometers rely on thermal expansion of volume.)",
     "examtype": "utme",
     "examyear": "2025"
   },
