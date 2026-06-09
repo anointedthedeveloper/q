@@ -80,6 +80,22 @@
     "examyear": "2006"
   },
   {
+    "id": 14,
+    "question": "The liability of a sole trade is",
+    "option": {
+      "a": "indeterminate ",
+      "b": "unlimited ",
+      "c": "limited ",
+      "d": "transferable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 17,
     "question": "The creation of utility can be referred to as ",
     "option": {
@@ -320,6 +336,22 @@
     "examyear": "2008"
   },
   {
+    "id": 56,
+    "question": "Which of the following equation is the correct one about Net National Product (NNP)? ",
+    "option": {
+      "a": "NNP= Gross National product (GNP) – Depreciation ",
+      "b": "NNP = Gross National product (GNP) + Net incomes from abroad. ",
+      "c": "NNP = Gross Domestic product (GDP) – Depreciation ",
+      "d": "NNP = Gross Domestic product (GDP) – Net incomes from abroad."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 58,
     "question": "A production possibility curve shows ",
     "option": {
@@ -496,6 +528,38 @@
     "examyear": "2009"
   },
   {
+    "id": 88,
+    "question": "If an increase in income induces a reduction in the demand for beans, beans can be referred to as: ",
+    "option": {
+      "a": "A normal good ",
+      "b": "An inferior good ",
+      "c": "A substitute ",
+      "d": "A dash "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 91,
+    "question": "The concept of economic efficiency refers to: ",
+    "option": {
+      "a": "obtaining the maximum output from available resources at the lowest possible cost ",
+      "b": "Conservation of natural gas and oil deposits ",
+      "c": "equity in the distribution of national resource ",
+      "d": "Producing without waste "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 92,
     "question": "A major factor affecting the value of money is the: ",
     "option": {
@@ -555,6 +619,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 103,
+    "question": "The following are advantages of socialism except ",
+    "option": {
+      "a": "equitable distribution of resources",
+      "b": "absence of exploitation  ",
+      "c": "equitable distribution of income ",
+      "d": "promotion of high standard of living "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -816,6 +896,22 @@
     "examyear": "2013"
   },
   {
+    "id": 154,
+    "question": "Which of the following statements is true? ",
+    "option": {
+      "a": "Disposable income is the only variable that determines consumption   ",
+      "b": "Investment spending is positively related to the rate of interest   ",
+      "c": "imports lead to a decrease in the level of exports  ",
+      "d": "Imports lead to a decrease in spending on locally produced goods and services."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 156,
     "question": "Based on the fact that demand curve shows the maximum price at which consumers will buy, it then shows ",
     "option": {
@@ -1056,6 +1152,38 @@
     "examyear": "2010"
   },
   {
+    "id": 181,
+    "question": "For a bicycle company, an economist predicted that, other things being equal, a rise in consumer incomes will increase the demand for bicycles. This prediction is based on the assumption that: ",
+    "option": {
+      "a": "there are many goods that are substitutes for bicycles ",
+      "b": " there are many goods that are many goods that are substitutes for bicycles",
+      "c": "there are many goods that are substitutes for bicycles ",
+      "d": "bicycles are normal goods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 185,
+    "question": "Economic problems arise because",
+    "option": {
+      "a": "resources are scarce relative to wants",
+      "b": "man is insatiable",
+      "c": "money is scarce",
+      "d": "man engages in too many economic activities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 186,
     "question": "Economic problems arise because",
     "option": {
@@ -1216,6 +1344,22 @@
     "examyear": "2001"
   },
   {
+    "id": 200,
+    "question": "The cost incurred by using both fixed and variable factors in production is called",
+    "option": {
+      "a": "marginal cost",
+      "b": "fixed cost",
+      "c": "total cost",
+      "d": "average cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 202,
     "question": "The demand for a commodity not directly for immediate consumption but for the production of another commodity is",
     "option": {
@@ -1264,6 +1408,22 @@
     "examyear": "2001"
   },
   {
+    "id": 213,
+    "question": "Which of the following is not a condition for a perfect market?",
+    "option": {
+      "a": "Homogenous commodity",
+      "b": "Ignorance of consumers",
+      "c": "Perfect information",
+      "d": "Free entry and exit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 214,
     "question": "The reward for shareholdership of a company is",
     "option": {
@@ -1307,6 +1467,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 222,
+    "question": "One disadvantage of inflation is that",
+    "option": {
+      "a": "fixed income earners gain",
+      "b": "fixed income earners lose",
+      "c": "businessmen lose",
+      "d": "standard of living rises"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2001"
@@ -1408,6 +1584,22 @@
     "examyear": "2001"
   },
   {
+    "id": 230,
+    "question": "Which of the following is associated with the development of the petroleum industry in Nigeria?",
+    "option": {
+      "a": "Neglect of agriculture",
+      "b": "Increase in population growth",
+      "c": "Increase in the rate of Unemployment",
+      "d": "Decrease in the rate of inflation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 232,
     "question": "A tent-making factory offers",
     "option": {
@@ -1472,6 +1664,22 @@
     "examyear": "2010"
   },
   {
+    "id": 245,
+    "question": "The reward to land as a factor of production is",
+    "option": {
+      "a": "Profit",
+      "b": "rent",
+      "c": "interest",
+      "d": "wage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 248,
     "question": "The public sector of an economy includes",
     "option": {
@@ -1479,6 +1687,22 @@
       "b": "nationalized industries",
       "c": "joint stock companies",
       "d": "pressure groups"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 251,
+    "question": "The wholesaler performs the following functions except",
+    "option": {
+      "a": "breaking the bulk",
+      "b": "offering credit facilities to consumers",
+      "c": "financing manufacturers",
+      "d": "buying in bulk from manufacturers"
     },
     "section": "",
     "image": "",
@@ -1499,6 +1723,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 253,
+    "question": "A country whose population size is too small relative to its resources is",
+    "option": {
+      "a": "over populated",
+      "b": "optimally populated",
+      "c": "under populated",
+      "d": "producing the optimum output"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -1646,6 +1886,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
+  },
+  {
+    "id": 274,
+    "question": "An arrangement of data in rows and columns is referred to as a",
+    "option": {
+      "a": "Graph",
+      "b": "bar chart",
+      "c": "pie chart",
+      "d": "Table"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
   },
   {
     "id": 275,
@@ -1883,6 +2139,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 303,
+    "question": "The effect of privatization on the industrial sector of a country is that it",
+    "option": {
+      "a": "ensures efficiency",
+      "b": "discourages efficiency",
+      "c": "leads to decrease in output",
+      "d": "leads to liquidation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 311,
+    "question": "Deposits held in a commercial bank are part of",
+    "option": {
+      "a": "money supply",
+      "b": "transfer payments",
+      "c": "ordinary shares",
+      "d": "treasury bills"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -2448,6 +2736,22 @@
     "examyear": "2010"
   },
   {
+    "id": 401,
+    "question": "National development plans in Nigeria fail mainly because of",
+    "option": {
+      "a": "over dependence on foreign aids",
+      "b": "poor implementation strategies",
+      "c": "inadequate funding of projects",
+      "d": "shortage of skilled manpower"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 404,
     "question": "Localization of industries refers to the",
     "option": {
@@ -2560,6 +2864,38 @@
     "examyear": "2010"
   },
   {
+    "id": 415,
+    "question": "The three major agents of an economic system are the",
+    "option": {
+      "a": "consumers, workers and producers",
+      "b": "markets, telecommunication and banks",
+      "c": "schools, hospitals and universities",
+      "d": "individuals, firms and government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 417,
+    "question": "The problem of scarcity is reduced by",
+    "option": {
+      "a": "controlling consumption of goods and services",
+      "b": "producing everything needed by consumers",
+      "c": "ensuring efficient allocation of resources",
+      "d": "restricting consumer choices and tastes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 420,
     "question": "One major function of the entrepreneur is",
     "option": {
@@ -2619,6 +2955,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 429,
+    "question": "The marginal revenue when output is 4 units is",
+    "option": {
+      "a": "5 naira",
+      "b": "8 naira",
+      "c": "56 naira",
+      "d": "61 naira"
+    },
+    "section": "Use the data below to answer question:  Output [1, 2, 3, 4, 5]  Total Revenue(N=) [40, 49, 56, 61, 65]",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2003"
@@ -2800,6 +3152,22 @@
     "examyear": "2003"
   },
   {
+    "id": 454,
+    "question": "The most common index for measuring development is",
+    "option": {
+      "a": "the level of illiteracy",
+      "b": "the per capital income",
+      "c": "nutritional levels",
+      "d": "population growth rate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 457,
     "question": "The tax whose rate increases as the level of income increases is known as",
     "option": {
@@ -2951,6 +3319,22 @@
       "b": "hoards goods",
       "c": "grants credit to the retailer",
       "d": "sells varieties of goods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 478,
+    "question": "The distribution of goods is said to be completed when it reaches the",
+    "option": {
+      "a": "wholesalers",
+      "b": "consumers",
+      "c": "retailers",
+      "d": "manufacturers"
     },
     "section": "",
     "image": "",
@@ -3488,6 +3872,22 @@
     "examyear": "2006"
   },
   {
+    "id": 567,
+    "question": "A movement along the same demand curve either upwards \tor downwards as a result of changes in price implies",
+    "option": {
+      "a": "a change in demand",
+      "b": "a change in quantity demanded.",
+      "c": "an increase in demand",
+      "d": "a shift in the demand curve to the right."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 568,
     "question": "Middlemen in an economy perform the function of",
     "option": {
@@ -3627,6 +4027,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 598,
+    "question": "In a rapidly growing economy, a change in technology which is labour saving is likely to cause",
+    "option": {
+      "a": "residual unemployment",
+      "b": "structure unemployment",
+      "c": "disguised unemployment",
+      "d": "frictional unemployment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -3979,6 +4395,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 640,
+    "question": "A foreign exchange market deals in",
+    "option": {
+      "a": "treasury bills",
+      "b": "currencies",
+      "c": "government bonds",
+      "d": "commodities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
