@@ -10048,6 +10048,22 @@
     "examyear": "2012"
   },
   {
+    "id": 736,
+    "question": "Find the range of values of m which satisfy (m - 3)(m - 4) < 0",
+    "option": {
+      "a": " 2 < m < 5",
+      "b": "-3 < m < 4",
+      "c": "3 < m < 4",
+      "d": " -4 < m < 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(m - 3)(m - 4) < 0\n\n(m - 3) < 0 ; (m - 4) < 0\n\nm < 3 ; m < 4\n\n3 < m < 4",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 737,
     "question": "The nth term of a sequence is n2 - 6n - 4. Find the sum of the 3rd and 4th terms",
     "option": {
