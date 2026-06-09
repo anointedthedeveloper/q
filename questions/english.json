@@ -2394,6 +2394,25 @@
     "category": "others"
   },
   {
+    "id": 142,
+    "question": "The prosecutor was fully able to <i>substantiate</i> the charge.",
+    "option": {
+      "a": "expatiate on",
+      "b": "prove",
+      "c": "dismiss",
+      "d": "weaken"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 143,
     "question": "The teacher wants MY pen.",
     "option": {
@@ -9074,6 +9093,25 @@
     "section": "choose the option that best completes the gap(s)",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 570,
+    "question": "The principal said that he was pleased......... my effort.",
+    "option": {
+      "a": " on ",
+      "b": "of ",
+      "c": "with",
+      "d": "about"
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010",
