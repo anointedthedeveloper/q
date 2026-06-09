@@ -3420,6 +3420,25 @@
     "category": "others"
   },
   {
+    "id": 204,
+    "question": "In spite of Shade's good looks, her hair is always………",
+    "option": {
+      "a": "unkept",
+      "b": "unkempt   ",
+      "c": "unwashed",
+      "d": "uncared for"
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 205,
     "question": "By the end of the football match today, we ……. the best player",
     "option": {
@@ -19646,6 +19665,25 @@
     "category": "others"
   },
   {
+    "id": 1348,
+    "question": "The soldiers pledge their ________ loyalty to the new government",
+    "option": {
+      "a": "enduring",
+      "b": "tireless",
+      "c": "complete",
+      "d": "questionable"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "c",
+    "solution": "Option C best completes the sentence above. 'Complete' suggests 'entire or total'",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 35,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1349,
     "question": "After interrogation, the police ______ the information from the suspect.",
     "option": {
@@ -24620,6 +24658,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 56,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1669,
+    "question": "obligation",
+    "option": {
+      "a": "obliGAtion",
+      "b": "OBligation",
+      "c": "obligaTION",
+      "d": "obLIgation"
+    },
+    "section": "For these questions, choose the most appropriate stress pattern from the options. The Stressed syllable are written in capital letter (s)",
+    "image": "",
+    "answer": "a",
+    "solution": "In nouns ending -isation or -ization, we stress the /eɪ/:",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 57,
     "hasPassage": 0,
     "category": "others"
   },
