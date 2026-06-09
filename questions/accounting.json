@@ -208,6 +208,22 @@
     "examyear": "2010"
   },
   {
+    "id": 22,
+    "question": "If a   machine   cost   2000   naira   and its estimated   life   span   is   10   years   and its residual is 500 naira. The yearly value of depreciation  in  naira is ",
+    "option": {
+      "a": "250",
+      "b": "180",
+      "c": "150",
+      "d": "130"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 23,
     "question": "Bad debt is also known as ",
     "option": {
@@ -283,6 +299,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is not a current asset?  ",
+    "option": {
+      "a": "Stock  ",
+      "b": "Debtors  ",
+      "c": "Creditors ",
+      "d": "Cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -809,6 +841,54 @@
       "d": "IV, III, II and I"
     },
     "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 88,
+    "question": "Which of the following is not a book of original entry?",
+    "option": {
+      "a": "Cash Book",
+      "b": "Purchases Ledger",
+      "c": "Returns Outwards Journal",
+      "d": "General Journal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 89,
+    "question": "The current ratio is",
+    "option": {
+      "a": "1.87 : 1.",
+      "b": "1 : 1.87.",
+      "c": "1 : 2.",
+      "d": "2 : 1."
+    },
+    "section": "Use the following information to answer question. Net profit [ 60,000], Total Assets [ 520,000], Current liabilities [ 150,000], Current assets[ 280,000] ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 90,
+    "question": "The capital employed is",
+    "option": {
+      "a": "N=740,000.",
+      "b": "N=580,000.",
+      "c": "N=370,000.",
+      "d": "N=280,000."
+    },
+    "section": "Use the following information to answer question. Net profit [ 60,000], Total Assets [ 520,000], Current liabilities [ 150,000], Current assets[ 280,000] ",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -1392,6 +1472,22 @@
     "examyear": "2016"
   },
   {
+    "id": 146,
+    "question": "The major sources of revenue for the state and local governments is",
+    "option": {
+      "a": "value added tax",
+      "b": "statutory allocation",
+      "c": "taxes and levies",
+      "d": "recurrent revenue."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 147,
     "question": "Which of the following -is -correct about the imprest system?",
     "option": {
@@ -1819,6 +1915,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 180,
+    "question": "In a partnership goodwill is recognized when",
+    "option": {
+      "a": "a new partner is admitted",
+      "b": "a partner is dormant",
+      "c": "the business is making huge profit",
+      "d": "the business has good customer relations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -4208,6 +4320,22 @@
     "examyear": "2004"
   },
   {
+    "id": 409,
+    "question": "In converting single entry to final account, the balancing figures on the income and expenses accounts are transferred to the",
+    "option": {
+      "a": "revenue and expenditure account",
+      "b": "receipts and payments account",
+      "c": "profit and loss appropriation account",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 410,
     "question": "Determine the amount for the beginning inventory",
     "option": {
@@ -4299,6 +4427,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 418,
+    "question": "In the balance sheet of a not-for-profit-making organization, subscription paid in advance is regarded as a",
+    "option": {
+      "a": "current asset",
+      "b": "current liability",
+      "c": "capital",
+      "d": "reserve"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -5504,6 +5648,22 @@
     "examyear": "2015"
   },
   {
+    "id": 521,
+    "question": "Which method of pricing can be used satisfactorily in either rising or falling price situation?",
+    "option": {
+      "a": "Market price",
+      "b": "Average method",
+      "c": "FIFO",
+      "d": "Standard price"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An average method which accommodate all the prices and then divide (inform of mean) is well acceptable in either of the two situation.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 524,
     "question": "Buhari and Osinbajo entered into a partnership in which Buhari contributed a capital of ₦40,000 and is entitled to a salary allowance of ₦10,000, while Osinbajo contributed ₦70,000 of capital and is entitled to a salary allowance of ₦15,000. Both partners earn interest on their capital at 5% per annum, and any remaining profit or loss is to be shared between them in the ratio of 40 : 60 (Buhari : Osinbajo). For the year ended, the business realized a net profit of ₦80,000, and during the year Buhari withdrew ₦80,000 while Osinbajo withdrew ₦12,000. What is Osinbajo share of profit?\n",
     "option": {
@@ -5788,6 +5948,22 @@
     "image": "",
     "answer": "c",
     "solution": "if there was a Loss on sale, we Debit cash for the amount received, debit all accumulated depreciation, debit the loss on sale of asset account, and credit the fixed asset.\nif there was a Gain on sale. Debit cash for the amount received, debit all accumulated depreciation, credit the fixed asset, and credit the gain on sale of asset account.\n\nCash is received and expected to be debited going by the principles of double entry.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 552,
+    "question": "Use the information below to answer this question.\n\nDangote acquired Dantata’s business for ₦350,000. The total asset work were ₦820,000 and liabilities amounted to ₦ 640,000\n\nThe double entry to record the goodwill in the books is debt",
+    "option": {
+      "a": "purchase of business account and credit cash account",
+      "b": "goodwill account and credit purchase of business account",
+      "c": "cash account and credit goodwill account",
+      "d": "goodwill account and credit cash account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "when there is excess of purchase consideration over net assets, the accounting entries is to debit goodwill account as the receiving account and credit purchase of business account as the giving account.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -7084,6 +7260,22 @@
     "image": "",
     "answer": "d",
     "solution": "Capital employed can be calculated in two ways:\nMethod 1 (Asset approach):\nCapital Employed = Total Assets - Current Liabilities\n= ₦22,000 - ₦7,000 = ₦15,000\nMethod 2 (Financing approach):\nCapital Employed = Shareholders' Capital + Long-term Liabilities\n= ₦15,000 + ₦0 = ₦15,000",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 666,
+    "question": "Advertising expenses incurred on a product in a business organization should be charged to",
+    "option": {
+      "a": "Sales department",
+      "b": "Production department",
+      "c": " Purchase department",
+      "d": "Administration department"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Advertising expenses are expenses incurred in order to enhance the sales of the company’s product/services",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -9136,6 +9328,22 @@
     "examyear": "2022"
   },
   {
+    "id": 883,
+    "question": "From the following information: Purchases include Raw materials of ₦15,000 and Finished goods of ₦11,400. Stock as at 1/7/01 shows Raw materials of ₦2,250 and Work-in-progress of ₦1,875. Wages consist of Direct wages of ₦17,100 and Indirect wages of ₦5,400. Stock as at 30/06/02 shows Raw materials of ₦3,000 and Work-in-progress of ₦3,375. What is the cost of raw materials consumed?",
+    "option": {
+      "a": "₦17,250",
+      "b": "₦15,750",
+      "c": "₦15,000",
+      "d": "₦14,250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The cost of raw materials consumed is calculated using the formula:\nCost of Raw Materials Consumed = Opening Stock of Raw Materials + Purchases of Raw Materials - Closing Stock of Raw Materials\nCalculation:\n\nOpening Stock of Raw Materials (1/7/01): ₦2,250\nAdd: Purchases of Raw Materials: ₦15,000\nLess: Closing Stock of Raw Materials (30/06/02): ₦3,000\n\nCost of Raw Materials Consumed = ₦2,250 + ₦15,000 - ₦3,000 = ₦14,250\nThe cost of raw materials consumed is ₦14,250.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 884,
     "question": "Interest on a partner's drawings is debited to the",
     "option": {
@@ -11168,6 +11376,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1075,
+    "question": "Zakari started a business in January 2000. He bought a shop costing ₦54,000 and stock worth ₦7,600. Profit for the year amounted to 22,100. His closing capital was ₦73,800.\nZakari's personal drawings amounted to?",
+    "option": {
+      "a": "₦2,300",
+      "b": "₦9,900",
+      "c": "₦17,100",
+      "d": "₦19,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Opening capital = Shop + Stock = ₦54,000 + ₦7,600 = ₦61,600\nClosing capital = Opening + Profit − Drawings\n₦73,800 = ₦61,600 + ₦22,100 − Drawings\nDrawings = ₦61,600 + ₦22,100 − ₦73,800 = ₦9,900",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1077,
     "question": "Given:\nRates paid during the year amounted to ₦2,250 at ₦125 per month and 1,035 was paid for electricity in the same period at ₦115 per month.\nDetermine the amount of prepaid rates?",
     "option": {
@@ -11728,6 +11952,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1141,
+    "question": "Given:\n\nCost of raw materials issued to production.....₦37000\nOpening stock of raw material..................₦2000\nPurchases of raw material......................₦3800\nWages .........................................₦500\n\nWhat is the closing stock of raw material?",
+    "option": {
+      "a": "₦4000",
+      "b": "₦3000",
+      "c": "₦2000",
+      "d": "₦1000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Formula:\nCost of Materials Issued = Opening Stock + Purchases - Closing Stock\nRearranging to find Closing Stock:\nClosing Stock = Opening Stock + Purchases - Cost of Materials Issued\nCalculation:\nClosing Stock = ₦2,000 + ₦38,000 - ₦37,000\nClosing Stock = ₦40,000 - ₦37,000\nClosing Stock = ₦3,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1142,
     "question": "<b>Use the information below to answer questions 28 and 29</b>\n\n...........PQ Manufacturing Company\n\nRaw materials (1/11/2001)...........₦3 500\nRaw materials (31/12/2001)..........₦4 900\nPurchase of raw materials...........₦56 000\nSalary .............................₦63 000\nWages...............................₦148 000\nFactory lighting ...................₦3 080\nPlant Depreciation..................₦2 800\nFactory Insurance ..................₦2 170\n\nThe overhead cost is?",
     "option": {
@@ -11852,6 +12092,22 @@
     "image": "",
     "answer": "b",
     "solution": "A receipts & payments account is simply a cash summary — it records all cash and bank receipts and payments for a period (opening balance, cash in, cash out, closing balance). It’s a summary of the cash book, not an accrual statement like the income & expenditure account or a balance sheet.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1153,
+    "question": "Given:\n\nTotal debtors b/d 31/12/99...............₦25 000\nCheques received from debtors ...........₦255 000\nTotal debtors c/d 31/12/00...............₦15 000\n\nDetermine the sales figure?",
+    "option": {
+      "a": " ₦295 000",
+      "b": "₦265 000",
+      "c": " ₦245 000",
+      "d": " ₦215 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Debtors A/c: Opening + Credit Sales − Receipts = Closing\n=> Credit Sales = Closing + Receipts − Opening\n=> Credit Sales = 15,000 + 255,000 − 25,000\n=> Credit Sales = 270,000 − 25,000 = ₦245,000",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -13536,6 +13792,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1305,
+    "question": "A business is required at par when the?",
+    "option": {
+      "a": "purchase consideration equals goodwill",
+      "b": "purchase consideration equals net value",
+      "c": "purchase consideration is greater than the net value",
+      "d": "net assets is greater than the liabilitties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "At par acquisition means the price paid for the business exactly equals the fair value of its net assets (i.e., assets minus liabilities).\n\nIn this case, no goodwill is recognized because there is neither a premium paid nor a discount received on the net assets.\n\nHence, the business is acquired “at par” when the purchase consideration equals the net asset value.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1309,
     "question": "(i) Meet growth and diversification need.\n(ii) Reach out to particular customers or markets\n(iii) Comply with some regulatory directives\n(iv) Increase employees' income.\nWhich of the reasons above do companies consider in establishing branches?",
     "option": {
@@ -13628,6 +13900,22 @@
     "image": "",
     "answer": "a",
     "solution": "The accrual concept requires that revenue is recognized when it is earned, regardless of when cash is received.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1316,
+    "question": "The basic role of accounting is to?",
+    "option": {
+      "a": "detect fraud",
+      "b": "attest to finacial statements",
+      "c": "measure performance",
+      "d": "protect sharehlders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The fundamental purpose of accounting is to measure and communicate an entity’s financial performance and position.",
     "examtype": "utme",
     "examyear": "1999"
   },
