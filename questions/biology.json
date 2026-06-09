@@ -736,6 +736,22 @@
     "examyear": "2004"
   },
   {
+    "id": 75,
+    "question": "In a mendelian cross of red and white varieties of the four o’clock pant, the F1 generation expresses incomplete dominance by having flowers which are",
+    "option": {
+      "a": "white  ",
+      "b": "red  ",
+      "c": "pink  ",
+      "d": "multi-coloured"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 77,
     "question": "Sex –linked genes are located on",
     "option": {
@@ -1360,6 +1376,38 @@
     "examyear": "2006"
   },
   {
+    "id": 135,
+    "question": "Water is necessary for a germinating seed because  it",
+    "option": {
+      "a": "wets the soil for proper germination  ",
+      "b": "protects the seed from desiccation  ",
+      "c": "activates the enzymes",
+      "d": "promotes aerobic respiration  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 136,
+    "question": "An increase  in air pressure in the lings is due to the",
+    "option": {
+      "a": "increase in the volume of the thoracic cavity  ",
+      "b": "relaxation of the diaphragm",
+      "c": "upward movement of the ribs",
+      "d": "contraction intercostal muscles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 137,
     "question": "In the transverse section of a dicot stem, the region lying between the endodermis and the vascular bundle is the",
     "option": {
@@ -1419,6 +1467,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 143,
+    "question": "The mammalian vain which starts with and ends in a capillary network is the",
+    "option": {
+      "a": "hepatic portal vein",
+      "b": "pulmonary vein  ",
+      "c": "renal vein",
+      "d": "measenteric vein"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -1915,6 +1979,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 189,
+    "question": "The cell of an onion bulb can be differentiated from a cheek cell by the presence of  ",
+    "option": {
+      "a": "plasmalemma  ",
+      "b": " chloroplast",
+      "c": "cell wall  ",
+      "d": " nucleus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -2459,6 +2539,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 248,
+    "question": "I Onchocerciasis  II Schistosomiasis  \nIII Salmonellosis  IV Meningitis \nWhich of the diseases listed above are associated with water? \n",
+    "option": {
+      "a": "I and II only  ",
+      "b": "II, III and IV  ",
+      "c": "I, II and III  ",
+      "d": "II and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -3216,6 +3312,22 @@
     "examyear": "2011"
   },
   {
+    "id": 311,
+    "question": "The ability  of a living organism to detect and respond to changes in the environment is referred to as",
+    "option": {
+      "a": "irritability",
+      "b": "growth    ",
+      "c": "taxis",
+      "d": "locomotion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 312,
     "question": "In mammals, the exchange of nutrients and metabolic products occurs in the",
     "option": {
@@ -3467,6 +3579,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 337,
+    "question": "Lack of space in a population  could lead to an increase in",
+    "option": {
+      "a": "birth rate",
+      "b": "disease rate",
+      "c": "drought   ",
+      "d": "water  scarcity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
