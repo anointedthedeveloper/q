@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "A regular polygon has each of it angles at 160. What is the number of sides of the polygon? ",
+    "option": {
+      "a": "36",
+      "b": "9",
+      "c": "18",
+      "d": "20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 5,
     "question": "A cyclist rode for 30minutes at xhkm/hr. if the total distance covered is less than 60km, what is the range of values for x? ",
     "option": {
@@ -240,6 +256,22 @@
     "examyear": "2009"
   },
   {
+    "id": 64,
+    "question": "If the length of the sides of a right angled triangle are (3x + 1)cm, (3x – 1)cm and xcm, what is x ? ",
+    "option": {
+      "a": "2",
+      "b": "6",
+      "c": "18",
+      "d": "12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 65,
     "question": "A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared? ",
     "option": {
@@ -400,6 +432,22 @@
     "examyear": "2000"
   },
   {
+    "id": 110,
+    "question": "Evaluate 5<sup>-3log5</sup><sup>2</sup> x 2<sup>2log2</sup><sup>3</sup>",
+    "option": {
+      "a": "8",
+      "b": "1(1/8)",
+      "c": "2/5",
+      "d": "1/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "5<sup>-3log5</sup><sup>2</sup> x 2<sup>2log2</sup><sup>3</sup>\ni Let -3log5<sup>2</sup> = p => log5<sup>2</sup><sup>-3</sup> = p\n∴2<sup>-3</sup> = 5<sup>-p</sup>\n∴5<sup>-3log5</sup><sup>2</sup> = 5log5<sup>2</sup><sup>-3</sup> = 5<sup>-p</sup>\nii 2<sup>2</sup> 2<sup>2log2</sup><sup>3</sup> = q => log532 = q\n∴3<sup>2</sup> = 2<sup>q</sup>\n∴2<sup>2</sup> 2<sup>2log2</sup><sup>3</sup> = 2<sup>q</sup>\n= 3<sup>2</sup> = 9\ni x ii = 2<sup>-3</sup> x 9 = (1/2)<sup>3</sup> x 9\n= 1/8 x 9\n= 9/8 = 1(1/8)",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 112,
     "question": "In the diagram above, EFGH is a circle center O. Fh is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH.",
     "option": {
@@ -556,6 +604,22 @@
     "image": "",
     "answer": "a",
     "solution": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2.\n\nSubstitute into the function and work it out.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 149,
+    "question": "Differentiate (2x+5)<sup>2</sup>(x-4) with respect to x.",
+    "option": {
+      "a": "4(2x+5)(x-4)",
+      "b": "4(2x+5)(4x-3)",
+      "c": "(2x+5)(2x-13)",
+      "d": "(2x+5)(6x-11)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -764,6 +828,22 @@
     "image": "",
     "answer": "d",
     "solution": "Mean: [7+(−3)+4+(−2)+5+(−9)+4+8+(−6)+12]/(10) = 20/10\n \n= 2",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 206,
+    "question": "The range of the data: k+2, k-3, k+4, k-2, k, k-5, k+3, k-1, and k+6 is",
+    "option": {
+      "a": "10",
+      "b": "11",
+      "c": "6",
+      "d": "8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Range = Highest value - Lowest value\n\n= (k + 6) - (k - 5)\n\n= 11",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1168,6 +1248,22 @@
     "examyear": "2005"
   },
   {
+    "id": 339,
+    "question": "An operation * is defined on the set of real numbers by a * b = ab + 2(a + b + 1). find the identity elements",
+    "option": {
+      "a": "2",
+      "b": "1",
+      "c": "-1",
+      "d": "-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "a * b = ab + 2(a + b + 1)\nlet e be the identity element\n∴ a * e = e * b = a\n∴ a * e\nae + 2(a + e + 1) = a\nae + 2a + 2e + 2 = a\nae + 2e = a - 2a = 2\n(a + 2)e = -a - 2\ne = -(a-2) / (a+2)\ne = -(a+2) / (a+2)\ne = -1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 343,
     "question": "In the diagram above, O is the center of the circle,\n\n∠UOT = 70° and ∠RST = 100°. Calculate ∠RUO.",
     "option": {
@@ -1196,6 +1292,38 @@
     "image": "",
     "answer": "d",
     "solution": "Gradient of the line y + 2x = 5 = -2\nGradient of the line perpendicular to\ny + 2x + 5 = 1/2\nequation of a line perpendicular to\ny + 2x = 5 at the point (4, 3)\ny - y1 = m(x - x1)\ny - 3 = 1/2(x - 4)\n2y - 6 = x -4\n2y - x = 2",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 352,
+    "question": "The radius r of a circular disc is increasing at the rate of 0.5cm/sec. At what rate is the area of the disc increasing when its radius is 6cm?",
+    "option": {
+      "a": "36 π cm<sup>2</sup>/sec",
+      "b": "18 π cm<sup>2</sup>/sec",
+      "c": "6 π cm<sup>2</sup>/sec",
+      "d": "3 π cm<sup>2</sup>/sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Increase in radius dr/dt = 0.5\nArea of the circular disc = πr<sup>2</sup>\nIncrease in area: dA/dr = 2πr\nRate of increase in area: dA/dt = dA/dr * dr/dt\nwhen r = 6cm\n= 2πr * 0.5\n= 2 * π * 6 * 0.5\n2 * π * 6 * 1/2 = 6 π cm<sup>2</sup>/sec",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 353,
+    "question": "The maximum value of the function\nf(x) = 2 + x - x<sup>2</sup> is",
+    "option": {
+      "a": "9/4",
+      "b": " 7/4",
+      "c": " 3/2",
+      "d": " 1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "f(x) = 2 + x - x<sup>2</sup>\ndy/dx = 1-2x\nAs dy/dx = 0\n1-2x = 0\n2x = 1\nx = 1/2\nAt x = 1/2\nf(x) = 2 + x - x<sup>2</sup>\n= 2 + 1/2 -(1/2)<sup>2</sup>\n= 2 + 1/2 - 1/4\n= (8+2-1) / 4 = 9/4",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -1328,6 +1456,22 @@
     "examyear": "2006"
   },
   {
+    "id": 376,
+    "question": "Find the variance of 2x, 2x-1 and 2x+1",
+    "option": {
+      "a": "2/3",
+      "b": "2",
+      "c": "√(2/3)",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "∑x=6x∑(x-¯x )<sup>2</sup> =2¯x=(∑x)/n=6x/3=2xVariance=(∑(x-¯x )<sup>2</sup> )/n=2/3",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 382,
     "question": "Find the value of x for which the function 3x<sup>3</sup> - 9x is minimum",
     "option": {
@@ -1388,6 +1532,22 @@
     "image": "",
     "answer": "c",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 395,
+    "question": "Convert 22324 to base six",
+    "option": {
+      "a": "450<sub>6</sub>",
+      "b": "254<sub>6</sub>",
+      "c": "553<sub>6</sub>",
+      "d": "540<sub>6</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "1st convert to base 10\n2232<sup>4</sup> = 2x4<sup>3</sup> + 2x4<sup>2</sup> + 3x4<sup>1</sup> + 2x4<sup>0</sup>\n= 2x64 + 2x16 + 3x4 + 2x1\n= 128 + 32 + 12 + 2\n= 174 convert to base 6\n6/174\n6/29 R 0\n6/4 R 5\n6/0 R 5\n= 450<sub>6</sub>",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -1904,6 +2064,22 @@
     "examyear": "2009"
   },
   {
+    "id": 552,
+    "question": "What is the value of r if the distance between the point (4,2) and (1,r) is 3 units?",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A(4,2) and B(1,r), AB = 3 units\n\n3 = √ (x<sup>2</sup>- x<sup>1</sup>)2 + (y<sup>2</sup>-y<sup>1</sup>)2\n\n\n3 = √ (4-1)2 + (2-r)2\n\n\n3 = √ 32 + (2-r)2\n\n\n3 = √ 9 + 4 – 4r + r2\n\n\n3 = √ r2 - 4r + 13\n\n9 = r2 - 4r + 13 By squaring both sides\nr2 - 4r + 4 = 0\n(r-2)(r-2) = 0\nr = 2",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 558,
     "question": "Evaluate ∫sec<sup>2</sup>θ dθ?",
     "option": {
@@ -2096,6 +2272,22 @@
     "examyear": "2010"
   },
   {
+    "id": 594,
+    "question": "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement?",
+    "option": {
+      "a": "0.25%",
+      "b": " 0.01%",
+      "c": " 0.80%",
+      "d": " 0.40%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Actual length of rope = 1.25m\n\nMeasured length of rope = 1.26m\n\nerror = (1.26 - 1.25)m - 0.01m\n\nPercentage error = error/actual length x 100%\n\n= 0.01/1.25 x 100%\n\n= 0.8%",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 600,
     "question": "Make Q the subject of formula if p = M/5(X + Q) + 1",
     "option": {
@@ -2158,6 +2350,22 @@
     "solution": "x(x - 1) > 0\n\nx < -1 or x > 1",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 624,
+    "question": "A man invested N5,000 for 9 months at 4%. What is the simple interest?",
+    "option": {
+      "a": "N150",
+      "b": "N220",
+      "c": "N130",
+      "d": "N250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "S.I. = P×R×T/100\n\n\nIf T = 9 months, it is equivalent to 9/12\n years\n\nS.I. = 5000×4×9/(100×12)\n\n\nS.I. = N150",
+    "examtype": "utme",
+    "examyear": "2011"
   },
   {
     "id": 627,
@@ -2896,6 +3104,22 @@
     "examyear": "2017"
   },
   {
+    "id": 904,
+    "question": "Factorize completely X<sup>2</sup> +2XY+Y<sup>2</sup> +3X+3Y-18",
+    "option": {
+      "a": "(x + y + 6)(x + y -3)",
+      "b": "(x - y - 6)(x - y + 3)",
+      "c": " (x - y + 6)(x - y - 3)",
+      "d": "(x + y - 6)(x + y + 3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x<sup>2</sup> +2xy + y<sup>2</sup> + 3x + 3y − 18\n \n\nx<sup>2</sup> +2xy + 3x + y<sup>2</sup> + 3y − 18\n\n\nx<sup>2</sup> + 2xy − 3x +6x + y<sup>2</sup> −3y +6y−18\n\n\nx<sup>2</sup> + 2xy − 3x + y<sup>2</sup> − 3y + 6x +6y − 18\n\n\nx<sup>2</sup> +xy − 3x + xy + y<sup>2</sup> − 3y +6x + 6y − 18\n\n\nx(x + y - 3) + y(x + y - 3) + 6(x + y - 3)\n\n= (x + y - 3)(x + y + 6)\n\n= (x + y + 6)(x + y -3)",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 905,
     "question": "Make S the subject of the relation\np = s + (sm<sup>2</sup>)/nr",
     "option": {
@@ -3036,6 +3260,22 @@
     "image": "",
     "answer": "a",
     "solution": "Since it depreciates by 10% At the end of first year, its value = 90% of 20000\n\n= 90/100\n x 20000 =18000\n\n  At the end of second year, its value = 90% of 18000\n\n  = 90/100\n x 18000 = ₦16,200",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 945,
+    "question": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room.",
+    "option": {
+      "a": "15/17",
+      "b": "9/17",
+      "c": "8/15",
+      "d": "12/17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given length of the room = 12m; breadth = 9m and height = 8m.\n\nThe room is a cuboid in shape, therefore the length of the diagonal = √(l<sup>2</sup>+b<sup>2</sup>+h<sup>2</sup>)\n= √(12<sup>2</sup>+9<sup>2</sup>+8<sup>2</sup>)\n=√(289)\n= 17m.\n\nThe diagonal makes an angle with the diagonal of the floor: √122+92\n= √(225)\n= 15m\n\nThe cosine of the angle that the diagonal makes with the floor (θ) = 15/17.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3376,6 +3616,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1016,
+    "question": "Express (0.0439÷3.62)\n as a fraction.",
+    "option": {
+      "a": "21/100",
+      "b": "21/1000",
+      "c": "12/1000",
+      "d": "12/100"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(0.0439 ÷ 3.62)\n \n= 0.01213\n\n≊\n 0.012\n\n= 12/1000",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 1029,
     "question": "Simplify (324 − 4x<sup>2</sup>)/(2x+18)\n ",
     "option": {
@@ -3404,6 +3660,38 @@
     "image": "",
     "answer": "c",
     "solution": "Given (-2, 0) ans (0, -4).\n\nGradient = y<sub>2</sub>−y<sub>1</sub>/x<sub>2</sub> − x<sub>1</sub>\n\n= (−4−0)/(0−(−2))\n= −4/2\n \n= -2",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1036,
+    "question": "Find the equation of the line through the points (5, 7) parallel to the line 7x + 5y = 12.",
+    "option": {
+      "a": "5x + 7y = 120",
+      "b": "7x + 5y = 70",
+      "c": "x + y = 7",
+      "d": "15x + 17y = 90"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Equation through (5,7) parallel to the line \n\n7x + 5y = 12\n\n5y = 7x + 12 \n\ny = −7x/5 + 12/5\nGradient = −7/5\n \nRequired equation = (y−7)/(x − 5) = −7/5\ni.e. 5y - 35 = -7x + 35\n\n5y + 7x = 70",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1044,
+    "question": "The pie chart shows the income of a civil servant in month. If his monthly income is N6,000. Find his monthly basic salary. ",
+    "option": {
+      "a": "N2,050",
+      "b": "N2600",
+      "c": "N3,100",
+      "d": "N3,450"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007193/ALOC-Questions/Mathematics/2020/JAMB_MATH_2020_Q27_vubohw.jpg",
+    "answer": "a",
+    "solution": "360° - (60° + 60° + 67 + 50 = 237°) \n\n360° - 237 = 130°\n \n\nB. Salary = 123/360 X N6000/1\n \n\n= N2,050",
     "examtype": "2020",
     "examyear": "utme"
   },
