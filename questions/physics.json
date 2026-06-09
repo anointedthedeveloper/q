@@ -2720,6 +2720,22 @@
     "examyear": "2016"
   },
   {
+    "id": 199,
+    "question": "What force has to be exerted on a mass 60kg to give it an acceleration of 10ms-2 vertically upwards?\n[g = 10ms-2",
+    "option": {
+      "a": "300N",
+      "b": "600N",
+      "c": "1200N",
+      "d": "400N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass (m) = 60 kg\nAcceleration upward (a) = 10 m/s²\nAcceleration due to gravity (g) = 10 m/s²\nApplied force (F) = ?\n\nForces acting on the mass:\n\nApplied force (F) acting upward\nWeight (W = mg) acting downward\n\nUsing Newton's Second Law:\nNet force = mass × acceleration\nFor upward motion:\nF - mg = ma\nRearranging:\nF = ma + mg\nF = m(a + g)\nSubstituting values:\nF = 60(10 + 10)\nF = 60 × 20\nF = 1200 N\nAnswer: C. 1200N\nA force of 1200N must be exerted to give the mass an upward acceleration of 10 m/s².",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 200,
     "question": "A metre rule is pivoted at its mid-point with a vertical force of 10N hanging from the distance 30cm from the mid-point. At what distance must a 15N force hang to balance the ruler horizontally?",
     "option": {
@@ -7344,6 +7360,22 @@
     "examyear": "2023"
   },
   {
+    "id": 544,
+    "question": "The working of the beam balance is based on the principle of",
+    "option": {
+      "a": "moments",
+      "b": "conservation of energy",
+      "c": "equivalence",
+      "d": "floatation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A beam balance operates on the principle of moments (torques). When the beam is balanced, the clockwise and anticlockwise moments about the fulcrum are equal. This allows us to compare masses by achieving rotational equilibrium.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 545,
     "question": "Which of the following is a type of incandescent light source?",
     "option": {
@@ -8384,6 +8416,22 @@
     "examyear": "2004"
   },
   {
+    "id": 619,
+    "question": "To protect a material from the influnce of an external magnetic field, the materials should be kept",
+    "option": {
+      "a": "square steel ring",
+      "b": "triangular zinc ring",
+      "c": "soft iron ring",
+      "d": "loop of copper wire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In order to protect a material from the influence of an external magnetic field, the material is placed in a soft iron ring, usually referred to as magnetic screening.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 621,
     "question": "If the angle between two vectors P and Q is 0°, the vectors are said to",
     "option": {
@@ -8476,6 +8524,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296034/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_29_hfrs8z.png",
     "answer": "a",
     "solution": "Given information:\n\nForce 1: 4N (horizontal, pointing left)\nForce 2: 10N (horizontal, pointing right)\nForce 3: 8N (at 60° above horizontal, pointing right-upward)\nForce 4: 6N (at 60° below horizontal, pointing right-downward)\n\nSolution:\nStep 1: Resolve forces into horizontal components\nTaking rightward as positive direction:\n4N force (horizontal left):\nHorizontal component = -4 N\n10N force (horizontal right):\nHorizontal component = +10 N\n8N force (at 60° above horizontal):\nHorizontal component = 8 cos(60°) = 8 × 0.5 = 4 N\n6N force (at 60° below horizontal):\nHorizontal component = 6 cos(60°) = 6 × 0.5 = 3 N\nStep 2: Calculate net horizontal force\nNet horizontal force = -4 + 10 + 4 + 3\nNet horizontal force = 13 N (rightward)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 629,
+    "question": "The earth is four times the size of the moon and the acceleration due to gravity on the earth is 80 times that on the moon. The ratio of the mass of the moon to that of the earth is",
+    "option": {
+      "a": "1:80",
+      "b": "1:320",
+      "c": "1:1280",
+      "d": "1:4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nRadius of Earth = 4 × Radius of Moon → Rₑ = 4Rₘ\nAcceleration due to gravity on Earth = 80 × acceleration on Moon → gₑ = 80gₘ\n\nSolution:\nFormula for acceleration due to gravity:\ng = GM/R²\nWhere:\n\nG = gravitational constant\nM = mass of planet\nR = radius of planet\n\nStep 1: Write expressions for Earth and Moon\nFor Earth: gₑ = GMₑ/Rₑ²\nFor Moon: gₘ = GMₘ/Rₘ²\nStep 2: Take ratio\ngₑ/gₘ = (Mₑ/Mₘ) × (Rₘ/Rₑ)²\nStep 3: Substitute given values\n80 = (Mₑ/Mₘ) × (Rₘ/(4Rₘ))²\n80 = (Mₑ/Mₘ) × (1/4)²\n80 = (Mₑ/Mₘ) × (1/16)\nStep 4: Solve for mass ratio\nMₑ/Mₘ = 80 × 16\nMₑ/Mₘ = 1280\nTherefore: Mₘ/Mₑ = 1/1280\nFinal Answer:\nRatio of mass of Moon to Earth = 1:1280",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -11200,6 +11264,22 @@
     "examyear": "2008"
   },
   {
+    "id": 831,
+    "question": "A step-down transformer has a power output of 50 W and efficiency of 80%. if the mains supply voltage is 200 v, calculate the primary current of the transformer.",
+    "option": {
+      "a": "0.31 A",
+      "b": "3.20 A",
+      "c": "3.40 A",
+      "d": "5.00 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\nOutput power = 50 W\nEfficiency = 80% = 0.8\nPrimary voltage = 200 V\n\nSolution:\n\nStep 1: Efficiency formula\nEfficiency = Output power / Input power\n0.8 = 50 W / Input power\n\nStep 2: Solve for input power\nInput power = 50 W / 0.8 = 62.5 W\n\nStep 3: Relationship between input power, primary voltage, and primary current\nInput power = Primary voltage × Primary current\n62.5 W = 200 V × Primary current\n\nStep 4: Solve for primary current\nPrimary current = 62.5 W / 200 V = 0.3125 A ≈ 0.31 A",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 833,
     "question": "zener diode is used for?",
     "option": {
@@ -12268,6 +12348,22 @@
     "image": "",
     "answer": "b",
     "solution": "The special advantage of alcohol over mercury as a thermometric liquid is its low freezing point (-115°C compared to -39°C for mercury), which allows it to measure much lower temperatures, making it suitable for use in very cold climates where mercury would freeze solid.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 910,
+    "question": "The density of a certain oil on frying becomes 0.4 kgm⁻³ with the volume of 20m³. What will be its initial volume when its initial density is 0.8 kgm⁻³ assuming no loss of oil due to spillage?",
+    "option": {
+      "a": "12 m³",
+      "b": " 10 m³",
+      "c": " 8 m³",
+      "d": "5 m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial density (ρ₁) = 0.8 kg/m³\nFinal density (ρ₂) = 0.4 kg/m³\nFinal volume (V₂) = 20 m³\nInitial volume (V₁) = ?\nNo loss of oil (mass conserved)\n\nKey principle:\nMass remains constant (no spillage)\nm₁ = m₂\nUsing density formula:\nm = ρV\nStep 1: Set up equation\nρ₁V₁ = ρ₂V₂\nStep 2: Solve for initial volume\nV₁ = (ρ₂V₂)/ρ₁\nSubstituting values:\nV₁ = (0.4 × 20)/0.8\nV₁ = 8/0.8\nV₁ = 10 m³",
     "examtype": "utme",
     "examyear": "2010"
   },
