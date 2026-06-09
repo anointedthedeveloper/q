@@ -5440,6 +5440,22 @@
     "examyear": "2016"
   },
   {
+    "id": 397,
+    "question": "n monosaccharide ⇌ (P/Q) polysaccharide + n water. In the process above, P and Q respectively represent",
+    "option": {
+      "a": "Condensation and hydrolysis",
+      "b": "Fermentation and condensation",
+      "c": "Polymerization and hydrolysis",
+      "d": "Polymerization and condensation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In the forward direction (monosaccharides → polysaccharide + water), water is eliminated — this is condensation polymerization. In the reverse direction (polysaccharide + water → monosaccharides), the polymer is broken down by water — this is hydrolysis. Therefore P = condensation and Q = hydrolysis.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 399,
     "question": "In the diagram above, X is the",
     "option": {
