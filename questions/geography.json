@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 6,
+    "question": "Large in area and high in population, which of the following countries fits this description?",
+    "option": {
+      "a": "Lesotho  ",
+      "b": "Togo ",
+      "c": "Nigeria  ",
+      "d": "Zaire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 8,
     "question": " Which of these does not lie in the principal earthquake region of the world? ",
     "option": {
@@ -302,6 +318,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is not an Anglophone country  ",
+    "option": {
+      "a": "Ghana  ",
+      "b": "Gambia  ",
+      "c": "Liberia  ",
+      "d": "Senegal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   },
   {
     "id": 25,
@@ -763,6 +795,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 63,
+    "question": "Which features on a  topographic sheet would you analyze to characterize the configuration of the area covered by the sheet  ",
+    "option": {
+      "a": "Isoyet and Isolines  ",
+      "b": "ranges and spot heights ",
+      "c": "Contour lines for cross section",
+      "d": "Contour lines for slope estimates  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -1808,6 +1856,22 @@
     "examyear": "2012"
   },
   {
+    "id": 142,
+    "question": "What is the Centigrade equivalent of 950 Fahrenheit? ",
+    "option": {
+      "a": "1390C  ",
+      "b": "37.20C  ",
+      "c": "350C",
+      "d": "3.60C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 143,
     "question": "Which of the following States in Nigeria would a person NOT pass over by crow fly (direct distance) from Ibadan to Makurdi? ",
     "option": {
@@ -2272,6 +2336,22 @@
     "examyear": "2013"
   },
   {
+    "id": 181,
+    "question": "Which of the following terms is not associated with desert-type topography?",
+    "option": {
+      "a": "Zuegen    ",
+      "b": "Yardang  ",
+      "c": "Mesa  ",
+      "d": "Uvala"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 182,
     "question": "The major characteristics of a karst scenery include",
     "option": {
@@ -2683,6 +2763,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 215,
+    "question": "Dominican Republic is in: ",
+    "option": {
+      "a": "Europe ",
+      "b": "Africa ",
+      "c": "America ",
+      "d": "Asia "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme-aaua",
     "examyear": "2014"
@@ -3168,6 +3264,22 @@
     "examyear": "2016"
   },
   {
+    "id": 255,
+    "question": "The Ocean currents marked X and Y are the",
+    "option": {
+      "a": "Cold Shara Current and cold Namibian current",
+      "b": "Cool canaries current and cool Banguela current",
+      "c": "Warm Canaries current and cool Mozambique current",
+      "d": "Warm canaries current and warm Benguela current"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 256,
     "question": "What type of climate is experienced in the region \"P\" shaded on the map?",
     "option": {
@@ -3179,6 +3291,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 257,
+    "question": "The above diagram on which the contours are in meters shows a",
+    "option": {
+      "a": "Knoll",
+      "b": "Mesa",
+      "c": "Block mountain",
+      "d": "Drumlin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -3291,6 +3419,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 269,
+    "question": "One of the steel rolling mills in Nigeria is located at",
+    "option": {
+      "a": "Jos",
+      "b": "Ajaokuta",
+      "c": "Enugu",
+      "d": "Ovwian-Aladja"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -3968,6 +4112,22 @@
     "examyear": "2018"
   },
   {
+    "id": 325,
+    "question": "Along which latitude will the day time be the longest on Christmas day?",
+    "option": {
+      "a": "0°",
+      "b": "45°S",
+      "c": "45°N",
+      "d": "30°N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 326,
     "question": "Which is commodity associated with OPEC?",
     "option": {
@@ -4464,6 +4624,22 @@
     "examyear": "2019"
   },
   {
+    "id": 361,
+    "question": "Examples of folded structures in Africa include the Atlas Mountains, the Cape Ranges and the",
+    "option": {
+      "a": "Jos Plateau",
+      "b": "Akwapim Hills",
+      "c": "Adamawa Highlands",
+      "d": "East Africa Rift"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 362,
     "question": "The highest point in the area depicted on the map is just above",
     "option": {
@@ -4759,6 +4935,22 @@
       "b": "Granite",
       "c": "Schist",
       "d": "Rhyolite"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 387,
+    "question": "Sugar plantations in Africa are most likely developed in the lowlands of ",
+    "option": {
+      "a": "Coast and Mozambique",
+      "b": "The mediterranean seaboard and the Guinea coast",
+      "c": "Natal and the Lower Nile",
+      "d": "Mozambique and Natal"
     },
     "section": "",
     "image": "",
