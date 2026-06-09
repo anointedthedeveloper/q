@@ -3168,6 +3168,22 @@
     "examyear": "1997"
   },
   {
+    "id": 205,
+    "question": "Where there are no proper books of account, the capital at the commencement of a period is ascertained by preparing",
+    "option": {
+      "a": "Total Debtors and Creditors Accounts",
+      "b": "Bank Reconciliation Statement",
+      "c": "Statement of Affairs",
+      "d": "Trading, Profit and Loss Accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 206,
     "question": "Rent receivable is a",
     "option": {
@@ -16784,6 +16800,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1115,
+    "question": "Which of the following is used to update the cash book in bank reconciliation?",
+    "option": {
+      "a": "Interest received and unpresented cheques",
+      "b": "Commission and debit note",
+      "c": "Unpresented cheques and direct credit",
+      "d": "Interest received and direct credit"
+    },
+    "section": "",
+    "image": "`",
+    "answer": "d",
+    "solution": "Reason: those are items shown on the bank statement but not yet recorded in the cash book, so you update the cash book with them. Unpresented cheques are recorded in the cash book already and are used to reconcile to the bank statement (not to update the cash book).",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1116,
     "question": "The two legally recognized professional accounting bodies in Nigeria are the?",
     "option": {
@@ -18796,6 +18828,22 @@
     "image": "",
     "answer": "a",
     "solution": "On dissolution, each asset’s net book value is debited to the Realisation Account (and its asset account is credited to remove it from the books).\n\nSo the net book value of assets is transferred to the debit of Realisation Account",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1251,
+    "question": "Bala Ltd acquired the business of Bello Ltd and caused the separate existence of the latter company to terminate. This situation is best described as?",
+    "option": {
+      "a": "absorption",
+      "b": "merger",
+      "c": "conversion",
+      "d": "dissolution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This situation is best described as absorption.\n\nAbsorption occurs when:\n\nOne existing company (Bala Ltd) takes over another existing company (Bello Ltd)\nThe acquired company (Bello Ltd) loses its separate legal identity and ceases to exist\nThe acquiring company (Bala Ltd) continues to exist and absorbs all assets and liabilities\nOnly one company survives the transaction",
     "examtype": "utme",
     "examyear": "2001"
   },
