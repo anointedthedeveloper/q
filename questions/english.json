@@ -1197,6 +1197,25 @@
     "category": "others"
   },
   {
+    "id": 69,
+    "question": "The party supporters <i>vilified</i> the Chairman for the role he played in the crisis that rocked the party ",
+    "option": {
+      "a": "impeached ",
+      "b": "condemned ",
+      "c": "challenged ",
+      "d": "elected"
+    },
+    "section": "choose the option nearest in meaning to the word(s) or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 70,
     "question": "Publishing as a business venture has become a <i>hot potato</i> in Nigeria. ",
     "option": {
@@ -4438,6 +4457,25 @@
     "section": "the option that best explains the information conveyed in the sentence. ",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 256,
+    "question": "The prefect reeled off the names of all the students who Drake the library law.",
+    "option": {
+      "a": "The prefect gave a disjointed list of the students in the law library.",
+      "b": "  The prefect omitted the names of the students who broke into the law library ",
+      "c": "The prefect submitted a complete list of the students who stole library books",
+      "d": "The prefect gave an accurate list of the students who disobeyed library regulations."
+    },
+    "section": "the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006",
@@ -24753,6 +24791,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 33,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1597,
+    "question": "Choose the option nearest in meaning to the word or phrase in italics\n\nThe children received gifts from <i>doting</i> parents",
+    "option": {
+      "a": "nagging",
+      "b": "loving",
+      "c": "humble",
+      "d": "Docile"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "<i>Doting</i> is characterized by giving love and affection.",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 34,
     "hasPassage": 0,
     "category": "others"
   },
