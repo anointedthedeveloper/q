@@ -112,6 +112,22 @@
     "examyear": "2011"
   },
   {
+    "id": 27,
+    "question": "The test of arithmetical accuracy of all postings in the ledger is provided in the: ",
+    "option": {
+      "a": "Journal  ",
+      "b": "Day book  ",
+      "c": "Cash book  ",
+      "d": "Trial balance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 29,
     "question": "Accounting equation is given by  ",
     "option": {
@@ -158,6 +174,38 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 42,
+    "question": "Retained earnings will change over time because of several factors.  Which of the following factors would explain an increase in retained earning?",
+    "option": {
+      "a": "Net loss ",
+      "b": "Net income,",
+      "c": "Dividends ",
+      "d": "investment by stakeholders."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 58,
+    "question": "If a business shows a debit balance in its own record of its bank balance, this indicates.",
+    "option": {
+      "a": "The business has a bank overdraft",
+      "b": "The business is a debtor of the bank",
+      "c": "The business has money in the bank",
+      "d": "The ledger entry must be wrong."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 59,
@@ -272,6 +320,22 @@
     "examyear": "2013"
   },
   {
+    "id": 80,
+    "question": "The distinguishing feature between a two-column and three-columncash book is",
+    "option": {
+      "a": "discount column",
+      "b": "cash column",
+      "c": "bank column",
+      "d": "ledger folio"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 93,
     "question": "Which of the following is a nominal account?",
     "option": {
@@ -320,6 +384,22 @@
     "examyear": "2013"
   },
   {
+    "id": 97,
+    "question": "A business is treated as being separate from the owners. This statement is emphasized by",
+    "option": {
+      "a": "consistency concept.",
+      "b": "realization concept.",
+      "c": "going concern concept.",
+      "d": "business entity concept."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 99,
     "question": "Which of the following is determined in the Trading Account?",
     "option": {
@@ -347,6 +427,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 104,
+    "question": "Agreement between partners is contained in the Partnership",
+    "option": {
+      "a": "Act.",
+      "b": "Deed.",
+      "c": "Accord",
+      "d": "Deal."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -688,6 +784,22 @@
     "examyear": "2016"
   },
   {
+    "id": 155,
+    "question": "The trader’s capital in a single entry system is ascertained by preparing",
+    "option": {
+      "a": "gross profit",
+      "b": "statement of affairs",
+      "c": "suspense account",
+      "d": "appropriation account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 157,
     "question": "Clifford pays rent of  N200 per month for premises. He paid N 2,800 within the year, Compute the prepayment.",
     "option": {
@@ -1019,6 +1131,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 207,
+    "question": "Which of the following is a factory overhead?",
+    "option": {
+      "a": "carriage on raw materials",
+      "b": "Purchase of raw materials",
+      "c": "Production wages",
+      "d": "Depreciation of factory equipment."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -1472,6 +1600,22 @@
     "examyear": "2012"
   },
   {
+    "id": 293,
+    "question": "Which of the following is not part of the Central Processing Unit of a computer?",
+    "option": {
+      "a": "Arithmetical and Logical unit",
+      "b": "Memory unit",
+      "c": "Input unit",
+      "d": "Control unit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 295,
     "question": "An underwriter for a company’s share is paid",
     "option": {
@@ -1595,6 +1739,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 312,
+    "question": "What is the ledger entry for the sale of plant and machinery on credit to Wilson?",
+    "option": {
+      "a": "Credit Sales Account and debit Cash Account",
+      "b": "Credit Plant and Machinery Account and debit Wilson’s Account",
+      "c": "Credit Sales Account and debit Wilson’s Account",
+      "d": "Credit Plant and Machinery Account and debit Cash Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -1776,6 +1936,22 @@
     "examyear": "2014"
   },
   {
+    "id": 369,
+    "question": "A petty cash account has an imprest of D28,000. The account has a debit balance of D5.000. How much cash is needed to restore the imprest?",
+    "option": {
+      "a": "D33,000",
+      "b": "D28,000",
+      "c": "D23,000",
+      "d": "D5,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 370,
     "question": "In a not - for - profit making organization, when the total income \tis less than the total expenditure, the difference is a",
     "option": {
@@ -1803,6 +1979,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 382,
+    "question": "Which of the following information is recorded in the returns outwards book?",
+    "option": {
+      "a": "Goods purchased on credit and subsequently returned to supplier",
+      "b": "Fixed asset bought on credit and subsequently returned to supplier",
+      "c": "Cash payment received from a customer and subsequently returned to supplier",
+      "d": "Goods sold to a customer and subsequently returned to the business."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -2080,6 +2272,38 @@
     "examyear": "2007"
   },
   {
+    "id": 437,
+    "question": "Purchases of raw materials amount to N  81 000, direct labour is N  38 000 and factory overhead N  29 000. Calculate the prime cost.",
+    "option": {
+      "a": "N 176,000",
+      "b": "N 170,000",
+      "c": "N 167,000",
+      "d": "N  156,000."
+    },
+    "section": "Stock at start: Raw materials [N57, 000]; Work-in-progress [42, 000]; Finished goods [71, 000 ]",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 440,
+    "question": "Determine the closing stock.",
+    "option": {
+      "a": "N 5 500",
+      "b": "N  6500",
+      "c": "N 2500",
+      "d": "N 4500"
+    },
+    "section": "Use the information below to answer questions: Stock (1/1/02) at selling price [N2, 000 ]; Goods sent to branch (selling price)    [  ?  ]; Sales by branch (selling price)   [4, 500 ]; Stock (31/12/02)   [  \t?    ] Opening stock is 1/4 of goods sent to branch.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 442,
     "question": "In the trading and profit and loss account of a manufacturing organization, purchases is",
     "option": {
@@ -2219,6 +2443,38 @@
     "section": "Given: Prepaid b/f [N10, 000 ]; Cash paid during the year  [N20, 000]; Prepaid c/f [N5, 000] ",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 466,
+    "question": "Find the value of the total assets?",
+    "option": {
+      "a": "N 17 700",
+      "b": "N 10,500",
+      "c": "N 20,000",
+      "d": "N 15,400."
+    },
+    "section": "Use the information below to answer question: Net loss [N2,300]; Capital [N10,500]; Liabilities [N7, 200]",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 471,
+    "question": "What is the adjusted cash book balance?",
+    "option": {
+      "a": "N 14,680",
+      "b": "N 15,560",
+      "c": "N 16,440",
+      "d": "N17,000."
+    },
+    "section": "Use the Information below to answer questions: Balance as per cash book [N13, 560 ]; Unpresented cheques [N5, 120]; Uncredited lodgments [N2, 300] ; Dividend received not entered in the cash book  [N2, 000]; Bank charges [280 ]; Standing order payments [N600] Balance as per bank statement \t[?]",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -2752,6 +3008,22 @@
     "examyear": "2016"
   },
   {
+    "id": 595,
+    "question": "I. Members subscription\nII. Fines from members\nIII. Donation\nIV. Loan from bank\n\nFrom the information above, sources of income for a Not-for-profit-making organization include",
+    "option": {
+      "a": " I,III,IV",
+      "b": "I,II,III",
+      "c": "I,II,IV",
+      "d": "I and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a not-for-profit organization, income arises from voluntary receipts and charges related to its activities, such as:\n\nMembers’ subscriptions (I)\n\nFines levied on members (II)\n\nDonations (III)\n\nA loan from a bank (IV), by contrast, is not income but a liability that must be repaid.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 596,
     "question": "Clifford pays rent of ₦200 per month for premises, He paid ₦2,800 within the year. Compute the prepayment.",
     "option": {
@@ -2764,6 +3036,22 @@
     "image": "",
     "answer": "b",
     "solution": "Annual rent expense at ₦200/month = 12 × ₦200 = ₦2,400\n\nRent paid during the year = ₦2,800\n\nPrepayment (unexpired rent) = ₦2,800 – ₦2,400 = ₦400",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 597,
+    "question": "Purchases can be ascertained through the preparation of a",
+    "option": {
+      "a": "stock account",
+      "b": "sales account",
+      "c": "total debtors control account",
+      "d": "total creditors control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The creditors control account summarizes all credit purchases (along with opening balance, payments, returns, etc.). By balancing this account, you can back into the total purchases for the period.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3056,6 +3344,22 @@
     "examyear": "2018"
   },
   {
+    "id": 668,
+    "question": "When goods are sent to branch at cost plus mark up, it means that the branch should sell at_____________",
+    "option": {
+      "a": "Price above or below the stipulated price",
+      "b": "Any price but not below the transfer price",
+      "c": "Cost price",
+      "d": "A price that is equal to the mark up"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Cost plus mark up is a pricing strategy in which the selling price is determined by adding a specific amount mark up to a product unit cost",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 672,
     "question": "The amount called in respect of a share but not paid before or on the date fixed for payment is referred to as:",
     "option": {
@@ -3228,6 +3532,22 @@
     "image": "",
     "answer": "c",
     "solution": "The interest on Joy’s drawings is ₦9.75, calculated as follows:\n\n₦100 drawn on April 1 for 9 months:\n₦100 × 5% × 9/12 = ₦3.75\n\n₦240 drawn on July 1 for 6 months:\n₦240 × 5% × 6/12 = ₦6.00\n\nTotal interest = ₦3.75 + ₦6.00 = ₦9.75.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 709,
+    "question": "Which of the following is a conversion cost?",
+    "option": {
+      "a": "Factory overhead",
+      "b": "purchases",
+      "c": "material cost",
+      "d": "wages"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Conversion costs are costs required to convert raw materials into finished goods\n\n  Formula for conversion cost= direct labor+ factory overheads",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3680,6 +4000,22 @@
     "examyear": "2021"
   },
   {
+    "id": 808,
+    "question": "Capital and revenue expenditures of government are usually accounted for under funds which include",
+    "option": {
+      "a": " technical, special trust and commercial funds",
+      "b": " personal advances, technical and public funds",
+      "c": " personal advances, treasury clearance and special trust funds",
+      "d": "commercial loans and treasury clearance funds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In government accounting, capital and revenue expenditures are typically accounted for under various funds including:\n\nTechnical funds - for specific technical projects and operations\nSpecial trust funds - for funds held in trust for specific purposes\nCommercial funds - for government commercial activities and enterprises\n\nThese funds help segregate and track different types of government expenditures based on their nature and purpose, ensuring proper accountability and financial management in the public sector.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 811,
     "question": "In a departmental accounting system, which of the following expenses will most likely be apportioned on the basis of turnover",
     "option": {
@@ -3964,6 +4300,22 @@
     "image": "",
     "answer": "d",
     "solution": "By departmentalizing accounts, a business can track revenues, expenses, and profits separately for each division or department. This allows management to assess the performance of each division individually, rather than just seeing the firm’s overall results.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 868,
+    "question": "Given:\n\nCapital ...........₦1000\nLiabilities........₦500\nAssets.............₦1500\nThe accounting equation can be expressed as?",
+    "option": {
+      "a": "₦1000 + ₦500 + ₦1500 = ₦3000\n",
+      "b": "₦1000 - ₦500 + ₦1500 = ₦2000\n",
+      "c": "₦1000 + ₦500 = ₦1500\n",
+      "d": "₦1500 + ₦500 = ₦2000\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The fundamental accounting equation is:\nAssets = Capital + Liabilities\nGiven:\n\nCapital = ₦1,000\nLiabilities = ₦500\nAssets = ₦1,500\n\nSubstituting into the equation:\n₦1,500 = ₦1,000 + ₦500\n₦1,500 = ₦1,500",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -4508,6 +4860,22 @@
     "image": "",
     "answer": "d",
     "solution": "When cash is moved between the office and the bank (or vice versa), this creates a special type of entry in the cash book.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 980,
+    "question": "The factor that determine the periodic depreciation charge are?",
+    "option": {
+      "a": "asset cost, market value and useful life",
+      "b": "asset cost, market value and residusl value",
+      "c": "asset value, cash value useful life",
+      "d": "asset cost, salvage and useful life"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To calculate periodic depreciation, you need three key factors:\n1. Asset Cost (Original Cost)\n\nThe initial purchase price of the asset\nWhat you paid to acquire the asset\n\n2. Salvage Value (Residual Value)\n\nThe estimated value of the asset at the end of its useful life\nWhat you expect to get when you dispose of the asset\n\n3. Useful Life\n\nThe estimated period the asset will be used in the business\nHow long the asset will generate economic benefits\n\nDepreciation Formula:\nAnnual Depreciation = (Asset Cost - Salvage Value) ÷ Useful Life",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -5376,6 +5744,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1162,
+    "question": "<b>Use the information below to answer questions 47 and 48.</b>\n\nThe business was acquired on 1st April, 2002 at a purchase consideration of ₦120 000 by SOZ. All assets and liabilities were taken over except the cash.\n\nTo open the new firm’s bank account, additional ₦20,000 was paid into the bank.\n\nCalculate the network of the business",
+    "option": {
+      "a": "₦120,000",
+      "b": "₦90,000",
+      "c": "₦80,000",
+      "d": " ₦30,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663292/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q47-48_i1is6p.png",
+    "answer": "b",
+    "solution": "Net Worth of acquired business = ₦120,000 (assets) - ₦30,000 (liabilities) = ₦90,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1164,
     "question": "Mamza ₦igeria Limited issued 20 000 ordinary shares of ₦1.50 per share on 2nd July 2002.\n1500 ordinary shares were fully subscribed for and their monies received as below:\n\nOn application .........................₦0.40\nOn allotment ...........................₦0.20\nFirst call (including premium of ₦0.50)..₦0.70\n\nThe last and final call was yet to be made.\n\nWhat is the balance of the ordinary share capital account after the first call was received?",
     "option": {
@@ -5420,6 +5804,22 @@
     "image": "",
     "answer": "b",
     "solution": "COGS = Opening stock + Purchases + Direct production wages − Closing stock\n\nSo: ₦800 + ₦2,450 + ₦675 − ₦940\n= ₦3,925 − ₦940\n= ₦2,985",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1172,
+    "question": "<b>₦AFARA A₦D SO₦S Balance Sheet items as at 31st December, 1987.</b>\n\nCapital ₦74480\n\nCreditors ₦15875\n\nPrepaid expenses ₦580\n\nMotor vehicles ₦34750\n\nFurniture ₦35850\n\nAccrued expenses ₦645\n\nStock ₦8100\n\nCash balances ₦9911\n\nDebtors ₦1809\n\n\nCompute the value of current assets?",
+    "option": {
+      "a": "₦20400",
+      "b": "₦20465",
+      "c": "₦35695",
+      "d": "₦19820"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Current assets = Prepaid expenses + Stock + Cash + Debtors\n= ₦580 + ₦8,100 + ₦9,911 + ₦1,809\n= ₦20,400",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -6416,6 +6816,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1360,
+    "question": "<b>Use the information below to Answer questions 46 and 47.</b>\n\nAmong Limited invoiced goods at a cost of ₦10,000 to its Ikeja branch at a marginal of 20%. The branch later returned goods worth ₦1,200 at invoice price to the head office.\n\n\nThe profit marginal should be?",
+    "option": {
+      "a": "debit to goods sent to branch account",
+      "b": "debit to branch stock adjustment account",
+      "c": " credit to branch adjustment account",
+      "d": "credit to branch stock adjustment account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When the branch returns goods, you must reverse both the cost and the profit element originally charged. Here, the return at invoice price of ₦1,200 includes a 20% markup:\n\nCost component = ₦1,200 ÷ 1.20 = ₦1,000\n\nProfit component = ₦1,200 − ₦1,000 = ₦200\n\nTo reverse the profit element, you credit the Branch Stock Adjustment Account with ₦200.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1361,
     "question": "<b>Use the information below to Answer questions 46 and 47.</b>\n\nAmong Limited invoiced goods at a cost of ₦10,000 to its Ikeja branch at a marginal of 20%. The branch later returned goods worth ₦1,200 at invoice price to the head office.\n\n\nWhat is the correct entry in the head office books at the point of initial transfer of the goods?",
     "option": {
@@ -6766,6 +7182,22 @@
     "solution": "When goods are transferred to a department at the selling price, the department must separate the cost and the markup. The markup portion is removed from the stock valuation by debiting the Mark-up Account.",
     "examtype": "utme",
     "examyear": "199"
+  },
+  {
+    "id": 1415,
+    "question": "The most important reason for studying accounting is that",
+    "option": {
+      "a": " the information provided by accounting is useful in making decision",
+      "b": "Accounting plays an important role in the society",
+      "c": "the study of Accounting leads to challeging career",
+      "d": "Accounting provides gross profit information"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The primary purpose of accounting is to generate financial information that helps users (managers, investors, creditors, etc.) make better economic decisions",
+    "examtype": "UTME",
+    "examyear": "1997"
   },
   {
     "id": 1418,
