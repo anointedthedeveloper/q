@@ -1552,6 +1552,22 @@
     "examyear": "2001"
   },
   {
+    "id": 144,
+    "question": "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?\n\n(Take pi = 22/7)",
+    "option": {
+      "a": "23 m",
+      "b": "25 m",
+      "c": "20 m",
+      "d": "22 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Capacity = 3080 m<sup>3</sup>\nBase diameter = 14 m, thus radius = 7 m.\n\nVolume of cylinder = capacity of cylinder = πr<sup>2</sup>h. = 3080\n22/7 x 7<sup>2</sup> x h = 3080\nh = 3080/(22x7)\nh = 20 m",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 147,
     "question": "If the gradient of the curve y = 2kx<sup>2</sup> + x + 1 at x = 1 is 9, find k.",
     "option": {
@@ -4844,6 +4860,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715544958/ALOC-Questions/Mathematics/2007/JAMB_2007_Q7_lqji4p.jpg",
     "answer": "a",
     "solution": " =¯x=60/6=10=(∑|x-¯x|)/n=28/6                       = 4.7",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 429,
+    "question": "The table above gives the frequency distribution of marks obtained by a group of students in a test. If the total mark scored is 200, calculate the value of y",
+    "option": {
+      "a": "15",
+      "b": "13",
+      "c": "11",
+      "d": "8"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715544983/ALOC-Questions/Mathematics/2007/JAMB_2007_Q8_npkacb.jpg",
+    "answer": "c",
+    "solution": "Total mark scored = 200\nâˆ´200 = 15 + 4y - 4 + 5y + 54 + 28 + 8\n200 = 9y + 101\n200 - 101 = 9y\n99 = 9y\nâˆ´y = 11",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -9024,6 +9056,22 @@
     "examyear": "2016"
   },
   {
+    "id": 851,
+    "question": "If y = 2x<sup>3</sup> + 6x<sup>2</sup> + 6x + 1, Find dy/dx",
+    "option": {
+      "a": "6x<sup>2</sup> + 12x + 1",
+      "b": "6x<sup>2</sup> + 6x + 1",
+      "c": "6x<sup>2</sup> + 6x + 6",
+      "d": " 6x<sup>2</sup> + 12x + 6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = 2x<sup>3</sup> + 6x<sup>2</sup> + 6x + 1\n\ndy/dx\n = 6x<sup>2</sup> + 12x + 6",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 852,
     "question": "The nth term of the sequence 3, 9, 27, 81.....is",
     "option": {
@@ -10432,6 +10480,22 @@
     "examyear": "2019"
   },
   {
+    "id": 981,
+    "question": "Find the mean of the data.",
+    "option": {
+      "a": "3.26",
+      "b": "4.91",
+      "c": "6.57",
+      "d": "3.0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006789/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q14_k7xkuu.jpg",
+    "answer": "a",
+    "solution": "Mean = ∑fx/∑f\n= 150/46\n= 3.26",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 982,
     "question": "Find the variance",
     "option": {
@@ -11628,6 +11692,22 @@
     "image": "",
     "answer": "c",
     "solution": "W α (1/uv)/(u + v)\n\n\n∴ w = (k/uv)/(u + v)\n\n\n= k(u+v)/(uv)\n\n\nw = k(u+v)/uv\n\n\nw = 8, u = 2 and v = 6\n\n8 = k(2+6)/2(6)\n\n\n= k(8)/12\n\n\nk = 12\n\ni.e 12 ( u + v) = uwv",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1087,
+    "question": "If g(x) = x2<sup>2</sup> + 3x  find g(x + 1) - g(x)",
+    "option": {
+      "a": "(x + 2)",
+      "b": "2(x + 2)",
+      "c": " (2x + 1)",
+      "d": " (x<sup>2</sup> + 4)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "g(x) = x<sup>2</sup> + 3x\n\nWhen g(x + 1) = (x + 1)<sup>2</sup> + 3(x + 1) \n\n= x<sup>2</sup> + 1 + 2x + 3x + 3 \n\n= x<sup>2</sup> + 5x + 4\n\ng(x + 1) - g(x) = x<sup>2</sup> + 5x + 8 - (x<sup>2</sup> + 3x)\n\n= x<sup>2</sup> + 5x + 4 - x<sup>2</sup> -3x \n\n= 2x + 4 or 2(x + 4)\n\n= 2(x + 2)",
     "examtype": "utme",
     "examyear": "2021"
   },
