@@ -464,6 +464,54 @@
     "examyear": "2004"
   },
   {
+    "id": 171,
+    "question": "A dense white fume is formed when ammonia gas reacts with",
+    "option": {
+      "a": "H2(g)",
+      "b": "O2(g)",
+      "c": "HCI(g)",
+      "d": "Cl2(g)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 174,
+    "question": "To obtain pure carbon(II) oxide from its mixture with carbon (IV)oxide, the mixture should be",
+    "option": {
+      "a": "Bubbled through concentrated Tetraoxosulphate(VI) acid",
+      "b": "Bubbled through sodium hydroxide",
+      "c": "Passed over heated copper(II) oxide",
+      "d": "Bubbled through water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 176,
+    "question": "Metalloids are also referred to as",
+    "option": {
+      "a": "Metals",
+      "b": "Semi-metals",
+      "c": "Colloids",
+      "d": "Non-metals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 179,
     "question": "NH4CI(g) ⇌   NH3(g)  +  HCI(g)   The reaction above can only attain equilibrium if",
     "option": {
@@ -555,6 +603,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 233,
+    "question": "A difference between chemical and physical change is that in a chemical change",
+    "option": {
+      "a": "Heat is supplied",
+      "b": " A new substance is formed",
+      "c": "Oxygen is consumed",
+      "d": "A reversible process occurs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -667,6 +731,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 252,
+    "question": "Carbon exists naturally in the combined state as",
+    "option": {
+      "a": "Diamond",
+      "b": "Coal",
+      "c": "Wood",
+      "d": "Graphite"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -928,6 +1008,22 @@
     "examyear": "2015"
   },
   {
+    "id": 338,
+    "question": "The energy value of petrol can be determined by",
+    "option": {
+      "a": "Bomb calorimeter",
+      "b": "Catalytic cracker",
+      "c": "Fractionating column",
+      "d": "Thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A bomb calorimeter is used to measure the calorific (energy) value of fuels like petrol. The fuel is burned in a sealed oxygen-filled vessel surrounded by water, and the temperature rise is used to calculate the heat released.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 341,
     "question": "An oxidation state of Cr in K₂Cr₂O₇",
     "option": {
@@ -1004,6 +1100,22 @@
     "image": "",
     "answer": "b",
     "solution": "Corrosion (rusting of iron) requires both water and oxygen. Water acts as the electrolyte enabling electron transfer, while oxygen acts as the oxidizing agent. CO₂ is not an essential requirement for basic corrosion to occur.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 363,
+    "question": "The industrial preparation of hydrogen gas from water gas is referred to as",
+    "option": {
+      "a": "Bosch process",
+      "b": "Contact process",
+      "c": "Haber process",
+      "d": "Bayer process"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Bosch process produces hydrogen from water gas (CO + H₂) by reacting it with steam over a catalyst: CO + H₂O → CO₂ + H₂. The Contact process makes H₂SO₄; the Haber process synthesizes NH₃; the Bayer process extracts alumina from bauxite.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1408,6 +1520,22 @@
     "examyear": "2018"
   },
   {
+    "id": 481,
+    "question": "What volume of oxygen will remain after reacting 8 cm³ of hydrogen gas with 20 cm³ of oxygen gas?",
+    "option": {
+      "a": "10 cm³",
+      "b": "12 cm³",
+      "c": "14 cm³",
+      "d": "16 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reaction: 2H₂ + O₂ → 2H₂O. Molar ratio H₂:O₂ = 2:1. O₂ required to react with 8 cm³ H₂ = 8/2 = 4 cm³. O₂ remaining = 20 - 4 = 16 cm³.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 486,
     "question": "How many atoms are present in 6.0 g of magnesium? [Mg = 24, Nₐ = 6.02 × 10²³ mol⁻¹]",
     "option": {
@@ -1484,6 +1612,22 @@
     "image": "",
     "answer": "c",
     "solution": "CH₃CH₂COOCH₂CH₃ is an ester. The acid part is CH₃CH₂COO- (propanoic acid, 3 carbons), and the alcohol part is -CH₂CH₃ (ethyl group, 2 carbons). IUPAC name: ethyl propanoate. The alcohol portion names the ester first (ethyl), followed by the acid portion (-anoate): ethylpropanoate.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 511,
+    "question": "The IUPAC name of the compound CF₃CHBrCl is",
+    "option": {
+      "a": "2-chloro-2-bromo-1,1,1-trifluoroethane",
+      "b": "2-bromo-2-chloro-1,1,1-trifluoroethane",
+      "c": "1-bromo-1-chloro-2,2,2-trifluoroethane",
+      "d": "1,1,1-trifluoro-2-bromo-2-chloroethane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In CF₃CHBrCl: C1 carries the three F atoms, C2 carries Br, Cl, and H. Numbering to give lowest locants: C1 = CF₃ (F gets positions 1,1,1), C2 = CHBrCl (Br and Cl at position 2). Substituents listed alphabetically: bromo before chloro before fluoro. IUPAC name: 1-bromo-1-chloro-2,2,2-trifluoroethane.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1824,6 +1968,54 @@
     "examyear": "2021"
   },
   {
+    "id": 621,
+    "question": "The nucleus of an atom consists of?",
+    "option": {
+      "a": "Electrons and neutrons",
+      "b": "Electrons and protons",
+      "c": "Protons and neutrons",
+      "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The nucleus of an atom is made up of protons (positively charged) and neutrons (no charge), collectively called nucleons. Electrons are negatively charged particles that orbit the nucleus in energy levels (shells) outside the nucleus. The number of protons equals the atomic number, and protons plus neutrons give the mass number.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 622,
+    "question": "A solution contains 20g of solute in 180g of solvent. If the solvent is water, what is the concentration of the solution in terms of mass by mass percentage?",
+    "option": {
+      "a": "11%",
+      "b": "22.20%",
+      "c": "10%",
+      "d": "20%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mass by mass percentage = (mass of solute ÷ total mass of solution) × 100. Total mass of solution = 20 + 180 = 200 g. Percentage = (20 ÷ 200) × 100 = 10%.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 628,
+    "question": "The process or act of extracting a metal from its ore and refining it is called?",
+    "option": {
+      "a": "Extraction",
+      "b": "Metal mining",
+      "c": "Metallurgy",
+      "d": "Prospecting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Metallurgy is the science and technology of extracting metals from their ores, purifying them, and preparing them for use. It involves processes such as concentration of ore, reduction, smelting, and refining. Extraction refers to a single step, mining involves digging up ore, and prospecting involves searching for ore deposits.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 634,
     "question": "The process by which salt and water react in a limited way to form an acid or a base is?",
     "option": {
@@ -1888,6 +2080,22 @@
     "examyear": "2022"
   },
   {
+    "id": 647,
+    "question": "Using the metal activity series, the metal that can liberate hydrogen gas from steam is?",
+    "option": {
+      "a": "iron",
+      "b": "copper",
+      "c": "tin",
+      "d": "lead"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Only metals above hydrogen in the reactivity series can displace hydrogen from water or steam. Iron is sufficiently reactive to liberate hydrogen from steam at high temperatures: 3Fe + 4H₂O → Fe₃O₄ + 4H₂. Copper, tin, and lead are all below or at the level of hydrogen in the reactivity series and cannot liberate hydrogen from steam.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 652,
     "question": "A coloured gas that is known to be poisonous and can readily damage the mucous lining of the lungs is?",
     "option": {
@@ -1916,6 +2124,22 @@
     "image": "",
     "answer": "d",
     "solution": "Mole ratio: C = 69/12 = 5.75; H = 15.3/1 = 15.3; O = 30.7/16 = 1.919. Divide each by the smallest (1.919): C = 3.0; H = 7.97 ≈ 8; O = 1. Empirical formula = C₃H₈O.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 659,
+    "question": "If the volume of a given mass of a gas at 0°C is 29.5cm³. What will be the volume of the gas at 15°C, given that the pressure remains constant?",
+    "option": {
+      "a": "31.6",
+      "b": "62.2",
+      "c": "32.7",
+      "d": "31.1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using Charles's Law: V₁/T₁ = V₂/T₂ at constant pressure. T₁ = 0°C = 273 K; V₁ = 29.5 cm³; T₂ = 15°C = 288 K. V₂ = 29.5 × 288 ÷ 273 = 31.12 ≈ 31.1 cm³.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -2032,6 +2256,22 @@
     "examyear": "2023"
   },
   {
+    "id": 688,
+    "question": "Which of the following methods can be used to remove temporary hardness from water?",
+    "option": {
+      "a": "Boiling",
+      "b": "Filtration",
+      "c": "Sedimentation",
+      "d": "Chlorination"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Temporary hardness is caused by dissolved calcium and magnesium hydrogen carbonates (bicarbonates). Boiling decomposes these salts: Ca(HCO₃)₂ → CaCO₃ + H₂O + CO₂. The insoluble CaCO₃ precipitates out, removing the hardness. Filtration, sedimentation, and chlorination do not remove dissolved bicarbonate salts causing temporary hardness.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 689,
     "question": "What is Faraday's constant?",
     "option": {
@@ -2044,6 +2284,38 @@
     "image": "",
     "answer": "d",
     "solution": "Faraday's constant (F) is the electric charge carried by one mole of electrons, equal to 96,485 coulombs per mole (approximately 96,500 C/mol). It is used in electrochemistry calculations relating the amount of substance deposited or dissolved at an electrode to the quantity of electricity passed. 6.022 × 10²³ is Avogadro's number, 3.00 × 10⁸ m/s is the speed of light, and 9.81 m/s² is gravitational acceleration.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 690,
+    "question": "A gas occupies a volume of 1.5 liters at a pressure of 2 atmospheres. If the pressure is increased to 4 atmospheres while the temperature remains constant, what will be the new volume of the gas?",
+    "option": {
+      "a": "6 liters",
+      "b": "1.5 liters",
+      "c": "0.75 liters",
+      "d": "3 liters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using Boyle's Law: P₁V₁ = P₂V₂ at constant temperature. P₁ = 2 atm; V₁ = 1.5 L; P₂ = 4 atm. V₂ = P₁V₁ ÷ P₂ = (2 × 1.5) ÷ 4 = 3.0 ÷ 4 = 0.75 litres.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 694,
+    "question": "Balance the following redox reaction: Fe₂O₃ + CO → Fe + CO₂",
+    "option": {
+      "a": "Fe₂O₃ + CO → 2Fe + 2CO₂",
+      "b": "2Fe₂O₃ + 3CO → 4Fe + 3CO₂",
+      "c": "Fe₂O₃ + 2CO → 2Fe + 2CO₂",
+      "d": "Fe₂O₃ + 3CO → 2Fe + 3CO₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Balancing Fe₂O₃ + CO → Fe + CO₂. Fe: 2 on left, so 2Fe on right. O: Fe₂O₃ has 3 oxygen atoms. Each CO takes 1 oxygen to become CO₂, so 3CO are needed to remove all 3 oxygens: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Check: Fe: 2=2; O: 3+3=6 on left, 6 on right; C: 3=3. Balanced.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -2444,6 +2716,22 @@
     "image": "",
     "answer": "b",
     "solution": "During laboratory preparation of Cl₂ (using MnO₂ and concentrated HCl), HCl gas is carried along as an impurity. Passing through water removes HCl because HCl is extremely soluble in water, while Cl₂ is only slightly soluble and passes through.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 785,
+    "question": "If a gold bar and a silver bar are tied together firmly and left for years, some of the gold particles will be found in the silver bar due to",
+    "option": {
+      "a": "Brownian movement",
+      "b": "diffusion",
+      "c": "displacement",
+      "d": "osmosis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Diffusion is the spontaneous net movement of particles from a region of higher concentration to one of lower concentration. Even in solids, atoms can slowly diffuse into adjacent materials over very long periods, explaining why gold atoms migrate into the silver bar.",
     "examtype": "utme",
     "examyear": "2025"
   },
