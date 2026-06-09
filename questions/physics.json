@@ -5312,6 +5312,22 @@
     "examyear": "2019"
   },
   {
+    "id": 362,
+    "question": "Which of the following media allow the transmission of sound waves through them?\nI. air\nII. liquid\nIII. Solids",
+    "option": {
+      "a": "I & II only",
+      "b": "I & III only",
+      "c": "II & III only",
+      "d": " I, II & III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Sound travels through solids, liquids & gases\nSound travels faster in solid than in liquid & faster in liquid than in gases.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 363,
     "question": "The earth's gravitational field intensity at its surface is about (G = 6.7 × 10⁻¹¹ Nm²/kg², mass of the earth is 6 × 10²⁴ kg, radius of the earth is 6.4 × 10⁶ m, g on the earth = 9.8 m/s²)",
     "option": {
@@ -6668,6 +6684,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a sound wave goes from a cold air region to a hot air region, its wavelength will increase because sound travels faster in hot air while the frequency remains constant.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 454,
+    "question": "The lowest note emitted by a stretched string has a frequency of 40Hz. How many overtones are there between 40Hz and 180Hz?",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "There are 3 overtones between 40Hz and 180Hz (specifically at 80Hz, 120Hz, and 160Hz).",
     "examtype": "utme",
     "examyear": "2021"
   },
