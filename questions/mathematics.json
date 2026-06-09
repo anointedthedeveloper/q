@@ -80,6 +80,22 @@
     "examyear": "2006"
   },
   {
+    "id": 7,
+    "question": "In a class, 37 students take a least one of chemistry, Economics and Government, 8 students take Chemistry, 19 take Economics and 25 take Government, 12 students take Economics and Government but nobody takes Chemistry and Economics. How many students take both chemistry and Government? ",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 8,
     "question": "Solve for p in the following  equation given in base two  11(p+ 110) = 1001p   ",
     "option": {
@@ -512,6 +528,22 @@
     "examyear": "2008"
   },
   {
+    "id": 48,
+    "question": "One angle of an octagon is 1000 while the other sides are equal. Find each of these exterior angles. ",
+    "option": {
+      "a": "800,",
+      "b": "600,",
+      "c": "1400,           ",
+      "d": "400,   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 49,
     "question": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?. ",
     "option": {
@@ -686,6 +718,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 66,
+    "question": "Solve 4x2 +20x -24 =0",
+    "option": {
+      "a": " 1, 6",
+      "b": " -1, -6",
+      "c": "6, -1",
+      "d": "-6, 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
   },
   {
     "id": 69,
@@ -4336,6 +4384,22 @@
     "examyear": "2006"
   },
   {
+    "id": 410,
+    "question": "Find the value of k if the expression kx3 + x2 - 5x - 2 leaves a remainder 2 when it is divided by 2x + 1",
+    "option": {
+      "a": "10",
+      "b": " 8",
+      "c": "-10",
+      "d": "-8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "F(x) = Q x D + R\nKx3 + x2 - 5x – 2 = Q(2x+1)+R\nIf 2x+1 = 0 implies x = -1/2\n∴k(-1/2)<sup>3</sup> + (-1/2)<sup>2</sup> -5(-1/2) -2\n= Q(2(-1/2) + 1) +2\nK(-1/8) + 1/4 + 5/2 - 2 = Q(-1+1)+2\n-k/8 + 1/4 + 5/2 - 2 = 0+2\n(-k+2+20-16) / 8 = 2\n(-k+6) / 8 = 2\n-k+6 = 2*8\n-k+6 = 16\n-k = 16-6\n-k = 10\n∴k = -10",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 411,
     "question": "Solve the inequalities for which \n \n (x + 4)/(3) - (x -3)/(2)  < 4",
     "option": {
@@ -5180,6 +5244,22 @@
     "image": "",
     "answer": "b",
     "solution": "sin x - x cos x\ndy/dx = cos x - [1.cos x + x -sin x]\n= co x - [cos x - x sin x]\n= cos x - cos x + x sin x\n= x sin x",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 505,
+    "question": "Evaluate ∫<sub>1</sub> <sup>2</sup>〖(6x<sup>2</sup>-2x)dx〗〗",
+    "option": {
+      "a": "16",
+      "b": "13",
+      "c": "12",
+      "d": "11"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mn>1</mn>\n    <mn>2</mn>\n  </msubsup>\n  <mo stretchy=\"false\">(</mo>\n  <mn>6</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>2</mn>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mi>d</mi>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "∫<sub>2</sub><sup>2</sup> 〖(6x<sup>2</sup> -2x)dx=[(6x<sup>3</sup> )/3-(2x<sup>2</sup> )/2 ]<sub>1</sub><sup>2</sup> = [2x<sup>3</sup> -x<sup>2</sup>  ]<sub>1</sub><sup>2</sup>  〗",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -6288,6 +6368,22 @@
     "examyear": "2010"
   },
   {
+    "id": 609,
+    "question": "The interior angles of a quadrilateral are (x + 15)°, (2x - 45)°, ( x - 30)° and (x + 10)°. Find the value of the least interior angle.",
+    "option": {
+      "a": "112°",
+      "b": "102°",
+      "c": "82°",
+      "d": "52°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "(x + 15)o + (2x - 45)o + (x + 10)o = (2n - 4)90o\n\nwhen n = 4\n\nx + 15o + 2x - 45o + x - 30o + x + 10o = (2 x 4 - 4) 90o\n\n5x - 50° = (8 - 4)90°\n\n5x - 50° = 4 x 90° = 360°\n\n5x = 360° + 50°\n\n5x = 410°\n\nx = 410°/5\n\n= 82°\n\nHence, the value of the least interior angle is (x - 30°)\n\n= (82 - 30)°\n\n= 52°",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 610,
     "question": "A cylindrical pipe 50m long with radius 7m has one end open. What is the total surface area of the pipe?\n",
     "option": {
@@ -6332,6 +6428,22 @@
     "image": "",
     "answer": "d",
     "solution": "Let (x1, y1) = (1, 1) and (x2, y2)= (2, 5)\n\nthen gradient m of PQ¯ is\n\nm = y<sub>2</sub>−y<sub>1</sub>/x2−x1 = 5−1/2−1\n\n= 4/1\n\n= 4",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 613,
+    "question": "If cotθ = 8/15, where θ is acute, find sinθ",
+    "option": {
+      "a": "8/17",
+      "b": "15/17",
+      "c": "16/17",
+      "d": "13/17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "cotθ = 1/cosθ\n\n= 8/15(given)\n\ntanθ = 15/18\n\nBy Pythagoras theorem,\n\nx<sup>2</sup> = 152 + 82\n\nx2 = 225 + 64 = 289\n\nx = √289\n\n= 17\n\nHence sinθ = 15/x\n\n= 15/17",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -6636,6 +6748,22 @@
     "image": "",
     "answer": "b",
     "solution": "x2 + 2x > 15\n\nx2 + 2x - 15 > 0\n\n(x2 + 5x) - (3x - 15) > 0\n\nx(x + 5) - 3(x + 5) >0\n\n(x - 3)(x + 5) > 0\n\ntherefore, x = 3 or -5\n\ni.e. x< 3 or x > -5",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 639,
+    "question": "Find the sum of the first 18 terms of the series 3, 6, 9,..., 36.",
+    "option": {
+      "a": "505",
+      "b": "513",
+      "c": "433",
+      "d": "635"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "3, 6, 9,..., 36.\n\na = 3, d = 3, i = 36, n = 18\n\nS<sub>n</sub> = n/2\n [2a + (n - 1)d\n\nSS<sub>18</sub> = 18/2\n [2 x 3 + (18 - 1)3]\n\n= 9[6 + (17 x 3)]\n\n= 9 [6 + 51] = 9(57)\n\n= 513",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -7248,6 +7376,22 @@
     "examyear": "2012"
   },
   {
+    "id": 741,
+    "question": "If ∣∣∣5, x, 3, 2∣∣∣ = ∣∣∣3, 4, 5, 5∣∣∣, find the value of x",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716130351/ALOC-Questions/Mathematics/2012/2012_JAMB_Q21_ljgupi.jpg",
+    "answer": "c",
+    "solution": "10 - 3x = 15 - 20\n\n-3x = 15 - 20 - 10\n\n-3x = -15\n\nx = 5",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 742,
     "question": "Given that I<sub>3</sub>  is a unit matrix of order 3, find |I<sub>3</sub> |",
     "option": {
@@ -7708,6 +7852,22 @@
     "image": "",
     "answer": "b",
     "solution": "S = √(t<sup>2</sup> −4t + 4)\n\n\nS<sup>2</sup> = t<sup>2</sup> - 4t + 4\n\nt<sup>2</sup> - 4t + 4 - S<sup>2</sup> = 0\n\nUsing t = −b ± √(b<sup>2</sup −4ac)/2a\n\n\nSubstituting, we have;\n\nUsing t = −(−4) ±)√(−4)<sup>2</sup> −4(1)(4−S<sup>2</sup.>/2(1)\n\n\nt = 4 ±√(16−4(4−S<sup>2</sup>)/2\n\n\nt = 4 ±√(16−16+4S<sup>2</sup>/2\n\n\nt = 4 ±√(4S<sup>2</sup>/2\n\n\nt = 2(2±S)/2\n\n\nHence t = 2 + S or t = 2 - S",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 779,
+    "question": "If x - 4 is a factor of x<sup>2</sup> - x - k, then k is",
+    "option": {
+      "a": "4",
+      "b": "12",
+      "c": "20",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let f(x) = x<sup>2</sup> - x - k\nThen by the factor theorem,\n\n(x - 4): f(4) = (4)<sup>2</sup> - (4) - k = 0\n\n16 - 4 - k = 0\n\n12 - k = 0\n\nk = 12",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -10364,6 +10524,22 @@
     "image": "",
     "answer": "b",
     "solution": "Equation through (5,7) parallel to the line \n\n7x + 5y = 12\n\n5y = 7x + 12 \n\ny = −7x/5 + 12/5\nGradient = −7/5\n \nRequired equation = (y−7)/(x − 5) = −7/5\ni.e. 5y - 35 = -7x + 35\n\n5y + 7x = 70",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1037,
+    "question": "If N225.00 yields N27.00 in x years simple interest at the rate of 4% per annum, find x. ",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "12",
+      "d": "17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Principal = N225.00, interest = N27.00\n\nYear = x, Rate = 4% \n\n1 = PRT/100\n27 = (225 × 4 × X)/100 = 2700  = 900T\n\nT = 2700/900\n \n\n= 3 years",
     "examtype": "2020",
     "examyear": "utme"
   },
