@@ -352,6 +352,22 @@
     "examyear": "2007"
   },
   {
+    "id": 29,
+    "question": "A rectangular metal block of volume 10-6m3 at 273K is heated to 573K, if the coefficient of linear expansion is 1.2 x 10-5K-1, the percentage change of its volume is ",
+    "option": {
+      "a": "1.50%",
+      "b": "1.10%",
+      "c": "0.10%",
+      "d": "0.40%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 30,
     "question": "A temperature scale has a lower fixed point of 40mm and an upper fixed point of 200mm. What is the reading on this scale when the temperature reads 60oc? ",
     "option": {
@@ -439,6 +455,22 @@
       "b": "2.25ms-1 ",
       "c": "4.00ms-1 ",
       "d": "4.33ms-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 37,
+    "question": "It is known that an atomic nucleus comprises of positive charged protons. Which of the following also exist in the nucleus? ",
+    "option": {
+      "a": "a beta particle ",
+      "b": "an Alpha particle ",
+      "c": "A neutron ",
+      "d": "An electron"
     },
     "section": "",
     "image": "",
@@ -1728,6 +1760,22 @@
     "examyear": "2015"
   },
   {
+    "id": 159,
+    "question": "What type of electromagnetic radiation can be used to take photographs in the haze?",
+    "option": {
+      "a": " Radio waves",
+      "b": " infrared rays",
+      "c": "Visible light",
+      "d": "Gamma rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Infrared rays are easily detected by special photographic films and it can be used for taking picture in haze",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 160,
     "question": "f a mango fruit dropped at a height of 50 meters. How long does it reach the ground? (take g = 10m/s2)",
     "option": {
@@ -1884,6 +1932,22 @@
     "image": "",
     "answer": "b",
     "solution": "Neutron were discovered by James Chadwick in 1931",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 176,
+    "question": "If a projectile has maximum range of 36m, find the speed of projection (Take g = 9.8m/s2)",
+    "option": {
+      "a": "19m/s",
+      "b": "2m/s",
+      "c": " 4m/s²",
+      "d": "7m/s²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMaximum range (R) = 36 m\nAcceleration due to gravity (g) = 9.8 m/s²\nSpeed of projection (u) = ?\n\nKey concept:\nMaximum range occurs when the projectile is launched at 45° angle.\nFormula for maximum range:\nR_max = u²/g\nRearranging to find u:\nu² = R × g\nu = √(R × g)\nSubstituting values:\nu = √(36 × 9.8)\nu = √352.8\nu = 18.78 m/s\nu ≈ 19 m/s",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2576,6 +2640,22 @@
     "examyear": "2017"
   },
   {
+    "id": 232,
+    "question": "Calculate the electric field intensity between two plates of potential difference 6.5V when separated by a distance of 35cm.",
+    "option": {
+      "a": "18.57 NC⁻¹",
+      "b": "53.06 NC⁻¹",
+      "c": "2.28 NC⁻¹",
+      "d": "0.80 NC⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nPotential difference (V) = 6.5V\nDistance between plates (d) = 35cm = 0.35m\nElectric field intensity (E) = ?\n\nFormula:\nE = V/d\nSubstituting values:\nE = 6.5/0.35\nE = 18.57 V/m or NC⁻¹\nNote: Electric field units V/m and NC⁻¹ are equivalent.\n\nThe electric field intensity between the two plates is 18.57 NC⁻¹.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 233,
     "question": "Why do soldiers march disorderly while crossing a bridge?",
     "option": {
@@ -2780,6 +2860,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nMass (m) = 50 kg\nHeight (h) = 5 m\nTime (t) = 5 seconds\nAcceleration due to gravity (g) = 10 m/s²\nPower (P) = ?\n\nStep 1: Calculate work done against gravity\nWork = Force × Distance\nWork = Weight × Height\nWork = mgh\nWork = 50 × 10 × 5\nWork = 2500 J\nStep 2: Calculate power\nPower = Work/Time\nP = 2500/5\nP = 500 W",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 252,
+    "question": "A radio station broadcasts at a frequency of 600KHz. If the speed of light in air is 3 × 10⁸ ms⁻¹. Calculate the wavelength of the radio wave",
+    "option": {
+      "a": "2.20 × 10³m",
+      "b": "5.0 × 10²m",
+      "c": "5.0 × 10⁵m",
+      "d": "11.8 × 10¹¹m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nFrequency (f) = 600 KHz = 600 × 10³ Hz = 6 × 10⁵ Hz\nSpeed of light (v) = 3 × 10⁸ m/s\nWavelength (λ) = ?\n\nFormula:\nv = fλ\nRearranging to find wavelength:\nλ = v/f\nSubstituting values:\nλ = (3 × 10⁸)/(6 × 10⁵)\nλ = (3/6) × 10⁸⁻⁵\nλ = 0.5 × 10³\nλ = 5.0 × 10² m",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4224,6 +4320,22 @@
     "examyear": "2019"
   },
   {
+    "id": 380,
+    "question": "A few grains of table salt were put in a cup of cold water, kept at constant temperature and left undistributed. Eventually all the water tested salty. This action is due to?",
+    "option": {
+      "a": "convection",
+      "b": "osmosis",
+      "c": "capillarity",
+      "d": "diffusion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The spreading of salt throughout the water is due to diffusion - the random movement of particles from regions of high concentration to low concentration until evenly distributed.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 382,
     "question": "\nA machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms⁻¹. The recoil speed of the machine gun is",
     "option": {
@@ -4876,6 +4988,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nMass ratio: m₁ : m₂ = 3 : 1\nAcceleration ratio: a₁ : a₂ = 2 : 9\nForce ratio: F₁ : F₂ = ?\n\nUsing Newton's Second Law:\nF = ma\nFor body 1:\nF₁ = m₁a₁\nFor body 2:\nF₂ = m₂a₂\nFinding the ratio of forces:\nF₁/F₂ = (m₁a₁)/(m₂a₂)\nF₁/F₂ = (m₁/m₂) × (a₁/a₂)\nSubstituting the given ratios:\nF₁/F₂ = (3/1) × (2/9)\nF₁/F₂ = 6/9\nF₁/F₂ = 2/3\nTherefore:\nF₁ : F₂ = 2 : 3",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 439,
+    "question": "A particle of mass 10⁻² kg is fixed to the tip of a fan blade which rotates with angular velocity of 100 rad s⁻¹. If the radius of the blade is 0.2m, the centripetal force is?",
+    "option": {
+      "a": "2N",
+      "b": "20N",
+      "c": "200N",
+      "d": "400N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMass (m) = 10⁻² kg = 0.01 kg\nAngular velocity (ω) = 100 rad/s\nRadius (r) = 0.2 m\nCentripetal force (F) = ?\n\nFormula for centripetal force:\nF = mω²r\nSubstituting values:\nF = 0.01 × (100)² × 0.2\nF = 0.01 × 10,000 × 0.2\nF = 0.01 × 2,000\nF = 20 N",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -7232,6 +7360,22 @@
     "examyear": "2005"
   },
   {
+    "id": 666,
+    "question": "which of the following materials is a conductor?",
+    "option": {
+      "a": "Glass",
+      "b": "Wax",
+      "c": "Sodium",
+      "d": "Plastic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Sodium is a soft, silvery-white metal that is a good conductor of electricity. It has free-moving electrons, which allows it to conduct electrical current efficiently",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 667,
     "question": "When the temperature difference between the wet and dry bulbs of a hygrometer is high, this indicates that",
     "option": {
@@ -7676,6 +7820,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nHeater current, I = 2.0 A\n\nHeater voltage, V = 240 V\n\nMass of water, m = 2.5 kg\n\nInitial temperature, T₁ = 52 °C\n\nFinal temperature, T₂ = 100 °C\n\nSpecific heat capacity of water, c = 4.2 × 10³ J kg⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Compute the power of the heater\nPower, P = I × V = 2.0 A × 240 V = 480 W\n\nStep 2: Compute the heat energy required to raise the water temperature\nTemperature change, ΔT = T₂ − T₁ = 100 °C − 52 °C = 48 K\nHeat required, Q = m × c × ΔT = 2.5 kg × 4.2 × 10³ J kg⁻¹ K⁻¹ × 48 K\n\nStep 3: Calculate Q\nFirst, 2.5 × 4.2 × 10³ = 10.5 × 10³ = 1.05 × 10⁴\nThen, 1.05 × 10⁴ × 48 = 1.05 × 10⁴ × 4.8 × 10¹ = (1.05 × 4.8) × 10⁵ = 5.04 × 10⁵ J\nStep 4: Equate heat energy to electrical energy supplied\nElectrical energy supplied in time t: E = P × t\nAssuming no losses, Q = E ⇒ t = Q / P\n\nStep 5: Calculate time t\nt = 504000 J / 480 W = 1050 s\n\nStep 6: Express in scientific notation\n1050 s = 1.05 × 10³ s",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 705,
+    "question": "The thermos flask is designed to?",
+    "option": {
+      "a": " prevent heat loss or gain by conduction, convection and radiation",
+      "b": " store hot tea or water",
+      "c": " prevent heat gain by conduction, convection and radiation",
+      "d": "prevent heat lost by conduction, convention and radiation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The thermos flask is designed to: A. prevent heat loss or gain by conduction, convection, and radiation\n\nIts design minimizes heat transfer in all three forms, keeping liquids hot or cold for extended periods.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -8764,6 +8924,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nNumber of revolutions = 90\nTime (t) = 25 s\nFrequency (f) = ?\n\nFormula for frequency:\nFrequency = Number of revolutions / Time taken\nf = N/t\nSubstituting values:\nf = 90/25\nf = 3.6 Hz",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 805,
+    "question": "If a body of mass 5kg is thrown vertically upwards with velocity u, at what height will the potential energy equal to the kinetic energy?",
+    "option": {
+      "a": " h = u²/g",
+      "b": " h = u²/4g",
+      "c": " h = (2u)²/g",
+      "d": "h = u²/2g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMass (m) = 5 kg\nInitial velocity = u\nHeight where PE = KE → h = ?\n\nSetting up energy equations:\nTotal mechanical energy at launch:\nE_total = ½mu² (all kinetic, PE = 0 at ground)\nAt height h:\n\nKE = ½mv²\nPE = mgh\n\nUsing conservation of energy:\nKE + PE = ½mu²\n½mv² + mgh = ½mu²\nCondition: PE = KE\nLet PE = KE = X\nTherefore:\nX + X = ½mu²\n2X = ½mu²\nX = ¼mu²\nSince PE = X:\nmgh = ¼mu²\nDividing both sides by m:\ngh = u²/4\nSolving for h:\nh = u²/4g",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -10064,6 +10240,22 @@
     "examyear": "2010"
   },
   {
+    "id": 920,
+    "question": "In comparing the camera and the human eye, the film of the camera function as the?",
+    "option": {
+      "a": "retina",
+      "b": "iris",
+      "c": "cornea",
+      "d": "pupil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The retina is light sensitive layer living the inner wall of the eye where image is formed. in the camera, image is formed on a light sensitive film.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 921,
     "question": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is?",
     "option": {
@@ -10880,6 +11072,22 @@
     "examyear": "2011"
   },
   {
+    "id": 997,
+    "question": "In an A.C circuit, the ratio of r.m.s value to peak value of current is",
+    "option": {
+      "a": "2",
+      "b": " 1/2",
+      "c": "1/√2",
+      "d": "√2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nUnderstanding AC current:\nFor a sinusoidal alternating current:\n\nPeak value (I₀): Maximum current value\nRMS value (I_rms): Root Mean Square value (effective current)\n\nRelationship between RMS and peak values:\nI_rms = I₀/√2\nCalculating the ratio:\nRatio = I_rms/I₀\nRatio = (I₀/√2)/I₀\nRatio = 1/√2\nNumerical value:\n1/√2 = 0.707\nRationalized form:\n1/√2 = √2/2 ≈ 0.707",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 998,
     "question": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is",
     "option": {
@@ -11664,6 +11872,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1069,
+    "question": "Capacitors are used in the induction coil to",
+    "option": {
+      "a": " control circuits",
+      "b": " prevent distortion of electric fields",
+      "c": "prevent electric sparks",
+      "d": "dissipate energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Capacitors are used to prevent electric sparks.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1070,
     "question": "A cell of emf 1.5V is connected in series with a 1Ω resistor and a current of 0.3A flows through the resistor. Find the internal resistance of the cell",
     "option": {
@@ -12272,6 +12496,22 @@
     "examyear": "2025"
   },
   {
+    "id": 1134,
+    "question": "A 500W electric oven plugged into a 220 V source will consume an electric current of",
+    "option": {
+      "a": "4.88A",
+      "b": "2.27A",
+      "c": "6.43A",
+      "d": "3.23A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nPower, P = 500 W\nVoltage, V = 220 V\n\nSolution:\n\nStep 1: Formula for electric power\nThe power in an electrical device is given by:\nP = I × V\nwhere I is the current.\n\nStep 2: Rearrange to find current\nI = P / V\n\nStep 3: Substitute values\nI = 500 W / 220 V = 2.2727 A ≈ 2.27 A",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 1135,
     "question": "A hydraulic press consists of two cylinders of cross-sectional radius r₁ and r₂. If a force of 200 N applied to the smaller piston (r₁) causes a force of 3200 N to be transmitted onto the larger piston (r₂). The ratio r₁ : r₂ is?",
     "option": {
@@ -12380,6 +12620,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nInitial temperature, T₁ = 0 °C = 273 K\nInitial volume, V₁ = 200 m³\nFinal temperature, T₂ = 273 °C = 273 + 273 = 546 K\nPressure is constant.\n\nSolution:\n\nStep 1: Charles' law\nAt constant pressure, V ∝ T (absolute temperature).\nV₁ / T₁ = V₂ / T₂\n\nStep 2: Rearrange to find V₂\nV₂ = V₁ × (T₂ / T₁)\n\nStep 3: Substitute values\nV₂ = 200 × (546 / 273) = 200 × 2 = 400 m³",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1146,
+    "question": "The device that operates using the magnetic effect of electric current is",
+    "option": {
+      "a": "Rheostat",
+      "b": "Thermostat",
+      "c": " Electric bell",
+      "d": "Carbon microphone"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An electric bell works using an electromagnet.",
     "examtype": "utme",
     "examyear": "2025"
   },
