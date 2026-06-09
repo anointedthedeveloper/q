@@ -380,6 +380,25 @@
     "category": "others"
   },
   {
+    "id": 90,
+    "question": "I don’t coming home, is he?......... he is isn’t.",
+    "option": {
+      "a": "Yes",
+      "b": "No",
+      "c": "won",
+      "d": "now"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 94,
     "question": "The police claim that a number of stolen cars…………. recovered.",
     "option": {
@@ -703,6 +722,25 @@
     "category": "others"
   },
   {
+    "id": 192,
+    "question": "Tsadu always cautions that difficult jobs should be done",
+    "option": {
+      "a": "step from step ",
+      "b": "step by step",
+      "c": "steps after steps    ",
+      "d": "steps by steps"
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 196,
     "question": "Is it true that Okoro……..  when the gates were closed?",
     "option": {
@@ -847,6 +885,25 @@
     "section": "choose the option that best completes the gap(s).",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 236,
+    "question": "The investigation Commission has treated all the …… submitted to it by the warring factions",
+    "option": {
+      "a": "protests ",
+      "b": "petitions ",
+      "c": "applications",
+      "d": "enquires "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006",
@@ -1349,6 +1406,25 @@
     "category": "others"
   },
   {
+    "id": 346,
+    "question": "... went to the stadium to watch a football match.",
+    "option": {
+      "a": "Amadi and me  ",
+      "b": "Amadi and I   ",
+      "c": "Me and  Amadi   ",
+      "d": "Amadi and myself  "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 348,
     "question": "When they examined his body, they found that he ...",
     "option": {
@@ -1406,6 +1482,25 @@
     "category": "others"
   },
   {
+    "id": 355,
+    "question": "The girl cannot speak with a clear voice; she is always ………. ",
+    "option": {
+      "a": "blabbing ",
+      "b": " vociferating ",
+      "c": " stuttering ",
+      "d": "gesticulating "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 356,
     "question": "The politician …….. the family of the deceased.  ",
     "option": {
@@ -1432,6 +1527,25 @@
       "b": "expected/win arrive ",
       "c": "expects/will arrive",
       "d": "expected/would arrive "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 361,
+    "question": "I………  to pursue my education.",
+    "option": {
+      "a": "did not chance   ",
+      "b": "did not have the opportunity",
+      "c": "was not chanced    ",
+      "d": "was not opportuned "
     },
     "section": "choose the option that best completes the gap(s).",
     "image": "",
@@ -1797,6 +1911,25 @@
     "section": "choose the option that has the same vowel sound as the represented by the letter(s) underlined.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 438,
+    "question": " ju<u>dge</u> ",
+    "option": {
+      "a": "measure",
+      "b": "General ",
+      "c": "Pressure",
+      "d": "Grace "
+    },
+    "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008",
@@ -2432,6 +2565,25 @@
     "category": "others"
   },
   {
+    "id": 534,
+    "question": "The teacher said that All's essay was full of many  <i>redundant</i>  details ",
+    "option": {
+      "a": "unexplained ",
+      "b": "strange",
+      "c": "necessary ",
+      "d": "useful"
+    },
+    "section": "choose the option opposite In meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 539,
     "question": "The captain says sports is being  <i>debased</i>  by commercial sponsorship ",
     "option": {
@@ -2926,6 +3078,25 @@
     "category": "others"
   },
   {
+    "id": 724,
+    "question": "Pl<u>ea</u>sure?",
+    "option": {
+      "a": "pliable",
+      "b": "pleat",
+      "c": " plenary",
+      "d": "jeopardy"
+    },
+    "section": "<b>LEXIS, STRUCTURE AND ORALFORMS</b> In each of the question 26 to 30 Choose the option that has the same vowel sound as the one represented by the letters underlined.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "pleasure is pronounced as [ˈplɛʒə], our area of emphasis is on the ''ea'' sound which goes thus ''ɛ''. As usual, i am going to give you the pronunciation of all the options above and the one with the same vowel sound as  depicted above, will be the correct answer.\n\npliable--- [ˈplʌɪəb(ə)l]\n\npleat----- [pliːt]\n\nplenary-- [ˈpliːnəri]\n\njeopardy--- [ˈdʒɛpədi]. from the list of possible pronunciations above, you can see that only jeopardy [ˈdʒɛpədi] has the vowel sound ''ɛ'' and it is therefore the correct answer to the question.\n\n ",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 28,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 730,
     "question": "HONOUR?",
     "option": {
@@ -3116,6 +3287,25 @@
     "category": "others"
   },
   {
+    "id": 761,
+    "question": "When I visited James I only gave him a congratulatory card on account of his promotion?",
+    "option": {
+      "a": "The only person I visited was James and nobody else",
+      "b": "It was only James that I gave a congratulatory card to",
+      "c": "All I gave James when I visited him was a congratulatory card",
+      "d": "All I did when I visited James was given him a congratulatory card"
+    },
+    "section": "<b>In each of questions 63 to 67, select the option that best explain the information conveyed in the sentence?</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 65,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 767,
     "question": "Some actions of the Nigerian youth have <u>alienated</u> them from those who were <u>sympathetic</u> to their cause?",
     "option": {
@@ -3135,6 +3325,25 @@
     "category": "others"
   },
   {
+    "id": 771,
+    "question": "Inspite of her grim situation, the young widow smiled dutifully at the visitor's <u>pleasantries</u>?",
+    "option": {
+      "a": "unkind comments",
+      "b": "sad stories",
+      "c": "condolence messages",
+      "d": "jocular remarks"
+    },
+    "section": "<b>In each of questions 68 to 84, choose from the option nearest in meaning to the word underlined.</b>\n",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 75,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 772,
     "question": "I have always believed that my mother is a very <u>impassioned</u> woman?",
     "option": {
@@ -3150,6 +3359,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 76,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 773,
+    "question": "The party gathering was thrown into a state of <u>euphoria</u> after the election result was announced?",
+    "option": {
+      "a": "pleasure",
+      "b": "sadness",
+      "c": "excitement",
+      "d": "confusion"
+    },
+    "section": "<b>In each of questions 68 to 84, choose from the option nearest in meaning to the word underlined.</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 77,
     "hasPassage": 0,
     "category": "others"
   },
@@ -3306,6 +3534,25 @@
     "category": "others"
   },
   {
+    "id": 851,
+    "question": "cou<u>gh</u>? ",
+    "option": {
+      "a": "though",
+      "b": "thoroughly",
+      "c": "trophy",
+      "d": "of"
+    },
+    "section": "<b>In each of questions 54 to 56, choose the option that has the same consonant sound as the one represented by the underlined letter(s).</b> ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 55,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 852,
     "question": "Preach<u>ed</u>?",
     "option": {
@@ -3458,6 +3705,25 @@
     "category": "others"
   },
   {
+    "id": 894,
+    "question": "He gave an unsatisfactory excuse but the boss swallowed it <u>hook, line and sinker</u>?\n",
+    "option": {
+      "a": "with a pinch of salt",
+      "b": "completely",
+      "c": "entirely",
+      "d": "without mincing words"
+    },
+    "section": "<b>In each of questions 86 to 100, choose the option opposite in meaning to the underlined word(s).</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 98,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 895,
     "question": "The <u>hardline</u> posture of the labour leader has not helped matters?",
     "option": {
@@ -3568,6 +3834,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 52,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 948,
+    "question": "His wife hates his <u>garrulous</u> attitude?",
+    "option": {
+      "a": "outspoken",
+      "b": "unfriendly",
+      "c": "reticent",
+      "d": "thoughtful"
+    },
+    "section": "In each of the questions 49 to 63 choose the word that is <b>opposite</b> in meaning to the underlined word.",
+    "image": "",
+    "answer": "c",
+    "solution": "Garrulous; excessively talkative, especially on trivial matters.\n\nReticent; not revealing one's thoughts or feelings readily. Reserved",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 53,
     "hasPassage": 0,
     "category": "others"
   },
@@ -3777,6 +4062,25 @@
     "examtype": "utme",
     "examyear": "2012",
     "questionNub": 26,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1021,
+    "question": "The vice chancellor is riding the crest of the last quarter of his administration.",
+    "option": {
+      "a": "The vice chancellor enjoys the acknowledgment of the success of his administration",
+      "b": " the vice chancellor does not enjoy the people's criticism of his administration",
+      "c": "the vice chancellor hopes to overcome soon the poor comments on the adinistration",
+      "d": "the vice chancellor does not talk of his success in office"
+    },
+    "section": "<b>LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of question 26 to 35, select the option \nthat best explains the information conveyed in \nthe sentence",
+    "image": "",
+    "answer": "a",
+    "solution": "This means to be experiencing a particularly joyous or successful period, situation, or event. ei, the vice chancellor is enjoying the successes of his administration.",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 27,
     "hasPassage": 0,
     "category": "others"
   },
@@ -4332,6 +4636,44 @@
     "category": "others"
   },
   {
+    "id": 1188,
+    "question": "dedication",
+    "option": {
+      "a": "dedicaTION",
+      "b": "deDlcation",
+      "c": "dedication",
+      "d": "Dedication"
+    },
+    "section": "<b>In each of questions 95 to 97, choose the \nmost appropriate stress pattern from the \noptions. The stressed syllables are written \nin capital letters</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 95,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1190,
+    "question": "information",
+    "option": {
+      "a": "information",
+      "b": "information",
+      "c": "information",
+      "d": "Information"
+    },
+    "section": "<b>In each of questions 95 to 97, choose the \nmost appropriate stress pattern from the \noptions. The stressed syllables are written \nin capital letters</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 97,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1214,
     "question": "He maintained that Nigerians need a leader with an <u>iron fist</u>",
     "option": {
@@ -4404,6 +4746,44 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 47,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1242,
+    "question": "The meeting was organised at _______ instance ?",
+    "option": {
+      "a": "whom",
+      "b": "whose's",
+      "c": "whose",
+      "d": "whom's"
+    },
+    "section": "complete the statement from the options lettered A-D",
+    "image": "",
+    "answer": "c",
+    "solution": "Whose is the possessive form of the pronoun 'who'",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 49,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1244,
+    "question": "The manager met the ______ who came visiting last week ",
+    "option": {
+      "a": "dark tall good-looking American",
+      "b": "good-looking tall dark American",
+      "c": "Tall dark American good-looking",
+      "d": "American dark tall good-looking"
+    },
+    "section": "complete the statement from the options lettered A-D",
+    "image": "",
+    "answer": "b",
+    "solution": "Order of adjectives formula; quantity, opinion, size, age, colour, shape, origin, material or purpose.\n\ngood-looking(opinion)\n\nTall (size)\n\ndark (colour) \n\nAmerican (origin)",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 51,
     "hasPassage": 0,
     "category": "others"
   },
@@ -4556,6 +4936,25 @@
     "examtype": "utme",
     "examyear": "2022",
     "questionNub": 20,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1275,
+    "question": "According to the story, one of the following is true",
+    "option": {
+      "a": "Tomiwa and Ngozi are neighbours",
+      "b": "Ada and Salma are course mates",
+      "c": " Salma and Tomiwa are rivals",
+      "d": "Salma and Tomiwa are roommates"
+    },
+    "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 22,
     "hasPassage": 0,
     "category": "others"
   },
@@ -4784,6 +5183,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 46,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1360,
+    "question": "The Major demanded an <u>unalloyed</u> and not a __________ loyalty from his soldiers",
+    "option": {
+      "a": "strict",
+      "b": "wavering",
+      "c": "clumsy",
+      "d": "alterable"
+    },
+    "section": "From the list of words or group of words lettered A to D, choose the one that is most nearest opposite in meaning to the underlined word or group of words and that will, at the same time correctly fill in the gap in the sentence. ",
+    "image": "",
+    "answer": "b",
+    "solution": "unalloyed means not mixed, complete or unadulterated.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 47,
     "hasPassage": 0,
     "category": "others"
   },
@@ -5050,6 +5468,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 78,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1454,
+    "question": "As it relates to sex education, Aliya's father advised that",
+    "option": {
+      "a": " she should abstain totally from sex as this is the worst sin ever in the history of human civilisation",
+      "b": "she should wisely decide before letting go of her body",
+      "c": "she should be mindful of her company of friends and the media's influence on sexual affairs",
+      "d": "sexual affair is no longer a hidden issue and she should wisely make her choices"
+    },
+    "section": "<b>Questions below are based on Bolaji Abdullahi's \"Sweet Sixteen\"</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "Mr Bello warned Aliya to be careful as regarding the kind of movies, books and progammes she entertain as well the company of friends she keeps.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 81,
     "hasPassage": 0,
     "category": "others"
   },
@@ -6080,6 +6517,25 @@
     "category": "others"
   },
   {
+    "id": 1704,
+    "question": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nD<u>o</u>ne",
+    "option": {
+      "a": "don",
+      "b": "sun",
+      "c": "clown",
+      "d": "dawn"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The correct answer is B (sun) /sun/because it possesses the same vowel sound as ‘done’ /dnn/. The possesses the long vowels form of /c/ in the word.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 17,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1709,
     "question": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nBreeze",
     "option": {
@@ -6323,6 +6779,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 27,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1787,
+    "question": "You can <u>learn</u> a great deal just from watching other players.",
+    "option": {
+      "a": "Discover.",
+      "b": "Invent.",
+      "c": "Accumulate.",
+      "d": "Allow."
+    },
+    "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "a",
+    "solution": "learn; gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 28,
     "hasPassage": 0,
     "category": "others"
   },
