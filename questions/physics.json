@@ -7040,6 +7040,22 @@
     "examyear": "2022"
   },
   {
+    "id": 474,
+    "question": "A tuning fork having a frequency of 312 Hz emits a wave which has a wavelength of 1.10 m. Calculate the velocity of sound.",
+    "option": {
+      "a": "312.0 ms⁻¹",
+      "b": "110.0 ms⁻¹",
+      "c": "343.2 ms⁻¹",
+      "d": "686.4 ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nFrequency, f = 312 Hz\nWavelength, λ = 1.10 m\nVelocity, v = ?\n\nSolution:\nUsing the wave equation:\nv = fλ\nStep 1: Substitute the known values\nv = 312 × 1.10\nStep 2: Calculate the velocity\nv = 343.2 m/s",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 475,
     "question": "When the plate area of a capacitor increases?",
     "option": {
@@ -9596,6 +9612,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nPower of lens, P = 4.0 diopters (D)\nFocal length, f = ?\n\nSolution:\nFormula:\nThe power of a lens is related to its focal length by:\nP = 1/f\nWhere:\n\nP = power (in diopters, D)\nf = focal length (in meters)\n\nRearrange for focal length:\nf = 1/P\nSubstitute values:\nf = 1/4.0\nf = 0.25 m",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 653,
+    "question": "A real image three times the size of an object is formed 24cm from a converging mirror. what is the focal length of the mirror.",
+    "option": {
+      "a": "16cm",
+      "b": "6cm",
+      "c": "8cm",
+      "d": "12cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMagnification, m = 3 (real image, three times the size)\nImage distance, v = 24 cm\nFocal length, f = ?\n\nSolution:\nStep 1: Apply magnification formula\nFormula: m = -v/u\nWhere:\n\nm = magnification\nv = image distance\nu = object distance\n\nFor a real image, magnification is negative: m = -3\nStep 2: Find object distance\n-3 = -24/u\n3 = 24/u\nu = 24/3\nu = 8 cm\nStep 3: Apply mirror formula\nFormula: 1/f = 1/v + 1/u\nStep 4: Substitute values\n1/f = 1/24 + 1/8\n1/f = 1/24 + 3/24\n1/f = 4/24\n1/f = 1/6\nStep 5: Solve for focal length\nf = 6 cm",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -13772,6 +13804,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435552/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_36_ublq2w.png",
     "answer": "c",
     "solution": "A bod y is said to be in stable equilibrium if after a slight displacement, the body returns to its former position. Thus, position III, VI and XI represents position of stable equilibrium",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 936,
+    "question": "A bob of weight 0.1 N hangs from a massless string of length 50 cm. A variable horizontal force which increases from zero is applied to pull the bob until the string makes an angle of 60° with the vertical. The work done is?",
+    "option": {
+      "a": ". 0.500 J",
+      "b": "0.250 J",
+      "c": " 0.050 J",
+      "d": " 0.025 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nWeight (W) = 0.1 N\nLength of string (L) = 50 cm = 0.5 m\nFinal angle with vertical (θ) = 60°\nWork done = ?\n\nUnderstanding the problem:\nThe horizontal force does work against gravity by lifting the bob to a higher position.\nMethod: Using work-energy theorem\nStep 1: Calculate vertical displacement (height gained)\nInitial position: Bob hangs vertically (h₁ = 0, taking this as reference)\nFinal position: String at 60° to vertical\nVertical height of bob below support:\n\nInitial: h₁ = L = 0.5 m\nFinal: h₂ = L cos 60° = 0.5 × 0.5 = 0.25 m\n\nHeight gained:\nΔh = h₁ - h₂ = 0.5 - 0.25 = 0.25 m\nStep 2: Calculate work done\nWork done = Increase in potential energy\nW = mgΔh = WΔh\nW = 0.1 × 0.25\nW = 0.025 J",
     "examtype": "utme",
     "examyear": "2010"
   },
