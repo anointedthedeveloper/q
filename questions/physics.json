@@ -336,6 +336,22 @@
     "examyear": "2009"
   },
   {
+    "id": 51,
+    "question": "A devise that converts sound energy into electrical energy is ",
+    "option": {
+      "a": "the horn of a motor car ",
+      "b": "An AC generator ",
+      "c": "A microphone ",
+      "d": "Telephone earpiece "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 53,
     "question": "The mode of heat transfer which does not require material medium is",
     "option": {
@@ -944,6 +960,22 @@
     "examyear": "2016"
   },
   {
+    "id": 187,
+    "question": "Which of the following statements is correct about a machine?",
+    "option": {
+      "a": "Efficiency of a machine is always greater than I",
+      "b": "Efficiency decreases with an increase in friction",
+      "c": "Velocity ratio depends on friction",
+      "d": "Mechanical advantage increases with an increase in friction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Friction causes energy losses, which reduces the efficiency of any machine.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 192,
     "question": "The rate of cooling of a heated quantity of liquid in an enclosure depends on the",
     "option": {
@@ -1056,6 +1088,22 @@
     "examyear": "2016"
   },
   {
+    "id": 219,
+    "question": "The impulse of a force is deduced from Newton's second law as",
+    "option": {
+      "a": "F = ma",
+      "b": "F = m(v−u)/t",
+      "c": ". F = mg",
+      "d": "F = mv - mu"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Impulse is deduced from Newton's second law as F = m(v - u)/t, where force equals mass times the rate of change of velocity.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 220,
     "question": "Boiling occurs when the vapour pressure of a liquid is",
     "option": {
@@ -1134,6 +1182,38 @@
     "solution": "For hydrogen atom energy levels:\nThe energy at level n is given by:\nE_n = -13.6/n² eV\nEnergy at ground level (n=1):\nE₁ = -13.6/1² = -13.6 eV\nEnergy at third level (n=3):\nE₃ = -13.6/3² = -13.6/9 = -1.51 eV\nSince energy levels are negative (bound states), the magnitude is:\n|E₃| = 1.51 eV",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 234,
+    "question": "Calculate the upthrust on an object of volume 50cm³ which is immersed in liquid of density 10³ kgm⁻³ [g = 10ms⁻²]",
+    "option": {
+      "a": " 0.8N",
+      "b": "2.5N",
+      "c": " 0.5N",
+      "d": "1.0N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nVolume of object (V) = 50 cm³ = 50 × 10⁻⁶ m³\nDensity of liquid (ρ) = 10³ kg/m³\nAcceleration due to gravity (g) = 10 m/s²\nUpthrust = ?\n\nFormula for upthrust (Archimedes' Principle):\nUpthrust = Weight of liquid displaced\nUpthrust = ρVg\nSubstituting values:\nUpthrust = 10³ × 50 × 10⁻⁶ × 10\nUpthrust = 10³ × 50 × 10⁻⁵\nUpthrust = 50 × 10⁻²\nUpthrust = 0.5 N",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 238,
+    "question": "A cell of internal resistance 2Ω supplies current to a 6Ω resistor. The efficiency of the cell is",
+    "option": {
+      "a": "12.00%",
+      "b": "25.00%",
+      "c": "33.30%",
+      "d": "75.00%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInternal resistance (r) = 2Ω\nExternal resistance (R) = 6Ω\nEfficiency = ?\n\nFormula for efficiency of a cell:\nEfficiency = (Power delivered to load)/(Total power) × 100%\nEfficiency = R/(R + r) × 100%\nSubstituting values:\nEfficiency = 6/(6 + 2) × 100%\nEfficiency = 6/8 × 100%\nEfficiency = 0.75 × 100%\nEfficiency = 75.0%\nExplanation:\nThe efficiency represents the fraction of total power that is usefully delivered to the external resistor (load), with the rest being lost to the internal resistance of the cell.",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 253,
@@ -1504,6 +1584,22 @@
     "examyear": "2019"
   },
   {
+    "id": 341,
+    "question": "Which of the following is/are the limitations to the Rutherford's atomic models?\n\nI. It is applicable when energy is radiated as electrons are revolving\n\nII. It is applicable when energy is radiated in a continuous mode\n\nIII. It is applicable to an atom with only one electron in the other shell",
+    "option": {
+      "a": " I only",
+      "b": " II only",
+      "c": "I & II only",
+      "d": " I, II & III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The limitations are that Rutherford's model incorrectly assumed (I) energy is radiated as electrons revolve and (II) energy is radiated continuously, both of which contradict experimental observations.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 343,
     "question": "Ripple in a power supply unit is caused by",
     "option": {
@@ -1600,6 +1696,22 @@
     "examyear": "2019"
   },
   {
+    "id": 354,
+    "question": "A vibrator causes water ripples to travel across the surface of a tank. The wave travels 50cm in 2s and the distance between successive crests is 5cm. Calculate the frequency of the vibrator",
+    "option": {
+      "a": "5Hz",
+      "b": "6Hz",
+      "c": "5.2Hz",
+      "d": "25Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDistance traveled = 50 cm\nTime = 2 s\nDistance between successive crests (wavelength, λ) = 5 cm = 0.05 m\nFrequency (f) = ?\n\nStep 1: Calculate wave speed\nSpeed (v) = Distance/Time\nv = 50/2 = 25 cm/s = 0.25 m/s\nStep 2: Use wave equation\nv = fλ\nRearranging to find frequency:\nf = v/λ\nSubstituting values:\nf = 25/5 = 5 Hz",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 358,
     "question": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because",
     "option": {
@@ -1612,6 +1724,22 @@
     "image": "",
     "answer": "d",
     "solution": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because all the heat is used to break the bonds holding the molecules of the solid together",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 359,
+    "question": "The statement 'Heat lost by the hot body equals that gained by the cold one' is assumed when determining specific that heat capacity by the method of mixtures. Which of the following validates the assumption?\nI. Lagging the Calorimeter\nII. Ensuring that only S.I units are used\nIII. Weighing the calorimeter, the lid and the stirrer.",
+    "option": {
+      "a": " I only",
+      "b": " I & II only",
+      "c": "I & III only",
+      "d": "II & III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "I & III only as units are independent of energy equation.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1904,6 +2032,22 @@
     "examyear": "2021"
   },
   {
+    "id": 434,
+    "question": "If the frequency of an emitted x-ray is 1.6 × 10¹⁶ Hz, the accelerating potential is?\n[e = 1.6 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ Js]",
+    "option": {
+      "a": "6630.0V",
+      "b": "663.0V",
+      "c": " 66.3V",
+      "d": "6.6V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nFrequency of x-ray (f) = 1.6 × 10¹⁶ Hz\nPlanck's constant (h) = 6.63 × 10⁻³⁴ Js\nCharge of electron (e) = 1.6 × 10⁻¹⁹ C\nAccelerating potential (V) = ?\n\nPrinciple:\nWhen electrons are accelerated through a potential V, they gain kinetic energy that is converted to x-ray photon energy:\nEnergy of electron = Energy of x-ray photon\neV = hf\nRearranging to find V:\nV = hf/e\nSubstituting values:\nV = (6.63 × 10⁻³⁴ × 1.6 × 10¹⁶) / (1.6 × 10⁻¹⁹)\nV = (6.63 × 1.6 × 10⁻³⁴⁺¹⁶) / (1.6 × 10⁻¹⁹)\nV = (10.608 × 10⁻¹⁸) / (1.6 × 10⁻¹⁹)\nV = (10.608 / 1.6) × 10⁻¹⁸⁺¹⁹\nV = 6.63 × 10¹\nV = 66.3 V",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 437,
     "question": "The inner diameter of a test tube can be measured accurately using a?",
     "option": {
@@ -2080,6 +2224,22 @@
     "examyear": "2022"
   },
   {
+    "id": 466,
+    "question": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration.",
+    "option": {
+      "a": "3.20 ms⁻²",
+      "b": "0.25 ms⁻²",
+      "c": "0.80 ms⁻²",
+      "d": "4.00 ms⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "nitial velocity, u = 0 m/s (starts from rest)\nDistance, s = 40 m\nTime, t = 10 s\nAcceleration, a = ?\n\nSolution:\nUsing the equation of motion:\ns = ut + ½at²\nStep 1: Substitute the known values\n40 = (0)(10) + ½a(10)²\n40 = 0 + ½a(100)\n40 = 50a\nStep 2: Solve for acceleration\na = 40/50\na = 0.80 m/s²",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 477,
     "question": "According to kinetic molecular model in gases,",
     "option": {
@@ -2252,6 +2412,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nHalf-life, t½ = 12 days\nDecay constant, λ = ?\n\nSolution:\nUsing the relationship between half-life and decay constant:\nλ = ln(2)/t½\nor\nλ = 0.693/t½\nStep 1: Substitute the known values\nλ = 0.693/12\nStep 2: Calculate the decay constant\nλ = 0.05775 day⁻¹",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 509,
+    "question": "The number of holes in an intrinsic semiconductor",
+    "option": {
+      "a": "s not equal to the number of free electrons",
+      "b": "is greater than the number of free electrons",
+      "c": " is equal to the number of free electrons",
+      "d": "is less than the number of free electrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An intrinsic semiconductor, also called an undoped semiconductor, is a pure semiconductor. In intrinsic semiconductors the number of excited electrons and the number of holes are equal: n = p",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -2672,6 +2848,22 @@
     "examyear": "2024"
   },
   {
+    "id": 600,
+    "question": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
+    "option": {
+      "a": "armature coil should be made of silver",
+      "b": " commutator should be replaced with slip ring",
+      "c": "commutator should be replaced with split rings",
+      "d": "armature coil should be made of aluminium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To convert a DC dynamo to an AC dynamo, the split-ring commutator must be replaced with slip rings. This allows the alternating current generated in the rotating coil to be delivered to the external circuit without rectification.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 613,
     "question": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is",
     "option": {
@@ -2928,6 +3120,22 @@
     "examyear": "2005"
   },
   {
+    "id": 663,
+    "question": "The ray which causes gas molecules to glow is known as",
+    "option": {
+      "a": "cathode ray",
+      "b": "anode ray",
+      "c": "molecular ray",
+      "d": "gamma ray"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This stream of high‑energy electrons is called a cathode ray. Cathode rays are responsible for the glowing of gases in discharge tubes (e.g., neon signs, Crookes tubes).",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 665,
     "question": "The current in a reverse-biased junction is due to?",
     "option": {
@@ -2972,6 +3180,22 @@
     "image": "",
     "answer": "d",
     "solution": "Diffusion is the process by which molecules move from an area of higher concentration to an area of lower concentration. This movement occurs due to the random motion of particles, leading to an even distribution of substances over time.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 672,
+    "question": "The process whereby a liquid turns spontaneously into vapour is called?",
+    "option": {
+      "a": "regelation",
+      "b": "sublimation",
+      "c": "boiling",
+      "d": "evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Evaporation is a process by which molecules undergo a spontaneous transition from the liquid phase to the gaseous phase",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -3404,6 +3628,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nForce F = 2 N\nAngle θ = 60°\nDisplacement s = 3 m\nFloor is smooth (no friction)\n\nSolution:\n\nStep 1: Work done formula\nWork done W = F × s × cosθ\n\nStep 2: Substitute values\nW = 2 N × 3 m × cos60°\n\nStep 3: Calculate\ncos60° = 0.5\nW = 2 × 3 × 0.5 = 3 J",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 784,
+    "question": "During the nuclear reaction described by\n²³⁵₉₂W → ²³⁵₉₃X → ²³¹₉₁Y\nthe particles emitted are respectively",
+    "option": {
+      "a": "α and α",
+      "b": "α and β",
+      "c": "β and β",
+      "d": "β and α"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Analyzing the nuclear reactions:\nFirst reaction: ²³⁵₉₂W → ²³⁵₉₃X\nChange in mass number (A): 235 → 235 (no change)\nChange in atomic number (Z): 92 → 93 (increase by 1)\nParticle emitted:\n\nMass number unchanged\nAtomic number increases by 1\nThis indicates β⁻ (beta) decay\n⁰₋₁β or electron emission\nA neutron converts to proton: n → p + e⁻\n\nSecond reaction: ²³⁵₉₃X → ²³¹₉₁Y\nChange in mass number (A): 235 → 231 (decrease by 4)\nChange in atomic number (Z): 93 → 91 (decrease by 2)\nParticle emitted:\n\nMass number decreases by 4\nAtomic number decreases by 2\nThis indicates α (alpha) decay\n⁴₂He or helium nucleus emission\n\nSummary:\n\nFirst emission: β (beta particle)\nSecond emission: α (alpha particle)",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -4924,6 +5164,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nElectromotive force (emf), E = 1.5 V\nExternal resistance, R = 1 Ω\nCurrent, I = 0.3 A\n\nSolution:\n\nStep 1: Relate emf, current, and resistances\nFor a cell with internal resistance r connected to an external resistor R, the current is given by:\nI = E / (R + r)\n\nStep 2: Rearrange to solve for r\nR + r = E / I\nr = (E / I) – R\n\nStep 3: Substitute the values\nr = (1.5 / 0.3) – 1\nr = 5 – 1 = 4 Ω",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1071,
+    "question": "Which of the following obeys ohms laws?",
+    "option": {
+      "a": "electroytes",
+      "b": "metals",
+      "c": "diode",
+      "d": "glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Metals obey Ohm's law because they maintain a constant resistance (at constant temperature), resulting in a linear relationship between voltage and current (V = IR). This makes metals ideal for wires, resistors, and other electrical components where predictable, linear behavior is required.",
     "examtype": "utme",
     "examyear": "2013"
   },
