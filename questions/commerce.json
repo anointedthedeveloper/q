@@ -2080,6 +2080,22 @@
     "examyear": "2006"
   },
   {
+    "id": 133,
+    "question": "In Nigeria, the main source of pollution is",
+    "option": {
+      "a": "domestic waste   ",
+      "b": "organic waste",
+      "c": "gas flaring   ",
+      "d": "industrial waste."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 134,
     "question": "‘Safeguarding the health of the nation' is the slogan used by ",
     "option": {
@@ -4928,6 +4944,22 @@
     "examyear": "2010"
   },
   {
+    "id": 316,
+    "question": "An agent who brings a customer into business contact with his principal is known as ",
+    "option": {
+      "a": "a del credere agent ",
+      "b": "an auctioneer",
+      "c": "a factor",
+      "d": "a broker"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 317,
     "question": "A major hindrance to tourism growth in Nigeria is ",
     "option": {
@@ -7275,6 +7307,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 468,
+    "question": "Gilt-edged securities are issued mainly by ",
+    "option": {
+      "a": "individuals ",
+      "b": "non-governmental organizations",
+      "c": "government ",
+      "d": "multi-national companies "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
