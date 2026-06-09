@@ -9120,6 +9120,22 @@
     "examyear": "2021"
   },
   {
+    "id": 614,
+    "question": "The mass of one Avogadro number of helium atoms is?",
+    "option": {
+      "a": "1.00 gram",
+      "b": "4.00 grams",
+      "c": "8.00 grams",
+      "d": "6.00 grams"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "One Avogadro number (6.02 × 10²³) of atoms of any element equals one mole of that element, which has a mass equal to the molar mass in grams. The molar mass of helium (He) is 4 g/mol. Therefore, one Avogadro number of helium atoms has a mass of 4.00 grams.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 615,
     "question": "220g of carbon dioxide contains how many moles?",
     "option": {
