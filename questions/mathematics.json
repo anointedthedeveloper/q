@@ -64,6 +64,22 @@
     "examyear": "2009"
   },
   {
+    "id": 55,
+    "question": "A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close ",
+    "option": {
+      "a": "1/7",
+      "b": "7/18 ",
+      "c": "11/18 ",
+      "d": "7/11"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 58,
     "question": "Find the positive number n such that thrice its square is equal to twelve time the number ",
     "option": {
@@ -108,6 +124,22 @@
     "image": "",
     "answer": "b",
     "solution": "Make a good sketch of the question, and follow this steps.\nSince ST is parallel to UV => angle USR = 50°(alternate to VUS.\nAngle UST = 180° - 50° = 130° (angle on a straight line)",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 95,
+    "question": "A predator moves in a circle of radius √2 centre (0,0), while a prey moves along the line y = x. If 0 ≤ x ≤ 2, at which point(s) will they meet?\n",
+    "option": {
+      "a": "(1,1) only",
+      "b": "(1,1) and (1,2)",
+      "c": " (0,0) and (1,1)",
+      "d": " (√2,√2) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x<sup>2</sup> + y<sup>2</sup> = (√2)<sup>2</sup>\nx<sup>2</sup> + y</sup> = 2\nbut y = x\nThus; x<sup>2</sup> + x<sup>2</sup> = 2\n2x<sup>2</sup> = 2\nx<sup>2</sup> = + or - 1\nBut x<sup>2</sup> + y<sup>2</sup> = 2\n1<sup>2</sup>+ y<sup>2</sup> = 2\n1 + y<sup>2</sup> = 2\ny<sup>2</sup> = 2 - 1\ny<sup>2</sup> = 1\ny = + or - 1\nThus point (x,y) = (1,1) only.",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -288,6 +320,38 @@
     "examyear": "2002"
   },
   {
+    "id": 183,
+    "question": "If y=x<sup>2</sup>−1x. find dy/dx",
+    "option": {
+      "a": " 2x - (1/x<sup>2</sup>)",
+      "b": "2x + x<sup>2</sup>",
+      "c": "2x - x<sup>2</sup>",
+      "d": " 2x + (1/x<sup>2</sup>)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y=x<sup>2</sup>−1/x = x2− x<sup>-1</sup>\n \ndy/dx = 2x − ( −x<sup>-2</sup>)\n= 2x + 1/x<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 186,
+    "question": "Find the range of values of x for which (x+2)/4−2x−3/3 < 4",
+    "option": {
+      "a": " x > -6",
+      "b": "x > -3",
+      "c": " x < 8",
+      "d": " x < 4"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>x</mi>\n      <mo>+</mo>\n      <mn>2</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>4</mn>\n  </mfrac>\n  <mo>&#x2212;<!-- − --></mo>\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <mi>x</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n    </mrow>\n    <mn>3</mn>\n  </mfrac>\n  <mo>&lt;</mo>\n  <mn>4</mn>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "x+2/4 − 2x−3/3 < 4\n3(x+2)−4(2x−3)/12 < 4\n3x + 6 − 8x + 12 < 48\n18 − 5 x< 48 ⟹ −5 x < 48 − 18\n−5x < 30 ⟹ x > −6",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 190,
     "question": "The inverse function f(x) = 3x + 4 is",
     "option": {
@@ -464,6 +528,22 @@
     "examyear": "2004"
   },
   {
+    "id": 318,
+    "question": "P, R and S lie on a circle centre O as shown in the diagram while Q lies outside the circle. Find < PSO",
+    "option": {
+      "a": "35°",
+      "b": "40°",
+      "c": "45°",
+      "d": "55°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710701048/ALOC-Questions/Mathematics/2004/math_2004_q47_hqamwu.jpg",
+    "answer": "a",
+    "solution": "< PRS = 20° + 35° = 55°\n\n< POS = 2 < PRS\n\n2 x 55° = 10°\n\n< OPS = < PSO = x\n\nIn △\nPOS\n\nOP = OS(radii)\n\n△POS is an isosceles\n\n2x + 110° = 180°\n\n2x = 180° - 110° = 70°\n\nx = 70°/2\n \n\n\n= 35",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 336,
     "question": "The diagram above is the graph of the function f(x). Determined the range of values of x for which f(x) ≤ 0",
     "option": {
@@ -588,6 +668,22 @@
     "image": "",
     "answer": "a",
     "solution": "y = (cosθ - sinθ)\ndy/dx = 2(cosθ - sinθ)(-sinθ - cosθ)\ndy/dx = 2(-cosθsinθ - cos<sup>2</sup>θ + sin<sup>2</sup>θ)\ndy/dx = 2(- cos<sup>2</sup>θ + sin<sup>2</sup>θ)\n= -2(cos<sup>2</sup>θ - sin<sup>2</sup>θ)\n= -2(1 - sin<sup>2</sup>θ)\n= -2cos2θ",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 386,
+    "question": "Simolify (7/9-2/3)/(1/3+(2/5)/(4/5))",
+    "option": {
+      "a": "11/12",
+      "b": "5/6",
+      "c": "1/5",
+      "d": "2/15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "(7/9-2/3)/(1/3+(2/5)/(4/5))=((7-6)/9)/(1/3+(2/5)/(4/5))=(1/9)/(1/3+(2/5×5/4))=(1/9)/(1/3+1/2)=(1/9)/((2+3)/6)=(1/9)/(5/6)=1/9×6/5=2/15",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -736,6 +832,22 @@
     "examyear": "2008"
   },
   {
+    "id": 525,
+    "question": "A man bought a second-hand photocopying machine for N34,000. He serviced it at a cost of N2,000 and then sold it at a profit of 15%. What was the selling price?",
+    "option": {
+      "a": " N37,550",
+      "b": " N40,400",
+      "c": "N41,400",
+      "d": "N42,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "C.P = N34000 + N2000 = N36000\nGain = 100 + 15 = 115%   S.P = 115/100×N3600/1\n= N41400",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 527,
     "question": "If log<sub>10</sub>2 = 0.3010 and log<sub>10</sub>7 = 0.8451, evaluate log<sub>10</sub>280",
     "option": {
@@ -748,6 +860,22 @@
     "image": "",
     "answer": "b",
     "solution": "Log 2 = 0.3010, Log 7 = 0.8451\n∴Log 280 = Log 28 x 10\n= Log 7x4x10\n=Log7 + Log4 + Log10\n= Log7 + Log2<sup>2</sup> + Log10\n= Log7 + 2Log2 + Log10\n= 0.8451 + 2(0.3010) + 1\n= 0.8451 + 0.6020 + 1\n= 2.4471",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 535,
+    "question": "Determine the value of x for which (x<sup>2</sup> - 1) > 0?",
+    "option": {
+      "a": "x < -1 or x > 1",
+      "b": "-1 < x < 1",
+      "c": "x > 0",
+      "d": "x < -1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "B",
+    "solution": "x<sup>2</sup> > 0\n(x+1)(x-1) > 0\nx = 1 or -1\n\n-1 < x < 1",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -944,6 +1072,22 @@
     "examyear": "2011"
   },
   {
+    "id": 721,
+    "question": "Convert 112<sub>6</sub>  to a number in base three",
+    "option": {
+      "a": "2211",
+      "b": "2121",
+      "c": "1212",
+      "d": "1122"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "First, convert to base 10\n\n112<sub>6</sub>  = (1 x 6<sup>2</sup>) + (1 x 6<sup>1</sup>) + (2 x 6<sup>0</sup>)\n\n= 36 + 6 + 2\n\n= 44<sup>10</sup>) \n \n\nAns = 1122 = D",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 745,
     "question": "The gradient of the straight line joining the points P(5, -7) and Q(-2, -3) is",
     "option": {
@@ -1020,6 +1164,22 @@
     "image": "",
     "answer": "c",
     "solution": "Using the cosine rule, we have\n\np<sup>2</sup> = q<sup>2</sup> + r<sup>2</sup> − 2qrcosP\np<sup>2</sup> = 8<sup>2</sup> + 6<sup>2</sup> − 2(8)(6)(1/12)\n= 64 + 36 − 8\np<sup>2</sup> = 92∴ p = √9cm",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 818,
+    "question": "Evaluate 3(x + 2) > 6(x + 3)",
+    "option": {
+      "a": " x < 4",
+      "b": "x > -4",
+      "c": "x < -4",
+      "d": "x > 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "3(x + 2) > 6(x + 3)\n\n3x + 6 > 6x + 18\n\n3x - 6x > 18 - 6\n\n-3x > 12\n\nx < -4",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -1116,6 +1276,38 @@
     "image": "",
     "answer": "d",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 880,
+    "question": "The locus of a point which is equidistant from the line PQ forms a",
+    "option": {
+      "a": "circle centre P",
+      "b": "pair of parallel lines each opposite to PQ",
+      "c": "circle centre Q",
+      "d": "perpendicular line to PQ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The locus of points at a fixed distance from the point P is a circle with the given P at its centre.\n\nThe locus of points at a fixed distance from the point Q is a circle with the given point Q at its centre\n\nThe locus of points equidistant from two points P and Q i.e line PQ is the perpendicular bisector of the segment determined by the points\n\nHence, The locus of a point which is equidistant from the line PQ forms a perpendicular line to PQ",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 892,
+    "question": "A car dealer bought a second-hand car for 250,000 and spent N 70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
+    "option": {
+      "a": " 60%",
+      "b": "32%",
+      "c": "25%",
+      "d": "20%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Total Cost Price = N(250,000 + 70,000)\n\n= N 320,000\n\nSelling Price = N 400,000(Given)\n\nGain = Selling Price - Cost Price\n\n= 400,000 - 320,000\n\n= 80,000\n\n% gain = Gain/Cost Price\n × 100\n\n= (80,000/320,000) × 100\n\nGain % = 25%",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -1280,6 +1472,22 @@
     "examyear": "2019"
   },
   {
+    "id": 977,
+    "question": "(2/3÷4/5)/(1/4+3/5-1/3)",
+    "option": {
+      "a": "31/50",
+      "b": "20/31",
+      "c": "31/20",
+      "d": "50/31"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mfrac>\n        <mn>2</mn>\n        <mn>3</mn>\n      </mfrac>\n      <mo>&#x00F7;<!-- ÷ --></mo>\n      <mfrac>\n        <mn>4</mn>\n        <mn>5</mn>\n      </mfrac>\n    </mrow>\n    <mrow>\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n      <mo>+</mo>\n      <mfrac>\n        <mn>3</mn>\n        <mn>5</mn>\n      </mfrac>\n      <mo>&#x2212;<!-- − --></mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>3</mn>\n      </mfrac>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "(2/3÷4/5)/(1/4+3/5-1/3).  2/3÷4/5=2/3×5/4 = 5/6                         1/4+3/5-1/3=(15+36-20)/60 = 31/60  ∴ ∴(2/3÷4/5)/(1/4+3/5-1/3)=5/6÷31/60 = 5/6 x 60/31 = 50/31",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 983,
     "question": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the\n",
     "option": {
@@ -1324,6 +1532,22 @@
     "image": "",
     "answer": "b",
     "solution": "= 0.16063/0.017 × 0.219\n= 43.1 (to 3 s.f)",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1010,
+    "question": "Points X and Y are 20km North and 9km East of point O, respectively. What is the bearing of Y from X? Correct to the nearest degree.",
+    "option": {
+      "a": "24°",
+      "b": "56°",
+      "c": "127°",
+      "d": "156°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "tanθ = 9/20 = 0.45\nθ = tan<sup>(−1)</sup>(0.45)\n= 24.23°\n\n∴ The bearing of Y from X = 180° - 24.23°\n\n= 155.77°\n\n= 156° (to the nearest degree)",
     "examtype": "utme",
     "examyear": "2019"
   },
