@@ -627,6 +627,25 @@
     "category": "others"
   },
   {
+    "id": 41,
+    "question": "Agbenu was <i>ecstatic</i> about her result ",
+    "option": {
+      "a": "sad",
+      "b": "dispassionate ",
+      "c": "mad ",
+      "d": "pessimistic "
+    },
+    "section": "opposite in meaning to the word(s) or phrase in italics ",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 43,
     "question": "The labour leader’s <i>recalcitrant</i> stance was applauded ",
     "option": {
@@ -2956,6 +2975,25 @@
     "section": "choose the option nearest in meaning to the word or phrase  in italics ",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 189,
+    "question": "Yesterday, my mother asked me.... ",
+    "option": {
+      "a": " If I am tired? ",
+      "b": "are you tired?",
+      "c": " whether was I tired?",
+      "d": "If I was tired"
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005",
@@ -16283,6 +16321,25 @@
     "category": "others"
   },
   {
+    "id": 1191,
+    "question": "Adamu is leaving a CAR behind.",
+    "option": {
+      "a": "What is Adamu leaving behind?",
+      "b": " Is Adamu driving the car in front?",
+      "c": "Who is leaving a car behind?",
+      "d": "Where is Adamu leaving a car?"
+    },
+    "section": "<b>In each of question 98 to 100, the word in \ncapital letters has the emphatic stress.\nChoose the option to which the given \nsentence relates.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 98,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1192,
     "question": "Lambusa TOOK OFF the wig.\n",
     "option": {
@@ -21162,6 +21219,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 6,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1570,
+    "question": "Choose the most appropriate stress pattern from the options below\n\npalatable",
+    "option": {
+      "a": " PAL—a—ta—ble",
+      "b": "pal—A—ta—ble",
+      "c": " pal—a—TA—ble",
+      "d": " pal—a—ta—BLE"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Some words are made up of a root  and a suffix:\n\ndangerous   =    root –> danger  +  ous –<  suffix\ncommercial   =    root –> commerc(e)  + al –<  suffix\n\nIn some words with suffixes, the stress stays on the same syllable as in the root. Compare:\n\n‘danger and: ‘dangerous\n\nIn other words, the suffix changes the stressed syllable. Compare:\n\n‘commerce and: com‘mercial\n\nSuffixes which don’t usually change the stress pattern in the root word include (however they maybe some exceptions.) -able, -age, -al, -er, -ful, -less, -ness, -ous and -fy. For example:\n\ncomfort – ‘comfortable\nper‘cent – per’centage\n",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 7,
     "hasPassage": 0,
     "category": "others"
   },
