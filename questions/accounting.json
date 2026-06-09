@@ -8256,6 +8256,22 @@
     "examyear": "2015"
   },
   {
+    "id": 533,
+    "question": "Which of the following is not a proper form of the accounting equation",
+    "option": {
+      "a": "fixed assets + current assets - liabilities = capital",
+      "b": "fixed assests + current assests + liabilities = capital",
+      "c": "ixed assets – liabilities + current assets = capital",
+      "d": "fixed asset + current asset – capital = liabilities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The simplest presentation of capital employed is total assets minus current liabilities. Sometimes, it is equal to all current equity plus interest-generating loans (non-current liabilities).",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 534,
     "question": "The accounting convention that state that, stock should be value that the lower of cost and net realized value is --------------- convention",
     "option": {
@@ -13404,6 +13420,22 @@
     "image": "",
     "answer": "a",
     "solution": "The folio in the ledger is used for referencing purposes. It helps in cross-referencing between the ledger and the journal, making it easier to track transactions and locate specific entries.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 864,
+    "question": "The folio in the ledger is used for referencing purposes. It helps in cross-referencing between the ledger and the journal, making it easier to track transactions and locate specific entries.",
+    "option": {
+      "a": "branch expense account and credited to branch debtors' accoount\n",
+      "b": "branch stock account account and credited to the goods sent to branch account\n",
+      "c": "branch debtors' account and credited to branch expense account\n",
+      "d": "goods sent to branch expense account\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When goods are invoiced and dispatched to a branch, the head office debits the Branch Stock Account (to record the branch’s inventory) and credits the Goods Sent to Branch Account (to show the transfer out of head office stock).",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -20188,6 +20220,22 @@
     "image": "",
     "answer": "b",
     "solution": "At par acquisition means the price paid for the business exactly equals the fair value of its net assets (i.e., assets minus liabilities).\n\nIn this case, no goodwill is recognized because there is neither a premium paid nor a discount received on the net assets.\n\nHence, the business is acquired “at par” when the purchase consideration equals the net asset value.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1306,
+    "question": "The most appropriate basis for apportioning inventory holding cost among departments is to use the value of?",
+    "option": {
+      "a": "purchases",
+      "b": "opening stock",
+      "c": "closing stock",
+      "d": "average stock"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Inventory holding costs (e.g., storage, insurance, obsolescence) are incurred throughout the period on whatever level of stock is held at each point.\n\nUsing average stock (typically \n(opening + closing)/2) smooths out fluctuations and fairly allocates those carrying costs to each department in proportion to the stock they actually held over time.\n\nOther bases (purchases, opening or closing stock) either ignore timing or give a distorted view of the stock levels during the period.",
     "examtype": "utme",
     "examyear": "2000"
   },
