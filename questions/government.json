@@ -272,6 +272,22 @@
     "examyear": "2006"
   },
   {
+    "id": 21,
+    "question": "The centenary anniversary of the amalgamation of Northern and Southern Nigeria will be celebrated in ",
+    "option": {
+      "a": "2060",
+      "b": "2063",
+      "c": "2014",
+      "d": "2007"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 22,
     "question": "Which of these men introduced indirect rule in Nigeria? ",
     "option": {
@@ -619,6 +635,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 55,
+    "question": "Under which of the following conditions can a Nigerian be deprived of is or her citizenship? ",
+    "option": {
+      "a": "If married to a foreign  National ",
+      "b": "If one holds a dual citizenship  ",
+      "c": "If convicted of Armed robbery ",
+      "d": "if one Abuse the National Flag."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -1275,6 +1307,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 118,
+    "question": "Multilaterism in Nigeria’s foreign policy entails ",
+    "option": {
+      "a": "Africa being the centre piece of Nigeria’s foreign policy ",
+      "b": "Non aligned posture in international affairs ",
+      "c": " Quest   for a permanent membership  of the UN security Council ",
+      "d": "Membership of International Organizations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -3296,6 +3344,22 @@
     "examyear": "1999"
   },
   {
+    "id": 312,
+    "question": "A government controlled by a few people for their own interests is said to be",
+    "option": {
+      "a": "an autocracy",
+      "b": "a tyranny",
+      "c": "an oligarchy",
+      "d": "a meritocracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 314,
     "question": "One of the distinctive features of democracy is that it",
     "option": {
@@ -3968,6 +4032,22 @@
     "examyear": "2016"
   },
   {
+    "id": 381,
+    "question": "The main attributes of a state are",
+    "option": {
+      "a": "government, the police and the armed forces",
+      "b": "population, territory, government and sovereignty",
+      "c": "federal state and local governments",
+      "d": "the press, the legislature, the executive and the judiciary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 382,
     "question": "Islam was introduced in Northern Nigeria",
     "option": {
@@ -4011,6 +4091,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 386,
+    "question": "How many countries are founding members of O. P. E. C?",
+    "option": {
+      "a": "13",
+      "b": "5",
+      "c": "18",
+      "d": "25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -6816,6 +6912,22 @@
     "examyear": "1988"
   },
   {
+    "id": 635,
+    "question": "Which of the following is not a function of a party secretariat?",
+    "option": {
+      "a": "Electing the leader of the party",
+      "b": "Organizing party conferences",
+      "c": "Publishing the party’s manifesto",
+      "d": "Planning party strategy to win election"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 636,
     "question": "The first Military President of Nigeria is",
     "option": {
@@ -9004,6 +9116,22 @@
     "image": "",
     "answer": "b",
     "solution": "Constituency is the definition for the political area from which an individual is elected into a representative office.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 838,
+    "question": "Citizenship by naturalization________",
+    "option": {
+      "a": " is the same as citizenship by marriage and registeration",
+      "b": " refers to the process of attaining citizenship through honorary means",
+      "c": " is the act of a non-citizen having satisfied the constitutional criteria becoming a legal member of a state",
+      "d": " is the medium by which an alien through the judiciary receives certification and attains citizenship by birth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Citizenship by naturalization provides the medium for non-citizens who have satisfied or fulfilled the requirements of good citizenship according to a State Law, to become Citizens.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -11280,6 +11408,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1061,
+    "question": "A form of government where the powers of the state is determined by the citizens is ",
+    "option": {
+      "a": " Monarchy",
+      "b": "Aristocracy",
+      "c": " Autocracy",
+      "d": "Democracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Democracy is a form of government where the power to select representatives rest in the hands of the citizens. \n\n ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1062,
     "question": "As a non-aligned state, Nigeria attended the second meeting of the non-Aligned Movement that took place in Cairo, Egypt in ",
     "option": {
@@ -13536,6 +13680,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1270,
+    "question": "Delegated legislation refers to the laws made by",
+    "option": {
+      "a": "the legislature",
+      "b": "military governments",
+      "c": "civilian governments",
+      "d": "non-legislative bodies"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Delegated legislation refers to laws or regulations made by bodies other than the legislature, having been granted the authority to do so. This means they are created by non-legislative bodies, such as administrative agencies or local governments, under powers conferred by the legislature.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1271,
     "question": "A major influence on the formation of public opinion is",
     "option": {
@@ -13596,6 +13756,22 @@
     "image": "",
     "answer": "d",
     "solution": "In a parliamentary system, a successful vote of no confidence results in the resignation of both the Prime Minister and the entire cabinet. This occurs because the government (executive) derives its authority from the legislature's support. Losing this support means the government can no longer govern effectively, leading to collective resignation.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1277,
+    "question": "In a confederation,the constituency that a member of the legislature represents is a",
+    "option": {
+      "a": "nation-state",
+      "b": "region",
+      "c": " senatorial district",
+      "d": "parliamentary consistuency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a confederation,the constituency that a member of the legislature represents is a region",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -14028,6 +14204,22 @@
     "image": "",
     "answer": "c",
     "solution": "The study of government will shield  us from ignorance towards the body governing our country. It is really important for anyone to know, how his/her country is being managed. Of course, when we know a lot about the systems governing our country, then, we will also know our responsibilities as a citizen of that country, enlightens citizens on their basic fundamental human rights and avoid the abuse of such rights.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1331,
+    "question": "Serfs are the dominated class under",
+    "option": {
+      "a": "capitalism",
+      "b": "socialism",
+      "c": "fascism",
+      "d": "feudalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Serfs are the dominated class under feudalism. The first class is the king who was regarded as the sole owner of the land. The Serfs were the actual cultivators of the land.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -14476,6 +14668,22 @@
     "image": "",
     "answer": "b",
     "solution": "In a monarchical system, the ultimate authority or sovereignty is traditionally vested in the royal family—specifically, the monarch. Although modern constitutional monarchies often have democratic elements, the traditional principle of monarchy holds that the crown is the source of sovereign power, rather than the people, a legislature, or the military.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1370,
+    "question": "One merit of a written constitution is its",
+    "option": {
+      "a": "legibility",
+      "b": "total flexibility",
+      "c": "rigidity",
+      "d": "ease of reference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A written constitution's ease of reference is a key merit. Being codified into a single document or organized set of texts allows for:\n\nClarity and Accessibility: Citizens, lawmakers, and judges can easily consult it to understand governmental structures, rights, and legal limits.\n\nTransparency: Provides a definitive source of law, reducing ambiguity and arbitrary governance.\n\nJudicial Reliance: Courts use it as a primary reference for resolving disputes and upholding constitutional principles.",
     "examtype": "utme",
     "examyear": "2008"
   },
