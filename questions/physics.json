@@ -9312,6 +9312,22 @@
     "examyear": "2024"
   },
   {
+    "id": 597,
+    "question": "According to kinetic theory of gases, the pressure exerted by the gas on the wall is equal",
+    "option": {
+      "a": "change in momentum per unit volume",
+      "b": "rate of change of momentum imparted by the walls per second per unit area",
+      "c": " momentum imparted to the walls per unit area",
+      "d": "change in momentum imparted to the walls per unit area"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Pressure is defined as force per unit area. In the context of gas molecules colliding with the walls of a container, the force exerted by the gas can be understood as the rate at which momentum is transferred to the walls.\nAs gas molecules collide with the walls, they change momentum, and this change occurs over time. Thus, the pressure can be described as the rate of change of momentum (change in momentum per collision multiplied by the number of collisions per second) divided by the area over which the collisions occur.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 598,
     "question": "The property by which a material returns to its original shape after the removal of force is called ",
     "option": {
