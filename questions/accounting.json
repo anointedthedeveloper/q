@@ -576,6 +576,22 @@
     "examyear": "2011"
   },
   {
+    "id": 40,
+    "question": "The petty cash book kept on imprest system should have",
+    "option": {
+      "a": "A credit balance only",
+      "b": "A debit or nil balance",
+      "c": "A debit balance only",
+      "d": "Both debit and credit balance;"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 41,
     "question": "Wilson Company owns land which cost 14100, 000. If a \"quick sate\" of the land was necessary to generate cash, the company feels it would receive only N80, 000.    The company continues to report the asset on the balance sheet at N100, 000   This is justified under which of the following concepts?  ",
     "option": {
@@ -8576,6 +8592,22 @@
     "examyear": "2015"
   },
   {
+    "id": 564,
+    "question": "If rent account is debited instead of rate account, the error committed is that of;",
+    "option": {
+      "a": "omission",
+      "b": "commission",
+      "c": "principle",
+      "d": " original entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "error of omission: An error that occurs when action has not been taken or when something has been left out.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 565,
     "question": "Balance as per cashbook ₦2, 970\nBank Charges ₦220\nUnpresented cheques ₦3, 950\nUncredited cheques ₦4, 178\nDirect debit by bank ₦1, 0000\n\nDetermine the balance as per bank statement.",
     "option": {
@@ -10924,6 +10956,22 @@
     "image": "",
     "answer": "a",
     "solution": "Wages should be charged in the trading account only if shown separately on the trial balance from salaries. In such circumstances, the assumption, unless you are otherwise told, is that the wage is a direct trading expense to be included in the trading account while salary is an Indirect (i.e overhead) expense to be included in the P & L account.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 722,
+    "question": "Based on the final accounts of Wazobi Ventures for the year ended 30th June, 1998, where sales were ₦233,000 and cost of goods sold was ₦170,000, with overhead expenses including admin expenses of ₦16,800, selling expenses of ₦15,000, and other overhead expenses of ₦6,200, resulting in a net profit of ₦25,000, what is the gross profit as a percentage of sales?",
+    "option": {
+      "a": "2.70%",
+      "b": "0.27%",
+      "c": "27.00%",
+      "d": "29.80%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To find the gross profit as a percentage of sales:\nFirst, calculate gross profit:\nGross Profit = Sales - Cost of Goods Sold\nGross Profit = ₦233,000 - ₦170,000 = ₦63,000\nThen, calculate the percentage:\nGross Profit Percentage = (Gross Profit ÷ Sales) × 100\nGross Profit Percentage = (₦63,000 ÷ ₦233,000) × 100 = 27.04%\nTherefore, the gross profit as a percentage of sales is approximately 27%.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -15120,6 +15168,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1002,
+    "question": "Ordinary shareholders received dividend before?",
+    "option": {
+      "a": "creditors",
+      "b": "debtors",
+      "c": "preference shareholders",
+      "d": "deferred shareholders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In the order of dividend payment priority:\n\nPreference shareholders (highest priority)\nOrdinary shareholders\nDeferred shareholders (lowest priority)\n\nOrdinary shareholders receive dividends before deferred shareholders because deferred shares are specifically designed to receive dividends only after ordinary shareholders have been paid.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1003,
     "question": "A source of revenue that is compulsory payment without any derived benefit is?",
     "option": {
@@ -15740,6 +15804,22 @@
     "image": "",
     "answer": "b",
     "solution": "Compute the accumulated fund as all assets less liabilities. No liabilities were given, so add up cash and assets:\n\nCash (closing, from receipts & payments) = ₦140\n\nFurniture: opening ₦1,120 + purchase of new furniture ₦120 = ₦1,240\n\nPremises = ₦4,000\n\nTotal accumulated fund = 140 + 1,240 + 4,000 = ₦5,380",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1045,
+    "question": "The not-for-profit-making organizations generate their income mainly from?",
+    "option": {
+      "a": "bar sales",
+      "b": "subcriptions",
+      "c": "rents",
+      "d": "pools"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Non-profit organizations—like clubs and associations—usually rely mainly on subscriptions paid by members as their primary source of income, while other sources like bar sales or rent are supplementary.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -21052,6 +21132,22 @@
     "image": "",
     "answer": "b",
     "solution": "Essential characteristics of partnership:\n\nCarrying on a business\nJoint operation by partners\nWith a view to making profit\nUnlimited liability (not limited)\n\nThe correct indicators are (i), (ii), and (iii) only.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1398,
+    "question": "When forming a partnership, new partners should record non-monetary assets on the new partnership's books at?",
+    "option": {
+      "a": "their current fair market values",
+      "b": "their historical costs when first use",
+      "c": "their historical costs when first purchase by each new partner",
+      "d": " the highest values practical so that future income tax deductions are maximized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Non-monetary assets contributed by new partners must be brought into the partnership at their current fair market values as of the date of contribution, to ensure that capital accounts accurately reflect the economic value each partner has invested.",
     "examtype": "utme",
     "examyear": "199"
   },
