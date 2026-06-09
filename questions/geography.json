@@ -96,6 +96,22 @@
     "examyear": "2006"
   },
   {
+    "id": 13,
+    "question": "Kariba Dam is found in River  ",
+    "option": {
+      "a": "Zambezi ",
+      "b": "Congo  ",
+      "c": "Niger  ",
+      "d": "Nile"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 14,
     "question": "The major air mass affecting the climate of West Africa in summer is the  ",
     "option": {
@@ -544,6 +560,22 @@
     "examyear": "2008"
   },
   {
+    "id": 72,
+    "question": "Which of the following Nigerian towns is Not situated near a big river? ",
+    "option": {
+      "a": "Lokoja ",
+      "b": "Onitsha  ",
+      "c": "Jebba  ",
+      "d": "Abuja"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 73,
     "question": "Fishing is the mainstay of the economy of  ",
     "option": {
@@ -615,6 +647,22 @@
       "b": "quarrying  ",
       "c": "transportation  ",
       "d": "manufacturing "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 82,
+    "question": "The major world exports of wool are  ",
+    "option": {
+      "a": "Britain, Australia, Mediterranean Europe and Argentina   ",
+      "b": "New Zealand, Uruguay, Australia and Argentina  ",
+      "c": "Australia, India, Paraguay and Argentina  ",
+      "d": "New Zealand, India, Uruguay and Peru"
     },
     "section": "",
     "image": "",
@@ -779,6 +827,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 102,
+    "question": "When the moon comes in between the earth and the sun in a perfect straight line, it is known as",
+    "option": {
+      "a": "Eclipse of the moon  ",
+      "b": "Lunar eclipse ",
+      "c": "solar eclipse  ",
+      "d": "eclipse of the earth "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -1632,6 +1696,22 @@
     "examyear": "2014"
   },
   {
+    "id": 207,
+    "question": "Nigeria lies between",
+    "option": {
+      "a": "Latitudes 4° and 13°N and longitudes 2° and 15°E. ",
+      "b": "Latitudes 5° and 14°N and longitudes 4° and 15°E. ",
+      "c": "Latitudes 4° and 14°N and longitudes 2° and 15°E. ",
+      "d": "Latitudes 2° and 15°N and longitudes 4° and 14°E. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 208,
     "question": "Kinshasa is a: ",
     "option": {
@@ -1968,6 +2048,22 @@
     "examyear": "2016"
   },
   {
+    "id": 248,
+    "question": "Nigeria is the world's leading producer of ",
+    "option": {
+      "a": "Columbite ",
+      "b": "Palm Kernel",
+      "c": "Timber",
+      "d": "Groundnuts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 250,
     "question": "The elevated feature that runs westwards from the cape near mito to the western edge of the map is",
     "option": {
@@ -2027,6 +2123,22 @@
     "section": "",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582572/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2016_18_g0ipgf.jpg",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 256,
+    "question": "What type of climate is experienced in the region \"P\" shaded on the map?",
+    "option": {
+      "a": "Cool temperature Western Margin",
+      "b": "Tropical Continental ",
+      "c": "Mediterranean",
+      "d": "Tropical Monsoon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -2208,6 +2320,22 @@
     "examyear": "2017"
   },
   {
+    "id": 290,
+    "question": "The climate region represented above is",
+    "option": {
+      "a": "Siberan",
+      "b": "Arctic",
+      "c": "Steppe",
+      "d": "Laurentian"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2017_13_and_14_lgp8dj.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 291,
     "question": "The time difference between a place on longitude 35° W and another on longitude 25° E is",
     "option": {
@@ -2231,6 +2359,38 @@
       "b": "Dakar",
       "c": "Cape town",
       "d": "Abuja"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 294,
+    "question": "Name the feature shown below",
+    "option": {
+      "a": "Crescent dune",
+      "b": "Nunatex",
+      "c": "Crag and tail",
+      "d": "Inselberg"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2017_18_qgedcr.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 298,
+    "question": "When it is 12.00 noon on longitude 30°W local time on longitude 75°E",
+    "option": {
+      "a": "7.00pm",
+      "b": "5.00am",
+      "c": "7.00am",
+      "d": "3.00pm"
     },
     "section": "",
     "image": "",
@@ -3195,6 +3355,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 422,
+    "question": "The diagram is a",
+    "option": {
+      "a": "Bar graph",
+      "b": "Proportion graph",
+      "c": "Pie chart",
+      "d": "Chloropleth map"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582572/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2020_26_jnguwo.jpg",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
