@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 16,
+    "question": "The military coup of July 25, 1975 which toppled General Yakubu Gowon from power  took place when he was attending which important event? ",
+    "option": {
+      "a": "OAU Summit in Kampala ",
+      "b": "UN General Assembly in New York ",
+      "c": "Assembly of Heads of states of ECOWAS in Monrovia ",
+      "d": "The Olympic Games"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 19,
     "question": "The electorate is generally  understood to refer to ",
     "option": {
@@ -112,6 +128,22 @@
     "examyear": "2013"
   },
   {
+    "id": 197,
+    "question": "Which of the following modern principles of democracy is found in the Yoruba traditional political system  ",
+    "option": {
+      "a": "checks and balances  ",
+      "b": "the constitution",
+      "c": "multipartism  ",
+      "d": "bicameralism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 229,
     "question": "Which of the following factors may work against a representative system of government?",
     "option": {
@@ -128,6 +160,22 @@
     "examyear": "2000"
   },
   {
+    "id": 282,
+    "question": "The age qualification required for a Nigerian to contest as a Senator is",
+    "option": {
+      "a": "18",
+      "b": "21",
+      "c": "30",
+      "d": "40"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 297,
     "question": "How many members of the security council of the United Nations (UN) exercise veto power?",
     "option": {
@@ -139,6 +187,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 299,
+    "question": "Who was the leader of the Northern Elements Progressive Union (NEPU)?",
+    "option": {
+      "a": "Alhaji Balarabe Musa",
+      "b": "Alhaji Umaru Dikko",
+      "c": "Mallam Aminu Kano",
+      "d": "Sir Abubakar Tafawa Balewa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -320,6 +384,22 @@
     "examyear": "2010"
   },
   {
+    "id": 495,
+    "question": "Military intervention in Nigeria arose from",
+    "option": {
+      "a": "perceived incapability of civilians to govern",
+      "b": "international pressure for change",
+      "c": "the desire for a military government",
+      "d": "civilians’ desire to relinquish power."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 502,
     "question": "The African leader mostly credited for spearheading the formation of the African Union is",
     "option": {
@@ -350,6 +430,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 566,
+    "question": "Which of the following is a feature of checks and balances?",
+    "option": {
+      "a": "judicial precedent",
+      "b": "Judicial immunity",
+      "c": "Judicial review",
+      "d": "Code of conduct"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
   },
   {
     "id": 583,
@@ -400,6 +496,22 @@
     "examyear": "1988"
   },
   {
+    "id": 672,
+    "question": "Which of the following is not civic obligation of a citizen?",
+    "option": {
+      "a": "Obedience to law",
+      "b": "payment of taxes",
+      "c": "voting during elections",
+      "d": "freedom of conscience and religion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 684,
     "question": "The emergency powers conferred on the Federal Government under the independence constitution was first exercised in the",
     "option": {
@@ -411,6 +523,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 688,
+    "question": "The ratification of the appointment and dismissal of an Emir in the pre-colonial Fulani Empire was done by the",
+    "option": {
+      "a": "Empire of Lafiagi and the Etsu of pategi",
+      "b": "Emirs of Kano and Katsina",
+      "c": "Emirs of Gwandu and Sokoto",
+      "d": "Emir of llorin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
@@ -656,6 +784,22 @@
     "examyear": "2020"
   },
   {
+    "id": 935,
+    "question": "A major issue that distinguishes pressure groups from political parties is the …",
+    "option": {
+      "a": "Ideology",
+      "b": "Objective",
+      "c": "Membership drive",
+      "d": "Voting pattern"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Political parties aim at contesting and winning elections and controlling government while pressure groups aim at pursuing the interest of their members and influencing the decisions of the government.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 951,
     "question": "One of the duties of the legislature is to_______",
     "option": {
@@ -702,6 +846,22 @@
     "solution": "Separation of powers is also called a system of checks and balances because the branches can check up on each other and if any of the branches get too strong, that branch will be balanced by the others. However, it is not a feature of the rule of law.",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 1005,
+    "question": "Which of the following is a limitation of pressure groups?",
+    "option": {
+      "a": "They only represent the interests of the wealthy.",
+      "b": "They have no influence on the government policies",
+      "c": "They may prioritize their own interests over the public interest",
+      "d": "They often resort to violent tactics"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Pressure groups may prioritize their own interests over the public interest. This is because pressure groups are formed by individuals or organizations with specific interests or objectives. They aim to influence public policy and decision-making in favor of their interests, which may not always align with the broader public interest.",
+    "examtype": "utme",
+    "examyear": "2023"
   },
   {
     "id": 1055,
@@ -752,6 +912,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1078,
+    "question": "Which local government reform in Nigeria prevented traditional rulers from engaging in politics?",
+    "option": {
+      "a": " The 1960 Reform",
+      "b": " The 1963 Reform",
+      "c": "The 1976 Reform",
+      "d": " The 1979 Reform"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The 1976 Reform of the Local Government in Nigeria changed the multiple system of local government councils to a single-tier all-purpose local government. It also led to the exclusion of traditional rulers from local government councils. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1092,
     "question": "The June 12 election in Nigeria was annulled by the regime of ",
     "option": {
@@ -784,6 +960,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1162,
+    "question": "A major way of maintaining confidence in the electoral process is by ensuring that",
+    "option": {
+      "a": "electoral officers are regularly trained",
+      "b": "elections are conducted in a free and fair atmosphere",
+      "c": "unlimited franchise is made available",
+      "d": "elections are conducted as and when due"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Maintaining confidence in the electoral process primarily depends on ensuring that elections are free, fair, and transparent. This means that all participants have equal opportunities to participate, vote, and be represented, thereby fostering trust in the outcomes and integrity of the electoral system.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1170,
     "question": "In pre-colonial Igbo society, decisions on public issues were reached mainly through",
     "option": {
@@ -796,6 +988,22 @@
     "image": "",
     "answer": "b",
     "solution": "In Pre-colonial Igbo society, decisions on public issues were reached mainly through consensus.\n\nThe decision were then taken back to the respective families for ratification or rejection.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1193,
+    "question": "An attribute that Nigeria shares with most non-aligned countries is",
+    "option": {
+      "a": "her large population",
+      "b": " the state of her economy",
+      "c": "her heterogenous population",
+      "d": " her large size"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An attribute that Nigeria shares with most non-aligned countries is the state of her economy.\n\nLike other members of the non-aligned movement, Nigeria's internal economic structures that depend on external support has made Nigeria to be political on-aligned and economically aligned.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -862,6 +1070,22 @@
     "solution": "In a parliamentary system, a successful vote of no confidence results in the resignation of both the Prime Minister and the entire cabinet. This occurs because the government (executive) derives its authority from the legislature's support. Losing this support means the government can no longer govern effectively, leading to collective resignation.",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1311,
+    "question": "A distinctive feature of the Richards Constitution was its provision for",
+    "option": {
+      "a": "unofficial members in the Legislative Council",
+      "b": "a Legislative Council for the whole of Nigeria",
+      "c": "the establishment of local councils",
+      "d": "official members in the Legislative Council"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A distinctive feature of the Richards Constitution was its provision for a Legislative Council for the whole of Nigeria.\n\nNorthern and Southern Niger were brought together under one Legislative Council. That is, the same laws were made for the whole country by the same legislature.",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 1350,
@@ -956,6 +1180,22 @@
     "image": "",
     "answer": "a",
     "solution": "It is only the party that can nominate (choose) an individual for a position or post. Furthermore, it an in-house affair where the party’s candidate is given a ticket to vote for a particular post.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1487,
+    "question": "n the Presidential System of Government, the president is elected to office by",
+    "option": {
+      "a": "the Cabinet",
+      "b": "the Parliament or Legislature",
+      "c": "Military",
+      "d": "the people through direct elections"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a Presidential System of Government, the president is elected to office by the people through direct elections. This means that citizens have the opportunity to vote directly for their president, rather than the president being appointed or elected by the legislature, cabinet or military. ",
     "examtype": "utme",
     "examyear": "2015"
   }
