@@ -3456,6 +3456,22 @@
     "examyear": "2016"
   },
   {
+    "id": 229,
+    "question": "Calculate the inductance of a coil of resistance 30Ω connected to a 100V a.c source if the coil draws an r.m.s current of 2A",
+    "option": {
+      "a": " 0.13 H",
+      "b": "2.50H",
+      "c": "1.25H",
+      "d": "0.04H"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nResistance (R) = 30Ω\nVoltage (V) = 100V (r.m.s)\nCurrent (I) = 2A (r.m.s)\nInductance (L) = ?\n\nStep 1: Calculate impedance (Z)\nZ = V/I = 100/2 = 50Ω\nStep 2: Find inductive reactance (X_L)\nFor an R-L series circuit:\nZ² = R² + X_L²\n50² = 30² + X_L²\n2500 = 900 + X_L²\nX_L² = 1600\nX_L = 40Ω\nStep 3: Calculate inductance (L)\nX_L = 2πfL\nIf we assume standard mains frequency f = 50Hz:\nL = X_L/(2πf)\nL = 40/(2 × π × 50)\nL = 40/(314.16)\nL = 0.127 H\nAnswer: L ≈ 0.13 H (or 130 mH)",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 230,
     "question": "Which is the incorrect formula for a body accelerating uniformly?",
     "option": {
@@ -4172,6 +4188,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nNumber of electrons = 28\nNumber of neutrons = 30\n\nUnderstanding atomic notation:\nThe standard notation is: ᴬ_ZX\nwhere:\n\nA = mass number (top) = protons + neutrons\nZ = atomic number (bottom) = number of protons\nX = element symbol\n\nStep 1: Find number of protons\nFor a neutral atom: Number of protons = Number of electrons = 28\nTherefore: Z = 28\nStep 2: Calculate mass number\nMass number (A) = Protons + Neutrons\nA = 28 + 30 = 58\nStep 3: Write the notation\nᴬ_ZX = ⁵⁸₂₈X",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 277,
+    "question": "Which of the following is true of an electrical charge?",
+    "option": {
+      "a": "Positive charge means deficit electrons",
+      "b": "Negative charge means excess of electrons",
+      "c": " electric current means movement of electrons",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All of the statements are true about electrical charge.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -13644,6 +13676,22 @@
     "image": "",
     "answer": "c",
     "solution": "Infrared rays falling on the skin causes the skin causes the sensation of warmth. since the objects are hot, the correct option is informed.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 912,
+    "question": "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts?",
+    "option": {
+      "a": " the level of water goes up",
+      "b": "the water in the glass outflows",
+      "c": " the level of water remains unchanged",
+      "d": "the level of water drops"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Due to anomalous expansion of water at temperature range (0 - 4)°c, when a given mass of water turns into ice, its volume will increase, while the mass remains constant. Thus, when a given volum of ice melts, the volume of water formed will be less than the volume of ice. Hence, the level of water in the container will drop.",
     "examtype": "utme",
     "examyear": "2010"
   },
