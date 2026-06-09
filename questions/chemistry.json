@@ -7152,6 +7152,22 @@
     "examyear": "2019"
   },
   {
+    "id": 509,
+    "question": "2-methylprop-1-ene is an isomer of?",
+    "option": {
+      "a": "3-methyl but-1-ene",
+      "b": "2-methyl but-1-ene",
+      "c": "but-2-ene",
+      "d": "pent-2-ene"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "2-methylprop-1-ene has the formula CH₂=C(CH₃)₂ with molecular formula C₄H₈. Structural isomers must have the same molecular formula. But-2-ene (CH₃CH=CHCH₃) also has the formula C₄H₈. Options A, B, and D are C₅ compounds (C₅H₁₀), so only but-2-ene is a correct isomer.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 510,
     "question": "Hydrocarbons which will react with Tollen's reagent conform to the general formula",
     "option": {
