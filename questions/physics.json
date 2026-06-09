@@ -5920,6 +5920,22 @@
     "examyear": "2024"
   },
   {
+    "id": 558,
+    "question": "When a charged ebonite rod is brought near a charged glass rod, there will be ",
+    "option": {
+      "a": "attraction",
+      "b": "repulsion",
+      "c": "spark",
+      "d": "no force experienced"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ebonite rods are negatively charged, while glass rods are positively charged when rubbed. Opposite charges attract each other, leading to an attractive force between the rods.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 559,
     "question": "Pilots uses aneroid barometer to know the height above sea level because ",
     "option": {
@@ -8880,6 +8896,22 @@
     "examyear": "2008"
   },
   {
+    "id": 849,
+    "question": "A ray of light traveling from air into glass is incident at an angle of 60° to the normal. If the refractive index of the glass is 1.5, calculate the angle of refraction in the glass.",
+    "option": {
+      "a": "30.7°",
+      "b": "35.3°",
+      "c": "40.5°",
+      "d": "45.0°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nAngle of incidence (i) = 60°\nRefractive index of air (n₁) = 1.0\nRefractive index of glass (n₂) = 1.5\nAngle of refraction (r) = ?\n\nUsing Snell's Law:\nn₁ sin i = n₂ sin r\nRearranging for sin r:\nsin r = (n₁ sin i)/n₂\nSubstituting values:\nsin r = (1.0 × sin 60°)/1.5\nsin r = (1.0 × 0.866)/1.5\nsin r = 0.866/1.5\nsin r = 0.577\nFinding angle r:\nr = sin⁻¹(0.577)\nr = 35.3°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 850,
     "question": "I. Diameter of a small ball bearing.\nII. Thickness of a pieces of paper.\nIII. Diameter of a measuring cylinder.\nIV. Length of a piece of wire.\n\n\nWhich of the above can be measured using a micrometer screw gauge?",
     "option": {
@@ -10768,6 +10800,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1037,
+    "question": "Which of the following CANNOT be deflected by both electric and magnetic fields?",
+    "option": {
+      "a": " Gamma rays",
+      "b": "Alpha particles",
+      "c": "Wave particles",
+      "d": " Beta particles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Gamma rays cannot be deflected by both electric and magnetic fields.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1039,
     "question": "The p-n junction diodes can act as rectifiers because they",
     "option": {
@@ -10796,6 +10844,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a brick is taken from the earth's surface to the moon, its mass remains constant. Mass is an intrinsic property of matter that doesn't change with location, although the weight (gravitational force) decreases to about 1/6 of its Earth value due to the moon's weaker gravity.\nRemember:\n\nMass = amount of matter (constant everywhere)\nWeight = gravitational force (varies with location)",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1042,
+    "question": "The pair of physical quantities that are scalar only are ?",
+    "option": {
+      "a": "volume and area",
+      "b": ". moment and momentum",
+      "c": "length and displacement",
+      "d": " Impulse and time"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This is because volume and the area have only magnitude but no direction",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -11676,6 +11740,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nApplied force, F = 18 N\nMass, m = 40 kg\nAcceleration, a = 0.3 m s⁻²\ng = 10 m s⁻² (assumed)\n\nSolution:\n\nStep 1: Calculate frictional force\nNet force = Applied force – Frictional force\nF_net = m × a = 40 × 0.3 = 12 N\nTherefore, F – F_f = 12\nF_f = 18 – 12 = 6 N\n\nStep 2: Calculate normal reaction\nNormal reaction, R = mg = 40 × 10 = 400 N\n\nStep 3: Calculate coefficient of friction\nμ = F_f / R = 6 / 400 = 0.015",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1135,
+    "question": "A hydraulic press consists of two cylinders of cross-sectional radius r₁ and r₂. If a force of 200 N applied to the smaller piston (r₁) causes a force of 3200 N to be transmitted onto the larger piston (r₂). The ratio r₁ : r₂ is?",
+    "option": {
+      "a": "1 : 4",
+      "b": " 1 : 2",
+      "c": "1 : 8",
+      "d": "1 : 16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nForce on smaller piston, F₁ = 200 N\nForce on larger piston, F₂ = 3200 N\n\nSolution:\n\nStep 1: Pascal's principle for hydraulic press\nPressure is transmitted equally throughout the fluid:\nP₁ = P₂\nF₁ / A₁ = F₂ / A₂\n\nStep 2: Express area in terms of radius\nArea A = πr², so\nF₁ / πr₁² = F₂ / πr₂²\nF₁ / r₁² = F₂ / r₂²\n\nStep 3: Rearrange to find ratio r₁ / r₂\nr₁² / r₂² = F₁ / F₂\nr₁ / r₂ = √(F₁ / F₂)\n\nStep 4: Substitute values\nr₁ / r₂ = √(200 / 3200) = √(1/16) = 1/4",
     "examtype": "utme",
     "examyear": "2025"
   },
