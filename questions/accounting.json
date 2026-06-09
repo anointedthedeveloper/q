@@ -3936,6 +3936,22 @@
     "examyear": "2015"
   },
   {
+    "id": 326,
+    "question": "In the balance sheet of a social club, subscription owing is treated as a",
+    "option": {
+      "a": "current liability",
+      "b": "current asset",
+      "c": "tangible asset",
+      "d": "long-term liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 327,
     "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it will be used for more than one year is",
     "option": {
@@ -4123,6 +4139,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 350,
+    "question": "The accounting treatment for a dishonoured cheque is; debit",
+    "option": {
+      "a": "Customer’s Account; Credit Bank Account",
+      "b": "Bank Account; Credit Customer’s Account",
+      "c": "Customer’s Account; Credit Sales Account",
+      "d": "Sales Account; Credit Customer’s Account\\"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -6528,6 +6560,22 @@
     "examyear": "2016"
   },
   {
+    "id": 566,
+    "question": "The records of Superstores shows a loan of ₦14,000 from Bala,creditor ₦8,000 and assets ₦190,500. What is the firm's capital?",
+    "option": {
+      "a": "₦184, 000",
+      "b": "₦196,500",
+      "c": " ₦212,000",
+      "d": "₦168,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The net working capital formula is calculated by subtracting the current liabilities from the current assets. \nAssets = 190,500\nliabilities = 14,000 + 8,000 = 22,000\n190,500 - 22,000 = 168,000 (capital)",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 568,
     "question": "Departments K Y\nOpening 2,500 800\nPurchases 120,000 100,000\nSales 180,000 200,000\nSalary 8,000 30,000\nClosing stock 3,000 1,500\nRate expenses of 1,500 are apportioned in the ratio 1:2\n\nThe gross profit for K is",
     "option": {
@@ -6620,6 +6668,22 @@
     "image": "",
     "answer": "c",
     "solution": "Debit note is usually issued by the purchaser andcredit note is usually issued by the seller. But debit note can be issued by the seller when the buyer erroneously records more and credit note can also be issued by the buyer when the seller undercharges the buyer.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 577,
+    "question": "Given the following information:\n\nDrawings: ₦3,500\nNet loss: ₦2,500\nCapital as at 1.1.2007: ₦35,000\nAdditional capital: ₦10,000\n\nThe adjusted capital as at 31.12.2007 is:",
+    "option": {
+      "a": "₦45,000",
+      "b": "₦39, 000",
+      "c": "₦35,000",
+      "d": "₦46,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find the adjusted capital as at 31.12.2007, start with the opening capital and adjust for all changes during the year.\nGiven:\n\nCapital 1.1.2007: 35,000\nAdditional capital: 10,000\nNet loss: 2,500\nDrawings: 3,500\n\nCapital Account Movement:\nStarting capital (1.1.2007): 35,000\nAdd:\n\nAdditional capital: +10,000\n\nLess:\n\nNet loss: -2,500\nDrawings: -3,500\n\nCalculation:\nAdjusted capital as at 31.12.2007 = 35,000 + 10,000 - 2,500 - 3,500\n= 45,000 - 6,000\n= 39,000",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -8304,6 +8368,22 @@
     "examyear": "2019"
   },
   {
+    "id": 733,
+    "question": "Based on the Receipts and Payment Account extract showing: balance brought forward ₦3,650, subscription ₦7,500 less ₦2,000 equals ₦1,000, fees ₦8,500, insurance ₦900, rate ₦11,700, and balance carried down ₦8,050, with totals of ₦20,650 on both sides, and given the following additional information as at 1st January 1999 and 31st December 1999 respectively: rates owing ₦3,600 and ₦2,000, insurance prepaid ₦50 and ₦1,000, subscription in arrears ₦700 and ₦600, The figure ₦1000 represent What is the opening cash balance",
+    "option": {
+      "a": "₦20,600",
+      "b": "₦8,050",
+      "c": " ₦3,650",
+      "d": "₦8,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "This is shown as \"Bal b/f\" (Balance brought forward) of ₦3,650 on the receipts side of the Receipts and Payment Account, which represents the cash balance at the beginning of the period.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 735,
     "question": "Given the following manufacturing information: stock of finished goods on January 1st was ₦50,640 and on December 31st was ₦71,380; stock of raw materials on January 1st was ₦32,160 and on December 31st was ₦29,640; purchase of raw materials was ₦145,000; manufacturing wages were ₦52,000; depreciation on factory equipment was ₦16,500; direct expenses were ₦12,500; factory fuel cost ₦7,000; and carriage inwards on raw materials was ₦7,000, what is the cost of raw materials consumed?",
     "option": {
@@ -8444,6 +8524,22 @@
     "image": "",
     "answer": "c",
     "solution": "Bank statement is prepared by the bank to an account border showing the transactions between the customer and the bank within a period of time. It is usually issued monthly or at agreed intervals to the customers.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 750,
+    "question": "The method of stock valuation in which the issue price is obtained by dividing the value of stock in hand by unit of stock in hand is",
+    "option": {
+      "a": "FIFO",
+      "b": "LIFO",
+      "c": "SAP",
+      "d": "WAP"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Weighted Average Price (WAP): Under this method issues are priced at a weighted average price which is obtained by dividing the value by the unit of stock in hand. Issues will continue to be priced at this price until a new batch is received when a new weighted Average price is calculated.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -10656,6 +10752,22 @@
     "examyear": "2024"
   },
   {
+    "id": 945,
+    "question": "Issue of prospectus is an invitation to the Public to",
+    "option": {
+      "a": " register a company",
+      "b": " liquidate a company",
+      "c": "redeem all outstanding shares",
+      "d": " subscribe for share"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A prospectus is a formal legal document that provides detailed information about a company's financial condition, its plans for the future, and the risks involved in investing.\nThe primary purpose of issuing a prospectus is to attract potential investors to buy (subscribe for) shares of the company's stock.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 946,
     "question": "When shares are over-subscribed, directors may decide to scale down the number of shareholding by alloting shares at ___",
     "option": {
@@ -11084,6 +11196,22 @@
     "image": "",
     "answer": "b",
     "solution": "LIFO (Last In, First Out) assumes that the most recently purchased (and therefore most expensive) items are sold first. This means:\n\nThe newer, higher-priced inventory gets matched against sales revenue\nThe older, lower-priced inventory remains in closing stock\nThis results in a lower closing stock value on the balance sheet\n\nIn contrast:\n\nFIFO would show higher closing stock values (newer, expensive items remain)\nSimple average and periodic simple average would show moderate values between FIFO and LIFO\n\nLIFO is often preferred during inflation because it:\n\nMatches current costs against current revenues (better income statement matching)\nResults in lower reported profits (and thus lower taxes)\nShows more conservative inventory values\n\nSo LIFO typically gives the lowest closing stock valuation during inflationary periods.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 985,
+    "question": "Which of the following is a credit item in creditors ledger control account?",
+    "option": {
+      "a": "Purchases returns",
+      "b": "Bills payable",
+      "c": "Purchasess",
+      "d": "Cash receipts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a Creditors Ledger Control Account (also called Accounts Payable Control Account):\nCredit items are transactions that increase what we owe to suppliers:\n\nPurchases - When we buy goods on credit, we owe more to suppliers (CREDIT)\nAdditional purchases on credit\nInterest or charges added by suppliers\n\nDebit items are transactions that decrease what we owe to suppliers:\n\nPurchases returns (Option A) - We return goods, so we owe less (DEBIT)\nBills payable (Option B) - When we issue a bill payable, it reduces the creditor balance (DEBIT)\nCash payments - When we pay suppliers (DEBIT)\nDiscounts received from suppliers (DEBIT)",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -12188,6 +12316,22 @@
     "image": "",
     "answer": "c",
     "solution": "We can calculate total sales on account using the accounts receivable equation:\n\nBeginning A/R + Credit Sales − Collections = Ending A/R\n\nSubstitute values:\n\n20,000 + Credit Sales − 70,000 = 30,000\n\nCredit Sales − 50,000 = 30,000\n\nCredit Sales = 80,000",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1085,
+    "question": "Given:\nGeneral expenses account.\nPaid by cheque..................₦671\nPaid by cash....................₦70\nAccrued b/f.....................₦65\nAccrued c/f.....................₦115\n\nDetermine how much to be charged to profit and loss account?",
+    "option": {
+      "a": "₦606",
+      "b": "₦786",
+      "c": "₦791",
+      "d": "₦856"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Amount to charge to P&L = Total paid during the year + Closing accrual − Opening accrual\n\nWhere:\n\nTotal paid during the year = Cheque payments + Cash payments\n\nClosing accrual = Expenses incurred this year but not yet paid (add them)\n\nOpening accrual = Expenses from last year paid this year (subtract them)\n\n\n\nTotal paid during the year\n\n671 + 70 = ₦741\n\nAdd closing accrual\n\n741 + 115 = ₦856\n\nSubtract opening accrual\n\n856 − 65 = ₦791\n\nFinal P&L charge = ₦791",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -14236,6 +14380,22 @@
     "image": "",
     "answer": "c",
     "solution": "To calculate net profit, Adjust the operating expenses by removing the prepaid portion (since prepaid expenses are not actual expenses for the current period):\nAdjusted Operating Expenses = ₦2,500 - ₦500 = ₦2,000\nNet Profit = Sales - Cost of Sales - Adjusted Operating Expenses\nNet Profit = ₦20,000 - ₦10,000 - ₦2,000 = ₦8,000",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1270,
+    "question": "The main objective of bookkeeping is to record economic?",
+    "option": {
+      "a": "transactions systematically for routine managerial decision-making",
+      "b": "events clearly to ensure adequate checks and balances",
+      "c": "events clearly to facilitate strategic managerial desicion-making",
+      "d": "transaction systematically to ascertain the financial position of a business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The primary aim of bookkeeping is to systematically record all economic transactions so that the business’s financial position can be determined at any point in time.",
     "examtype": "utme",
     "examyear": "2000"
   },
