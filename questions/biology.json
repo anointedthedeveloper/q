@@ -32,6 +32,22 @@
     "examyear": "2003"
   },
   {
+    "id": 21,
+    "question": "The most important hormone that induces the ripening of fruit is",
+    "option": {
+      "a": "ethylene  ",
+      "b": "indole acetic acid",
+      "c": "gibberellin  ",
+      "d": "cytokinin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 27,
     "question": "Mycorrhiza is an association  between fungi and",
     "option": {
@@ -91,6 +107,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 45,
+    "question": "A plant like feature I Euglena is the",
+    "option": {
+      "a": "Pellicle  ",
+      "b": "pigment sport",
+      "c": "large vacuole   ",
+      "d": "gullet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -208,6 +240,22 @@
     "examyear": "2005"
   },
   {
+    "id": 89,
+    "question": "I. Rettus rattus   II. Agama agama  II Bufo regularis  IV. Tilapia Zill. The order of evolutionary advancement  of the above",
+    "option": {
+      "a": "I, II and III , IV  ",
+      "b": "I, IV, III, II  ",
+      "c": "II, III, IV, I",
+      "d": "IV, III, II, I"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 90,
     "question": "The stage in the life history  of a moth responsible for the destruction of agricultural crops is the",
     "option": {
@@ -270,6 +318,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 123,
+    "question": "The two normal types of sex chromosomes are",
+    "option": {
+      "a": "xxy and xyy",
+      "b": "xx and xyy  ",
+      "c": "xx and xy  ",
+      "d": "xy and xxy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
   },
   {
     "id": 126,
@@ -336,6 +400,38 @@
     "examyear": "2006"
   },
   {
+    "id": 131,
+    "question": "The product of excretion common to the mammalian kidney lung and skin is",
+    "option": {
+      "a": "Urea  ",
+      "b": "carbon (IV)oxides  ",
+      "c": "mineral salt",
+      "d": "water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 133,
+    "question": "One basic similarly between nervous and endocrine system is that both  ",
+    "option": {
+      "a": "produce precise and short –lived  effects  ",
+      "b": "Involve the use of chemical substances  ",
+      "c": "transmit very fast impulses  ",
+      "d": "produce widespread effects."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 141,
     "question": "The organ situated in the pericardial cavity of a mammal is the",
     "option": {
@@ -347,6 +443,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 147,
+    "question": "Which of the following vertebrates has the most simple structured heart?",
+    "option": {
+      "a": "fish  ",
+      "b": "Mammal",
+      "c": "Amphibian  ",
+      "d": "Reptile"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -366,6 +478,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 161,
+    "question": "The photosynthetic pigment is include  ",
+    "option": {
+      "a": "melanin and haemoglobin  ",
+      "b": " chlorophyll and carotenoids  ",
+      "c": " carotenoids and haemoglobin  ",
+      "d": " chloroplasts and cytochromes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
   },
   {
     "id": 162,
@@ -491,6 +619,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 194,
+    "question": "Which of the following  is used mainly for balancing in fish?",
+    "option": {
+      "a": "The causal fin  ",
+      "b": "the pectoral fin",
+      "c": "the anal fin  ",
+      "d": "The dorsal fin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -624,6 +768,22 @@
     "examyear": "2009"
   },
   {
+    "id": 254,
+    "question": "A woman with the ability to roll her tongue (Tt) marries a man who cannot roll his tongue  (tt). What is the probability of each of their children being a tongue roller?",
+    "option": {
+      "a": "100%",
+      "b": "75%",
+      "c": "50%",
+      "d": "25%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 256,
     "question": "Plants that grow in an area that is neither too wet nor too dry are",
     "option": {
@@ -704,6 +864,22 @@
     "examyear": "2010"
   },
   {
+    "id": 275,
+    "question": "The oily substance that lubricates the mammalian hair to keep it flexible ad water repellent is secreted by the",
+    "option": {
+      "a": "sweat glands",
+      "b": "sebaceous glands",
+      "c": "fatty  cells",
+      "d": "granular layer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 277,
     "question": "Which of the following stimuli is likely to elicit a nastic response in an organism? ",
     "option": {
@@ -768,6 +944,22 @@
     "examyear": "2010"
   },
   {
+    "id": 309,
+    "question": "Which of the following is true of leucocytes?  ",
+    "option": {
+      "a": "They are most numerous and ramify all cells  ",
+      "b": "They are large and nucleated  ",
+      "c": "They are involved in blood clotting",
+      "d": "They are respiratory pigments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 310,
     "question": "The conversion of a nutrient into a molecule in the body of a consumer is referred to a s  ",
     "option": {
@@ -779,6 +971,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 313,
+    "question": "An example of an endospermous seed is   ",
+    "option": {
+      "a": "cashew  nut  ",
+      "b": "cottons seed",
+      "c": "bean seed  ",
+      "d": "maize grain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 314,
+    "question": "I. Parasitism _ Sundew    II Autrrophism_Amoeba    III Saprophytism_ Alga  IV. Heterotrophism- Agama. Which of the above modes of nutrition is correctly matched with the organism that  exhibits it?",
+    "option": {
+      "a": "III",
+      "b": "IV  ",
+      "c": "I",
+      "d": "II"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
