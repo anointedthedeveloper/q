@@ -512,6 +512,22 @@
     "examyear": "2009"
   },
   {
+    "id": 94,
+    "question": "The best index for indentation comparison of standard of living is the ",
+    "option": {
+      "a": "Gross national product ",
+      "b": "Net national income ",
+      "c": "per capital income ",
+      "d": "Gross national income."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 98,
     "question": "In Economics human wants are usually described as  ",
     "option": {
@@ -523,6 +539,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 100,
+    "question": "An economic system can be defined as an ",
+    "option": {
+      "a": " arrangement specifying how production and consumption are controlled in a   society ",
+      "b": "arrangement whereby goods are distributed in a society  ",
+      "c": "arrangement whereby human wants are satisfied in a society  ",
+      "d": "arrangement specifying how productive resources are distributed in a society "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -704,6 +736,22 @@
     "examyear": "2013"
   },
   {
+    "id": 144,
+    "question": "How can we eliminate a surplus in a commodity market? ",
+    "option": {
+      "a": "Increase quantity supplied ",
+      "b": "Decrease quantity demanded  ",
+      "c": "Allowing price to fall towards equilibrium  ",
+      "d": "Allowing price to rise towards equilibrium "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 146,
     "question": "When the product of any one firm in an industry is not  perceived by consumers as a perfect substitute for the product of any other firm in the same industry, we have ",
     "option": {
@@ -864,6 +912,22 @@
     "examyear": "2010"
   },
   {
+    "id": 169,
+    "question": "Productive efficiency refers to: ",
+    "option": {
+      "a": "the use of the least-cost method of production ",
+      "b": "the production of the product-mix most wanted by society ",
+      "c": "the full employment of all available resources ",
+      "d": "production at some point inside of the production possibilities curve."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 170,
     "question": "Which of the following statement is correct? ",
     "option": {
@@ -912,6 +976,22 @@
     "examyear": "2010"
   },
   {
+    "id": 173,
+    "question": "Unemployment involving a mismatch of the skills of unemployment workers and the skill required for available jobs is called: ",
+    "option": {
+      "a": "frictional unemployment ",
+      "b": "structural unemployment ",
+      "c": "cynical unemployment ",
+      "d": ""
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 177,
     "question": "The value of money varies ",
     "option": {
@@ -923,6 +1003,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 178,
+    "question": "If actual reserves in the banking system are #40,000, excess reserves are #10,000, and checkable deposits are #240,000, then the legal reserve requirement is: ",
+    "option": {
+      "a": "10%",
+      "b": "12.50%",
+      "c": "20%",
+      "d": "5%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -1003,6 +1099,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 190,
+    "question": "Which of the following is function of an entrepreneur?",
+    "option": {
+      "a": "Avoidance of risks",
+      "b": "Decision making",
+      "c": "Employment control",
+      "d": "Organizing unions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2001"
@@ -1099,6 +1211,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 202,
+    "question": "The demand for a commodity not directly for immediate consumption but for the production of another commodity is",
+    "option": {
+      "a": "competitive demand",
+      "b": "derived demand",
+      "c": "composite demand",
+      "d": "joint demand"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2001"
@@ -1616,6 +1744,38 @@
     "examyear": "2012"
   },
   {
+    "id": 286,
+    "question": "The type of production that involves the tapping and \tharnessing of natural resources is",
+    "option": {
+      "a": "primary production",
+      "b": "secondary production",
+      "c": "tertiary production",
+      "d": "industrial production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 287,
+    "question": "Which of the following does not change in the short run?",
+    "option": {
+      "a": "Variable cost",
+      "b": "Marginal cost",
+      "c": "Total cost",
+      "d": "Fixed cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 288,
     "question": "The resources used in production are called",
     "option": {
@@ -1936,6 +2096,22 @@
     "examyear": "2009"
   },
   {
+    "id": 344,
+    "question": "The reform in the banking sector in Nigeria is principally \tmotivated by the need to",
+    "option": {
+      "a": "increase the capital base of banks",
+      "b": "provide more money to run the economy",
+      "c": "minimize the rate of bank failures",
+      "d": "enhance efficiency in bank operations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 347,
     "question": "If government expenditure exceeds revenue, this results in",
     "option": {
@@ -2032,6 +2208,22 @@
     "examyear": "2009"
   },
   {
+    "id": 368,
+    "question": "The downturn in the prices of shares on stock markets is a \thighlight of",
+    "option": {
+      "a": "efficient allocation of resources",
+      "b": "the regulatory nature of the market",
+      "c": "the invisible hand",
+      "d": "consumer rationality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 369,
     "question": "If  X = 6 and N = 6, determine the value of   Efx.",
     "option": {
@@ -2075,6 +2267,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 373,
+    "question": "If  the demand for a good is more elastic than its supply, the tax burden is borne",
+    "option": {
+      "a": "equally by consumers and producers",
+      "b": "more by consumers",
+      "c": "more by producers",
+      "d": "more by retailers and producers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -2144,6 +2352,22 @@
     "examyear": "2010"
   },
   {
+    "id": 388,
+    "question": "An industry’s supply curve is more likely to be elastic when firms are",
+    "option": {
+      "a": "enjoying free entry and exit",
+      "b": "operating below capacity",
+      "c": "operating at full capacity",
+      "d": "maximizing profits"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 391,
     "question": "An agreement among firms on price and segmentation is termed",
     "option": {
@@ -2203,6 +2427,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 399,
+    "question": "A strategy for curbing unemployment is to",
+    "option": {
+      "a": "implement government stabilization policy",
+      "b": "increase government expenditure and decrease taxes",
+      "c": "increase taxes and decrease government expenditure",
+      "d": "ensure even distribution of job opportunities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -2496,6 +2736,22 @@
     "examyear": "2003"
   },
   {
+    "id": 448,
+    "question": "Cost-push inflation is likely to arise when",
+    "option": {
+      "a": "there is an increase in government spending",
+      "b": "there is an increase in direct taxes",
+      "c": "demand for higher wages is granted",
+      "d": "there is a decrease in bank lending"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 449,
     "question": "The most important function of merchant banks is the",
     "option": {
@@ -2507,6 +2763,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 450,
+    "question": "Precautionary motive relates to",
+    "option": {
+      "a": "demand for money",
+      "b": "demand for goods",
+      "c": "supply of money",
+      "d": "supply of goods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2003"
@@ -2784,6 +3056,22 @@
     "examyear": "2004"
   },
   {
+    "id": 492,
+    "question": "Which of the following will ensure efficiency in the industrial sector of your country?",
+    "option": {
+      "a": "Indigenization",
+      "b": "Privatization",
+      "c": "Nationalization",
+      "d": "Liquidation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
     "id": 493,
     "question": "The number of people who are qualified to work and who offer themselves for employment are called",
     "option": {
@@ -3040,6 +3328,22 @@
     "examyear": "2005"
   },
   {
+    "id": 539,
+    "question": "A persistent and appreciable rise in the general level of prices is known as",
+    "option": {
+      "a": "depreciation",
+      "b": "inflation",
+      "c": "deflation",
+      "d": "production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 540,
     "question": "To a commercial bank, deposits are",
     "option": {
@@ -3083,6 +3387,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 551,
+    "question": "One reason for the low agricultural production in West African countries is that",
+    "option": {
+      "a": "agriculture employs the highest percentage of the labour force",
+      "b": "too much money is invested in agriculture",
+      "c": "farmers lack the finance and technology required",
+      "d": "the farms are too large"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -3163,6 +3483,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 568,
+    "question": "Middlemen in an economy perform the function of",
+    "option": {
+      "a": "distribution",
+      "b": "exchange",
+      "c": "hoarding.",
+      "d": "protection."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 569,
+    "question": "One of the factors affecting geographical distribution of population is",
+    "option": {
+      "a": "high birth rate",
+      "b": "high death rate",
+      "c": "encouragement of early marriage in the rural areas",
+      "d": "climatic conditions of  the different parts of the country"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -3280,6 +3632,22 @@
     "examyear": "2006"
   },
   {
+    "id": 600,
+    "question": "Where the burden of a tax finally rest is called",
+    "option": {
+      "a": "tax object",
+      "b": "tax rate",
+      "c": "incidence of taxation",
+      "d": "system of taxation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 601,
     "question": "An increase in the quantity of goods and services produced \tin a country which raises her national income is known as",
     "option": {
@@ -3307,6 +3675,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 606,
+    "question": "One of the functions of the International Monetary Fund (IMF) is to",
+    "option": {
+      "a": "devalue the currency of member states",
+      "b": "reduce drastically the size of deficit financing of member states",
+      "c": "give financial assistance to member states that have temporary balance of payment difficulties",
+      "d": "the rapid industrialization process in the less developed nations of the world"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -3559,6 +3943,54 @@
       "b": "Insurance company",
       "c": "Mortgage bank",
       "d": "Merchant bank"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 643,
+    "question": "Which of Ike following is an example of direct tax?",
+    "option": {
+      "a": "Import duties",
+      "b": "Income tax",
+      "c": "Export duties",
+      "d": "Purchase tax"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 648,
+    "question": "The population of a country in a certain year was fifty million and the per capita income was $2050. What was the national income?",
+    "option": {
+      "a": "$ 750,000 million",
+      "b": "$100,250 million",
+      "c": "$ 102,500 million",
+      "d": "125,050 million"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 649,
+    "question": "One of the advantages of capitalism is that",
+    "option": {
+      "a": "consumers are exploited",
+      "b": "private initiative is discouraged",
+      "c": "efficient allocation of resources is assured",
+      "d": "job security is assured"
     },
     "section": "",
     "image": "",
