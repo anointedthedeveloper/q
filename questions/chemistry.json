@@ -144,6 +144,22 @@
     "examyear": "2002"
   },
   {
+    "id": 64,
+    "question": "A gas X diffuses twice as fast as gas Y under the same conditions. If the relative molecular mass of X is 28. Calculate the relative molecular mass of Y",
+    "option": {
+      "a": "120",
+      "b": "14",
+      "c": "56",
+      "d": "112"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 67,
     "question": "Ordinary glass is manufactured from silica, Ca CO3 and",
     "option": {
@@ -176,6 +192,22 @@
     "examyear": "2002"
   },
   {
+    "id": 78,
+    "question": "The filter in a cigarette reduces the nicotine content by",
+    "option": {
+      "a": "Burning",
+      "b": "Adsorption",
+      "c": "Evaporation",
+      "d": "Absorption"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 82,
     "question": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to",
     "option": {
@@ -199,6 +231,22 @@
       "b": "Water pollution",
       "c": "Increased humidity",
       "d": "Flooding"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 88,
+    "question": "Which of the following ions is acidic",
+    "option": {
+      "a": "K+",
+      "b": "NO-3",
+      "c": "S2-",
+      "d": "H3O+"
     },
     "section": "",
     "image": "",
@@ -375,6 +423,22 @@
       "b": "NaSO4",
       "c": "NaHCO3",
       "d": "Na2CO3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 145,
+    "question": "In the electrolysis of brine, the anode is",
+    "option": {
+      "a": "Platinum",
+      "b": "Copper",
+      "c": "Zinc",
+      "d": "Carbon"
     },
     "section": "",
     "image": "",
@@ -590,6 +654,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 216,
+    "question": "H2(g)  +  Br2(g) →  2BHr(g)  The reaction above is carried out at 250C. If Δ H is kJ mol-1 and   Δ S is -106J mol-1K-1 the reaction will",
+    "option": {
+      "a": "Proceed spontaneously at lower temperatures",
+      "b": "Not proceed spontaneously at the given temperature",
+      "c": "Proceed spontaneously at the given temperature",
+      "d": "[proceed in the reverse direction at the given temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 231,
+    "question": "A particle that contain s 11protons, 12 neutrons and 10 electrons is probably a",
+    "option": {
+      "a": "Metallic ion",
+      "b": "Non-metallic ion",
+      "c": "Neutral metal",
+      "d": "Neutral non-metal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
   },
   {
     "id": 232,
@@ -832,6 +928,22 @@
     "examyear": "2010"
   },
   {
+    "id": 278,
+    "question": "The colour of methyl orange in alkaline medium is",
+    "option": {
+      "a": "Pink",
+      "b": "Orange",
+      "c": "Red",
+      "d": "Yellow"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 282,
     "question": "Iron can be protected from corrosion by coating the surface with",
     "option": {
@@ -944,6 +1056,22 @@
     "examyear": "2010"
   },
   {
+    "id": 299,
+    "question": "The final products of the reaction between methane and chloride in the presence of ultraviolet light are hydrogen chloride and",
+    "option": {
+      "a": "Dichloromethane",
+      "b": "Tetrachloromethane",
+      "c": "Chloromethane",
+      "d": "Trichloromethane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 304,
     "question": "The compound that is used as an anaesthetic is",
     "option": {
@@ -972,6 +1100,22 @@
     "image": "",
     "answer": "a",
     "solution": "Drug making requires crystallization most because pharmaceuticals must be highly purified, and crystallization is the primary method to achieve the purity levels required for safe and effective medications.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 311,
+    "question": "The acid in electrolysis of water is dilute",
+    "option": {
+      "a": "HNO₃",
+      "b": "CH₃COOH",
+      "c": " H₂SO₄",
+      "d": "HCl"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Dilute sulfuric acid (H₂SO₄) is used in the electrolysis of water because it's non-volatile, chemically stable, and provides ions for conductivity without interfering with the water decomposition reaction (2H₂O → 2H₂ + O₂).",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1360,6 +1504,22 @@
     "examyear": "2017"
   },
   {
+    "id": 433,
+    "question": "Cu₂S(g) + O₂(g) → 2Cu + SO₂(g). What is the change in the oxidation number of copper in the reaction?",
+    "option": {
+      "a": "0 to +2",
+      "b": "0 to +1",
+      "c": "+1 to 0",
+      "d": "+2 to +1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In Cu₂S, S has oxidation number -2, so each Cu must be +1 (since 2(+1) + (-2) = 0). In the product Cu, copper is in its elemental state with oxidation number 0. Therefore copper changes from +1 (in Cu₂S) to 0 (in Cu) — this is a reduction.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 439,
     "question": "The densities of two gases, X and Y are 0.5 g dm⁻³ and 2.0 g dm⁻³ respectively. What is the rate of diffusion of X relative to Y?",
     "option": {
@@ -1456,6 +1616,22 @@
     "examyear": "2018"
   },
   {
+    "id": 458,
+    "question": "The sulphide which is insoluble in dilute hydrochloric acid is",
+    "option": {
+      "a": "FeS",
+      "b": "CuS",
+      "c": "ZnS",
+      "d": "Na₂S"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "CuS (copper II sulphide) is insoluble in dilute HCl because it is an extremely insoluble sulphide with a very low Ksp. FeS, ZnS, and Na₂S all dissolve in dilute HCl to produce H₂S gas. CuS requires hot concentrated HNO₃ or aqua regia to dissolve.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 463,
     "question": "According to the Kinetic Theory, an increase in temperature causes the kinetic energy of particles to",
     "option": {
@@ -1500,6 +1676,22 @@
     "image": "",
     "answer": "c",
     "solution": "MnO₂ acts as a catalyst in the decomposition of KClO₃: 2KClO₃ → 2KCl + 3O₂. A catalyst increases the rate of the reaction by providing an alternative reaction pathway with a lower activation energy. This means only moderate heat is required — the reaction proceeds faster at a lower temperature than without the catalyst.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 478,
+    "question": "A quantity of electricity liberates 3.6 g of silver from its salt. What mass of aluminium will be liberated from its salt by the same quantity of electricity? [Al = 27, Ag = 108]",
+    "option": {
+      "a": "2.7 g",
+      "b": "1.2 g",
+      "c": "0.9 g",
+      "d": "0.3 g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Moles of Ag deposited = 3.6/108 = 0.0333 mol. Ag⁺ + e⁻ → Ag (n=1), so charge = 0.0333 F. Al³⁺ + 3e⁻ → Al (n=3), so moles of Al = 0.0333/3 = 0.01111 mol. Mass of Al = 0.01111 × 27 = 0.30 g.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1888,6 +2080,22 @@
     "examyear": "2021"
   },
   {
+    "id": 598,
+    "question": "What is the IUPAC name for the following compound? HC≡CCH₃",
+    "option": {
+      "a": "Acetylene",
+      "b": "Methyl acetylene",
+      "c": "Butanol",
+      "d": "Decanoic acid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "HC≡CCH₃ is a three-carbon compound with a triple bond starting at carbon 1. The IUPAC name is prop-1-yne. The common name is methyl acetylene, since it is acetylene (HC≡CH) with a methyl group substituted on one end. Among the options given, methyl acetylene is the correct common name.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 599,
     "question": "What is the chemical name for the compound CuCO₃?",
     "option": {
@@ -2000,6 +2208,22 @@
     "examyear": "2021"
   },
   {
+    "id": 623,
+    "question": "The only metal that is anti-bacterial is?",
+    "option": {
+      "a": "Iron",
+      "b": "Sodium",
+      "c": "Aluminium",
+      "d": "Copper"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Copper has well-established antibacterial (oligodynamic) properties. Copper ions are toxic to bacteria and disrupt their cell membranes and enzyme systems, killing them on contact. This property is used in copper plumbing, hospital surfaces, and medical devices to reduce bacterial contamination. Iron, sodium, and aluminium do not possess significant antibacterial properties.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 628,
     "question": "The process or act of extracting a metal from its ore and refining it is called?",
     "option": {
@@ -2012,6 +2236,22 @@
     "image": "",
     "answer": "c",
     "solution": "Metallurgy is the science and technology of extracting metals from their ores, purifying them, and preparing them for use. It involves processes such as concentration of ore, reduction, smelting, and refining. Extraction refers to a single step, mining involves digging up ore, and prospecting involves searching for ore deposits.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 631,
+    "question": "In the troposphere, the two types of pollutants are?",
+    "option": {
+      "a": "Gaseous and particulate pollutants",
+      "b": "Carbon and metallic pollutants",
+      "c": "Natural and man-made pollutants",
+      "d": "Sulphuric and nitrogenous pollutants"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Tropospheric pollutants are classified into two main types: gaseous pollutants (such as CO, SO₂, NO₂, and hydrocarbons) and particulate pollutants (such as dust, smoke, soot, and aerosols). This classification is based on the physical state of the pollutant, which determines how it disperses and causes harm in the atmosphere.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2224,6 +2464,22 @@
     "examyear": "2023"
   },
   {
+    "id": 679,
+    "question": "According to the kinetic theory of gases, the pressure exerted by a gas is due to?",
+    "option": {
+      "a": "The vibrations of gas particles.",
+      "b": "The weight of the gas particles",
+      "c": "The attractive forces between gas particles",
+      "d": "The collisions of gas particles with the container walls"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "According to the kinetic molecular theory, gas particles are in constant random motion and collide elastically with each other and with the walls of their container. The pressure exerted by a gas is the result of these continuous collisions of gas molecules with the container walls. Each collision exerts a small force, and the cumulative effect of billions of collisions per second creates the measurable gas pressure.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 683,
     "question": "Which of the following is an example of an endothermic reaction?",
     "option": {
@@ -2384,6 +2640,22 @@
     "examyear": "2023"
   },
   {
+    "id": 711,
+    "question": "What is the common name for ethanoic acid?",
+    "option": {
+      "a": "Acetic acid",
+      "b": "Butyric acid",
+      "c": "Propionic acid",
+      "d": "Formic acid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ethanoic acid (CH₃COOH) is the IUPAC name for the compound commonly known as acetic acid. It is the main component of vinegar and has a characteristic sharp smell. Formic acid is methanoic acid (HCOOH), propionic acid is propanoic acid (CH₃CH₂COOH), and butyric acid is butanoic acid (CH₃CH₂CH₂COOH).",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 712,
     "question": "What type of reaction is involved in the formation of alkanols from alkenes?",
     "option": {
@@ -2396,6 +2668,22 @@
     "image": "",
     "answer": "d",
     "solution": "Alkanols (alcohols) are formed from alkenes by the addition of water across the C=C double bond in a reaction called hydration. For example: CH₂=CH₂ + H₂O → CH₃CH₂OH. This is an addition reaction because atoms are added across the double bond without any atoms being removed. The reaction requires a catalyst (concentrated H₂SO₄ or H₃PO₄) and heat.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 714,
+    "question": "Which of the following is a common property of non-metals?",
+    "option": {
+      "a": "Exist as solids at room temperature",
+      "b": "Tend to gain electrons in chemical reactions",
+      "c": "High thermal conductivity",
+      "d": "Readily form cations in chemical reactions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Non-metals tend to gain electrons in chemical reactions, forming negatively charged anions. This is because non-metals have high electronegativities and need relatively few electrons to complete their outer shells. High thermal and electrical conductivity are properties of metals. Most non-metals are gases or have low melting points at room temperature, though some like carbon (graphite) are solid. Forming cations is a property of metals.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -2560,6 +2848,22 @@
     "examyear": "2024"
   },
   {
+    "id": 750,
+    "question": "Na₂X ⇌ 2Na⁺ + X²⁻. The bond between Na and X is likely to be",
+    "option": {
+      "a": "covalent",
+      "b": "dative",
+      "c": "ionic",
+      "d": "metallic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The equation shows Na₂X dissociating into 2Na⁺ cations and X²⁻ anion in solution. The formation of oppositely charged ions (Na⁺ and X²⁻) upon dissociation is characteristic of ionic compounds. Ionic bonding results from the electrostatic attraction between positively and negatively charged ions formed by electron transfer from the metal (Na) to the non-metal (X).",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 753,
     "question": "Water gas obtained from the gasification of coke is made up of",
     "option": {
@@ -2652,6 +2956,22 @@
     "image": "",
     "answer": "d",
     "solution": "Diagonal relationships exist between: Li and Mg, Be and Al, B and Si. These pairs share similar properties due to similar charge density. B and Si is a recognised diagonal pair, making D the correct answer.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 776,
+    "question": "The following is not a water pollutant?",
+    "option": {
+      "a": "warm water affluent",
+      "b": "inorganic fertilizers",
+      "c": "oxygen gas",
+      "d": "biodegradable waste"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Oxygen gas is naturally present in water and is essential for aquatic life. Warm water effluent, inorganic fertilizers (cause eutrophication), and biodegradable waste (depletes dissolved oxygen) are all recognised water pollutants. Oxygen is not a pollutant.",
     "examtype": "utme",
     "examyear": "2025"
   },
