@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 34,
+    "question": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment? ",
+    "option": {
+      "a": "76cm ",
+      "b": "75cm ",
+      "c": "60cm ",
+      "d": "70cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 39,
     "question": "The electromagnetic waves that are sensitive to temperature changes are",
     "option": {
@@ -176,6 +192,38 @@
     "examyear": "2015"
   },
   {
+    "id": 160,
+    "question": "f a mango fruit dropped at a height of 50 meters. How long does it reach the ground? (take g = 10m/s2)",
+    "option": {
+      "a": "2 sec",
+      "b": "3 sec",
+      "c": " 4sec",
+      "d": "3.2sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nHeight (h) = 50 meters\nInitial velocity (u) = 0 m/s (fruit is dropped, not thrown)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing the equation of motion:\nh = ut + ½gt²\nSince u = 0 (dropped from rest):\nh = ½gt²\nRearranging to find t:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 50/10)\nt = √(100/10)\nt = √10\nt = 3.16 seconds\nt ≈ 3.2 seconds\nAnswer: D. 3.2 sec",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 162,
+    "question": "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s)",
+    "option": {
+      "a": "2sec",
+      "b": "3sec",
+      "c": "35sec",
+      "d": "2.4sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHeight (h) = 20 meters\nInitial velocity (u) = 0 m/s (ball is released, not thrown)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing the equation of motion:\nh = ut + ½gt²\nSince u = 0 (released from rest):\nh = ½gt²\nRearranging to find t:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 20/10)\nt = √(40/10)\nt = √4\nt = 2 seconds\nAnswer: A. 2 sec",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 181,
     "question": "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will",
     "option": {
@@ -238,6 +286,38 @@
     "solution": "Given information:\n\nInitial velocity (u) = 20 m/s\nFinal velocity (v) = 0 m/s (complete halt)\nDeceleration (a) = -2 m/s² (negative because it's deceleration)\nTime (t) = ?\n\nUsing the equation of motion:\nv = u + at\nSubstituting values:\n0 = 20 + (-2)t\n0 = 20 - 2t\nSolving for t:\n2t = 20\nt = 20/2\nt = 10 seconds",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 211,
+    "question": "A pool of water appears to be 1.00m deep when viewed vertically from above. What is the actual depth of the pool?\n[Refractive index of water = 1.33]",
+    "option": {
+      "a": "13.300m",
+      "b": "0.750m",
+      "c": "1.013m",
+      "d": "1.330m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nApparent depth = 1.00 m\nRefractive index of water (n) = 1.33\nReal depth = ?\n\nFormula for refraction (vertical viewing):\nRefractive index = Real depth / Apparent depth\nRearranging to find Real depth:\nReal depth = Refractive index × Apparent depth\nSubstituting values:\nReal depth = 1.33 × 1.00\nReal depth = 1.33 m\nExplanation:\nDue to refraction, water appears shallower than it actually is. The refractive index relates the actual depth to the apparent depth. When light travels from water (denser) to air (less dense), it bends away from the normal, making objects appear closer to the surface.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 253,
+    "question": "Which of the following is a scalar quantity?",
+    "option": {
+      "a": "Tension",
+      "b": "Weight",
+      "c": "Impulse",
+      "d": "Mass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Mass is a scalar quantity because it has magnitude only and no direction.",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 257,
@@ -480,6 +560,22 @@
     "examyear": "2021"
   },
   {
+    "id": 429,
+    "question": "A source of sound produces waves in air of wavelength 1.65m. If the speed of sound in air is 330ms⁻¹, the period of vibration in air is?",
+    "option": {
+      "a": "200 s",
+      "b": " 0.005 s",
+      "c": "0.5 s",
+      "d": " 0.02 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nWavelength (λ) = 1.65 m\nSpeed of sound (v) = 330 m/s\nPeriod (T) = ?\n\nStep 1: Calculate frequency using wave equation\nv = fλ\nRearranging:\nf = v/λ\nSubstituting values:\nf = 330/1.65\nf = 200 Hz\nStep 2: Calculate period\nPeriod is the reciprocal of frequency:\nT = 1/f\nSubstituting:\nT = 1/200\nT = 0.005 s\nExplanation:\nThe period represents the time for one complete wave cycle (oscillation). With a frequency of 200 Hz (200 cycles per second), each cycle takes 1/200 = 0.005 seconds.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 437,
     "question": "The inner diameter of a test tube can be measured accurately using a?",
     "option": {
@@ -544,6 +640,22 @@
     "examyear": "2021"
   },
   {
+    "id": 453,
+    "question": "If a sound wave goes from a cold air region to a hot air region, its wavelength will?",
+    "option": {
+      "a": "increase",
+      "b": "decrease",
+      "c": "decrease then increase",
+      "d": "remain constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a sound wave goes from a cold air region to a hot air region, its wavelength will increase because sound travels faster in hot air while the frequency remains constant.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 458,
     "question": "An astronomical telescope is said to be in normal adjustment when the?",
     "option": {
@@ -572,6 +684,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given wave equation:\ny = 5 mm sin[1 cm⁻¹x - 60 s⁻¹t]\nStandard form of wave equation:\ny = A sin(kx - ωt)\nwhere:\n\nA = amplitude\nk = wave number\nω = angular frequency\nx = position\nt = time\n\nComparing given equation with standard form:\ny = 5 mm sin[1 cm⁻¹x - 60 s⁻¹t]\ny = A sin(kx - ωt)\nIdentifying parameters:\n\nAmplitude (A) = 5 mm\nWave number (k) = 1 cm⁻¹\nAngular frequency (ω) = 60 s⁻¹\n\nThe coefficient of x in the wave equation is the wave number.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 464,
+    "question": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
+    "option": {
+      "a": " the magnet is moved towards the stationary solenoid",
+      "b": "there is no relative motion ",
+      "c": "the magnet is moved away from the stationary solenoid",
+      "d": "the solenoid is moved away from the stationary magnet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If both the coil and the magnet are stationary, then there is no change in the magnetic flux and hence no current is induced in the coil.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -640,6 +768,22 @@
     "examyear": "2022"
   },
   {
+    "id": 494,
+    "question": "A train of mass 1600 kg attains a speed of 25 ms⁻¹ in 20 seconds. The power developed in the engine is?",
+    "option": {
+      "a": "2.5 KW",
+      "b": "80 KW",
+      "c": "25 KW",
+      "d": "50 KW"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 1600 kg\nFinal velocity, v = 25 m/s\nInitial velocity, u = 0 m/s\nTime, t = 20 s\nPower, P = ?\n\nSolution:\nStep 1: Calculate acceleration\na = (v - u)/t\na = (25 - 0)/20\na = 1.25 m/s²\nStep 2: Calculate force\nF = ma\nF = 1600 × 1.25\nF = 2000 N\nStep 3: Calculate power\nPower = Force × velocity\nP = F × v\nP = 2000 × 25\nP = 50,000 W\nP = 50 kW",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 498,
     "question": "The mercury column in the barometer at notational  atmospheric pressure has a height of?",
     "option": {
@@ -672,6 +816,22 @@
     "examyear": "2023"
   },
   {
+    "id": 533,
+    "question": "A piano wire 50 cm long has a total mass of 10 g and its stretched with a tension of 800 N. Find the frequency of the wire when it sounds its third overtone note.",
+    "option": {
+      "a": "800 Hz",
+      "b": "600 Hz",
+      "c": "400 Hz",
+      "d": " 200 Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nLength of wire, L = 50 cm = 0.50 m\nTotal mass, m = 10 g = 0.01 kg\nTension, T = 800 N\nThird overtone frequency = ?\n\nSolution:\nStep 1: Calculate mass per unit length (linear density)\nμ = m/L\nμ = 0.01/0.50\nμ = 0.02 kg/m\nStep 2: Calculate wave velocity in the wire\nv = √(T/μ)\nv = √(800/0.02)\nv = √40000\nv = 200 m/s\nStep 3: Understand harmonics and overtones\nFor a string fixed at both ends:\n\nFundamental frequency (1st harmonic) = f₀\n1st overtone (2nd harmonic) = 2f₀\n2nd overtone (3rd harmonic) = 3f₀\n3rd overtone (4th harmonic) = 4f₀\n\nStep 4: Calculate fundamental frequency\nFundamental frequency:\nf₀ = v/(2L)\nf₀ = 200/(2 × 0.50)\nf₀ = 200/1\nf₀ = 200 Hz\nStep 5: Calculate third overtone frequency\nThird overtone = 4th harmonic = 4f₀\nf = 4 × 200\nf = 800 Hz",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 543,
     "question": "The branch of physics that deals with the motion of objects and the forces acting on them is called:",
     "option": {
@@ -688,6 +848,22 @@
     "examyear": "2023"
   },
   {
+    "id": 552,
+    "question": "The mechanical advantage of the machine shown above ",
+    "option": {
+      "a": "7.5",
+      "b": "15.5",
+      "c": "30",
+      "d": "60"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765615437/ALOC-Questions/Physics/2024/Physics_2024_Q3_qevjoo.png",
+    "answer": "c",
+    "solution": "Mechanical advantage of a machine = LOAD/EFFORT\n\nIn this case of a wedge, we can consider the dimensions given:\n\nLoad distance (height of the machine): 15 cm\nEffort distance (movement of the effort): 0.5 cm\n\nM.A = 15/0.5\n = 30.0",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 553,
     "question": "Rainbow is formed when sunlight undergoes ",
     "option": {
@@ -700,6 +876,22 @@
     "image": "",
     "answer": "c",
     "solution": "A rainbow is formed by the DISPERSION of sunlight by spherical raindrops floating in the air.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 560,
+    "question": "A light ray passing from air into water at an angle of 30º from the normal in air would ",
+    "option": {
+      "a": "make an angle greater than 300\n in water surface",
+      "b": "be completely absorbed by the water surface",
+      "c": "be completely reflected by the water surface",
+      "d": "make an angle less than 300\n from the normal in water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Observations show that when the light travels from a medium A(air) to a more dense medium B(water), the refracted ray bends towards the normal and the angle of refraction (r) is, therefore, less than the angle of incidence. vice versa.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -768,6 +960,38 @@
     "examyear": "2004"
   },
   {
+    "id": 634,
+    "question": "A person can focus an object only when it lies within 200cm from him. Which spectacles should be used to increase his maximum distance of distinct vision infinity",
+    "option": {
+      "a": "Convex lens",
+      "b": "Binoculars",
+      "c": "Concave lens",
+      "d": "Plane glasses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nFar point of the person = 200 cm\nDesired object distance = infinity\n\nStep 1: Identify the defect\nThe inability to see distant objects clearly indicates myopia (nearsightedness).\n\nStep 2: Principle of correction\nA corrective lens must form a virtual image of an object at infinity at the person’s far point (200 cm), so the eye can focus it.\n\nStep 3: Apply lens formula\nUsing the lens formula:\n1/f = 1/v - 1/u\nWhere:\nObject distance, u = infinity\nImage distance, v = -200 cm (virtual image, same side as object)\n1/f = 1/(-200) - 1/infinity = -1/200\nf = -200 cm\nNegative focal length indicates a diverging (concave) lens.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 636,
+    "question": "If u is the object distance and v the image distance, which of the following expressions gives the linear magnification produced by a convex lens of focal length f?",
+    "option": {
+      "a": "u/f - f",
+      "b": "u/v + f",
+      "c": "v/f + 1",
+      "d": "v/f - 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nObject distance = u\nImage distance = v\nFocal length = f (positive for convex lens)\n\nStep 1: Lens formula (real-is-positive convention)\n1/f = 1/u + 1/v\n\nStep 2: Relate magnification to v and f\nMagnification m = v/u\nFrom the lens formula:\n1/f = 1/u + 1/v\nMultiply both sides by v:\nv/f = v/u + 1\nv/f = m + 1\n\nStep 3: Solve for m\nm = v/f - 1",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 641,
     "question": "Tea pots are often silver-coated to prevent heat loss by",
     "option": {
@@ -780,6 +1004,22 @@
     "image": "",
     "answer": "d",
     "solution": "Teapots are often silver-coated to prevent heat loss by reflecting infrared radiation. Silver is a good reflector of thermal radiation, which helps to minimize heat loss from the teapot, keeping the contents warm for a longer period.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 642,
+    "question": "I. Wavelength\nII. Medium of propagation\nIII. Wave velocity\nIV. Frequency\nV. Energy\n\nWhich of the above are used for characterizing waves?",
+    "option": {
+      "a": "I, II and V",
+      "b": "I, III and IV",
+      "c": "I,  II, III and IV",
+      "d": "III, IV and V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nWe need to identify which properties are typically used to describe or characterize waves.\n\nStep 1: Define wave characteristics\nWave characteristics are intrinsic properties that describe the wave itself, such as its spatial and temporal periodicity, speed, and intensity.\n\nStep 2: Evaluate each item\n\nI. Wavelength: Describes the spatial period of the wave → characteristic.\n\nII. Medium of propagation: Describes the material through which the wave travels; not an intrinsic property of the wave (e.g., electromagnetic waves require no medium) → not a characteristic.\n\nIII. Wave velocity: Speed at which the wave propagates → characteristic.\n\nIV. Frequency: Describes the temporal period of the wave → characteristic.\n\nV. Energy: Related to amplitude/intensity; describes the wave's strength → characteristic.\n\nStep 3: Conclusion\nThe properties used to characterize waves are wavelength, wave velocity, frequency, and energy.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -800,6 +1040,22 @@
     "examyear": "2005"
   },
   {
+    "id": 661,
+    "question": "A silicon material is dopped with an element of a certain group and an n-type semi-conductor is formed. the most likely group of the element is",
+    "option": {
+      "a": " V",
+      "b": "III",
+      "c": " I",
+      "d": " II"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Silicon is a Group IV element with 4 valence electrons. To create an n-type semiconductor, we need excess electrons as charge carriers. This is achieved by doping with Group V elements (phosphorus, arsenic, antimony) which have 5 valence electrons. When a Group V atom replaces silicon in the crystal, four electrons bond with neighboring atoms while the fifth becomes a free electron, creating the n-type semiconductor with electrons as majority carriers.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 670,
     "question": "The process whereby the molecules of different substances move randomly is called?",
     "option": {
@@ -812,6 +1068,22 @@
     "image": "",
     "answer": "d",
     "solution": "Diffusion is the process by which molecules move from an area of higher concentration to an area of lower concentration. This movement occurs due to the random motion of particles, leading to an even distribution of substances over time.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 681,
+    "question": "The resistance of a piece of wire of length 20 m and cross‑sectional area 8 × 10⁻⁶ m² is?\n[Resistivity of the wire = 4 × 10⁻⁷ Ω·m]",
+    "option": {
+      "a": "5.0 Ω",
+      "b": "0.5 Ω",
+      "c": "10.0 Ω",
+      "d": "1.0 Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nLength, L = 20 m\nCross‑sectional area, A = 8 × 10⁻⁶ m²\nResistivity, ρ = 4 × 10⁻⁷ Ω·m\n\nStep 1: Formula for resistance\nR = ρL / A\n\nStep 2: Substitute values\nR = (4 × 10⁻⁷ Ω·m × 20 m) / (8 × 10⁻⁶ m²)\n= (80 × 10⁻⁷ Ω·m) / (8 × 10⁻⁶ m²)\n\nStep 3: Simplify\n= (80 / 8) × 10⁻⁷⁻⁽⁻⁶⁾ Ω = 10 × 10⁻¹ Ω = 1.0 Ω",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -848,6 +1120,22 @@
     "examyear": "2006"
   },
   {
+    "id": 710,
+    "question": "The main purpose of the transformer in an a.c radio set is to?",
+    "option": {
+      "a": "increase power to the radio",
+      "b": "step up the voltage",
+      "c": " convert energy from a.c to d.c",
+      "d": "step down the voltage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nIn many AC radio circuits, transformers are used primarily to reduce the voltage to levels suitable for safe and effective operation of the components.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 713,
     "question": "When an a.c. voltage is applied to a capacitor, no power is consumed because the current",
     "option": {
@@ -860,6 +1148,22 @@
     "image": "",
     "answer": "a",
     "solution": "The phase difference of 90° means voltage and current are in quadrature. The capacitor stores energy when charging and returns it when discharging, resulting in zero net power consumption.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 719,
+    "question": "In an experiment to determine terminal velocity, as the pressure increases, the viscosity off a liquid",
+    "option": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "increases then decreases",
+      "d": " remains constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Generally, the viscosity of liquids tends to increase with pressure, as the increased pressure can lead to a greater interaction between molecules",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -960,6 +1264,22 @@
     "examyear": "2007"
   },
   {
+    "id": 773,
+    "question": "Silicon doped with aluminum and germanium doped with arsenic become?",
+    "option": {
+      "a": "p- and n- types respectively",
+      "b": "n- en p- type respectively",
+      "c": " p- type semiconductor",
+      "d": "n- type semiconductors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Silicon is a group IV element with four valence electrons. Doping it with aluminum (a group III element with three valence electrons) creates a deficiency of electrons, resulting in a p‑type semiconductor. Germanium is also a group IV element, and doping it with arsenic (a group V element with five valence electrons) introduces extra free electrons, making it an n‑type semiconductor. Therefore, in the order given, silicon doped with aluminum becomes p‑type, and germanium doped with arsenic becomes n‑type.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 785,
     "question": "from the diagram above, the inductive reactance and the resistance R are respectively",
     "option": {
@@ -988,6 +1308,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nGiven information:\n\nSurface area (A) = 118.8 cm² = 118.8 × 10⁻⁴ m² = 0.01188 m²\nThickness (t) = 10⁻⁶ m\nDensity of copper (ρ) = 9 × 10³ kg/m³\nCurrent (I) = 10 A\nElectrochemical equivalent (Z) = 3.3 × 10⁻⁷ kg/C\nTime = ?\n\nStep 1: Calculate volume of copper to be deposited\nVolume = Area × Thickness\nV = 0.01188 × 10⁻⁶\nV = 1.188 × 10⁻⁸ m³\n\nStep 2: Calculate mass of copper required\nMass = Density × Volume\nm = ρV\nm = 9 × 10³ × 1.188 × 10⁻⁸\nm = 10.692 × 10⁻⁵\nm = 1.0692 × 10⁻⁴ kg\n\nStep 3: Use Faraday's law of electrolysis\nMass deposited: m = ZIt\nRearranging for time:\nt = m/(ZI)\nSubstituting values:\nt = (1.0692 × 10⁻⁴)/(3.3 × 10⁻⁷ × 10)\nt = (1.0692 × 10⁻⁴)/(3.3 × 10⁻⁶)\nt = 1.0692/3.3 × 10⁻⁴⁺⁶\nt = 0.324 × 10²\nt = 32.4 seconds\n\n\nConverting to minutes: 32.4/60 = 0.54 minutes",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 798,
+    "question": "A radioactive substance has a half life of 20 days. What fraction of the original radioactive nuclei will remain after 80 days?",
+    "option": {
+      "a": "1/32",
+      "b": "1/16",
+      "c": "1/8",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nHalf-life (T½) = 20 days\nTime elapsed (t) = 80 days\nFraction remaining = ?\n\nStep 1: Calculate number of half-lives\nNumber of half-lives (n) = t/T½\nn = 80/20 = 4\nSo 4 half-lives have passed.\nStep 2: Calculate fraction remaining\nAfter each half-life, half of the remaining nuclei decay.\nAfter n half-lives, fraction remaining = (1/2)ⁿ\nSubstituting:\nFraction = (1/2)⁴\nFraction = 1/16",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -1072,6 +1408,38 @@
     "examyear": "2008"
   },
   {
+    "id": 853,
+    "question": "I. The motion of the tyres of a moving car.\nII. The motion of a loaded test tube oscillated\nvertically.\nIII. The beating of the heart.\nIV. A stone tied to a string and whirled round.\nV. The motion of the pistons in a gasoline engine.\n\n\nWhich of the motions above is simple harmonic?",
+    "option": {
+      "a": " III, IV and V only",
+      "b": "II, III and V only",
+      "c": " II, III and IV only",
+      "d": "I, II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Simple harmonic motion is the motion of a body whose acceleration is directed towards a fixed point and is directly proportional to its displacement from point.\n\nStatements ii, iii and v are clear examples",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 854,
+    "question": "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended? [g = 10 m s⁻²]",
+    "option": {
+      "a": "11.50 kW",
+      "b": "12.60 kW",
+      "c": "12.60 kW",
+      "d": "12.10 kW"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass m = 750 kg\nHeight h = 90 m\nTime t = 1 min = 60 s\nAcceleration due to gravity g = 10 m s⁻²\n\nSolution:\n\nStep 1: Work done against gravity\nWork = m × g × h = 750 kg × 10 m s⁻² × 90 m = 675 000 J\n\nStep 2: Power expended\nPower = Work / time = 675 000 J / 60 s = 11 250 W = 11.25 kW",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 856,
     "question": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal, its velocity ratio will be?",
     "option": {
@@ -1116,6 +1484,38 @@
     "image": "",
     "answer": "d",
     "solution": "The speed of sound is highest in solid.\n\nMetals (solids) like copper, steel rod, etc",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 873,
+    "question": "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in",
+    "option": {
+      "a": " x is same as in y",
+      "b": " x and y is same as in vacuum",
+      "c": "x is higher than in y",
+      "d": "y is higher than in x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Since 1.51, the refractive index of X is greater than 1.33, the refractive index of y, the speed of light in y is higher than that in X",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 877,
+    "question": "An electric lamp marked 240 V, 60 W is left to operate for an hour. How much energy is generated by the filament?",
+    "option": {
+      "a": "3.86 × 10⁵ J",
+      "b": "3.56 × 10⁵ J",
+      "c": "1.80 × 10⁴ J",
+      "d": "2.16 × 10⁵ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nVoltage = 240 V (not needed directly for energy calculation)\nPower P = 60 W\nTime t = 1 hour = 3600 s\n\nSolution:\n\nStep 1: Relationship between energy, power, and time\nElectrical energy E = P × t\n\nStep 2: Substitute values\nE = 60 W × 3600 s = 216 000 J\n\nStep 3: Express in scientific notation\n216 000 J = 2.16 × 10⁵ J",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -1184,6 +1584,22 @@
     "examyear": "2010"
   },
   {
+    "id": 955,
+    "question": "If a tube of small radius opened at both ends is placed in a liquid, the liquid will",
+    "option": {
+      "a": " remain at the same level irrespective of whether the liquid wet the glass or not",
+      "b": "fall below the liquid level if the liquid wets the glass",
+      "c": "falls below the liquid level if the liquid does not wet the glass",
+      "d": "rise above the liquid level if the liquid does not wet the glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The liquid will rise up the capillary if it wets glass and falls below its wets glass and falls below its initial level if it does not wet glass",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 971,
     "question": "I. Change of state\nII. Diffusion\nIII. Radiation\nIV. Osmosis\nWhich of the processes above can be explained using the kinetic theory?",
     "option": {
@@ -1196,6 +1612,22 @@
     "image": "",
     "answer": "d",
     "solution": "The processes that can be explained using kinetic theory are change of state (I), diffusion (II), and osmosis (IV). Radiation (III) involves electromagnetic waves and requires different theoretical frameworks beyond simple kinetic theory of particles.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 975,
+    "question": "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant?",
+    "option": {
+      "a": "0.3",
+      "b": "6.0",
+      "c": "3.0",
+      "d": "2.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Dielectric constant = (c)/c° = (60)/20 = 3",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -1280,6 +1712,22 @@
     "examyear": "2011"
   },
   {
+    "id": 1003,
+    "question": "A car starts from rest and moves with a uniform acceleration of 30ms⁻² for 20s. Calculate the distance covered at the end of the motion",
+    "option": {
+      "a": "6km",
+      "b": "12km",
+      "c": "18km",
+      "d": "24km"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nInitial velocity (u) = 0 m/s (starts from rest)\nAcceleration (a) = 30 m/s²\nTime (t) = 20 s\nDistance (s) = ?\n\nUsing equation of motion:\ns = ut + ½at²\nSubstituting values:\ns = 0(20) + ½(30)(20)²\ns = 0 + ½(30)(400)\ns = ½ × 12,000\ns = 6,000 m\ns = 6 km",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1007,
     "question": "An object of mass 20kg slides down an inclined plane at an angle of 30° to the horizontal. The coefficient of static friction is? [g = 10ms⁻²]",
     "option": {
@@ -1292,6 +1740,22 @@
     "image": "",
     "answer": "d",
     "solution": "Step 1: Condition for impending motion\nWhen an object is on the verge of sliding down an incline, the static friction force is maximum, and μ_s = tan θ.\n\nStep 2: Calculate tan 30°\ntan 30° = 1/√3 ≈ 0.577",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1009,
+    "question": "If a load of 1 kg stretches a cord by 1.2 cm, what is the force constant of the cord? {g = 10 m s⁻²}",
+    "option": {
+      "a": "866 N m⁻¹",
+      "b": "833 N m⁻¹",
+      "c": "769 N m⁻¹",
+      "d": "667 N m⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "iven information:\nMass m = 1 kg\nExtension x = 1.2 cm = 0.012 m\nAcceleration due to gravity g = 10 m s⁻²\n\nSolution:\n\nStep 1: Calculate the force stretching the cord\nThe force is the weight of the load:\nF = m × g = 1 kg × 10 m s⁻² = 10 N\n\nStep 2: Apply Hooke's law\nHooke's law: F = k × x, where k is the force constant.\nTherefore, k = F / x\n\nStep 3: Substitute values\nk = 10 N / 0.012 m = 833.33 N m⁻¹",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -1376,6 +1840,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1064,
+    "question": "A ray of light passing through the centre of curvature of a concave mirror is reflected by the mirror at?",
+    "option": {
+      "a": "0°",
+      "b": "45°",
+      "c": "90°",
+      "d": "180°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nRay passes through centre of curvature of concave mirror.\nCentre of curvature lies on the principal axis at distance equal to radius of curvature from the pole.\n\nSolution:\n\nStep 1: Understand the path of the ray\nA ray passing through the centre of curvature strikes the mirror normally (perpendicularly) because it is along the radius.\n\nStep 2: Law of reflection\nWhen a ray is incident normally on a mirror, the angle of incidence is 0°. Therefore, the angle of reflection is also 0°. The ray retraces its path back along the same line.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1090,
     "question": "The energy in the nucleus of atoms produce heat which can be used to generate",
     "option": {
@@ -1390,6 +1870,54 @@
     "solution": "Electrical energy: This is primarily done in nuclear power plants, where the heat generated from nuclear reactions is used to produce steam that drives turbines, ultimately generating electricity.",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 1111,
+    "question": "PHCN measures its electrical energy in",
+    "option": {
+      "a": "W",
+      "b": " KWh",
+      "c": "Wh",
+      "d": "J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "PHCN (Power Holding Company of Nigeria) is an electricity distribution company that bills customers for electrical energy consumed. The unit of electrical energy used in utility billing is the kilowatt-hour (kWh).",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1126,
+    "question": "Which of the following is not true about a wave in a plucked string?",
+    "option": {
+      "a": " It is mechanical",
+      "b": " It has a crest",
+      "c": " It is transverse",
+      "d": "It is longitudinal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "It is longitudinal (String waves are transverse; perpendicular to propagation.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1131,
+    "question": "The diagram above shows a magnetic field due to a",
+    "option": {
+      "a": "solenoid",
+      "b": "circular coil",
+      "c": "current-carrying straight conductor",
+      "d": "the earth's meridian"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774443698/ALOC-Questions/Physics/2025/PHYSICS_2025_Q_12_cib4tb.png",
+    "answer": "c",
+    "solution": "current carrying straight conductor (Concentric circles typical of straight wire magnetic field.)\n\n(Diagram: concentric circular field lines around a central point on a vertical line, arrows clockwise, indicating field around a wire.)",
+    "examtype": "utme",
+    "examyear": "2025"
   },
   {
     "id": 1132,
