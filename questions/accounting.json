@@ -6416,6 +6416,22 @@
     "examyear": "2015"
   },
   {
+    "id": 528,
+    "question": "Use the information below to answer this question.\nTimo and Chris are computer engineers who went into partnership as Teachi and Co. Timo brought cash of ₦12,000 furniture worth of ₦18,000 and vehicle worth of 70,000. Chris equally brought in cash of 10,000 his building valued at 105,000 and personal computers worth ₦35,000.\n\nWhat is the profit sharing ratio if it’s based on capital contribution by Teechi and Co?",
+    "option": {
+      "a": "2 : 3",
+      "b": "3 : 2",
+      "c": "6 : 5",
+      "d": "5 : 6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Divide the net assets contributed by each partner by the total partnership's assets. This is the accountant ratio for income sharing. For instance, if the total assets of a company are ₦100,000 and the contribution of one partner is ₦10,000, the accounting ratio for this partner would be 0.1.\n\n Timo = 100,000\nchris = 150,000\nTotal = 250,000\n\nTimo =100,000 / 250,000 = 0.4\nchris = 150,000 / 250,000 = 0.6\n\nThis can be interpreted as 2:3 ratio",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 529,
     "question": "When the invoice of a customer is overcast, the supplier will send to him a",
     "option": {
@@ -6716,6 +6732,22 @@
     "image": "",
     "answer": "b",
     "solution": "this is because the income and expenditure account just like the profit and loss account shows the income to ascertain surplus or deficit.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 554,
+    "question": "Goods stolen at the branch is debited to",
+    "option": {
+      "a": "branch stock account",
+      "b": "defalcations account",
+      "c": "branch debtors account",
+      "d": "branch adjustment account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When goods are stolen at a branch, this represents a loss due to dishonest activities or theft. In accounting, such losses are recorded in a defalcations account, which is specifically used to track losses arising from fraud, theft, or other dishonest acts.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -7196,6 +7228,22 @@
     "image": "",
     "answer": "b",
     "solution": "All receipts of cash and cheques from customers are recorded in the cashbook when they’re received. The debtors (sales) control account then pulls its total “cash received from customers” figure directly from those cashbook entries.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 593,
+    "question": "Which of the foloowing is a credit item in creditors ledger control account?",
+    "option": {
+      "a": "Returns outwards",
+      "b": " Discount Received",
+      "c": " Bad debts",
+      "d": "Purchases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "some of the items found on the credit side of the creditors ledger control account include, bank, carriage, credit purchases etc",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -9504,6 +9552,22 @@
     "examyear": "2020"
   },
   {
+    "id": 785,
+    "question": "In the head office ledger, the value of goods sent to the branch are",
+    "option": {
+      "a": "debited to the branch current account",
+      "b": "debited to the head office current account",
+      "c": " credited to the head office current account",
+      "d": "credited to the branch current account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In the head office’s ledger, each branch has its own current (or “branch”) account. When goods are sent from head office to a branch, the head office debited the Branch Current Account (reflecting an asset transfer to the branch) and credited the Head Office’s Inventory or Stock Account. This debit entry increases the branch’s account balance, showing the value of goods supplied.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 786,
     "question": "Use the information below to answer this question\n\nA machine bought for ₦35,000 was estimated to have a life span of 5 years with a scrap value of ₦9000.\n \n\nThe yearly depreciation using the straight-line method would be\n",
     "option": {
@@ -11280,6 +11344,22 @@
     "examyear": "2024"
   },
   {
+    "id": 940,
+    "question": "An example of accounts in the nominal ledger is",
+    "option": {
+      "a": "debtors",
+      "b": "drawings",
+      "c": "creditors",
+      "d": "machineries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The nominal ledger, also sometimes called the general ledger, is the main book of accounts used in a double- entry bookkeeping system. It records all the financial transactions of a business during an accounting period. These transactions are categorized into different types of accounts.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 943,
     "question": "The document used in making lodgments into a current account is",
     "option": {
@@ -11820,6 +11900,22 @@
     "image": "",
     "answer": "a",
     "solution": "Step 1: Calculate total floor space\nTotal floor space = 200 sqm + 300 sqm = 500 sqm\nStep 2: Calculate manufacturing department's proportion\nManufacturing proportion = 200 sqm ÷ 500 sqm = 2/5 = 0.4 or 40%\nStep 3: Calculate rent chargeable to manufacturing\nRent for manufacturing = ₦20,000 × (200/500)\nRent for manufacturing = ₦20,000 × 0.4 = ₦8,000",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 990,
+    "question": "<b>Use the information below to answer questions 26 to 27.</b>\n\n\nStock of material 1/1..............₦10 000\nPurchase of raw material...........₦160 000\nManufacturing wages................₦420 000\nRoyalties..........................₦3 000\nStock of raw materials 31/12.......₦14 000\n\nWhat is the cost of raw materials consumed?",
+    "option": {
+      "a": " ₦173 000",
+      "b": "₦170 000",
+      "c": "₦160 000",
+      "d": " ₦156 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cost of Raw Materials Consumed = Opening Stock + Purchases - Closing Stock\nGiven information:\n\nOpening stock of raw materials (1/1): ₦10,000\nPurchase of raw materials: ₦160,000\nClosing stock of raw materials (31/12): ₦14,000\n\nCalculation:\nCost of raw materials consumed = ₦10,000 + ₦160,000 - ₦14,000\nCost of raw materials consumed = ₦170,000 - ₦14,000\nCost of raw materials consumed = ₦156,000\nTherefore, the cost of raw materials consumed is ₦156,000.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -12864,6 +12960,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1080,
+    "question": "Where closing stock is undervalued, the effect is?",
+    "option": {
+      "a": "an increase in gross profit",
+      "b": "a decrease in gross profit",
+      "c": "an increase in purchases",
+      "d": " a decrease in purchase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Closing stock appears in the trading account as part of the calculation of gross profit.\n\nGross profit formula:\n\nGross Profit = Sales − (Opening Stock + Purchases − Closing Stock)\nIf closing stock is undervalued, it means we subtract a smaller amount from the cost of goods sold, which makes the cost of goods sold appear higher, and this reduces gross profit.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1081,
     "question": "<b>Use the information below to answer questions 17 and 18</b>\n\nGiven Information:\n\nOpening balance: ₦10,640\nPurchases: ₦26,912\nReturns inwards: ₦492\nReturns outwards: ₦810\nCash discount received: ₦1,348\nCash discount allowed: ₦1,560\nCash paid to suppliers: ₦20,808\n\nAt the year-end, the purchases ledger showed a\ndebit balance of: ₦108\n\n\nThe total on the debit side of the purchase ledger control account will be:",
     "option": {
@@ -13004,6 +13116,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Calculate Total Production Cost\nTotal Production Cost = Materials consumed + Direct cost + Factory rent + Factory lighting\nTotal Production Cost = ₦16,600 + ₦5,400 + ₦2,300 + ₦1,200\nTotal Production Cost = ₦25,500\nStep 2: Calculate Transfer Price (Cost plus 20% mark-up)\nTransfer Price = Total Production Cost + (20% × Total Production Cost)\nTransfer Price = ₦25,500 + (0.20 × ₦25,500)\nTransfer Price = ₦25,500 + ₦5,100\nTransfer Price = ₦30,600\nStep 3: Calculate Gross Profit on Manufacture\nGross Profit on Manufacture = Transfer Price - Total Production Cost\nGross Profit on Manufacture = ₦30,600 - ₦25,500\nGross Profit on Manufacture = ₦5,100",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1092,
+    "question": "<b>Use the information below to answer questions 28 and 29</b>\n\n\nOn January 1,2000, a club's assets and liabilities were as follows:\nClub house...................₦8,000\nSubscription.................₦300\nCash.........................₦1,000\nWages owed...................₦100\n\nThe club has 50 members and annual subscription is ₦100 per member.\nSubscription received is ₦4,000 and this includes 1999 arrears of ₦200.\n\nThe accumulated fund is?",
+    "option": {
+      "a": "₦9,400",
+      "b": "₦9,300",
+      "c": "₦9,200",
+      "d": "₦9,100"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Calculate Total Assets\nTotal Assets = Club house + Subscription receivable + Cash\nTotal Assets = ₦8,000 + ₦300 + ₦1,000\nTotal Assets = ₦9,300\nStep 2: Calculate Total Liabilities\nTotal Liabilities = Wages owed\nTotal Liabilities = ₦100\nStep 3: Calculate Accumulated Fund\nAccumulated Fund = Total Assets - Total Liabilities\nAccumulated Fund = ₦9,300 - ₦100\nAccumulated Fund = ₦9,200",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -13244,6 +13372,22 @@
     "image": "",
     "answer": "a",
     "solution": "Section 80 of the 1999 Constitution requires that all revenues or other moneys raised or received by the Federation shall be paid into and form one Consolidated Revenue Fund of the Federation",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1113,
+    "question": "The budget statement presented to the legislature by the Chief Executive is called?",
+    "option": {
+      "a": "an appropriation act",
+      "b": "a budget bill",
+      "c": "an appropriation bill",
+      "d": " a budget proposal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation: the budget (estimates of government spending) is presented to the legislature in the form of an Appropriation Bill, the legal instrument that authorizes the withdrawal and use of public funds.",
     "examtype": "utme",
     "examyear": "2004"
   },
