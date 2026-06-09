@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 9,
+    "question": "The scent from a jar of perfume open move through the air molecules by ",
+    "option": {
+      "a": "evaporation ",
+      "b": "osmosis ",
+      "c": "diffusion ",
+      "d": "Convection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 10,
     "question": "  A convex lens of focal length 10.0cm is used to form a real image which is half the size of the object. How far from the object is the image? ",
     "option": {
@@ -219,6 +235,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 36,
+    "question": "The speed of light in air is 3 x 108ms-1. If the refractive index of light from air to water is 4/3, calculate the speed of light in water ",
+    "option": {
+      "a": "2.25 x 108ms-2 ",
+      "b": "2.25ms-1 ",
+      "c": "4.00ms-1 ",
+      "d": "4.33ms-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
@@ -736,6 +768,22 @@
     "examyear": "2011"
   },
   {
+    "id": 109,
+    "question": "A cigarette lighter in a car is a resistor that, when activated, is connected across the 12 – V battery. If the lighter dissipates 33 W of power, find the current it delivers  to the lighter.  ",
+    "option": {
+      "a": "9.90 Ω  ",
+      "b": "6.60 Ω  ",
+      "c": "4.36",
+      "d": "17.50Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 111,
     "question": "  Calcium has a work function of 19 eV with a wavelength of 150 nm. Calculate the maximum energy of a photo electron emitted. (1 eV = 16.1 x 10-19J, h = 6.6 x 10-34Js)            ",
     "option": {
@@ -795,6 +843,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 125,
+    "question": "A 3.0cm object is placed 12.0cm in front of bi-convex lens of focal length 8.0cm. Calculate the height of the image of the object.  ",
+    "option": {
+      "a": "3.0cm ",
+      "b": "6.0cm ",
+      "c": "12.0cm ",
+      "d": "24.0cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1008,6 +1072,22 @@
     "examyear": "2015"
   },
   {
+    "id": 171,
+    "question": "The strength of an electromagnet increases with",
+    "option": {
+      "a": " Increases in the number of turn of the coil",
+      "b": "Decreases in current with the coil",
+      "c": "Increases in the distance between the pole",
+      "d": "Increases in current without the coil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "More coil turns produce a stronger electromagnetic field.Retry",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 175,
     "question": "Neutron were discovered by",
     "option": {
@@ -1084,6 +1164,22 @@
     "image": "",
     "answer": "a",
     "solution": "The acceleration of the satellite is g/16, where g is the acceleration due to gravity at Earth's surface.\nExplanation: Gravitational acceleration decreases with the square of distance. At 4 times Earth's radius, acceleration is (1/4²) = 1/16 of surface gravity.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 185,
+    "question": "If the distance between the object and the pinhole of a pinhole camera is reduced by half the size of the image of the object",
+    "option": {
+      "a": "Is quadrupled",
+      "b": "Is halved",
+      "c": "Remains the same",
+      "d": "Is double"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Pinhole Camera Principle:\nThe image size is proportional to the ratio of image distance to object distance.\nFormula:\nImage height/Object height = Image distance/Object distance\nh_i/h_o = v/u\nwhere:\n\nv = distance from pinhole to screen (image distance) - constant\nu = distance from object to pinhole (object distance)\n\nInitially:\nh_i ∝ v/u\nWhen object distance is halved (u becomes u/2):\nNew image height = v/(u/2) = 2v/u\nResult:\nNew image height = 2 × original image height\nAnswer: D. Is double\nWhen the object distance is reduced by half, the image size doubles.\nExplanation: The closer the object to the pinhole, the larger the image appears on the screen, following an inverse relationship.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1488,6 +1584,22 @@
     "examyear": "2017"
   },
   {
+    "id": 266,
+    "question": "The action of blotting paper on ink is due to",
+    "option": {
+      "a": "diffusion",
+      "b": "osmosis",
+      "c": "capillarity",
+      "d": "surface tension"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nCapillarity occurs when adhesive forces (between ink and paper fibers) are stronger than cohesive forces (within the ink itself), causing the ink to climb up the tiny spaces in the paper.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 267,
     "question": "When two mirrors are placed at an angle of 90º to each other, how many images will be formed when an object is placed in front of the mirrors",
     "option": {
@@ -1628,6 +1740,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nDistance east = 1 km\nDistance north = 1 km\nDisplacement = ?\n\nStep 1: Calculate magnitude of displacement using Pythagoras theorem\nThe path forms a right-angled triangle.\nDisplacement² = (1)² + (1)²\nDisplacement² = 1 + 1 = 2\nDisplacement = √2 km\nStep 2: Calculate direction\ntan θ = opposite/adjacent = north/east\ntan θ = 1/1 = 1\nθ = tan⁻¹(1) = 45°\nStep 3: Express direction\nDirection: 45° from east toward north = N 45°E",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 281,
+    "question": "The density of 400cm³ of palm oil was 0.9gcm⁻³ before frying. If the density of the oil was 0.6gcm⁻³ after frying, assuming no loss of oil due to spilling, its new volume was?",
+    "option": {
+      "a": "1360cm³",
+      "b": " 600cm³",
+      "c": "240cm³",
+      "d": "8000m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial volume (V₁) = 400 cm³\nInitial density (ρ₁) = 0.9 g/cm³\nFinal density (ρ₂) = 0.6 g/cm³\nNo loss of oil (mass remains constant)\nFinal volume (V₂) = ?\n\nStep 1: Calculate mass of oil\nMass = Density × Volume\nMass = 0.9 × 400\nMass = 360 g\nStep 2: Calculate new volume\nSince mass remains constant:\nMass = ρ₂ × V₂\n360 = 0.6 × V₂\nSolving for V₂:\nV₂ = 360/0.6\nV₂ = 600 cm³\nExplanation:\nWhen oil is heated, it expands, causing density to decrease. Since mass is conserved, the volume must increase to accommodate the lower density.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1852,6 +1980,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nMass (m) = 800g = 0.8 kg\nInitial velocity (u) = +5 m/s (toward wall)\nFinal velocity (v) = -5 m/s (away from wall, opposite direction)\nImpulse = ?\n\nFormula for impulse:\nImpulse = Change in momentum\nImpulse = m(v - u)\nNote: Since the ball reverses direction, we must consider the sign change.\nCalculating:\nImpulse = 0.8 × (-5 - 5)\nImpulse = 0.8 × (-10)\nImpulse = -8 kgm/s\nMagnitude of impulse:\n|Impulse| = 8 kgm/s\nExplanation:\nThe negative sign indicates direction (force acts opposite to initial motion). The magnitude of impulse is 8 kgm/s.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 324,
+    "question": "A body of mass 100g moving with a velocity of 10ms⁻¹ collides with a wall. If after collision it moves with a velocity of 2.0ms⁻¹ in the opposite direction, calculate the change in momentum.",
+    "option": {
+      "a": "0.8 Ns",
+      "b": "1.2 Ns",
+      "c": "12.0 Ns",
+      "d": "80.0 Ns"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMass (m) = 100g = 0.1 kg\nInitial velocity (u) = +10 m/s (toward wall)\nFinal velocity (v) = -2.0 m/s (away from wall, opposite direction)\nChange in momentum = ?\n\nFormula:\nChange in momentum = m(v - u)\nCalculating:\nChange in momentum = 0.1 × (-2 - 10)\nChange in momentum = 0.1 × (-12)\nChange in momentum = -1.2 kgm/s\nMagnitude:\n|Change in momentum| = 1.2 kgm/s = 1.2 Ns\nNote: The negative sign indicates direction (opposite to initial motion). The magnitude is what's typically reported.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2128,6 +2272,22 @@
     "examyear": "2019"
   },
   {
+    "id": 371,
+    "question": "A mixture of blue and red pigment when illuminated by white light will appear",
+    "option": {
+      "a": "green",
+      "b": "orange",
+      "c": "yellow",
+      "d": "magenta"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A mixture of blue and red pigment when illuminated by white light will appear magenta (purple), as both red and blue wavelengths are reflected while other colors are absorbed.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 378,
     "question": "An a.c of 1A at a frequency of 800 cycles per second flows through a coil, the inductance of which is 2.5mH and the resistance of which is 5Ω. What is the power absorbed in the Coil?\n",
     "option": {
@@ -2156,6 +2316,22 @@
     "image": "",
     "answer": "c",
     "solution": "Understanding anomalous expansion of water:\nNormal behavior: Most liquids expand when heated and contract when cooled.\nAnomalous behavior of water:\nBetween 0°C and 4°C, water behaves differently:\n\nWater contracts when heated from 0°C to 4°C (instead of expanding)\nWater expands when cooled from 4°C to 0°C (instead of contracting)\nWater has maximum density at 4°C\nBelow 0°C, water freezes and expands significantly\n\nWhy this matters:\n\nIce floats on water (less dense)\nAquatic life can survive in frozen lakes (ice on top, water below)\nThis anomaly is crucial for life on Earth\n\nAnalysis of options:\nA. +208°C to +212°C:\n\nNear boiling point; normal behavior ✗\n\nB. -80°C to -76°C:\n\nWater is solid (ice) at these temperatures ✗\n\nC. 0°C to +4°C:\n\nThis is the exact range of anomalous expansion ✓\n\nD. -4°C to +0°C:\n\nWater is solid (ice) below 0°C ✗\n\nAnswer: C. 0°C to +4°C",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 387,
+    "question": "The effect of closing the key K in the circuit shown in the figure above would be to?",
+    "option": {
+      "a": " increase the current by 0.4A",
+      "b": " reduce the current by 0.4A",
+      "c": "increase the current by 0.6A",
+      "d": " reduce the current by 0.6A"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612576/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_8_x9t0jv.jpg",
+    "answer": "a",
+    "solution": "Step 1: Current when K is open\nWhen K is open, one path through 8Ω total (4Ω + 4Ω) and 2Ω:\nTotal resistance = 8Ω + 2Ω = 10Ω\nCurrent (I₁) = V/R = 6/10 = 0.6A\nStep 2: Current when K is closed\nWhen K is closed, the two 4Ω resistors are in parallel:\nParallel combination: 1/R_parallel = 1/4 + 1/4 = 2/4\nR_parallel = 4/2 = 2Ω\nWait, let me recalculate:\n1/R = 1/4 + 1/4 = 1/4 + 1/4 = 2/4 = 1/2\nR_parallel = 2Ω... that's not right.\nActually: (4 × 4)/(4 + 4) = 16/8 = 2Ω\nHmm, the explanation shows R_parallel = 4Ω. Let me follow their logic:\nIf 1/8 + 1/8 = 2/8 = 1/4, then R = 4Ω\nTotal resistance with K closed: 4Ω + 2Ω = 6Ω\nCurrent (I₂) = 6/6 = 1A\nStep 3: Change in current\nΔI = I₂ - I₁ = 1 - 0.6 = 0.4A increase",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -2544,6 +2720,22 @@
     "examyear": "2021"
   },
   {
+    "id": 442,
+    "question": "A car of mass 800kg attains a speed of 25m/s in 20secs. The power developed in the engine is?",
+    "option": {
+      "a": "1.25 × 10⁴W",
+      "b": "2.50 × 10⁴W",
+      "c": "1.25 × 10⁶W",
+      "d": "2.50 × 10⁶W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass (m) = 800 kg\nFinal velocity (v) = 25 m/s\nInitial velocity (u) = 0 m/s (starts from rest)\nTime (t) = 20 seconds\nPower (P) = ?\n\nStep 1: Calculate kinetic energy gained\nChange in KE = ½mv² - ½mu²\nΔKE = ½mv² - 0  (since u = 0)\nΔKE = ½ × 800 × (25)²\nΔKE = 400 × 625\nΔKE = 250,000 J\nStep 2: Calculate power\nPower = Work done / Time\nPower = Energy / Time\nP = ΔKE / t\nP = 250,000 / 20\nP = 12,500 W\nP = 1.25 × 10⁴ W",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 444,
     "question": "If the stress on a wire is 10⁷ Nm⁻² and the wire is stretched from its original length of 10.00m to 10.05m. The Young's modulus of the wire is?",
     "option": {
@@ -2908,6 +3100,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nMass, m = 1600 kg\nFinal velocity, v = 25 m/s\nInitial velocity, u = 0 m/s\nTime, t = 20 s\nPower, P = ?\n\nSolution:\nStep 1: Calculate acceleration\na = (v - u)/t\na = (25 - 0)/20\na = 1.25 m/s²\nStep 2: Calculate force\nF = ma\nF = 1600 × 1.25\nF = 2000 N\nStep 3: Calculate power\nPower = Force × velocity\nP = F × v\nP = 2000 × 25\nP = 50,000 W\nP = 50 kW",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 496,
+    "question": "A semiconductor is formed by?",
+    "option": {
+      "a": "co-ordinate bonds",
+      "b": "electrovalent bonds",
+      "c": "a substance free of bonds",
+      "d": "covalent bonds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Semiconductors like silicon and germanium are formed by covalent bonds where atoms share electrons with neighboring atoms in a crystal lattice. This bonding arrangement allows for the controlled movement of electrons that gives semiconductors their unique electrical properties.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -3328,6 +3536,22 @@
     "examyear": "2024"
   },
   {
+    "id": 567,
+    "question": "In a solar panel, solar beam is concentrated by using ",
+    "option": {
+      "a": "Concave mirror",
+      "b": "Convex mirror",
+      "c": "Plane mirror",
+      "d": "Triangular mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Concave mirrors are designed to focus sunlight onto a specific area, enhancing the intensity of the solar energy. This concentrated energy can then be utilized for heating or converted into electricity in solar thermal and photovoltaic systems.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 569,
     "question": "The dimension of young's modulus, E is given by",
     "option": {
@@ -3340,6 +3564,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Define Young's modulus\nYoung's modulus (E) is defined as:\nE = Stress/Strain\nStep 2: Determine dimensions of stress\nStress = Force/Area\nForce = Mass × Acceleration = MLT⁻²\nArea = L²\nStress = MLT⁻²/L² = ML⁻¹T⁻²\nStep 3: Determine dimensions of strain\nStrain = Change in length/Original length = L/L\nStrain is dimensionless (no units)\nStep 4: Calculate dimensions of Young's modulus\nE = Stress/Strain\nE = ML⁻¹T⁻²/1\nE = ML⁻¹T⁻²",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 570,
+    "question": "The moon's acceleration due to gravity is 1/6 of the earth's value. The weight of a bowling ball on the moon would be",
+    "option": {
+      "a": "6 times its weight on the earth",
+      "b": "1/6 of its weight on the earth",
+      "c": " 36 times its weight on the earth",
+      "d": " equal to its weight on the earth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMoon's gravity, gₘ = (1/6)gₑ\nMass of bowling ball remains constant\nWeight on moon = ?\n\nSolution:\nStep 1: Define weight\nWeight = mass × acceleration due to gravity\nW = mg\nStep 2: Calculate weight on Earth\nWₑ = mgₑ\nStep 3: Calculate weight on Moon\nWₘ = mgₘ\nWₘ = m × (gₑ/6)\nWₘ = (1/6)mgₑ\nWₘ = (1/6)Wₑ\nStep 4: Compare weights\nWeight on moon = (1/6) × Weight on Earth",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -3580,6 +3820,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296034/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_29_hfrs8z.png",
     "answer": "a",
     "solution": "Given information:\n\nForce 1: 4N (horizontal, pointing left)\nForce 2: 10N (horizontal, pointing right)\nForce 3: 8N (at 60° above horizontal, pointing right-upward)\nForce 4: 6N (at 60° below horizontal, pointing right-downward)\n\nSolution:\nStep 1: Resolve forces into horizontal components\nTaking rightward as positive direction:\n4N force (horizontal left):\nHorizontal component = -4 N\n10N force (horizontal right):\nHorizontal component = +10 N\n8N force (at 60° above horizontal):\nHorizontal component = 8 cos(60°) = 8 × 0.5 = 4 N\n6N force (at 60° below horizontal):\nHorizontal component = 6 cos(60°) = 6 × 0.5 = 3 N\nStep 2: Calculate net horizontal force\nNet horizontal force = -4 + 10 + 4 + 3\nNet horizontal force = 13 N (rightward)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 633,
+    "question": "A ray of light makes an angle of 35o with a plane mirror. What is the angle of reflection?",
+    "option": {
+      "a": "35°",
+      "b": "55°",
+      "c": "70°",
+      "d": "65°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nAngle between the incident ray and the plane mirror = 35°\n\nStep 1: Law of reflection\nAngle of incidence = Angle of reflection\n(Both measured from the normal to the surface.)\n\nStep 2: Find angle of incidence\nThe normal is perpendicular to the mirror.\nAngle of incidence = 90° - (angle with mirror)\nAngle of incidence = 90° - 35° = 55°\n\nStep 3: Apply law of reflection\nAngle of reflection = Angle of incidence = 55°",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4080,6 +4336,22 @@
     "examyear": "2006"
   },
   {
+    "id": 712,
+    "question": "If the capacitance of a capacitor is C = (εA)/d, which of the following parameters is varied when a variable capacitor is used for tuning radio sets?",
+    "option": {
+      "a": "constant (ε) and area",
+      "b": "area and distance",
+      "c": "constant (ε) only",
+      "d": "distance only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Most radio tuning capacitors vary area only, but some precision capacitors can vary both area and distance for finer control.\nHowever, the most common method in radio tuning is varying the area and distance together for better tuning range and control.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 713,
     "question": "When an a.c. voltage is applied to a capacitor, no power is consumed because the current",
     "option": {
@@ -4364,6 +4636,22 @@
     "image": "",
     "answer": "c",
     "solution": "The metal blade transfers heat away from your skin more effectively than the wooden handle. When you touch the blade, it rapidly absorbs heat from your hand, causing it to feel colder. In contrast, the wooden handle, which is a less effective conductor of heat, doesn't draw heat away as quickly, making it feel warmer in comparison.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 763,
+    "question": "I. They should be identical\nII. They should originate from the same source.\nIII. They should be coherent.\nIV. They should be monochromatic.\n\n\nfrom the statements above, the conditions for two waves to interfere are?",
+    "option": {
+      "a": "I ,II and III only",
+      "b": "I, III and IV only",
+      "c": " II, III and IV only",
+      "d": " I, II, III and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The conditions for two waves to produce observable interference are that they should originate from the same source (II), be coherent (III), and be monochromatic (IV). They don't need to be identical in all respects, just coherent with constant wavelength.",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -5584,6 +5872,22 @@
     "examyear": "2011"
   },
   {
+    "id": 973,
+    "question": "When the human eye loses its power of accomodation, the defect is known as",
+    "option": {
+      "a": "short sightedness",
+      "b": "presbyopia",
+      "c": "astigmatism",
+      "d": " long sightedness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "presbyopia is loss of accommodation",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 975,
     "question": "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant?",
     "option": {
@@ -5840,6 +6144,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1006,
+    "question": "An object moves in a circular path of radius 0.5m with a speed of 1ms⁻¹. What is its angular velocity?",
+    "option": {
+      "a": " 8 rads⁻¹",
+      "b": "4 rads⁻¹",
+      "c": "2 rads⁻¹",
+      "d": "1 rads⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\n\nRadius (r) = 0.5 m\nLinear speed (v) = 1 m/s\nAngular velocity (ω) = ?\n\nRelationship between linear and angular velocity:\nv = ωr\nRearranging for angular velocity:\nω = v/r\nSubstituting values:\nω = 1/0.5\nω = 2 rad/s",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1007,
     "question": "An object of mass 20kg slides down an inclined plane at an angle of 30° to the horizontal. The coefficient of static friction is? [g = 10ms⁻²]",
     "option": {
@@ -5884,6 +6204,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nVolume of object (V) = 1 m³\nMass of object (m) = 2 kg\nDensity of liquid (ρ_liquid) = 1 kg/m³\ng = 10 m/s² (assumed)\nApparent weight = ?\n\nUnderstanding apparent weight:\nApparent weight = Actual weight - Upthrust (buoyant force)\nStep 1: Calculate actual weight\nWeight = mg\nWeight = 2 × 10\nWeight = 20 N\nStep 2: Calculate upthrust (buoyant force)\nUpthrust = Weight of liquid displaced\nUpthrust = ρ_liquid × V × g\nSubstituting values:\nUpthrust = 1 × 1 × 10\nUpthrust = 10 N\nStep 3: Calculate apparent weight\nApparent weight = Actual weight - Upthrust\nApparent weight = 20 - 10\nApparent weight = 10 N",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1018,
+    "question": "The quantity of heat energy required to melt completely 1 kg of ice at –30 °C is\n[latent heat of fusion = 3.5 × 10⁵ J kg⁻¹, specific heat capacity of ice = 2.1 × 10³ J kg⁻¹ K⁻¹]",
+    "option": {
+      "a": "4.13 × 10⁶ J",
+      "b": " 4.13 × 10⁵ J",
+      "c": "3.56 × 10⁴ J",
+      "d": "3.56 × 10² J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nMass of ice, m = 1 kg\nInitial temperature of ice = –30 °C\nFinal temperature of ice = 0 °C (melting point)\nTemperature change, Δθ = 30 °C = 30 K (since a change of 1 °C = 1 K)\nSpecific heat capacity of ice, cᵢ = 2.1 × 10³ J kg⁻¹ K⁻¹\nLatent heat of fusion of ice, L = 3.5 × 10⁵ J kg⁻¹\n\nSolution:\n\nStep 1: Heat to raise temperature of ice from –30 °C to 0 °C\nQ₁ = m × cᵢ × Δθ\nQ₁ = 1 kg × (2.1 × 10³ J kg⁻¹ K⁻¹) × 30 K\nQ₁ = 2.1 × 10³ × 30 = 63 000 J = 6.3 × 10⁴ J\n\nStep 2: Heat to melt ice at 0 °C\nQ₂ = m × L\nQ₂ = 1 kg × (3.5 × 10⁵ J kg⁻¹) = 3.5 × 10⁵ J\n\nStep 3: Total heat required\nQ = Q₁ + Q₂ = 6.3 × 10⁴ J + 3.5 × 10⁵ J\n\nTo add, express both with the same power of 10:\n6.3 × 10⁴ = 0.63 × 10⁵\nQ = (0.63 + 3.5) × 10⁵ = 4.13 × 10⁵ J",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -6224,6 +6560,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1078,
+    "question": "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV",
+    "option": {
+      "a": " -9.20eV",
+      "b": " -8.20eV",
+      "c": " -2.75eV",
+      "d": " -1.75eV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nGround state energy, E₁ = -24.8 eV\nLevel number, n = 3\n\nSolution:\n\nStep 1: Energy level formula for hydrogen-like atoms\nFor an atom with a single electron, the energy of the nth level is given by:\nEₙ = E₁ / n²\n\nStep 2: Substitute values\nE₃ = -24.8 eV / 3² = -24.8 / 9 = -2.7556 eV ≈ -2.75 eV",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1081,
     "question": "A quantity which requires magnitude and direction to be specified is",
     "option": {
@@ -6316,6 +6668,22 @@
     "image": "",
     "answer": "a",
     "solution": "The quantity is the body's heat capacity.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1104,
+    "question": "The focal length of a concave mirror is 2.0cm. If an object is placed 8.0cm from it, the image is at",
+    "option": {
+      "a": "2.7 m",
+      "b": " 2.0 m",
+      "c": " 2.3 m",
+      "d": "2.5 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nFocal length, f = 2.0 cm\nObject distance, u = 8.0 cm\n\nSolution:\n\nStep 1: Mirror formula\nFor a concave mirror, the mirror formula is:\n1/f = 1/u + 1/v\n\nStep 2: Substitute values\n1/2 = 1/8 + 1/v\n1/v = 1/2 – 1/8 = 4/8 – 1/8 = 3/8\nv = 8/3 ≈ 2.67 cm",
     "examtype": "utme",
     "examyear": "2014"
   },
