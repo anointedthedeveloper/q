@@ -752,6 +752,22 @@
     "examyear": "1"
   },
   {
+    "id": 66,
+    "question": "Insured is likewise known as",
+    "option": {
+      "a": "insuree",
+      "b": "Insurer",
+      "c": "policy holder",
+      "d": "contractor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 67,
     "question": "Insurance contract is between",
     "option": {
@@ -2672,6 +2688,22 @@
     "examyear": "4"
   },
   {
+    "id": 232,
+    "question": "When the proposer fails to fill the proposal form truthfully, the contract will become",
+    "option": {
+      "a": "voidable",
+      "b": "illegal",
+      "c": "void",
+      "d": "enforceable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 233,
     "question": "Proposal form is used in the following classes of insurance except",
     "option": {
@@ -3131,6 +3163,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 277,
+    "question": "policy designed for the insured who is incapacitated to carry out normal duty is",
+    "option": {
+      "a": "medical expenses",
+      "b": "temporary disablement",
+      "c": "permanent disablement",
+      "d": "medical expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
@@ -3995,6 +4043,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 340,
+    "question": "The  difference  between  theft  and burglary insurance lies in evidence of",
+    "option": {
+      "a": "pilfering  of insured items",
+      "b": "removal of insured items by tricks",
+      "c": "forceful violent entry or exit affecting insured items",
+      "d": "threat leading to loss of insured items"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
