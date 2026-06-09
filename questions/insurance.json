@@ -272,6 +272,22 @@
     "examyear": "2014"
   },
   {
+    "id": 26,
+    "question": "An insurer who buys reinsurance cover is insured as",
+    "option": {
+      "a": "retrocession",
+      "b": "retrocedant",
+      "c": "cession",
+      "d": "cadent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 28,
     "question": "Family income option in a life policy provides that",
     "option": {
@@ -656,6 +672,22 @@
     "examyear": "1"
   },
   {
+    "id": 61,
+    "question": "The payment made by the insured to the insurer upon which the validity of insurance is based is called",
+    "option": {
+      "a": "Exgratia payment",
+      "b": "Loss payment",
+      "c": "Compensation",
+      "d": "Premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 62,
     "question": "The temporary document issued by the insurer to the insured while the policy is being prepared is",
     "option": {
@@ -752,6 +784,22 @@
     "examyear": "1"
   },
   {
+    "id": 73,
+    "question": "Risks that are peculiar to an individual actions and decision is known as",
+    "option": {
+      "a": "fundamental risk",
+      "b": "particular risk",
+      "c": "pure risk",
+      "d": "speculative risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 74,
     "question": "Risk of loss resulting from change in culture and taste is called",
     "option": {
@@ -763,6 +811,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 75,
+    "question": "The following risks are insurable except",
+    "option": {
+      "a": "particular",
+      "b": "pure",
+      "c": "static",
+      "d": "dynamic risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "1"
@@ -1131,6 +1195,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 112,
+    "question": "Hazard that deals with the human habits and character that arises from human attitude and the conduct of people is called",
+    "option": {
+      "a": "physical",
+      "b": "Moral",
+      "c": "Static",
+      "d": "Dynamic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 113,
+    "question": "A peril is best defined as",
+    "option": {
+      "a": "Chance of a loss",
+      "b": "The occurrence of a loan",
+      "c": "The cause of a loss",
+      "d": "The result of a loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -1888,6 +1984,22 @@
     "examyear": "3"
   },
   {
+    "id": 177,
+    "question": "Any circumstance that promotes the probability of a loss is called",
+    "option": {
+      "a": "Accident",
+      "b": "Hazard",
+      "c": "Loss",
+      "d": "Risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 178,
     "question": "Indemnity is provided through the following media except",
     "option": {
@@ -2528,6 +2640,22 @@
     "examyear": "4"
   },
   {
+    "id": 234,
+    "question": "The following classes of insurance apply the use of proposal form except",
+    "option": {
+      "a": "public liability",
+      "b": "large risk of marine insurance",
+      "c": "small risk of marine insurance",
+      "d": "theft"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 235,
     "question": "Proposal form is not applicable to the following except",
     "option": {
@@ -2864,6 +2992,22 @@
     "examyear": "5"
   },
   {
+    "id": 268,
+    "question": "The payment made when the insured is not entitled to claim under a policy is",
+    "option": {
+      "a": "voluntary excess",
+      "b": "ex-gratia",
+      "c": "return premium",
+      "d": "premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 273,
     "question": "A residential building built beside a petrol filling station is described as a",
     "option": {
@@ -3056,6 +3200,22 @@
     "examyear": "5"
   },
   {
+    "id": 291,
+    "question": "The full meaning of NAICOM is",
+    "option": {
+      "a": "Nigerian insurance company",
+      "b": "national insurance commission",
+      "c": "national insurer commission",
+      "d": "national insured commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 293,
     "question": "The form of risk that can easily be calculated and estimated is known as",
     "option": {
@@ -3150,6 +3310,38 @@
     "solution": "",
     "examtype": "model",
     "examyear": "5"
+  },
+  {
+    "id": 301,
+    "question": "Insurance against risk is possible because of the law of",
+    "option": {
+      "a": "large numbers",
+      "b": "few numbers",
+      "c": "inverse proportion",
+      "d": "diminishing returns"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 302,
+    "question": "Which  of  the  following  is  not  a  component  of  an insurance policy?",
+    "option": {
+      "a": "Signature clause",
+      "b": "Particular clause",
+      "c": "Recital clause",
+      "d": "Operative clause"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
   },
   {
     "id": 303,
@@ -3323,6 +3515,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 315,
+    "question": "Which  of  the  following  would  not  give  cause  for subrogation right?",
+    "option": {
+      "a": "Benefit",
+      "b": "Contract",
+      "c": "Statute",
+      "d": "Salvage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
