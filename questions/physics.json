@@ -4784,6 +4784,22 @@
     "examyear": "2019"
   },
   {
+    "id": 344,
+    "question": "When the temperature of a liquid is increased, its surface tension?",
+    "option": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remain constant",
+      "d": "increases then decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When the temperature of a liquid is increased, its surface tension decreases due to weakening of intermolecular cohesive forces.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 345,
     "question": "The distance between an object and its real image in a convex lens is 40cm. If the magnification of the image is 3, calculate the focal length of the lens\n",
     "option": {
@@ -5980,6 +5996,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nMass (m) = 50 g\nInitial temperature = 80°C\nSpecific heat capacity (c) = 4.23 J/(g·K)\nSpecific latent heat of vaporization (L) = 2260 J/g\n\nTwo-stage process:\nStage 1: Heat water from 80°C to 100°C (boiling point)\nQ₁ = mcΔT\nQ₁ = 50 × 4.23 × (100 - 80)\nQ₁ = 50 × 4.23 × 20\nQ₁ = 4,230 J\nStage 2: Vaporize water at 100°C\nQ₂ = mL\nQ₂ = 50 × 2260\nQ₂ = 113,000 J\nTotal heat required:\nH = Q₁ + Q₂\nH = 4,230 + 113,000\nH = 117,230 J\nHowever, based on the provided explanation which uses ΔT = 80°C:\nAlternative calculation:\nH = m[cΔT + L]\nH = 50[4.23 × 80 + 2260]\nH = 50[338.4 + 2260]\nH = 50 × 2598.4\nH = 129,920 J ≈ 130,000 J",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 433,
+    "question": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductors are 30V and 40V respectively. What is the voltage across the capacitor?",
+    "option": {
+      "a": "30V",
+      "b": "40V",
+      "c": "50V",
+      "d": "70V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nVoltage across resistor (V_R) = 30V\nVoltage across inductor (V_L) = 40V\nVoltage across capacitor (V_C) = ?\n\nAt resonance:\nSince X_L = X_C and the currents through all components are the same (series circuit):\nV_L = IX_L\nV_C = IX_C\nSince X_L = X_C:\nV_C = V_L = 40V",
     "examtype": "utme",
     "examyear": "2021"
   },
