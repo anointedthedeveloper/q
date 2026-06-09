@@ -560,6 +560,22 @@
     "examyear": "2011"
   },
   {
+    "id": 41,
+    "question": "Wilson Company owns land which cost 14100, 000. If a \"quick sate\" of the land was necessary to generate cash, the company feels it would receive only N80, 000.    The company continues to report the asset on the balance sheet at N100, 000   This is justified under which of the following concepts?  ",
+    "option": {
+      "a": "The historical-cost principle.",
+      "b": "The value is tied to objective and verifiable past transactions.",
+      "c": "Neither of the above.",
+      "d": " Both \"a\" and \"b\""
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 42,
     "question": "Retained earnings will change over time because of several factors.  Which of the following factors would explain an increase in retained earning?",
     "option": {
@@ -4315,6 +4331,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 290,
+    "question": "The excess of the value of assets over the purchase \tconsideration on acquisition of a business is credited to",
+    "option": {
+      "a": "share capital account.",
+      "b": "goodwill account.",
+      "c": "capital reserve account",
+      "d": "general reserve account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -9632,6 +9664,22 @@
     "examyear": "2017"
   },
   {
+    "id": 647,
+    "question": "The following appears in trading account except",
+    "option": {
+      "a": "sales",
+      "b": "carriage outward",
+      "c": "carriage inward",
+      "d": "opening stock"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "carriage outward: it is the cost of transporting goods from the company to the buyer. it is on debit side of the profit and loss account because it is an expenses incurred on distributing the goods to customer.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 648,
     "question": "Goodwill can be created in the books of a partnership firm when",
     "option": {
@@ -10300,6 +10348,22 @@
     "image": "",
     "answer": "b",
     "solution": "cost price method is used to enhance quick sales",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 694,
+    "question": "Adex Ltd. issues stock to its retail branches at cost price. The following information relates to Ede branch: Stock at branch 1st January at cost ₦400, Goods sent to branch at cost ₦8000, Returns to head office ₦340, Cash sales ₦9160, Stock at branch 31st December at cost ₦720. Calculate the cost of goods credited to the head office trading account.",
+    "option": {
+      "a": "₦7340",
+      "b": " ₦7460",
+      "c": " ₦7500",
+      "d": "₦7660"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The cost of goods credited to the Head Office Trading Account is computed as:\n\nOpening stock (₦400)\n\nGoods sent to branch (₦8,000)\n– Returns to Head Office (₦340)\n– Closing stock (₦720)\n= ₦7,340",
     "examtype": "utme",
     "examyear": "2018"
   },
