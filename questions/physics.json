@@ -10400,6 +10400,22 @@
     "examyear": "2007"
   },
   {
+    "id": 772,
+    "question": "The bond that forms a semiconductor is?",
+    "option": {
+      "a": "covalent",
+      "b": "electrovalent",
+      "c": "ionic",
+      "d": "metallic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Semiconductors, such as silicon and germanium, primarily exhibit covalent bonding, where atoms share electrons to form a stable structure.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 773,
     "question": "Silicon doped with aluminum and germanium doped with arsenic become?",
     "option": {
