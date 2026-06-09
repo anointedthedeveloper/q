@@ -720,6 +720,22 @@
     "examyear": "2014"
   },
   {
+    "id": 56,
+    "question": "The most effective approach towards the elimination of sexually transmitted diseases is by",
+    "option": {
+      "a": "abstinence.",
+      "b": "Casual sex.",
+      "c": "use of condom.",
+      "d": "use of drugs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 57,
     "question": "The first executive president of Nigeria is/was",
     "option": {
@@ -1627,6 +1643,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 127,
+    "question": "One of the following is not human right group",
+    "option": {
+      "a": "Constitutional Right Project (CRP)",
+      "b": "National Association of Democratic Lawyers (NADL)",
+      "c": "Nigeria Bar Association (NBA)",
+      "d": "Civil Liberties Organization (CLO)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -3136,6 +3168,22 @@
     "examyear": "2013"
   },
   {
+    "id": 239,
+    "question": "Cultism is ........, and so it should be ........",
+    "option": {
+      "a": "useful - allowed",
+      "b": "cultural - encouraged",
+      "c": "dangerous - discouraged",
+      "d": "amiable - supported"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 240,
     "question": "Drug abuse can be curbed by",
     "option": {
@@ -3387,6 +3435,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 259,
+    "question": "The primary duty of the army is to",
+    "option": {
+      "a": "execute the law",
+      "b": "interpret the law",
+      "c": "overthrow the government when there is anarchy",
+      "d": "defend the country against external aggression"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -3735,6 +3799,22 @@
       "b": "a presidential",
       "c": "a monarchical",
       "d": "unitary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 288,
+    "question": "Through which of these can citizenship status be acquired",
+    "option": {
+      "a": "birth, naturalization, honorary and registration",
+      "b": "birth, colonization and integration",
+      "c": "referendum, incorporation and acceptance",
+      "d": "convention registration and colonization"
     },
     "section": "",
     "image": "",
