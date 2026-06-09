@@ -3824,6 +3824,22 @@
     "examyear": "2017"
   },
   {
+    "id": 265,
+    "question": "What is the speed of a body vibrating at 50 cyclic per second",
+    "option": {
+      "a": "100πrads⁻¹",
+      "b": "200πrads⁻¹",
+      "c": "50πrads⁻¹",
+      "d": "400πrads⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nFrequency (f) = 50 cycles per second = 50 Hz\nAngular speed (ω) = ?\n\n\nFormula:\nω = 2πf\nSubstituting values:\nω = 2π × 50\nω = 100π rad/s",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 266,
     "question": "The action of blotting paper on ink is due to",
     "option": {
@@ -11040,6 +11056,22 @@
     "examyear": "2007"
   },
   {
+    "id": 774,
+    "question": "The figure above shows 4 forces 3N, 10N, 3√3N and 6N acting on a particle P. The resultant of the four forces is",
+    "option": {
+      "a": "5N",
+      "b": "5√3N",
+      "c": " 10N",
+      "d": "10√3N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431395/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_25_vy4f8g.png",
+    "answer": "c",
+    "solution": "Horizontal components:\n\n3N (right): +3N\n10N at 30°: +10 cos(30°) = +5√3N\n3√3N (up): 0\n6N at 60° below left: -6 cos(60°) = -3N\n\nΣF_x = 3 + 5√3 + 0 - 3 = 5√3N\nVertical components (↑ positive):\n\n3N: 0\n10N at 30°: +10 sin(30°) = +5N\n3√3N (up): +3√3N\n6N at 60° below: -6 sin(60°) = -6 × (√3/2) = -3√3N\n\nΣF_y = 0 + 5 + 3√3 - 3√3 = 5N\nStep 2: Calculate resultant\nR = √[(ΣF_x)² + (ΣF_y)²]\nR = √[(5√3)² + (5)²]\nR = √[75 + 25]\nR = √100\nR = 10N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 775,
     "question": "From the diagram above, the bob of the pendulum has the fastest speed at",
     "option": {
@@ -11436,6 +11468,22 @@
     "image": "",
     "answer": "a",
     "solution": "Altitude is just a measure of height, regardless of direction.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 803,
+    "question": "I. All the three forces must be concurrent.\nII. The upward force is equal to the downward force.\nIII. The algebraic sum of the moment about any point must be zero.\n\nwhich of the above conditions must hold for a body acted upon by a system of three coplanar forces equilibrium?",
+    "option": {
+      "a": " I and II only",
+      "b": "I and III only",
+      "c": "II and III only",
+      "d": "I, II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All three conditions must hold for a body acted upon by three coplanar forces to be in equilibrium: the forces must be concurrent (I), upward forces must equal downward forces (II), and the algebraic sum of moments about any point must be zero (III).",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -16380,6 +16428,22 @@
     "image": "",
     "answer": "a",
     "solution": "Perforated materials absorb sound, reducing reverberation.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1155,
+    "question": "If an object sinks in water, it means that",
+    "option": {
+      "a": "Its density is greater than that of water",
+      "b": ". upthrust equals its weight",
+      "c": " its density is less than that of water",
+      "d": "water pressure is greater than its weight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An object sinks when its density is greater than that of water.",
     "examtype": "utme",
     "examyear": "2025"
   },
