@@ -128,6 +128,22 @@
     "examyear": "2010"
   },
   {
+    "id": 10,
+    "question": "A company's profit and loss account for a period  is  prepared by ",
+    "option": {
+      "a": "deducting total expenses from total revenues ",
+      "b": "deducting total cash payments from total revenue ",
+      "c": "deducting  all  outflows  of funds  from  all inwards of funds ",
+      "d": "balancing its receipts and payments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 11,
     "question": "The journal is a book ",
     "option": {
@@ -3216,6 +3232,22 @@
     "examyear": "2006"
   },
   {
+    "id": 247,
+    "question": "Using the reducing balance method, the depreciation charged for year 2003 was",
+    "option": {
+      "a": "N  160,000",
+      "b": "N  150,000",
+      "c": "N   130,000",
+      "d": "N  120,000"
+    },
+    "section": "Motor vehicles (at cost) 1/1/2002   [N1,000,000],  Addition to motor vehicles 1/7/2003  [N  600,000] \tDepreciation rate 10%",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 248,
     "question": "Which of the following is not a revenue expenditure?",
     "option": {
@@ -3483,6 +3515,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 269,
+    "question": "Which of the following is an example of factory overheads?",
+    "option": {
+      "a": "Salary of marketing officer",
+      "b": "Salary of production officer",
+      "c": "Salary of accounting officer",
+      "d": "Wages of machine operator"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -4240,6 +4288,22 @@
     "examyear": "2015"
   },
   {
+    "id": 338,
+    "question": "Goods stolen at the branch is debited to",
+    "option": {
+      "a": "Defalcations Account",
+      "b": "Branch Stock Account",
+      "c": "Branch Adjustment Account",
+      "d": "Branch Debtors Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 340,
     "question": "The instrument used to release fund which the minister of finance had earlier withheld is",
     "option": {
@@ -4887,6 +4951,22 @@
       "b": "N 750",
       "c": "N 1,380",
       "d": "N 1,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 403,
+    "question": "Where closing stock is undervalued, the effect is",
+    "option": {
+      "a": "an increase in gross profit",
+      "b": "a decrease in gross profit",
+      "c": "an increase in purchases",
+      "d": "a decrease in purchases"
     },
     "section": "",
     "image": "",
@@ -9056,6 +9136,22 @@
     "examyear": "2019"
   },
   {
+    "id": 744,
+    "question": "A company has two departments with the following information: opening stock for Department A is ₦100 and Department B is ₦800; purchases for Department A is ₦1,500 and Department B is ₦2,000; wages of workers is ₦50 and salaries is ₦100; sales for Department A is ₦3,000 and Department B is ₦5,000. Expenses are to be shared in the ratio of sales. The net profit for departmental A is?",
+    "option": {
+      "a": "₦1 343.75",
+      "b": "₦1,880",
+      "c": "₦1,600",
+      "d": "₦880"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Net profit for Department A = Sales – (Opening Stock + Purchases + Allocated Expenses)\n= ₦3 000 – (₦100 + ₦1 500 + [₦150×3 000/8 000])\n= ₦3 000 – (₦100 + ₦1 500 + ₦56.25)\n= ₦3 000 – ₦1 656.25\n= ₦1 343.75",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 746,
     "question": "The two recognised accounting bases are",
     "option": {
@@ -11212,6 +11308,22 @@
     "image": "",
     "answer": "b",
     "solution": "Contigency fund is established by the constitution of 1979 to take care of any nation disaster or unforeseen circumstances.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 924,
+    "question": "Given:\n\nI. Settlement of debts\nII. Cessation of business\nIII. Introduction of assets\nIV. Disposal of assets\n\nWhich of these constitutes dissolution of partnership?",
+    "option": {
+      "a": "I, II and III only",
+      "b": "I, II and IV only",
+      "c": ". II and IV only",
+      "d": "II and III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dissolution involves wrapping up operations, paying debts, and selling assets—not introducing new ones.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -13756,6 +13868,22 @@
     "image": "",
     "answer": "b",
     "solution": "Payment 1:\nJan 20 — ₦24,000 for 4 months → Jan 20 to May 19, 2001\n\nAll months are within 2001, so no overpayment.\n\nPayment 2:\nMay 16 — ₦30,000 for 5 months → May 16 to Oct 15, 2001\n\nAll months are within 2001, so no overpayment.\n\nPayment 3:\nOct 15 — ₦36,000 for 6 months → Oct 15, 2001 to Apr 14, 2002\n\nFrom Oct 15 to Dec 31, 2001 → 2.5 months belong to 2001 (paid expense).\n\nFrom Jan 1 to Apr 14, 2002 → 3.5 months belong to 2002 (prepaid).\n\nStep 2 – Calculate prepaid portion from Payment 3\nCost per month = ₦36,000 ÷ 6 = ₦6,000/month\n\nPrepaid = 3.5 months × ₦6,000 = ₦21,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1139,
+    "question": "Advertising expenses incurred on a product in a business organization should be charged to?",
+    "option": {
+      "a": " production department",
+      "b": " sales department",
+      "c": "administration department",
+      "d": " purchases department"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Advertising expenses are directly related to promoting and selling the product.\n\nThey are part of selling and distribution expenses, which fall under the responsibility of the sales department.\n\nProduction handles manufacturing, administration handles general office and management expenses, and purchases deals with acquiring raw materials, none of which cover advertising costs.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -16368,6 +16496,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1346,
+    "question": "When a partner makes a drawing of stock items from a partnership, the accounting impact of the drawing is to increase the partner's?",
+    "option": {
+      "a": "goodwill account balance",
+      "b": "current account credit balance",
+      "c": "current account debit balance",
+      "d": "profit and loss credit balance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Drawings are debited to the partner's current account, which increases the debit balance (or reduces a credit balance)",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1347,
     "question": "Dele and Seun who are in partnership, have decided to covert their business into a limited liability company where both become directors. To convert the business?",
     "option": {
@@ -16988,6 +17132,22 @@
     "image": "",
     "answer": "d",
     "solution": "The best distinguishing feature of a non-profit-making organization is that its routine income sources are things like annual subscriptions and levies rather than trading profits.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1400,
+    "question": "Which of the following is an intangible asset and a measure of a firm's superior earning power?",
+    "option": {
+      "a": "Patent",
+      "b": "Goodwill",
+      "c": "Trademark",
+      "d": "Right issue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Goodwill represents the excess earning power of a business over the normal return on its identifiable net assets. It arises when a firm is acquired for more than the fair value of its net identifiable assets, reflecting its superior reputation, customer relationships, and other non-identifiable factors.\n\nPatents and trademarks are intangible assets but are specific legal rights, not measures of overall superior earning power.\n\nA rights issue is a method of raising capital, not an asset.",
     "examtype": "utme",
     "examyear": "199"
   },
