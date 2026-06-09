@@ -160,6 +160,22 @@
     "examyear": "2001"
   },
   {
+    "id": 12,
+    "question": "Pure solvents are obtained by",
+    "option": {
+      "a": "Distillation",
+      "b": "Condensation",
+      "c": "Extraction",
+      "d": "EvapopraTION"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 13,
     "question": "What is the decrease in volume of air when pyrogallol is shaken with 30.00cm3 of air",
     "option": {
@@ -939,6 +955,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 74,
+    "question": "The boiling of fat and aqueous caustic soda is referred as",
+    "option": {
+      "a": "Saponification",
+      "b": "Esterification",
+      "c": "Acidification",
+      "d": "Hydrolysis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
@@ -2491,6 +2523,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 195,
+    "question": "The decolourization of the purple colour of a tetraoxomanganate (VII) ion is a test for",
+    "option": {
+      "a": "Alkanals",
+      "b": "Alkanes",
+      "c": "Alkenes",
+      "d": "Alkanols"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -4656,6 +4704,22 @@
     "examyear": "2016"
   },
   {
+    "id": 367,
+    "question": "Which of the following statements is true about 2-methylpropane and butane?",
+    "option": {
+      "a": "They have different number of carbon atoms",
+      "b": "They are members of same homologous series",
+      "c": "They have the same boiling points",
+      "d": "They have different chemical properties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2-methylpropane and butane are structural isomers — both have the molecular formula C₄H₁₀ and belong to the alkane homologous series. They have the same number of carbon atoms and similar chemical properties, but different boiling points due to different branching.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 368,
     "question": "The process that requires the use of hard water in its operation is",
     "option": {
@@ -5372,6 +5436,22 @@
     "image": "",
     "answer": "b",
     "solution": "pH = 3.80, so pOH = 14 - 3.80 = 10.20. [OH⁻] = 10⁻¹⁰·²⁰ = 6.3 × 10⁻¹¹ mol dm⁻³. Alternatively: [H⁺] = 10⁻³·⁸⁰ = 1.585 × 10⁻⁴; [OH⁻] = Kw/[H⁺] = 1 × 10⁻¹⁴ / 1.585 × 10⁻⁴ = 6.3 × 10⁻¹¹ mol dm⁻³.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 421,
+    "question": "Incomplete oxidation of ethanol yields",
+    "option": {
+      "a": "CH₃COOH",
+      "b": "CH₃COCH₃",
+      "c": "CH₃CH₂OCH₂CH₃",
+      "d": "CH₃CHO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ethanol (CH₃CH₂OH) undergoes stepwise oxidation. Incomplete (mild) oxidation yields ethanal (CH₃CHO), an aldehyde. Complete (vigorous) oxidation gives ethanoic acid (CH₃COOH). The incomplete oxidation stops at the aldehyde stage.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -7116,6 +7196,22 @@
     "image": "",
     "answer": "b",
     "solution": "Molar mass of CH₄ = 16 g/mol. 8g of CH₄ = 8/16 = 0.5 mol, occupying 11.2 dm³ → 1 mol occupies 22.4 dm³ at STP. Molar mass of CH₃CH₂CH₃ (propane) = 44 g/mol. Moles of propane = 22/44 = 0.5 mol. Volume = 0.5 × 22.4 = 11.2 dm³.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 561,
+    "question": "Which of the gas laws does this graph illustrate?",
+    "option": {
+      "a": "Boyle",
+      "b": "Charles",
+      "c": "Gay-Lussac",
+      "d": "Graham"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777638550/ALOC-Questions/Chemistry/UTME/2020/Chemistry_2020_Q7_vj8rdm.png",
+    "answer": "b",
+    "solution": "The graph shows volume on the y-axis and temperature in Kelvin on the x-axis, producing a straight line through the origin. This represents a direct proportionality (V ∝ T at constant pressure), which illustrates Charles's Law: the volume of a fixed mass of gas is directly proportional to its absolute temperature at constant pressure.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -10188,6 +10284,22 @@
     "image": "",
     "answer": "a",
     "solution": "Covalent molecules are held together by weak van der Waals (intermolecular) forces between molecules. Little energy is needed to overcome these forces, resulting in low melting and boiling points. The strong covalent bonds within the molecule are not broken during melting or boiling.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 780,
+    "question": "What is the molecular mass of an alkanoic acid, if 0.5 mole of the acid weighs 44 g?",
+    "option": {
+      "a": "72",
+      "b": "88",
+      "c": "60",
+      "d": "46"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Molar mass = mass / moles = 44 g / 0.5 mol = 88 g/mol. This corresponds to octanoic acid (C₄H₈O₂ is butanoic at 88 g/mol: CH₃CH₂CH₂COOH).",
     "examtype": "utme",
     "examyear": "2025"
   },
