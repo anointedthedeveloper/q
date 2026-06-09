@@ -576,6 +576,22 @@
     "examyear": "2008"
   },
   {
+    "id": 56,
+    "question": "Horse latitudes refers to  ",
+    "option": {
+      "a": "areas around the gulf of guinea ",
+      "b": "areas around the equator  ",
+      "c": "areas around the Mediterranean sea  ",
+      "d": "areas around latitude 300 in both hemispheres."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 57,
     "question": "“High uniform temperature and heavy well distributed rainfall throughout the year” described ",
     "option": {
@@ -1744,6 +1760,22 @@
     "examyear": "2012"
   },
   {
+    "id": 156,
+    "question": "Aeolian erosion refers to the work of  ",
+    "option": {
+      "a": "Plants  ",
+      "b": "Wind  ",
+      "c": "Ice  ",
+      "d": "Running water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 159,
     "question": "Sandstone is metamorphosed into  ",
     "option": {
@@ -1879,6 +1911,22 @@
       "b": "Southwest  to Southeast",
       "c": "West to East  ",
       "d": "East to West"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 176,
+    "question": "The tropical maritime air mass attains its maximum incursion over West African hinterlands",
+    "option": {
+      "a": "When the sun is overhead on the tropic of Capricorn  ",
+      "b": "When the sun is overhead on the tropic of Cancer ",
+      "c": "When the sun is overhead on the Equator",
+      "d": "When the sun is overhead on both the tropic of Cancer and Tropic of Capricom"
     },
     "section": "",
     "image": "",
@@ -4208,6 +4256,22 @@
     "examyear": "2019"
   },
   {
+    "id": 398,
+    "question": "Which of the following is not a form of precipitation?",
+    "option": {
+      "a": "Haze",
+      "b": "Snow",
+      "c": "Hail",
+      "d": "Fog"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 399,
     "question": "Which of the following rocks is composed of the skeletons of microscopic sea plants and animals?",
     "option": {
@@ -4551,6 +4615,22 @@
       "b": "Recreation",
       "c": "Drinking",
       "d": "Transportaion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 431,
+    "question": "The equatorial circumference of earth ",
+    "option": {
+      "a": "30,084 km",
+      "b": "60,084 km",
+      "c": "20,084km",
+      "d": "40,084 km"
     },
     "section": "",
     "image": "",
