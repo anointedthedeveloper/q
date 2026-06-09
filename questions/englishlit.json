@@ -656,6 +656,22 @@
     "examyear": "2008"
   },
   {
+    "id": 52,
+    "question": "Which of these definitions best described a lyric? ",
+    "option": {
+      "a": "a short poem",
+      "b": "a short poem in which the poet is speaking",
+      "c": "a poem expressing a personal idea, feeling or mood",
+      "d": "a poem divided into stanza."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 54,
     "question": "Plot in prose fiction is best defined as:  ",
     "option": {
@@ -887,6 +903,22 @@
       "b": "promotion ",
       "c": "absurdity ",
       "d": "incidents."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 72,
+    "question": "A short witty statement is an ",
+    "option": {
+      "a": "epistle ",
+      "b": "eulogy ",
+      "c": "epigram ",
+      "d": "anecdote."
     },
     "section": "",
     "image": "",
@@ -1904,6 +1936,22 @@
     "examyear": "2013"
   },
   {
+    "id": 153,
+    "question": "The central conflict in the play is about  ",
+    "option": {
+      "a": "Lawyer Bonu’s attempt to seduce Maanan  ",
+      "b": "career choice for James Ofosu’s children  ",
+      "c": "Hannah’s lack of respect for James  ",
+      "d": "Fosuwa’s bid to force Lawyer Bonu on Maanan"
+    },
+    "section": "Question is  based  on Joe de Graft’s Sons and Daughters.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 154,
     "question": "David Rubadiri in “An African Thunderstorm” paints a graphic picture of the Thunderstorm through  the use of ",
     "option": {
@@ -2203,6 +2251,22 @@
     "section": "Pan, O great Pan, to thee'<br> \t\tThus do we sing!<br> \t\tThou who keep’st chaste and free<br> \t\tAs the young spring<br> \t\tEver be thy honour spake<br> \t\tFrom that place the morn is broke<br> \t\tTo the place day doth unyoke",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 179,
+    "question": "Pan is used here as",
+    "option": {
+      "a": "an allusion",
+      "b": "symbol",
+      "c": "irony",
+      "d": "metonymy"
+    },
+    "section": "Pan, O great Pan, to thee'<br> \t\tThus do we sing!<br> \t\tThou who keep’st chaste and free<br> \t\tAs the young spring<br> \t\tEver be thy honour spake<br> \t\tFrom that place the morn is broke<br> \t\tTo the place day doth unyoke",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -4352,6 +4416,22 @@
     "examyear": "2009"
   },
   {
+    "id": 348,
+    "question": "a structural arrangement of units of composition by which one element of equal importance with another is similarly placed is called",
+    "option": {
+      "a": "repetition",
+      "b": "paradox",
+      "c": "refrain",
+      "d": "parallelism"
+    },
+    "section": "based on General Literary Principles.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 349,
     "question": "The pride that contributes to the fall of a tragic character in a play is known as",
     "option": {
@@ -4711,6 +4791,22 @@
       "b": "Mando",
       "c": "Mampama",
       "d": "Konkp"
+    },
+    "section": "Question 16 to 20 are based on Dele Charley's \"The Blood of a Stranger\"",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 379,
+    "question": "Maligu persuades and blackmails Soko to partake in his dubious",
+    "option": {
+      "a": "Activities",
+      "b": "Plan",
+      "c": "Talk",
+      "d": "Character"
     },
     "section": "Question 16 to 20 are based on Dele Charley's \"The Blood of a Stranger\"",
     "image": "",
@@ -5936,6 +6032,22 @@
     "examyear": "2018"
   },
   {
+    "id": 480,
+    "question": "The speech made at the end of a dramatic performance is generally called",
+    "option": {
+      "a": "A prologue",
+      "b": "An epilogue",
+      "c": "A dirge",
+      "d": "A monologue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 482,
     "question": "\"Dinner tonight comes with gun wounds. Our desert tongues lick the vegetable blood—the pepper\". The statement above implies.",
     "option": {
@@ -6523,6 +6635,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 527,
+    "question": "A play is dram because",
+    "option": {
+      "a": "It is written in verse",
+      "b": "It can be acted on stage",
+      "c": "It contains characters",
+      "d": "It does not contain any story"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
