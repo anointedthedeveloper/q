@@ -208,6 +208,22 @@
     "examyear": "2007"
   },
   {
+    "id": 28,
+    "question": "Industrialization in Nigeria can best be promoted through the development of  ",
+    "option": {
+      "a": "textile industry  ",
+      "b": "leather industry  ",
+      "c": "iron and steel industry  ",
+      "d": "automobile industry "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 31,
     "question": "Which of the ocean currents is classified as cool?  ",
     "option": {
@@ -359,6 +375,22 @@
       "b": "wind bow out sites  ",
       "c": "places with history of tectonism ",
       "d": "areas of subsidence "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 51,
+    "question": "One of these is not a factor of population growth  ",
+    "option": {
+      "a": "poverty  ",
+      "b": "migration  ",
+      "c": "prosperity  ",
+      "d": "housing "
     },
     "section": "",
     "image": "",
@@ -555,6 +587,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following timber trees are found in the tropical rain forest of Africa? ",
+    "option": {
+      "a": "Obeche and teak  ",
+      "b": "Mahogany and teak  ",
+      "c": "Obeche and Mahogany ",
+      "d": "Iroko and Eucalyptus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -955,6 +1003,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 125,
+    "question": "Which of the following places in Nigeria has the highest mean annual rainfall amount ",
+    "option": {
+      "a": "Sokoto  ",
+      "b": "Maiduguri  ",
+      "c": "Nguru   ",
+      "d": "Kano  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -1408,6 +1472,22 @@
     "examyear": "2014"
   },
   {
+    "id": 193,
+    "question": "Topographic maps are: ",
+    "option": {
+      "a": "Representations of features on the Earth's surface",
+      "b": "Features on the Earth's surface. ",
+      "c": "Detailed and accurate graphic representations of features on the Earth's surface ",
+      "d": "Geographic coordinate grid on the Earth's surface. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 194,
     "question": "Lesotho is in: ",
     "option": {
@@ -1552,6 +1632,22 @@
     "examyear": "2014"
   },
   {
+    "id": 208,
+    "question": "Kinshasa is a: ",
+    "option": {
+      "a": "Central African City ",
+      "b": "North African City ",
+      "c": "East African City ",
+      "d": "South African City "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 211,
     "question": "Nairobi is a: ",
     "option": {
@@ -1664,6 +1760,38 @@
     "examyear": "2014"
   },
   {
+    "id": 223,
+    "question": "To obtain the climate of a place the average atmospheric weather conditions should be considered ",
+    "option": {
+      "a": "20years ",
+      "b": "24years",
+      "c": "35years ",
+      "d": "10years "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 228,
+    "question": "Settlements can be classified according to all the following except the   ",
+    "option": {
+      "a": "The arrangements of the building   ",
+      "b": "Number of people per settlements   ",
+      "c": "Functions  ",
+      "d": "The type of people that live in the area   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 230,
     "question": "……...Refers to the nature of the surface of an area and the features that abound therein above the sea level",
     "option": {
@@ -1755,6 +1883,22 @@
     "section": "",
     "image": "",
     "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 238,
+    "question": "The main composition of coal is",
+    "option": {
+      "a": "Iron",
+      "b": "Quartz",
+      "c": "Clay",
+      "d": "Carbon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -1920,6 +2064,22 @@
     "examyear": "2016"
   },
   {
+    "id": 262,
+    "question": "The area served by a given city is referred to as its",
+    "option": {
+      "a": "Territory",
+      "b": "Sphere of influence",
+      "c": "Satellite",
+      "d": "Hinterland"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 270,
     "question": "The proportion of the earth's surface occupied by ocean is approximately",
     "option": {
@@ -1998,6 +2158,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 279,
+    "question": "Pulp-wood which is used in the manufacturing of paper cardboard and cellulose is derived mainly from",
+    "option": {
+      "a": "Desert plants",
+      "b": "Tropical rainforest",
+      "c": "Coniferous forest",
+      "d": "Broad leaved forest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 283,
@@ -2160,6 +2336,22 @@
     "examyear": "2017"
   },
   {
+    "id": 309,
+    "question": "Which od these West African countries is known for the mining of phosphates?",
+    "option": {
+      "a": "Liberia",
+      "b": "Togo",
+      "c": "Nigeria",
+      "d": "Ghana"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 310,
     "question": "One of the tertiary services in an urban centre is ",
     "option": {
@@ -2171,6 +2363,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 314,
+    "question": "Which of the following population characteristics is best related to African countries?",
+    "option": {
+      "a": "Low birthraate and high death rate",
+      "b": "High birthrate and high death rate",
+      "c": "High birth rate and below death rate",
+      "d": "Low birth rate and low death rate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
@@ -2400,6 +2608,22 @@
     "examyear": "2018"
   },
   {
+    "id": 336,
+    "question": "A broad-based population pyramid is composed mainly of",
+    "option": {
+      "a": "Active inhabitants",
+      "b": "Old dependents",
+      "c": "Young dependents",
+      "d": "More females than males"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 342,
     "question": "The feature is one of the landforms associated with",
     "option": {
@@ -2480,6 +2704,22 @@
     "examyear": "2018"
   },
   {
+    "id": 351,
+    "question": "The greatest volcanic regions of Africa are found in ",
+    "option": {
+      "a": "The Maghrib",
+      "b": "Kenya and Tanzania",
+      "c": "The Cameroons",
+      "d": "Sudan and Ethiopia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 354,
     "question": "One of the leading industrial nations of the world ranking second in manufacturing output after the USA is ",
     "option": {
@@ -2539,6 +2779,22 @@
     "section": "",
     "image": "",
     "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 362,
+    "question": "The highest point in the area depicted on the map is just above",
+    "option": {
+      "a": "800m",
+      "b": "500m",
+      "c": "600m",
+      "d": "900m"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2019_06_to_10_hkwszi.jpg",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -2672,6 +2928,22 @@
     "examyear": "2019"
   },
   {
+    "id": 383,
+    "question": "The rock type that is not likely to produce rich agricultural soil after weathering is",
+    "option": {
+      "a": "Graphite",
+      "b": " Limestone",
+      "c": "Volcanic rock",
+      "d": "Granitic rock"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 386,
     "question": "An igneous rock with distinct grains of mica feldspar and quartz is",
     "option": {
@@ -2695,6 +2967,22 @@
       "b": "Quaternary is located",
       "c": " Primary production",
       "d": "Tertiary production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 396,
+    "question": "The Algeria'a oildields are located in",
+    "option": {
+      "a": "Golf of Onet",
+      "b": "Marsael Brega",
+      "c": "Hassi Messaoud",
+      "d": "Touggourt"
     },
     "section": "",
     "image": "",
@@ -2967,6 +3255,22 @@
       "b": "Kebbi state",
       "c": "Taraba state",
       "d": "Kogi state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 432,
+    "question": "The growth rate of population is determined by",
+    "option": {
+      "a": "Birth and death rate",
+      "b": "Technological know-how",
+      "c": "Improved agriculture",
+      "d": "Number of death per 1000"
     },
     "section": "",
     "image": "",
