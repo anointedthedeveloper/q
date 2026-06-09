@@ -112,6 +112,22 @@
     "examyear": "2007"
   },
   {
+    "id": 33,
+    "question": "How many countries are in Africa? ",
+    "option": {
+      "a": "fifteen ",
+      "b": "fifty-three ",
+      "c": "fifty",
+      "d": "fifty-five"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 34,
     "question": "Economic Community of West African States (ECOWAS) was based on the initiative of the heads of state  of these two countries ",
     "option": {
@@ -295,6 +311,22 @@
       "b": "three party system ",
       "c": "two-party system ",
       "d": "one party system "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 111,
+    "question": "The creation of classless society is the ultimate aim of ",
+    "option": {
+      "a": "communism ",
+      "b": "socialism  ",
+      "c": "fascism ",
+      "d": "capitalism."
     },
     "section": "",
     "image": "",
@@ -1195,6 +1227,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 493,
+    "question": "Workers in the public corporations are known as",
+    "option": {
+      "a": "civil servants",
+      "b": "private employees",
+      "c": "public servants",
+      "d": "professional employees."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -2272,6 +2320,22 @@
     "examyear": "2018"
   },
   {
+    "id": 826,
+    "question": "The right of a citizen to seek redress means the right to________",
+    "option": {
+      "a": "fair hearing",
+      "b": "free access to legal materials",
+      "c": "seek an appeal under another judgement",
+      "d": "exercise his political liberty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Seek an appeal under another judgement is the best answer because,  ''the right to seek redress'' is a fundamental element of rule of law. It means that aggrieved parties should be afforded the opportunity to have their cases re-examined especially by a court of higher authority.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 828,
     "question": "A form of government which has its slogan to be 'ruling of the best' is__________",
     "option": {
@@ -2560,6 +2624,22 @@
     "examyear": "2021"
   },
   {
+    "id": 944,
+    "question": "Under the 1999 Constitution, the appointment of Ministers and Ambassadors must be ratified by the ........",
+    "option": {
+      "a": "Senate",
+      "b": "House of Representatives",
+      "c": "National Council of States",
+      "d": "Presidency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The appointment of ministers and ambassadors must be ratified by the Senate Under the 1999 Constitution.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 945,
     "question": "In the First Republic, the official opposition party was the ..........",
     "option": {
@@ -2748,6 +2828,22 @@
     "image": "",
     "answer": "a",
     "solution": "Ivory was a significant trade commodity in the pre-colonial Kingdom of Benin. The Kingdom of Benin, located in modern-day Nigeria, was known for its ivory carvings, which were traded with European merchants.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1033,
+    "question": "Which Nigerian leader advocated for the New Partnership for Africa's Development(NEPAD)?",
+    "option": {
+      "a": "Olusegun Obasanjo",
+      "b": "Yakubu Gowon",
+      "c": "Muhammadu Buhari",
+      "d": "Shehu Shagari"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The New Partnership for Africa's Development (NEPAD) was advocated for by Olusegun Obasanjo, who was the President of Nigeria from 1999 to 2007. NEPAD is a socio-economic development tool of the African Union that aims to provide an overarching vision and policy framework for accelerating economic co-operation and integration among African countries.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3504,6 +3600,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1318,
+    "question": "The pre-colonial Tiv society can best be described as",
+    "option": {
+      "a": "republican",
+      "b": "aristocratic",
+      "c": "feudalism",
+      "d": "monarchical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The pre-colonial Tiv society was republican in structure, characterized by a decentralized, egalitarian system without centralized monarchy (D) or hereditary aristocracy (B).",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1326,
     "question": "On the basis of its structure,a political party can be classified as indirect if",
     "option": {
@@ -3760,6 +3872,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1425,
+    "question": "Democracy is a system of government that is",
+    "option": {
+      "a": "constituted by the will of the majority of the citizens",
+      "b": "imposed on the majority of the citizens",
+      "c": " designed to favour the elite",
+      "d": " put in place to favour the party caucus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Democracy is a system of government that is constituted by the will of the majority of the citizens.\n\nIt could also be defined as government in accordance with the principles of popular sovereignty, political equality, popular consultation and majority rule. One of the characteristics of democracy is that all government actions must be open to criticisms and must be according to the decisions, wishes and aspirations of majority of the people.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1428,
     "question": "A political entity that possesses independence is a",
     "option": {
@@ -3772,6 +3900,22 @@
     "image": "",
     "answer": "d",
     "solution": "A political entity that possesses independence is a state.\n\nThe state must posses supreme authority within its territory. It must be independent of any foreign control.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1430,
+    "question": "One advantage of the unitary system over the federal system is the",
+    "option": {
+      "a": "bureaucratic nature",
+      "b": "cost effectiveness",
+      "c": "small membership",
+      "d": "ratification of appointments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "One advantage of the unitary system over Federal System is cost effectiveness. It reduces the cost of running the country. This is because few hands are involved in government.",
     "examtype": "utme",
     "examyear": "2009"
   },
