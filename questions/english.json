@@ -4294,6 +4294,25 @@
     "category": "others"
   },
   {
+    "id": 286,
+    "question": "That little boy has become quite <i>chubby</i>",
+    "option": {
+      "a": "thin    ",
+      "b": " intelligent   ",
+      "c": "huge    ",
+      "d": "tall"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 287,
     "question": "Akpan was able to <i>douse</i> the flames with the new piece of equipment",
     "option": {
@@ -7011,6 +7030,25 @@
     "category": "others"
   },
   {
+    "id": 469,
+    "question": " I have had enough of your <i>impudence</i>",
+    "option": {
+      "a": "politeness ",
+      "b": "incivility ",
+      "c": "arrogance ",
+      "d": "boldness."
+    },
+    "section": "Choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 470,
     "question": "We were <i>collectively</i> responsible for keeping the machine in good shape.",
     "option": {
@@ -9477,6 +9515,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 648,
+    "question": "When Ajike met her ..... husband at the party, she felt like reconciling with him?",
+    "option": {
+      "a": "estranged",
+      "b": "strange",
+      "c": "carring",
+      "d": "loving"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 52,
     "hasPassage": 0,
     "category": "others"
   },
@@ -14303,6 +14360,25 @@
     "examtype": "utme",
     "examyear": "2012",
     "questionNub": 64,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1059,
+    "question": "Her findings <u>exploded</u> widely held beliefs about learning.",
+    "option": {
+      "a": "challenged",
+      "b": "debunked",
+      "c": "projected",
+      "d": "confirmed"
+    },
+    "section": "In each of the questions 51 to 65 choose the option <b>nearest in meaning</b> to the underlined word or phrase.",
+    "image": "",
+    "answer": "b",
+    "solution": "In this context ''exploded '' means to show (a belief or theory) to be false or unfounded.\n\nDebunked; expose the falseness or hollowness of (an idea or belief).",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 65,
     "hasPassage": 0,
     "category": "others"
   },
@@ -21903,6 +21979,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 28,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1641,
+    "question": "A cup of coffee <i>invigorated</i> him",
+    "option": {
+      "a": "destroyed",
+      "b": "energized",
+      "c": "angered",
+      "d": "debilitated"
+    },
+    "section": "For this question, choose the option opposite in meaning to the word or phrase in italics ",
+    "image": "",
+    "answer": "d",
+    "solution": "<i>invigorated</i>  ; give strength or energy to.\ndebilitated; in a very weakened and infirm state.",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 29,
     "hasPassage": 0,
     "category": "others"
   },
