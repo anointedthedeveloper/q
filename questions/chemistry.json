@@ -32,6 +32,22 @@
     "examyear": "2001"
   },
   {
+    "id": 5,
+    "question": "An oxide X02 has a vapour density of 32. What is the atomic mass of X [O = 16]",
+    "option": {
+      "a": "32",
+      "b": "20",
+      "c": "14",
+      "d": "12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 6,
     "question": "Milikan’s contribution to the development of atomic theory is the determination of",
     "option": {
@@ -43,6 +59,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 10,
+    "question": "The pollution from petroleum spillage in rivers and lakes can best be dispersed by",
+    "option": {
+      "a": "Pouring detergents",
+      "b": "Passing of ships through the area",
+      "c": "Pouring organic solvents",
+      "d": "Evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
@@ -480,6 +512,22 @@
     "examyear": "2003"
   },
   {
+    "id": 83,
+    "question": " I.  H = 1s1\nII. O = 1s22s22p4\nIII. N = 1s22s22p3\nIV. Zn = 1s22s22p63s23p64s23d10\nFrom the above, which of the following pairs is likely to be paramagnetic?\n",
+    "option": {
+      "a": "I and II",
+      "b": "I and  III",
+      "c": "I    and IV",
+      "d": "III  and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 87,
     "question": "A consequence of global warming is",
     "option": {
@@ -619,6 +667,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 116,
+    "question": "The formula for ethyl butanoate is",
+    "option": {
+      "a": "C3H7COOC2H5",
+      "b": "C2H5COOC3H7",
+      "c": "C4H9COOC2H5",
+      "d": "C2H5COOC4H9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -928,6 +992,22 @@
     "examyear": "2004"
   },
   {
+    "id": 164,
+    "question": "Which of these reagents can confirm the presence of a triple bond",
+    "option": {
+      "a": "Bromine water",
+      "b": "Acidified KMnO4 ",
+      "c": "Copper (I) chloride",
+      "d": "Bromine gas"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 166,
     "question": "The reaction above is",
     "option": {
@@ -967,6 +1047,22 @@
       "b": "O2(g)",
       "c": "HCI(g)",
       "d": "Cl2(g)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 172,
+    "question": "In a flame test for calcium, the flame appears",
+    "option": {
+      "a": "Blue when viewed through a blue glass",
+      "b": "Green when viewed through a blue glass",
+      "c": "Orange-red when viewed through a blue glass",
+      "d": "Brick-red when viewed through a blue glass"
     },
     "section": "",
     "image": "",
@@ -1104,6 +1200,22 @@
     "examyear": "2005"
   },
   {
+    "id": 199,
+    "question": "The enzyme responsible for converting sucrose into two simple isomeric sugars is",
+    "option": {
+      "a": "Invertase",
+      "b": "Amylase",
+      "c": "Lactose",
+      "d": "Maltase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 203,
     "question": "The solubility curve shows the variation of solute concentration with",
     "option": {
@@ -1127,6 +1239,22 @@
       "b": "SO2N2 and CO2",
       "c": "H2, SO2 and CO2",
       "d": "H2S, CO and N2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 207,
+    "question": "In which of the following reactions can the oxidation number of nitrogen be said to have increased",
+    "option": {
+      "a": "FeSO4(aq)  +  NO(g) →   Fe(NO)SO4(S)",
+      "b": "2NO(g)  +  O2(g) → 2NO2(g)",
+      "c": "NO(g)  +  CI2(g)  → NOCI2(l)",
+      "d": "NO(g)  +  Br2(l)   → NOBr2(l)"
     },
     "section": "",
     "image": "",
@@ -1175,6 +1303,22 @@
       "b": "Not proceed spontaneously at the given temperature",
       "c": "Proceed spontaneously at the given temperature",
       "d": "[proceed in the reverse direction at the given temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 222,
+    "question": "In the electrolysis of CuSO4(aq) using platinum electrodes, the reaction at the anode is",
+    "option": {
+      "a": "4H+  +  4e-  → 2H2",
+      "b": "2OH  +  2OH-  →  2H2O + O2",
+      "c": "2OH-  - 2e-    → 2OH",
+      "d": "4OH-  -  4e- →  2H2O + O2"
     },
     "section": "",
     "image": "",
@@ -1888,6 +2032,22 @@
     "examyear": "2015"
   },
   {
+    "id": 318,
+    "question": "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays",
+    "option": {
+      "a": " are positively charged",
+      "b": "are negatively charged",
+      "c": "Have mass",
+      "d": "travel in straight lines"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "For a shadow to be cast, the rays must travel in straight lines from the source. If they were scattered or bent around the object, a sharp shadow would not be formed.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 320,
     "question": "A suitable reagent for distinguish between ethanoic and ethanol is",
     "option": {
@@ -2012,6 +2172,22 @@
     "image": "",
     "answer": "d",
     "solution": "The third period (Period 3) contains elements with atomic numbers 11–18: Na, Mg, Al, Si, P, S, Cl, and Ar. Option D (Na, Mg, S, Ar) are all correctly in Period 3. The other options contain Period 2 elements (Li, Be, B, C, N, O).",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 348,
+    "question": "A difference between chemical and physical change is that in a chemical change",
+    "option": {
+      "a": "oxygen is consumed",
+      "b": "heat is supplied",
+      "c": "the reversible process occurs",
+      "d": "a new substance is formed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The defining characteristic of a chemical change is that a new substance with different chemical properties is formed. Physical changes alter the form or state of matter without producing a new substance. Options A, B, and C can occur in both types of change.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2608,6 +2784,22 @@
     "examyear": "2017"
   },
   {
+    "id": 451,
+    "question": "Water for town supply is chlorinated to make it free from",
+    "option": {
+      "a": "bad colour",
+      "b": "bacteria",
+      "c": "temporary hardness",
+      "d": "permanent hardness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Chlorination of water for town supply is done to kill bacteria and other harmful microorganisms, making the water safe for drinking. Chlorine is a powerful disinfectant/germicide. It does not remove hardness or colour — those require other treatment processes such as softening or filtration.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 452,
     "question": "Ca(OH)₂(s) + 2NH₄Cl(s) → CaCl₂(s) + 2H₂O(l) + X. In the reaction above, X is",
     "option": {
@@ -3084,6 +3276,22 @@
     "image": "",
     "answer": "c",
     "solution": "In the contact process, SO₃ is absorbed into concentrated H₂SO₄ (not water) to form oleum (H₂S₂O₇), which is then diluted with water. This is because the direct dissolution of SO₃ in water is extremely exothermic and produces a violent, uncontrollable reaction with acid mist formation. Absorbing into concentrated H₂SO₄ is safer and more efficient.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 522,
+    "question": "Elements X and Y have electronic configurations 1s²2s²2p⁴ and 1s²2s²2p⁶3s²3p¹ respectively. When they combine, the formula of the compound formed is",
+    "option": {
+      "a": "XY",
+      "b": "X₂Y",
+      "c": "Y₂X₃",
+      "d": "X₂Y₃"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "X (1s²2s²2p⁴) is oxygen (6 valence electrons, forms O²⁻). Y (1s²2s²2p⁶3s²3p¹) is aluminium (3 valence electrons, forms Al³⁺). To balance charges: 2Al³⁺ + 3O²⁻ → Al₂O₃. In the formula Y₂X₃: Y = Al, X = O, giving Al₂O₃. The formula is Y₂X₃.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -4016,6 +4224,22 @@
     "examyear": "2022"
   },
   {
+    "id": 666,
+    "question": "Electrons enter into orbitals in order of increasing energy as exemplified by?",
+    "option": {
+      "a": "1S²2S²2PX²2py²2pz⁰3s⁰",
+      "b": "1S²2S²2PX²2py¹2pz¹3s⁰",
+      "c": "1S²2S²2PX¹2py¹2pz¹3s¹",
+      "d": "1S²2S²2PX²2py²2pz⁰3s¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Aufbau principle states electrons fill orbitals in order of increasing energy. Hund's rule states that electrons occupy degenerate orbitals (same energy) singly before pairing. Option B shows 1S²2S²2Px²2py¹2pz¹3s⁰, where the 2p electrons are distributed as 2, 1, 1 across the three 2p orbitals before filling the 3s. This correctly follows both the Aufbau principle and Hund's rule for an element with 8 electrons (oxygen).",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 667,
     "question": "Wrought iron is obtained by heating cast iron in a furnace with?",
     "option": {
@@ -4076,6 +4300,22 @@
     "image": "",
     "answer": "c",
     "solution": "Radon (Rn) is the only naturally occurring radioactive noble gas. It is produced as a decay product in the radioactive decay chains of uranium-238 and thorium-232. Radon-222 is the most stable isotope and is a significant health hazard as it can accumulate in buildings and cause lung cancer when inhaled.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 677,
+    "question": "Which of the following reactions would be expected to have the highest entropy change?",
+    "option": {
+      "a": "Liquid → Gas",
+      "b": "Solid → Liquid",
+      "c": "Gas → Liquid",
+      "d": "Gas → Solid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Entropy (S) measures the degree of disorder in a system. The greatest increase in entropy occurs when a substance changes from a more ordered state to a less ordered one. The liquid to gas transition involves the greatest increase in disorder, as gas molecules have far more freedom of movement and randomness than liquid molecules. This change produces the highest positive entropy change (ΔS).",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4144,6 +4384,22 @@
     "examyear": "2023"
   },
   {
+    "id": 684,
+    "question": "What happens to the value of the equilibrium constant (Kc) for a reaction if the reaction is reversed?",
+    "option": {
+      "a": "It becomes zero",
+      "b": "It becomes negative",
+      "c": "It remains the same",
+      "d": "It becomes the reciprocal of the original value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The equilibrium constant Kc is defined as the ratio of product concentrations to reactant concentrations at equilibrium. When a reaction is reversed, products become reactants and vice versa. The Kc for the reversed reaction is therefore 1 divided by the original Kc (its reciprocal). For example, if Kc = 4 for the forward reaction, then Kc = 1/4 = 0.25 for the reverse reaction.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 687,
     "question": "Which trace gas in the atmosphere plays a significant role in the greenhouse effect?",
     "option": {
@@ -4204,6 +4460,22 @@
     "image": "",
     "answer": "c",
     "solution": "Using Boyle's Law: P₁V₁ = P₂V₂ at constant temperature. P₁ = 2 atm; V₁ = 1.5 L; P₂ = 4 atm. V₂ = P₁V₁ ÷ P₂ = (2 × 1.5) ÷ 4 = 3.0 ÷ 4 = 0.75 litres.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 691,
+    "question": "Stainless steel is an alloy made up of?",
+    "option": {
+      "a": "Iron and zinc",
+      "b": "Copper and tin",
+      "c": "Iron and chromium",
+      "d": "Iron and carbon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Stainless steel is an alloy composed primarily of iron and chromium, typically containing at least 10.5% chromium by mass. The chromium forms a thin, invisible oxide layer on the surface that prevents corrosion and staining. Nickel is often also added. Copper and tin form bronze, iron and carbon form ordinary steel, and iron and zinc form galvanised iron.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4512,6 +4784,22 @@
     "examyear": "2024"
   },
   {
+    "id": 739,
+    "question": "For a chemical reaction to be spontaneous, ΔG must be",
+    "option": {
+      "a": "positive",
+      "b": "negative",
+      "c": "zero",
+      "d": "equal to the enthalpy change"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Gibbs free energy change (ΔG) determines spontaneity. A reaction is spontaneous when ΔG < 0 (negative). When ΔG > 0, the reaction is non-spontaneous. When ΔG = 0, the system is at equilibrium. The relationship is ΔG = ΔH − TΔS, where both enthalpy and entropy contributions determine spontaneity.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 742,
     "question": "In the graph above, y represents ",
     "option": {
@@ -4640,6 +4928,38 @@
     "examyear": "2024"
   },
   {
+    "id": 754,
+    "question": "Sulphur(IV)oxide can be used as a",
+    "option": {
+      "a": "coating agent",
+      "b": "dehydrating agent",
+      "c": "refrigerant",
+      "d": "drying agent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Sulphur(IV) oxide (SO₂) is used as a bleaching agent and as a food preservative, but among the given options it acts as a dehydrating agent. SO₂ can absorb water in certain reactions, and concentrated H₂SO₄ produced from SO₂ is a powerful dehydrating agent. SO₂ itself is not a refrigerant or a drying agent in standard classification. Its primary industrial use is in the Contact Process to produce H₂SO₄.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 756,
+    "question": "The composition of petroleum varies because it is a",
+    "option": {
+      "a": "hydrocarbon",
+      "b": "liquid",
+      "c": "mixture",
+      "d": "natural resource"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Petroleum is a mixture of many different hydrocarbons with no fixed composition. Because it is a mixture (not a pure substance), its composition varies from one source to another.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 757,
     "question": "In the table above, the two compounds that will combine in the presence of an acid catalyst to form compound V are",
     "option": {
@@ -4652,6 +4972,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777640735/ALOC-Questions/Chemistry/UTME/2025/Chemistry_2025_Q34_sawho2.png",
     "answer": "a",
     "solution": "Compound V is an ester (RCOOR'). Esters are formed by acid-catalyzed esterification: RCOOH (carboxylic acid = IV) + ROH (alcohol = I) → RCOOR' + H₂O. Therefore compounds I and IV combine to produce compound V.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 760,
+    "question": "The property of metal that makes it suitable as a catalyst is",
+    "option": {
+      "a": "filled f-orbital",
+      "b": "partially filled d-orbitals",
+      "c": "partially filled f-orbital",
+      "d": "filled d-orbital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Transition metals act as catalysts because they have partially filled d-orbitals that allow them to form temporary bonds with reactants, adopt variable oxidation states, and adsorb reactant molecules — all of which lower the activation energy.",
     "examtype": "utme",
     "examyear": "2025"
   },
