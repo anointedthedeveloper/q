@@ -1296,6 +1296,22 @@
     "examyear": "2011"
   },
   {
+    "id": 101,
+    "question": "An object is said to be in simple harmonic motion (SHM) if  ",
+    "option": {
+      "a": "the acceleration is directly proportional to the displacement and is directed towards the equilibrium position of the object. ",
+      "b": "the acceleration is inversely proportional to the displacement and directed toward the equilibrium position  of the object  ",
+      "c": "the displacement is directly proportional  to the momentum  and directed toward the equilibrium position of  the object ",
+      "d": "the momentum is directly proportional to the displacement and directed toward the equilibrium position of the object."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 102,
     "question": "A wheel and axle is used to raise a weight of 600n with an effort of 300n. if the radii of the wheel and axle are 50 cm and 10 cm respectively, what is the efficiency of the system      ",
     "option": {
@@ -5968,6 +5984,22 @@
     "examyear": "2022"
   },
   {
+    "id": 468,
+    "question": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
+    "option": {
+      "a": "formation of hydrogen bubbles on the electrode",
+      "b": "increase in the resistance of the cell",
+      "c": "local action",
+      "d": "polarization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "If the zinc used in the simple cell is of the impure commercial variety bubbles of hydrogen will be seen coming off the zinc. This is called local action.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 469,
     "question": "A cell whose internal resistance is 0.55Ω\n delivers a current of 4 A to an external resistor. The lost voltage of the cell is?",
     "option": {
@@ -7180,6 +7212,22 @@
     "image": "",
     "answer": "d",
     "solution": "A voltameter measures the amount of substance that is deposited during electrolysis, allowing for the study of the electrochemical process. It provides information about the quantity of electric charge passed through the electrolyte and the resulting chemical changes. Voltameter is also called an Electrolytic cell.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 566,
+    "question": "A wheelbarrow inclined at 60º to the horizontal is pushed with a force of 150N. What is the horizontal component of the applied force",
+    "option": {
+      "a": "130N",
+      "b": "75N",
+      "c": " 60N",
+      "d": "50N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nApplied force, F = 150 N\nAngle to the horizontal, θ = 60º\nHorizontal component, Fₓ = ?\n\nSolution:\nStep 1: Resolve force into horizontal component\nThe horizontal component of a force is given by:\nFₓ = F cos θ\nStep 2: Substitute the known values\nFₓ = 150 × cos 60º\nFₓ = 150 × 0.5\nStep 3: Calculate horizontal component\nFₓ = 75 N",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -9184,6 +9232,22 @@
     "examyear": "2006"
   },
   {
+    "id": 720,
+    "question": "If the radius of the Earth is 6.4 × 10⁶ m, the escape velocity of a satellite from the Earth is?\n[g = 10 m s⁻²]",
+    "option": {
+      "a": "1.13 × 10⁴ m s⁻¹",
+      "b": "9.00 × 10³ m s⁻¹",
+      "c": "8.00 × 10³ m s⁻¹",
+      "d": "1.27 × 10⁴ m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nEarth’s radius, R = 6.4 × 10⁶ m\nAcceleration due to gravity at Earth’s surface, g = 10 m s⁻²\n\nSolution:\n\nStep 1: Formula for escape velocity\nEscape velocity, v_esc = √(2gR)\n\nStep 2: Substitute values\n2gR = 2 × 10 m s⁻² × 6.4 × 10⁶ m = 1.28 × 10⁸ m² s⁻²\n\nStep 3: Take square root\nv_esc = √(1.28 × 10⁸) = √1.28 × 10⁴\n√1.28 ≈ 1.13137, so\nv_esc ≈ 1.13137 × 10⁴ m s⁻¹ ≈ 1.13 × 10⁴ m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 721,
     "question": "The component of vector X along the direction of vector Y is zero when",
     "option": {
@@ -10668,6 +10732,22 @@
     "image": "",
     "answer": "b",
     "solution": "\nGiven information:\n\nFocal length (f) = +12 cm (positive for convex lens)\nMagnification (m) = -4 (negative because real images are inverted)\nObject distance (u) = ?\n\nStep 1: Use magnification formula\nm = v/u\n-4 = v/u\nv = -4u\n(Note: v is negative for real images in sign convention where object distance is negative)\nActually, using the proper sign convention where object is on left:\n\nu = -|u| (negative, object on left)\nv = +|v| (positive, real image on right)\nm = -v/u = -4\n\nSo: -v/u = -4\nv = 4u (in magnitude)\nStep 2: Use lens formula\n1/f = 1/v - 1/u\nUsing sign convention (u negative, v positive, f positive):\n1/12 = 1/v - 1/(-u)\n1/12 = 1/v + 1/u\nSince v = 4u:\n1/12 = 1/(4u) + 1/u\n1/12 = 1/(4u) + 4/(4u)\n1/12 = 5/(4u)\n4u = 60\nu = 15 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 845,
+    "question": "Find the effective resistance in the diagram above",
+    "option": {
+      "a": "6 Ω",
+      "b": "12 Ω",
+      "c": "18 Ω",
+      "d": "24 Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432627/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_46_evqu3p.png",
+    "answer": "d",
+    "solution": "The resistors are in series\n∴ Reff = R1 + R2 + .....\n= 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -12268,6 +12348,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nGiven information:\n\nPower (P) = 30 W\nTemperature rise (ΔT) = 10°C = 10 K\nTime (t) = 5 minutes = 5 × 60 = 300 seconds\nHeat capacity (C) = ?\n\nStep 1: Calculate total heat energy supplied\nEnergy = Power × Time\nQ = P × t\nQ = 30 × 300\nQ = 9000 J\nStep 2: Calculate heat capacity\nHeat capacity is the heat required to raise the temperature by 1K:\nQ = CΔT\nRearranging for C:\nC = Q/ΔT\nSubstituting values:\nC = 9000/10\nC = 900 JK⁻¹",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 970,
+    "question": "Steam burn is more severe than that of boiling water because",
+    "option": {
+      "a": "steam burn is independent of relative humidity",
+      "b": "steam possesses greater heat energy per unit mass",
+      "c": "water boils at a higher temperature",
+      "d": " steam burn is dependent on relative humidity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Steam burns are more severe than boiling water burns because steam possesses greater heat energy per unit mass. When steam condenses on the skin, it releases approximately 2260 kJ/kg of latent heat (in addition to the sensible heat from cooling), whereas boiling water only releases sensible heat as it cools.\nNumerical example:\n\n1 kg of steam at 100°C releases ~2260 kJ when condensing + heat from cooling\n1 kg of water at 100°C releases only ~420 kJ cooling from 100°C to body temperature\nSteam delivers more than 5 times the energy!",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -14460,6 +14556,22 @@
     "image": "",
     "answer": "a",
     "solution": "(Air is a poor conductor ~0.025 W/mK; water ~0.6, glass ~1, ash varies but is higher.)\n\nAir is a poor conductor of heat compared to solids and liquids like ash, glass, and water, making it a good insulator.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1142,
+    "question": "5400 kJ of heat energy was lost when some amount of steam condensed to water for drinking purposes at 15 °C. What is the quantity of water collected?\n[L = 2.26 × 10⁶ J kg⁻¹, c_w = 4200 J kg⁻¹ K⁻¹]",
+    "option": {
+      "a": "0.95 kg",
+      "b": "8.24 kg",
+      "c": "1.84 kg",
+      "d": " 2.06 kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nTotal heat lost, Q_total = 5400 kJ = 5.4 × 10⁶ J\nSteam condenses to water at 100 °C, then the water cools to 15 °C.\nLatent heat of vaporization, L = 2.26 × 10⁶ J kg⁻¹\nSpecific heat capacity of water, c_w = 4200 J kg⁻¹ K⁻¹\nInitial temperature of condensed water = 100 °C\nFinal temperature of water collected = 15 °C\nTemperature change during cooling, Δθ = 100 – 15 = 85 °C = 85 K\n\nSolution:\n\nStep 1: Heat lost in two stages\nFor mass m of steam:\nHeat lost during condensation = m × L\nHeat lost during cooling of condensed water from 100 °C to 15 °C = m × c_w × Δθ\nTotal heat lost = m × L + m × c_w × Δθ = m (L + c_w Δθ)\n\nStep 2: Substitute values\nL + c_w Δθ = 2.26 × 10⁶ + (4200 × 85)\n4200 × 85 = 357 000 = 3.57 × 10⁵\nTotal = 2.26 × 10⁶ + 0.357 × 10⁶ = 2.617 × 10⁶ J kg⁻¹\n\nStep 3: Solve for m\nQ_total = m × 2.617 × 10⁶\n5.4 × 10⁶ = m × 2.617 × 10⁶\nm = 5.4 / 2.617 ≈ 2.063 kg",
     "examtype": "utme",
     "examyear": "2025"
   },
