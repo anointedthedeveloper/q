@@ -3408,6 +3408,22 @@
     "examyear": "2016"
   },
   {
+    "id": 221,
+    "question": "If the magnification of a virtual image formed by an object 10cm from a convex less is 3, then the focal length of the lens is",
+    "option": {
+      "a": "10cm",
+      "b": "20cm",
+      "c": "25cm",
+      "d": "15cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nObject distance (u) = 10 cm\nMagnification (m) = 3 (virtual image, so positive)\nFocal length (f) = ?\n\nFormula for magnification:\nm = v/u\nwhere v = image distance\nFinding image distance:\n3 = v/10\nv = 30 cm\nFor virtual image from convex lens:\nv is negative (virtual image on same side as object)\nv = -30 cm\nUsing lens formula:\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-30) - 1/(-10)\n1/f = -1/30 + 1/10\n1/f = -1/30 + 3/30\n1/f = 2/30\n1/f = 1/15\nTherefore:\nf = 15 cm",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 222,
     "question": "In the diagram above, which of the following velocity-time graphs shows uniform acceleration of a body from rest?",
     "option": {
@@ -8924,6 +8940,22 @@
     "image": "",
     "answer": "d",
     "solution": "A liquid-in-glass thermometer operates on the principle that liquids (like mercury or alcohol) expand and contract with temperature changes. This change in volume of the liquid causes it to rise or fall in a calibrated glass tube, allowing temperature measurement.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 581,
+    "question": "In a series resonant circuit, the current flowing in the circuit is ",
+    "option": {
+      "a": "maximum",
+      "b": "minimum",
+      "c": "zero",
+      "d": "unaffected"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "At resonance, the circuit's impedance is at its lowest (equal to the resistance), which results in the highest current flow. This condition is achieved when the inductive reactance and capacitive reactance are equal, causing them to cancel each other out.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -16252,6 +16284,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nVelocity at 0 °C, v₀ = 340 m s⁻¹\nTemperature T₁ = 0 °C = 273 K\nTemperature T₂ = 100 °C = 373 K\n\nSolution:\n\nStep 1: Relationship between velocity and absolute temperature\nFor sound in air, velocity v ∝ √T, where T is absolute temperature.\nThus, v₂ / v₁ = √(T₂ / T₁)\n\nStep 2: Substitute values\nv₂ / 340 = √(373 / 273)\n\nStep 3: Calculate the ratio\n373 / 273 ≈ 1.3663\n√1.3663 ≈ 1.169\n\nStep 4: Compute v₂\nv₂ = 340 × 1.169 ≈ 397.5 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1062,
+    "question": "If a sonometer has a fundamental frequency of 450HZ, what is the frequency of the fifth overtone?",
+    "option": {
+      "a": " 2700Hz",
+      "b": "456Hz",
+      "c": "444Hz",
+      "d": "75Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nFundamental frequency (first harmonic), f₁ = 450 Hz\nOvertone requested: fifth overtone\n\nSolution:\n\nStep 1: Understand harmonics and overtones\nFor a string fixed at both ends (sonometer wire), the natural frequencies are integer multiples of the fundamental:\nfₙ = n × f₁, where n = 1, 2, 3, ...\n\nFundamental (1st harmonic) = f₁\n\n1st overtone = 2nd harmonic = 2f₁\n\n2nd overtone = 3rd harmonic = 3f₁\n\n3rd overtone = 4th harmonic = 4f₁\n\n4th overtone = 5th harmonic = 5f₁\n\n5th overtone = 6th harmonic = 6f₁\n\nStep 2: Calculate the fifth overtone\nfifth overtone = 6 × f₁ = 6 × 450 Hz = 2700 Hz",
     "examtype": "utme",
     "examyear": "2013"
   },
