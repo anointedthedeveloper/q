@@ -112,6 +112,22 @@
     "examyear": "2001"
   },
   {
+    "id": 42,
+    "question": "Which of the following metals burns brick with a brick-red",
+    "option": {
+      "a": "Pb",
+      "b": "Ca",
+      "c": "Na",
+      "d": "Ma"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 44,
     "question": "When sodium reacts with water, the resulting solution is",
     "option": {
@@ -135,6 +151,22 @@
       "b": "820C – 840C",
       "c": "600C – 780C",
       "d": "700C – 744C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 54,
+    "question": "The furring of kettles is caused by the presence in water of",
+    "option": {
+      "a": "Calcium trioxocarbonate(IV)",
+      "b": "Calcium tetraoxosulphate(VI)",
+      "c": "CALCIUM HYDROXIDE",
+      "d": "Calcium hydrofentrioxocarbonate(IV)"
     },
     "section": "",
     "image": "",
@@ -288,6 +320,22 @@
     "examyear": "2003"
   },
   {
+    "id": 94,
+    "question": "A charge in the temperature of a saturated solution disturbs the equilibrium between the",
+    "option": {
+      "a": "Dissolved solute and the solvent",
+      "b": "Solvent and the undissolved solute",
+      "c": "Dissolved solute and the undissolved solute",
+      "d": "Dissolved solute and the solution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 105,
     "question": "Metals of the first transition series have special proper ties which are different from those of groups I and II elements because they have partially filled",
     "option": {
@@ -331,6 +379,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 115,
+    "question": "The leachate of a certain plant ash is used in local soap making because it contains",
+    "option": {
+      "a": "Sodium chloride and potassium hydroxide",
+      "b": "Sodium hydroxide",
+      "c": "Potassium hydroxide",
+      "d": "Soluble carbonates and hydrogen carbonates"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -1584,6 +1648,22 @@
     "examyear": "2017"
   },
   {
+    "id": 413,
+    "question": "In the laboratory preparation of ethyl ethanoate, the water present in the mixture is removed using",
+    "option": {
+      "a": "Anhydrous CaCl₂",
+      "b": "Concentrated NaCO₃",
+      "c": "Dilute NaOH",
+      "d": "Concentrated H₂SO₄"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In the preparation of ethyl ethanoate (ester), concentrated H₂SO₄ serves a dual role: it acts as both the catalyst for the esterification reaction and as a dehydrating agent to remove water produced, driving the equilibrium toward ester formation. Anhydrous CaCl₂ is not used as it can complex with the ester.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 427,
     "question": "The mass of silver deposited when a current of 10 A is passed through a solution of silver salt for 4830 s is [Ag = 108, F = 96500 C mol⁻¹]",
     "option": {
@@ -1900,6 +1980,22 @@
     "image": "",
     "answer": "d",
     "solution": "Alkaline pyrogallol absorbs O₂ from air. Quicklime (CaO) absorbs CO₂ and water vapour: CaO + CO₂ → CaCO₃; CaO + H₂O → Ca(OH)₂. After these treatments, only nitrogen (unreactive, not absorbed) and the rare gases (noble gases, chemically inert) remain.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 497,
+    "question": "2KClO₃(s) → 2KCl(s) + 3O₂(g). The importance of the catalyst in the reaction above is that",
+    "option": {
+      "a": "heating may not be required before the reaction takes place",
+      "b": "the reaction is controllable even at a high temperature",
+      "c": "the reaction produces large quantity of oxygen",
+      "d": "the reaction takes place more rapidly at a lower temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "MnO₂ catalyst lowers the activation energy of the decomposition of KClO₃. This means the reaction proceeds more rapidly at a lower temperature than it would without the catalyst. The catalyst does not change the amount of O₂ produced (yield), only the rate and the temperature at which the reaction becomes feasible.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2428,6 +2524,22 @@
     "image": "",
     "answer": "c",
     "solution": "Metallurgy is the science and technology of extracting metals from their ores, purifying them, and preparing them for use. It involves processes such as concentration of ore, reduction, smelting, and refining. Extraction refers to a single step, mining involves digging up ore, and prospecting involves searching for ore deposits.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 630,
+    "question": "One of the following is not a physical property of monosaccharides?",
+    "option": {
+      "a": "Monosaccharides get charred when heated",
+      "b": "Monosaccharides are water-soluble, sweet substances",
+      "c": "They are highly vital to the exploration of metals",
+      "d": "They can be reduced to sugar alcohols"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Physical properties of monosaccharides include solubility in water, sweet taste, ability to char on heating, and reducibility to sugar alcohols (polyols). Being vital to the exploration of metals has no connection to monosaccharides and is not a physical property of them. This is the option that does not describe a property of monosaccharides.",
     "examtype": "utme",
     "examyear": "2021"
   },
