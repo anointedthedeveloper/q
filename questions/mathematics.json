@@ -5712,6 +5712,22 @@
     "examyear": "2009"
   },
   {
+    "id": 548,
+    "question": "Find the radius of a sphere whose surface area is 154 cm<sup>2</sup>?",
+    "option": {
+      "a": " 7.00 cm",
+      "b": "3.50 cm",
+      "c": " 3.00 cm",
+      "d": "1.75 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "154 = 4 x\t22/7 x  r<sup>2</sup>\n154 x 7r<sup>2</sup>\n4 x 22\n \n√ 49/4  = r                          \n7/2 = r2\n\n∴ r = 3.50",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 549,
     "question": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)?",
     "option": {
