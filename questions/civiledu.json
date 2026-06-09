@@ -448,6 +448,22 @@
     "examyear": "2014"
   },
   {
+    "id": 47,
+    "question": "Which of the following is not a function of the Independent National Electoral Commission (INEC)?",
+    "option": {
+      "a": "Administering oath of office to elected officers",
+      "b": "Conducting periodic elections",
+      "c": "Recruitment of electoral officers.",
+      "d": "Registration of political parties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 51,
     "question": "A representative of a commonwealth country in another member state is known as a / an.",
     "option": {
@@ -2592,6 +2608,22 @@
     "examyear": "2013"
   },
   {
+    "id": 284,
+    "question": "Government is the machinery established to manage the affairs of",
+    "option": {
+      "a": "the state",
+      "b": "the civil service",
+      "c": "peasants and students",
+      "d": "strangers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 286,
     "question": "The Ebola disease is usually acquired when a person comes in contact with",
     "option": {
@@ -3168,6 +3200,22 @@
     "examyear": "2016"
   },
   {
+    "id": 353,
+    "question": "Naturalized citizens cannot be denied their legal status as members of a country unless if they",
+    "option": {
+      "a": "are jailed for one year within seven years of acquiring citizenship",
+      "b": "are found guilty to be spies or secret agents for another country",
+      "c": "refuse to represent the country in an international sporting event",
+      "d": "give adequate information to the host country"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
     "id": 359,
     "question": "The effect of human trafficking on the victims is",
     "option": {
@@ -3211,6 +3259,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
+    "id": 362,
+    "question": "A major factor responsible for human trafficking is",
+    "option": {
+      "a": "hunger",
+      "b": "illiteracy",
+      "c": "greed",
+      "d": "joblessness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2016"
@@ -3755,6 +3819,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 415,
+    "question": "A very important segment of the society which is distinct from government, business and home is the",
+    "option": {
+      "a": "civil society",
+      "b": "public service",
+      "c": "mass media",
+      "d": "traditional institution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
