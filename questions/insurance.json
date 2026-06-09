@@ -1488,6 +1488,22 @@
     "examyear": "2"
   },
   {
+    "id": 104,
+    "question": "The term pooling of risks in insurance means that",
+    "option": {
+      "a": "Many who face risks pay premium so that those who suffer loss may be reimbursed",
+      "b": "Insurance companies share heavy losses",
+      "c": "Insurance company re-assures with another",
+      "d": "Insurance companies operates pool betting business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 105,
     "question": "Which of the following is not a principle of insurance?",
     "option": {
@@ -2107,6 +2123,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 147,
+    "question": "An insurance cover for lawyers, accountants and brokers is",
+    "option": {
+      "a": "Employment",
+      "b": "Professional",
+      "c": "Public",
+      "d": "Product"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -3088,6 +3120,22 @@
     "examyear": "4"
   },
   {
+    "id": 216,
+    "question": "With assurance contract there is",
+    "option": {
+      "a": "uncertainly of reward",
+      "b": "certainty of reward",
+      "c": "certainty of occurrence",
+      "d": "uncertainty of occurrence"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 217,
     "question": "Indemnity is not applicable in",
     "option": {
@@ -3520,6 +3568,22 @@
     "examyear": "4"
   },
   {
+    "id": 249,
+    "question": "The deliberate throwing overboard of part of a cargo to lighten the ship is called",
+    "option": {
+      "a": "barratry",
+      "b": "overthrown",
+      "c": "voyaging",
+      "d": "jettisoning"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 250,
     "question": "The deliberate throwing overboard of part of a cargo without a good intention is called",
     "option": {
@@ -3563,6 +3627,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 253,
+    "question": "Payment by the insurer to the insured out of sympathy is known as",
+    "option": {
+      "a": "utmost good faith",
+      "b": "proximate cause",
+      "c": "peril",
+      "d": "ex-gratia payment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
@@ -3975,6 +4055,22 @@
       "b": "premium",
       "c": "claim",
       "d": "dividend"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 284,
+    "question": "Return premium is the same thing as",
+    "option": {
+      "a": "premium payment",
+      "b": "premium refund",
+      "c": "premium tax",
+      "d": "premium bonus"
     },
     "section": "",
     "image": "",
