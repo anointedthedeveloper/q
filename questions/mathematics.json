@@ -752,6 +752,22 @@
     "examyear": "2000"
   },
   {
+    "id": 106,
+    "question": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5 ",
+    "option": {
+      "a": "16",
+      "b": "14",
+      "c": "12",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Range = Highest - lowest number => 10-4 = 6\nMode is the number with highest occurrence => Mode = 10\n\nSum = 6 + 10 = 16",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 108,
     "question": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)? ",
     "option": {
@@ -828,6 +844,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710691965/ALOC-Questions/Mathematics/2000/question-43_ptovoz.jpg",
     "answer": "b",
     "solution": "△OEN = △OGN\n\nOE = OG = r(radii)\n\n(r - 8)<sup>2</sup> + 12<sup>2</sup> = r<sup>2</sup>\n\nr<sup>2</sup> - 16r + 64 + 144 = r<sup>2</sup>\n\n16r = 64 + 144 = r<sup>2</sup>\n\n16r = 64 + 144 = 208\n\n208/16 = 13cm\n\nFH = 2FO = 2OH = 2R\n\n= 2 x 13cm\n\n= 26cm",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 115,
+    "question": "If the diagram is the graph of y = x<sup>2</sup>, the shaded area is",
+    "option": {
+      "a": " 64 square units",
+      "b": "126/4 square units",
+      "c": "32 square units",
+      "d": "64/3 square units"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710692111/ALOC-Questions/Mathematics/2000/question-44_oul7ru.jpg",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -1820,6 +1852,22 @@
     "image": "",
     "answer": "b",
     "solution": "Convert to base 10, divide and then re-convert to base 5.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 232,
+    "question": "Given:\nU = {Even numbers between 0 and 30}\nP = {Multiples of 6 between 0 and 30}\nQ = {Multiples of 4 between 0 and 30}\nFind (P∪Q)<sup>c</sup>",
+    "option": {
+      "a": "{2, 10, 14, 22, 26}",
+      "b": "{0, 10, 14, 22, 26}",
+      "c": "{2,4, 14, 18, 26}",
+      "d": "{0, 2, 6, 22, 26}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "U = {2,4,6,8,10,12,14,16,18,20,22,24,26,28,30}\nP = {6,12,18,24,30}\nQ = {4,8,12,16,20,24,28}\nP∪Q = {4,6,8,12,16,18,20,24,28,30}\n(P∪Q)c = {2,10,14,22,26}",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -3264,6 +3312,22 @@
     "examyear": "2006"
   },
   {
+    "id": 411,
+    "question": "Solve the inequalities for which \n \n (x + 4)/(3) - (x -3)/(2)  < 4",
+    "option": {
+      "a": "x < 7",
+      "b": "x > -7",
+      "c": "x < -7",
+      "d": "x > 7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(x+4)/3-(x-3)/2<4 ((2(x+4))-(3(x-3)))/6<4  2(x+4) – 3(x-3) < 4 x 6\n2x + 8 – 3x+9 < 24\n-x + 17 < 24\n-x < 24 – 17\n-x < 7\nX > -7 \n\n\t\n \n \n \n2(x+4) – 3(x-3) < 4 x 6\n2x + 8 – 3x+9 < 24\n-x + 17 < 24\n-x < 24 – 17\n-x < 7\nX > -7",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 412,
     "question": "THe cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room?",
     "option": {
@@ -3292,6 +3356,22 @@
     "image": "",
     "answer": "d",
     "solution": "Let the positive integers be 1, 2, ,3, 4, .....n\n∴ a = 1, d = 1 and n = n\nSn = n/2(2a + (n-1)d)\n= n/2 (2 + n – 1)\n= 1/2n(n + 1)",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 420,
+    "question": "The response of 160 pupils in a school asked to indicate their favourite subjects is given in the bar chart above. What percentage of the pupils have English and Health education as the their favourite subjects?",
+    "option": {
+      "a": "55%",
+      "b": "52%",
+      "c": "36%",
+      "d": "22%"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542849/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q49_jljlgj.jpg",
+    "answer": "a",
+    "solution": "English = 52 students\n\nHealth education = 36 students\n\nTotal = 88 students\n\n= 88/160×100\n= 55%",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -3692,6 +3772,22 @@
     "image": "",
     "answer": "b",
     "solution": "Each Exterior ∠ = 360/n\n= 360/8\n= 45°",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 466,
+    "question": "The area of a square is 144 sqcm. Find the length of the diagonal.",
+    "option": {
+      "a": " 13 cm",
+      "b": "12√2 cm",
+      "c": "12 cm",
+      "d": "11√3 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545145/ALOC-Questions/Mathematics/2007/JAMB_2007_Q45_solution_usiv1t.jpg",
+    "answer": "b",
+    "solution": "Area of a square = x * x\n144 = x2\n√144 = x\n12 = x\nBut d2 = 122 + 122\n= 144 + 144\n= 288\nd = √288\n= √144 x 2\n= 12√2",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -4752,6 +4848,22 @@
     "examyear": "2010"
   },
   {
+    "id": 611,
+    "question": "Find the distance between the points (1/2, 1/2) and (-1/2, -1/2).",
+    "option": {
+      "a": "1",
+      "b": "0",
+      "c": "√3",
+      "d": "√2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let D denote the distance between (1/2, -1/2) then using                                                         D = √((x<sub>2</sub>-x<sub>1</sub> )<sup>2</sup>+(y<sub>2</sub>-y<sub>1</sub> )<sup>2</sup> ) = √((-1/2-1/2 )<sup>2</sup> + (-1/2-1/2 )<sup>2</sup> ) = √((-1)<sup>2</sup>+(-1)<sup>2</sup> ) = √(1+1) = √2",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 612,
     "question": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5).",
     "option": {
@@ -5052,6 +5164,38 @@
     "image": "",
     "answer": "b",
     "solution": "2y = 5x + 4 (4, 2)\n\ny = 5x/2 + 4 comparing with\n\ny = mx + e\n\nm = 5/2\n\n\nSince they are perpendicular\n\nm<sub>1</sub>m<sub>2</sub> = -1\n\nm<sub>2</sub> = −1/m<sub>1</sub> = -1\n\n5/2 = -1 x 2/5\n\n\nThe equator of the line is thus\n\ny = mn + c (4, 2)\n\n2 = -2/5(4) + c\n\n2/1 + 8/5 = c\n\nc = 18/5\ny = -2/5x + 18/5\n5y = -2x + 18\n\nor 5y + 2x - 18 = 0",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 651,
+    "question": "In a right angled triangle, if tan θ = 3/4. What is cosθ\n - sinθ?",
+    "option": {
+      "a": "2/3",
+      "b": "3/5",
+      "c": "1/5",
+      "d": "4/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "tanθ = 3/4\n\n\nfrom Pythagoras tippet, the hypotenus is T\n\ni.e. 3, 4, 5.\n\nthen sin θ = 3/5 and cosθ = 4/5\n\n\ncosθ - sinθ\n\n4/5 - 3/5 = 1/5",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 652,
+    "question": "A man walks 100 m due West from a point X to Y, he then walks 100 m due North to a point Z. Find the bearing of X from Z.",
+    "option": {
+      "a": " 195°",
+      "b": "135°",
+      "c": "225°",
+      "d": "045°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "tanθ = 100/100 = 1\n\nθ = tan<sup>-1</sup>(1) = 45°\n\nThe bearing of x from z is N45oE or 135°",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -5872,6 +6016,22 @@
     "examyear": "2013"
   },
   {
+    "id": 806,
+    "question": "If the angles of a quadrilateral are (3y + 10)°, (2y + 30)°, (y + 20)° and 4y°. Find the value of y.",
+    "option": {
+      "a": " 66°",
+      "b": "12°",
+      "c": "30°",
+      "d": " 42°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Sum of angles in a quadrilateral = 360°\n\n∴\n (3y + 10) + (2y + 30) + (y + 20) + 4y = 360\n\n10y + 60 = 360 ⟹\n 10y = 300\n\ny = 30° ",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 807,
     "question": "A square tile has side 30 cm. How many of these tiles will cover a rectangular floor of length 7.2m and width 4.2m?",
     "option": {
@@ -6240,6 +6400,22 @@
     "examyear": "2016"
   },
   {
+    "id": 853,
+    "question": "Simplify 1 - (1/7 x 3(1/2) ÷\n 3/4",
+    "option": {
+      "a": "2",
+      "b": "1/3",
+      "c": "1",
+      "d": "2/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "1 - (1/7 x 3(1/2) ÷ 3/4\n\n\n1 - (1/7 x 7/2) x 4/3\n\n\n1 - 1/2 x 4/3\n\n\n1 - 2/3 = 1/3",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 854,
     "question": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km?",
     "option": {
@@ -6252,6 +6428,22 @@
     "image": "",
     "answer": "c",
     "solution": "120km → 45litres\n1km → 45/120litres\n600km → 45/120 x 600 =225litres",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 855,
+    "question": "Find dy/dx. If y = 3x<sup>3</sup> + 2x<sup>2</sup> + 3x + 1",
+    "option": {
+      "a": "9x<sup>2</sup>  + 4x + 3",
+      "b": "9x<sup>2</sup>  - 4x - 3",
+      "c": "9x<sup>2</sup>  + 4x - 3",
+      "d": " 9x<sup>2</sup>  - 4x + 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "y = 3x<sup>3</sup>  + 2x<sup>2</sup>  + 3x + 1\ndy/dx = 9x<sup>2</sup>  + 4x + 3",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -8892,6 +9084,38 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007869/ALOC-Questions/Mathematics/2023/MATH_2023_Q32_qhpmgj.jpg",
     "answer": "a",
     "solution": "(N + 1)/2  = (107 + 1)/2 th = 54th value i.e the median age is in the interval \"7 - 8\" (29 + 25 = 54)?\n\nMedian = 1<sub>m</sub> + (((∑f)/2 − f<sub>b</sub>) /f<sub>m</sub> )c\n\nl<sub>m</sub>= lower class boundary of the median age = 6.5\n\n∑f = 107\n\nf<sub>b</sub> = sum of all frequencies before the median age = 29\n\nf<sub>m</sub> = frequency of the median age = 40\n\nc = class width = 8.5 - 6.5 = 2\n\nMedian = 6.5 + (((107/2) − 29)/40) x 2\n\n= 6.5 + ((53.5 − 29)/40) x 2\n\n= 6.5 + (24.5/40) x 2\n\n= 6.5 + 1.225\n\n∴\n median age = 7.725\n",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1169,
+    "question": "Find the matrix A",
+    "option": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>[</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>0</mn>\n        </mtd>\n        <mtd>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>]</mo>\n  </mrow>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007996/ALOC-Questions/Mathematics/2023/Screenshot_2024-08-18_at_8.06.28_PM_nw7cet.png",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1170,
+    "question": "How many students scored at least 25%",
+    "option": {
+      "a": "16",
+      "b": "19",
+      "c": " 3",
+      "d": " 8"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008016/ALOC-Questions/Mathematics/2023/MATH_2023_Q34_sissn4.jpg",
+    "answer": "a",
+    "solution": "Number of students who scored atleast 25% = 5 + 3 + 8 = 16",
     "examtype": "utme",
     "examyear": "2023"
   },
