@@ -912,6 +912,22 @@
     "examyear": "2009"
   },
   {
+    "id": 64,
+    "question": "A train has an initial velocity of 44m/s and an acceleration of -4m/s2 what is its velocity after 10seconds? ",
+    "option": {
+      "a": "2m/s ",
+      "b": "4m/s ",
+      "c": "8m/s ",
+      "d": "12m/s "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 65,
     "question": "A man of mass 50kg ascends a flight of stair 5m high in 5 seconds. If acceleration due to gravity is 10ms-2 the power expanded is ",
     "option": {
@@ -2460,6 +2476,22 @@
     "image": "",
     "answer": "c",
     "solution": "The symbol ₋₁⁰X shows:\n\n0 (top) = mass number (electrons have negligible mass)\n-1 (bottom) = charge (electrons are negatively charged)\n\nAnswer: C. Electrons\nElectrons have zero mass and a charge of -1, which matches the symbol ₋₁⁰X.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 170,
+    "question": "A radioactive source emits X–rays of very short wavelength (10⁻¹³ m ). What is the frequency of these rays?",
+    "option": {
+      "a": "2 × 10¹⁸ Hz",
+      "b": "3 × 10¹⁹ Hz",
+      "c": "3 × 10²¹ Hz",
+      "d": "3 × 10⁻¹⁹ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nWavelength (λ) = 10⁻¹³ m\nSpeed of light (c) = 3 × 10⁸ m/s\nFrequency (f) = ?\n\nFormula:\nc = fλ\nRearranging to find f:\nf = c/λ\nSubstituting values:\nf = (3 × 10⁸)/(10⁻¹³)\nf = 3 × 10⁸ × 10¹³\nf = 3 × 10²¹ Hz\nAnswer: C. 3 × 10²¹ Hz\nThe frequency of the X-rays is 3 × 10²¹ Hertz.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -7164,6 +7196,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nMass, m = 1600 kg\nFinal velocity, v = 25 m/s\nInitial velocity, u = 0 m/s\nTime, t = 20 s\nPower, P = ?\n\nSolution:\nStep 1: Calculate acceleration\na = (v - u)/t\na = (25 - 0)/20\na = 1.25 m/s²\nStep 2: Calculate force\nF = ma\nF = 1600 × 1.25\nF = 2000 N\nStep 3: Calculate power\nPower = Force × velocity\nP = F × v\nP = 2000 × 25\nP = 50,000 W\nP = 50 kW",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 495,
+    "question": "The main factor which affects the speed of sound wave is the?",
+    "option": {
+      "a": "properties of the medium",
+      "b": " amplitude of the sound wave",
+      "c": " intensity of the sound wave",
+      "d": "loudness of the sound wave"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sound speed depends entirely on the physical properties of the medium through which it travels (elasticity, density, temperature). Amplitude, intensity, and loudness only affect the energy and perceived volume of the sound, not its propagation speed.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -12460,6 +12508,22 @@
     "image": "",
     "answer": "d",
     "solution": "A pyrometer is instrument for measuring high temperature.\nThe optical pyrometer is one in which the luminous radiation from the hot body is compared with that from a known source.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 861,
+    "question": "At 4°C, the volume of a fixed mass of water is?",
+    "option": {
+      "a": "constant",
+      "b": "minimum",
+      "c": "maximum",
+      "d": "zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Recall the property of water at 4°C\nWater has its maximum density at 4°C. For a fixed mass, density and volume are inversely related (ρ = m/V). Therefore, when density is maximum, volume is minimum.\n\nStep 2: At 4°C, density of water is maximum → volume is minimum.",
     "examtype": "utme",
     "examyear": "2009"
   },
