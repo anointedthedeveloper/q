@@ -1,5 +1,24 @@
 [
   {
+    "id": 1,
+    "question": " He put…………..  eggs in a basket.",
+    "option": {
+      "a": "white dozen eggs ",
+      "b": "a dozen white eggs  ",
+      "c": " a white dozen eggs ",
+      "d": "dozen white"
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 14,
     "question": "  It is bad to take………… property without permission. ",
     "option": {
@@ -855,6 +874,25 @@
     "category": "others"
   },
   {
+    "id": 402,
+    "question": "I find the way she approaches her customers quite <i>repugnant</i> ",
+    "option": {
+      "a": "unpleasant   ",
+      "b": "attractive. ",
+      "c": "ungodly    ",
+      "d": "encouraging"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 408,
     "question": "The  man would not <i>withdraw</i>  what hi hid ",
     "option": {
@@ -1349,6 +1387,44 @@
     "category": "others"
   },
   {
+    "id": 691,
+    "question": "The professor discussed a number of <u>abstruse</u> topics?",
+    "option": {
+      "a": "esoteric",
+      "b": "relevant",
+      "c": "irrelevant",
+      "d": "useful"
+    },
+    "section": "<b>In each of questions 86 to 100 choose from the options nearest in meaning to the word underlined.</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 95,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 722,
+    "question": "b<u>oa</u>t?",
+    "option": {
+      "a": "board",
+      "b": "bought",
+      "c": "go",
+      "d": "glory"
+    },
+    "section": "<b>LEXIS, STRUCTURE AND ORALFORMS</b> In each of the question 26 to 30 Choose the option that has the same vowel sound as the one represented by the letters underlined.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "boat; /bəʊt/                                                       go; /ɡəʊ/",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 26,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 730,
     "question": "HONOUR?",
     "option": {
@@ -1672,6 +1748,25 @@
     "category": "others"
   },
   {
+    "id": 1040,
+    "question": "The economist concluded that several factors have been <u>adduced</u> to explain the fall in the birth rate.",
+    "option": {
+      "a": "affirmed",
+      "b": "diffused",
+      "c": "mentioned",
+      "d": "refuted"
+    },
+    "section": "In each of the questions 36 to 50 choose the option <b>opposite</b> in meaning to the underlined word or phrase.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "Adduced; cite as evidence. To offer as example, reason, or proof in discussion or analysis.\n\nRefuted; prove (a statement or theory) to be wrong or false; disprove.",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 46,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1044,
     "question": "The way the workshop was organized was rather <u>hit-and-miss</u>",
     "option": {
@@ -1862,6 +1957,25 @@
     "category": "others"
   },
   {
+    "id": 1255,
+    "question": "The book described Talle as a?",
+    "option": {
+      "a": "The precious child",
+      "b": "The quiet one",
+      "c": " The friendly child",
+      "d": "the holy child"
+    },
+    "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 2,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1260,
     "question": "What is Ummi Matric Number?  ",
     "option": {
@@ -1957,6 +2071,44 @@
     "category": "others"
   },
   {
+    "id": 1303,
+    "question": "If James fails his examination, his teachers, his parents, his friends, or I ______ to be blame.",
+    "option": {
+      "a": "are",
+      "b": "is",
+      "c": "am",
+      "d": "not"
+    },
+    "section": "Fill in the gap with the option that best completes the sentence.",
+    "image": "",
+    "answer": "c",
+    "solution": "When there is a list of nouns or pronouns at the level of the subject, it is the nearest noun or pronoun to the position of the verb that will determine the choice of the verb.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 50,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1309,
+    "question": "Now that the company is <u>insolvent</u> , it will shut down.",
+    "option": {
+      "a": "overworked",
+      "b": "unstable",
+      "c": "bankrupt",
+      "d": "affluent"
+    },
+    "section": "From the options lettered A-D, choose the option that is nearest in meaning to the underlined word.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "Both mean to be unable to pay what you owe because you do not have enough money.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 56,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1345,
     "question": "ll the people in the bus died in that _________  accident",
     "option": {
@@ -1991,6 +2143,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 42,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1362,
+    "question": "The exotic bird looked <u>resplendent</u>; its bright plumage contrasted with the rather _________ undergrowth",
+    "option": {
+      "a": "immobile",
+      "b": "foreign",
+      "c": "bright",
+      "d": "drab"
+    },
+    "section": "From the list of words or group of words lettered A to D, choose the one that is most nearest opposite in meaning to the underlined word or group of words and that will, at the same time correctly fill in the gap in the sentence. ",
+    "image": "",
+    "answer": "d",
+    "solution": "Resplendent simply means shiny and colourful as opposed to Drab which means 'dull'",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 49,
     "hasPassage": 0,
     "category": "others"
   },
