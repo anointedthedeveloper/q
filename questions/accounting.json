@@ -4976,6 +4976,22 @@
     "examyear": "2015"
   },
   {
+    "id": 334,
+    "question": "The double entry to record the goodwill in the books is debit",
+    "option": {
+      "a": "Cash Account and credit Goodwill Account",
+      "b": "Goodwill Account and credit Purchase of Business Account",
+      "c": "Goodwill Account and credit Cash Account",
+      "d": "Purchase of Business Account and credit Cash Account"
+    },
+    "section": "Use the following information to answer questions: Mr. White acquired Mr. Black’s business for GHc/ 410,000. The total assets were GHc/ 670,000 and liabilities amounted to GHc/ 320,000",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 336,
     "question": "A person who has applied to purchase shares in a company is referred to as",
     "option": {
@@ -18560,6 +18576,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1260,
+    "question": "The correct entry to reflect the receipt of cash sent by a branch to a head office is?",
+    "option": {
+      "a": "debit cash and credit branch current account",
+      "b": "debit branch, current account and credit cash",
+      "c": "credit branch, debtors and debit cash",
+      "d": "credit branch current account and debit branch debtors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Debit Cash: Increases the head office’s cash balance when it receives the remittance.\n\nCredit Branch Current Account: Reduces the receivable (or clears the liability) from the branch’s current account, since the branch has now funded that amount.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1262,
     "question": "The officer responsible for ascertaining whether all public expenditure and appropriation are in line with approved guidelines is the?",
     "option": {
@@ -20044,6 +20076,22 @@
     "image": "",
     "answer": "b",
     "solution": "When goods costing ₦10,000 are invoiced to the branch at cost plus 20% (i.e. at ₦12,000), the head office increases its branch‐stock asset and uses the “Branch Stock” account. The entry in the head office books on dispatch is:\n\nDr Branch Stock Account ₦12,000\n  Cr Goods Sent to Branch Account ₦12,000",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1362,
+    "question": "Given:\n\nTotal cash received from debtors 30,000\nTotal purchases for the period 21,000\nAmount owed by debtors at the beginning of the period 4,000\nEquipment bought 2,500\nAmount owed by debtors at the end of the period 3,000\nDetermine the value of sales for the period",
+    "option": {
+      "a": " ₦29,000",
+      "b": " ₦ 31,500",
+      "c": "₦46,500",
+      "d": "₦50,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the value of sales for the period, use the debtors control account approach.\nGiven information:\n\nCash received from debtors: ₦30,000\nOpening debtors: ₦4,000\nClosing debtors: ₦3,000\nTotal purchases: ₦21,000 (not relevant for sales calculation)\nEquipment bought: ₦2,500 (not relevant for sales calculation)\n\nUsing the Debtors Control Account:\nOpening debtors + Sales - Cash received = Closing debtors\nCalculation:\n₦4,000 + Sales - ₦30,000 = ₦3,000\nSales = ₦3,000 - ₦4,000 + ₦30,000\nSales = ₦29,000",
     "examtype": "utme",
     "examyear": "1999"
   },
