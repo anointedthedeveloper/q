@@ -8528,6 +8528,22 @@
     "examyear": "2019"
   },
   {
+    "id": 542,
+    "question": "Which of the following describes the chemical property of acids?",
+    "option": {
+      "a": "None of the above",
+      "b": "Acid + XCO₃ → Salt + H₂O + NH₃",
+      "c": "Acid + NaOH → Normal salt + CO₂",
+      "d": "Acid + XₙCO₃ → Salt + H₂O + CO₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A standard chemical property of acids is their reaction with carbonates. Acid + metal carbonate → salt + water + carbon dioxide. Example: 2HCl + Na₂CO₃ → 2NaCl + H₂O + CO₂. Option B wrongly gives NH₃ as a product; Option C wrongly gives CO₂ from acid + NaOH. Answer: D.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 543,
     "question": "Which of the following pairs cannot be represented with a chemical formula?",
     "option": {
