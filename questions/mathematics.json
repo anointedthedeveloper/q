@@ -8384,6 +8384,22 @@
     "examyear": "2010"
   },
   {
+    "id": 607,
+    "question": "Evaluate []",
+    "option": {
+      "a": "5y - 2x -18 = 0",
+      "b": "102",
+      "c": "-102",
+      "d": "-42"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128564/ALOC-Questions/Mathematics/2010/MATH_2010_Q36_wecmvb.jpg",
+    "answer": "c",
+    "solution": "= 2(6 - 27) - 0(4 - 24) + 5(36 - 48)\n\n= 2(-21) - 0 + 5(-12)\n\n= -42 + 5(-12)\n\n= -42 - 60\n\n= -102",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 609,
     "question": "The interior angles of a quadrilateral are (x + 15)°, (2x - 45)°, ( x - 30)° and (x + 10)°. Find the value of the least interior angle.",
     "option": {
@@ -9740,6 +9756,22 @@
     "image": "",
     "answer": "d",
     "solution": "x/7 = 96/1  ==> 672/ + x/8 =112\n\n\nTherefore x = 224",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 753,
+    "question": "Find the median of 2,3,7,3,4,5,8,9,9,4,5,3,4,2,4 and 5",
+    "option": {
+      "a": "9",
+      "b": "8",
+      "c": "7",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Arrange all the values in ascending order,\n\n2,2,3,3,3,4,4,4,4,5,5,5,7,8,9,9",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -12060,6 +12092,22 @@
     "image": "",
     "answer": "d",
     "solution": "Let the number of people that offer both Mathematics and Physics = y\n\nThen, (32−y)+y+(24−y)+4=40\n60−y=40⟹y=20\n∴\n20 students offer both Mathematics and Physics.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 920,
+    "question": "Find the values of x for which\n\n(x+2)/4 - (2x−3)/3 < 4",
+    "option": {
+      "a": "x < 8",
+      "b": " x > -6",
+      "c": " x < 4",
+      "d": "x > -3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(x+2)/4 - (2x−3)/3 < 4\n(3(x+2)−4(2x−3))/12 < 4\n3x + 6 − 8x + 12 < 48\n18 − 5x < 48 ⟹ −5x < 30\n∴ x > − 6",
     "examtype": "utme",
     "examyear": "2018"
   },
