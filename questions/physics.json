@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 5,
+    "question": "Which of the following statements is not true? ",
+    "option": {
+      "a": "as the slope of an incline plane increases, the velocity ratio decreases, ",
+      "b": "the efficiency of an incline plane decreases as the slope increases ",
+      "c": "the effort required to push a given load up an incline plane increases as the slope increases",
+      "d": "The mechanical advantage of smooth incline plane depends on the ratio of the length to the height of the plane."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 6,
     "question": "The ice and steam point of a thermometer are 20mm and 100mm respectively: A temperature of 75oC correspond to Ymm on the thermometer. What is Y? ",
     "option": {
@@ -27,6 +43,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 8,
+    "question": " A quantity of ice –10oc is heated until temperature of heating vessel is 90oc. Which of the following constant is NOT required to determine the quantity of heat supplied to the vessel? ",
+    "option": {
+      "a": "Specific latent heat of vaporization ",
+      "b": "specific heat capacity of ice ",
+      "c": "specific latent heat of fusion ",
+      "d": "specific heat capacity of water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
@@ -192,6 +224,54 @@
     "examyear": "2009"
   },
   {
+    "id": 69,
+    "question": "If 21g of alcohol of density 0.7gcm-3 is mixed with 10g of water, what would be the density of the resulting mixture? ",
+    "option": {
+      "a": "780gcm-3 ",
+      "b": "0.78gcm-3 ",
+      "c": "30gcm-3 ",
+      "d": "10gcm-3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 81,
+    "question": "The superposition of two or more waves to produce a maximum or zero effect at a point is known as: ",
+    "option": {
+      "a": "reflection ",
+      "b": "refraction ",
+      "c": "diffraction ",
+      "d": "interference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is not true about the properties of x-rays? ",
+    "option": {
+      "a": "they are not deflected by magnetic or electric field",
+      "b": "they ionized a gas making it a conductor ",
+      "c": "they are massive ",
+      "d": "they have high penetrating power "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 90,
     "question": "Which of the following statements is not true about a body performing simple harmonic motion? ",
     "option": {
@@ -219,6 +299,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 97,
+    "question": "A sample of radioactive substance, whose half-life is 16 days, registers 32 decays per second. How long will it take for the rate of decay to reduce to 2 decays per second? ",
+    "option": {
+      "a": "80 days  ",
+      "b": "64 days  ",
+      "c": "48 days  ",
+      "d": "32 days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -448,6 +544,38 @@
     "examyear": "2016"
   },
   {
+    "id": 218,
+    "question": "A body which weighs 50N in air displaces 3.7kg of water when partially immersed in water. Calculate the upthrust on the body?",
+    "option": {
+      "a": "8.7N",
+      "b": "37.0N",
+      "c": " 87.0N",
+      "d": "13.0N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nWeight in air = 50 N\nMass of water displaced = 3.7 kg\nUpthrust = ?\n\nUsing Archimedes' Principle:\nUpthrust = Weight of fluid displaced\nCalculate weight of water displaced:\nWeight = Mass × g\nUpthrust = 3.7 kg × 10 m/s²\nUpthrust = 37 N\nExplanation:\nWhen a body is immersed in a fluid, it experiences an upward force (upthrust) equal to the weight of the fluid it displaces. Since the body displaces 3.7 kg of water, the upthrust equals the weight of this water.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 220,
+    "question": "Boiling occurs when the vapour pressure of a liquid is",
+    "option": {
+      "a": "At the evaporation point",
+      "b": "Less than the atmospheric pressure",
+      "c": "Greater than the atmospheric pressure",
+      "d": "Equal to the atmospheric pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Boiling occurs when bubbles of vapour form within the liquid and rise to the surface.\nCondition for boiling:\nFor bubbles to form and grow inside the liquid, the vapour pressure inside the bubbles must overcome the external pressure (atmospheric pressure) pushing down on the liquid surface.\nKey point:\nBoiling occurs when vapour pressure equals atmospheric pressure.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 253,
     "question": "Which of the following is a scalar quantity?",
     "option": {
@@ -656,6 +784,22 @@
     "examyear": "2018"
   },
   {
+    "id": 320,
+    "question": "A pulley system has three pulleys in the fixed block and two in the movable block and if the pulley has an efficiency of 72%, the mechanical advantage of the system is?",
+    "option": {
+      "a": "36",
+      "b": "7.2",
+      "c": "5",
+      "d": "3.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nFixed block: 3 pulleys\nMovable block: 2 pulleys\nEfficiency = 72% = 0.72\nMechanical Advantage (M.A) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings\nWith 3 pulleys in fixed block and 2 in movable block:\nTotal number of supporting strings = 5\nV.R = 5\nStep 2: Calculate Mechanical Advantage using efficiency\nEfficiency = M.A / V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.72 × 5\nM.A = 3.6",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 322,
     "question": "A ball of mass 800g moving horizontally with a speed of 5m/s hits a vertical wall and rebounds with the same speed. The impulse experienced by the ball is?",
     "option": {
@@ -844,6 +988,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nTime for echo = 0.5 s\nSpeed of sound (v) = 340 m/s\nDistance to cliff = ?\n\nUnderstanding echo:\n\nSound travels from boy to cliff and back to boy\nTotal distance = 2 × distance to cliff\nTime given is for the round trip\n\nStep 1: Calculate total distance traveled by sound\nTotal distance = Speed × Time\nTotal distance = 340 × 0.5\nTotal distance = 170 m\nStep 2: Calculate distance to cliff\nSince sound travels to the cliff and back:\nDistance to cliff = Total distance / 2\nDistance to cliff = 170 / 2\nDistance to cliff = 85 m",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 431,
+    "question": "Which of the following is not a vector quantity?",
+    "option": {
+      "a": "momentum",
+      "b": "force",
+      "c": "temperature",
+      "d": "displacement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Temperature is NOT a vector quantity. It is a scalar quantity because it has magnitude only and no direction associated with it.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -1040,6 +1200,22 @@
     "examyear": "2022"
   },
   {
+    "id": 485,
+    "question": "In the formation of sea breeze, wind blows from?",
+    "option": {
+      "a": "sky to land",
+      "b": "sea to sky",
+      "c": "land to sea",
+      "d": "sea to land"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A sea breeze describes a wind that blows from the ocean inland towards land.\n\nThis breeze occurs most often in the spring and summer months because of the greater temperature differences between the ocean and nearby land, particularly in the afternoon when the land is at maximum heating from the sun.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 487,
     "question": "In order to view the sun, the most suitable instrument to use is?",
     "option": {
@@ -1052,6 +1228,22 @@
     "image": "",
     "answer": "a",
     "solution": "A helioscope is specifically designed for safe solar observation with appropriate filters and protective features. Direct viewing of the sun with ordinary telescopes or other instruments can cause severe eye damage or blindness.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 490,
+    "question": "The amount of energy required to change a kilogram of ice block into water without a change in temperature is?",
+    "option": {
+      "a": "specific latent heat of fusion of ice",
+      "b": "specific heat capacity of ice",
+      "c": "heat capacity of ice",
+      "d": " specific heat of vaporization of ice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Specific latent heat of fusion is the energy required per kilogram to change a substance from solid to liquid at its melting point without temperature change. For ice, this value is approximately 334 kJ/kg or 3.34 × 10⁵ J/kg.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -1376,6 +1568,22 @@
     "examyear": "2005"
   },
   {
+    "id": 654,
+    "question": "The pair of physical quantities consisting of vectors only are",
+    "option": {
+      "a": "momentum and power",
+      "b": "velocity and distance",
+      "c": "displacement and torque",
+      "d": "accelaration and speed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Displacement: Has magnitude and direction (e.g., 5m north)\nTorque: Has magnitude and direction (clockwise/counterclockwise, follows right-hand rule)\n\nBoth displacement and torque are vectors.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 661,
     "question": "A silicon material is dopped with an element of a certain group and an n-type semi-conductor is formed. the most likely group of the element is",
     "option": {
@@ -1468,6 +1676,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296800/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_42_f6paqx.png",
     "answer": "c",
     "solution": "Given information:\n\nC₁ = 2 μF\nC₂ = 3 μF\nC₃ = 6 μF\nTotal voltage, V = 12 V\nCapacitors in series\n\nSolution:\nStep 1: Key principle for series capacitors\nIn series, all capacitors have the same charge:\nQ = Q₁ = Q₂ = Q₃\nStep 2: Find equivalent capacitance\nFor series capacitors:\n1/Cₑq = 1/C₁ + 1/C₂ + 1/C₃\n1/Cₑq = 1/2 + 1/3 + 1/6\n1/Cₑq = 3/6 + 2/6 + 1/6 = 6/6 = 1\nCₑq = 1 μF\nStep 3: Calculate total charge\nQ = Cₑq × V\nQ = 1 × 12 = 12 μC\nStep 4: Calculate voltage across 6μF capacitor\nV₃ = Q/C₃\nV₃ = 12/6\nV₃ = 2 V",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 694,
+    "question": "A force of 200N acts between two objects at a certain distance apart. The value of the force when the distance is halved is",
+    "option": {
+      "a": "400N",
+      "b": "200N",
+      "c": "100N",
+      "d": "800N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Identify force law\nFor gravitational or electrostatic forces between two objects:\nF = k/r²\nWhere:\n\nF = force\nk = constant (depends on masses/charges)\nr = distance between objects\n\nStep 2: Initial force\nF₁ = k/r²\n200 = k/r²\nStep 3: New force when distance is halved\nF₂ = k/(r/2)²\nF₂ = k/(r²/4)\nF₂ = 4k/r²\nStep 4: Find ratio\nF₂/F₁ = [4k/r²] / [k/r²]\nF₂/F₁ = 4\nStep 5: Calculate new force\nF₂ = 4F₁\nF₂ = 4 × 200\nF₂ = 800 N",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -1664,6 +1888,22 @@
     "examyear": "2007"
   },
   {
+    "id": 762,
+    "question": "The blade of a hoe feel colder to touch in the morning than the wooden handle because the",
+    "option": {
+      "a": " handle is a better conductor of heat than blade",
+      "b": " handle contains stored energy in form of heat",
+      "c": "blade is a better conductor of heat than the handle",
+      "d": "blade is placed at a lower temperature than the heat"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The metal blade transfers heat away from your skin more effectively than the wooden handle. When you touch the blade, it rapidly absorbs heat from your hand, causing it to feel colder. In contrast, the wooden handle, which is a less effective conductor of heat, doesn't draw heat away as quickly, making it feel warmer in comparison.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 770,
     "question": "A charge 50 µC has electric field strength of 360 NC⁻¹ at a certain point. The electric field strength due to another charge 120 µC kept at the same distance apart and in the same medium is?",
     "option": {
@@ -1692,6 +1932,22 @@
     "image": "",
     "answer": "a",
     "solution": "Silicon is a group IV element with four valence electrons. Doping it with aluminum (a group III element with three valence electrons) creates a deficiency of electrons, resulting in a p‑type semiconductor. Germanium is also a group IV element, and doping it with arsenic (a group V element with five valence electrons) introduces extra free electrons, making it an n‑type semiconductor. Therefore, in the order given, silicon doped with aluminum becomes p‑type, and germanium doped with arsenic becomes n‑type.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 777,
+    "question": "A boy drags a bag of rice along a smooth horizontal floor with a force of 2 N applied at an angle of 60° to the floor. The work done after a distance of 3 m is?",
+    "option": {
+      "a": "3 J",
+      "b": "4 J",
+      "c": "5 J",
+      "d": " 6 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nForce F = 2 N\nAngle θ = 60°\nDisplacement s = 3 m\nFloor is smooth (no friction)\n\nSolution:\n\nStep 1: Work done formula\nWork done W = F × s × cosθ\n\nStep 2: Substitute values\nW = 2 N × 3 m × cos60°\n\nStep 3: Calculate\ncos60° = 0.5\nW = 2 × 3 × 0.5 = 3 J",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -1840,6 +2096,38 @@
     "examyear": "2008"
   },
   {
+    "id": 829,
+    "question": "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is?",
+    "option": {
+      "a": "0.96 kWh",
+      "b": "1.92 kWh",
+      "c": "9.60 kWh",
+      "d": "19.20 kWh"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nTen 60 W bulbs\nFive 40 W bulbs\nTime interval = 24 hours (assumed daily usage)\n\nSolution:\n\nStep 1: Calculate total power\nTotal power = (10 × 60 W) + (5 × 40 W) = 600 W + 200 W = 800 W\n\nStep 2: Convert power to kilowatts\n800 W = 0.8 kW\n\nStep 3: Calculate energy consumed\nEnergy = Power × Time = 0.8 kW × 24 h = 19.2 kWh",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 837,
+    "question": "The resultant of two forces 12 N and 5 N is 13 N. What is the angle between the two forces?",
+    "option": {
+      "a": " 0°",
+      "b": "45°",
+      "c": "90°",
+      "d": "180°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\nForce F₁ = 12 N\nForce F₂ = 5 N\nResultant R = 13 N\n\nSolution:\n\nStep 1: Formula for resultant of two forces\nR² = F₁² + F₂² + 2F₁F₂ cos θ\nwhere θ is the angle between the forces.\n\nStep 2: Substitute the given values\n13² = 12² + 5² + 2 × 12 × 5 × cos θ\n169 = 144 + 25 + 120 cos θ\n169 = 169 + 120 cos θ\n\nStep 3: Simplify and solve for cos θ\n169 – 169 = 120 cos θ\n0 = 120 cos θ\ncos θ = 0\n\nStep 4: Determine the angle\ncos θ = 0 ⇒ θ = 90°\n",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 853,
     "question": "I. The motion of the tyres of a moving car.\nII. The motion of a loaded test tube oscillated\nvertically.\nIII. The beating of the heart.\nIV. A stone tied to a string and whirled round.\nV. The motion of the pistons in a gasoline engine.\n\n\nWhich of the motions above is simple harmonic?",
     "option": {
@@ -1884,6 +2172,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nInclined plane angle, θ = 30°\n\nSolution:\n\nStep 1: Velocity ratio for an inclined plane\nFor an inclined plane, when the effort is applied parallel to the plane, the velocity ratio (VR) is the ratio of the distance moved by the effort (length of the incline, L) to the distance moved by the load (vertical height, h).\nVR = L / h = 1 / sin θ\n\nStep 2: Calculate sin 30°\nsin 30° = 0.5\n\nStep 3: Compute VR\nVR = 1 / 0.5 = 2.0",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 862,
+    "question": "An electric heater rated 220 V, 1000 W is immersed into a bucket full of water. Calculate the mass of water if the temperature changes from 30 °C to 100 °C and the current flows for 300 seconds. [specific heat capacity of water = 4200 J kg⁻¹ K⁻¹]",
+    "option": {
+      "a": "4.28 kg",
+      "b": "42.86 kg",
+      "c": "1.02 kg",
+      "d": "7.14 kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nHeater power P = 1000 W\nTime t = 300 s\nInitial temperature = 30 °C\nFinal temperature = 100 °C\nTemperature change Δθ = 70 K\nSpecific heat capacity c = 4200 J kg⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Calculate electrical energy supplied\nEnergy E = P × t = 1000 W × 300 s = 300 000 J\n\nStep 2: Relate energy to heat absorbed by water\nE = m × c × Δθ\n\nStep 3: Solve for mass m\nm = E / (c × Δθ) = 300 000 / (4200 × 70)\n\nStep 4: Compute denominator\n4200 × 70 = 294 000\n\nStep 5: Compute mass\nm = 300 000 / 294 000 ≈ 1.0204 kg",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -2096,6 +2400,22 @@
     "examyear": "2011"
   },
   {
+    "id": 956,
+    "question": "An object weighs 22 kg in water and 30kg in air. What is the upthrust exerted by the liquid on the object? [g = 10 ms⁻²]",
+    "option": {
+      "a": "50 N",
+      "b": " 520 N",
+      "c": " 220 N",
+      "d": "80 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate actual weight (in air)\nWeight in air = mg = 30 × 10 = 300 N\nStep 2: Calculate apparent weight (in water)\nApparent weight in water = 22 × 10 = 220 N\nStep 3: Calculate upthrust\nUpthrust = Weight in air - Weight in water\nUpthrust = 300 - 220\nUpthrust = 80 N",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 961,
     "question": "I. Density of the liquid.\nII. Depth below the surface of the liquid.\nIII. Surface area of the liquid.\nIn which of the statement above will pressure be dependent?",
     "option": {
@@ -2108,6 +2428,22 @@
     "image": "",
     "answer": "a",
     "solution": "Pressure in liquid is independent of cross sectional area of the container/ liquid\n∴ the correct options are I & II",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 963,
+    "question": "Which of the following types of waves needs a medium for propagation?",
+    "option": {
+      "a": "sound waves",
+      "b": " light waves",
+      "c": " radio waves",
+      "d": "x - rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sound is the only mechanical wave among the rest which are electromagnetic waves.",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -2400,6 +2736,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1060,
+    "question": "A transverse wave and a longitudinal wave travelling in the same direction in a medium differ essentially in their",
+    "option": {
+      "a": "frequency",
+      "b": "amplitude",
+      "c": "direction of vibration of the particles of the medium",
+      "d": "period of vibration of the particles of the medium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "They differ essentially in the direction of vibration of the particles of the medium.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1063,
     "question": "A man 1.5m tall is standing 3m in front of a pinhole camera whose distance between the hole and the screen is 0.1m. What is the height of the image of the man on the screen?",
     "option": {
@@ -2480,6 +2832,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1107,
+    "question": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf",
+    "option": {
+      "a": "Remains the same",
+      "b": "Collapses",
+      "c": "Collapses and diverges again",
+      "d": "Diverges"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf collapses.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1111,
     "question": "PHCN measures its electrical energy in",
     "option": {
@@ -2508,6 +2876,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nThe power of a lens is defined as the reciprocal of its focal length (in metres).\n\nSolution:\n\nStep 1: Formula for power of a lens\nPower P (in dioptres) = 1 / f, where f is the focal length in metres.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1125,
+    "question": "According to the kinetic theory of gases, the pressure exerted by a gas on the walls equals. ",
+    "option": {
+      "a": "Momentum imparted to the walls per unit area.",
+      "b": "Change in momentum per unit volume.",
+      "c": " Change in momentum imparted to the walls per unit area.",
+      "d": "Rate of change of momentum imparted to the walls per second per unit area."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Rate of change of momentum imparted to the walls per second per unit area. (Pressure = force/area = (rate of momentum change)/area from molecular collisions.)",
     "examtype": "utme",
     "examyear": "2025"
   },
