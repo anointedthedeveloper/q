@@ -10336,6 +10336,22 @@
     "examyear": "2013"
   },
   {
+    "id": 804,
+    "question": "The bar chart above shows the allotment of time(in minutes) per week for selected subjects in a certain school. What is the total time allocated to the six subjects per week?",
+    "option": {
+      "a": "460mins",
+      "b": "720mins",
+      "c": "960mins",
+      "d": "200mins"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131441/ALOC-Questions/Mathematics/2013/2013_MATH_JAMB_Q35_phkd2t.jpg",
+    "answer": "b",
+    "solution": "80 + 160 + 200 + 80 + 128 + 72 = 720minutes",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 805,
     "question": "The pie chart above shows the statistical distribution of 80 students in five subjects in an examination. Calculate how many student offer Mathematics.",
     "option": {
