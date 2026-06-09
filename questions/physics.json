@@ -7264,6 +7264,22 @@
     "examyear": "2022"
   },
   {
+    "id": 480,
+    "question": "The vapour pressure?",
+    "option": {
+      "a": " increases non-linearly with measuring temperature",
+      "b": ". increases linearly with increasing temperature",
+      "c": " decreases linearly with increasing temperature",
+      "d": " decreases non-linearly ith measuring temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Vapour pressure rises exponentially with temperature because molecular kinetic energy increases, allowing more molecules to escape the liquid phase. This exponential relationship means the increase is non-linear, accelerating at higher temperatures.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 481,
     "question": "The potential energy in an elastic string of force constant k, which has an extension X is?",
     "option": {
