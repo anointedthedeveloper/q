@@ -4176,6 +4176,22 @@
     "examyear": "2019"
   },
   {
+    "id": 348,
+    "question": "A straight wire 15cm long, carrying a current of 6.0A is in a uniform field of 0.40T. What is the force on the wire when it is at right angle to the field",
+    "option": {
+      "a": "0.46N",
+      "b": " 0.35N",
+      "c": "0.36N",
+      "d": " 0,24N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nLength of wire (L) = 15 cm = 0.15 m\nCurrent (I) = 6.0 A\nMagnetic field (B) = 0.40 T\nAngle (θ) = 90° (at right angle)\nForce (F) = ?\n\nFormula for force on current-carrying conductor:\nF = BIL sin θ\nWhen wire is perpendicular to field (θ = 90°):\nsin 90° = 1\nF = BIL\nSubstituting values:\nF = 0.40 × 6.0 × 0.15\nF = 0.40 × 0.9\nF = 0.36 N",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 349,
     "question": "The pitch of a screw jack is 0.45cm and the arm is 60cm long. If the efficiency of the Jack is 75/π %, calculate the mechanical advantage.",
     "option": {
@@ -11196,6 +11212,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435612/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_42_qaxop9.png",
     "answer": "c",
     "solution": "1/R = 1/8 + 1/8 = 2/8\n∴ R = 4Ω\nl/l1 = R/R1\n(x)/(100-x) = 4/8\n4(100-x) = 8x\n400-4x = 8x\n400 = 8x + 4x = 12x\nx = 400/12 = 33.3cm",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 944,
+    "question": "n the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be",
+    "option": {
+      "a": "south and north",
+      "b": "north and south",
+      "c": " north and north",
+      "d": " south and south"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435732/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_45_qbcc73.png",
+    "answer": "c",
+    "solution": "IN magnetisation by stroking, the last touched has a pole opposite to that of the magnet used. Therefore, the poles T and V are N and N respectively",
     "examtype": "utme",
     "examyear": "2010"
   },
