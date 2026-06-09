@@ -2496,6 +2496,22 @@
     "examyear": "2020"
   },
   {
+    "id": 390,
+    "question": "If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called?",
+    "option": {
+      "a": "doppler effect",
+      "b": "resonance",
+      "c": "ultra sound",
+      "d": "rarefaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Doppler effect or Doppler shift is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.\n\nThe drop in pitch of ambulance sirens as they pass by and the shift in red light are common examples of the Doppler Effect. ",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 391,
     "question": "Which of the following can be described as high tension transmission? ",
     "option": {
@@ -5712,6 +5728,22 @@
     "examyear": "2009"
   },
   {
+    "id": 868,
+    "question": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their?",
+    "option": {
+      "a": "quality",
+      "b": "pitch",
+      "c": "intensity",
+      "d": "loudness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The quality of a note is a characteristic that distinguishes it from note of the same frequency played by another musical instrument.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 870,
     "question": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?",
     "option": {
@@ -6972,6 +7004,22 @@
     "image": "",
     "answer": "b",
     "solution": "Metals obey Ohm's law because they maintain a constant resistance (at constant temperature), resulting in a linear relationship between voltage and current (V = IR). This makes metals ideal for wires, resistors, and other electrical components where predictable, linear behavior is required.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1072,
+    "question": "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?",
+    "option": {
+      "a": "N90",
+      "b": "N50",
+      "c": "N45",
+      "d": " N5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Calculate total power consumption\nPower from ten 40 W bulbs = 10 × 40 W = 400 W\nPower from five 100 W bulbs = 5 × 100 W = 500 W\nTotal power = 400 W + 500 W = 900 W = 0.9 kW\n\nStep 2: Calculate energy consumed\nEnergy = Power × Time = 0.9 kW × 10 h = 9 kWh\n\nStep 3: Calculate cost\nCost = Energy × cost per unit = 9 kWh × 5 N = 45 N",
     "examtype": "utme",
     "examyear": "2013"
   },
