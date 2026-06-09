@@ -528,6 +528,22 @@
     "examyear": "2002"
   },
   {
+    "id": 50,
+    "question": "Steam changes the colour of anhydrous cobalt(II) chloride from",
+    "option": {
+      "a": "White to red",
+      "b": "Blue to white",
+      "c": "White to green",
+      "d": "Blue to pink"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 51,
     "question": "Which of the following solutions containing only hydroxyl ions will liberate hydrogen gas when reacted with magnesium metal",
     "option": {
@@ -976,6 +992,22 @@
     "examyear": "2003"
   },
   {
+    "id": 89,
+    "question": "The structural component that makes detergent dissolve more quickly in water than soap is",
+    "option": {
+      "a": "–SO3 –Na+",
+      "b": "–COO-Na+",
+      "c": "–SO4- Na+",
+      "d": "–COO-K+"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 90,
     "question": "A liquid that will dissolve fast is",
     "option": {
@@ -1035,6 +1067,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 96,
+    "question": "The commonest feature of the reactions at the anode is that",
+    "option": {
+      "a": "Electrons are consumed",
+      "b": "Oxidation is involved",
+      "c": "Ions are reduced",
+      "d": "Electrode dissolves"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -2192,6 +2240,22 @@
     "examyear": "2006"
   },
   {
+    "id": 217,
+    "question": "Na2CO3(aq)  +  2HCI(aq)  → 2NaCI(aq)  +  H2O(l)  +  CO2(g)    How many moles of sodium trioxocarbonate (IV) are there in a 25cm3 solution which required 10cm3 of 0.05 mol dm-3 hydrochloric acid solution to neutralize it?",
+    "option": {
+      "a": "0.100mloe",
+      "b": "0.001mole",
+      "c": "1.000mole",
+      "d": "0.010mole"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 220,
     "question": "Trioxonitrate(V) acid is not used for preparing hydrogen gas from metals because it",
     "option": {
@@ -3184,6 +3248,22 @@
     "examyear": "2015"
   },
   {
+    "id": 312,
+    "question": "A small quantity of solid ammonium chloride (NH₄Cl) is heated gently in a test tube. The solid gradually disappears producing two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone",
+    "option": {
+      "a": "Distillation",
+      "b": "Sublimation",
+      "c": "Precipitation",
+      "d": "Evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Ammonium chloride undergoes sublimation when heated - it changes directly from solid to gas (decomposing into NH₃ and HCl), then reforms as a white solid deposit on the cooler parts of the tube when the gases recombine and cool.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 314,
     "question": "Atomicity of ozone is",
     "option": {
@@ -4112,6 +4192,22 @@
     "examyear": "2016"
   },
   {
+    "id": 403,
+    "question": "CH₄(g) + Cl₂(g) → CH₂Cl(s) + HCl(g). The major factor that influences the rate of the reaction above is",
+    "option": {
+      "a": "Concentration",
+      "b": "Catalyst",
+      "c": "Temperature",
+      "d": "Light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The reaction of methane with chlorine is a free radical substitution reaction initiated by UV light. Light provides the energy to break the Cl-Cl bond homolytically (Cl₂ → 2Cl•), generating chlorine radicals that start the chain reaction. Without light, the reaction does not proceed at room temperature, making light the major rate-determining factor.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 404,
     "question": "N₂O₄(aq) ⇌ 2NO₂(g), ΔH = +ve. In the reaction above, an increase in temperature will",
     "option": {
@@ -4624,6 +4720,22 @@
     "examyear": "2017"
   },
   {
+    "id": 453,
+    "question": "X(g) + 3Y(g) → 2Z(g), ΔH = +ve. If the reaction above takes place at room temperature, the ΔG will be",
+    "option": {
+      "a": "negative",
+      "b": "zero",
+      "c": "positive",
+      "d": "indeterminate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using ΔG = ΔH - TΔS. The reaction goes from 4 moles of gas to 2 moles, so ΔS is negative (decrease in disorder). ΔH is positive (endothermic). Therefore ΔG = (+) - T(-) = positive + positive = positive. At room temperature, ΔG > 0 means the reaction is non-spontaneous.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 456,
     "question": "According to Charles' law, the volume of a gas becomes zero at",
     "option": {
@@ -4768,6 +4880,22 @@
     "examyear": "2018"
   },
   {
+    "id": 466,
+    "question": "The consecutive members of an alkane homologous series differ by",
+    "option": {
+      "a": "CH",
+      "b": "CH₂",
+      "c": "CH₃",
+      "d": "CₙHₙ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Consecutive members of a homologous series differ by one CH₂ (methylene) unit, with a molar mass difference of 14 g mol⁻¹. For example: methane (CH₄) → ethane (C₂H₆) → propane (C₃H₈), each differing by CH₂.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 468,
     "question": "A basic postulate of the kinetic theory of gases is that the molecules of a gas move in straight lines between collisions. This implies that",
     "option": {
@@ -4860,6 +4988,22 @@
     "image": "",
     "answer": "d",
     "solution": "Saponification is the alkaline hydrolysis of fats (esters of glycerol and fatty acids) with caustic soda (NaOH) to produce soap (sodium salts of fatty acids) and glycerol. The term comes from \"sapo\" (Latin for soap). Esterification is the reverse reaction (forming esters from acids and alcohols).",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 475,
+    "question": "Which of the following pairs of substances will react further with oxygen to form a higher oxide?",
+    "option": {
+      "a": "CO₂ and H₂O",
+      "b": "NO and H₂O",
+      "c": "CO and CO₂",
+      "d": "SO₂ and NO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "SO₂ can be further oxidized to SO₃ (a higher oxide): 2SO₂ + O₂ → 2SO₃. NO can be further oxidized to NO₂: 2NO + O₂ → 2NO₂. CO₂ and H₂O are already fully oxidized and cannot react further with oxygen. CO can be oxidized to CO₂, but CO₂ itself cannot go higher.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5408,6 +5552,22 @@
     "examyear": "2019"
   },
   {
+    "id": 533,
+    "question": "Which of the following does NOT support the fact that air is a mixture?",
+    "option": {
+      "a": "the constituents of air are in a fixed proportion by mass",
+      "b": "it cannot be represented with a chemical formula",
+      "c": "the constituents of air can be separated by physical means",
+      "d": "none of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Mixtures do NOT have a fixed composition by mass — their components can vary in any proportion. The fact that air's composition is approximately fixed (78% N₂, 21% O₂, etc.) is actually more characteristic of a compound. Options B and C support air being a mixture. Therefore, option A does NOT support the fact that air is a mixture.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 534,
     "question": "What technique is suitable for separating a binary solution of potassium chloride and potassium trioxochlorate (V)?",
     "option": {
@@ -5616,6 +5776,22 @@
     "examyear": "2019"
   },
   {
+    "id": 554,
+    "question": "Elements in the periodic table are arranged in the order of their",
+    "option": {
+      "a": "atomic numbers",
+      "b": "metallic character",
+      "c": "mass number",
+      "d": "relative atomic mass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The modern periodic table arranges elements in order of increasing atomic number (number of protons). This arrangement was established by Moseley and corrected limitations of Mendeleev's table, which used relative atomic mass and led to inconsistencies with elements like argon and potassium.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 555,
     "question": "The electronic configuration of an element is 1S² 2S² 2P⁶ 3S² 3P³. How many unpaired electrons are there in the element?",
     "option": {
@@ -5644,6 +5820,22 @@
     "image": "",
     "answer": "d",
     "solution": "Polysaccharides are complex carbohydrates made of many monosaccharide units joined by glycosidic bonds. Starch is a polysaccharide made of many glucose units. Dextrose, mannose, and glucose are all monosaccharides (single sugar units).",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 559,
+    "question": "8g of CH₄ occupies 11.2 dm³ at S.T.P. What volume would 22g of CH₃CH₂CH₃ occupy under the same condition?",
+    "option": {
+      "a": "3.7dm³",
+      "b": "11.2dm³",
+      "c": "22.4dm³",
+      "d": "33dm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Molar mass of CH₄ = 16 g/mol. 8g of CH₄ = 8/16 = 0.5 mol, occupying 11.2 dm³ → 1 mol occupies 22.4 dm³ at STP. Molar mass of CH₃CH₂CH₃ (propane) = 44 g/mol. Moles of propane = 22/44 = 0.5 mol. Volume = 0.5 × 22.4 = 11.2 dm³.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -5948,6 +6140,22 @@
     "image": "",
     "answer": "c",
     "solution": "Oxygen is the most abundant element in the earth's crust by mass, making up approximately 46% of the crust. It occurs in combined form in rocks, minerals, water, and oxides. Nitrogen is most abundant in the atmosphere, not the crust. Silicon is the second most abundant element in the crust after oxygen.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 594,
+    "question": "To obtain pure carbon(ii)oxide from its mixture with carbon(iv)oxide, the mixture should be?",
+    "option": {
+      "a": "Passed over heated copper(ii)oxide",
+      "b": "Bubbled through water",
+      "c": "Bubbled through conc H₂SO₄",
+      "d": "Bubbled through conc NaOH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Carbon(iv)oxide (CO₂) is an acidic gas that reacts with concentrated NaOH solution: CO₂ + 2NaOH → Na₂CO₃ + H₂O. Bubbling the mixture through conc NaOH absorbs the CO₂ completely while carbon(ii)oxide (CO) is unaffected and passes through, yielding pure CO. Water absorbs CO₂ only partially, while conc H₂SO₄ is a drying agent and does not remove CO₂.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -6448,6 +6656,22 @@
     "examyear": "2022"
   },
   {
+    "id": 636,
+    "question": "The IUPAC nomenclature of the structure CH₃-C(Cl)(CH₃)-CH₂-CH₃ is?",
+    "option": {
+      "a": "3-chloro-3-methylbutane",
+      "b": "2,2-dichloro-3-methylbutane",
+      "c": "3-methylchlorobutane",
+      "d": "2-chloro-2-methylbutane"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777639597/ALOC-Questions/Chemistry/UTME/2022/Chemistry_2022_Q2_d8cm0f.png",
+    "answer": "d",
+    "solution": "The structure shows a four-carbon chain (butane) with a Cl and a CH₃ group both attached to carbon 2. Numbering from the end closest to the substituents: the central carbon bearing Cl and CH₃ is C2. The Cl substituent at C2 is \"2-chloro\" and the CH₃ substituent at C2 is \"2-methyl\". IUPAC name: 2-chloro-2-methylbutane.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 637,
     "question": "SO₂ + O₂ → 2SO₃. In the reaction above, the most suitable catalyst is?",
     "option": {
@@ -6828,6 +7052,22 @@
     "image": "",
     "answer": "d",
     "solution": "Tuyeres are nozzles or openings located near the base of the blast furnace through which preheated air (blast) is blown at high pressure. The hot air reacts with coke at the base to produce carbon dioxide, which then reacts further with coke to form carbon monoxide, the main reducing agent in iron extraction.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 669,
+    "question": "How many bonding pairs are present in carbon(iv)oxide?",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Carbon(IV) oxide is CO₂, with the structure O=C=O. Each C=O double bond consists of 2 bonding pairs (one sigma bond and one pi bond). With two C=O double bonds, the total number of bonding pairs = 2 × 2 = 4. There are no lone pairs on carbon and 2 lone pairs on each oxygen, but these are not bonding pairs.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -7520,6 +7760,22 @@
     "examyear": "2024"
   },
   {
+    "id": 731,
+    "question": "If the solubility of KNO₃ at 30°C is 3.10 mol/dm³, a solution containing 303g/dm³ KNO₃ is likely to be",
+    "option": {
+      "a": "saturated",
+      "b": "unsaturated",
+      "c": "supersaturated",
+      "d": "at saturation point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Molar mass of KNO₃ = 39 + 14 + 48 = 101 g/mol. Concentration of the solution = 303 ÷ 101 = 3.0 mol/dm³. The solubility at 30°C is 3.10 mol/dm³. Since 3.0 mol/dm³ is less than the solubility limit, the solution is unsaturated.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 733,
     "question": "The quantity of electricity required to deposit 180g of Ag from a molten silver trioxonitrate(V) is [Ag = 108]",
     "option": {
@@ -7740,6 +7996,22 @@
     "image": "",
     "answer": "c",
     "solution": "The equation shows Na₂X dissociating into 2Na⁺ cations and X²⁻ anion in solution. The formation of oppositely charged ions (Na⁺ and X²⁻) upon dissociation is characteristic of ionic compounds. Ionic bonding results from the electrostatic attraction between positively and negatively charged ions formed by electron transfer from the metal (Na) to the non-metal (X).",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 751,
+    "question": "The heaviest isotope of hydrogen is",
+    "option": {
+      "a": "Deuterium",
+      "b": "Protium",
+      "c": "Tritium",
+      "d": "Positron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Hydrogen has three naturally occurring isotopes: Protium (¹H) with mass number 1 (no neutrons), Deuterium (²H) with mass number 2 (1 neutron), and Tritium (³H) with mass number 3 (2 neutrons). Tritium is the heaviest isotope of hydrogen. Positron is not an isotope of hydrogen — it is an antiparticle of the electron.",
     "examtype": "utme",
     "examyear": "2024"
   },
