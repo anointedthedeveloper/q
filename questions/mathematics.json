@@ -528,6 +528,22 @@
     "examyear": "2000"
   },
   {
+    "id": 96,
+    "question": " Find the value of ∫π0(cos<sup>2</sup>θ−1/sin<sup>2</sup>θ)*dθ",
+    "option": {
+      "a": " π",
+      "b": "π/2",
+      "c": "-π/2",
+      "d": "-π"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>0</mn>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mi>&#x03C0;<!-- π --></mi>\n    </mrow>\n  </msubsup>\n  <mfrac>\n    <mrow>\n      <mi>c</mi>\n      <mi>o</mi>\n      <msup>\n        <mi>s</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mi>&#x03B8;<!-- θ --></mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n    <mrow>\n      <mi>s</mi>\n      <mi>i</mi>\n      <msup>\n        <mi>n</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mi>&#x03B8;<!-- θ --></mi>\n    </mrow>\n  </mfrac>\n  <mi>d</mi>\n  <mi>&#x03B8;<!-- θ --></mi>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "∫π0(cos<sup>2</sup>θ−1)/(sin<sup>2</sup>θ)dθ=∫π0(−sin<sup>2</sup>θ)/sinsin<sup>2</sup>θ)=∫π0dθ=−π",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 98,
     "question": "A bowl is designed by revolving completely the area enclosed by y = x<sup>2</sup> - 1, y = 3 and x ≥ 0 around the axis. What is the volume of this bowl?\n\n",
     "option": {
@@ -748,6 +764,22 @@
     "image": "",
     "answer": "c",
     "solution": "Total cost = N(250,000 + 70,000) = N320,000\nSelling price = N400,000 (given)\nGain = SP - CP = N(400,000 - 320,000) = N80,000\nGain % = gain/CP x 100 = (80,000/320,000) x 100\n\nGain % = 25%",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 128,
+    "question": "Evaluate (0.14<sup>2</sup> x 0.275) 7(0.02) to 3 decimal places.",
+    "option": {
+      "a": "0.039",
+      "b": "0.358",
+      "c": "0.033",
+      "d": "0.308"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(0.14<sup>2</sup> x 0.275) 7(0.02) = (0.14 x 0.14 x 0.275)/(7 x 0.02) = (0.14 x 0.14 x 0.275)/(0.14)\n\n=0.14 x 0.275 = 0.0385 Approx. 0.039",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -1360,6 +1392,22 @@
     "examyear": "2002"
   },
   {
+    "id": 208,
+    "question": "The acres for rice, pineapple, cassava, cocoa, and palm oil in a certain district are given respectively as 2, 5, 3, 11, and 9. What is the angle sector for cassava in a pie chart?",
+    "option": {
+      "a": "108°",
+      "b": "180°",
+      "c": "36°",
+      "d": " 60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Total: 2 + 5 + 3 + 11 + 9 = 30\n\nCassava: 330×360°=36°",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 213,
     "question": "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
     "option": {
@@ -1372,6 +1420,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710697888/ALOC-Questions/Mathematics/2002/math_2000_q42_ikiy1n.jpg",
     "answer": "d",
     "solution": "30 - x + x + 40 - x = 80 - 20\n70 - x = 60\n- x = 60 - 70\n- x = - 10\n∴ x = 10\nMusic only = 30 - x\n= 30 - 10\n20\nP(music only) = 20/80\n= 1/4\n= 0.25",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 215,
+    "question": "In the diagram above are two concentric circles of radii r and R respectively with center O. If r = 2/3R, express the area of the shaded portion in terms of π and R",
+    "option": {
+      "a": "21/25πR<sup>2</sup>",
+      "b": " 9/25πR<sup>2</sup>",
+      "c": "21/23πR<sup>2</sup>",
+      "d": " 5/9πR<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698085/ALOC-Questions/Mathematics/2002/math_2000_q44_jfpika.jpg",
+    "answer": "d",
+    "solution": "r = 2/3R\n\n∴R = 3/3R\n\nArea of small circle = πr<sup>2</sup>\n\n= π(2R/3)<sup>2</sup>\n\nArea of the big circle πr2 = π(3R/3)<sup>2</sup>\n\n\nArea of shaded portion = π(3R/3)<sup>2</sup>  - π(2R/3)<sup>2</sup>\n\n= π[(3R/3)<sup>2</sup> - (2R/3)<sup>2</sup>]\n\n= π[(3R/3)+(2R/3) − (3R/3) - (2R/3)]\n\n= π[(5R/3) (R/3)]\n\n= π x 5R/3 x R3\n\n\n= 5/9πR<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -3184,6 +3248,22 @@
     "examyear": "2008"
   },
   {
+    "id": 494,
+    "question": "Find the exterior angle of a 12 sided regular polygon",
+    "option": {
+      "a": "12°",
+      "b": "24°",
+      "c": "25°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Exterior angle = 360 / n\n= 360 / 12\n= 30°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 503,
     "question": "Differentiate sin x - x cos x",
     "option": {
@@ -3278,6 +3358,22 @@
     "solution": "-2p + r = 1.......(i)\n\n2p + 3r = 0.......(ii)\n\nr - 1 + 2p ........(iii)\n\n2p + 3(1 + 2p) = 0\n\n2p + 3(1 + 2p) = 0\n\n2p + 3 + 6p = 0\n\n3 - 8p = 0 → 8p = 3\n\np = 3/8\n\n6 = 1 - 2 (3/8)\n\n= 1 - 6/8\n\n8−6/8 = 2/8\n\n= 1/4",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 524,
+    "question": "Evaluate (81.81+99.44)/(20.09+36.16) correct to 3 siginficant figures",
+    "option": {
+      "a": "6.24",
+      "b": "3.22",
+      "c": "2.78",
+      "d": "2.13"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>81.81</mn>\n      <mo>+</mo>\n      <mn>99.44</mn>\n    </mrow>\n    <mrow>\n      <mn>20.09</mn>\n      <mo>+</mo>\n      <mn>36.16</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(81.81+99.44)/(20.09+36.16) = 181.25/56.25 = 18125/5625.  29/9 = 3(2/9) ≅ 3.22",
+    "examtype": "utme",
+    "examyear": "2009"
   },
   {
     "id": 525,
@@ -4304,6 +4400,22 @@
     "examyear": "2012"
   },
   {
+    "id": 725,
+    "question": "If 27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>, find x.",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>,\n \n3<sup>3(x+2)</sup> ÷ 3<sup>2(x+1)</sup> =3<sup>2x</sup> \n3<sup>3x+6</sup> ÷ 3<sup>2x+2</sup> = 3<sup>2x</sup> \n∴ (3x + 6) − (2x + 2) = 2x\nx + 4 = 2x ⟹ x = 4",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 728,
     "question": "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P ∩ Q",
     "option": {
@@ -4316,6 +4428,22 @@
     "image": "",
     "answer": "b",
     "solution": "P = {2,3,5}\n\nQ = {2,3,6,9}\n\nP ∩ Q = {2,3}",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 734,
+    "question": "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3",
+    "option": {
+      "a": "24",
+      "b": "27",
+      "c": "32",
+      "d": "36"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "U  ∝ 1/V<sup>3</sup>\n\n\nU = k/V<sup>3</sup>\n\n\nk = UV<sup>3</sup>\n\n\nk = 81 x 2<sup>3</sup>\n = 81 x 8\n\nWhen V = 3,\n\nU = k/V<sup>3</sup>\n\n\nU = 81×8/3<sup>3</sup>\n\n\nU = 81×8/27\n = 24",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -4576,6 +4704,22 @@
     "examyear": "2012"
   },
   {
+    "id": 768,
+    "question": "Find dy/dx if y = cosx\n.",
+    "option": {
+      "a": " sinx",
+      "b": "−sinx",
+      "c": "tanx",
+      "d": "−tanx"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If y = cosx                            dy/dx =—sinx",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 770,
     "question": "Convert 27<sub>10</sub>  to another number in base three",
     "option": {
@@ -4604,6 +4748,22 @@
     "image": "",
     "answer": "a",
     "solution": "1.25 × 0.025/0.05\n\n\n=125×10<sup>−2</sup> × 25 × 10<sup>−3</sup>/5× 10<sup>−2</sup>\n\n\n= 125 x 5 x 10<sup>−3</sup>\n\n= 625 x 0.001\n\n= 0.625\n\n= 0.6 Approx to 1 d.p.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 773,
+    "question": "Calculate the time taken for N3000 to earn N600 if invested at 8% simple interest",
+    "option": {
+      "a": "2(1/2) years",
+      "b": "3 years",
+      "c": "3(1/2) years",
+      "d": "1(1/2) years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using S.I = P × T × R/100\n\n\n600=3000 × T × 8/100\n\n\nT = 600 × 100/3000×8\n\n\n20/8\n\n\n= 2(1/2) years",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -4668,6 +4828,22 @@
     "image": "",
     "answer": "d",
     "solution": "y=(2x+2)3<sup>3</sup>\ndy/dx = 3(2x+2)<sup>3−1</sup>.2\n= 6(2x+2)<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 791,
+    "question": "The radius of a circle is increasing at the rate of 0.02cms<sup>-1</sup>. Find the rate at which the area is increasing when the radius of the circle is 7cm.",
+    "option": {
+      "a": "0.75cm<sup>2</sup>S<sup>-1</sup>",
+      "b": " 0.53cm<sup>2</sup>,S<sup>-1</sup>",
+      "c": " 0.35cm<sup>2</sup>S<sup>-1</sup>",
+      "d": " 0.88cm<sup>2</sup>S<sup>-1</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A = πr<sup>2</sup>, δA/δr\n = 2πr\n\nSo, using δAδt\n = δA/δr x δAδt\n\n\n= 2πr x 0.02\n\n= 2π x 7 x 0.02\n\n= 2 x 22/7 x 0.02\n\n=  0.88cm<sup>2</sup>S<sup>-1</sup>",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -4956,6 +5132,22 @@
     "image": "",
     "answer": "c",
     "solution": "∫(cos4x+sin3x)dx\n= 1/4sin4x − 1/3cos3x+k",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 831,
+    "question": "If x<sub>10</sub> = 23<sub>5</sub>. Find x",
+    "option": {
+      "a": "15",
+      "b": "12",
+      "c": "14",
+      "d": "13"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x<sub>10</sub> = 23<sub>5</sub>\nx<sub>10</sub> = 2 x 5<sup>1</sup> + 3 x 5<sup>0</sup>\n= 10 + 3\n= x<sub>10</sub> = 13",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -5292,6 +5484,22 @@
     "image": "",
     "answer": "b",
     "solution": "Principal = P, Simple Interest = I, Amount = A\n\nAmount = Principal + Simple Interest\n\nI = PRT/100\n\n\nR = rate, T = time\n\nI = (P×5×2)/100\n\n\nI = 10P/100\n\n\nI = P/10\n\n\nAmount A = P + I\n\n5500 = P + P/10\n\n\nMultiply through by 100\n\n5500 = 10P + P\n\n5500 = 11P\n\np = 5500/11\n\n\np = ₦5000",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 897,
+    "question": "The pie chart shows the allocation of money to each sector in a farm. The total amount allocated to the farm is ₦ 80 000. Find the amount allocated to fertilizer",
+    "option": {
+      "a": "₦ 35, 000",
+      "b": "₦ 40,000",
+      "c": "₦ 25,000",
+      "d": "₦ 20,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005849/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q29_a1bx8w.jpg",
+    "answer": "d",
+    "solution": "Total angle at a point = 3600\n\n∴ To get the angle occupied by fertilizer we have,\n\n40 + 50 + 80 + 70 + 30 + fertilizer(x) = 360\n\n270 + x = 360\n\nx = 360 - 270\n\nx = 90\n\nTotal amount allocated to the farm\n= ₦ 80,000\n\n∴Amount allocated to the fertilizer\n\n= (fertilizer (angle) × Total amount)/total angle\n\n\n= 90/360 × 80,000\n\n= ₦20,000",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -5856,6 +6064,22 @@
     "examyear": "2018"
   },
   {
+    "id": 967,
+    "question": "Evaluate ∫<sup>2</sup><sub>1</sub> 5/x\n dx",
+    "option": {
+      "a": "1.47",
+      "b": "2.67",
+      "c": "3.23",
+      "d": "3.47"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "∫5/x dx = 5 ∫1/x = 5Inx\n\nSince the integral of 1/x is Inx\n\n ∫<sup>2</sup><sub> 1</sub>\n∫ 5/x dx = 5\n\n dx = 5 (In<2 – InIn1)\n\n  = 3.4657\n\n  = 3.47",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 971,
     "question": "A binary operation ⊗\n is defined by m ⊗ n = mn + m − n on the set of real numbers, for all m, n ∈\n R. Find the value of 3 ⊗ (2⊗ 4).",
     "option": {
@@ -6032,6 +6256,22 @@
     "examyear": "2019"
   },
   {
+    "id": 989,
+    "question": "If P(2, m) is the midpoint of the line joining Q(m, n) and R(n, -4), find the values of m and n.",
+    "option": {
+      "a": " m = 0, n = 4",
+      "b": "m = 4, n = 0",
+      "c": " m = 2, n = 2",
+      "d": "m = -2, n = 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Q(m, n) and R(n, -4)\n\nMidpoint : P(2, m)\n\n⟹ (m+n/2,n − 4/2 )= (2,m)\nm + n = 2 × 2 ⟹ m + n = 4...(i)\nn − 4 = 2 × m ⟹ n − 4 =2m...(ii)\nSolving (i) and (ii) simultaneously,\n\nm = 0 and n = 4.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 992,
     "question": "d/dx [log⁡(4x<sup>3</sup> - 2x) ] is equal to",
     "option": {
@@ -6124,6 +6364,22 @@
     "image": "",
     "answer": "d",
     "solution": "Actual weight = 0.18g\n\nError = 0.21g - 0.18g\n\n= 0.03g\n\n% error = 0.03/0.18×100\n= 16.7%",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1006,
+    "question": "Evaluate  (6/0.32÷2/0.084 )<sup>(-1)</sup> correct to 1 decimal place.\n",
+    "option": {
+      "a": "1.3",
+      "b": "2.5",
+      "c": "4.6",
+      "d": "3.2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <mfrac>\n    <mn>6</mn>\n    <mn>0.32</mn>\n  </mfrac>\n  <mo>&#x00F7;<!-- ÷ --></mo>\n  <mfrac>\n    <mn>2</mn>\n    <mn>0.084</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(6/0.32 ÷ 2/0.084)<sup>−1</sup>\n= (600/32 ÷ 2000/84)<sup>−1</sup>\n= (600/32×84/2000)<sup>−1</sup>\n= (63/80)<sup>−1</sup>\n= 80/63 = 1.3 (to 1 decimal place)",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -6464,6 +6720,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1059,
+    "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+    "option": {
+      "a": "25 ways",
+      "b": "10 ways",
+      "c": "15 ways",
+      "d": " 20 ways"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>I</mi>\n  <mi>n</mi>\n  <msup>\n    <mspace width=\"1mm\" />\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>5</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msub>\n  <mspace width=\"1mm\" />\n  <mi>w</mi>\n  <mi>a</mi>\n  <mi>y</mi>\n  <mi>s</mi>\n  <mspace width=\"1mm\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>5</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>2</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>!</mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>4</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>3</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>!</mo>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>10</mn>\n  <mspace width=\"1mm\" />\n  <mi>w</mi>\n  <mi>a</mi>\n  <mi>y</mi>\n  <mi>s</mi>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "In〖<sup>5</sup>〗C<sub>2</sub> ways =5!/((5-2)!2!) = 5!/3!2! = (5 × 4 × 3!)/(3! × 2 × 1) = 10 ways",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1065,
     "question": "Find the derivative of the function y = 2x<sup>2</sup>(2x - 1) at the point x = -1?",
     "option": {
@@ -6752,6 +7024,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1108,
+    "question": "The 10th term of an AP is 32. If the first term is 3/2, what is the 4th term?",
+    "option": {
+      "a": "35/3",
+      "b": "64",
+      "c": "16",
+      "d": " 35/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Tn = a + (n-1)d\n\n10th term = 32\n\n32 = 3/2 + 9d \n\n9d = 32 - 3/2\n\n9d = 61/2\n\nd = 61/18\n\n: T4 = 3/2 + 3(61/18)\n\nT4 = 3/2 + 61/6 → 35/3",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1109,
     "question": "In the diagram above angle LNM and angle YNZ are represented by g and h respectively. Find ∠MNY",
     "option": {
@@ -6780,6 +7068,22 @@
     "image": "",
     "answer": "c",
     "solution": "Zoology has 7 letters in total, with O repeated thrice\n\n7!/3!\n → 7∗6∗5∗4∗3∗2∗1/3∗2∗1\n= 840ways",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1111,
+    "question": "Integrate (2x+1)<sup>3</sup>",
+    "option": {
+      "a": "2x+1<sup>3</sup>/8\n  + C",
+      "b": "2x+1<sup>4</sup>/8\n + C",
+      "c": " 2x+1<sup>4</sup>/4\n + C",
+      "d": " 2x+1<sup>2</sup>/6\n + C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Recall chain rule: \n\nu = 2x +1; du = 2dx → dx = du/2\n\nu<sup>3</sup>\n = ∫ u<sup>3</sup>\n du/2\n → 1/2\n ∫ u<sup>3</sup>\n=  1∗u<sup>4</sup>/2∗4\n \n\n=  u<sup>4</sup>/8\n →  2x+1<sup>4</sup>8\n + C",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -7120,6 +7424,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1153,
+    "question": "The ages of students in a small primary school were recorded in the table below.  Estimate the mean",
+    "option": {
+      "a": "7.7",
+      "b": "7.5",
+      "c": "7.8",
+      "d": " 7.6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007869/ALOC-Questions/Mathematics/2023/MATH_2023_Q32_qhpmgj.jpg",
+    "answer": "a",
+    "solution": "Mean = ∑fx/∑f=820.5/107\n = 7.7 (1 d.p)",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1156,
     "question": "A boat sails 8 km north from P to Q and then sails 6 km west from Q to R. Calculate the bearing of R from P. Give your answer to the nearest degree.",
     "option": {
@@ -7212,6 +7532,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007869/ALOC-Questions/Mathematics/2023/MATH_2023_Q32_qhpmgj.jpg",
     "answer": "a",
     "solution": "(N + 1)/2  = (107 + 1)/2 th = 54th value i.e the median age is in the interval \"7 - 8\" (29 + 25 = 54)?\n\nMedian = 1<sub>m</sub> + (((∑f)/2 − f<sub>b</sub>) /f<sub>m</sub> )c\n\nl<sub>m</sub>= lower class boundary of the median age = 6.5\n\n∑f = 107\n\nf<sub>b</sub> = sum of all frequencies before the median age = 29\n\nf<sub>m</sub> = frequency of the median age = 40\n\nc = class width = 8.5 - 6.5 = 2\n\nMedian = 6.5 + (((107/2) − 29)/40) x 2\n\n= 6.5 + ((53.5 − 29)/40) x 2\n\n= 6.5 + (24.5/40) x 2\n\n= 6.5 + 1.225\n\n∴\n median age = 7.725\n",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1174,
+    "question": "What is the general term of the sequence 3, 8, 13, 18, ...?",
+    "option": {
+      "a": " 5n - 2",
+      "b": "5n + 2",
+      "c": " 5",
+      "d": " 5n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given the sequence 3, 8, 13, 18, ... which is an arithmetic sequence\n\na = 3\n\nd = T<sub>2</sub>  - T<sub>1</sub>  = 8 - 3 = 5\n\nThe general term of an A.P is:\n\nT<sub>n</sub>  = a + (n - 1)d\n\n⇒ T<sub>n</sub> = 3 + (n - 1)5\n\n= T<sub>n</sub> = 3 + 5n - 5\n\n∴ T<sub>n</sub> = 5n - 2",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7420,6 +7756,22 @@
     "image": "",
     "answer": "d",
     "solution": "if y - 1 is a factor of y<sup>3</sup> + 4y<sup>2</sup> + ky - 6, then\n\nf(1) = (1)<sup>3</sup> + 4(1)<sup>2</sup> + k(1) - 6 = 0 (factor theorem)\n\n1 + 4 + k - 6 = 0\n\n5 - 6 + k = 0\n\n-1 + k = 0\n\nk = 1",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1200,
+    "question": "P varies directly as Q and inversely as R. When Q = 36 and R = 16, P = 27. Find the relation between P, Q and R.",
+    "option": {
+      "a": "P = Q/12R",
+      "b": "P = 12Q/R",
+      "c": " P=12QR",
+      "d": "P = 12/QR"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "P ∝ Q/R\n \n\nP = K(Q/R)\n\n\nWhen Q = 36, R = 16, P = 27\n\nThen substitute into the equation\n\n27 = K(36/16)\n\n\n\nK = (27×16)/36\n\n\nK=12\n\n\nSo the equation connecting P, Q and R is\n\nP = 12Q/R",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -7644,6 +7996,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206734/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q43_z19fk2.jpg",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1230,
+    "question": "From the figure above, what is the value of p?",
+    "option": {
+      "a": "135°",
+      "b": "90°",
+      "c": "60°",
+      "d": "45°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206828/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q45_silkfl.jpg",
+    "answer": "b",
+    "solution": "In the figure above, q° = 30° (vertically opposite angles)\n\n(P + 2q)° + 30° = 180°(angles on a straight line)\n\np + 2 x 30° + 30° = 180°\n\np + 60° + 30° = 180°\n\np + 90° = 180°\n\np = 180° - 90°\n\n= 90°",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -8028,6 +8396,22 @@
     "image": "",
     "answer": "d",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1285,
+    "question": "Given that Z = {1,2,4,5} what is the power of set Z?",
+    "option": {
+      "a": "16",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Z has 4 elements, power = number of subset = 2p\n\nZ = 2<sub>n</sub>  = 2<sub>4</sub> \n\n= 16",
     "examtype": "utme",
     "examyear": "2015"
   }
