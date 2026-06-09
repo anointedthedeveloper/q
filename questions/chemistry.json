@@ -608,6 +608,22 @@
     "examyear": "2001"
   },
   {
+    "id": 43,
+    "question": "Which of the followinig respresents hybridization in ethyne?",
+    "option": {
+      "a": "Sp2",
+      "b": "Sp2d",
+      "c": "Sp3",
+      "d": "sp"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 44,
     "question": "When sodium reacts with water, the resulting solution is",
     "option": {
@@ -763,6 +779,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 55,
+    "question": "Tetraoxosulphate(VI) acid burns the skin by",
+    "option": {
+      "a": "Heating",
+      "b": "Hydration",
+      "c": "Dehydration",
+      "d": "Hydrolysis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
