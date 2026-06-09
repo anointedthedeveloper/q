@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 8,
+    "question": "Inflation is likely to benefit ",
+    "option": {
+      "a": "persons with bank savings",
+      "b": "persons who live on fixed pension funds ",
+      "c": "creditors ",
+      "d": "debtors."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 10,
     "question": "Which of the following is an economic cost ",
     "option": {
@@ -27,6 +43,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 12,
+    "question": "A deficit budget is usually drawn up during ",
+    "option": {
+      "a": "economic buoyancy ",
+      "b": "inflationary period ",
+      "c": "war time ",
+      "d": "economic recession."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
@@ -183,6 +215,22 @@
       "b": "complementary goods ",
       "c": "the rationing function of price ",
       "d": "diminishing marginal utility."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following is not a basic assumption underlying the theory of consumer behavior",
+    "option": {
+      "a": "Consumers prefer more to less ",
+      "b": "consumers are rational ",
+      "c": "consumers make consistent ",
+      "d": "choices."
     },
     "section": "",
     "image": "",
@@ -384,6 +432,22 @@
     "examyear": "2013"
   },
   {
+    "id": 149,
+    "question": "One among the following options is not correct ",
+    "option": {
+      "a": "Any point inside the production possibility curve indicates unemployment or underemployment  ",
+      "b": "Increase in the price of a commodity leads to a fall in the demand for its substitute ",
+      "c": "The fixing of price above the equilibrium price level leads to surplus of the commodity ",
+      "d": "An increase in both market supply and market demand may not result in a change in equilibrium price and quantity. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 159,
     "question": "The law of comparative cost and absolute cost advantage are not the same is that; ",
     "option": {
@@ -480,6 +544,22 @@
     "examyear": "2010"
   },
   {
+    "id": 189,
+    "question": "The reward for entrepreneurship is",
+    "option": {
+      "a": "rent",
+      "b": "wages",
+      "c": "Interest",
+      "d": "profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 191,
     "question": "The difference between the highest and lowest in a set of data is the",
     "option": {
@@ -503,6 +583,22 @@
       "b": "Socialist economy",
       "c": "Communist economy",
       "d": "Mixed Economy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 196,
+    "question": "Performance of one task in a production process is known as",
+    "option": {
+      "a": "Specialization",
+      "b": "standardization",
+      "c": "division of labour",
+      "d": "segmentation"
     },
     "section": "",
     "image": "",
@@ -542,6 +638,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2001"
+  },
+  {
+    "id": 232,
+    "question": "A tent-making factory offers",
+    "option": {
+      "a": "personal services",
+      "b": "indirect services",
+      "c": "social services",
+      "d": "reflex services"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
   },
   {
     "id": 238,
@@ -784,6 +896,22 @@
     "examyear": "2009"
   },
   {
+    "id": 325,
+    "question": "A major assumption in cardinal utility theory is that",
+    "option": {
+      "a": "utility is measurable",
+      "b": "utility is not measurable",
+      "c": "total utility equals marginal utility",
+      "d": "total utility is constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 331,
     "question": "Production takes place when",
     "option": {
@@ -878,6 +1006,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 369,
+    "question": "If  X = 6 and N = 6, determine the value of   Efx.",
+    "option": {
+      "a": "36",
+      "b": "12",
+      "c": "1",
+      "d": "72"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 370,
@@ -976,6 +1120,22 @@
     "examyear": "2010"
   },
   {
+    "id": 396,
+    "question": "By buying treasury bills, the Central Bank of  Nigeria intends \tto",
+    "option": {
+      "a": "increase money supply in the economy",
+      "b": "reduce money supply in the economy",
+      "c": "reduce the cash reserve ratio for banks",
+      "d": "increase the capital base of commercial banks"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 404,
     "question": "Localization of industries refers to the",
     "option": {
@@ -987,6 +1147,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 408,
+    "question": "The primary motive for an individual engaging in production is to",
+    "option": {
+      "a": "make profit",
+      "b": "redistribute wealth",
+      "c": "satisfy basic human wants",
+      "d": "put inputs into use"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1022,6 +1198,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 420,
+    "question": "One major function of the entrepreneur is",
+    "option": {
+      "a": "bearing of risk",
+      "b": "maximizing profits",
+      "c": "taking charge of day to day management",
+      "d": "determining the selling price of his products"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 422,
+    "question": "Division of labour leads to",
+    "option": {
+      "a": "improved craftsmanship",
+      "b": "the production of standardized goods",
+      "c": "increase in the cost of goods",
+      "d": "trade by barter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
   },
   {
     "id": 428,
@@ -1104,6 +1312,22 @@
     "examyear": "2003"
   },
   {
+    "id": 459,
+    "question": "Budget deficit can be financed by",
+    "option": {
+      "a": "reducing the level of taxation",
+      "b": "printing more money",
+      "c": "lending to financial institutions",
+      "d": "employing more workers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 460,
     "question": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the",
     "option": {
@@ -1115,6 +1339,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 462,
+    "question": "It is necessary to estimate the national income of a country because it",
+    "option": {
+      "a": "indicates the overall performance of the economy",
+      "b": "ensures equitable distribution of wealth",
+      "c": "assists investors in identifying profitable ventures",
+      "d": "enables governments to conserve national resources"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2003"
@@ -1200,6 +1440,22 @@
     "examyear": "2004"
   },
   {
+    "id": 507,
+    "question": "Which of the following is excluded when estimating national income?",
+    "option": {
+      "a": "Dividends",
+      "b": "Wages and salaries",
+      "c": "Transfer payment",
+      "d": "Profits"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
     "id": 513,
     "question": "The 150.00 Naira which Olu would have used to purchase a textbook was used to buy a T-shirt. This implies that",
     "option": {
@@ -1264,6 +1520,22 @@
     "examyear": "2005"
   },
   {
+    "id": 532,
+    "question": "Wholesalers are often criticized because they",
+    "option": {
+      "a": "help to break the bulk",
+      "b": "finance producers",
+      "c": "increase prices",
+      "d": "provide after-scale services"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 537,
     "question": "Acceptability, durability, homogeneity and portability are all \tattributes of good",
     "option": {
@@ -1312,6 +1584,22 @@
     "examyear": "2005"
   },
   {
+    "id": 554,
+    "question": "ln a capitalist system, goods are produced for those who",
+    "option": {
+      "a": "want them most but cannot pay for them",
+      "b": "can pay for them but do not want them",
+      "c": "want them and can also pay for them",
+      "d": "are dependent on the labour force"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 558,
     "question": "Which of the following is not an objective of the \n\tOrganization of Petroleum Exporting Countries (OPEC)?",
     "option": {
@@ -1328,6 +1616,38 @@
     "examyear": "2005"
   },
   {
+    "id": 562,
+    "question": "The reward of capital as a factor of production is",
+    "option": {
+      "a": "rent",
+      "b": "wage",
+      "c": "interest",
+      "d": "commission."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 570,
+    "question": "Standardization of products or services is a feature of",
+    "option": {
+      "a": "large firms",
+      "b": "retailers",
+      "c": "small firms",
+      "d": "wholesalers."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 573,
     "question": "In the analysis of utility theory, the basis of demand is",
     "option": {
@@ -1335,6 +1655,54 @@
       "b": "average utility",
       "c": "fixed utility",
       "d": "diminishing utility"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 580,
+    "question": "The total amount of money raised by a company through insurance of shares to the public is",
+    "option": {
+      "a": "debentures",
+      "b": "nominal capital",
+      "c": "ordinary shares",
+      "d": "paid-up capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 601,
+    "question": "An increase in the quantity of goods and services produced \tin a country which raises her national income is known as",
+    "option": {
+      "a": "economic development",
+      "b": "economic growth",
+      "c": "domestic investment",
+      "d": "productivity."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 602,
+    "question": "The formula “index of export prices” / “Index of import prices”   x 100   is used to measure the",
+    "option": {
+      "a": "volume of trade between countries",
+      "b": "direction of international trade",
+      "c": "commodity terms of trade",
+      "d": "volume of imports"
     },
     "section": "",
     "image": "",
@@ -1376,6 +1744,38 @@
     "examyear": "2007"
   },
   {
+    "id": 624,
+    "question": "Which of the following is a characteristic of monopoly?",
+    "option": {
+      "a": "Many sellers",
+      "b": "Homogeneous commodity.",
+      "c": "A single seller",
+      "d": "Perfect knowledge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 627,
+    "question": "The main objective of privatizing a government business is to",
+    "option": {
+      "a": "create additional employment",
+      "b": "increase expenditure",
+      "c": "source for new funds",
+      "d": "increase the level of efficiency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
     "id": 628,
     "question": "The return on investment that is just sufficient to satisfy the owner of a business is called",
     "option": {
@@ -1403,6 +1803,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 632,
+    "question": "To promote the development of the agricultural sector, governments of West African countries should",
+    "option": {
+      "a": "encourage rural-urban drift",
+      "b": "discourage foreign investment in agriculture",
+      "c": "support the marketing of farm produce",
+      "d": "reduces tariff on food import"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
