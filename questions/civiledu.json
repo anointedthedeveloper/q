@@ -656,6 +656,22 @@
     "examyear": "2014"
   },
   {
+    "id": 50,
+    "question": "The “right to vote and be voted for” can only be enjoyed by Nigerian citizens who attain the age of",
+    "option": {
+      "a": "13.",
+      "b": "15.",
+      "c": "16.",
+      "d": "18."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 51,
     "question": "A representative of a commonwealth country in another member state is known as a / an.",
     "option": {
@@ -720,6 +736,22 @@
     "examyear": "2014"
   },
   {
+    "id": 55,
+    "question": "The structure of the Nigerian legislature is - in nature",
+    "option": {
+      "a": "bicameral",
+      "b": "confederal",
+      "c": "federal",
+      "d": "unicameral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 56,
     "question": "The most effective approach towards the elimination of sexually transmitted diseases is by",
     "option": {
@@ -763,6 +795,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 60,
+    "question": "ln 2013, Nigeria celebrated her ______ independence anniversary",
+    "option": {
+      "a": "50th",
+      "b": "51st",
+      "c": "52nd",
+      "d": "54th"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2014"
@@ -1819,6 +1867,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 139,
+    "question": "One of the following is not a federal road agencies",
+    "option": {
+      "a": "DTO",
+      "b": "FRSC",
+      "c": "TRACE",
+      "d": "VIO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -2983,6 +3047,22 @@
       "b": "executive",
       "c": "judiciary",
       "d": "the president"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 225,
+    "question": "Membership of a state is known as",
+    "option": {
+      "a": "citizenship",
+      "b": "statism",
+      "c": "patriotism",
+      "d": "indigenousness"
     },
     "section": "",
     "image": "",
@@ -4176,6 +4256,22 @@
     "examyear": "2011"
   },
   {
+    "id": 315,
+    "question": "One way for Nigerians to maintain steady good health is by",
+    "option": {
+      "a": "taking malaria medicine everyday",
+      "b": "bathing with salt water and eating bitter kola always",
+      "c": "taking balance diet and engaging in regular physical exercise",
+      "d": "taking alcohol and cigarettes regularly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 316,
     "question": "Which of the following is the cleanest source of water in Nigeria",
     "option": {
@@ -4743,6 +4839,22 @@
       "b": "Driving skill",
       "c": "Decorum",
       "d": "Deviance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
+    "id": 356,
+    "question": "Which of the following statements is not correct?",
+    "option": {
+      "a": "Valid driver’s license must be obtained before attempting to drive",
+      "b": "Flowing garment can be worn on a motorcycle or bicycle",
+      "c": "Headlights should be used during unfavourable weather",
+      "d": "Drivers must not engage in distractive activities while driving"
     },
     "section": "",
     "image": "",
