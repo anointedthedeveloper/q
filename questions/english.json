@@ -3382,6 +3382,25 @@
     "category": "others"
   },
   {
+    "id": 229,
+    "question": "Did you have ……… when you went to visit the medical doctor? ",
+    "option": {
+      "a": "diarrhea ",
+      "b": "diarrhea",
+      "c": "diarhoea  ",
+      "d": "diarrhea "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 230,
     "question": "Your performance will improve if you…….  Hard",
     "option": {
@@ -4970,6 +4989,25 @@
     "section": "choose the option that best completes the gap(s).",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 350,
+    "question": "Yesterday in the hall, Ola said that ...........  his watch.",
+    "option": {
+      "a": "he had mislaid ",
+      "b": "he had forgot ",
+      "c": "ne has misplaced  ",
+      "d": "he have lost "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007",
@@ -7022,6 +7060,25 @@
     "section": "choose the option that best completes the gap(s).",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 490,
+    "question": "If anyone greets you, it is only polite to return….. Greeting",
+    "option": {
+      "a": "your  ",
+      "b": "the one's   ",
+      "c": "Anyone's ",
+      "d": "one's "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -9553,6 +9610,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 96,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 693,
+    "question": "While the hooligans exchanged blows, we looked <u>complacently</u>?",
+    "option": {
+      "a": "dejectedly",
+      "b": "sorrowfully",
+      "c": "questioningly",
+      "d": "contentedly"
+    },
+    "section": "<b>In each of questions 86 to 100 choose from the options nearest in meaning to the word underlined.</b>\n",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 97,
     "hasPassage": 0,
     "category": "others"
   },
@@ -14554,6 +14630,25 @@
     "category": "others"
   },
   {
+    "id": 1139,
+    "question": "The girl took a <u>cursory</u> glance at the letter and hid it",
+    "option": {
+      "a": "Concise",
+      "b": "Brief",
+      "c": "Lasting",
+      "d": "Sententious"
+    },
+    "section": "In each of questions 46 to 55, choose the option <b>opposite</b> in meaning to the word or phrase underlined.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "cursory; hasty and therefore not thorough or detailed.",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 47,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1140,
     "question": "The relationship between the couple has been <u>frosty</u>",
     "option": {
@@ -15158,6 +15253,25 @@
     "examtype": "utme",
     "examyear": "2013",
     "questionNub": 90,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1184,
+    "question": "Loo<u>s</u>e",
+    "option": {
+      "a": "close",
+      "b": "rouse",
+      "c": "sell",
+      "d": "fuse"
+    },
+    "section": "<b>In each of questions 89 to 91, choose the option that has the same consonant sound as the one represented by the letter underlined.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "loose; /luːs/\n\nsell; /sɛl/",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 91,
     "hasPassage": 0,
     "category": "others"
   },
@@ -19851,6 +19965,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 12,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1576,
+    "question": "Choose the word that best completes the following sentence. \n\nI really like working in that office: I find the — very friendly",
+    "option": {
+      "a": "condition",
+      "b": "atmosphere",
+      "c": "air",
+      "d": "situation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Means the pervading tone or mood of a place, situation, or creative work.",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 13,
     "hasPassage": 0,
     "category": "others"
   },
