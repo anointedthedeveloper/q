@@ -91,10 +91,14 @@ if not API_KEYS:
 
 HEADERS_LIST = [{"Accept": "application/json", "AccessToken": k} for k in API_KEYS]
 
-# GitHub config — set these in .env
-GITHUB_TOKEN  = _env.get("GITHUB_TOKEN", "")
-GITHUB_REPO   = _env.get("GITHUB_REPO", "")    # e.g. "yourname/yourrepo"
-GITHUB_BRANCH = _env.get("GITHUB_BRANCH", "master")
+# GitHub config — from .env when running locally, from environment in Actions
+GITHUB_TOKEN  = os.environ.get("GITHUB_TOKEN")  or _env.get("GITHUB_TOKEN", "")
+GITHUB_REPO   = os.environ.get("GITHUB_REPO")   or _env.get("GITHUB_REPO", "")
+GITHUB_BRANCH = os.environ.get("GITHUB_BRANCH") or _env.get("GITHUB_BRANCH", "master")
+
+# When running inside GitHub Actions the workflow commit step handles pushing,
+# so skip the per-file API push to avoid hitting secondary rate limits.
+IN_ACTIONS = os.environ.get("GITHUB_ACTIONS") == "true"
 
 BASE_URL   = "https://questions.aloc.com.ng/api/v2/q/5"
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "questions")
@@ -457,8 +461,9 @@ def _run_subject(subject, progress):
     save_progress(progress)
 
     print(f"[{subject}] COMPLETE: {total} questions — pushing to GitHub...")
-    github_push_file(subject)
-    github_push_progress()
+    if not IN_ACTIONS:
+        github_push_file(subject)
+        github_push_progress()
     print(f"[{subject}] done.")
 
 # ── Main ──────────────────────────────────────────────────────────────────────

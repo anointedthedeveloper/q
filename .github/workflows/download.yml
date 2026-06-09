@@ -1,0 +1,46 @@
+name: Download Questions
+
+on:
+  workflow_dispatch:       # run manually from GitHub Actions tab
+  schedule:
+    - cron: "0 0 * * *"   # also auto-runs daily at midnight UTC
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350   # just under GitHub's 6-hour free limit
+
+    permissions:
+      contents: write      # needed to push question files back to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Write accounts.json from secret
+        run: echo '${{ secrets.ACCOUNTS_JSON }}' > accounts.json
+
+      - name: Run downloader
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+          GITHUB_BRANCH: master
+        run: python download.py
+
+      - name: Commit downloaded questions
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add questions/ progress.json || true
+          git diff --cached --quiet || git commit -m "$(date '+%Y-%m-%d %H:%M') — auto download"
+          git push
