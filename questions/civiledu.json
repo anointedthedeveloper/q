@@ -1,5 +1,21 @@
 [
   {
+    "id": 9,
+    "question": "It could be inferred from the statements above that cultism in schools could lead to",
+    "option": {
+      "a": "sudden prosperity.",
+      "b": "uninterrupted academic calender.",
+      "c": "popularity on campus.",
+      "d": "untimely death."
+    },
+    "section": "NEWS: ‘Rival Cult Group Killed Ten on Campus’<br> \tSTUDENT: I will definitely need a bullet proof vest before I can go back to the Campus.<br>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 10,
     "question": "Victims of human trafficking are usually compelled to engage in",
     "option": {
@@ -912,6 +928,22 @@
     "examyear": "2012"
   },
   {
+    "id": 167,
+    "question": "The following is the function of a responsible parenthood",
+    "option": {
+      "a": "care and love",
+      "b": "gambling",
+      "c": "Drug addition",
+      "d": "fighting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
     "id": 171,
     "question": "Which of the following are not fundamental human right",
     "option": {
@@ -1163,6 +1195,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 214,
+    "question": "Which of the following concepts confirms the general acceptance and recognition of a government?",
+    "option": {
+      "a": "Democratic powers",
+      "b": "Legitimacy",
+      "c": "sovereignty",
+      "d": "popular democracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -1824,6 +1872,22 @@
     "examyear": "2011"
   },
   {
+    "id": 343,
+    "question": "Orderliness can be defined as",
+    "option": {
+      "a": "being punctual to work",
+      "b": "studying diligently in school",
+      "c": "doing things in a proper way",
+      "d": "learning the Western way of life"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
     "id": 346,
     "question": "Rates are collected in Nigeria by",
     "option": {
@@ -1899,6 +1963,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
+    "id": 371,
+    "question": "Preventive measures of HIV/AIDS do not include",
+    "option": {
+      "a": "abstinence",
+      "b": "screening of blood before transfusion",
+      "c": "use of barrier method",
+      "d": "stigmatization of victims"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2016"
