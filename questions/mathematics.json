@@ -976,6 +976,22 @@
     "examyear": "2013"
   },
   {
+    "id": 75,
+    "question": "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?",
+    "option": {
+      "a": "8",
+      "b": "24",
+      "c": "62",
+      "d": "86"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Use a venn diagram:\n60-3x+3x+50-3x = 94-x.\n110-3x+x = 94\n-2x = 94-110\n=>-2x = -16, this x = 8.\nMembers that like only one game:\n= 60 - 3x + 50 - 3x\n= 60 - 3x8 + 50 - 3x8\n= 60 - 24 + 50 - 24\n= 36 + 26 = 62",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 76,
     "question": "Evaluate (2.813×10<sup>−3</sup>×1.063)/(5.637×10<sup>−2</sup>) reducing each number to two significant figures and leaving your answer in two significant figures.\u000b\n",
     "option": {
@@ -3052,6 +3068,22 @@
     "image": "",
     "answer": "d",
     "solution": "C.P = N1800\nS.P = (270/5) x 40 = N2160.00\nProfit = S.P - C.P = N2160 - N1800 = N360.00",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 227,
+    "question": "Simplify 1 - (7/3 x 5/4) + 3/5",
+    "option": {
+      "a": "-16/15",
+      "b": "-79/60",
+      "c": "-37/15",
+      "d": "-151/60"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "1−(7/3 × 5/4) + 3/5\n \n= 1 − 35/12 + 3/5\n= (60−175+36)/60\n= −79/60",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -7052,6 +7084,22 @@
     "image": "",
     "answer": "a",
     "solution": "If S ⊂ T ⊂ W,\n\nS ∩ T ∩ W = S is true since S ∩ T = S and S ∩ W = S.\n\nS ∪ T ∪ W = W is also true. S ∪ T = T and T ∪ W = W.\n\nHowever, to say that T ∩ W = S is not very true mathematically. Instead, it is safe to say S ⊂ (T ∩ W).",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 531,
+    "question": "If p=√((rs<sup>3</sup>)/t), express r in terms of p, s and t?",
+    "option": {
+      "a": " p<sup>2</sup> t/s<sup>3</sup>",
+      "b": "p3t/s<sup>3</sup>",
+      "c": "p<sup>3</sup>t/s<sup>2</sup> ",
+      "d": "p<sup>t</sup>/s<sup>3</sup> "
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>p</mi>\n  <mo>=</mo>\n  <msqrt>\n    <mfrac>\n      <mrow>\n        <mi>r</mi>\n        <msup>\n          <mi>s</mi>\n          <mn>3</mn>\n        </msup>\n      </mrow>\n      <mi>t</mi>\n    </mfrac>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <msup>\n    <mi>p</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mi>r</mi>\n      <msup>\n        <mi>s</mi>\n        <mn>3</mn>\n      </msup>\n    </mrow>\n    <mi>t</mi>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>t</mi>\n  <msup>\n    <mi>p</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>=</mo>\n  <mi>r</mi>\n  <msup>\n    <mi>s</mi>\n    <mn>3</mn>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <mi>r</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <msup>\n        <mi>p</mi>\n        <mn>2</mn>\n      </msup>\n      <mi>t</mi>\n    </mrow>\n    <msup>\n      <mi>s</mi>\n      <mn>3</mn>\n    </msup>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "p=√((rs<sup>3</sup>)/t) = p<sup>2</sup> = (rs<sup>3</sup>)/t tp<sup>2</sup> = rs<sup>3</sup> r=(p<sup>2</sup> t)/s<sup>3</sup> ",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -13008,6 +13056,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1019,
+    "question": "Factorise (4a + 3)<sup>2</sup>  - (3a - 2)<sup>2</sup> ",
+    "option": {
+      "a": "(a + 1)(a + 5)",
+      "b": " (a - 5)(7a - 1)",
+      "c": "(a + 5)(7a + 1)",
+      "d": " a(7a + 1)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "[(4a + 3) <sup>2</sup> - (3a - 2)<sup>2</sup>  = a<sup>2</sup>  - b<sup>2</sup>  = (a + b) (a - b) \n\n= [(4a + 3) + (3a - 2)] [(4a + 3) - (3a - 2)]\n\n= [4a + 3 + 3a - 2] [4a + 3 - 3a + 2]\n\n= (7a + 1)(a + 5)\n\n(a + 5) (7a + 1) ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1021,
     "question": "Find all real number x which satisfy the inequality 1/3 (x + 1) - 1 > 1/5(x + 4) ",
     "option": {
@@ -13260,6 +13324,22 @@
     "image": "",
     "answer": "a",
     "solution": "Principal = N225.00, interest = N27.00\n\nYear = x, Rate = 4% \n\n1 = PRT/100\n27 = (225 × 4 × X)/100 = 2700  = 900T\n\nT = 2700/900\n \n\n= 3 years",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1038,
+    "question": " Calculate the standard deviation of the following data: 7, 8, 9, 10, 11, 12, 13 ",
+    "option": {
+      "a": "2",
+      "b": "4",
+      "c": "12",
+      "d": "17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "S.D = ∑√(x−x)<sup>2</sup>/N = ∑d<sup>2</sup>N = √28/7\n \n\n= √4\n \n\n= 2",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -15548,6 +15628,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724001838/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q20_gokncz.jpg",
     "answer": "c",
     "solution": "By matrices multiplication;\n\n5x - 6y = 7 ........(1)\n2x - 7y = -11 ......(2)\n2 x (1): 10x - 12y = 14 .......(3)\n5 x (2): 10x - 35y = -55 ......(4)\n\n(3) - (4): 23y = 69\n\ny = 69/23 = 3",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1207,
+    "question": "If ∣∣∣−x−1124∣∣∣=−12\n, find x.",
+    "option": {
+      "a": "-6",
+      "b": "-2",
+      "c": " 3",
+      "d": "6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724001964/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q21_csqcpp.jpg",
+    "answer": "d",
+    "solution": "-4x - (-1)12 = -12\n\n-4x + 12 = -12\n\n-4x = -12 - 12\n\n-4x = - 24\n\nx = 6",
     "examtype": "utme",
     "examyear": "2014"
   },
