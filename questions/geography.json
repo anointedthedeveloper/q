@@ -3216,6 +3216,22 @@
     "examyear": "2014"
   },
   {
+    "id": 205,
+    "question": "One major societal issues in Nigeria is: ",
+    "option": {
+      "a": "Poor feeding. ",
+      "b": "Poor human rights",
+      "c": "Poor language",
+      "d": "Poor religion. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 206,
     "question": "The United Nations estimate of Nigeria population in 2009 was",
     "option": {
@@ -3707,6 +3723,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 239,
+    "question": "The circulation of ocean currents is",
+    "option": {
+      "a": "Clockwise both in the northern hemisphere and clockwise in the Southern",
+      "b": "Anticlockwise in the northern hemisphere and clockwise in the southern hemisphere",
+      "c": "Anticlockwise both in the northern and southern hemisphere",
+      "d": "Clockwise in both northern and southern hemisphere"
+    },
+    "section": "",
+    "image": "",
+    "answer": "e",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -4411,6 +4443,22 @@
     "section": "",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2017_6_and_7_y30z7q.jpg",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 284,
+    "question": "The roads in area run mainly along",
+    "option": {
+      "a": "Gentle slopes",
+      "b": "Watersheds",
+      "c": "Steep slopes",
+      "d": "Hilltop"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
