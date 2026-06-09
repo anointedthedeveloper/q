@@ -7600,6 +7600,22 @@
     "examyear": "2009"
   },
   {
+    "id": 538,
+    "question": "Find to infinity, the sum of the sequence 1,9/10,(9/10)<sup>2</sup>,(9/10)<sup>3</sup>,…..",
+    "option": {
+      "a": "10",
+      "b": " 9",
+      "c": "10/9",
+      "d": " 9/10"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mn>1</mn>\n  <mo>,</mo>\n  <mfrac>\n    <mn>9</mn>\n    <mn>10</mn>\n  </mfrac>\n  <mo>,</mo>\n  <msup>\n    <mrow>\n      <mo>(</mo>\n      <mfrac>\n        <mn>9</mn>\n        <mn>10</mn>\n      </mfrac>\n      <mo>)</mo>\n    </mrow>\n    <mn>2</mn>\n  </msup>\n  <mo>,</mo>\n  <msup>\n    <mrow>\n      <mo>(</mo>\n      <mfrac>\n        <mn>9</mn>\n        <mn>10</mn>\n      </mfrac>\n      <mo>)</mo>\n    </mrow>\n    <mn>3</mn>\n  </msup>\n  <mo>,</mo>\n  <mo>.</mo>\n  <mo>.</mo>\n  <mo>.</mo>\n  <mo>.</mo>\n  <mo>.</mo>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "a=1, r = 9/10.   S<sub>2n</sub> = a/(1−r).   S<sub>n</sub> = 1/(1−9/10) = 1÷(1/10) = 1 × 10/1.    10",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 539,
     "question": "If m * n = n - (m+2) for any real number m and n find the value of 3*(-5)?",
     "option": {
@@ -10864,6 +10880,22 @@
     "examyear": "2013"
   },
   {
+    "id": 812,
+    "question": "Find the equation of the perpendicular bisector of the line joining P(2, -3) to Q(-5, 1)",
+    "option": {
+      "a": " 8y + 14x + 13 = 0",
+      "b": "8y - 14x + 13 = 0",
+      "c": "8y - 14x - 13 = 0",
+      "d": " 8y + 14x - 13 = 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given P(2, -3) and Q(-5, 1)\n\nMidpoint = (2+(−5)/2,−3+1/2)\n= (−3/2,−1)\nSlope of the line PQ = 1−(−3)/−5−2\n= −4/7\nThe slope of the perpendicular line to PQ = −1/(−4/7)\n= 7/4\nThe equation of the perpendicular line: y =7/4x + b\nUsing a point on the line (in this case, the midpoint) to find the value of b (the intercept).\n\n−1=(7/4)(−3/2) + b\n−1+21/8 = 13/8 = b\n∴\n The equation of the perpendicular bisector of the line PQ is y = 7/4x + 13/8\n≡ 8y = 14x + 13 ⟹ 8y − 14x − 13 = 0",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 813,
     "question": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = 1/12 Calculate the value of",
     "option": {
@@ -13040,6 +13072,22 @@
     "examyear": "2018"
   },
   {
+    "id": 968,
+    "question": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?",
+    "option": {
+      "a": "1/16",
+      "b": "1/6",
+      "c": "1/4",
+      "d": "3/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "P( tail on a coin) = 1/2\nEven numbers on a care 2, 4 and 6\n\n  P( even number on a die) = 3/6 = 1/2\nP( tail on a coin and even number on a die) = 1/2 x 1/2\n = 1/4",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 969,
     "question": "Make q the subject of the formula in the equation mn/a<sup>2</sup>− pq/b<sup>2</sup> = 1",
     "option": {
@@ -14284,6 +14332,22 @@
     "image": "",
     "answer": "b",
     "solution": "Total number of acres = 2 + 5 + 3 + 11 + 9 = 30\n\nThe angle of acres = 2 + 5 + 3 + 11 + 9 = 30\n\nThe angle of the sector for cassava in a pie chart = 3/30 × 360° = 36°\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1052,
+    "question": "Three consecutive terms of a geometric progression are give as n - 2, n and n + 3. Find the common ratio ",
+    "option": {
+      "a": "3/2",
+      "b": "2/3",
+      "c": "1/2",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "h/(n − 2) = (n + 3)/n\nn<sup>2</sup> = (n + 3) (n - 2) \n\nn<sup>2</sup> = n<sup>2</sup> + n - 6\n\nn2<sup>2</sup> + n - 6 - n<sup>2</sup> = 0\n\nn - 6 = 0\n\nn = 6\n\nCommon ratio: n/(n−2) = 6/(6 −2) = 6/4 = 3/2\n ",
     "examtype": "2020",
     "examyear": "utme"
   },
