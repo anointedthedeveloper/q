@@ -1296,6 +1296,22 @@
     "examyear": "2010"
   },
   {
+    "id": 120,
+    "question": "Fascism originated from ",
+    "option": {
+      "a": "Greece ",
+      "b": "Italy  ",
+      "c": "China  ",
+      "d": "Germany"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 121,
     "question": "According to Karl Marx, the mode of production that precedes capitalism is ",
     "option": {
@@ -2224,6 +2240,22 @@
     "examyear": "2000"
   },
   {
+    "id": 208,
+    "question": "Veto power in a presidential system lies with the",
+    "option": {
+      "a": "Attorney General",
+      "b": "Chief of Army Staff",
+      "c": "Executive President",
+      "d": "Prime Minister."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 210,
     "question": "Mussolini’s fascism and Hitler’s Nazism are good examples of",
     "option": {
@@ -2704,6 +2736,22 @@
     "examyear": "2013"
   },
   {
+    "id": 263,
+    "question": "Military rule is an example of ______ authority.",
+    "option": {
+      "a": "charismatic",
+      "b": "coercive",
+      "c": "delegated",
+      "d": "legal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 264,
     "question": "Which of these countries is NOT a member of Economic Community of West African States (ECOWAS).",
     "option": {
@@ -3115,6 +3163,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 301,
+    "question": "The first ever civilian - to - civilian transition was recorded in Nigeria in",
+    "option": {
+      "a": "1966",
+      "b": "1979",
+      "c": "1999",
+      "d": "2003"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -4352,6 +4416,22 @@
     "examyear": "2010"
   },
   {
+    "id": 426,
+    "question": "Public opinion can be measured through",
+    "option": {
+      "a": "strike action",
+      "b": "referendum",
+      "c": "rumour",
+      "d": "negotiation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 427,
     "question": "Which of the following is the main function of the civil service?",
     "option": {
@@ -4635,6 +4715,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 449,
+    "question": "Nigeria spearheaded the formation of ECOWAS during the regime of",
+    "option": {
+      "a": "Murtala Muhammed",
+      "b": "Yakubu Gowon",
+      "c": "Ibrahim Babangida",
+      "d": "Olusegun Obasanjo."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -6064,6 +6160,22 @@
     "examyear": "2014"
   },
   {
+    "id": 582,
+    "question": "The Nigerian Independence Constitution was modified by the",
+    "option": {
+      "a": "1963 Constitution",
+      "b": "1999 Constitution",
+      "c": "1989 Constitution",
+      "d": "1979 Constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 583,
     "question": "The President of Nigeria was indirectly elected through secret ballot for a period of five years by the senate in",
     "option": {
@@ -6151,6 +6263,22 @@
       "b": "public control",
       "c": "emphasis on subsidies",
       "d": "wastage of resources"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 590,
+    "question": "One feature of public corporations that was weakened by privatization is",
+    "option": {
+      "a": "social control",
+      "b": "national integration",
+      "c": "social harmony",
+      "d": "government control"
     },
     "section": "",
     "image": "",
@@ -7168,6 +7296,22 @@
     "examyear": "1989"
   },
   {
+    "id": 693,
+    "question": "The head of the Nigerian Mission to the Commonwealth of Nations is",
+    "option": {
+      "a": "an Ambassador",
+      "b": "a Consular",
+      "c": "the Minister of External Affairs",
+      "d": "a High Commissioner"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 694,
     "question": "While political parties aim at forming a government, pressure groups aim at",
     "option": {
@@ -7548,6 +7692,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Structural Adjustment Programme (SAP) was introduced by General Ibrahim Babangida in 1986.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 729,
+    "question": "Shortage of trained personnel is a major problem of the __",
+    "option": {
+      "a": " Federal Government",
+      "b": " State Governments",
+      "c": "Regional Governments",
+      "d": "Local Governments."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": " Local governments often struggle with a lack of trained personnel.",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -9376,6 +9536,22 @@
     "examyear": "2020"
   },
   {
+    "id": 896,
+    "question": "A condition for judicial independence is the appointment of judges by the __________",
+    "option": {
+      "a": "Civil Service",
+      "b": "Judicial Service Commission",
+      "c": "Law Review Commissions",
+      "d": "Code of Conduct Bureau"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An independent judiciary is one which is free from the interference of the other two arms of government, the executive and legislative. A condition for judicial independence is the appointment of judges by the Judicial Service Commission. The Judicial Service Commission is responsible for the appointment, promotion and discipline of judges. This system helps ensure that the judiciary remains independent from the executive and legislative branches.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 898,
     "question": "Warrant Chiefs were appointed to __________",
     "option": {
@@ -9948,6 +10124,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Security Council has 15 members: 5 permanent members with veto power.\n\nThe five permanent members of the UN Security Council, often referred to as the P5, are China, France, Russia, the United Kingdom, and the United States. These countries have the privilege of veto power, which means that any substantive resolution cannot be adopted if one or more of them cast a negative vote. Additionally, there are ten non-permanent members elected for two-year terms by the General Assembly.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 958,
+    "question": "The oversight function is performed by the",
+    "option": {
+      "a": "judiciary",
+      "b": "executive",
+      "c": "court",
+      "d": "legislature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Legislative oversight is one of the methods of checks and balances. The Legislature checks on the executive through budget approval, committee hearings, confirmation of appointments made by the executive, etc. ",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -11056,6 +11248,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1066,
+    "question": "ECOWAS was established in",
+    "option": {
+      "a": "1970",
+      "b": "1972",
+      "c": "1975",
+      "d": "1976"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Economic Community of West African States (ECOWAS) was established on the 28th of May, 1975 under the regime of General Yakubu Gowon. It has its administrative headquarters in Abuja, Nigeria and its financial headquarters in Lome, Togo.\n\n ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1067,
     "question": "The Nigerian Civil War was fought during the military regime of ",
     "option": {
@@ -11100,6 +11308,22 @@
     "image": "",
     "answer": "a",
     "solution": "Foreign policy refers to the decisions and actions taken by a state to pursue its interests within the global system. This means that foreign policy is based, fundamentally, on the country's own (national) interest. It can also be based on other country's interest only if they align with the country's own interest.  ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1070,
+    "question": "The fundamental law containing the rules and principles governing a country is the ",
+    "option": {
+      "a": "convention",
+      "b": " constitution",
+      "c": " constitution",
+      "d": " judicial review"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The constitution is the fundamental law containing th rules and principles governing a country. Convention is one of the sources of a constitution. Act sof parlimant are laws that are passed by the legislature. Judicial review is one of methods by which the judiciary checks on other arms of goverment; it determines whether or not the laws, policies and actions of the legislative and executive are constitutional. ",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -12588,6 +12812,22 @@
     "image": "",
     "answer": "b",
     "solution": "The best form of government for a heterogeneous society is a federal system.\n\nIt should also be noted that heterogeneity, different languages, customs and levels of political economic and social developments among the tribes play a prominent role in forcing confederal system of government on the people.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1205,
+    "question": "Associations whose main interest is to influence public policies without having to capture power are",
+    "option": {
+      "a": "communal groups",
+      "b": "trade unions",
+      "c": "political parties",
+      "d": "pressure groups"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Associations whose main interest is to influence public policy without having to capture power are pressure groups.\n\nPressure groups are defined as association of people who seek to influence government actions and policies to the benefit of their members.",
     "examtype": "utme",
     "examyear": "2003"
   },
