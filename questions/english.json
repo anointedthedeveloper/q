@@ -1159,6 +1159,25 @@
     "category": "others"
   },
   {
+    "id": 415,
+    "question": "Last Tuesday, Ochonu asked me.........",
+    "option": {
+      "a": " had I come yesterday ",
+      "b": "did you come yesterday ",
+      "c": "whether I had come the day before ",
+      "d": "If I had come yesterday"
+    },
+    "section": "choose the option  best completes the gap(s) .",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 422,
     "question": "………of the students  turned up, so the lecture was cancelled.",
     "option": {
@@ -2717,6 +2736,25 @@
     "category": "others"
   },
   {
+    "id": 1270,
+    "question": "What is the full meaning of the acronym EMAL",
+    "option": {
+      "a": "Examination Malpractice",
+      "b": "Examination misconduct",
+      "c": "Examination management",
+      "d": "Examination Manners"
+    },
+    "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 17,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1273,
     "question": "It might be said that there is some kind of sibling rivalry between",
     "option": {
@@ -3192,6 +3230,25 @@
     "category": "others"
   },
   {
+    "id": 1516,
+    "question": "The organization is constantly in a state of flux",
+    "option": {
+      "a": "There are periodic changes in the organization",
+      "b": "The organization is facing a difficult period",
+      "c": "The organization is experiencing; good times",
+      "d": "The organization is moribund"
+    },
+    "section": "Choose the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "a",
+    "solution": "A state of flux means a state of uncertainty about what should be done usually followed by the establishment of a new direction of action, Flux is used to describe something that constantly changes",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 33,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1521,
     "question": "The <i>severity</i> of the harmattan helped me to complete my writing assignment in record time because i had no choice but to lock myself indoors",
     "option": {
@@ -3340,6 +3397,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 26,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1595,
+    "question": "Select the option that best explain the information conveyed in the sentence\n\nAdvising Olu to break his bad habit is like knocking your head against a brick wall",
+    "option": {
+      "a": " It is making a fool of you",
+      "b": "It is trying the impossible",
+      "c": "It is making him your enemy",
+      "d": "It is asking him to beat you"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "This means trying the impossible.\nThe idiomatic expression 'knocking your hand against a brick wall' means to attempt continuously and fruitlessly to accomplish a task or achieve a goal that is or seem ultimately hopeless, more like it is impossible.",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 32,
     "hasPassage": 0,
     "category": "others"
   },
@@ -3644,6 +3720,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 14,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1709,
+    "question": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nBreeze",
+    "option": {
+      "a": "stress",
+      "b": "chess",
+      "c": "free",
+      "d": "trees"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The answer is ‘D’ because only ‘trees’ /tri:z/ whose plural form ‘-s’ becomes ‘-z’ rhymes with ‘breeze’ /bri:z/. The other options ‘stress’ and ‘chess’ have similar rhymes, leaving free /fri:/ alone",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 22,
     "hasPassage": 0,
     "category": "others"
   },
