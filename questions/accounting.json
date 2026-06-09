@@ -16,6 +16,38 @@
     "examyear": "2010"
   },
   {
+    "id": 25,
+    "question": "The diary or events in which all financial transactions    are    recorded    for    easy reference and to assist in the double entry system is ",
+    "option": {
+      "a": "Ledger",
+      "b": "Journal   ",
+      "c": "Purchases and sales day books ",
+      "d": "Debit and credit documents"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 29,
+    "question": "Accounting equation is given by  ",
+    "option": {
+      "a": "Assets - Liabilities + Owner's Equity ",
+      "b": "Assets = Liabilities - Owner's Equity ",
+      "c": "Assets + Owner's Equity = Liabilities ",
+      "d": "Assets = Liabilities + Owner's Equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 69,
     "question": "A debit balance of Nl50,000 in a cash account   shows   that   ",
     "option": {
@@ -144,6 +176,22 @@
     "examyear": "2016"
   },
   {
+    "id": 147,
+    "question": "Which of the following -is -correct about the imprest system?",
+    "option": {
+      "a": "II and IV",
+      "b": "I, III and IV",
+      "c": "I, II and III",
+      "d": "III and IV"
+    },
+    "section": "I.   The amount of the imprest is the same from one organization to another. II. At the end of a fixed period, the petty cashier received a fixed sum of money.  III.  At the end of a period, the petty-cashier is reimbursed, with the amount spent in that period. IV. The system is a method by which a measure  of control is kept on petty cash expenses",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 149,
     "question": "A discount that is allowed to encourage a debtor to pay off his debt within a period is the",
     "option": {
@@ -224,6 +272,22 @@
     "examyear": "1997"
   },
   {
+    "id": 187,
+    "question": "Where a business is purchased, the full amount of the purchase consideration is credited to",
+    "option": {
+      "a": "Purchase of Business Account",
+      "b": "Creditor’s Account",
+      "c": "Vendor’s Account",
+      "d": "Purchaser’s Account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 191,
     "question": "The double entry required for the mark-up is debit Branch",
     "option": {
@@ -288,6 +352,22 @@
     "examyear": "1997"
   },
   {
+    "id": 208,
+    "question": "The purchase consideration was",
+    "option": {
+      "a": "N  24,000",
+      "b": "N 23,000",
+      "c": "N  20,000",
+      "d": "N 15,000"
+    },
+    "section": "A business whose assets consisted of stock  N 15,000 and debtors   N  8,000 was bought by issuing 20,000 ordinary shares of   N  1 each at a premium of  20 percent.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 218,
     "question": "A sales ledger contains",
     "option": {
@@ -336,6 +416,22 @@
     "examyear": "2006"
   },
   {
+    "id": 248,
+    "question": "Which of the following is not a revenue expenditure?",
+    "option": {
+      "a": "Payment: of salaries",
+      "b": "Payment for advertisement",
+      "c": "Purchases of motor vehicle",
+      "d": "Purchases of goods."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 262,
     "question": "A fixed asset fully written-down by a trader is now considered to be worth N5,000. The double entry required to effect       this is: debit",
     "option": {
@@ -363,6 +459,38 @@
     "section": "The Health Department of Zango Local Government incurred the following expenditure in 2010. Construction of hospital wards [ Le 300,000 ]; Purchase of hospital beds [ Le  40,000 ]; Salaries and wages  [ Le 80,000]; Purchase of drugs  [ Le 55,000]; Purchase of X-ray machine [ Le 150,000]",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 289,
+    "question": "Which of the following errors affects the agreement of a Trial Balance?",
+    "option": {
+      "a": "Wrong addition in the sales account",
+      "b": "Crediting a purchase to A. Tambi’s account instead of F. Tambi’s account",
+      "c": "Failure to enter sales in the books",
+      "d": "Posting the purchase of a van to the debit side of the purchases account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 299,
+    "question": "The capital is",
+    "option": {
+      "a": "D7,580",
+      "b": "D6,580",
+      "c": "D5,380",
+      "d": "D1,000"
+    },
+    "section": "Use the following information to answer questions:: Cash in hand\t[D 1,440]; Cash at Bank [D 2,440]; Stock [D 2,500]; Furniture and fittings [D 2,200]; Creditors [D 1,000]",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -480,6 +608,22 @@
     "examyear": "2004"
   },
   {
+    "id": 400,
+    "question": "Zakari started a business on January 2000. He bought a shop costing N 54,000 and stock worth N 7,600.  Profit for the year amounted to N 22,100. His closing capital was N 73,800. Zakari’s personal drawings amounted to",
+    "option": {
+      "a": "N 2,300",
+      "b": "N9,900",
+      "c": "N 17,100",
+      "d": "N 19,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 411,
     "question": "What is the figure for purchases?",
     "option": {
@@ -555,6 +699,22 @@
     "section": "Shaku Company Ltd: Stock [N 3,600, 000]; Cash at hand [N800, 000]; Cash in bank [2,400, 000]; Debtors [ 580, 000]; Trade creditors [N 920, 000 ]; \tBank overdraft [ N200, 000 ]; Tax liabilities [N600, 000]; Salary owed to staff {N 180, 000]",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 449,
+    "question": "Osei and Yabo were in partnership sharing profits and losses in the ratio of 3:2. On admitting Takwa, the profit and loss sharing ratio was changed to 1:1:1  Suppose Takwa paid N  30 000 for goodwill this amount would be",
+    "option": {
+      "a": "credited to Takwa’s current account",
+      "b": "debited to goodwill account",
+      "c": "shared to all the partners’ capital account",
+      "d": "credited to the old partners’ capital account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -848,6 +1008,22 @@
     "examyear": "2018"
   },
   {
+    "id": 675,
+    "question": "In the head office ledger, the value of goods sent to the branch are____________",
+    "option": {
+      "a": "Debited to the branch current account",
+      "b": "Debited to the head office current account",
+      "c": "Credited to the head office current account",
+      "d": "Credited to the branch current account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Branch current account is maintained in the head office books to record all transactions between the head office and the branch. This account is debited with the following:\n\n  i. Goods sent to branch\n\n  ii. Expenses of the branch paid by the head office\n\n  iii. Profit of the branch",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 679,
     "question": "Calls in advance are treated in the balance sheet as_______",
     "option": {
@@ -928,6 +1104,38 @@
     "examyear": "2019"
   },
   {
+    "id": 726,
+    "question": "Use the following to answer this question.\nIndustry ltd, issued 100,000 shares at ₦1 each out of its Authorized share capital of ₦200,000 at ₦1 each. At the of the first call, all shareholders paid in full, except for two shareholder who owes ₦20,000.\n\nThe Unissued capital of the company is",
+    "option": {
+      "a": "₦310,000",
+      "b": "₦200,000",
+      "c": "₦210,000",
+      "d": "₦100,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Unissuer capital is the total amount which has not been issued out on the authorized, nominal or registered capital.\nTherefore, unissued capital = Authorized\ncapital - issued capital which is :\n200,000 - 100,000 = ₦100,000",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 742,
+    "question": "Abelawo ltd operates a retail branch at Aba. All purchases are made by the head office in Onitsha and goods are charged to the branch at cost plus 50%. During the year ended. Goods sent to branch at invoiced price is ₦30,870, cash sales ₦13,020 and Bad debt amounted to 129. From the following, what is the profit?",
+    "option": {
+      "a": "₦20,580",
+      "b": "₦10,290",
+      "c": "₦7,980",
+      "d": "₦30,870"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find the profit, the unrealized profit in the goods sent to branch needs to be determined.\nGiven information:\n\nGoods sent to branch at invoiced price = ₦30,870\nInvoiced price = Cost + 50% markup\nCash sales = ₦13,020\nBad debt = ₦129\n\nFinding the cost price of goods sent to branch:\nIf invoiced price = Cost + 50% of cost = 1.5 × Cost\nThen: Cost = ₦30,870 ÷ 1.5 = ₦20,580\nUnrealized profit in goods sent to branch:\nProfit = Invoiced price - Cost price\nProfit = ₦30,870 - ₦20,580 = ₦10,290\nThe profit from the markup on goods sent to branch is ₦10,290.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 746,
     "question": "The two recognised accounting bases are",
     "option": {
@@ -956,6 +1164,22 @@
     "image": "",
     "answer": "a",
     "solution": "Under the business entity (or separate entity) concept, the affairs of the owners and those of the business are kept completely distinct. Personal transactions of the owners are not recorded in the business’s books, and only business‑related transactions appear in the accounting records.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 799,
+    "question": "The power to appoint the Auditor General of the Federation is vested in the",
+    "option": {
+      "a": "National Assembly",
+      "b": "Civil Service Commission",
+      "c": " Judicial Service Commission",
+      "d": "President"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In Nigeria, the power to appoint the Auditor General of the Federation is vested in the President. This appointment is made subject to confirmation by the Senate, as provided for in the Nigerian Constitution.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -1216,6 +1440,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1035,
+    "question": "If the assets and liabilities of a firm were valued at ₦17,200 and ₦5,120 respectively, the capital of the firm would be?",
+    "option": {
+      "a": "₦22 320",
+      "b": " ₦17 200",
+      "c": "₦12 080",
+      "d": "₦5 120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Total assets ₦17,200 − Liabilities ₦5,120 = Capital ₦12,080.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1036,
     "question": "<b>Use the information below to answer questions 22 to 23</b>\n\nZazzau Company:\n\nCash in hand................₦50\nCash in bank................₦1 250\nStock.......................₦4 880\nFurniture...................₦9 60\nBuilding....................₦5 500\nDebtor......................₦1 750\nCreditors...................₦2 150\n\nDrawings of ₦125 were made by the shareholders of the company..\n\nThe capital of the company stands at?",
     "option": {
@@ -1228,6 +1468,22 @@
     "image": "",
     "answer": "b",
     "solution": "Assets\n\nCash in hand = ₦50\n\nCash at bank = ₦1,250 → running total = ₦1,300\n\nStock = ₦4,880 → running total = ₦6,180\n\nFurniture = ₦960 → running total = ₦7,140\n\nBuilding = ₦5,500 → running total = ₦12,640\n\nDebtors = ₦1,750 → Total assets = ₦14,390\n\nLess: Liabilities\n\nCreditors = ₦2,150\n\nSubtotal (Assets − Liabilities) = ₦14,390 − ₦2,150 = ₦12,240\n\nLess: Drawings by shareholders = ₦125\n\nCapital = ₦12,240 − ₦125 = ₦12,115",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1062,
+    "question": "Calculate the closing stock under FIFO method",
+    "option": {
+      "a": "₦875",
+      "b": "₦675",
+      "c": "₦600",
+      "d": "₦300"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661640/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q46_epm0o4.jpg",
+    "answer": "b",
+    "solution": "Using FIFO (First-In, First-Out) Method:\nMarch Issue (80 units):\nIssue from oldest stock (Jan receipt):\n\n80 units from Jan @ ₦2.00\nRemaining after March: Jan = 100 - 80 = 20 units @ ₦2.00\n\nStock after March:\n\nJan: 20 units @ ₦2.00\nFeb: 110 units @ ₦2.50\n\nApril Receipt:\n\nReceived 200 units @ ₦3.00\n\nStock after April:\n\nJan: 20 units @ ₦2.00\nFeb: 110 units @ ₦2.50\nApril: 200 units @ ₦3.00\n\nMay Issue (100 units):\nIssue from oldest stock first:\n\n20 units from Jan @ ₦2.00\n80 units from Feb @ ₦2.50\nTotal issued = 100 units\n\nClosing Stock:\n\nFeb: 110 - 80 = 30 units @ ₦2.50 = ₦75\nApril: 200 units @ ₦3.00 = ₦600\n\nTotal Closing Stock Value = ₦75 + ₦600 = ₦675",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -1328,6 +1584,38 @@
     "examyear": "2003"
   },
   {
+    "id": 1186,
+    "question": "<b>Use the information below to answer question 21 and 22.</b>\n\nAdex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch.\n\nStock at branch 1st January at cost............₦400\nGoods sent to branch at cost...................₦8000\nReturns to head ...............................₦340\nCash sales ....................................₦9160\nStock at branch 31st December at cost..........₦720\n\nCalculate the cost of goods credited to the head office trading account?",
+    "option": {
+      "a": "₦7660",
+      "b": "₦7500",
+      "c": "₦7340",
+      "d": "₦7200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Cost of goods sold = Opening stock + Goods sent to branch − Returns to head office − Closing stock\n= ₦400 + ₦8,000 − ₦340 − ₦720\n= ₦7,340",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1201,
+    "question": "Given:\n\nCapital at start.......................₦3250\n\nCapital at close ......................₦6250\n\nAdditional capital during the period...₦1000\n\n\n\nCalculate the profit or loss?",
+    "option": {
+      "a": "₦8500 profit",
+      "b": "₦2000 loss",
+      "c": "₦2000 profit",
+      "d": "₦8500 loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using the capital movement formula:\n\nClosing capital = Opening capital + Additional capital + Profit\n\nSo Profit = Closing − Opening − Additional\n\nDigit-by-digit:\n6250 − 3250 = 3000 (0−0=0, 5−5=0, 2−2=0, 6−3=3)\n3000 − 1000 = 2000\n\nProfit = ₦2,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1203,
     "question": "In an incomplete record system a trading account cannot be prepared until the?",
     "option": {
@@ -1340,6 +1628,22 @@
     "image": "",
     "answer": "d",
     "solution": "Reason: a trading account needs total sales and cost of goods sold (which depends on purchases, opening and closing stock). In an incomplete records system you must first determine the totals for sales and purchases before you can prepare the trading account.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1209,
+    "question": "Given:\n\nSales ............................₦195,200\nStock 1st January.................₦34,000\nPurchases ........................₦126,000\nSales returns ....................₦1,200\nPurchases returns ................₦2,000\n\nIf the gross profit is ₦66,000, what is the value of stock at 31st December?",
+    "option": {
+      "a": "₦30,000",
+      "b": "₦40,000",
+      "c": "₦50000",
+      "d": "₦20,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Net sales = ₦195,200 − ₦1,200 = ₦194,000\nCOGS = Net sales − Gross profit = ₦194,000 − ₦66,000 = ₦128,000\n\nNet purchases = ₦126,000 − ₦2,000 = ₦124,000\nCOGS = Opening stock + Net purchases − Closing stock\n128,000 = 34,000 + 124,000 − Closing stock = 158,000 − Closing stock\n\nClosing stock = 158,000 − 128,000 = ₦30,000",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1612,6 +1916,22 @@
     "image": "",
     "answer": "c",
     "solution": "To find the prepaid portion at 31 Dec 1993:\n\nThe ₦50,000 paid on 30 May 1993 covers 24 months (30 May 93–29 May 95).\n\nBy 31 Dec 1993, 7 months’ rent have been “used up” (June–December).\n\nRemaining prepaid months = 24 – 7 = 17 months.\n\nPrepaid amount = 17/24 × 50,000 = 35,416.67 ≈ ₦35,417",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1442,
+    "question": "The understatement of closing value of work-in-process would have the effect of?",
+    "option": {
+      "a": "understating cost of goods manufactured",
+      "b": "overstating prime cost of manufactured",
+      "c": " overstating cost of goods manufactured",
+      "d": " undersating prime cost of goods manufactured"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Closing work-in-process (WIP) is subtracted when calculating the cost of goods manufactured (COGM):\n\nCOGM = Opening WIP + Manufacturing costs − Closing WIP\nIf the closing WIP is understated, the amount subtracted is too small, making the COGM too high (overstated).",
     "examtype": "utme",
     "examyear": "1997"
   },
