@@ -1104,6 +1104,22 @@
     "examyear": "2010"
   },
   {
+    "id": 106,
+    "question": "The sun stood still when ",
+    "option": {
+      "a": "Moses led the Israelites out of Egypt ",
+      "b": "Jericho fell to the army of Joshua ",
+      "c": "Noah came out of the ark ",
+      "d": "Joshua defeated the Amorites at Gideon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 107,
     "question": "When was this statement made? ‘I repent that I Made Saul king '",
     "option": {
@@ -1291,6 +1307,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 122,
+    "question": "The expression ‘dry bones’ in Ezekiel refers to ",
+    "option": {
+      "a": "an Israelites proverb ",
+      "b": "the whole house of Israel ",
+      "c": "the slain in the valley ",
+      "d": "sinful Israelites and Judean"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -3872,6 +3904,22 @@
     "examyear": "2008"
   },
   {
+    "id": 368,
+    "question": "Which of the following did not happen immediately after Jesus had yielded up his spirit on the cross?",
+    "option": {
+      "a": "The curtain of the temple was torn into two",
+      "b": "Joseph of Arimathea removed his body for burial",
+      "c": "The earth shook, the rocks were split",
+      "d": "The tombs of the saints were opened."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
     "id": 369,
     "question": "According to Matthew, the disciples were sent out with the charge to go nowhere among the Gentiles nor enter any town of the",
     "option": {
@@ -4000,6 +4048,22 @@
     "examyear": "2008"
   },
   {
+    "id": 383,
+    "question": "Paul considered himself unfit to be called an apostle because he",
+    "option": {
+      "a": "did not see Jesus",
+      "b": "persecuted the church",
+      "c": "worked hard to attain his position",
+      "d": "was the least among the believers."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
     "id": 384,
     "question": "Paul says that only the heathen who are led astray by dumb idols could say",
     "option": {
@@ -4011,6 +4075,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
+    "id": 388,
+    "question": "New life in Christ means",
+    "option": {
+      "a": "paying your tithe regularly",
+      "b": "helping the poor and the needy",
+      "c": "being dead to sin",
+      "d": "getting baptized."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2008"
@@ -4411,6 +4491,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 424,
+    "question": "The disciples of Jesus could not heal the boy with epilepsy because they",
+    "option": {
+      "a": "did not fast",
+      "b": "had little faith",
+      "c": "were powerless",
+      "d": "did not pray."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -4880,6 +4976,22 @@
     "examyear": "2009"
   },
   {
+    "id": 478,
+    "question": "Jesus said “I am the bread of life; he who comes to me shall not hunger...” ‘Bread of life’ in this context means the",
+    "option": {
+      "a": "body of Jesus Christ.",
+      "b": "manna given to the Israelites.",
+      "c": "holy bread of life.",
+      "d": "spiritual food through Jesus."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
     "id": 479,
     "question": "John’s summary of God’s love for the world is that He",
     "option": {
@@ -5147,6 +5259,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 507,
+    "question": "When Ezekiel ate the scroll that was given to him his call. it signified that",
+    "option": {
+      "a": "God would always go before him",
+      "b": "his sins were forgiven",
+      "c": "he would never be hungry",
+      "d": "he was filled with God’s word"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2015"
@@ -6288,6 +6416,22 @@
     "examyear": "2010"
   },
   {
+    "id": 619,
+    "question": "God told Ezekiel that the house of Israel would not listen to him because they",
+    "option": {
+      "a": "were a people of foreign speech",
+      "b": "had forsaken His laws",
+      "c": "were of a stubborn heart",
+      "d": "had not truly repented"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 621,
     "question": "Jesus was tempted by the devil so as to",
     "option": {
@@ -6587,6 +6731,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 660,
+    "question": "In spite of Solomon’s apostasy, his empire remained intact until his death because",
+    "option": {
+      "a": "God deferred, for David’s sake, the punishment due to him",
+      "b": "he won decisive victories over his enemies.",
+      "c": "he always took wise decisions",
+      "d": ". \nhe made surrounding nations fight among themselves."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -7520,6 +7680,22 @@
     "examyear": "2019"
   },
   {
+    "id": 752,
+    "question": "On the ________day, the child was _______and named Jesus",
+    "option": {
+      "a": "Eight, anointed",
+      "b": "Ninth, Circumcised",
+      "c": "Ninth, Anointed",
+      "d": "Eight, Circumcised"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 753,
     "question": "One of the most significant lessons from the healing of the Centurion's Servant is that ____________",
     "option": {
@@ -7851,6 +8027,22 @@
     "section": "",
     "image": "",
     "answer": " b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 790,
+    "question": "Which of the following was Pilate's question to Jesus at his trial?",
+    "option": {
+      "a": "Are you Jesus, the prophet from Galilee?",
+      "b": "What evil have you done?",
+      "c": "Are you the king of the Jews?",
+      "d": "What is it that these men testify against you?"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -8560,6 +8752,22 @@
     "examyear": "2012"
   },
   {
+    "id": 856,
+    "question": "The Hebrew kingdom broke up beacuse of ",
+    "option": {
+      "a": "prophet Ahijah’s curse against solomon",
+      "b": "Solomon’s marriage to foreign women",
+      "c": "Rehoboam’s efforts to rule Shechem",
+      "d": "Rehoboam’s refusal to grant the Northerners’ petition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 857,
     "question": "Ahab revealed his disregard for the law when he",
     "option": {
@@ -8896,6 +9104,22 @@
     "examyear": "2012"
   },
   {
+    "id": 883,
+    "question": "The visitors of Peter after his vision at Joppa were ",
+    "option": {
+      "a": "Jerusalem",
+      "b": "Samaria",
+      "c": "Caesarea",
+      "d": "Antioch"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 886,
     "question": "James maintained that the double-minded man would not have his prayers answered because he",
     "option": {
@@ -9136,6 +9360,22 @@
     "examyear": "2013"
   },
   {
+    "id": 912,
+    "question": "What virtue did the Centurion exhibit in the healing of his servant?",
+    "option": {
+      "a": "Forgiveness    ",
+      "b": "Love       ",
+      "c": "Compassion      ",
+      "d": "Faith"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 913,
     "question": "Jesus demonstrated his compassion for humanity in all the following miracles except the ",
     "option": {
@@ -9159,6 +9399,22 @@
       "b": "        Roman authority.",
       "c": "Crowd of people.",
       "d": "        Crucified thieves."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 920,
+    "question": "What did Jesus do at Jacob’s well to occasion a conversation between him and the Samaritan woman? Jesus",
+    "option": {
+      "a": "told her about her past life",
+      "b": "drove away her attackers. ",
+      "c": "asked for water to drink. ",
+      "d": "drew water for her"
     },
     "section": "",
     "image": "",
@@ -9467,6 +9723,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 952,
+    "question": "The contest on Mount Carmel was organized to ",
+    "option": {
+      "a": "popularize Baal worship",
+      "b": "prove the power of Go",
+      "c": "show that God answers by fire. ",
+      "d": "prove the immortality of Elijah."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -10448,6 +10720,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1049,
+    "question": "“Put me, I pray you, in one of the priest’s places, that I may eat a morsel of bread” Who made this prohecy and to whom was it made?",
+    "option": {
+      "a": "Eli to Hophni and Phinehas   ",
+      "b": "            A man of God to Eli ",
+      "c": "Samuel to Eli the priest             ",
+      "d": "  A prophet to Eli’s sons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 1050,
     "question": "Saul lied to Samuel when the (Saul)",
     "option": {
@@ -10587,6 +10875,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1064,
+    "question": "“I gave you cleanness of teeth in all your cities” This statement means God gave them",
+    "option": {
+      "a": "no water to drink ",
+      "b": "new set of teeth ",
+      "c": "no food to eat                       ",
+      "d": "no teeth at all"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
