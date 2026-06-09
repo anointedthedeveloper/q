@@ -320,6 +320,22 @@
     "examyear": "1997"
   },
   {
+    "id": 197,
+    "question": "A cash discount is a",
+    "option": {
+      "a": "Trading Account item",
+      "b": "Profit and Loss Account item",
+      "c": "Appropriation Account item",
+      "d": "Receipts and Payments Account item"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 198,
     "question": "The amount of capital expenditure for 1995 was",
     "option": {
@@ -363,6 +379,22 @@
     "section": "A business whose assets consisted of stock  N 15,000 and debtors   N  8,000 was bought by issuing 20,000 ordinary shares of   N  1 each at a premium of  20 percent.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 212,
+    "question": "Which of the following is not a revenue receipt?",
+    "option": {
+      "a": "Receipt from sales of goods",
+      "b": "Rent from premises sublet",
+      "c": "Interest on savings account",
+      "d": "cash on sale of fixed asset"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -427,6 +459,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 249,
+    "question": "The amount allowed off the cost price of an article to stimulate patronage is",
+    "option": {
+      "a": "cash discount",
+      "b": "trade discount",
+      "c": "discount on debt",
+      "d": "discount on bills."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -539,6 +587,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 323,
+    "question": "The process of using sales ledger balance to cancel off purchases ledger balance is",
+    "option": {
+      "a": "balancing",
+      "b": "set off",
+      "c": "reconciliation",
+      "d": "cancelling"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -1296,6 +1360,38 @@
     "examyear": "2023"
   },
   {
+    "id": 933,
+    "question": "The following accounts have debit balances except",
+    "option": {
+      "a": "share premium",
+      "b": "rents and rates",
+      "c": "return inwards",
+      "d": "advertising"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Share premium is different. When a company issues shares at a price exceeding their par value, the excess amount is recorded as a credit balance in the share premium account. It represents additional capital received from shareholders beyond the face value of the shares.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 937,
+    "question": "The term \"set off\" in control account is also called",
+    "option": {
+      "a": "brought forward",
+      "b": " contra entry",
+      "c": "direct transfer",
+      "d": " bad debt"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "This refers to a single journal entry that records a transaction affecting two accounts with opposite balances. In control accounts, a \"set off\" achieves this by using a contra entry to reconcile the balances between a control account and its corresponding subsidiary ledger (e.g., sales ledger control account vs. individual customer accounts).",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 959,
     "question": "Which of the following is a subsidiary book as well as a ledger?",
     "option": {
@@ -1356,6 +1452,22 @@
     "image": "",
     "answer": "a",
     "solution": "Current assets are short-term assets convertible to cash within a year, cash at bank and cash in hand.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 983,
+    "question": "In a period of inflation, which of the following method normally gives a lower closing stock value?",
+    "option": {
+      "a": "FIFO",
+      "b": "LIFO",
+      "c": "Sinple average",
+      "d": "periodic simple average"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "LIFO (Last In, First Out) assumes that the most recently purchased (and therefore most expensive) items are sold first. This means:\n\nThe newer, higher-priced inventory gets matched against sales revenue\nThe older, lower-priced inventory remains in closing stock\nThis results in a lower closing stock value on the balance sheet\n\nIn contrast:\n\nFIFO would show higher closing stock values (newer, expensive items remain)\nSimple average and periodic simple average would show moderate values between FIFO and LIFO\n\nLIFO is often preferred during inflation because it:\n\nMatches current costs against current revenues (better income statement matching)\nResults in lower reported profits (and thus lower taxes)\nShows more conservative inventory values\n\nSo LIFO typically gives the lowest closing stock valuation during inflationary periods.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -1740,6 +1852,22 @@
     "image": "",
     "answer": "b",
     "solution": "A cheque stub is the source document used to ascertain amounts paid out of the current (cash) account.\n\nWhen you write a cheque, you fill in the cheque itself (which goes to the payee and then to the bank).\n\nThe stub (or counterfoil) remains in your cheque book and records the cheque number, date, payee, and amount.\n\nThis stub provides a ready reference for all disbursements and is used to update the cash book.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1282,
+    "question": "Given:\n\nDepreciation of plant and machinery ₦1,600\nFactory rent ₦650\nIndirect wages ₦695\nGeneral indirect expenses ₦726\nlubricants ₦1235\nCarriage inwards ₦829\nFactory power ₦350\nBank charges ₦612\nCarriage outwards ₦2,900\n\nDetermine the total factory overhead cost?",
+    "option": {
+      "a": "₦4,485",
+      "b": "₦5,256",
+      "c": "₦6,085",
+      "d": "₦6,556"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Factory overhead includes all indirect manufacturing costs. From the items listed, the factory overheads are:\n\nDepreciation of plant and machinery: ₦1,600\n\nFactory rent: ₦650\n\nIndirect wages: ₦695\n\nGeneral indirect expenses: ₦726\n\nLubricants: ₦1,235\n\nFactory power: ₦350\n\n(Carriage inwards is part of materials cost, and bank charges & carriage outwards are non-manufacturing.)\n\nSumming the factory overheads:\n\n1,600 + 650 + 695 + 726 + 1,235 + 350 = ₦5,256",
     "examtype": "utme",
     "examyear": "2000"
   },
