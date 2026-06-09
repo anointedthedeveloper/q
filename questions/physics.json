@@ -11760,6 +11760,22 @@
     "examyear": "2006"
   },
   {
+    "id": 743,
+    "question": "A shooter wants to fire a bullet in such a way that its horizontal range is equal to three times its maximum height. At the what angle should he fire the bullet to achieve this?",
+    "option": {
+      "a": "68°",
+      "b": "53°",
+      "c": "30°",
+      "d": "45°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nWe use projectile motion formulas on level ground:\nRange R = (u² sin 2θ) / g\nMaximum height H = (u² sin² θ) / (2g)\nCondition: R = 3H\n\nSolution:\n\nStep 1: Write the condition equation\n(u² sin 2θ) / g = 3 × (u² sin² θ) / (2g)\n\nStep 2: Cancel common factors\nCancel u² and g (assuming u ≠ 0):\nsin 2θ = (3 sin² θ) / 2\n\nStep 3: Use double-angle identity\nsin 2θ = 2 sin θ cos θ:\n2 sin θ cos θ = (3 sin² θ) / 2\n\nStep 4: Simplify assuming sin θ ≠ 0\nDivide both sides by sin θ:\n2 cos θ = (3 sin θ) / 2\n\nMultiply both sides by 2:\n4 cos θ = 3 sin θ\n\nStep 5: Solve for tan θ\ntan θ = sin θ / cos θ = 4/3\n\nStep 6: Find the angle\nθ = arctan(4/3) ≈ 53.13°",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 744,
     "question": "An engine of a car of power 80 kW moves on a rough road with a velocity of 32 m/s. The force required to bring it to rest is?",
     "option": {
