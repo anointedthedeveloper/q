@@ -32,6 +32,22 @@
     "examyear": "2006"
   },
   {
+    "id": 4,
+    "question": "In a parliamentary system of government, the function of the head of state and the head of government are vested in ",
+    "option": {
+      "a": "the inner cabinet ",
+      "b": "an individual ",
+      "c": "two different individuals ",
+      "d": "the ministerial council"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 6,
     "question": "The British took over Nigeria through ",
     "option": {
@@ -267,6 +283,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 30,
+    "question": "All but one of these is not a tactic adopted by pressure groups in the pursuit of their objectives ",
+    "option": {
+      "a": "propaganda ",
+      "b": "lobbying ",
+      "c": "assault ",
+      "d": "boycott"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
@@ -880,6 +912,22 @@
     "examyear": "2010"
   },
   {
+    "id": 123,
+    "question": "Serfs are the dominated class under ",
+    "option": {
+      "a": "capitalisms ",
+      "b": "socialism ",
+      "c": "fascism ",
+      "d": "feudalism "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 125,
     "question": "Which of the following made the earliest contact with the Nigerian society? ",
     "option": {
@@ -891,6 +939,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 127,
+    "question": "The principle of federal character was first enunciated in the: ",
+    "option": {
+      "a": "1989 constitution ",
+      "b": "1963 constitution",
+      "c": "1999 constitution ",
+      "d": "1979 constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -1207,6 +1271,22 @@
       "b": "Governor General  ",
       "c": "Lieutenant – Government ",
       "d": "Head of State"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 173,
+    "question": "Which organ is referred to as ‘the last hope’ of the common man  ",
+    "option": {
+      "a": "the parliament   ",
+      "b": "the judiciary  ",
+      "c": "the executive  ",
+      "d": "the legislature"
     },
     "section": "",
     "image": "",
@@ -1728,6 +1808,22 @@
     "examyear": "2000"
   },
   {
+    "id": 250,
+    "question": "The legitimacy of government is established when",
+    "option": {
+      "a": "civil service commission reflects federal character",
+      "b": "electoral commission is well funded",
+      "c": "free and fair elections are conducted",
+      "d": "ministers are appointed to head ministries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 252,
     "question": "Which of these best defines a state? A/An",
     "option": {
@@ -2235,6 +2331,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 331,
+    "question": "The ideology which states that each person is the best judge of what is in his self-interest is",
+    "option": {
+      "a": "liberalism",
+      "b": "socialism",
+      "c": "fascism",
+      "d": "feudalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -3632,6 +3744,22 @@
     "examyear": "2013"
   },
   {
+    "id": 532,
+    "question": "In Nigeria’s First Republic, the Prime Minister was both the",
+    "option": {
+      "a": "Head of government and a lawmaker",
+      "b": "Head of State and Commander-in-Chief of the armed forces",
+      "c": "Commander-in-Chief of the armed forces and Party leader",
+      "d": "Head of State and Party leader."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 533,
     "question": "Under the 1979 Constitution, statutory allocation of revenue to local government councils is the responsibility of the",
     "option": {
@@ -3755,6 +3883,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 552,
+    "question": "The main representative body of the United Nations is the",
+    "option": {
+      "a": "Secretariat",
+      "b": "Security Council",
+      "c": "General Assembly",
+      "d": "Trusteeship Council."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -4427,6 +4571,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 657,
+    "question": "The first political party in Nigeria was",
+    "option": {
+      "a": "National Council of Nigerian Citizens (N.C.N.C)",
+      "b": "Nigerian National Democratic Party (N.N.D.P)",
+      "c": "Action group (A. G)",
+      "d": "Northern Peoples Congress (N.P.C)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -5472,6 +5632,22 @@
     "examyear": "2018"
   },
   {
+    "id": 805,
+    "question": "The concept of collective responsibility is synonymous with",
+    "option": {
+      "a": "presidential system of government",
+      "b": "military system of government",
+      "c": "unitary system of government",
+      "d": " parliamentary system of government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Collective responsibility means the government is accountable as a team, a key feature of parliamentary systems.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 806,
     "question": "A constitution is the",
     "option": {
@@ -6256,6 +6432,22 @@
     "examyear": "2021"
   },
   {
+    "id": 926,
+    "question": "The Economic Community of West African States has made progress in the area of ....",
+    "option": {
+      "a": "Increased trade among members",
+      "b": " Providing financial aid to members",
+      "c": "Political integration of the region",
+      "d": "Free movement of persons and right of residence"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Economic Community of West African States has made impressive progress in the area of increased trade among members. ECOWAS has implemented various policies and agreements aimed at boosting intra-regional trade. These include the creation of a free trade area and the adoption of a common external tariff to facilitate the movement of goods and services within the region. These efforts have contributed to increased trade among member states.s",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 927,
     "question": "Nigeria's withdrawal from the Edinburg Commonwealth Games in July 1986 was in protest against British…",
     "option": {
@@ -6478,6 +6670,22 @@
     "solution": "During this period, Nigeria operated under the Second Republic, which was modelled after the United States' presidential system. In this system, the President is both the head of state and the head of government, separate from the legislature. This period marked a shift from the parliamentary system used during the First Republic.",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 956,
+    "question": "One of the constitutional requirements for the registration of political parties in Nigeria is ______",
+    "option": {
+      "a": "provision for review of party manifesto",
+      "b": "ofices in at least 12 statess",
+      "c": "menbership from at least 12 states",
+      "d": "national presence in the federal capital territory"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Party in its formation must provide evidence of ownership or rental of an office in at least 24 States of the Federation, with its headquarters located in the Federal Capital Territory.",
+    "examtype": "utme",
+    "examyear": "2022"
   },
   {
     "id": 957,
@@ -6716,6 +6924,22 @@
     "image": "",
     "answer": "b",
     "solution": "The constitutional amendment process in Nigeria requires the approval of the National Assembly. The National Assembly, which consists of the Senate and the House of Representatives, has the power to alter the provisions of the constitution. The President, the Supreme Court, and the Independent National Electoral Commission (INEC) do not have the power to approve constitutional amendments.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1000,
+    "question": "During the cold war, Nigeria's foreign policy was characterized by",
+    "option": {
+      "a": "alignment with the United States",
+      "b": "Neutrality and non-alignment",
+      "c": "Pursuit of colonial interest",
+      "d": " alignment with the Soviet Union"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "During the cold war, Nigeria's foreign policy was characterized by Neutrality and non-alignment. This is because Nigeria did not want to be seen as taking sides in the ideological war between the United States and the Soviet Union. Instead, Nigeria pursued a policy of neutrality and non-alignment, focusing on its own national interests and the promotion of peace and stability in Africa.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7004,6 +7228,22 @@
     "image": "",
     "answer": "d",
     "solution": "The Benin Kingdom, in pre-colonial Nigeria, was known for its artistic and cultural achievements. The kingdom was renowned for its brass sculptures, its ivory carvings, and its palace architecture. The Benin Kingdom's art was so highly valued that it influenced the development of modern Western art.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1042,
+    "question": "Nigeria's foreign policy is guided by the principle of",
+    "option": {
+      "a": " military dominance",
+      "b": " economic self-sufficiency",
+      "c": "national interest",
+      "d": "territorial expansion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nigeria's foreign policy is guided by the principle of national interest. This means that the country's foreign relations and actions are primarily based on what is beneficial or of interest to the nation. This could be in terms of economic, political, security, or other national considerations.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7760,6 +8000,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1157,
+    "question": "Oligarchy is a form of government which",
+    "option": {
+      "a": "enhances the interest of the ruling few",
+      "b": "enhances the electoral chances of the majority",
+      "c": "disregards the views of the minority",
+      "d": "protects the interest of the common people"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Oligarchy is a form of government which enhances the interest of the ruling few.\n\nThis is so as Oligarchy may be defined as government ruled by few privileged and powerful people.\n\nIt may also be defined as a small group of people who control the government of a state.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1158,
     "question": "The absence of the rule of law in government will bring about",
     "option": {
@@ -8208,6 +8464,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1208,
+    "question": "Public opinion becomes politically relevant when it",
+    "option": {
+      "a": "criticises people in power",
+      "b": "influences the decision of government",
+      "c": "aggregates views and interests",
+      "d": " is in support of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Public opinion becomes politically relevant when it actively shapes and influences the decisions made by the government. While public opinion can aggregate views, criticize those in power, or show support, its true political relevance is demonstrated when it translates into pressure on policymakers and affects policy outcomes. This influence on government decisions is key to the functioning of a democratic system, as it holds leaders accountable and ensures that public concerns are reflected in governance.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1209,
     "question": "Socialism is a mode of production based on",
     "option": {
@@ -8496,6 +8768,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1252,
+    "question": "A major problem of the defunct Organization of African Unity was",
+    "option": {
+      "a": "language barrier",
+      "b": "inadequate resources",
+      "c": "cultural diversity",
+      "d": "ideological differences"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ideological differences is the major problem of defunct Organization of African Unity (OAU). Another major problem is inadequate resources: the organization was plunged into heavy debt as many member countries found it difficult to pay their dues and levies.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1255,
     "question": "The responsibility for admitting new members to the OPEC rests with the",
     "option": {
@@ -8524,6 +8812,22 @@
     "image": "",
     "answer": "d",
     "solution": "Nigeria’s commitment to the policy of non-alignment—refusing to align with either the Western or Eastern Cold War blocs—was most decisively demonstrated during the regime of General Murtala Muhammed (1975–1976). Under his leadership, Nigeria pursued an assertive foreign policy that prioritized African solidarity and independence from external influence.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1257,
+    "question": "The two-chambers of elected national representatives in Nigeria are called",
+    "option": {
+      "a": "the National Assembly",
+      "b": "House of Assembly",
+      "c": "the Senate",
+      "d": " the parliament"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The two-chambers of elected national representatives in Nigeria are called the National Assembly. The chambers are House of Representatives and House of Senate.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -8976,6 +9280,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1332,
+    "question": "The ultimate authority in a state is",
+    "option": {
+      "a": "sovereignty",
+      "b": "power",
+      "c": "influence",
+      "d": "legitimacy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sovereignty is the ultimate authority in a state. It should be noted that sovereignty is absolute power of the state to exercise supreme legal authority over its own affairs within its territory without any form of external control.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1333,
     "question": "One of the foremost theorists of federalism was",
     "option": {
@@ -9328,6 +9648,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1374,
+    "question": "A virile foreign policy is one characterized by",
+    "option": {
+      "a": "a vibrant press,vibrant public opinion and a dynamic civil society",
+      "b": "propaganda, espionage and economic embargoes",
+      "c": " a stable polity, bouyant economy and visionary leadership",
+      "d": "the nature and dynamics of the international system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A virile foreign policy is one characterized by a stable polity, buoyant economy and visionary leadership",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1375,
     "question": "Nigeria hosted the Commonwealth conference which eventually led to the independence of",
     "option": {
@@ -9564,6 +9900,22 @@
     "image": "",
     "answer": "c",
     "solution": "The Participation of Nigerians in the Second World War created in the nationalists the awareness that the Europeans were not superior.\n\nTheir participation in the war, made them to know more about the white people, and realized that they were in no way superior to Africans including Nigerians.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1404,
+    "question": "Which of the following mostly militates against the efficiency and productivity of public corporations in Nigeria?",
+    "option": {
+      "a": "incessant interference by government",
+      "b": "The management teams are always appointed at will",
+      "c": " Boards are often non-professionals",
+      "d": "members of the management team are always at loggerheads"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Incessant interference by government militates against the efficiency and productivity of public corporations in Nigeria. Sometimes government make them to do things which may not be in the good interest of the corporation.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -9808,6 +10160,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1444,
+    "question": "The main attributes of a state are",
+    "option": {
+      "a": "government, the police and the armed forces",
+      "b": " population, territory, government and sovereignty",
+      "c": "federal state and local governments",
+      "d": "the press, the legislature, the executive and the judiciary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The four essential attributes of a state are:\n\nPopulation: A defined group of people within the state.\n\nTerritory: A recognized geographical area with borders.\n\nGovernment: An organized system to enforce laws and administer policies.\n\nSovereignty: Supreme authority to govern without external interference.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1445,
     "question": "A disadvantage of the one-party system is that it",
     "option": {
@@ -9900,6 +10268,22 @@
     "image": "",
     "answer": "d",
     "solution": "The Organisation of African Unity (OAU) was formed on May 25, 1963, in Addis Ababa, Ethiopia. It was established to promote unity and cooperation among African countries and to support the decolonization of African nations. It was later replaced by the African Union (AU) in 2001 to address more modern political and economic challenges.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1454,
+    "question": "The first African Secretary-General of the United Nations is",
+    "option": {
+      "a": "Boutrous Boutrous-Ghali",
+      "b": " Joe Garba",
+      "c": "Ibrahim Gambari",
+      "d": "Kofi Annan"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This is history oriented. Boutros Boutros-Ghali is an Egyptian politician and diplomat who was the sixth, but the first African Secretary-General of the United Nations from January 1992 to December 1996 and was later succeeded by Kofi Annan.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -10028,6 +10412,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Independent National Electoral Commission (INEC) of Nigeria is constitutionally mandated to conduct the registration of eligible voters and to prepare, maintain, and revise the register of voters. This function ensures that all qualified citizens are accurately documented and able to participate in elections.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1476,
+    "question": "In which of the following systems is the power of the component units more than that of the central government?",
+    "option": {
+      "a": "Monarchical",
+      "b": "Federal Governments",
+      "c": "Unitary",
+      "d": "Confederal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a confederal system, the component units (such as states or regions) possess more authority than the central government. This arrangement allows the constituent entities to retain their sovereignty and delegate only specific, limited powers to the central authority, often related to common interests like defense or foreign affairs. Consequently, the central government operates at the behest of the component units and lacks independent authority. ",
     "examtype": "utme",
     "examyear": "2015"
   },
