@@ -18832,6 +18832,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1212,
+    "question": "<b>Use the information below to answer questions 47 and 48.</b>\n\nThe partnership agreement between Abba, Bada and Kaka contains the following provisions:\n\n(i) 5% interest to be paid on capital and no interest to be charged on drawings\n(ii) Profits and losses to be shared in the ratio 3:2:1 respectively\n(iii) Net profits as at 31/12/95 ₦2,250\n\nPartnership Details:\n\nPartner: Abba\nCapital: ₦5,000, Current: ₦250, Salary: ₦300, Drawings: ₦600\n\nPartner: Bada  \nCapital: ₦4,000, Current: ₦100, Salary: ₦300, Drawings: ₦500\n\nPartner: Kaka\nCapital: ₦3,000, Current: ₦175, Salary: ₦0, Drawings: ₦250\n\nCurrent account balance of Kaka at the end of the year\nwill be?",
+    "option": {
+      "a": "₦250",
+      "b": "₦350",
+      "c": "₦175",
+      "d": "₦325."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: Calculate all interest and salaries first\n\nTotal interest on capital: ₦600 (₦250 + ₦200 + ₦150)\nTotal salaries: ₦600 (₦300 + ₦300 + ₦0)\nTotal deductions: ₦1,200\n\nStep 2: Find remaining profit to distribute\n₦2,250 - ₦1,200 = ₦1,050\nStep 3: Distribute remaining profit in 3:2:1 ratio\nKaka's share = (1/6) × ₦1,050 = ₦175\nStep 4: Calculate Kaka's current account balance\n\nOpening balance: ₦175\nAdd: Interest on capital: ₦150\nAdd: Share of remaining profit: ₦175\nLess: Drawings: ₦250\nFinal balance: ₦175 + ₦150 + ₦175 - ₦250 = ₦250",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1213,
     "question": "Upon the dissolution of a partnership, the Partnership Act provides that the amount realized should be?",
     "option": {
