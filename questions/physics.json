@@ -1936,6 +1936,22 @@
     "examyear": "2016"
   },
   {
+    "id": 189,
+    "question": "What is the angular magnification of a telescope having objective and eyepiece lenses of a focal lengths 30cm and 3cm respectively?",
+    "option": {
+      "a": "60",
+      "b": "10",
+      "c": "30",
+      "d": "90"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nFocal length of objective lens (f_o) = 30 cm\nFocal length of eyepiece lens (f_e) = 3 cm\nAngular magnification (M) = ?\n\nFormula for angular magnification of a telescope:\nM = f_o/f_e\nSubstituting values:\nM = 30/3\nM = 10",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 190,
     "question": "A wire of length 10m is cooled from 50oC to 10oC. Calculate the decrease in the length of the wire. [c = 3 x 10-5K-1]",
     "option": {
@@ -2076,6 +2092,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nMeter rule pivoted at mid-point (50 cm mark)\nForce 1 (F₁) = 10 N at distance d₁ = 30 cm from pivot\nForce 2 (F₂) = 15 N at distance d₂ = ? from pivot\n\nPrinciple of moments:\nFor the ruler to balance horizontally:\nClockwise moment = Anticlockwise moment\nFormula:\nF₁ × d₁ = F₂ × d₂\nRearranging to find d₂:\nd₂ = (F₁ × d₁)/F₂\nSubstituting values:\nd₂ = (10 × 30)/15\nd₂ = 300/15\nd₂ = 20 cm\nAnswer: C. 20cm\nThe 15N force must hang at a distance of 20cm from the mid-point to balance the ruler horizontally.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 201,
+    "question": "A projectile is fired from the ground level with a velocity of 300ms-1 at an angle of a 30o to the horizontal.\nCalculate the time taken to reach the maximum height?\n[g = 10ms-2]",
+    "option": {
+      "a": "30s",
+      "b": " 20s",
+      "c": "25s",
+      "d": "15s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial velocity (u) = 300 m/s\nAngle of projection (θ) = 30°\nAcceleration due to gravity (g) = 10 m/s²\nTime to reach maximum height (t) = ?\n\nStep 1: Find vertical component of initial velocity\nu_y = u sin θ\nu_y = 300 × sin 30°\nu_y = 300 × 0.5\nu_y = 150 m/s\nStep 2: At maximum height, vertical velocity = 0\nUsing: v = u - gt\n0 = 150 - 10t\nStep 3: Solve for time\n10t = 150\nt = 150/10\nt = 15 seconds",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -2412,6 +2444,22 @@
     "image": "",
     "answer": "a",
     "solution": "Standard equations of motion for uniform acceleration:\n\nv = u + at\ns = ut + ½at²\nv² = u² + 2as\n\nAnalyzing each option:\nOption A: a = (v² − u²)/2\n\nThis is INCORRECT ✗\nThe correct formula derived from v² = u² + 2as is:\nv² − u² = 2as\nTherefore: a = (v² − u²)/(2s) [NOT divided by 2 alone]\n\nOption B: v² = u² + 2as\n\nThis is CORRECT ✓\nStandard equation of motion\n\nOption C: s = ut + ½at²\n\nThis is CORRECT ✓\nStandard equation of motion\n\nOption D: v² − u² = 2as\n\nThis is CORRECT ✓\nRearranged form of equation 3\n\nAnswer: A. a = (v² − u²)/2\nThis is the incorrect formula. The correct formula should be a = (v² − u²)/(2s), which includes the displacement 's' in the denominator.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 231,
+    "question": "Which of the following is not an electromagnetic radiation?",
+    "option": {
+      "a": "x - ray",
+      "b": "Radio waves",
+      "c": "sunlight",
+      "d": "sound waves"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Electromagnetic waves do not require any material medium, but sound waves is a mechanical wave that require a material medium",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3372,6 +3420,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611754/ALOC-Questions/Physics/2018/2018_Q_39_zc5gfx.jpg",
     "answer": "d",
     "solution": "From the diagram:\n\nThree 2μF capacitors on the left are in parallel\nThis combination is in series with 2μF and 3μF capacitors\n\nStep 1: Calculate equivalent capacitance of parallel capacitors\nThree 2μF capacitors in parallel:\nC_parallel = 2 + 2 + 2 = 6μF\nStep 2: Calculate total capacitance (series combination)\nNow 6μF, 2μF, and 3μF are in series:\nFor series capacitors:\n1/C_T = 1/C₁ + 1/C₂ + 1/C₃\n1/C_T = 1/6 + 1/2 + 1/3\nFinding common denominator (6):\n1/C_T = 1/6 + 3/6 + 2/6\n1/C_T = (1 + 3 + 2)/6\n1/C_T = 6/6 = 1\nTherefore:\nC_T = 1μF",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 319,
+    "question": "The inner diameter of a small test tube can be measured accurately using a",
+    "option": {
+      "a": " Micrometres screw gauge",
+      "b": " Pair of dividers",
+      "c": " Metre rule",
+      "d": " Pair of vernier calliper"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A vernier scale is a visual aid to take an accurate measurement reading between two graduation markings on a linear scale by using mechanical interpolation; thereby increasing resolution and reducing measurement",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -6832,6 +6896,22 @@
     "examyear": "2005"
   },
   {
+    "id": 662,
+    "question": "The charge carriers in gasses are",
+    "option": {
+      "a": "ions only",
+      "b": "electrons and ions",
+      "c": "electrons and holes",
+      "d": "electrons only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The electrons and cations of ionized gas act as charge carriers.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 663,
     "question": "The ray which causes gas molecules to glow is known as",
     "option": {
@@ -7036,6 +7116,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296611/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_33_oy4esv.png",
     "answer": "d",
     "solution": "The curve reaches its minimum (lowest point) at approximately θ = 25°, where the deviation is approximately 18°.\n\nAt minimum deviation:\n\nThe ray passes symmetrically through the prism\nThe angle of incidence equals the angle of emergence\nThis condition is used in prism experiments to determine refractive index\n\n\nIncident angle at minimum deviation = 25°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 684,
+    "question": "In the figure above, the coefficient of static friction is 0.5. If the tension in the string is T, the acceleration of the system in motion is",
+    "option": {
+      "a": "5 ms⁻²",
+      "b": "15 ms⁻²",
+      "c": "3 ms⁻²",
+      "d": "9 ms⁻²"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296692/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_35_esiic3.png",
+    "answer": "a",
+    "solution": "Step 1: Identify forces on hanging mass (6 kg)\nWeight downward: W = 6g = 60 N\nTension upward: T\nEquation: 6g - T = 6a\nStep 2: Identify forces on block (3 kg)\nTension rightward: T\nFriction leftward: f = μN = μ(3g) = 0.5 × 30 = 15 N\nNormal force: N = 3g = 30 N\nEquation: T - f = 3a\nT - 15 = 3a\nStep 3: Solve the system of equations\nFrom equation 1: 60 - T = 6a\nFrom equation 2: T - 15 = 3a\nAdding both equations:\n60 - T + T - 15 = 6a + 3a\n45 = 9a\nStep 4: Calculate acceleration\na = 45/9\na = 5 ms⁻²",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -7680,6 +7776,22 @@
     "examyear": "2006"
   },
   {
+    "id": 742,
+    "question": "In a gas experiment, if the volume of the gas is plotted against the reciprocal of the pressure, the unit of the slope of the resulting curve is",
+    "option": {
+      "a": "force",
+      "b": "temperature",
+      "c": "power",
+      "d": "work"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Identify the variables and their units\nVolume V has SI unit m³.\nPressure p has SI unit N m⁻², so the reciprocal of pressure, 1/p, has unit m² N⁻¹.\n\nStep 2: Determine the units of the slope\nSlope = change in volume / change in (1/p) = ΔV / Δ(1/p).\nUnits of slope = (m³) / (m² N⁻¹) = m³ × N m⁻² = N m = joule (J).\n\nStep 3: Relate to physical quantity\nThe joule is the SI unit of work (or energy). For an ideal gas at constant temperature, pV = constant, so the slope of V versus 1/p is constant and equals pV, which has dimensions of work.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 744,
     "question": "An engine of a car of power 80 kW moves on a rough road with a velocity of 32 m/s. The force required to bring it to rest is?",
     "option": {
@@ -8236,6 +8348,22 @@
     "image": "",
     "answer": "c",
     "solution": "Counting currency notes with moist fingers is based on the principle of adhesion - the attractive force between water molecules (on the finger) and paper molecules (of the note), which creates a grip that helps separate and count individual notes.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 807,
+    "question": "A motorcycle of mass 100kg moves round in a circle of radius 10m with a velocity of 5 ms⁻¹. Find the coefficient of friction between the road and the tyres.",
+    "option": {
+      "a": "25",
+      "b": "2.5",
+      "c": "0.5",
+      "d": "0.25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 100 kg\nRadius (r) = 10 m\nVelocity (v) = 5 m/s\ng = 10 m/s²\nCoefficient of friction (μ) = ?\n\nUnderstanding the physics:\nFor a motorcycle moving in a circle on a flat road:\n\nCentripetal force is provided by friction between tyres and road\nFriction force = Centripetal force\n\nSetting up equation:\nFriction force = Centripetal force\nμmg = mv²/r\nCancelling mass (m) from both sides:\nμg = v²/r\nSolving for μ:\nμ = v²/(rg)\nSubstituting values:\nμ = (5)²/(10 × 10)\nμ = 25/100\nμ = 0.25",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -10108,6 +10236,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774439368/ALOC-Questions/Physics/2011/PHYSICS_2011_Q_45_x3idg8.png",
     "answer": "b",
     "solution": "\nFrom the circuit diagram:\n\nThree resistors in parallel: 2Ω, 4Ω, and 12Ω\nVoltage across combination = 12V\nCurrent through 12Ω resistor = ?\n\nKey principle for parallel circuits:\nIn a parallel circuit, the voltage across each resistor is the same (equal to the source voltage).\nVoltage across 12Ω resistor:\nV = 12V (same as battery voltage)\nUsing Ohm's Law for the 12Ω resistor:\nI = V/R\nCalculating current:\nI₁₂Ω = 12/12\nI₁₂Ω = 1.0 A",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 996,
+    "question": "In Homes, electrical appliances and lamps are connected in parallel because",
+    "option": {
+      "a": "Parallel connections do not heat up the wires",
+      "b": "independence switches can be used",
+      "c": " less current will be used",
+      "d": " less voltage will be used"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "if appliances are connected in series, the effective voltage is the sum of individual voltages which will be high.",
     "examtype": "utme",
     "examyear": "2011"
   },
