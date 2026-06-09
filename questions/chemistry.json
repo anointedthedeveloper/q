@@ -4192,6 +4192,22 @@
     "examyear": "2010"
   },
   {
+    "id": 269,
+    "question": "Elements in the same periodic table have the same",
+    "option": {
+      "a": "Atomic number",
+      "b": "Chemical properties",
+      "c": "Physical properties",
+      "d": "Number of shells"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 270,
     "question": "A noble gas with a high power of fog penetration used in aerodrome beacons is",
     "option": {
@@ -5884,6 +5900,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a primary alkanol such as propan-1-ol (CH₃CH₂CH₂OH) is oxidized with acidified KMnO₄ under mild/controlled conditions, it first forms an aldehyde (CH₃CH₂CHO, propanal) and water. Further oxidation gives the carboxylic acid, but the initial oxidation product of the primary alkanol is the aldehyde.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 377,
+    "question": "Alkanols have the general molecular formula",
+    "option": {
+      "a": "CₙH₂ₙ₋₂",
+      "b": "CₙH₂ₙ₊₁CHO",
+      "c": "CₙH₂ₙ₋₂OH",
+      "d": "CₙH₂ₙ₊₁OH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Alkanols (alcohols derived from alkanes) have the general formula CₙH₂ₙ₊₁OH, where the CₙH₂ₙ₊₁ part is the alkyl group attached to the hydroxyl (-OH) functional group. For example, methanol is CH₃OH (n=1) and ethanol is C₂H₅OH (n=2).",
     "examtype": "utme",
     "examyear": "2016"
   },
