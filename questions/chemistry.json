@@ -784,6 +784,22 @@
     "examyear": "2002"
   },
   {
+    "id": 57,
+    "question": "Three drops of a 1.0 mol dm-3 solution of Na OH are added to 20cm3 of a solution of pH8.4. the pH of the resulting solution will be",
+    "option": {
+      "a": "Greater than 8.4",
+      "b": "Unaltered",
+      "c": "Close to that of pure water",
+      "d": "Less than 8.4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 58,
     "question": "The solubility of a salt of molar mass 101g at 200C is 0.34mol dm-3. If 3.40g of the salt is dissolved completely in 250cm3 of water in a beaker, the resulting solution is",
     "option": {
@@ -1611,6 +1627,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 112,
+    "question": "Ethene reacts with hydrogen bromide to give",
+    "option": {
+      "a": "CH2Br2",
+      "b": "CH3CH2Br",
+      "c": "C2H2Br2",
+      "d": "CHBr3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
