@@ -25,7 +25,7 @@
   },
   "civiledu": {
     "done": false,
-    "total": 190
+    "total": 193
   },
   "mathematics": {
     "done": false,
@@ -66,5 +66,17 @@
   "history": {
     "done": false,
     "total": 50
+  },
+  "yoruba": {
+    "done": true,
+    "total": 0
+  },
+  "igbo": {
+    "done": true,
+    "total": 0
+  },
+  "computer-studies": {
+    "done": true,
+    "total": 0
   }
 }
