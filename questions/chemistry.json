@@ -160,6 +160,22 @@
     "examyear": "2001"
   },
   {
+    "id": 15,
+    "question": "The chemiocal used for coagulation in water purification is",
+    "option": {
+      "a": "Aluminum tetraoxosulphate(VI)",
+      "b": "Copper tetratoxosulphate (VI)",
+      "c": "Sodium tetraoxosulphate(VI)",
+      "d": "Calcium tetraoxosulphate (VI)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 16,
     "question": "Phosphorous is stored under water to precvent it from",
     "option": {
@@ -215,6 +231,38 @@
       "b": "Increasing the pressure of the system",
       "c": "The addition of a catalyst to the system",
       "d": "Increasing the surface area of the vessel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 26,
+    "question": "When ΔH is negative, a reaction is said to be",
+    "option": {
+      "a": "Ionic",
+      "b": "Reversible",
+      "c": "Exothermic",
+      "d": "Endothermic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 29,
+    "question": "NH3(g)  +  HCI(g)  → NH4CI(s) The entropy change in the system is",
+    "option": {
+      "a": "Negative",
+      "b": "Indeterminate",
+      "c": "Positive",
+      "d": "Zero"
     },
     "section": "",
     "image": "",
@@ -736,6 +784,22 @@
     "examyear": "2003"
   },
   {
+    "id": 86,
+    "question": "The weakest attractive force that can be observed between two molecules is",
+    "option": {
+      "a": "Ionic",
+      "b": "Covalent",
+      "c": "Coordinate covalent",
+      "d": "Van der Waals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 87,
     "question": "A consequence of global warming is",
     "option": {
@@ -763,6 +827,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 90,
+    "question": "A liquid that will dissolve fast is",
+    "option": {
+      "a": "Hydrochloric acid",
+      "b": "Calcium hydroxide",
+      "c": "Kerosene",
+      "d": "Water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 93,
+    "question": "When 10g of sodium hydroxide is dissolved in 1000cm3 of water, the solution formed is approximately   [Na = 23, H = 1, O = 16]",
+    "option": {
+      "a": "0.01 mol dm-3",
+      "b": "0.10 mol dm-3",
+      "c": "0.25 mol dm-3",
+      "d": "0.50 mol dm-3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -1536,6 +1632,22 @@
     "examyear": "2005"
   },
   {
+    "id": 193,
+    "question": "Equal moles of ethyne and hydrogen iodide react to give",
+    "option": {
+      "a": "CH2 = CH2",
+      "b": "CH2 = CHI",
+      "c": "CH2 – CHI",
+      "d": "CH2 – CI3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 194,
     "question": "How many hydrogen atoms does a single ring cycloalkane have less than the corresponding open- chain alkane",
     "option": {
@@ -1659,6 +1771,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 213,
+    "question": "Which of the following equimolar solutions will have the highest pH",
+    "option": {
+      "a": "NH4OH",
+      "b": "CH3COONa",
+      "c": "HCI",
+      "d": "NaOH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -2928,6 +3056,22 @@
     "examyear": "2016"
   },
   {
+    "id": 368,
+    "question": "The process that requires the use of hard water in its operation is",
+    "option": {
+      "a": "Tanning",
+      "b": "Bottling",
+      "c": "Laundry",
+      "d": "Dyeing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Tanning of leather requires hard water. The calcium and magnesium ions in hard water react with tannins to help harden and preserve animal hides. Hard water is undesirable for laundry (wastes soap), bottling, and dyeing processes.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 371,
     "question": "The compound produced when sodium peroxide is heated with excess sodium is",
     "option": {
@@ -3088,6 +3232,38 @@
     "examyear": "2016"
   },
   {
+    "id": 391,
+    "question": "An isotope has an atomic number of 15 and a mass number of 31. The number of protons it contains is",
+    "option": {
+      "a": "16",
+      "b": "15",
+      "c": "31",
+      "d": "46"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The atomic number of an element equals the number of protons in its nucleus. Since the atomic number is 15, the atom contains 15 protons. The number of neutrons = mass number − atomic number = 31 − 15 = 16.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 392,
+    "question": "Calculate the volume in cm³ of oxygen evolved at s.t.p when a current of 5 A is passed through acidified water for 193 s. \n\n[F = 96500 C mol⁻¹. Molar volume of a gas at s.t.p = 22.4 dm³]",
+    "option": {
+      "a": "0.056 dm³",
+      "b": "0.224 dm³",
+      "c": "224.000 dm³",
+      "d": "56.000 dm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Charge = I × t = 5 × 193 = 965 C. Moles of electrons = 965/96500 = 0.01 mol. At the anode: 2H₂O → O₂ + 4H⁺ + 4e⁻, so moles of O₂ = 0.01/4 = 0.0025 mol. Volume of O₂ = 0.0025 × 22.4 = 0.056 dm³.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 393,
     "question": "The gas that is used for the treatment of cancer is",
     "option": {
@@ -3164,6 +3340,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636437/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q47_sodvoa.png",
     "answer": "b",
     "solution": "The curve starts at a low pH (~3), indicating a strong acid. The equivalence point and the final pH (~5) are both in the acidic range, which is characteristic of a strong acid-weak base titration (the salt formed is acidic). A strong acid-strong base titration would end at pH 7, and a weak acid-strong base would end above pH 7.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 404,
+    "question": "N₂O₄(aq) ⇌ 2NO₂(g), ΔH = +ve. In the reaction above, an increase in temperature will",
+    "option": {
+      "a": "Increase the reactant production",
+      "b": "Increase the value of the equilibrium constant",
+      "c": "Shift the equilibrium to the left",
+      "d": "Decrease the value of the equilibrium constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Since ΔH is positive (endothermic), the forward reaction absorbs heat. By Le Chatelier's principle, increasing temperature favours the endothermic (forward) direction, shifting equilibrium to the right and producing more NO₂. This increases the equilibrium constant K, since K increases with temperature for endothermic reactions.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3292,6 +3484,38 @@
     "image": "",
     "answer": "c",
     "solution": "In KIO₃: K = +1, O = -2. Let I = x. +1 + x + 3(-2) = 0 → 1 + x - 6 = 0 → x = +5. The oxidation number of iodine in KIO₃ is +5.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 418,
+    "question": "An isomer of C₅H₁₂ is",
+    "option": {
+      "a": "2-ethyl butane",
+      "b": "butane",
+      "c": "2-methyl butane",
+      "d": "2-methyl propane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "C₅H₁₂ is the molecular formula for pentane and its isomers. 2-methylbutane (isopentane) has the formula C₅H₁₂ and is a structural isomer of n-pentane. Butane is C₄H₁₀; 2-methylpropane is C₄H₁₀; 2-ethylbutane would be C₆H₁₄. Only 2-methylbutane matches C₅H₁₂.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 419,
+    "question": "When few drops of concentrated trioxonitrate (V) acid is added to an unknown sample and warmed, an intense yellow colouration is observed. The likely functional group present in the sample is",
+    "option": {
+      "a": "NH₂RCHCOOH",
+      "b": "CHO",
+      "c": "CO",
+      "d": "CNH₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The xanthoproteic reaction — intense yellow colouration when concentrated HNO₃ is added to a substance and warmed — is a positive test for proteins and amino acids containing aromatic rings. The functional group responsible is the amino acid group (-NH₂RCHCOOH). The nitration of the benzene ring in the aromatic amino acid produces the yellow colour.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3616,6 +3840,22 @@
     "examyear": "2018"
   },
   {
+    "id": 460,
+    "question": "The type of bonding in [Cu(NH₃)₄]²⁺ is",
+    "option": {
+      "a": "coordinate",
+      "b": "electrovalent",
+      "c": "metallic",
+      "d": "covalent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In [Cu(NH₃)₄]²⁺ (tetraamminecopper II complex), the four NH₃ ligands donate lone pairs of electrons to the Cu²⁺ ion to form dative (coordinate) bonds. Both electrons in each bond come from the nitrogen atom of NH₃. This type of bonding — where one atom provides both electrons — is called coordinate (dative covalent) bonding.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 462,
     "question": "To what temperature must a gas at 273 K be heated in order to double both its volume and pressure?",
     "option": {
@@ -3916,6 +4156,22 @@
     "image": "",
     "answer": "d",
     "solution": "Reaction: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O. Moles of H₂SO₄ = 1.25 × 10/1000 = 0.0125 mol. Moles of NaOH needed = 2 × 0.0125 = 0.025 mol. Volume of NaOH = 0.025/0.5 = 0.05 dm³ = 50 cm³.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 500,
+    "question": "To what volume must 300 cm³ of 0.60 M sodium hydroxide solution be diluted to give a 0.40 M solution?",
+    "option": {
+      "a": "450 cm³",
+      "b": "300 cm³",
+      "c": "200 cm³",
+      "d": "150 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using C₁V₁ = C₂V₂. C₁ = 0.60 M, V₁ = 300 cm³, C₂ = 0.40 M. V₂ = (0.60 × 300)/0.40 = 180/0.40 = 450 cm³. The solution must be diluted to a total volume of 450 cm³.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5520,6 +5776,22 @@
     "examyear": "2023"
   },
   {
+    "id": 686,
+    "question": "What is the solubility product constant (Ksp) used for?",
+    "option": {
+      "a": "To measure the total mass of a solute that can dissolve in a solvent",
+      "b": "To determine the concentration of a solute in a saturated solution",
+      "c": "To calculate the solubility of a solute in a given solvent",
+      "d": "To compare the solubilities of different solutes in the same solvent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The solubility product constant (Ksp) is an equilibrium constant that applies to the dissolution of a sparingly soluble ionic compound. It represents the product of the concentrations of its ions in a saturated solution, each raised to the power of their stoichiometric coefficients. Ksp is used to determine the ion concentrations present in a saturated solution and to predict whether precipitation will occur.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 687,
     "question": "Which trace gas in the atmosphere plays a significant role in the greenhouse effect?",
     "option": {
@@ -5932,6 +6204,22 @@
     "image": "",
     "answer": "c",
     "solution": "Ag⁺ + e⁻ → Ag. One Faraday deposits 1 mole (108g) of Ag. Moles of Ag = 180 ÷ 108 = 1.667 mol. Faradays required = 1.667 × 1 = 1.67F.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 735,
+    "question": "The table shows formulae of some ions (Cations: Al³⁺, Ca²⁺, Cu²⁺, Fe³⁺, K⁺; Anions: Br⁻, CO₃²⁻, NO₃⁻, S²⁻, SO₄²⁻). In which of these compounds is the formula not correct?",
+    "option": {
+      "a": "Aluminiumtetraoxosulphate(VI), Al₂(SO₄)₃",
+      "b": "Calciumtrioxonitrate(V), Ca(NO₃)₂",
+      "c": "Iron(III)bromide, Fe₃Br",
+      "d": "Potassiumsulphide, K₂S"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777640437/ALOC-Questions/Chemistry/UTME/2024/Chemistry_2024_Q21_zbpbek.jpg",
+    "answer": "c",
+    "solution": "Iron(III) has a charge of 3+ and bromide has a charge of 1−. To balance: 1 Fe³⁺ needs 3 Br⁻, giving FeBr₃ as the correct formula. Fe₃Br shown in option C is incorrect. Al₂(SO₄)₃ is correct (2×3+ = 3×2−). Ca(NO₃)₂ is correct (1×2+ = 2×1−). K₂S is correct (2×1+ = 1×2−).",
     "examtype": "utme",
     "examyear": "2024"
   },
