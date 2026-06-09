@@ -1584,6 +1584,22 @@
     "examyear": "2001"
   },
   {
+    "id": 127,
+    "question": "Find the principal which amounts to N5,500 at a simple interest in 5 years at 2% per annum.",
+    "option": {
+      "a": "N4,900",
+      "b": "N5,000",
+      "c": "N4,700",
+      "d": "N4,800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Principal, P = Amount, A - Interest, I.\nA = P + I\n\nI = (P.T.R)/100 = (P x 5 x 2)/100 = 10P/100 = P/10\n\nBut A = P + I,\n=> 5500 = P + (P/10)\n=> 55000 = 10P + P\n=> 55000 = 11P\n\nThus P = 55000/11 = N5,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 128,
     "question": "Evaluate (0.14<sup>2</sup> x 0.275) 7(0.02) to 3 decimal places.",
     "option": {
@@ -2380,6 +2396,22 @@
     "image": "",
     "answer": "a",
     "solution": "x+2/4 − 2x−3/3 < 4\n3(x+2)−4(2x−3)/12 < 4\n3x + 6 − 8x + 12 < 48\n18 − 5 x< 48 ⟹ −5 x < 48 − 18\n−5x < 30 ⟹ x > −6",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 187,
+    "question": "Find the maximum value of y in the equation y = 1 - 2x - 3x<sup>2</sup> ",
+    "option": {
+      "a": "5/4",
+      "b": "5/3",
+      "c": "3/4",
+      "d": " 4/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Tn=a+(n−1)d\n  (nth term of an AP).\n\nT9=5T5\na+8d=5(a+4d)⟹a+8d=5a+20d\n5a−a+20d−8d=0⟹4a+12d=0\na+3d=0",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -6112,6 +6144,22 @@
     "examyear": "2008"
   },
   {
+    "id": 480,
+    "question": "If (1+√2)/(1-√2)\n is expressed in the form of x+y√2 find the values of x and y",
+    "option": {
+      "a": "(-3, -2)",
+      "b": ". (-2, 3)",
+      "c": "(3,2)",
+      "d": "(2,-3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(1+√2)/(1-√2) × (1+√2)/(1+√2) = (1+(1+√2)+√2(1+√2))/(1<sup>2</sup>-(√2 )<sup>2</sup> )=((1+√2+√2+2))/(1-2)=(3+2√2)/(-1)=-3-2√2∴XandY=-3and-2",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 481,
     "question": "If X = {n<sup>2</sup>\n + 1:n = 0,2,3} and Y = {n+1:n=2,3,5}, find X∩Y.",
     "option": {
@@ -7248,6 +7296,22 @@
     "examyear": "2009"
   },
   {
+    "id": 568,
+    "question": "The histogram above represents the number of candidates that sat for Mathematics examination in a school. How many candidate scored more than 50 marks?",
+    "option": {
+      "a": " 80",
+      "b": "95",
+      "c": "100",
+      "d": "115"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547431/ALOC-Questions/Mathematics/2009/JAMB_MATH_2009_Q47_kmqtw2.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 569,
     "question": "The cumulative frequency curve above shows the distribution of the scores of 50 students in an examination. Find the 36th percentile scores?",
     "option": {
@@ -7996,6 +8060,22 @@
     "image": "",
     "answer": "c",
     "solution": "M:N:Q == 5:4:3\n\ni.e M = 5, N = 4, Q = 3\n\nSubstituting values into equation, we have...\n\n2N−Q/M\n\n\n= 2(4)−3/5\n\n\n= 8−3/5\n\n\n= 5/5\n\n\n= 1",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 626,
+    "question": "Simplify (16/81 )<sup>(1/4)</sup>÷(9/16 )<sup>(-1/2)</sup>",
+    "option": {
+      "a": "2/3",
+      "b": "1/2",
+      "c": "8/9",
+      "d": "1/3"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <mfrac>\n    <mn>16</mn>\n    <mn>81</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mo>&#x00F7;<!-- ÷ --></mo>\n  <mo stretchy=\"false\">(</mo>\n  <mfrac>\n    <mn>9</mn>\n    <mn>16</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(16/81 )<sup>(1/4)</sup>÷(9/16 )<sup>(-1/2)</sup>                       (16/81))<sup>(1/4)</sup> ÷ (16/9)1/2\n\n\n(2<sup>4</sup>/3<sup>4</sup>))<sup>(1/4)</sup> ÷ (4<sup>2</sup>/3<sup>2</sup>)<sup>1/2</sup>\n\n\n2)<sup>4 x (1/4)</sup>/3<sup>4 x (1/4)</sup> ÷ 4<sup>2 x 1/2</sup> 3<sup>2 x 1/2</sup> \n\n2/3 ÷ 4/3\n\n\n2/3 × 3/4\n\n\n2/4\n\n\n1/2",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -11344,6 +11424,22 @@
     "examyear": "2018"
   },
   {
+    "id": 942,
+    "question": "How many times, correct to the nearest whole number, will a man run round a circular track of diameter 100m to cover a distance of 1000m?",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In terms of distance, a circle has a total distance or perimeter of 2πr or πd\n\n  Where r is radius and d is the diameter\n\n  So perimeter = 22/7 x 100\n\n  = 314.2857m\n\n  To cover a distance of 1000m, he is going to round the circular track for 1000/314.2857\n = 3.18\n\n≊ 3 (to the nearest whole number)",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 943,
     "question": "(0.00256×0.0064)/(0.025 × 0.08)",
     "option": {
@@ -12814,6 +12910,22 @@
     "solution": "h/500  = sin 30°\n \n\n= 500 sin 30°\n \n\n= 500 x 1/2\n \n\n= 250m ",
     "examtype": "2020",
     "examyear": "utme"
+  },
+  {
+    "id": 1058,
+    "question": "Solve the following equation: 2(2r−1) - 5/3 =  1(r+2)",
+    "option": {
+      "a": "( -1, 5/2 )",
+      "b": "( 1, - 5/2 )",
+      "c": "( 5/2, 1 )",
+      "d": "(2,1)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2/(2r−1) - 5/3 = 1/(r+2)\n2/(2r−1) - 1(r+2) = 5/3\nThe L.C.M.: (2r - 1) (r + 2) \n\n(2(r+2)−1(2r−1))/((2r−1)(r+2)) = 5/3\n(2r + 4 − 2r + 1)/((2r−1)(r+2))\n= 5/3\ncross multiply the solution\n\n3 * 5 = (2r - 1) (r + 2) * 5\n\ndivide both sides 5\n\n3 =  2r<sup>2</sup> + 3r - 2 (when expanded)\n\ncollect like terms\n\n2r<sup>2</sup + 3r - 2 - 3 = 0\n\n2r<sup>2</sup + 3r - 5 = 0\n\nFactors are -2r and + 5r\n\n2r<sup>2</sup> -2r + 5r - 5 = 0\n\n[2r<sup>2</sup> -2r] [+ 5r - 5] = 0\n\n2r(r-1) + 5(r-1) = 0\n\n(2r+5) (r-1) = 0\n\n r = 1 or - 5/2",
+    "examtype": "utme",
+    "examyear": "2021"
   },
   {
     "id": 1059,
