@@ -768,6 +768,22 @@
     "examyear": "2009"
   },
   {
+    "id": 67,
+    "question": "Which of the following phenomena cannot be explained by the molecular theory of matter? ",
+    "option": {
+      "a": "evaporation ",
+      "b": "expansion ",
+      "c": "conduction ",
+      "d": "radiation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 68,
     "question": "The most likely measurement of length of an object using a venier caliper is: ",
     "option": {
@@ -1296,6 +1312,22 @@
     "examyear": "2012"
   },
   {
+    "id": 131,
+    "question": "Boyle’s law may be Written as",
+    "option": {
+      "a": "P1V1= P2V2",
+      "b": "V1 = V2 ÷ T1T2",
+      "c": "P1T1 = P2T2",
+      "d": "P1V1 ÷ T1 = P1V1 ÷ T2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Boyle‘s law stats that the volume of a given mass of a gas, at a constant temperature is inversely proportional to us pressure.\n\nMathematically\n\nV ∝ l/p, v = k/p (where k is constant)\n\nK = VP\n\nLet k = k1\n\nThen, if k = k, V and P = V1P1\n\nV1P1 = V2P2",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 132,
     "question": "The direction of the path taken by light is called",
     "option": {
@@ -1372,6 +1404,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nMass of first planet (m₁) = 10²⁴ kg\nMass of second planet (m₂) = 10²⁷ kg\nDistance between planets (r) = 10²⁰ meters\nGravitational constant (G) = 6.67 × 10⁻¹¹ Nm²/kg²\n\nFormula for Gravitational Force:\nF = G(m₁m₂)/r²\nSubstituting values:\nF = (6.67 × 10⁻¹¹ × 10²⁴ × 10²⁷)/(10²⁰)²\nF = (6.67 × 10⁻¹¹ × 10⁵¹)/(10⁴⁰)\nF = (6.67 × 10⁴⁰)/(10⁴⁰)\nF = 6.67 N\nAnswer: A. 6.67N",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 148,
+    "question": "What is the relationship mechanical advantage (MA) velocity Ratio (V.R) and efficiency with percentage?",
+    "option": {
+      "a": "e = M.A/V.R × 100 %",
+      "b": "M.A = E.V.R",
+      "c": "V.R = 1 ÷ sin θ M.A",
+      "d": "M.A = 1/E × 100%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Efficiency of a machine relates the output to the input of the machine.\nKey definitions:\n\nMechanical Advantage (M.A) = Output force/Input force (what you get out)\nVelocity Ratio (V.R) = Input distance/Output distance (what you put in)\nEfficiency (E) = (Useful work output)/(Work input)\n\nRelationship:\nEfficiency can be expressed as:\nEfficiency = (Mechanical Advantage)/(Velocity Ratio)\nIn percentage form:\nEfficiency (%) = (M.A/V.R) × 100%\nWhy this relationship:\n\nM.A represents the force advantage (output/input)\nV.R represents the distance disadvantage (input/output)\nEfficiency = (Force advantage)/(Distance disadvantage)\nIn an ideal machine (100% efficient), M.A = V.R\n\nAnswer: A. e = M.A/V.R × 100%\nThis formula shows that efficiency is the ratio of mechanical advantage to velocity ratio, expressed as a percentage.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2320,6 +2368,38 @@
     "examyear": "2017"
   },
   {
+    "id": 241,
+    "question": "Three 3ω resistance are connected in parallel what is the equivalent resistance?",
+    "option": {
+      "a": "1ω",
+      "b": "9ω",
+      "c": "3ω",
+      "d": "0.33ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nSolution:\nGiven information:\n\nThree resistors: R₁ = R₂ = R₃ = 3Ω\nConnected in parallel\nEquivalent resistance (Rₑq) = ?\n\nFormula for resistors in parallel:\n1/Rₑq = 1/R₁ + 1/R₂ + 1/R₃\nSubstituting values:\n1/Rₑq = 1/3 + 1/3 + 1/3\n1/Rₑq = 3/3\n1/Rₑq = 1\nTherefore:\nRₑq = 1Ω",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 243,
+    "question": "An element and its isotope only differ in the number of",
+    "option": {
+      "a": "protons",
+      "b": "electrons",
+      "c": "ions",
+      "d": "neutrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Isotopy is due to difference in mass number, what causes the difference is the difference in the number of neutrons present",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 244,
     "question": "The S.I unit of moment of a force is",
     "option": {
@@ -3244,6 +3324,22 @@
     "image": "",
     "answer": "a",
     "solution": "According to the kinetic molecular model, gas molecules are very far apart relative to their size and occupy all available space in their container.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 335,
+    "question": "The value of T in the figure above is",
+    "option": {
+      "a": "30N",
+      "b": "10.0N",
+      "c": " 20N",
+      "d": " 40N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612271/ALOC-Questions/Physics/2019/2019_physics_Q_6_zoy9bf.jpg",
+    "answer": "d",
+    "solution": "Given:\nWeight = 40 N\nAngle = 30 degrees\n\nVertical equilibrium:\n2 * T * sin(30°) = 40\n\nSince sin(30°) = 0.5:\n2 * T * 0.5 = 40\nT = 40 N\n\nAnswer: 40 N",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -5024,6 +5120,22 @@
     "examyear": "2023"
   },
   {
+    "id": 514,
+    "question": "How much net work is required to accelerate a 1200 kg car from 10ms⁻¹ to 15ms⁻¹",
+    "option": {
+      "a": "1.95×10⁵ J",
+      "b": " 1.35×10⁴ J",
+      "c": "7.5×10⁴ J",
+      "d": "6.0×10⁴ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass, m = 1200 kg\nInitial velocity, u = 10 m/s\nFinal velocity, v = 15 m/s\nNet work required, W = ?\n\nSolution:\nUsing the work-energy theorem:\nW = ΔKE = KE_final - KE_initial\nW = ½mv² - ½mu²\nStep 1: Calculate initial kinetic energy\nKE_initial = ½mu²\nKE_initial = ½ × 1200 × (10)²\nKE_initial = 600 × 100\nKE_initial = 60,000 J\nStep 2: Calculate final kinetic energy\nKE_final = ½mv²\nKE_final = ½ × 1200 × (15)²\nKE_final = 600 × 225\nKE_final = 135,000 J\nStep 3: Calculate net work done\nW = KE_final - KE_initial\nW = 135,000 - 60,000\nW = 75,000 J\nW = 7.5 × 10⁴ J",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 515,
     "question": "A wire of radius 0.2 mm is extended by 0.5% of its length when supported by a load of 1.5 kg. Determine the Young's modulus for the material of the wire. [Take g = 10 ms⁻²]",
     "option": {
@@ -5152,6 +5264,22 @@
     "examyear": "2023"
   },
   {
+    "id": 528,
+    "question": "Which of the following is/are not true about the heat capacity of a substance? (i) It is an intensive property (ii) Its S.I unit is jK⁻¹ (iii) It is an extensive property (iv) Its S.I unit is jkg⁻¹",
+    "option": {
+      "a": "(i) and (iii) only",
+      "b": "(i), (ii) and (iv) only",
+      "c": " (i) and (iv) only",
+      "d": "(ii) and (iii) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Heat capacity is an extensive property (depends on mass) with SI unit JK⁻¹. Statement (i) incorrectly calls it intensive, and statement (iv) gives the wrong unit (Jkg⁻¹ relates to specific energy, not heat capacity).",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 529,
     "question": "The pinhole camera works on",
     "option": {
@@ -5228,6 +5356,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nObject distance, u = 35 cm\nFocal length magnitude = 15 cm\nFor convex mirror, f = +15 cm (positive by sign convention)\nImage distance, v = ?\n\nSolution:\nStep 1: Apply sign convention for convex mirror\nFor a convex mirror:\n\nObject distance, u = -35 cm (object is in front, negative)\nFocal length, f = +15 cm (focal point is behind mirror, positive)\n\nStep 2: Apply mirror formula\n1/f = 1/v + 1/u\n1/v = 1/f - 1/u\nStep 3: Substitute values\n1/v = 1/(+15) - 1/(-35)\n1/v = 1/15 + 1/35\nStep 4: Find common denominator and solve\n1/v = 7/105 + 3/105\n1/v = 10/105\n1/v = 2/21\nv = 21/2\nv = 10.5 cm",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 537,
+    "question": "A beam of light travelling in water is incident on a glass which is immersed in the water. The incident beam makes an angle of 40° with the normal. Calculate the angle of refraction in the glass. [Refractive index of water = 1.33, Refractive index of glass = 1.5]",
+    "option": {
+      "a": "29.36°",
+      "b": "25.37°",
+      "c": "37.21°",
+      "d": "34.75°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nIncident angle in water, θ₁ = 40°\nRefractive index of water, n₁ = 1.33\nRefractive index of glass, n₂ = 1.5\nAngle of refraction in glass, θ₂ = ?\n\nSolution:\nStep 1: Apply Snell's Law\nWhen light travels from one medium to another:\nn₁ sin θ₁ = n₂ sin θ₂\nStep 2: Substitute the known values\n1.33 × sin 40° = 1.5 × sin θ₂\n1.33 × 0.6428 = 1.5 × sin θ₂\n0.8549 = 1.5 × sin θ₂\nStep 3: Solve for sin θ₂\nsin θ₂ = 0.8549/1.5\nsin θ₂ = 0.5699\nStep 4: Calculate angle of refraction\nθ₂ = sin⁻¹(0.5699)\nθ₂ = 34.75°",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -5936,6 +6080,22 @@
     "examyear": "2004"
   },
   {
+    "id": 614,
+    "question": "The instrument used for securing a large number of similar charges by induction is called",
+    "option": {
+      "a": "electrophorus",
+      "b": "capacitor",
+      "c": "proof-plane",
+      "d": "electroscope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The electrophorus uses electrostatic induction to repeatedly generate charges without losing the initial charge on the base plate. This allows securing a large number of similar charges.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 615,
     "question": "If 16mA of current flows through a conductor in one second, the number of electrons transported per second is [1 electronic charge = 1.6 × 10⁻¹⁹C]",
     "option": {
@@ -6480,6 +6640,38 @@
     "examyear": "2005"
   },
   {
+    "id": 674,
+    "question": "When very hot water is poured into two identical thin and thick glass tumblers in equal volumes, the thick one cracks because?",
+    "option": {
+      "a": "of the even expansion of glass",
+      "b": "glass is a crystal",
+      "c": "glass is a good conductor of heat",
+      "d": "of the uneven expansion of glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Thick glass has a greater temperature gradient between the inner and outer surfaces because glass is a poor conductor (so heat does not quickly transfer through the thickness). The inner surface expands more than the outer, leading to cracking. Thin glass heats more evenly.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 675,
+    "question": "Satellite communication network makes use of?",
+    "option": {
+      "a": "visible light",
+      "b": " sound wave",
+      "c": "radio wave",
+      "d": "infra-red wave"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Radio waves are used to transmit signals between satellites and ground stations because they can travel long distances and effectively penetrate the atmosphere.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 676,
     "question": "An electric device is rated 2000 W, 250 v. The correct fuse rating of the device is?",
     "option": {
@@ -6652,6 +6844,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296828/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_48_prkfje.png",
     "answer": "d",
     "solution": "Option D is the graph of stopping potential V₀ against the frequency of the incident light I. The straight line graph cuts the intercept I = threshold frequency. As the frequency of the incident light increases above this point(threshold frequency), the stopping potential corresponding to the kinetic energy of the photoelectron also increases.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 698,
+    "question": "The amount of energy released when 0.5 kg of uranium is burnt completely is [c = 3 × 10⁸ m/s]",
+    "option": {
+      "a": "1.5 × 10⁸ J",
+      "b": "4.5 × 10⁸ J",
+      "c": "1.5 × 10¹⁶ J",
+      "d": "4.5 × 10¹⁶ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nMass of uranium, m = 0.5 kg\nSpeed of light, c = 3 × 10⁸ m/s\n\nStep 1: Mass‑energy equivalence formula\nE = m c²\n\nStep 2: Substitute values\nE = 0.5 kg × (3 × 10⁸ m/s)² = 0.5 kg × 9 × 10¹⁶ m²/s² = 4.5 × 10¹⁶ J",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -8384,6 +8592,22 @@
     "examyear": "2009"
   },
   {
+    "id": 875,
+    "question": "Which of the following is a secondary colour",
+    "option": {
+      "a": "blue",
+      "b": "orange",
+      "c": "red",
+      "d": "green"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Primary colours are red, blue and green\n∴ orange is a secondary colour",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 876,
     "question": "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will?",
     "option": {
@@ -8588,6 +8812,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433379/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_46_exvpt2.png",
     "answer": "d",
     "solution": "Formula for total voltage in series RLC:\nV_total = √[V_R² + (V_L - V_C)²]\nStep 1: Calculate net reactive voltage\nNet reactive voltage = V_L - V_C = 40 - 110 = -70 V\n(Negative indicates capacitive reactance dominates)\nTaking magnitude: |V_L - V_C| = 70 V\nStep 2: Calculate effective voltage\nV_eff = √[V_R² + (V_L - V_C)²]\nV_eff = √[80² + 70²]\nV_eff = √[6400 + 4900]\nV_eff = √11,300\nV_eff = 106.3 V",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 898,
+    "question": "The process of energy production in the sun is?",
+    "option": {
+      "a": "Nuclear fission",
+      "b": "Nuclear fusion",
+      "c": "Electron collision",
+      "d": "Radioactive decay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The process of energy production in the sun is nuclear fusion, where hydrogen nuclei combine under extreme temperature and pressure to form helium, releasing enormous amounts of energy in the process.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -9260,6 +9500,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁵ s⁻¹\nHalf-life (T₁/₂) = ?\n\nFormula relating half-life and decay constant:\nT₁/₂ = ln(2)/λ\nT₁/₂ = 0.693/λ\nSubstituting values:\nT₁/₂ = 0.693/(10⁻⁵)\nT₁/₂ = 0.693 × 10⁵\nT₁/₂ = 6.93 × 10⁴ s",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 986,
+    "question": "The electrical properties of germanium can be altered drastically by the addition of impurity. This process is referred to as",
+    "option": {
+      "a": "saturation",
+      "b": "bonding",
+      "c": "amplification",
+      "d": "dopping"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The process of adding impurities to drastically alter the electrical properties of germanium (or other semiconductors) is called doping. This is fundamental to semiconductor technology and the basis of modern electronics.",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -10256,6 +10512,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1091,
+    "question": "A machine whose efficiency is 75% is used to lift a load of 1000N. Calculate the effort put in to the machine if it has a Velocity ratio of 4.",
+    "option": {
+      "a": " 343.32N",
+      "b": "233.33N",
+      "c": " 333.33N",
+      "d": "334.33N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nEfficiency η = 75% = 0.75\nLoad L = 1000 N\nVelocity ratio VR = 4\n\nSolution:\n\nStep 1: Relationship between efficiency, mechanical advantage, and velocity ratio\nEfficiency η = (Mechanical Advantage) / (Velocity Ratio)\n\nStep 2: Express mechanical advantage\nMechanical Advantage MA = η × VR = 0.75 × 4 = 3\n\nStep 3: Relate mechanical advantage to load and effort\nMA = Load / Effort\nEffort = Load / MA = 1000 N / 3 = 333.333… N\n\nStep 4: Match with options\n333.333 N ≈ 333.33 N",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1094,
     "question": "The small droplets of water that form on the grass in the early hours of the morning is",
     "option": {
@@ -10364,6 +10636,22 @@
     "image": "",
     "answer": "d",
     "solution": "Solenoid method: This involves placing the magnet inside a solenoid (an electromagnet) and gradually reducing the current. It provides a controlled environment for effective demagnetization.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1115,
+    "question": "Calculate the mass of the copper deposited during electrolysis when a current of 4 A passes through a copper salt for 2 hours. [Ece of Copper, z = 3.3 × 10⁻⁷ kg C⁻¹]",
+    "option": {
+      "a": " 2.9 × 10⁵ kg",
+      "b": " 9.5 × 10⁻⁷ kg",
+      "c": " 9.5 × 10⁻³ kg",
+      "d": " 2.9 × 10⁴ kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nCurrent, I = 4 A\nTime, t = 2 hours = 2 × 3600 = 7200 s\nElectrochemical equivalent, z = 3.3 × 10⁻⁷ kg C⁻¹\n\nSolution:\n\nStep 1: Calculate total charge passed\nQ = I × t = 4 A × 7200 s = 28 800 C\n\nStep 2: Calculate mass deposited\nm = z × Q = (3.3 × 10⁻⁷) × 28 800 = 3.3 × 10⁻⁷ × 2.88 × 10⁴ = 3.3 × 2.88 × 10⁻³ = 9.504 × 10⁻³ kg\n\nStep 3: Round to two significant figures\n9.504 × 10⁻³ kg ≈ 9.5 × 10⁻³ kg",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -10652,6 +10940,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nHalf‑life, T₁/₂ = 138.5 s\n\nSolution:\n\nStep 1: Relationship between decay constant and half‑life\nλ = ln 2 / T₁/₂\n\nStep 2: Substitute ln 2 ≈ 0.693\nλ = 0.693 / 138.5\n\nStep 3: Calculate\n0.693 ÷ 138.5 = 0.0050036 ≈ 5.00 × 10⁻³ s⁻¹",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1148,
+    "question": "How long will it take to heat 4 kg of water from 30 °C to 65 °C using an electric kettle taking 5 A from a 240 V supply?\n(Specific heat capacity of water = 4200 J kg⁻¹ K⁻¹)",
+    "option": {
+      "a": "160 s",
+      "b": "245 s",
+      "c": "490 s",
+      "d": "150 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass of water, m = 4 kg\nInitial temperature, T₁ = 30 °C\nFinal temperature, T₂ = 65 °C\nTemperature change, Δθ = 35 K\nSpecific heat capacity, c = 4200 J kg⁻¹ K⁻¹\nCurrent, I = 5 A\nVoltage, V = 240 V\n\nSolution:\n\nStep 1: Calculate heat energy required\nQ = m × c × Δθ = 4 × 4200 × 35\nQ = 4 × 4200 = 16 800\n16 800 × 35 = 588 000 J\n\nStep 2: Calculate electrical power\nP = I × V = 5 × 240 = 1200 W\n\nStep 3: Relate energy, power, and time\nQ = P × t\nt = Q / P = 588 000 / 1200 = 490 s",
     "examtype": "utme",
     "examyear": "2025"
   },
