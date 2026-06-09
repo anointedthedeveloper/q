@@ -32,6 +32,22 @@
     "examyear": "2006"
   },
   {
+    "id": 3,
+    "question": "Jesus’ new commandment according to the Gospel of Jesus of John is ",
+    "option": {
+      "a": "salvation ",
+      "b": "love ",
+      "c": "peace ",
+      "d": "spirit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 4,
     "question": "The thief as described by Jesus comes to ",
     "option": {
@@ -1424,6 +1440,22 @@
     "examyear": "2010"
   },
   {
+    "id": 104,
+    "question": "Each of these spies sent out by Moses on God’s command to report on the nature of the promised land was a ",
+    "option": {
+      "a": "great warrior ",
+      "b": "wise judge ",
+      "c": "priest ",
+      "d": "leaders in his own tribe"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 105,
     "question": "God reveal to Samuel that he was going to punish Eli because he ",
     "option": {
@@ -2768,6 +2800,22 @@
     "examyear": "2005"
   },
   {
+    "id": 207,
+    "question": "The remote cause of the fall of Jerusalem was",
+    "option": {
+      "a": "Josiah’s death at the battle of Megiddo",
+      "b": "the military might of Israel’s enemies",
+      "c": "the sins of Manasseh, the king",
+      "d": "Judah’s with holding of tribute to Nebuchadnezzar"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 208,
     "question": "Nebuchadnezzar punished those who refused to worship the golden image by throwing them into",
     "option": {
@@ -3099,6 +3147,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 235,
+    "question": "Paul said he was not fit to be called an apostle because he",
+    "option": {
+      "a": "was not called like the others",
+      "b": "was not a Jew",
+      "c": "persecuted the Early Church",
+      "d": "was only a distributor of letters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -5856,6 +5920,22 @@
     "examyear": "2013"
   },
   {
+    "id": 439,
+    "question": "According to Paul in his letter to Philemon, forgiveness should not be by compulsion but by",
+    "option": {
+      "a": "justification",
+      "b": "faith",
+      "c": "free will",
+      "d": "His grace."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 440,
     "question": "In Corinthians, Paul said that one can only say Jesus is Lord by",
     "option": {
@@ -6475,6 +6555,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 490,
+    "question": "The theme justification by faith can only be achieved through",
+    "option": {
+      "a": "sacrifices to Jesus.",
+      "b": "resurrection of Jesus.",
+      "c": "redemptive power of Jesus.",
+      "d": "response of angels to Jesus."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2009"
@@ -8416,6 +8512,22 @@
     "examyear": "2010"
   },
   {
+    "id": 634,
+    "question": "‘You son of the devil, you enemy of all righteous¬ness, full of all deceit and villainy .....’ This statement of Paul was addressed to (Acts 13:6-11)",
+    "option": {
+      "a": "Elymas, the magician",
+      "b": "Paulus, the proconsul",
+      "c": "Simon, the Magician",
+      "d": "Demetrius, the silversmith"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 635,
     "question": "‘Unless you are circumcised according to the custom of Moses, you cannot be saved.’ The statement above by the men from Judea led to the",
     "option": {
@@ -8651,6 +8763,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 656,
+    "question": "“...Behold, to obey is better than sacrifice and to hearken than the fat of rams”. This statement was Samuel’s reaction to",
+    "option": {
+      "a": "David’s defense of his sin.",
+      "b": "Saul’s defense of disobedience.",
+      "c": "King Agag’s defense of his victory.",
+      "d": "Eli’s defense of the sins of his sons."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -9947,6 +10075,22 @@
     "section": "",
     "image": "",
     "answer": " a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 761,
+    "question": "According to St Paul, God sent the spirit of his son into men's heart-----",
+    "option": {
+      "a": "So that become and act like a God",
+      "b": "For Purification",
+      "c": "For the Redemption of their Sins",
+      "d": "Crying,"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -13312,6 +13456,22 @@
     "examyear": "2011"
   },
   {
+    "id": 1013,
+    "question": "The presentation of Myrrh to Jesus signifies Jesus’ ",
+    "option": {
+      "a": "humility and servanthoo",
+      "b": "suffering and impending death. ",
+      "c": "lordship on earth. ",
+      "d": "kingship and messiahship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 1014,
     "question": "“My son your sins are forgiven”. These were the words of  Jesus to the   ",
     "option": {
@@ -13387,6 +13547,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1021,
+    "question": "On Ascension day two men in white robes inform the disciples that Jesus would ",
+    "option": {
+      "a": "send for them.   ",
+      "b": "be seen in heaven. ",
+      "c": "prepare a place for them.    ",
+      "d": "come again"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -13563,6 +13739,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1035,
+    "question": "With respect to the date of the Parosia, Paul advised Thessalonians to ",
+    "option": {
+      "a": "be sober in maintaining their hope of salvation. ",
+      "b": "B disregard all speculations about it.",
+      "c": "know that the day would be announced later. ",
+      "d": "enjoy peace and security in the face of danger."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1036,
+    "question": "Paul, pleaded with Philemon to forgive  ",
+    "option": {
+      "a": "Barnabas.               ",
+      "b": "   Timothy.",
+      "c": " Onesimus. ",
+      "d": "   Silas"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
