@@ -7632,6 +7632,22 @@
     "examyear": "2008"
   },
   {
+    "id": 495,
+    "question": "In the diagram above ∠ OPQ is",
+    "option": {
+      "a": "90°",
+      "b": "53°",
+      "c": "36°",
+      "d": "26°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545897/ALOC-Questions/Mathematics/2008/MATH_2008_Q24_fuxeah.jpg",
+    "answer": "b",
+    "solution": "a = a(base ∠ s of Iss Δ)\n− a+a+74 = 180\n2a + 74 = 180\n2a = 180-74\n2a = 106\na = 53\n−∠ OPQ = 53°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 496,
     "question": "Find the area of the figure above\n[π = 22/7]",
     "option": {
