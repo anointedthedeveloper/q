@@ -23655,6 +23655,25 @@
     "category": "others"
   },
   {
+    "id": 1588,
+    "question": "Choose the most appropriate stress pattern from the options. \n\nThe stressed are written in capital letters\ndepartmental",
+    "option": {
+      "a": "DEpartmental",
+      "b": "dePARTmental",
+      "c": "departMENtal",
+      "d": "departmenTAL"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "de|part|MEN|tal",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 25,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1589,
     "question": "choose the option opposite in meaning to the word or phrase in italics\n\nThey come here on bootless <i>errand</i>",
     "option": {
@@ -25988,6 +26007,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 45,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1733,
+    "question": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nTenderly",
+    "option": {
+      "a": "actually",
+      "b": "slenderly",
+      "c": "faithfully",
+      "d": "constantly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "tenderly; /ˈtɛnd(ə)li/\n\nslenderly; slɛnd(ə)li/",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 46,
     "hasPassage": 0,
     "category": "others"
   },
