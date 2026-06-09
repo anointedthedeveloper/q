@@ -336,6 +336,22 @@
     "examyear": "2010"
   },
   {
+    "id": 103,
+    "question": "During the period 1960-1966, Nigerian was governed under the ",
+    "option": {
+      "a": "presidential system of government ",
+      "b": "Westminster system of government ",
+      "c": "confederal system of government ",
+      "d": "Unitary system of government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 107,
     "question": "Proportional representation favours a ",
     "option": {
@@ -443,6 +459,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 141,
+    "question": "After the defeat of Germany in World War 1, her former colonies were administered under the League of Nations as: ",
+    "option": {
+      "a": "occupied territories ",
+      "b": "trust territories  ",
+      "c": "crown colonies ",
+      "d": "protectorates."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -704,6 +736,22 @@
     "examyear": "2000"
   },
   {
+    "id": 211,
+    "question": "Which of the following is supreme in a federal system?",
+    "option": {
+      "a": "Judiciary",
+      "b": "legislature",
+      "c": "Constitution",
+      "d": "Executive."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 227,
     "question": "The grant of the right to vote is called",
     "option": {
@@ -800,6 +848,22 @@
     "examyear": "2013"
   },
   {
+    "id": 264,
+    "question": "Which of these countries is NOT a member of Economic Community of West African States (ECOWAS).",
+    "option": {
+      "a": "Cameroon",
+      "b": "Cape Verde",
+      "c": "Ghana",
+      "d": "Guinea"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 275,
     "question": "The special box prepared by the electoral commission into which voters cast their votes is called",
     "option": {
@@ -811,6 +875,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 276,
+    "question": "An electoral officer charged with the responsibility of announcing election result at the local government level is known as",
+    "option": {
+      "a": "administrative secretary.",
+      "b": "chairman.",
+      "c": "polling clerk",
+      "d": "presiding officer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -1168,6 +1248,22 @@
     "examyear": "2016"
   },
   {
+    "id": 373,
+    "question": "An electoral process in which candidates are selected for elective offices by party members is",
+    "option": {
+      "a": "Primary election",
+      "b": "Electoral College",
+      "c": "Bye election",
+      "d": "General election"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 376,
     "question": "Before Nigeria became a republic, the highest body charged with the administration of justice was the",
     "option": {
@@ -1271,6 +1367,22 @@
       "b": "the Congo and Zimbabwe",
       "c": "Sierra Leone and Chad",
       "d": "South Africa and Angola"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 406,
+    "question": "Nigeria’s membership of the UN complements her foreign policy in the area of",
+    "option": {
+      "a": "bilateral diplomacy",
+      "b": "regional diplomacy",
+      "c": "sub-regional diplomacy",
+      "d": "multi-lateral diplomacy"
     },
     "section": "",
     "image": "",
@@ -2640,6 +2752,22 @@
     "examyear": "2017"
   },
   {
+    "id": 779,
+    "question": " Which of the following is a legal source of political authority?",
+    "option": {
+      "a": "Power from the gun",
+      "b": "Economic power",
+      "c": "Minority power",
+      "d": "Power from the electorate."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a democracy, political authority comes from the people through elections.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 787,
     "question": "In a republic parliamentary system of government, the ceremonial Head of State is the",
     "option": {
@@ -2860,6 +2988,22 @@
     "image": "",
     "answer": "b",
     "solution": "Constituency is the definition for the political area from which an individual is elected into a representative office.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 847,
+    "question": "According to Lewis Samuel, '________ is identified with pure conquest and unequivocal exploitation...'",
+    "option": {
+      "a": "Neo colonialism",
+      "b": "Progressive Imperialism",
+      "c": " Regressive Imperialism",
+      "d": " Colonialism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The ideology of regressive imperialism is pure economic advantage and enrichment of the imperialists devoid of any ethical consideration.s",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -3328,6 +3472,38 @@
     "examyear": "2023"
   },
   {
+    "id": 1009,
+    "question": "Which of the following is a feature of Nigerian Federalism?",
+    "option": {
+      "a": "Single-party system",
+      "b": " Centralized fiscal system",
+      "c": "Autonomy of local government",
+      "d": "Strong central government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A feature of Nigerian Federalism is the autonomy of local government. This means that local governments have the power to govern themselves in certain areas. A strong central government, a single-party system, and a centralized fiscal system are not features of Nigerian Federalism.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1011,
+    "question": "Which document serves as the constitution of the United Nations?",
+    "option": {
+      "a": "Universal Declaration of Human Rights",
+      "b": "Geneva conventions",
+      "c": "Treaty of the Non-proliferation of Nuclear Weapons",
+      "d": "Charter of the United Nations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The document that serves as the constitution of the United Nations is the Charter of the United Nations. This document outlines the rights and obligations of member states and establishes the United Nations' organs and procedures.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1015,
     "question": "Nigeria is a founding member of which regional organization?",
     "option": {
@@ -3468,6 +3644,22 @@
     "image": "",
     "answer": "d",
     "solution": "The Clifford Constitution of 1922 is the constitution that officially granted Nigerians the right to create political parties and form political associations, The first political party formed in Nigeria was the Nigerian National Democratic Party (NNDP) formed by Herbert Macauley in 1923. \n",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1057,
+    "question": "The rationale behind the adoption of a federal system of government in Nigeria is to ",
+    "option": {
+      "a": " promote the autonomy of states",
+      "b": "establish a powerful central government",
+      "c": " create more states",
+      "d": " promote unity in diversity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The major reason for the adoption of the Federal system of Government was to ensure unity despite the cultural, religious and ethnic diversity prevalent in Nigeria. Each state of the Federation gets to create and implement laws and policies that are specific to the region while still reporting to the central government. This helps to maintain unity despite the diversity in the country. \n\n ",
     "examtype": "utme",
     "examyear": "2024"
   },
