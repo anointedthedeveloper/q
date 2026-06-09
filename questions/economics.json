@@ -160,6 +160,22 @@
     "examyear": "2006"
   },
   {
+    "id": 13,
+    "question": "A drawer of a cheque is the ",
+    "option": {
+      "a": "person who is to be paid ",
+      "b": "bank on which the cheque is drawn ",
+      "c": "person who writes out the cheque ",
+      "d": "bank official who certifies the payment. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 14,
     "question": "The liability of a sole trade is",
     "option": {
@@ -3408,6 +3424,22 @@
     "examyear": "2010"
   },
   {
+    "id": 249,
+    "question": "One advantage of the Sole Proprietorship over other forms of business organizations is that it can",
+    "option": {
+      "a": "make very high profits",
+      "b": "employ many workers",
+      "c": "keep its affairs private",
+      "d": "produce on a very large scale"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 251,
     "question": "The wholesaler performs the following functions except",
     "option": {
@@ -6208,6 +6240,22 @@
     "examyear": "2003"
   },
   {
+    "id": 453,
+    "question": "Which of the following is part of the capital account of the balance of payments?",
+    "option": {
+      "a": "Net investment from abroad",
+      "b": "Import of machinery",
+      "c": "Insurance",
+      "d": "Transportation costs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 454,
     "question": "The most common index for measuring development is",
     "option": {
@@ -6459,6 +6507,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 472,
+    "question": "As a firm expands, it enjoys some advantages called",
+    "option": {
+      "a": "variable proportions",
+      "b": "diminishing marginal returns",
+      "c": "internal economics of scale",
+      "d": "decreasing returns to scale"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 474,
+    "question": "An entrepreneur is likely to make more profits when",
+    "option": {
+      "a": "expenditure is more than revenue",
+      "b": "competitors charge lower prices",
+      "c": "cost per unit output falls",
+      "d": "quantity of output reduces"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
@@ -7760,6 +7840,22 @@
     "examyear": "2006"
   },
   {
+    "id": 566,
+    "question": "Distribution of good and services is hindered by",
+    "option": {
+      "a": "good road network",
+      "b": "efficient storage facilities",
+      "c": "too many middlemen.",
+      "d": "Adequate market information."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 567,
     "question": "A movement along the same demand curve either upwards \tor downwards as a result of changes in price implies",
     "option": {
@@ -8507,6 +8603,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 623,
+    "question": "Patents are examples of",
+    "option": {
+      "a": "natural barriers to entry",
+      "b": "legal barriers to entry",
+      "c": "illegal barriers to entry",
+      "d": "unnatural barriers to entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
