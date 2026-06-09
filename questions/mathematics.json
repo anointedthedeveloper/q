@@ -3888,6 +3888,22 @@
     "examyear": "2004"
   },
   {
+    "id": 279,
+    "question": "P, R and S lie on a circle center as shown above while Q lies outside the circle. Find ∠PSO",
+    "option": {
+      "a": "45°",
+      "b": "55°",
+      "c": "35°",
+      "d": "40°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700637/ALOC-Questions/Mathematics/2004/math_2004_q8_gaptwy.jpg",
+    "answer": "c",
+    "solution": "x° = 35 + 29 (Exterior angle = sum of two interior opposite angles)\nx = 55° (∠ at the center twice ∠ at circumference) y = 110°\n∠PSO = ∠SPO (base ∠S of 1sc Δ b/c PO = SO)\n∴ ∠PSO = (180 - 110)/2\n= 35°",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 280,
     "question": "The locus of a point which is 5 cm from the line LM is a",
     "option": {
@@ -13676,6 +13692,22 @@
     "image": "",
     "answer": "d",
     "solution": "Let x rep. numbers of boys that can work at 5/4 the rate at\n\nwhich the 10 girls work \n\nFor 1 hrs, x boys will work for ((1/5) × 10)/4\n \n\nx = 5/4 x 10 \n\n= 8 boys \n\n8 boys will do the work of ten girls at the same rate \n\n4 + 8 = 12 bous cut the field in 5 hrs for 3 hrs, \n\n(12×5)/3 boys will be needed = 20 boys.",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1024,
+    "question": "What is the circumference of latitude 0°S if R is the radius of the earth? ",
+    "option": {
+      "a": " cos θ",
+      "b": "2πR cos θ",
+      "c": "R sin θ",
+      "d": "2 π r sin θ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Circumstances of latitude 0o\ns where R is the radius of the earth 2πr cos θ",
     "examtype": "2020",
     "examyear": "utme"
   },
