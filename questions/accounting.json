@@ -5728,6 +5728,22 @@
     "examyear": "2014"
   },
   {
+    "id": 365,
+    "question": "The gross profit is",
+    "option": {
+      "a": "GHc/  2,160,000",
+      "b": "GHc/ 1440,000",
+      "c": "GHc/ 1,080,000",
+      "d": "GHc/ 720,000"
+    },
+    "section": "Use the following information to answer question: The total sales of a business was GHc/ 2,160,000. The average mark-up for the year was 50%.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 366,
     "question": "The cost of sales is",
     "option": {
@@ -17884,6 +17900,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663260/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q20-21_gg4bum.png",
     "answer": "d",
     "solution": "Calculation:\nCredit purchases = 150% × Cash paid to suppliers\nCredit purchases = 150% × ₦8,000\nCredit purchases = 1.5 × ₦8,000\nCredit purchases = ₦12,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1136,
+    "question": "In a control account, provision for bad debts is found on the?",
+    "option": {
+      "a": "debit side of the purchases ledger control account",
+      "b": "debit side of the sales ledger control account",
+      "c": "credit side of the purchases ledger control account",
+      "d": "credit side of the sales ledger control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The sales ledger control account summarizes amounts owed by customers (accounts receivable).\n\nProvision for bad debts reduces receivables, so it is recorded on the credit side of the sales ledger control account to offset the debit balance of debtors.\n\nIt’s not related to purchases ledger control account, because that deals with trade payables, not receivables.",
     "examtype": "utme",
     "examyear": "2003"
   },
