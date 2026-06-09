@@ -16,6 +16,22 @@
     "examyear": "2010"
   },
   {
+    "id": 20,
+    "question": "  Prepaid wages is an item in the (i)Balance Sheet (ii) Profit and loss account (iii)Trading  account (iv) Cash account ",
+    "option": {
+      "a": "i, ii, iii only ",
+      "b": "ii, iii  ",
+      "c": "i, ii ",
+      "d": "iii, iv"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 25,
     "question": "The diary or events in which all financial transactions    are    recorded    for    easy reference and to assist in the double entry system is ",
     "option": {
@@ -798,6 +814,38 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
+  },
+  {
+    "id": 216,
+    "question": "Public sector accounting is practiced in",
+    "option": {
+      "a": "public limited companies",
+      "b": "government organizations",
+      "c": "profit making organizations",
+      "d": "public trading companies."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 217,
+    "question": "A book that contains the accounts for the financial transactions of an organization is the",
+    "option": {
+      "a": "journal",
+      "b": "ledger",
+      "c": "folio",
+      "d": "register"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
   },
   {
     "id": 218,
@@ -1728,6 +1776,22 @@
     "examyear": "2007"
   },
   {
+    "id": 478,
+    "question": "The process of bookkeeping includes records produced from",
+    "option": {
+      "a": "ledgers",
+      "b": "source documents",
+      "c": "minutes of meeting",
+      "d": "intuitive reasoning"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 480,
     "question": "What is the total debit for the trial balance?",
     "option": {
@@ -2160,6 +2224,22 @@
     "examyear": "2016"
   },
   {
+    "id": 594,
+    "question": "The trader's capital in a single entry system is ascertained by preparing",
+    "option": {
+      "a": "gross profit",
+      "b": "statement of affairs",
+      "c": "suspense account",
+      "d": "appropriation account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A Statement of Affairs is a document detailing a company's assets and liabilities. Generally prepared by a liquidator or appointed professional during certain insolvency proceedings, the document is later registered at Companies House, where it becomes available for public view.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 596,
     "question": "Clifford pays rent of ₦200 per month for premises, He paid ₦2,800 within the year. Compute the prepayment.",
     "option": {
@@ -2222,6 +2302,22 @@
     "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 622,
+    "question": "Which fund is used to meet unforeseen or urgent expenditure",
+    "option": {
+      "a": "General reserve fund",
+      "b": "Consolidated Reserve Fund",
+      "c": "contingencies fund",
+      "d": "special fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "contingencies fund: if there is an urgent and unforeseen need for expenditure for which no other provision exist, such expenses shall be deducted from the contingencies fund",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 623,
@@ -3248,6 +3344,22 @@
     "examyear": "2023"
   },
   {
+    "id": 896,
+    "question": "Subscription in advance is treated in the balance sheet as a",
+    "option": {
+      "a": " fixed asset",
+      "b": "long term liability",
+      "c": "current asset",
+      "d": "current liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Subscription in advance is the sum of money prepaid by the members of club representing their dues for next year. It is treated as a liability in the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 900,
     "question": "Given:\nI. Cash refunds\nII. Debit note issued\nIII. Dishnoured cheque\nIV. Purchases\n\nThe item on the credit side of purchase ledger control account includes",
     "option": {
@@ -3312,6 +3424,38 @@
     "examyear": "2023"
   },
   {
+    "id": 923,
+    "question": "Which fund is used to meet unforeseen or urgent expenditure",
+    "option": {
+      "a": "special fund",
+      "b": " contigencies fund",
+      "c": "general reserve fund",
+      "d": " consolidated reserve fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Contigency fund is established by the constitution of 1979 to take care of any nation disaster or unforeseen circumstances.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 926,
+    "question": "Goods bought on credit are first entered in the",
+    "option": {
+      "a": " cash book",
+      "b": "journal proper",
+      "c": "sales day book",
+      "d": " purchases day book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The purchases day book is a subsidiary book specifically designed to record all credit purchases made by a company. It chronologically logs details like the date, supplier name, invoice number, description of goods, and amount of the purchase. This information is then summarized and posted to the purchases account in the genera ledger at the end of the accounting period.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 933,
     "question": "The following accounts have debit balances except",
     "option": {
@@ -3372,6 +3516,22 @@
     "image": "",
     "answer": "b",
     "solution": "Debentures are essentially loans that a company issues to investors. In return for investing in the debenture, the investor receives periodic interest payments at a predetermined rate. This interest is a fixed obligation of the company, regardless of its profitability.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 947,
+    "question": "A list of all debit and credit balances from the ledger accounts are made in the",
+    "option": {
+      "a": "cash book",
+      "b": "trial balance",
+      "c": " balance sheet",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A trial balance is a worksheet that summarizes the ending balances of all ledger accounts after a specific accounting period. It lists each account title and its corresponding debit or credit balance.",
     "examtype": "utme",
     "examyear": "2024"
   },
