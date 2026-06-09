@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 4,
+    "question": "Which of the following scales should show the greatest amount of detail on a map?  ",
+    "option": {
+      "a": "1:50,000  ",
+      "b": "1:500,000  ",
+      "c": "1:20,000  ",
+      "d": "1:200,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 5,
     "question": "Which of the following statements is not true for lines of latitude?  ",
     "option": {
@@ -487,6 +503,22 @@
       "b": "600S  ",
       "c": "00 latitude   ",
       "d": "300N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 37,
+    "question": "In the tropics, the most variable climatic element inter-annually is  ",
+    "option": {
+      "a": "temperature  ",
+      "b": "solar radiation   ",
+      "c": "pressure  ",
+      "d": "prairies "
     },
     "section": "",
     "image": "",
@@ -1744,6 +1776,22 @@
     "examyear": "2011"
   },
   {
+    "id": 123,
+    "question": "When the moon comes in between the earth and the sun in a straight line, it is known as  ",
+    "option": {
+      "a": "solar eclipse ",
+      "b": "eclipse of the earth ",
+      "c": "eclipse of the moon ",
+      "d": "lunar eclipse "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 124,
     "question": "A degree of latitudinal distance is approximately  ",
     "option": {
@@ -1918,6 +1966,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 138,
+    "question": "Which of the following is not a rapid type of mass movement? ",
+    "option": {
+      "a": "Solidification ",
+      "b": "Rockfall  ",
+      "c": "Mudflow  ",
+      "d": "Debris Slide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 140,
@@ -2171,6 +2235,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 157,
+    "question": "The difference in the readings on the dry and wet bulb thermometers used to determine  ",
+    "option": {
+      "a": "Relative humidity  ",
+      "b": "Temperature range  ",
+      "c": "Evaporation  ",
+      "d": "Transpiration "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -2823,6 +2903,22 @@
       "b": "North African City ",
       "c": "East African City ",
       "d": "South African City "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 210,
+    "question": "Which one of the following countries is having the highest quality of life? ",
+    "option": {
+      "a": "Sweden  ",
+      "b": "Austria ",
+      "c": "United States of America ",
+      "d": "England  "
     },
     "section": "",
     "image": "",
@@ -4960,6 +5056,22 @@
     "examyear": "2019"
   },
   {
+    "id": 370,
+    "question": "The mean temperature of Station Y is ",
+    "option": {
+      "a": "27.3°C",
+      "b": "31.5°C",
+      "c": "30.0°C",
+      "d": "26.8°C"
+    },
+    "section": "Study the table below, which shows the mean climatic conditions at Station Y , and answer question 12 to 14",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2019_12_to_14_kwqvds.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 373,
     "question": "Which of the following represents tha cheapest mode of transportation",
     "option": {
@@ -5723,6 +5835,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 425,
+    "question": "A poor settlement on the edge of a city is known as a",
+    "option": {
+      "a": "Slum",
+      "b": "Newtown",
+      "c": "Ghetto",
+      "d": "Shantytown"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
