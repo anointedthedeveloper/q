@@ -8176,6 +8176,22 @@
     "examyear": "2019"
   },
   {
+    "id": 524,
+    "question": "2CO + O₂ → 2CO₂. Calculate the volume of the resulting mixture at the end of the reaction, if 50 cm³ of carbon (II) oxide was exploded in 100 cm³ of oxygen.",
+    "option": {
+      "a": "75 cm³",
+      "b": "125 cm³",
+      "c": "100 cm³",
+      "d": "50 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "From the equation 2CO + O₂ → 2CO₂, ratio CO:O₂:CO₂ = 2:1:2. 50 cm³ CO reacts with 50/2 = 25 cm³ O₂ to produce 50 cm³ CO₂. Excess O₂ remaining = 100 - 25 = 75 cm³. Total volume of mixture = CO₂ + excess O₂ = 50 + 75 = 125 cm³.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 525,
     "question": "When ammonia and hydrogen ion bond together to form ammonium ion, the bond formed is called",
     "option": {
