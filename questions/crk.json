@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 24,
+    "question": "He shall save his people from their sins. Who is being referred to here? ",
+    "option": {
+      "a": "John the Baptist ",
+      "b": "Elijah ",
+      "c": "Elisha ",
+      "d": "Jesus                              "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 38,
     "question": "“Bring your necks under the yoke of the king of Babylon and serve him and his people and live” who gave this advice? ",
     "option": {
@@ -576,6 +592,38 @@
     "examyear": "2011"
   },
   {
+    "id": 143,
+    "question": "After eating the forbidden fruit Adam’s and Eve’s eyes opened and they realized that they ",
+    "option": {
+      "a": "had sinned against God",
+      "b": "had disobeyed God   ",
+      "c": "were naked  ",
+      "d": "had been deceived by the serpent."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 148,
+    "question": "In his second letter to the Christians in Thessalonians, Paul admonished them to have nothing to do with anyone who refused to obey what he wrote in the letter. What did Paul think would happen to the person?  ",
+    "option": {
+      "a": "The person would be encouraged  ",
+      "b": "The person would be ashamed  ",
+      "c": "The person would be disturbed  ",
+      "d": "The person would repent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 150,
     "question": "Which of the following is not a natural miracle:  ",
     "option": {
@@ -603,6 +651,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 154,
+    "question": "One of the following is not among the reasons why Jesus taught in Parables  ",
+    "option": {
+      "a": "to fulfill the prophecy in Psalm 78:2  ",
+      "b": "to create understanding  ",
+      "c": "to make people learn the unknown through the known  ",
+      "d": "to show the omniscient power of Jesus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 155,
+    "question": "The disciple in Damascus who prayed for Saul (Paul) to receive his sight after his conversions was  ",
+    "option": {
+      "a": "Ananias ",
+      "b": "Sapphira  ",
+      "c": "Barnabas  ",
+      "d": "Thomas "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1035,6 +1115,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 295,
+    "question": "Prophet Hosea named his second child Not Pitied because God would no more pity the",
+    "option": {
+      "a": "kings of Judah",
+      "b": "kings of Israel",
+      "c": "house of Judah",
+      "d": "house of Israel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -1920,6 +2016,22 @@
     "examyear": "2015"
   },
   {
+    "id": 508,
+    "question": "“ ..... I will surely tear the kingdom from you and will give it to your servant .....” An unwise decision of Solomon that resulted in God making the pronouncement above was his",
+    "option": {
+      "a": "dependence on other nations for supplies",
+      "b": "policy of forced labour",
+      "c": "neglect of God for other gods",
+      "d": "heavy taxation on the people"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 509,
     "question": "God fed the Israelites with Manna at the wilderness of",
     "option": {
@@ -2064,6 +2176,22 @@
     "examyear": "2010"
   },
   {
+    "id": 562,
+    "question": "Daniel was delivered from the lion’s den because",
+    "option": {
+      "a": "of his faith in God’s power.",
+      "b": "of the king’s prayers.",
+      "c": "he was able to charm the lions.",
+      "d": "the lions were kind to him."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 566,
     "question": "From Luke’s account of the baptism of Jesus, which of the following happened before the voice was heard?",
     "option": {
@@ -2135,6 +2263,22 @@
       "b": "Ephesians.",
       "c": "Romans.",
       "d": "Corinthians"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 587,
+    "question": "In Corinthians, Paul cited all the following resurrection appearances of Jesus except",
+    "option": {
+      "a": "Cephas.",
+      "b": "The Twelve.",
+      "c": "Mary Magdalene",
+      "d": "James."
     },
     "section": "",
     "image": "",
@@ -3312,6 +3456,22 @@
     "examyear": "2013"
   },
   {
+    "id": 923,
+    "question": "On the day of Pentecost, the Apostles were filled with the Holy Spirit and they all",
+    "option": {
+      "a": "prophesied.",
+      "b": "          spoke in tongues.",
+      "c": "baptised the converts.      ",
+      "d": "preached to the multitudes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 929,
     "question": "Prior to the day of Pentecost, members that constituted the early Church were",
     "option": {
@@ -3552,6 +3712,22 @@
     "examyear": "2011"
   },
   {
+    "id": 984,
+    "question": "Paul believes that the resurrection of the dead would only occur on the",
+    "option": {
+      "a": "last day.",
+      "b": "triumphant day.",
+      "c": "ascension day",
+      "d": "pentecost day."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 986,
     "question": "The primary motive for Christian giving is to",
     "option": {
@@ -3643,6 +3819,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1004,
+    "question": "One of the main features of Solomon’s prayer at the dedication of the Temple was the ",
+    "option": {
+      "a": " celebration of God who is faithful to his covenant ",
+      "b": " recognition that God loves sacrifices. ",
+      "c": "assertion that God dwells in man-made houses. ",
+      "d": "proclamation that no prayers be henceforth made outside the temple."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -3776,6 +3968,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1052,
+    "question": "During the Ammonite war, Uriah disobeyed King David by refusing to go to his house to sleep because ",
+    "option": {
+      "a": "it was wrong to go home drunk",
+      "b": "his wife would regard him as a coward ",
+      "c": "it would be unpatriotic to break military vow ",
+      "d": "he suspected that the king had lost interest in the battle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 1058,
     "question": "Which of the following events could be attributed to Josiah? ",
     "option": {
@@ -3787,6 +3995,22 @@
     "section": "      ",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1062,
+    "question": "Which of the following distinctly demonstrates the episode of Shadrack, Meshack and Abednego ",
+    "option": {
+      "a": "Complete trust in God ",
+      "b": "God’s ability to save his servants ",
+      "c": "Weakness of an earthly king ",
+      "d": "Failure of a king’s dictatorship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -3831,6 +4055,22 @@
       "b": "they spoke in other tongues",
       "c": "a power descended on them ",
       "d": "they made an unintelligible noise"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1080,
+    "question": "Peter’s tour of Lydda led to the",
+    "option": {
+      "a": "development of the church in Caesarca ",
+      "b": "conversion of the residents of sharon ",
+      "c": "conversion of Cornelius and his household ",
+      "d": "healing of Dorcas and her family"
     },
     "section": "",
     "image": "",
