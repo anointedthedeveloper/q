@@ -368,6 +368,22 @@
     "examyear": "2007"
   },
   {
+    "id": 32,
+    "question": "The temperature at which the water vapour in the air saturates the air and begins to condense is",
+    "option": {
+      "a": "melting point ",
+      "b": "triple point ",
+      "c": "dew point ",
+      "d": "melting point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 33,
     "question": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four ",
     "option": {
@@ -864,6 +880,22 @@
     "examyear": "2010"
   },
   {
+    "id": 74,
+    "question": "A 0.60kg rubber stopper is whirled in a horizontal circle of 0.80m radius at a rate of 3.0 revolutions per second. What is the tension in the string? ",
+    "option": {
+      "a": "14N ",
+      "b": "80N ",
+      "c": "170N ",
+      "d": "24N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 75,
     "question": "An automobile is traveling at 60km/hr. calculate the angular velocity of the 0.35m radius wheels. ",
     "option": {
@@ -939,6 +971,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 82,
+    "question": "The acceleration due to gravity ",
+    "option": {
+      "a": "increases with increasing altitude ",
+      "b": "decreases with increasing altitude ",
+      "c": "increases with increase in the square of the altitude ",
+      "d": "is not affected by the altitude"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -5248,6 +5296,22 @@
     "examyear": "2022"
   },
   {
+    "id": 489,
+    "question": "The gravitational pull on the moon is 1/6 that of the earth. If a body weighs 6.0 N on the moon, what will be the weight on the earth?",
+    "option": {
+      "a": "6.0 N",
+      "b": "5.0 N",
+      "c": "12.0 N",
+      "d": "36.0 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gravitational pull on moon = 1/6 × gravitational pull on Earth\nWeight on moon, Wₘ = 6.0 N\nWeight on Earth, Wₑ = ?\n\nSolution:\nUsing the relationship between weight and gravity:\nWeight = mass × gravitational acceleration\nStep 1: Establish the relationship\nSince gₘ = 1/6 gₑ\nFor the same mass:\nWₘ/Wₑ = gₘ/gₑ = 1/6\nStep 2: Rearrange the equation\nWₑ = 6 × Wₘ\nStep 3: Substitute the known values\nWₑ = 6 × 6.0\nWₑ = 36.0 N",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 490,
     "question": "The amount of energy required to change a kilogram of ice block into water without a change in temperature is?",
     "option": {
@@ -7132,6 +7196,22 @@
     "image": "",
     "answer": "d",
     "solution": "Diffusion is the process by which molecules move from an area of higher concentration to an area of lower concentration. This movement occurs due to the random motion of particles, leading to an even distribution of substances over time.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 671,
+    "question": "The quantities of a good thermometer include?\nI. Reproducibility\nII. Sensibility (sensitivity)\nIII. High thermal capacity\nIV. High accuracy",
+    "option": {
+      "a": "I, II and IV only",
+      "b": "I, III and IV only",
+      "c": "I, II and III only",
+      "d": " II, III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "I. Reproducibility: A good thermometer should give consistent readings under the same conditions \n\nII. Sensibility (sensitivity): A good thermometer should detect small temperature changes\n\nIV. High accuracy: A good thermometer should give readings close to the true value.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -9616,6 +9696,22 @@
     "examyear": "2009"
   },
   {
+    "id": 897,
+    "question": "which of the diagrams above shows the position at which a small ball-bearing is in neutral equilibrium?",
+    "option": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433406/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_48_pdak2b.png",
+    "answer": "d",
+    "solution": "Neutral Equilibrium: If the body neither returns to its original position nor increases its displacement further, it will simply adopt its new position.\n\nExamples of neutral equilibrium\n\nBall moving on the ground.\nMotion of sphere.\nA roller.\nA pencil lying horizontally.\nAn egg lying horizontally on a flat surface.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 898,
     "question": "The process of energy production in the sun is?",
     "option": {
@@ -9664,6 +9760,22 @@
     "examyear": "2010"
   },
   {
+    "id": 903,
+    "question": "The surfaces of conveyor belts are made rough so as to?",
+    "option": {
+      "a": " protect them while carrying loads",
+      "b": "prevent the loads from slipping",
+      "c": "enable them to carry more load",
+      "d": " make them stronger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Rough surface promotes friction. Therefore, roughness of conveyor belt prevents the load from slipping",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 904,
     "question": "A machine of velocity ratio 6 requires an effort of 400 N to raise a load of 800 N through 1 m. Find the efficiency of the machine",
     "option": {
@@ -9692,6 +9804,22 @@
     "image": "",
     "answer": "a",
     "solution": "Since relative density = mass of substance\nmass of equal volume of water relative density bottle should be used to determine the mass of the substance, and mass of an equal volume of water by filling the bottle with the powder and water respectively and weighed with the beam balance.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 913,
+    "question": "The small droplet of water that forms on the grass in the early hours of the morning is",
+    "option": {
+      "a": "hail",
+      "b": "dew",
+      "c": "fog",
+      "d": "mist"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dew point is the temperature at which the water vapour present in air is just sufficient to saturate it. Dew is formed when air is cooled below its dew point",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -9820,6 +9948,22 @@
     "image": "",
     "answer": "b",
     "solution": "Dispersion is the splitting of white light into its spectral component colors and is caused by different speed of the colors in the prism.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 926,
+    "question": "Power supply is transmitted at a very high voltage and low current in order to?",
+    "option": {
+      "a": ". make pass through the trasformers",
+      "b": "ncrease the power supply",
+      "c": "make it travel fast",
+      "d": "prevent overheating of the coil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "High voltage and low current are used to prevent overheating of the transmission lines.",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -10076,6 +10220,22 @@
     "image": "",
     "answer": "d",
     "solution": "Step 1: Calculate actual weight (in air)\nWeight in air = mg = 30 × 10 = 300 N\nStep 2: Calculate apparent weight (in water)\nApparent weight in water = 22 × 10 = 220 N\nStep 3: Calculate upthrust\nUpthrust = Weight in air - Weight in water\nUpthrust = 300 - 220\nUpthrust = 80 N",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 959,
+    "question": "I. High thermal capacity\nII. High sensitivity\nIII. Easy readability\nIV. Accuracy over a wide range of temperature\nFrom the statement above, the qualities of a good thermometer are",
+    "option": {
+      "a": " I and II",
+      "b": " I, II, III and IV",
+      "c": "I, III and IV",
+      "d": "II, III and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The qualities of a good thermometer are high sensitivity (II), easy readability (III), and accuracy over a wide range of temperature (IV). High thermal capacity (I) is actually undesirable as it would disturb the system being measured and slow down the response time.",
     "examtype": "utme",
     "examyear": "2011"
   },
