@@ -448,6 +448,22 @@
     "examyear": "2002"
   },
   {
+    "id": 63,
+    "question": "Which of the following statements is true of a proton.",
+    "option": {
+      "a": "The total mass of the protons in a particular nucleus always half the nuclear mass",
+      "b": "The mass of a proton is 1840 times the mass of an electron",
+      "c": "The mass proton is 1.0008g",
+      "d": "The mass of a proton is one-twelfth the molar mass of carbon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 64,
     "question": "A gas X diffuses twice as fast as gas Y under the same conditions. If the relative molecular mass of X is 28. Calculate the relative molecular mass of Y",
     "option": {
@@ -1264,6 +1280,22 @@
     "examyear": "2005"
   },
   {
+    "id": 175,
+    "question": "N2(g)  +  3H2(g)  ⇌   2NH2(g)   Δ H = - 90kJ  In the equation above, the yield of ammonia can be decreased by",
+    "option": {
+      "a": "Adding a catalyst",
+      "b": "Removing ammonia",
+      "c": "Increasing the pressure",
+      "d": "Increasing the temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 176,
     "question": "Metalloids are also referred to as",
     "option": {
@@ -1563,6 +1595,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 230,
+    "question": "2C2H2(g)  +  5O2(g)     4CO2(g)  +  2H2O(g) In the reaction, the mass of carbon (IV) oxide produced on burning 78g of ethyne is [C = 12, O = 16, H = 1]",
+    "option": {
+      "a": "39",
+      "b": "352g",
+      "c": "264g",
+      "d": "156g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -2396,6 +2444,22 @@
     "image": "",
     "answer": "c",
     "solution": "Calcium (Ca) is reactive enough to displace hydrogen from a hot alkaline solution. It reacts vigorously with water/alkaline solutions: Ca + 2H₂O → Ca(OH)₂ + H₂↑. Cu and Fe are insufficiently reactive, while Sn only reacts with strong acids.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 332,
+    "question": "A major source of oxide of nitrogen is from the burning of",
+    "option": {
+      "a": "coal",
+      "b": "wood",
+      "c": "fuel",
+      "d": "chlorofluorocarbons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The burning of fuel (particularly fossil fuels in vehicle engines and power plants) at high temperatures causes atmospheric N₂ and O₂ to combine, producing oxides of nitrogen (NOₓ) such as NO and NO₂. These are major contributors to air pollution and acid rain.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3680,6 +3744,22 @@
     "examyear": "2019"
   },
   {
+    "id": 508,
+    "question": "A certain hydrocarbon on complete combustion at s.t.p produced 89.6 dm³ of CO₂ and 54 g of water. The hydrocarbon should be?",
+    "option": {
+      "a": "C₆H₆",
+      "b": "C₄H₁₀",
+      "c": "C₅H₁₀",
+      "d": "C₄H₆"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Moles of CO₂ = 89.6/22.4 = 4 mol → 4 carbon atoms. Moles of H₂O = 54/18 = 3 mol → 6 hydrogen atoms (3 × 2). Molecular formula = C₄H₆. This matches option D (C₄H₆), which is butyne or butadiene.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 511,
     "question": "The IUPAC name of the compound CF₃CHBrCl is",
     "option": {
@@ -4300,6 +4380,22 @@
     "image": "",
     "answer": "d",
     "solution": "The breathalyser test for alcohol uses acidified potassium dichromate (K₂Cr₂O₇ in H₂SO₄). Ethanol in the breath reduces the orange dichromate ions (Cr₂O₇²⁻) to green chromium(III) ions (Cr³⁺). The colour change from orange to green confirms the presence of alcohol and indicates intoxication.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 601,
+    "question": "Which one of the following is not a mixture?",
+    "option": {
+      "a": "Air",
+      "b": "Mercury",
+      "c": "Milk",
+      "d": "Cement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Mercury is a pure element (Hg), a liquid metal at room temperature with a fixed composition and definite physical properties. Air is a mixture of gases, milk is a colloidal mixture of fats, proteins, and water, and cement is a mixture of calcium silicates and aluminates. Only mercury is a pure substance.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -5948,6 +6044,22 @@
     "image": "",
     "answer": "a",
     "solution": "Alkenes contain one C=C double bond and have the general formula CₙH₂ₙ. CₙH₂ₙ₊₂ is for alkanes, CₙH₂ₙ₋₂ is for alkynes, and CₙH₂ₙ₊₁OH is for alkanols.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 782,
+    "question": "The major product when 2-methylpropene reacts with HCl is",
+    "option": {
+      "a": "2-chloro-2-methylpropane",
+      "b": "1-chloro-2-methylpropane",
+      "c": "3-chloro-2-methylpropane",
+      "d": "2-chloro-3-methylbutane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "By Markovnikov's rule, H⁺ adds to the less substituted carbon (=CH₂) and Cl⁻ adds to the more substituted carbon (=C(CH₃)₂), forming the more stable tertiary carbocation intermediate. The major product is 2-chloro-2-methylpropane.",
     "examtype": "utme",
     "examyear": "2025"
   },
