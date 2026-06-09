@@ -2080,6 +2080,22 @@
     "examyear": "2013"
   },
   {
+    "id": 202,
+    "question": "Freedom of speech is a fundamental human right enjoyed by citizens but it may be limited if",
+    "option": {
+      "a": "loyalty is not shown to the ruling party",
+      "b": "it exposes the wrong doings of the government",
+      "c": "it endangers the security of the state.",
+      "d": "it is used to cause embarrassment to the judiciary."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 203,
     "question": "Which of the following is an obligation of a citizen?",
     "option": {
@@ -3008,6 +3024,22 @@
     "examyear": "2013"
   },
   {
+    "id": 303,
+    "question": "The two Greek words that make up democracy are ___ and ___ ,",
+    "option": {
+      "a": "arita, demo",
+      "b": "demo, aria",
+      "c": "demo, krat",
+      "d": "demo, kratia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 306,
     "question": "The process of sensitizing the electorate on the need to vote on the election day and also observe the rules and regulations of election is referred to as",
     "option": {
@@ -3339,6 +3371,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 341,
+    "question": "The motion for self-government in Nigeria was proposed by Chief Anthony Enahoro in",
+    "option": {
+      "a": "1956",
+      "b": "1953",
+      "c": "1956",
+      "d": "1958"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -4128,6 +4176,22 @@
     "examyear": "2010"
   },
   {
+    "id": 423,
+    "question": "An electoral process in which candidates are selected for elective offices by party members is",
+    "option": {
+      "a": "bye election",
+      "b": "electoral college",
+      "c": "general election",
+      "d": "primary election."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 425,
     "question": "A tactic employed by pressure groups to achieve their objectives is",
     "option": {
@@ -4251,6 +4315,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 437,
+    "question": "The designation of ministers as chief executives and accounting officers was recommended by a commission headed by",
+    "option": {
+      "a": "Simeon Adebo",
+      "b": "S.J.Cookey",
+      "c": "Dotun Philips.",
+      "d": "Jerome Udoji."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -5120,6 +5200,22 @@
     "examyear": "2013"
   },
   {
+    "id": 523,
+    "question": "A political party is different from a pressure group in its",
+    "option": {
+      "a": "source of finance",
+      "b": "objective",
+      "c": "organization",
+      "d": "strategy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 524,
     "question": "One of the functions of pressure groups is to",
     "option": {
@@ -5803,6 +5899,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 588,
+    "question": "Which of the following was done during the Gowon administration to reduce regional structural imbalance in the federation?",
+    "option": {
+      "a": "Appointment of ministers",
+      "b": "Creation of states",
+      "c": "Increase in revenue allocation",
+      "d": "Formation of political parties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -7248,6 +7360,22 @@
     "examyear": "2017"
   },
   {
+    "id": 734,
+    "question": "The political achievement of UN is the promotion of ___",
+    "option": {
+      "a": "economic development",
+      "b": "educational development",
+      "c": " international peace and security",
+      "d": "democratic institution."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The UN's primary political achievement is maintaining international peace and security.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 736,
     "question": "The three major political parties of the First Republic can be said to have had __",
     "option": {
@@ -7260,6 +7388,22 @@
     "image": "",
     "answer": "b",
     "solution": "The major political parties of the First Republic were largely based on regional and ethnic divisions.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 737,
+    "question": "Development of the Civil Service relies on __",
+    "option": {
+      "a": "impartiality",
+      "b": "anonymity",
+      "c": "pro notability",
+      "d": "neutrality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The development of the civil service relies on its ability to remain neutral.",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -8156,6 +8300,22 @@
     "image": "",
     "answer": "a",
     "solution": "Power is referred to as the ability to control others by imposing ones will on others",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 823,
+    "question": "An Agency of the united Nations which specializes in the welfare of children is the _______",
+    "option": {
+      "a": "WHO",
+      "b": "UNESCO",
+      "c": "UNICEF",
+      "d": "UNDP"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "UNICEF is an agency of UNO that deals and specializes in the welfare, education and needs of children all over the world",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -10784,6 +10944,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1088,
+    "question": "Price stability in the international oil market is the major objective of the",
+    "option": {
+      "a": "UN",
+      "b": " WTO",
+      "c": " OPEC",
+      "d": " AU"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The major objective of the Organisation of Petroleum Exporting Countries (OPEC) is to ensure price stability in the international oil market. This is to ensure that fluctuation is eliminated and that every member-state can benefit from oil sales. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1090,
     "question": "The most effective instrument adopted by Nigeria against the East-West Cold War in the 1960s was",
     "option": {
@@ -11420,6 +11596,22 @@
     "image": "",
     "answer": "d",
     "solution": "The final interpretation pf the provisions of a federal constitution is vested in the highest court of the land.\n\nOne of the main characteristics of a Federal System of Government is the existence of a court to interpret the constitution and resolve conflicts between the centre and the federating units.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1153,
+    "question": "A major issue that distinguishes pressure groups from political parties is",
+    "option": {
+      "a": "membership drive",
+      "b": "the objective",
+      "c": "the voting pattern",
+      "d": "idealogy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The objective is a major issue that distinguishes pressure groups from political parties.\n\nPolitical parties aim at contesting and winning elections and controlling government while pressure groups aim at pursing the interest of their members but do not attempt to control government machinery directly by contesting elections.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -12380,6 +12572,22 @@
     "image": "",
     "answer": "c",
     "solution": "Nigeria's support for South-South Cooperation is rooted in its commitment to fostering economic collaboration and mutual development among developing nations (the \"Third World\"). This cooperation aims to enhance resource sharing, technology transfer, and collective self-reliance, reducing dependency on the Global North.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1246,
+    "question": "The one-time president of the United Nations General Assembly was",
+    "option": {
+      "a": "Joseph Garba",
+      "b": " Ibrahim Gambari",
+      "c": "Arthur Mbanefo",
+      "d": "Maitama Sule"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The one-time president of the United Nations General Assembly was Joseph Garba. He was one of the top army officers in Nigeria.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -14668,6 +14876,22 @@
     "image": "",
     "answer": "d",
     "solution": "In a Presidential System of Government, the president is elected to office by the people through direct elections. This means that citizens have the opportunity to vote directly for their president, rather than the president being appointed or elected by the legislature, cabinet or military. ",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1489,
+    "question": "Which of the following world powers was the first to come to Nigeria’s aid during the civil war?",
+    "option": {
+      "a": "Germany",
+      "b": "USA",
+      "c": "USSR",
+      "d": "UK"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "During the Nigerian Civil War (1967–1970), Britain was the first world power to come to Nigeria's aid. They supported the Federal Government's military efforts. This support was largely driven by political, economic, and strategic interests, including the desire to maintain relations with Nigeria as a former colony and the geopolitical situation during the Cold War.",
     "examtype": "utme",
     "examyear": "2015"
   },
