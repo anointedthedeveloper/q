@@ -1456,6 +1456,22 @@
     "examyear": "2010"
   },
   {
+    "id": 106,
+    "question": "The world driest desert is  ",
+    "option": {
+      "a": "Atacama  ",
+      "b": "Sahara  ",
+      "c": "Kalahari  ",
+      "d": "California "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 107,
     "question": "A line joining places of equal salinity is  ",
     "option": {
@@ -1751,6 +1767,22 @@
       "b": "cyclonic rainfall ",
       "c": "convectional rainfall ",
       "d": "frontal rainfall "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 132,
+    "question": "Which of the following statements is not true for lines of latitudes?",
+    "option": {
+      "a": "they range from 00 to 1800 North and South ",
+      "b": "they range from 00 to 900 North and South ",
+      "c": "They vary in D. they form parallel circles",
+      "d": "only one line is a great circle."
     },
     "section": "",
     "image": "",
@@ -3616,6 +3648,22 @@
     "examyear": "2017"
   },
   {
+    "id": 286,
+    "question": "The feature marked Y is best described as",
+    "option": {
+      "a": "Pass",
+      "b": "Spur",
+      "c": "Valley",
+      "d": "Gap"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 287,
     "question": "The heavy dark soil associated with floodable valley bottoms is a",
     "option": {
@@ -4347,6 +4395,22 @@
     "section": "",
     "image": "",
     "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 340,
+    "question": "Lakes Kivu and Malawi are related in that they",
+    "option": {
+      "a": "Lie in the Northern Hemisphere",
+      "b": "Are crater lakes",
+      "c": "Attract a large number of tourists",
+      "d": "Are drift valley lakes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
@@ -5211,6 +5275,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 407,
+    "question": "U and V are two places along the same Meridian on latitude 20°N and 25°N respectively. The shortest distance between the two places is approximately",
+    "option": {
+      "a": "560km",
+      "b": "680km",
+      "c": "500km",
+      "d": "620km"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
