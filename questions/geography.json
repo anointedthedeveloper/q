@@ -80,6 +80,38 @@
     "examyear": "2008"
   },
   {
+    "id": 53,
+    "question": "The East Africa large lakes are together described as  ",
+    "option": {
+      "a": "Great Lakes St Lawrence Sea Ways  ",
+      "b": "Rift Valley Lakes  ",
+      "c": "Sources of large rivers like Nile  ",
+      "d": "products of the formation of Mt Kilimanjaro "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 67,
+    "question": "On any day in the year at a specific time  ",
+    "option": {
+      "a": "the sun is overhead along the equator  ",
+      "b": "the sun is overhead along the topic of cancer  ",
+      "c": "the North Pole has 24 hours of daylight  ",
+      "d": "one half of the earth is in darkness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 69,
     "question": "Which is the main crop grown in the Ghezira plains ",
     "option": {
@@ -128,6 +160,22 @@
     "examyear": "2010"
   },
   {
+    "id": 95,
+    "question": "Cyclones are centres of  ",
+    "option": {
+      "a": "relative low pressure  ",
+      "b": "relative high pressure  ",
+      "c": "Tsunamis  ",
+      "d": "turning around of winds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 104,
     "question": "A degree latitudinal distance is approximately ",
     "option": {
@@ -139,6 +187,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 109,
+    "question": "In general, temperature decreases from the equator towards the Poles because  ",
+    "option": {
+      "a": "angle of incidence of sun’s rays increases towards the poles ",
+      "b": "angles of incidence sun’s rays decreases towards the poles  ",
+      "c": "Snow-cover of the higher latitudes reduces the temperature  ",
+      "d": "snow falls rather than rain in the pole"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -400,6 +464,22 @@
     "examyear": "2016"
   },
   {
+    "id": 259,
+    "question": "From a point, the whole circle bearing of a line is 135°. A clockwise angle from the line was measured to be 260° to another line. What is the whole circle bearing of the later line?",
+    "option": {
+      "a": "225°",
+      "b": "35°",
+      "c": "125°",
+      "d": "395°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 260,
     "question": "The port that specializes in receiving and re-exporting goods is known as",
     "option": {
@@ -494,6 +574,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 319,
+    "question": "Area covered by the map is approximately",
+    "option": {
+      "a": "125 km.sq",
+      "b": "105 km.sq",
+      "c": "95km.sq",
+      "d": "115 km.sq."
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_03_and_07_byo7zc.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 343,
+    "question": "If the distance between two places on a map is 2cm while the distance on land is 4km, the scale of the map is",
+    "option": {
+      "a": "1:100,000",
+      "b": "1:200,000",
+      "c": "1:50,000",
+      "d": "1:150,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 357,
@@ -592,6 +704,22 @@
     "examyear": "2019"
   },
   {
+    "id": 404,
+    "question": "When it is 12.00 noon on longitude 30°W, local time on longitude 75°E is",
+    "option": {
+      "a": "7.00 am",
+      "b": "7.00 pm",
+      "c": "5.00 pm",
+      "d": "5.00 am"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 409,
     "question": "The progressive widening of joints and cracks in limestone by solutions, initially lead to the formation of ",
     "option": {
@@ -635,6 +763,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 428,
+    "question": "An example of a calcareous rock is",
+    "option": {
+      "a": "Granite",
+      "b": "Limestone",
+      "c": "Shale",
+      "d": "Ignite"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
