@@ -2944,6 +2944,22 @@
     "examyear": "5"
   },
   {
+    "id": 287,
+    "question": "Partial loss can be divided into",
+    "option": {
+      "a": "particular average and general average",
+      "b": "particular average and total loss",
+      "c": "actual loss and total loss",
+      "d": "total loss and particular loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 289,
     "question": "The division of total loss are",
     "option": {
@@ -2987,6 +3003,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 296,
+    "question": "The maximum number of days allowed for a policy holder to pay his renewal premium after it has become due is called",
+    "option": {
+      "a": "surrender value",
+      "b": "conditions",
+      "c": "days of grace",
+      "d": "days of liberty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
