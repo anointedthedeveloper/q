@@ -4160,6 +4160,22 @@
     "examyear": "2004"
   },
   {
+    "id": 322,
+    "question": "Find the value of m if 13<sub>m</sub> + 24<sub>m</sub> = 41<sub>m</sub>",
+    "option": {
+      "a": "8",
+      "b": "6",
+      "c": "5",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If 13<sub>m</sub> + 24<sub>m</sub> = 41<sub>m</sub>\n1 * m<sup>1</sup> + 3 <sup>0</sup> + 2 * m<sup>1</sup> + 4 * m<sup>0</sup> = 4 * m<sup>1</sup> + 1 * m<sup>0</sup>\n1 * m + 3 * 1 + 2 * m + 4 * 1 = 4 * m + 1 * 1\nm + 3 + 2m + 4 = 4m + 1\n3m + 7 = 4m + 1\n4m -3m = 7 - 1\nm = 6",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 323,
     "question": "If 321<sub>4</sub> is divided by 23<sub>4</sub> and leaves a remainder r, what is the value of r?",
     "option": {
@@ -5920,6 +5936,22 @@
     "examyear": "2007"
   },
   {
+    "id": 453,
+    "question": "Evaluate 1011<sup>2</sup><sub>2</sub>  - 101<sup>2</sup><sub>2</sub> ",
+    "option": {
+      "a": " 110000<sub>2</sub> ",
+      "b": "110<sub>2</sub> ",
+      "c": "1100000<sub>2</sub> ",
+      "d": "11000<sub>2</sub> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "1011<sup>2</sup><sub>2</sub> - 101<sup>2</sup><sub>2</sub> = (1x2<sup>3</sup> + 0x2<sup>2</sup> + 1x2<sup>1</sup> + 1x2<sup>0</sup>)<sup>2</sup> - (1x2<sup>2</sup> + 0x2<sup>1</sup> + 1x2<sup>2</sup>)2\n(1x8 + 0x4 + 1x2 + 1x1)<sup>2</sup> - (1x4 + 0x2 + 1x1)<sup>2</sup>)\n= (8 + 0 + 2 + 1) <sup>2</sup> - (4 + 0 + 1) <sup>2</sup>\n= 11<sup>2</sup>- 5<sup>2</sup>\n= 16 x 6 = 96\n9610 to base 2\n2/96 = 48 R 0\n2/48 = 24 R 0\n2/24 = 12 R 0\n2/12 = 6 R 0\n2/6 = 3 R 0\n2/3 = 1 R 1\n2/1 = 0 R 1\n1100000<sub>2</sub>",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 454,
     "question": "If X = {all the perfect squares less than 40}\nY = {all the odd numbers fro, 1 to 15}. Find X ∩ Y.",
     "option": {
@@ -6576,6 +6608,22 @@
     "examyear": "2008"
   },
   {
+    "id": 509,
+    "question": "What is the mean of the data t, 2t-1, t-2, 2t-1, 4t and 2t+2?",
+    "option": {
+      "a": "2t",
+      "b": "2t-1",
+      "c": "2/3t+1",
+      "d": "2t-1/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Mean=(t+2t-1+t-2+2t-14t+2t+2)/6 Mean=(12t-2)/6=(2(6t-1))/6=(6t-1)/3=6t/3-1/3=2t-1/3",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 510,
     "question": "Find the median of 4, 1, 4, 1, 0, 4, 4, 2 and 0",
     "option": {
@@ -6702,6 +6750,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 522,
+    "question": "If 55<sub>x</sub> + 52<sub>x</sub> = 77<sub>10</sub> find X",
+    "option": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "5 × x<sup>1</sup>  + 5 × x<sup>0</sup> + 5 × x<sup>1</sup> + 2 × x<sup>0</sup> = 77.                                 (change all  to base 10)\n5x + 5 + 5x + 2 = 77\n10x + 7 = 77\n10x = 77-7\n10x = 70\nx = 70/10\nx = 7",
+    "examtype": "utme",
+    "examyear": "2009"
   },
   {
     "id": 523,
@@ -7488,6 +7552,22 @@
     "examyear": "2010"
   },
   {
+    "id": 578,
+    "question": "If x * y = x + y<sup>2</sup>, find then value of (2*3)*5",
+    "option": {
+      "a": "36",
+      "b": "25",
+      "c": "11",
+      "d": "55"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x * y = x + y2\n2 * 3 = 2 + 32\n= 2 + 9\n= 11\n(2 * 3) * 5 = 11 + 52\n= 11 + 25\n= 36",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 579,
     "question": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
     "option": {
@@ -7724,6 +7804,22 @@
     "image": "",
     "answer": "c",
     "solution": "Actual length of rope = 1.25m\n\nMeasured length of rope = 1.26m\n\nerror = (1.26 - 1.25)m - 0.01m\n\nPercentage error = error/actual length x 100%\n\n= 0.01/1.25 x 100%\n\n= 0.8%",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 595,
+    "question": "At what rate will the interest on N400 increases to N24 in 3 years reckoning in simple interest?",
+    "option": {
+      "a": "3%",
+      "b": "2%",
+      "c": "5%",
+      "d": "4%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Using simple interest = P × T × R/100,\n\nwhere: P denoted principal = N400\nT denotes time = 3 years\nR denotes interest rate = ?\n\n24 = 400×3×R/100\n\n24 x 100 = 400 x 3 x R\n\nR = (24 × 100)/(400 × 3)\n\n= 2%",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -8396,6 +8492,22 @@
     "image": "",
     "answer": "b",
     "solution": "Volume of cube = L<sup>3</sup>\n\n3<sup>3</sup> = 27cm<sup>3</sup>\n\nvolume of rectangular tank = L x B X h\n\n= 3 x 4 x 5\n\n= 60cm<sup>3</sup>\n\nvolume of H<sub>2</sub> O the tank can now hold\n\n= volume of rectangular tank - volume of cube\n\n= 60 - 27\n\n= 33cm<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 648,
+    "question": "The perpendicular bisector of a line XY is the locus of a point \n",
+    "option": {
+      "a": "whose distance from X is always twice its distance from Y",
+      "b": "whose distance from Y is always twice its distance from X.",
+      "c": "which moves on the line XY",
+      "d": "which is equidistant from the points X and Y"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -9516,6 +9628,22 @@
     "image": "",
     "answer": "b",
     "solution": "Let f(x) = x<sup>2</sup> - x - k\nThen by the factor theorem,\n\n(x - 4): f(4) = (4)<sup>2</sup> - (4) - k = 0\n\n16 - 4 - k = 0\n\n12 - k = 0\n\nk = 12",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 780,
+    "question": "The remainder when 6p3 - p<sup>2</sup> - 47p + 30 is divided by p - 3 is",
+    "option": {
+      "a": "21",
+      "b": "42",
+      "c": "63",
+      "d": "18"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let f(p) = 6p<sup>3</sup> - p<sup>2</sup> - 47p + 30\n\nThen by the remainder theorem,\n\n(p - 3): f(3) = remainder R,\n\ni.e. f(3) = 6(3)<sup>3</sup> - (3)2 - 47(3) + 30 = R\n\n162 - 9 - 141 + 30 = R\n\n192 - 150 = R\n\nR = 42",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -10688,6 +10816,22 @@
     "examyear": "2017"
   },
   {
+    "id": 872,
+    "question": "The curved surface area of a cylinder 5cm high is 110cm2. Find the radius of its base\nπ = 22/7",
+    "option": {
+      "a": "2.6cm",
+      "b": "3.5cm",
+      "c": "3.6cm",
+      "d": "7.0cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Curved surface area of cylinder = 2πrh\n\n110 = 2 × 22/7 × r × 5\n\nr = (110×7)/(44×5)\n\n\n= 3.5cm",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 873,
     "question": "If two graphs Y = px<sup>2</sup> + q and y = 2x<sup>2</sup> − 1 intersect at x =2, find the value of p in terms of q",
     "option": {
@@ -10940,6 +11084,22 @@
     "image": "",
     "answer": "a",
     "solution": "0.00000231/0.007 to standard form\n\n= 231×10<sup>-8</sup>/7×10<sup>-3</sup>\n\n\n= 33 × 10<sup>−8−(−3)</sup>\n\n\n= 33 × 10<sup>−8 + 3</sup>\n\n\n= 33 × 10<sup>-5</sup>\n\n= 3.3 x 10<sup>-4</sup>",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 895,
+    "question": "If a rod 10cm in length was measured as 10.5cm, calculate the percentage error",
+    "option": {
+      "a": "5%",
+      "b": "10%",
+      "c": "8%",
+      "d": "7%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Actual measurement = 10cm\n\napproximated value of measurement = 10.5cm\n\n% error = (Actual measurement − Approximated/Actual measure) × 100\n\n= (10−10.5)/10 × 100\n\n= −0.5/10 × 100\n\nignore -sign i.e take absolute value\n\n= 0.5/10 × 100\n\n= 5 %",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -11824,6 +11984,22 @@
     "examyear": "2018"
   },
   {
+    "id": 966,
+    "question": "Calculate 243<sub>six</sub> – 243<sub>five</sub>\nexpressing your answer in base 10",
+    "option": {
+      "a": "0",
+      "b": "1",
+      "c": "26",
+      "d": "46"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Since they are of different base, convert to base 10\n\n  243<sub>six</sub>\n = (2 x 62) + (4 x 61) + (3 x 60)\n\n  = 72 + 24 + 3 = 99 base 10\n\n  243<sub>six</sub>\n = 2 x 52 + 4 x 51 +3 x 50\n\n  50 + 20 + 3 = 73 base 10\n\n  Subtracting them, 99 - 73\n\n  = 26",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 967,
     "question": "Evaluate ∫<sup>2</sup><sub>1</sub> 5/x\n dx",
     "option": {
@@ -11838,6 +12014,22 @@
     "solution": "∫5/x dx = 5 ∫1/x = 5Inx\n\nSince the integral of 1/x is Inx\n\n ∫<sup>2</sup><sub> 1</sub>\n∫ 5/x dx = 5\n\n dx = 5 (In<2 – InIn1)\n\n  = 3.4657\n\n  = 3.47",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 969,
+    "question": "Make q the subject of the formula in the equation mn/a<sup>2</sup>− pq/b<sup>2</sup> = 1",
+    "option": {
+      "a": "q=(b<sup>2</sup> (mn-a<sup>2</sup>))/(a<sup>2</sup> p)",
+      "b": "q=(m<sup>2</sup> n-a<sup>2</sup>)/p<sup>2</sup> ",
+      "c": "q=(mn-2b<sup>2</sup>)/a<sup>2</sup> ",
+      "d": ""
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mi>m</mi>\n      <mi>n</mi>\n    </mrow>\n    <msup>\n      <mi>a</mi>\n      <mn>2</mn>\n    </msup>\n  </mfrac>\n  <mo>&#x2212;<!-- − --></mo>\n  <mfrac>\n    <mrow>\n      <mi>p</mi>\n      <mi>q</mi>\n    </mrow>\n    <msup>\n      <mi>b</mi>\n      <mn>2</mn>\n    </msup>\n  </mfrac>\n  <mo>=</mo>\n  <mn>1</mn>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(mn)/a<sup>2</sup> − (pq)/b<sup>2</sup> = 1\n \n(mn)/a<sup>2</sup> − 1 = (pq)/b<sup>2</sup>\n(mn)−a<sup>2</sup>/a<sup>2</sup>=pq/b<sup>2</sup>\npq = b<sup>2</sup>(mn−a<sup>2</sup>)/a<sup>2</sup>\nq = b<sup>2</sup>(mn−a<sup>2</sup>)a<sup>2</sup>p",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 971,
@@ -13360,6 +13552,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1084,
+    "question": "Simplify 2log 2/5 -log72/125 + log 9",
+    "option": {
+      "a": "1 - 4 log3",
+      "b": "-1 + 2 log 3",
+      "c": "-1 + 5 log2",
+      "d": " 1 - 2log 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "2log 2/5 - log72/125 + log 9\n\n[2/5)2 x 9] = log 4/25 x 9/1 x 125/72\n\n= log 72/125\n\n= log 5/2= log 10/4\n\n= log 10 - log 4\n\n= log10  - log2<sup>2</sup>\n\n= 1 - 2 log2",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1085,
     "question": "A car travels from calabar to Enugu, a distance of P km with an average speed of U km per hour and continues to benin, a distance of Q km, with an average speed of Wkm per hour. Find its average speed from Calabar to Benin",
     "option": {
@@ -14160,6 +14368,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1145,
+    "question": "Solve for x: 3(x – 1) ≤ 2 (x – 3)",
+    "option": {
+      "a": " x ≤ -3",
+      "b": " x ≥ -3",
+      "c": " x ≤ 3",
+      "d": "x ≥ 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "3(x – 1) ≤ 2 (x – 3)\n\n= 3x – 3 ≤ 2x – 6\n\nAdd 3 to both sides\n\n= 3x – 3+ 3 ≤ 2x – 6+ 3\n\n= 3x ≤ 2x – 3\n\nSubtract 2x from both the sides\n\n= 3x – 2x ≤ 2x – 3 – 2x\n\n∴ x ≤ -3",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1146,
     "question": "The diagram above is a circle with centre C. P, Q and S are points on the circumference. PS and SR are tangents to the circle. ∠PSR = 36<sup>o</sup>\n. Find ∠PQR",
     "option": {
@@ -14508,6 +14732,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008016/ALOC-Questions/Mathematics/2023/MATH_2023_Q34_sissn4.jpg",
     "answer": "a",
     "solution": "Number of students who scored atleast 25% = 5 + 3 + 8 = 16",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1171,
+    "question": "If −2x<sup></sup> +6x<sup>2</sup> +17x - 21 is divided by (x+1), then the remainder is",
+    "option": {
+      "a": "32",
+      "b": "30",
+      "c": " -30",
+      "d": "-32"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let p(x)=−2x<sup>3</sup> + 6x<sup>2</sup> + 17x − 21\n\n\nUsing the remainder theorem\n\nLet x + 1 = 0\n\n\n∴ x = −1\n\n\nSince, (x+1) divides p(x), then, remainder will be p(-1)\n\n⇒ p(-1) = -2(-1)<sup>3</sup> +6(−1)<sup>2</sup>  + 17(-1) - 21\n\n∴ p(-1) = -30",
     "examtype": "utme",
     "examyear": "2023"
   },
