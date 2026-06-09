@@ -992,6 +992,22 @@
     "examyear": "2015"
   },
   {
+    "id": 153,
+    "question": "The compressed regions and the space-out regions in longitude wave are refers to as",
+    "option": {
+      "a": "Compression and Rarefaction",
+      "b": "Comparison and Explosion",
+      "c": "Reflection only",
+      "d": " Refraction only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The vibrating particles behave like a spiral spring with a series of compression region and space–out region.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 154,
     "question": "At what respective value of a, b, and c would the unit of work, the joule, be dimensionally similar to Mᵃ Lᵇ Tᶜ?",
     "option": {
@@ -1104,6 +1120,22 @@
     "examyear": "2015"
   },
   {
+    "id": 168,
+    "question": "The optical instrument which is suitable for viewing a nearby objects is ………..?",
+    "option": {
+      "a": "Telescope",
+      "b": "sextant",
+      "c": "microscope",
+      "d": "periscope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Microscope is used for nearby object",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 171,
     "question": "The strength of an electromagnet increases with",
     "option": {
@@ -1164,6 +1196,22 @@
     "image": "",
     "answer": "b",
     "solution": "Gas thermometers are considered best for use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 179,
+    "question": "The dimension of universal gravitational constant is……….?",
+    "option": {
+      "a": "M⁻¹L³T⁻²",
+      "b": "ML³T²",
+      "c": "ML³",
+      "d": "MLT⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Formula for gravitational force:\nF = G(m₁m₂)/r²\nRearranging to find G:\nG = Fr²/(m₁m₂)\nStep 1: Write dimensional formulas\n\nForce (F) = [MLT⁻²]\nDistance (r) = [L]\nMass (m) = [M]\n\nStep 2: Substitute into formula\n[G] = [MLT⁻²][L²] / [M][M]\n[G] = [MLT⁻²L²] / [M²]\n[G] = [ML³T⁻²] / [M²]\n[G] = [M⁻¹L³T⁻²]\nAnswer: A. M⁻¹L³T⁻²",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1260,6 +1308,22 @@
     "image": "",
     "answer": "b",
     "solution": "The rate of cooling depends on the temperature in the enclosure (the surrounding temperature).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 193,
+    "question": "The heat required to raise a mass of a substance through 1K is known as",
+    "option": {
+      "a": "Specific heat capacity",
+      "b": "Specific latent heat of vaporization",
+      "c": "Capacity latent heat of fusion",
+      "d": "Heat capacity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Heat capacity is the heat required to raise a mass of a substance through 1K.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1936,6 +2000,22 @@
     "examyear": "2018"
   },
   {
+    "id": 295,
+    "question": "Which of the following statements are TRUE of isotopes?\nI. Isotopes of an element have the same chemical properties because they have the same number of electrons\nII. Isotopes of elements are normally separated using physical properties\nIII. Isotopes of an element have the same number of protons in their nuclei",
+    "option": {
+      "a": "I and II only",
+      "b": " I and III only",
+      "c": "II and III only",
+      "d": "I, II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All three statements are true about isotopes.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 297,
     "question": "Which of the following may be used to explain a mirage?\nI. Layers of air near the road surface have varying refractive indices in hot weather\nII. Road surfaces sometimes becomes invisible in hot weather\nIII. Light from the sky can be refracted upwards after coming close to the road surface.",
     "option": {
@@ -2368,6 +2448,22 @@
     "examyear": "2019"
   },
   {
+    "id": 363,
+    "question": "The earth's gravitational field intensity at its surface is about (G = 6.7 × 10⁻¹¹ Nm²/kg², mass of the earth is 6 × 10²⁴ kg, radius of the earth is 6.4 × 10⁶ m, g on the earth = 9.8 m/s²)",
+    "option": {
+      "a": "6.7 N/kg",
+      "b": " 7.9 N/kg",
+      "c": "8.0 N/kg",
+      "d": "9.8 N/kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding gravitational field intensity:\nGravitational field intensity (g) is the force per unit mass at a point in the gravitational field.\nFormula:\ng = GM/R²\nwhere:\n\nG = gravitational constant = 6.7 × 10⁻¹¹ Nm²/kg²\nM = mass of Earth = 6 × 10²⁴ kg\nR = radius of Earth = 6.4 × 10⁶ m\n\nCalculating:\ng = (6.7 × 10⁻¹¹ × 6 × 10²⁴)/(6.4 × 10⁶)²\ng = (40.2 × 10¹³)/(40.96 × 10¹²)\ng = (40.2 × 10¹³)/(4.096 × 10¹³)\ng = 40.2/4.096\ng ≈ 9.8 N/kg",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 364,
     "question": "The following are parts of the eye\nI. Retina\nII. Pupil\nIII. Iris\nThe correct equivalent in the camera in the same order are",
     "option": {
@@ -2444,6 +2540,22 @@
     "image": "",
     "answer": "d",
     "solution": "A mixture of blue and red pigment when illuminated by white light will appear magenta (purple), as both red and blue wavelengths are reflected while other colors are absorbed.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 373,
+    "question": "A man on a bench will exert the greatest pressure on the bench when he",
+    "option": {
+      "a": "lies flat on his back",
+      "b": " lies flat on his belly",
+      "c": "stands on both feet",
+      "d": "stands on the toes of one foot"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A man exerts the greatest pressure when standing on the toes of one foot because this position has the smallest contact area, and pressure is inversely proportional to area.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -3344,6 +3456,22 @@
     "examyear": "2023"
   },
   {
+    "id": 503,
+    "question": "A missile is launched with a speed of 75 ms-1 at an angle of 22° above the surface of a warship. Find the horizontal range achieved by the missile. Ignore the effects of air resistance.\n\n[Take g = 10 ms⁻²]",
+    "option": {
+      "a": "195",
+      "b": " 271 m",
+      "c": "391 m",
+      "d": "136 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nInitial velocity, u = 75 m/s\nAngle of projection, θ = 22°\nAcceleration due to gravity, g = 10 m/s²\nHorizontal range, R = ?\n\nSolution:\nUsing the range formula for projectile motion:\nR = (u² sin 2θ)/g\nStep 1: Calculate sin 2θ\n2θ = 2 × 22° = 44°\nsin 44° = 0.6947\nStep 2: Substitute values into the range formula\nR = (75² × sin 44°)/10\nR = (5625 × 0.6947)/10\nR = 3907.4/10\nR = 390.74 m\nR ≈ 391 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 506,
     "question": "The terminals of a battery of emf 24.0 V and internal resistance of 1.0 Ω is connected to an external resistor 5.0 Ω. Find the terminal p.d.",
     "option": {
@@ -3420,6 +3548,22 @@
     "image": "",
     "answer": "c",
     "solution": "Nuclear fusion is the process in which lighter nuclei are combined to form heavier ones. Matter lost in this process is converted into energy. The energy produced inside the stars is due to the process of nuclear fusion.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 515,
+    "question": "A wire of radius 0.2 mm is extended by 0.5% of its length when supported by a load of 1.5 kg. Determine the Young's modulus for the material of the wire. [Take g = 10 ms⁻²]",
+    "option": {
+      "a": "2.4×10¹⁰ (Nm⁻²)",
+      "b": "1.5×10¹⁰ (Nm⁻²)",
+      "c": " 2.4×10⁹ (Nm⁻²)",
+      "d": " 1.3×10¹⁰ (Nm⁻²)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nRadius, r = 0.2 mm = 0.2 × 10⁻³ m = 2 × 10⁻⁴ m\nExtension = 0.5% of original length\nStrain, ε = 0.5/100 = 0.005\nMass, m = 1.5 kg\nAcceleration due to gravity, g = 10 m/s²\nYoung's modulus, E = ?\n\nSolution:\nUsing Young's modulus formula:\nE = Stress/Strain = (F/A)/ε\nStep 1: Calculate the force (weight)\nF = mg\nF = 1.5 × 10\nF = 15 N\nStep 2: Calculate cross-sectional area\nA = πr²\nA = π × (2 × 10⁻⁴)²\nA = π × 4 × 10⁻⁸\nA = 3.142 × 4 × 10⁻⁸\nA = 1.257 × 10⁻⁷ m²\nStep 3: Calculate stress\nStress = F/A\nStress = 15/(1.257 × 10⁻⁷)\nStress = 1.193 × 10⁸ N/m²\nStep 4: Calculate Young's modulus\nE = Stress/Strain\nE = (1.193 × 10⁸)/0.005\nE = 2.386 × 10¹⁰ N/m²\nE ≈ 2.4 × 10¹⁰ N/m²",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3920,6 +4064,22 @@
     "examyear": "2024"
   },
   {
+    "id": 590,
+    "question": "Which of the following is the best as shaving mirror?",
+    "option": {
+      "a": "Concave mirror",
+      "b": "Convex mirror",
+      "c": "plane mirror",
+      "d": "parabolic mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A concave mirror is the best choice for a shaving mirror because it produces a magnified, erect, virtual image when the object (face) is placed within its focal length, making it easy to see fine details clearly.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 591,
     "question": "A refrigerator uses 150W. If it is kept on for 336 hours non-stop, what is the energy consumed in KWh?",
     "option": {
@@ -3948,6 +4108,22 @@
     "image": "",
     "answer": "b",
     "solution": "To convert a DC dynamo to an AC dynamo, the split-ring commutator must be replaced with slip rings. This allows the alternating current generated in the rotating coil to be delivered to the external circuit without rectification.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 609,
+    "question": "\nThe binding energy of helium ⁴₂He is\n[atomic mass of proton = 1.00783U, atomic mass of neutron = 1.00867U]",
+    "option": {
+      "a": "4.033U",
+      "b": "2.017U",
+      "c": " 0.033U",
+      "d": "0.330U"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nHelium-4 nucleus: ⁴₂He\nAtomic mass of proton, mₚ = 1.00783 U\nAtomic mass of neutron, mₙ = 1.00867 U\nAtomic mass of ⁴₂He = 4.00260 U (standard value)\n\nSolution:\nStep 1: Determine composition of ⁴₂He nucleus\n⁴₂He contains:\n\nNumber of protons, Z = 2\nNumber of neutrons, N = 4 - 2 = 2\n\nStep 2: Calculate total mass of separated nucleons\nTotal mass = (2 × mₚ) + (2 × mₙ)\nTotal mass = (2 × 1.00783) + (2 × 1.00867)\nTotal mass = 2.01566 + 2.01734\nTotal mass = 4.03300 U\nStep 3: Calculate mass defect (Δm)\nΔm = Total mass of nucleons - Actual mass of nucleus\nΔm = 4.03300 - 4.00260\nΔm = 0.03040 U ≈ 0.033 U\nStep 4: Binding energy\nBinding energy = Δm = 0.033 U",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4912,6 +5088,22 @@
     "examyear": "2006"
   },
   {
+    "id": 746,
+    "question": "The frequency of the wave in the diagram above is",
+    "option": {
+      "a": " 0.17 Hz",
+      "b": "0.25 Hz",
+      "c": "1.57 Hz",
+      "d": "1.05 Hz"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430694/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_47_pp0zer.png",
+    "answer": "b",
+    "solution": "Generally, period T = 1/f(reciprocal of frequency).\n=> f = 1/T\nAnd from the diagram, period T = 4s\n∴ frequency, f = 1/T = 1/4 = 0.25 Hz",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 750,
     "question": "The unit of moment of a couple can be expressed in?",
     "option": {
@@ -5520,6 +5712,22 @@
     "examyear": "2008"
   },
   {
+    "id": 848,
+    "question": "\n¹⁴₇N + ⁴₂He → ¹⁷₈O + X\nIn the equation above, the particle X is?",
+    "option": {
+      "a": "A proton",
+      "b": "A neutron",
+      "c": "An α-particle",
+      "d": " A β-particle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "for the conversion of mass 14 + 4 = 17 + x\n∴ X = 18 - 17 = 1\nfor conservation pf charge:7 + 2 = 8 + y\ny = 9 - 8 = 1\nThus, the element is 11X which is equal to hydrogen nucleus ( proton)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 850,
     "question": "I. Diameter of a small ball bearing.\nII. Thickness of a pieces of paper.\nIII. Diameter of a measuring cylinder.\nIV. Length of a piece of wire.\n\n\nWhich of the above can be measured using a micrometer screw gauge?",
     "option": {
@@ -5628,6 +5836,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nInclined plane angle, θ = 30°\n\nSolution:\n\nStep 1: Velocity ratio for an inclined plane\nFor an inclined plane, when the effort is applied parallel to the plane, the velocity ratio (VR) is the ratio of the distance moved by the effort (length of the incline, L) to the distance moved by the load (vertical height, h).\nVR = L / h = 1 / sin θ\n\nStep 2: Calculate sin 30°\nsin 30° = 0.5\n\nStep 3: Compute VR\nVR = 1 / 0.5 = 2.0",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 859,
+    "question": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is?",
+    "option": {
+      "a": "1400 kg m⁻³",
+      "b": "1250 kg m⁻³",
+      "c": "500 kg m⁻³",
+      "d": "1000 kg m⁻³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nIn water: fraction submerged = 50% = 0.5\nIn glycerine: fraction submerged = 40% = 0.4\nDensity of water, ρ_w = 1000 kg m⁻³\n\nSolution:\n\nStep 1: Density of the sphere from water data\nFor a floating object, the fraction submerged equals the ratio of the object's density to the fluid's density.\nρ_sphere / ρ_w = fraction submerged in water\nρ_sphere / 1000 = 0.5\nρ_sphere = 500 kg m⁻³\n\nStep 2: Use glycerine data to find its density\nρ_sphere / ρ_g = fraction submerged in glycerine\n500 / ρ_g = 0.4\nρ_g = 500 / 0.4 = 1250 kg m⁻³",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -5852,6 +6076,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nVelocity of aircraft relative to air, vₐ = 100 km h⁻¹ due north\nVelocity of wind, v_w = 60 km h⁻¹ from east to west (i.e., towards west)\n\nSolution:\n\nStep 1: Represent velocities as vectors\nLet north be positive y‑direction and east be positive x‑direction.\nvₐ = (0, 100) km h⁻¹\nv_w = (−60, 0) km h⁻¹ (since it blows towards west)\n\nStep 2: Resultant velocity\nResultant v = vₐ + v_w = (−60, 100) km h⁻¹\n\nStep 3: Calculate magnitude\n|v| = √[(−60)² + (100)²] = √(3600 + 10000) = √13600 ≈ 116.62 km h⁻¹ ≈ 117 km h⁻¹\n\nStep 4: Calculate direction\nThe angle θ from north towards west is given by:\ntan θ = (west component) / (north component) = 60 / 100 = 0.6\nθ = tan⁻¹(0.6) ≈ 31°\n\nSince the westward component is negative x, the direction is N31°W.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 888,
+    "question": "A body of mass 12 kg traveling at 4.2 m s⁻¹ collides with a second body of mass 18 kg at rest. Calculate their common velocity if the two bodies coalesce after collision?",
+    "option": {
+      "a": "1.5 m s⁻¹",
+      "b": "1.4 m s⁻¹",
+      "c": "2.1 m s⁻¹",
+      "d": "1.7 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nMass m₁ = 12 kg, initial velocity u₁ = 4.2 m s⁻¹\nMass m₂ = 18 kg, initial velocity u₂ = 0 m s⁻¹\nThey coalesce (perfectly inelastic collision).\n\nSolution:\n\nStep 1: Conservation of momentum\nTotal initial momentum = m₁u₁ + m₂u₂ = 12 × 4.2 + 18 × 0 = 50.4 kg m s⁻¹\n\nStep 2: Total mass after collision\nM = m₁ + m₂ = 12 + 18 = 30 kg\n\nStep 3: Common velocity v\nv = Total initial momentum / M = 50.4 / 30 = 1.68 m s⁻¹ ≈ 1.7 m s⁻¹",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -6656,6 +6896,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1011,
+    "question": "The pressure at any point in a liquid at rest depends only on the",
+    "option": {
+      "a": "Depth and the density",
+      "b": "Mass and the volume",
+      "c": "Quantity and the surface area",
+      "d": "Surface area and the viscosity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The pressure at any point in a liquid at rest depends only on the depth below the surface and the density of the liquid. This relationship is given by P = P₀ + ρgh, where deeper points and denser liquids result in higher pressure.\nExample: At 10 m depth:\n\nIn water (ρ = 1000 kg/m³): P = 1.0 × 10⁵ + 1000 × 10 × 10 = 2.0 × 10⁵ Pa\nIn mercury (ρ = 13,600 kg/m³): P = 1.0 × 10⁵ + 13,600 × 10 × 10 = 14.6 × 10⁵ Pa",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1018,
     "question": "The quantity of heat energy required to melt completely 1 kg of ice at –30 °C is\n[latent heat of fusion = 3.5 × 10⁵ J kg⁻¹, specific heat capacity of ice = 2.1 × 10³ J kg⁻¹ K⁻¹]",
     "option": {
@@ -6716,6 +6972,22 @@
     "image": "",
     "answer": "c",
     "solution": "The conditions for total internal reflection are II and III only.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1029,
+    "question": "The use of lenses is Not applicable in the",
+    "option": {
+      "a": "projector",
+      "b": " human eye",
+      "c": "periscope",
+      "d": "telescope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Lenses are not applicable in a periscope.",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -6812,6 +7084,22 @@
     "image": "",
     "answer": "c",
     "solution": "\nGiven information:\n\nInitial length (L₁) = 0.4 m\nInitial period (T₁) = 2 s\nNew length (L₂) = 0.8 m\nNew period (T₂) = ?\nSame location (same g)\n\nFormula for period of simple pendulum:\nT = 2π√(L/g)\nKey relationship:\nT ∝ √L (period is proportional to square root of length)\nMethod 1: Using ratio\nT₁/T₂ = √(L₁/L₂)\nRearranging:\nT₂ = T₁ × √(L₂/L₁)\nSubstituting values:\nT₂ = 2 × √(0.8/0.4)\nT₂ = 2 × √2\nT₂ = 2√2 s",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1045,
+    "question": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5 ms⁻². [g = 10 ms⁻²]",
+    "option": {
+      "a": " 686 N",
+      "b": "595 N",
+      "c": "581 N",
+      "d": "105 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nMass (m) = 70 kg\nAcceleration of elevator (a) = 1.5 m/s² (downward)\ng = 10 m/s²\nApparent weight loss = ?\n\nUnderstanding apparent weight:\nWhen elevator accelerates downward:\n\nMan experiences reduced normal force from floor\nFeels lighter than usual\nApparent weight < Actual weight\n\nStep 1: Calculate actual weight\nActual weight (W) = mg\nW = 70 × 10\nW = 700 N\nStep 2: Calculate apparent weight\nWhen elevator accelerates downward with acceleration a:\nApparent weight = m(g - a)\nApparent weight = 70(10 - 1.5)\nApparent weight = 70 × 8.5\nApparent weight = 595 N\nStep 3: Calculate apparent weight loss\nWeight loss = Actual weight - Apparent weight\nWeight loss = 700 - 595\nWeight loss = 105 N",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -7056,6 +7344,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1082,
+    "question": "I. Electrical potential\nII. Torque\nIII. Kinetic Energy\nIV. Momentum\n\n\nWhich of the quantities listed are vectors?",
+    "option": {
+      "a": "II and IV",
+      "b": "I and II",
+      "c": "I and III",
+      "d": "II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The vector quantities are II and IV.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1086,
     "question": "An object of weight 8kg on earth is taken to a planet where acceleration due to gravity is one-third of its value on earth. The weight of the object on the planet is",
     "option": {
@@ -7116,6 +7420,22 @@
     "image": "",
     "answer": "c",
     "solution": "Electrical energy: This is primarily done in nuclear power plants, where the heat generated from nuclear reactions is used to produce steam that drives turbines, ultimately generating electricity.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1094,
+    "question": "The small droplets of water that form on the grass in the early hours of the morning is",
+    "option": {
+      "a": " Fog",
+      "b": "Haul",
+      "c": " Mist",
+      "d": "Dew"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Dew forms on grass in the early morning due to condensation of atmospheric moisture on surfaces that have cooled overnight.",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -7472,6 +7792,22 @@
     "examyear": "2025"
   },
   {
+    "id": 1157,
+    "question": "The movement of particles in liquids and gases is referred to as",
+    "option": {
+      "a": "Translational motion",
+      "b": " Isobaric process",
+      "c": "Brownian motion",
+      "d": "Vibrational motion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Brownian motion is the random motion of particles in fluids.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 1158,
     "question": "What mass of silver is deposited during electrolysis when a current of 0.8 A flows for 25 minutes?",
     "option": {
@@ -7484,6 +7820,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nCurrent, I = 0.8 A\nTime, t = 25 minutes = 25 × 60 = 1500 s\nElectrochemical equivalent of silver, Z = 1.118 × 10⁻⁶ kg C⁻¹ (standard value from scientific literature) \n\nSolution:\n\nStep 1: Calculate total charge passed\nQ = I × t = 0.8 × 1500 = 1200 C\n\nStep 2: Calculate mass deposited\nUsing Faraday's first law of electrolysis: m = Z × Q\nm = (1.118 × 10⁻⁶) × 1200 = 1.3416 × 10⁻³ kg\n\nStep 3: Convert to grams\n1.3416 × 10⁻³ kg = 1.3416 g ≈ 1.34 g",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1159,
+    "question": "The thermal capacity of a body depends on one of the following ",
+    "option": {
+      "a": "Quantity of heat",
+      "b": "Temperature and mass",
+      "c": "Nature and mass",
+      "d": "Mass, volume, and temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The thermal capacity of a body depends on its nature (type of material, which determines specific heat capacity) and mass (amount of material). The relationship is C = mc, where m is mass and c is the specific heat capacity characteristic of the material's nature.",
     "examtype": "utme",
     "examyear": "2025"
   }
