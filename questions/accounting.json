@@ -21696,6 +21696,22 @@
     "examyear": "199"
   },
   {
+    "id": 1412,
+    "question": "In a public corporation, the capital expenditure incurred in a financial period is?",
+    "option": {
+      "a": "spread over the useful life of the assets through depreciation",
+      "b": "apportioned at a pre-determined rate stipulated by law",
+      "c": "written off in the year in which they occur",
+      "d": "merged with recurrent expenditure and reported in one required lump sum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Capital expenditure in a public corporation is capitalized and then spread over the useful life of the asset via depreciation.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1413,
     "question": "Money not required to meet chargeable expenditure in any fiscal year under cash accounting, should be?",
     "option": {
