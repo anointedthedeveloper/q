@@ -1472,6 +1472,22 @@
     "examyear": "2003"
   },
   {
+    "id": 108,
+    "question": "The salt that will form a precipitate soluble in excess ammonia solution is",
+    "option": {
+      "a": "Ca(NO3)2",
+      "b": "Cu(NO3)2",
+      "c": "Mg(NO3)2",
+      "d": "Al(NO3)3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 109,
     "question": "The metal that liberates hydrogen from cold water in bubbles only is",
     "option": {
@@ -2320,6 +2336,22 @@
     "examyear": "2004"
   },
   {
+    "id": 169,
+    "question": "The gas that can be dried using concentrated Tetraoxosulphate (VI) acid is",
+    "option": {
+      "a": "Ammonia",
+      "b": "Hydrogen bromide",
+      "c": "Sulphur (IV) oxide",
+      "d": "Hydrogen sulphide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 170,
     "question": "The property used in the industrial preparation of nitrogen and oxygen from air is",
     "option": {
@@ -3120,6 +3152,22 @@
     "examyear": "2006"
   },
   {
+    "id": 229,
+    "question": "[Molar volume of a gas at s.t.p + 22.4dm3} Nuclear fission involves the splitting of a heavy element into two nuclei of",
+    "option": {
+      "a": "Equal masses with a release of energy",
+      "b": "Nearly equal masses with a release of energy and radiation",
+      "c": "Equal masses with a release of energy and radiation",
+      "d": "Unequal masses without any release of energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 230,
     "question": "2C2H2(g)  +  5O2(g)     4CO2(g)  +  2H2O(g) In the reaction, the mass of carbon (IV) oxide produced on burning 78g of ethyne is [C = 12, O = 16, H = 1]",
     "option": {
@@ -3755,6 +3803,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 276,
+    "question": "The acid that is used to remove rust is",
+    "option": {
+      "a": "Hydrochloric",
+      "b": "Trioxonitrate (V)",
+      "c": "Tetraoxosulphate (VI)",
+      "d": "Boric"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -4684,6 +4748,22 @@
     "image": "",
     "answer": "d",
     "solution": "According to the kinetic theory, the kinetic energy of particles is directly proportional to absolute temperature. At absolute zero (0 K), temperature is absent and particle motion theoretically ceases completely, so kinetic energy becomes zero.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 350,
+    "question": "PCl₅(g) = PCl₃(g) + Cl₂(g). In the reaction above, a decrease in pressure will",
+    "option": {
+      "a": "Decelerate the reaction",
+      "b": "Increase yield of PCl₃",
+      "c": "Increase the yield of PCl₅",
+      "d": "Accurate the reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "By Le Chatelier's principle, decreasing pressure favours the side with more moles of gas. The left side has 1 mole of gas and the right side has 2 moles (PCl₃ + Cl₂). A decrease in pressure therefore shifts equilibrium to the right, increasing the yield of PCl₃ and Cl₂.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -7840,6 +7920,22 @@
     "examyear": "2020"
   },
   {
+    "id": 585,
+    "question": "The chlorinated alkane often used industrially to remove grease is?",
+    "option": {
+      "a": "Tetrachloromethane",
+      "b": "Chloromethane",
+      "c": "Trichloromethane",
+      "d": "Dichloromethane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Tetrachloromethane (CCl₄) is a non-polar solvent widely used industrially as a degreasing agent because it dissolves grease and oils effectively without itself being flammable. Its non-polarity allows it to interact with and dissolve the non-polar grease molecules through dispersion forces.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 586,
     "question": "What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen?",
     "option": {
@@ -10348,6 +10444,22 @@
     "image": "",
     "answer": "b",
     "solution": "Transition metals act as catalysts because they have partially filled d-orbitals that allow them to form temporary bonds with reactants, adopt variable oxidation states, and adsorb reactant molecules — all of which lower the activation energy.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 761,
+    "question": "When ΔH is positive and small, and ΔS is positive and large, the reaction will be",
+    "option": {
+      "a": "Non-spontaneous",
+      "b": "favour forward reaction only",
+      "c": "favour backward reaction only",
+      "d": "spontaneous"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using ΔG = ΔH - TΔS: when ΔH is small positive and ΔS is large positive, the TΔS term dominates, making ΔG negative. A negative ΔG indicates a spontaneous reaction.",
     "examtype": "utme",
     "examyear": "2025"
   },
