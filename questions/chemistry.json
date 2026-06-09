@@ -2592,6 +2592,22 @@
     "examyear": "2016"
   },
   {
+    "id": 383,
+    "question": "Diamond cannot be used",
+    "option": {
+      "a": "In making bicycle chains",
+      "b": "As abrasives",
+      "c": "In cutting glass and metals",
+      "d": "As dies for drawing wires"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Diamond is the hardest natural substance, making it useful as abrasives, for cutting glass and metals, and as dies for drawing wires. However, it cannot be used in making bicycle chains — that requires malleable and ductile metals like steel. Diamond is brittle and cannot be shaped into chains.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 384,
     "question": "Ethanol is soluble in water due to the presence of a",
     "option": {
@@ -5036,6 +5052,22 @@
     "image": "",
     "answer": "c",
     "solution": "Crude oil is a complex mixture of hydrocarbons. Heptane (C₇H₁₆) is a significant and representative primary constituent of crude oil, used as a reference compound in the octane rating scale (heptane = 0 octane rating). Pentane is also present in crude oil but heptane is more commonly cited as a primary constituent. Ethanol is not a constituent of crude oil, and methane is the main component of natural gas rather than crude oil.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 708,
+    "question": "What is the main source of carbon monoxide (CO) in urban areas?",
+    "option": {
+      "a": "Volcanic eruptions",
+      "b": "Vehicle emissions",
+      "c": "Forest fires",
+      "d": "Industrial processes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In urban areas, the primary source of carbon monoxide (CO) is vehicle emissions. CO is produced by the incomplete combustion of petrol and diesel in internal combustion engines when there is insufficient oxygen. High concentrations of CO in cities are directly linked to traffic density. Volcanic eruptions and forest fires contribute CO but are not the main urban sources.",
     "examtype": "utme",
     "examyear": "2023"
   },
