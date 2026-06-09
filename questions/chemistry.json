@@ -304,6 +304,22 @@
     "examyear": "2001"
   },
   {
+    "id": 25,
+    "question": "3CU(s)  +  8HNO3(aq) →  3Cu(NO3)2(aq)  +  4H2O(I)  +  2NO(g)  In the equation above, copper is",
+    "option": {
+      "a": "An electron acceptor",
+      "b": "A base",
+      "c": "An oxidizing agent",
+      "d": "A reducing agent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 26,
     "question": "When ΔH is negative, a reaction is said to be",
     "option": {
@@ -1312,6 +1328,22 @@
     "examyear": "2003"
   },
   {
+    "id": 98,
+    "question": "If Y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct",
+    "option": {
+      "a": "Y increases in oxidation number",
+      "b": "Y becomes reduced",
+      "c": "Z loses protons",
+      "d": "Z gains protons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 99,
     "question": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant",
     "option": {
@@ -2215,6 +2247,22 @@
       "b": "Acidified KMnO4 ",
       "c": "Copper (I) chloride",
       "d": "Bromine gas"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 165,
+    "question": "Vulcanization involves the removal of",
+    "option": {
+      "a": "A monomer",
+      "b": "The single bond",
+      "c": "The double bond",
+      "d": "A polymer"
     },
     "section": "",
     "image": "",
@@ -4688,6 +4736,22 @@
     "examyear": "2015"
   },
   {
+    "id": 355,
+    "question": "In an electrochemical cell, polarization is caused by",
+    "option": {
+      "a": "Oxygen",
+      "b": "Hydrogen",
+      "c": "Tetraoxosulphate (IV) acid",
+      "d": "Chlorine"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Polarization in an electrochemical (voltaic) cell is caused by hydrogen gas. Hydrogen bubbles accumulate on the positive electrode (copper), forming an insulating layer that increases internal resistance and reduces the EMF of the cell. A depolarizer (e.g., MnO₂) is used to remove the hydrogen.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 356,
     "question": "The condition required for corrosion to take place is the presence of",
     "option": {
@@ -6400,6 +6464,22 @@
     "examyear": "2018"
   },
   {
+    "id": 480,
+    "question": "The number of electrons in the valence shell of an element of atomic number 14 is",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Element with atomic number 14 is Silicon (Si). Its electronic configuration is 1s²2s²2p⁶3s²3p². The valence shell is the third shell (n=3), which contains 3s²3p² = 2 + 2 = 4 electrons. Silicon therefore has 4 valence electrons.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 481,
     "question": "What volume of oxygen will remain after reacting 8 cm³ of hydrogen gas with 20 cm³ of oxygen gas?",
     "option": {
@@ -6508,6 +6588,22 @@
     "image": "",
     "answer": "d",
     "solution": "Beryllium (Be, Group 2, Period 2) and Aluminium (Al, Group 13, Period 3) exhibit similar chemical properties due to the diagonal relationship in the periodic table. Elements diagonally adjacent show similarities because the increase in period number (↓) and group number (→) have opposing effects on properties, resulting in nearly identical charge density and electronegativity.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 489,
+    "question": "mE + nF → pG + qH. In the equation shown, the equilibrium constant is given by",
+    "option": {
+      "a": "[E]ᵐ[F]ⁿ / [G]ᵖ[H]ᵍ",
+      "b": "[E][F] / [G][H]",
+      "c": "[G]ᵖ[H]ᵍ / [E]ᵐ[F]ⁿ",
+      "d": "[G][H] / [E][F]"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The equilibrium constant Kc = [products]stoich / [reactants]stoich. For mE + nF ⇌ pG + qH: Kc = [G]ᵖ[H]ᵍ / [E]ᵐ[F]ⁿ. Concentrations of products (raised to their stoichiometric coefficients) are placed in the numerator, and concentrations of reactants in the denominator.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -7420,6 +7516,22 @@
     "image": "",
     "answer": "b",
     "solution": "Destructive distillation is the process of heating coal strongly in the absence of air. This decomposes coal into coal gas (hydrogen, methane, CO), coal tar (complex organic compounds), ammoniacal liquor (containing ammonia and ammonium salts), and coke (nearly pure carbon residue).",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 564,
+    "question": "Liquid black soap is made by boiling palm oil with liquid extract of ash. The function of the ash is to provide the?",
+    "option": {
+      "a": "Acid",
+      "b": "Ester of alkanoic acid",
+      "c": "Alkali",
+      "d": "Alkanol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Soap is made by saponification — the reaction of a fat or oil with a strong alkali. Ash extract contains potassium carbonate and potassium hydroxide, which are alkaline. The ash provides the alkali needed to react with palm oil (triglycerides) to form soap (potassium salts of fatty acids) and glycerol.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -9344,6 +9456,22 @@
     "examyear": "2023"
   },
   {
+    "id": 696,
+    "question": "Which type of chemical combination involves the transfer of electrons from one atom to another, resulting in the formation of oppositely charged ions?",
+    "option": {
+      "a": "Ionic bonding",
+      "b": "Hydrogen bonding",
+      "c": "Covalent bonding",
+      "d": "Metallic bonding"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ionic bonding involves the complete transfer of electrons from one atom (usually a metal) to another (usually a non-metal). The atom that loses electrons becomes a positively charged cation, and the atom that gains electrons becomes a negatively charged anion. The resulting oppositely charged ions attract each other electrostatically, forming an ionic compound.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 697,
     "question": "Which of the following alkanes has a straight-chain structure?",
     "option": {
@@ -9612,6 +9740,22 @@
     "image": "",
     "answer": "c",
     "solution": "Molar mass of He = 4 g/mol. Moles of He = 11.5 ÷ 4 = 2.875 mol. Number of molecules = 2.875 × 6.02 × 10²³ = 17.3 × 10²³ = 1.73 × 10²⁴.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 717,
+    "question": "The constituents of Alnico are Aluminium, Nickel and",
+    "option": {
+      "a": "Mg",
+      "b": "Co",
+      "c": "Mn",
+      "d": "Cu"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Alnico is a magnetic alloy whose name is derived from its constituent elements: Aluminium (Al), Nickel (Ni), and Cobalt (Co). It also contains iron as the base metal. Alnico alloys are used in making permanent magnets for electric motors, microphones, and loudspeakers due to their strong magnetic properties.",
     "examtype": "utme",
     "examyear": "2024"
   },
