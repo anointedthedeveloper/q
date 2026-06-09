@@ -304,6 +304,25 @@
     "category": "others"
   },
   {
+    "id": 31,
+    "question": "If he went to London, he would see the Queen",
+    "option": {
+      "a": "He did not go to London and did not see the Queen",
+      "b": " He would like to see the Queen when he goes to London",
+      "c": "When he goes to London, he will see the Queen ",
+      "d": "He did not see the queen when he went to London."
+    },
+    "section": "that best explains the information conveyed ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 33,
     "question": "The manager paid us in hard currency  ",
     "option": {
@@ -1615,6 +1634,25 @@
     "category": "others"
   },
   {
+    "id": 154,
+    "question": "If the trader paid in full, his order was not pruned down.",
+    "option": {
+      "a": "The trader who made full payment did not have his order reduced",
+      "b": "The trader who made some payment did not have his order delayed.",
+      "c": "Unless the trader paid in full his order would be rejected.",
+      "d": "As the trader did not increase his order, he did not need to pay in full"
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 155,
     "question": "The men were not pawns in someone else’s political game.",
     "option": {
@@ -2040,6 +2078,25 @@
       "b": "stopped",
       "c": "stops    ",
       "d": "has stopped"
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 199,
+    "question": "The …………   event marked the beginning of a new life for the entire cabinet",
+    "option": {
+      "a": "historical  ",
+      "b": "historicity of the",
+      "c": "historic ",
+      "d": "history of the"
     },
     "section": "choose the option that best completes the gap(s)",
     "image": "",
@@ -3116,6 +3173,25 @@
     "category": "others"
   },
   {
+    "id": 309,
+    "question": "The tax rebate was a <i>concession</i> given to the civil servants ",
+    "option": {
+      "a": "a donation ",
+      "b": " an allowance",
+      "c": "an incentive  ",
+      "d": "an emolument. "
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 311,
     "question": "The noise across the road  <i>drowned</i> the sound of the keyboard in my room",
     "option": {
@@ -3864,6 +3940,25 @@
       "b": "an abundance ",
       "c": "a rebirth ",
       "d": "a shortage "
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 390,
+    "question": "The students  <i>vandalized </i> their hostel curing the riot.",
+    "option": {
+      "a": "  deserted ",
+      "b": "Unrepaired  ",
+      "c": " protected",
+      "d": "decorated."
     },
     "section": "choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
@@ -11928,6 +12023,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 26,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1340,
+    "question": "Before I arrived, the choir _______ the hymn",
+    "option": {
+      "a": "have sing",
+      "b": "has sing",
+      "c": "had sung",
+      "d": "have sang"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "c",
+    "solution": "Option C is the correct answer.\n\nIn the arrangement of tenses, 'when the main clause is in past or past perfect tense, the subordinate clause must be in the past or past perfect tense'.\n\n'had' is used to express a past perfect tense as opposed to 'has' and 'have' which is used to express a present perfect tense. ",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 27,
     "hasPassage": 0,
     "category": "others"
   },
