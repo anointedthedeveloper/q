@@ -1232,6 +1232,22 @@
     "examyear": "2011"
   },
   {
+    "id": 95,
+    "question": "The density of sea water is 1030kg/m3. What is the pressure at a depth of  80 m below sea surface? Atmospheric pressure is 1.013 x 105 pa and acceleration  due to gravity is 10 m/s2  ",
+    "option": {
+      "a": "9.25 x  105 pa  ",
+      "b": "8.24 105 pa   ",
+      "c": "7.23 x 105 pa  ",
+      "d": "8.34 x 109 pa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 96,
     "question": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)  ",
     "option": {
@@ -1446,6 +1462,22 @@
       "a": "6.35 Ev  ",
       "b": "8.25 cV  ",
       "c": "14.60eV  ",
+      "d": "None of above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 112,
+    "question": "Sound waves were sent out from a source and after being reflected from  an obstacle were received by a sensor placed beside the source. If the waves were received 10 seconds after they were sent out, calculate  the distance between the  source and the obstacle (speed of sound = 330 m/s) ",
+    "option": {
+      "a": "990m  ",
+      "b": "660m ",
+      "c": "1320 m ",
       "d": "None of above"
     },
     "section": "",
@@ -1868,6 +1900,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nMass of first planet (m₁) = 10²⁴ kg\nMass of second planet (m₂) = 10²⁷ kg\nDistance between planets (r) = 10²⁰ meters\nGravitational constant (G) = 6.67 × 10⁻¹¹ Nm²/kg²\n\nFormula for Gravitational Force:\nF = G(m₁m₂)/r²\nSubstituting values:\nF = (6.67 × 10⁻¹¹ × 10²⁴ × 10²⁷)/(10²⁰)²\nF = (6.67 × 10⁻¹¹ × 10⁵¹)/(10⁴⁰)\nF = (6.67 × 10⁴⁰)/(10⁴⁰)\nF = 6.67 N\nAnswer: A. 6.67N",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 146,
+    "question": "Primary colours of light are",
+    "option": {
+      "a": "Red, blue and green",
+      "b": "Cyan, magneta and yellow",
+      "c": " Black, blue and green",
+      "d": "None of these colours"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Primary colours of light are red, blue and green\n\nSecondary colours of light are cyan, magneta and yellow",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -4256,6 +4304,22 @@
     "examyear": "2018"
   },
   {
+    "id": 327,
+    "question": "An object is placed 20cm from a concave mirror of0 focal length 10cm. The linear magnification of the image produced is?",
+    "option": {
+      "a": "0",
+      "b": "2-Jan",
+      "c": "1",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nObject distance (u) = -20 cm (negative by sign convention)\nFocal length (f) = -10 cm (negative for concave mirror)\nMagnification (m) = ?\n\nStep 1: Find image distance using mirror formula\n1/f = 1/v + 1/u\n1/(-10) = 1/v + 1/(-20)\n-1/10 = 1/v - 1/20\n1/v = -1/10 + 1/20\n1/v = -2/20 + 1/20 = -1/20\nv = -20 cm\nStep 2: Calculate magnification\nm = -v/u\nm = -(-20)/(-20)\nm = 20/(-20)\nm = -1\nMagnitude of magnification:\n|m| = 1",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 328,
     "question": "The energy needed to move a unit positive charge around a complete electric circuit is called the",
     "option": {
@@ -5184,6 +5248,22 @@
     "examyear": "2020"
   },
   {
+    "id": 404,
+    "question": "A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms -1, how much closer is the ship to the cliff?",
+    "option": {
+      "a": "10m",
+      "b": "350m",
+      "c": "175m",
+      "d": "125m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Difference in time = 1 sec\n\necho time = 1 ÷ 2 = 0.5 sec\n\nDifference of cliff from ship = 0.5 x 250\n\n= 125m",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 405,
     "question": "Which of the following statements about defects of vision is/are CORRECT? \n\nI. For a long sighted person, close objects appear blurred\n\nII. For a short sighted person, distant objects appear blurred \n\nIII. Short sight is corrected by using a pair of converging lenses ",
     "option": {
@@ -6060,6 +6140,22 @@
     "image": "",
     "answer": "c",
     "solution": "Magenta, yellow, and cyan are the primary colors in the subtractive color system (used for pigments, paints, and printing). They are sometimes called \"secondary\" because they are the secondary colors of the additive (light) system.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 475,
+    "question": "When the plate area of a capacitor increases?",
+    "option": {
+      "a": "the voltage can withstand increase",
+      "b": "the capacitance decreases",
+      "c": "the capacitance is unaffected",
+      "d": "the capacitance increases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Recall the capacitance formula\nFor a parallel plate capacitor:\nC = ε₀εᵣA/d\nWhere:\n\nC = capacitance\nε₀ = permittivity of free space\nεᵣ = relative permittivity of dielectric\nA = plate area\nd = distance between plates\n\nStep 2: Analyze the relationship\nFrom the formula:\n\nCapacitance is directly proportional to plate area (A)\nC ∝ A\n\nStep 3: Determine the effect\nWhen plate area (A) increases:\n\nThe numerator of the fraction increases\nTherefore, capacitance (C) increases",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -10064,6 +10160,22 @@
     "examyear": "2007"
   },
   {
+    "id": 787,
+    "question": "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?",
+    "option": {
+      "a": "50N",
+      "b": "100N",
+      "c": "175N",
+      "d": "210N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nWeight (W) = 120 N\nAngle of inclination (θ) = 30°\nEfficiency = 60% = 0.60\nEffort force (E) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor an inclined plane:\nV.R = 1/sin θ\nV.R = 1/sin 30°\nV.R = 1/0.5\nV.R = 2\nStep 2: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A/V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.60 × 2\nM.A = 1.2\nStep 3: Calculate Effort using M.A\nM.A = Load/Effort\nM.A = W/E\nRearranging:\nE = W/M.A\nE = 120/1.2\nE = 100 N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 788,
     "question": "A string of length 4m is extended by 0.02 m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?",
     "option": {
@@ -11456,6 +11568,22 @@
     "examyear": "2009"
   },
   {
+    "id": 896,
+    "question": "A progressive wave is represented by y = 10sin(1000πt - πx/34). Two layers of the wave separated by 153cm have a phase difference of?",
+    "option": {
+      "a": "270°",
+      "b": "45°",
+      "c": " 90°",
+      "d": " 180°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given wave equation:\ny = 10sin(1000πt - πx/34)\nStandard form:\ny = A sin(ωt - kx)\nComparing:\n\nAmplitude (A) = 10\nAngular frequency (ω) = 1000π\nWave number (k) = π/34\n\nStep 1: Calculate wavelength\nk = 2π/λ\nπ/34 = 2π/λ\nλ = 2π × 34/π = 68 cm\nStep 2: Calculate phase difference for separation of 153 cm\nPhase difference formula:\nΔφ = 2π × (distance/wavelength)\nΔφ = 2π × (153/68)\nΔφ = 2π × 2.25\nΔφ = 4.5π radians\nStep 3: Convert to degrees\nΔφ = 4.5π × (180°/π)\nΔφ = 4.5 × 180°\nΔφ = 810°\nStep 4: Reduce to equivalent angle (0° to 360°)\n810° = 2 × 360° + 90°\nEquivalent phase difference = 90°",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 897,
     "question": "which of the diagrams above shows the position at which a small ball-bearing is in neutral equilibrium?",
     "option": {
@@ -11808,6 +11936,22 @@
     "examyear": "2010"
   },
   {
+    "id": 927,
+    "question": "A galvanometer with full-scale deflection of 10 mA is to be converted to a voltmeter with full-scale deflection of 5v.  if a series resistance of 498Ω is used for the conversion, the resistance of the galvanometer is ?",
+    "option": {
+      "a": "1Ω",
+      "b": "2Ω",
+      "c": "5Ω",
+      "d": "10Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nFull-scale deflection current, I_g = 10 mA = 0.010 A\nFull-scale voltage, V = 5 V\nSeries resistance, R_s = 498 Ω\n\nSolution:\n\nStep 1: Voltmeter conversion principle\nTo convert a galvanometer to a voltmeter, a high resistance is connected in series. At full-scale deflection, the total voltage across the series combination is:\nV = I_g (R_s + R_g)\nwhere R_g is the galvanometer resistance.\n\nStep 2: Substitute known values\n5 = 0.010 × (498 + R_g)\n\nStep 3: Solve for R_g\n498 + R_g = 5 / 0.010 = 500\nR_g = 500 – 498 = 2 Ω",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 928,
     "question": "Two inductors of inductance 5 mll and 15 mll are connected in series and a current of 5A flows through them. the total energy stored in the inductor is?",
     "option": {
@@ -11996,6 +12140,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435612/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_42_qaxop9.png",
     "answer": "c",
     "solution": "1/R = 1/8 + 1/8 = 2/8\n∴ R = 4Ω\nl/l1 = R/R1\n(x)/(100-x) = 4/8\n4(100-x) = 8x\n400-4x = 8x\n400 = 8x + 4x = 12x\nx = 400/12 = 33.3cm",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 943,
+    "question": "In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at N40, the cost of keeping the bulb lighted for a day is?",
+    "option": {
+      "a": "₦1,920.00",
+      "b": " ₦192.00",
+      "c": " ₦19.20",
+      "d": " ₦1.92"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435706/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_44_lbw3ip.png",
+    "answer": "b",
+    "solution": "Energy consumed = power x time\n= 200W x 24hr = 4800wh\n= 4.8 kwh\nBut 1 kwh cost N40\n∴ 4.8kwh costs 4.8 x 40\n= ₦192",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -13180,6 +13340,22 @@
     "image": "",
     "answer": "c",
     "solution": "The fuse in an electric device is always connected to the live side of an electric supply to ensure that when the fuse blows due to overcurrent, the dangerous high-voltage supply is completely disconnected from the appliance, making it safe.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1033,
+    "question": "A particle carrying a charge of 1.0 × 10⁻⁸ C enters a magnetic field at 3.0 × 10⁻² ms⁻¹ at right angles to the field. If the force on this particle is 1.8 × 10⁻⁸ N, what is the magnitude of the field?",
+    "option": {
+      "a": " 6.0 × 10⁻¹ T",
+      "b": "6.0 × 10¹ T",
+      "c": " 6.0 × 10⁻³ T",
+      "d": "6.0 × 10⁻⁴ T"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nCharge (q) = 1.0 × 10⁻⁸ C\nVelocity (v) = 3.0 × 10⁻² m/s\nAngle (θ) = 90° (right angles to field)\nForce (F) = 1.8 × 10⁻⁸ N\nMagnetic field strength (B) = ?\n\nFormula for magnetic force on a moving charge:\nF = qvB sin θ\nSince θ = 90°, sin 90° = 1:\nF = qvB\nRearranging for B:\nB = F/(qv)\nSubstituting values:\nB = (1.8 × 10⁻⁸)/(1.0 × 10⁻⁸ × 3.0 × 10⁻²)\nB = (1.8 × 10⁻⁸)/(3.0 × 10⁻¹⁰)\nB = 1.8/3.0 × 10⁻⁸⁺¹⁰\nB = 0.6 × 10²\nB = 6.0 × 10¹ T\nB = 60 T",
     "examtype": "utme",
     "examyear": "2012"
   },
