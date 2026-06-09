@@ -1888,6 +1888,22 @@
     "examyear": "2013"
   },
   {
+    "id": 125,
+    "question": "Excess of current assets over current liabilities is",
+    "option": {
+      "a": "deferred capital.",
+      "b": "nominal capital.",
+      "c": "working capital",
+      "d": "authorized capital."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 126,
     "question": "A statement showing a trader’s financial position as at a particular date is a/an",
     "option": {
@@ -8816,6 +8832,22 @@
     "examyear": "2016"
   },
   {
+    "id": 585,
+    "question": "The major sources of revenue for the state and local governments is",
+    "option": {
+      "a": "value added tax",
+      "b": "statutory allocation",
+      "c": "taxes and levies",
+      "d": " recurrent revenue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Statutory allocation; this is the grant from the federal government to the state  and local government.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 586,
     "question": "I. The amount of the imprest is the same from one organization to another.\n\nII. At the end of a fixed period, the petty cashier received a fixed sum of money.\n\nIII. At the end of a period, the petty cashier is reimbursed with the amount spent in that period.\n\nIV. The system is a method by which a measure of control is kept on petty cash expenses.\n\nWhich of the following is correct about the imprest system?",
     "option": {
@@ -10716,6 +10748,22 @@
     "image": "",
     "answer": "d",
     "solution": "Balance per bank statement = ₦13,560 + ₦5,120 + ₦2,000 – ₦2,300 – ₦280 – ₦600 = ₦17,500.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 713,
+    "question": "Which of the following is not an inventory costing method?",
+    "option": {
+      "a": "FIFO",
+      "b": "LIFO",
+      "c": "Average cost method",
+      "d": "LILA"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "FIFO (First-In, First-Out), LIFO (Last-In, First-Out), and the Average Cost Method are all standard inventory valuation methods.\n\nLILA is not a recognized inventory costing method.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -13388,6 +13436,22 @@
     "image": "",
     "answer": "d",
     "solution": "Subscription in advance is the sum of money prepaid by the members of club representing their dues for next year. It is treated as a liability in the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 897,
+    "question": "From the following bank reconciliation information: Balance as per cash book is ₦5,467, Uncredited cheques amount to ₦4,410, and Unpresented cheques total ₦19,404. What is the balance as per bank statement?",
+    "option": {
+      "a": "₦20,461",
+      "b": "₦21,091",
+      "c": "₦21,109",
+      "d": " ₦19,021"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Balance per bank statement = Balance per cash book + Unpresented cheques − Uncredited cheques\n= ₦5,467 + ₦19,404 − ₦4,410\n= ₦20,461",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -16124,6 +16188,22 @@
     "image": "",
     "answer": "a",
     "solution": "Workings (debit entries of the purchases ledger control account):\n\nCash paid to suppliers: ₦20,808\n\nReturns outwards (purchases returns): ₦810\n\nCash discount received: ₦1,348\n\nClosing debit balance shown in ledger: ₦108\n— Total = ₦20,808 + ₦810 + ₦1,348 + ₦108 = ₦23,074.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1082,
+    "question": "<b>Use the information below to answer questions 17 and 18</b>\n\nGiven Information:\n\nOpening balance: ₦10,640\nPurchases: ₦26,912\nReturns inwards: ₦492\nReturns outwards: ₦810\nCash discount received: ₦1,348\nCash discount allowed: ₦1,560\nCash paid to suppliers: ₦20,808\n\nAt the year-end, the purchases ledger showed a\ndebit balance of: ₦108\n\n\nThe balancing figure in the purchases ledger control account is",
+    "option": {
+      "a": "₦15,828",
+      "b": "₦15,720",
+      "c": "₦14,940",
+      "d": "₦14,478"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Purchases Ledger Control Account\n\nDebit side (from previous calculation):\n\nCash paid to suppliers = ₦20,808\n\nReturns outwards = ₦810\n\nDiscount received = ₦1,348\n\nClosing debit balance = ₦108\nTotal debit side = ₦23,074\n\nCredit side:\n\nOpening balance (credit) = ₦10,640\n\nPurchases = ₦26,912\n\nTotal credit side = ₦10,640 + ₦26,912 = ₦37,552\n\nBalancing figure (Closing credit balance) =\n₦37,552 − ₦23,074 = ₦14,478",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -21324,6 +21404,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Find Gross Profit\n\nGross Profit = Sales − Cost of Sales = ₦85,000 − ₦25,000 = ₦60,000\nStep 2: Relate Net Profit and Expenses\n\nNet Profit = Gross Profit − Total Expenses\nTotal Expenses = Gross Profit − Net Profit = ₦60,000 − ₦25,000 = ₦35,000",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1433,
+    "question": "Given: capital ₦13,000; office machinery, ₦9,000; creditors ₦900, stock of goods ₦1,550; debtors, ₦275; cash at bank, ₦5,075 and loan from Jumbo, ₦2,000. What is the balance sheet total?",
+    "option": {
+      "a": " ₦19,500",
+      "b": "₦18,500",
+      "c": "₦17,900",
+      "d": " ₦15,900"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To find the balance sheet total, calculate either the total assets or total liabilities and equity (they should be equal).\nAssets:\n\nOffice machinery: ₦9,000\nStock of goods: ₦1,550\nDebtors: ₦275\nCash at bank: ₦5,075\nTotal Assets: ₦15,900\n\nLiabilities and Equity:\n\nCapital: ₦13,000\nCreditors: ₦900\nLoan from Jumbo: ₦2,000\nTotal Liabilities and Equity: ₦15,900\n\nThe balance sheet total (which is the same for both sides) is ₦15,900.",
     "examtype": "utme",
     "examyear": "1997"
   },
