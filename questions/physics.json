@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 11,
+    "question": "An object of height 3.00cm is placed 10cm from a biconvex lens of 15cm, the image of the object is ",
+    "option": {
+      "a": "real and 3.00cm tall ",
+      "b": "virtual and 3.00cm tall ",
+      "c": " virtual and 9.00cm tall ",
+      "d": "real and 9.00cm tall"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 15,
     "question": "A coil of copper wire of N turns is kept rotating between the poles of a magnet  such that the magnetic flux linking the coil changes continuously. Which of the  following statements is TRUE? ",
     "option": {
@@ -192,6 +208,38 @@
     "examyear": "2007"
   },
   {
+    "id": 46,
+    "question": "A machine has a velocity ratio of 5, if it requires a 50kg weight to overcome 200kg weight, the efficiency is? ",
+    "option": {
+      "a": "4%",
+      "b": "5%",
+      "c": "40%",
+      "d": "80%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 47,
+    "question": "If the force on a charge of 0.2 Coulomb in an electric field is 4N, then electric intensity of the field is ",
+    "option": {
+      "a": "0.8",
+      "b": "0.8N/C  ",
+      "c": "20.0 N/C ",
+      "d": "4.2 N/C "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 50,
     "question": "When a yellow card is observed through a blue glass, the card would appear as ",
     "option": {
@@ -199,6 +247,22 @@
       "b": "green ",
       "c": "red ",
       "d": "white "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 57,
+    "question": "A house hold refrigerator is rated 200 watts. If electricity cost 5k per Kwh, what is the cost of operating it for 20 days ",
+    "option": {
+      "a": "N4.80  ",
+      "b": "N48.00 ",
+      "c": "N480.00 ",
+      "d": "N4800.00 "
     },
     "section": "",
     "image": "",
@@ -320,6 +384,22 @@
     "examyear": "2011"
   },
   {
+    "id": 103,
+    "question": "The  term “Viscosity” is used to describe  ",
+    "option": {
+      "a": "surface tension in fluids ",
+      "b": "friction in fluids  ",
+      "c": "surface tension in solids  ",
+      "d": "moment in solids"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 107,
     "question": "Dry air of column length 10 cm is trapped by a pellet of mercury of length 15 cm, with the open end uppermost. When the capillary is inverted the length of the air column increased to 25 cm while that of mercury remained constant. Calculate the atmospheric pressure (in cm of Hg.)  ",
     "option": {
@@ -379,6 +459,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 121,
+    "question": "Which of the following quantities is equal to the area under a velocity-time graph?",
+    "option": {
+      "a": "Acceleration ",
+      "b": "Distance travelled ",
+      "c": "Average Velocity of motion ",
+      "d": "Total time taken."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -460,6 +556,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nHeight (h) = 20 meters\nInitial velocity (u) = 0 m/s (ball is released, not thrown)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing the equation of motion:\nh = ut + ½gt²\nSince u = 0 (released from rest):\nh = ½gt²\nRearranging to find t:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 20/10)\nt = √(40/10)\nt = √4\nt = 2 seconds\nAnswer: A. 2 sec",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 178,
+    "question": "For a best result using temperature to achieve an accurate measurement, it is best to use",
+    "option": {
+      "a": " Mercury thermometer",
+      "b": " gas thermometer",
+      "c": " clinical thermometer",
+      "d": "alcohol thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Gas thermometers are considered best for use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -640,6 +752,22 @@
     "examyear": "2017"
   },
   {
+    "id": 268,
+    "question": "If silicon is doped with phosphorus, what type of semiconductor material will be formed?",
+    "option": {
+      "a": "Zener material",
+      "b": "P-n junction",
+      "c": "n-type",
+      "d": "p-type"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When silicon is doped with phosphorus, an n-type semiconductor material is formed due to the extra free electrons provided by phosphorus atoms.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 270,
     "question": "What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh?",
     "option": {
@@ -816,6 +944,38 @@
     "examyear": "2018"
   },
   {
+    "id": 351,
+    "question": "Aluminium is sometimes used as the leaf of an electroscope because it",
+    "option": {
+      "a": "is a light material",
+      "b": "is a good conductor",
+      "c": " is a good insulator",
+      "d": "can be converted into thin sheets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Aluminium is used as an electroscope leaf because it can be converted into very thin sheets (foil), which makes it lightweight and able to diverge easily when charged.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 353,
+    "question": "A supply of 400V is connected across capacitors of 3μf and 6μf in series. Calculate the charge",
+    "option": {
+      "a": "8 × 10⁻⁴C",
+      "b": "4 × 10⁻²C",
+      "c": "8 × 10⁻³C",
+      "d": "4 × 10⁻⁸C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nVoltage (V) = 400V\nCapacitor 1 (C₁) = 3μF = 3 × 10⁻⁶F\nCapacitor 2 (C₂) = 6μF = 6 × 10⁻⁶F\nCapacitors in series\nCharge (Q) = ?\n\nStep 1: Calculate equivalent capacitance for series\nFor capacitors in series:\n1/Ceq = 1/C₁ + 1/C₂\n1/Ceq = 1/3 + 1/6\nFinding common denominator:\n1/Ceq = 2/6 + 1/6 = 3/6 = 1/2\nCeq = 2μF = 2 × 10⁻⁶F\nStep 2: Calculate charge\nFor capacitors in series, the charge on each capacitor is the same and equals:\nQ = Ceq × V\nQ = 2 × 10⁻⁶ × 400\nQ = 800 × 10⁻⁶\nQ = 8 × 10⁻⁴C\nAnswer: A. 8 × 10⁻⁴C",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 364,
     "question": "The following are parts of the eye\nI. Retina\nII. Pupil\nIII. Iris\nThe correct equivalent in the camera in the same order are",
     "option": {
@@ -860,6 +1020,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nForce (F) = 6 N\nMass (m) = 2 kg\nTime (t) = 4 s\nInitial velocity (u) = 0 (stationary)\nKinetic energy gained = ?\n\nStep 1: Calculate acceleration\nF = ma\n6 = 2 × a\na = 3 m/s²\nStep 2: Calculate final velocity\nv = u + at\nv = 0 + 3 × 4\nv = 12 m/s\nStep 3: Calculate kinetic energy gained\nKE = ½mv²\nKE = ½ × 2 × (12)²\nKE = 1 × 144\nKE = 144 J",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 378,
+    "question": "An a.c of 1A at a frequency of 800 cycles per second flows through a coil, the inductance of which is 2.5mH and the resistance of which is 5Ω. What is the power absorbed in the Coil?\n",
+    "option": {
+      "a": "5W",
+      "b": "6W",
+      "c": "7W",
+      "d": "8W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCurrent (I) = 1A (r.m.s value)\nFrequency (f) = 800 Hz\nInductance (L) = 2.5mH = 2.5 × 10⁻³ H\nResistance (R) = 5Ω\nPower absorbed = ?\n\nKey principle:\nIn an AC circuit with resistance and inductance:\n\nPower is dissipated only in the resistance\nInductance stores and returns energy (no net power dissipation)\n\nFormula for power absorbed:\nP = I²R\nNote: The inductance affects impedance and phase angle but doesn't dissipate power.\nCalculating power:\nP = I²R\nP = (1)² × 5\nP = 1 × 5\nP = 5W",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -942,6 +1118,22 @@
     "solution": "Given information:\n\nInitial velocity (u) = 30 m/s (upward, positive)\nTime to reach ground (t) = 8 seconds\nAcceleration due to gravity (g) = -10 m/s² (downward, negative)\nHeight of building (h) = ?\n\nUsing equation of motion:\ns = ut + ½at²\nwhere s is the displacement from starting point (negative when below starting point)\nStep 1: Calculate displacement\nSince the stone ends up below the starting point (at ground level):\ns = ut + ½gt²\ns = 30(8) + ½(-10)(8)²\ns = 240 + ½(-10)(64)\ns = 240 - 320\ns = -80 m\nStep 2: Interpret the result\nThe negative sign indicates the stone is 80 m below the starting point (top of building).\nTherefore, the height of the building = 80 m",
     "examtype": "utme",
     "examyear": ""
+  },
+  {
+    "id": 425,
+    "question": "Which of the following is not correct about the molecules of a substance in a gaseous state. They?",
+    "option": {
+      "a": "are in a constant state of motion",
+      "b": "have different speeds",
+      "c": "have a temperature which is measured by the average kinetic energy",
+      "d": "The collision between the gases is perfectly elastic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The collision between the gases is perfectly inelastic",
+    "examtype": "utme",
+    "examyear": "2021"
   },
   {
     "id": 426,
@@ -1036,6 +1228,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nMass ratio: m₁ : m₂ = 3 : 1\nAcceleration ratio: a₁ : a₂ = 2 : 9\nForce ratio: F₁ : F₂ = ?\n\nUsing Newton's Second Law:\nF = ma\nFor body 1:\nF₁ = m₁a₁\nFor body 2:\nF₂ = m₂a₂\nFinding the ratio of forces:\nF₁/F₂ = (m₁a₁)/(m₂a₂)\nF₁/F₂ = (m₁/m₂) × (a₁/a₂)\nSubstituting the given ratios:\nF₁/F₂ = (3/1) × (2/9)\nF₁/F₂ = 6/9\nF₁/F₂ = 2/3\nTherefore:\nF₁ : F₂ = 2 : 3",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 440,
+    "question": "A lead bullet of mass 0.05kg is fired with a velocity of 200ms⁻¹ into a block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is?",
+    "option": {
+      "a": "50J",
+      "b": "100J",
+      "c": "150J",
+      "d": "200J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of bullet (m₁) = 0.05 kg\nInitial velocity of bullet (u₁) = 200 m/s\nMass of block (m₂) = 0.95 kg\nInitial velocity of block (u₂) = 0 m/s (at rest)\nFinal kinetic energy = ?\n\nThis is an inelastic collision (bullet embeds in block)\nStep 1: Find final velocity using conservation of momentum\nTotal momentum before = Total momentum after\nm₁u₁ + m₂u₂ = (m₁ + m₂)v\nSubstituting values:\n(0.05 × 200) + (0.95 × 0) = (0.05 + 0.95)v\n10 + 0 = 1.0v\nv = 10 m/s\nStep 2: Calculate final kinetic energy\nKE = ½(m₁ + m₂)v²\nKE = ½ × 1.0 × (10)²\nKE = ½ × 1.0 × 100\nKE = 50 J",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -1280,6 +1488,22 @@
     "examyear": "2022"
   },
   {
+    "id": 513,
+    "question": "Which process is responsible for production of energy in stars?",
+    "option": {
+      "a": "Nuclear reaction",
+      "b": "Nuclear fission",
+      "c": "Nuclear fusion",
+      "d": "Radioactive decay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nuclear fusion is the process in which lighter nuclei are combined to form heavier ones. Matter lost in this process is converted into energy. The energy produced inside the stars is due to the process of nuclear fusion.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 521,
     "question": "Which of the following thermometers measures temperature from the thermal radiation emitted by objects?",
     "option": {
@@ -1424,6 +1648,22 @@
     "examyear": "2024"
   },
   {
+    "id": 583,
+    "question": "Which of these gas laws is equivalent to workdone",
+    "option": {
+      "a": "Charle's law",
+      "b": "Pressure law",
+      "c": "Boyle's law",
+      "d": " Gay Lussac's law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Boyle's law (PV = constant) is equivalent to work done because work by a gas involves the product of pressure and change in volume (W = PΔV). During an isothermal process following Boyle's law, the work done can be calculated using the PV relationship, making it the gas law most directly connected to work.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 588,
     "question": "A cell of internal resistance of 2Ω supplies current through a resistor, X. If the efficiency of the cell is 75%, find the value of X.",
     "option": {
@@ -1564,6 +1804,22 @@
     "image": "",
     "answer": "b",
     "solution": "When soldiers march in synchronized steps across a suspension bridge, their footsteps create periodic forces at a specific frequency (the marching cadence). If this frequency matches or is close to the natural frequency of the bridge, a phenomenon called resonance occurs, where the amplitude of the bridge's oscillations increases dramatically with each successive step. This amplification can lead to dangerous vibrations that may cause structural damage or even collapse of the bridge. By breaking their steps (marching out of sync), soldiers prevent the establishment of a regular periodic force, thus avoiding the resonance condition. Historical examples like the Tacoma Narrows Bridge collapse demonstrate the destructive power of resonance in structures. While oscillation, swinging, and vibration are general terms for back-and-forth motion, resonance specifically describes the dangerous amplification effect that occurs when the driving frequency matches the natural frequency of the system.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 652,
+    "question": "A thin converging lens has a power of 4.0 diopters determined its focal length.",
+    "option": {
+      "a": "2.50m",
+      "b": "0.03m",
+      "c": "5.00m",
+      "d": "0.25m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPower of lens, P = 4.0 diopters (D)\nFocal length, f = ?\n\nSolution:\nFormula:\nThe power of a lens is related to its focal length by:\nP = 1/f\nWhere:\n\nP = power (in diopters, D)\nf = focal length (in meters)\n\nRearrange for focal length:\nf = 1/P\nSubstitute values:\nf = 1/4.0\nf = 0.25 m",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -1820,6 +2076,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nEnergy, E = 3.3 eV\nCharge of electron, e = 1.6 × 10⁻¹⁹ C\nPlanck's constant, h = 6.6 × 10⁻³⁴ Js\nFrequency, f = ?\n\nSolution:\nStep 1: Convert energy from eV to Joules\n1 eV = 1.6 × 10⁻¹⁹ J\nE = 3.3 × 1.6 × 10⁻¹⁹\nE = 5.28 × 10⁻¹⁹ J\nStep 2: Apply Planck's equation\nFormula: E = hf\nWhere:\n\nE = energy of photon\nh = Planck's constant\nf = frequency\n\nStep 3: Rearrange for frequency\nf = E/h\nStep 4: Substitute values\nf = (5.28 × 10⁻¹⁹)/(6.6 × 10⁻³⁴)\nf = (5.28/6.6) × 10⁻¹⁹⁻⁽⁻³⁴⁾\nf = 0.8 × 10¹⁵\nf = 8.0 × 10¹⁴ Hz",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 726,
+    "question": "The battery connection that permits current to flow across a p-n junction is called?",
+    "option": {
+      "a": "reverse baised",
+      "b": "forward baised",
+      "c": "amplification",
+      "d": "rectification"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nStep 1: Understanding p‑n junction behavior\nA p‑n junction allows significant current to flow when the p‑side is connected to the positive terminal of a battery and the n‑side to the negative terminal. This connection reduces the depletion region and lowers the barrier for charge carriers.\n\nStep 2: Identifying the correct term\nThis configuration is known as forward bias. The opposite connection (reverse bias) blocks current flow under normal conditions.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -2272,6 +2544,38 @@
     "examyear": "2009"
   },
   {
+    "id": 893,
+    "question": "If a light wave has a wavelength of 500nm in air, what is the frequency of the wave? [c = 3 × 10⁸ ms⁻¹]",
+    "option": {
+      "a": " 3.0 × 10¹⁴ Hz",
+      "b": "6.0 × 10¹⁴ Hz",
+      "c": "6.0 × 10¹² Hz",
+      "d": "2.5 × 10¹⁴ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nWavelength (λ) = 500 nm = 500 × 10⁻⁹ m = 5 × 10⁻⁷ m\nSpeed of light (c) = 3 × 10⁸ m/s\nFrequency (f) = ?\n\nFormula for wave equation:\nc = fλ\nRearranging for frequency:\nf = c/λ\nSubstituting values:\nf = (3 × 10⁸)/(5 × 10⁻⁷)\nf = (3/5) × 10⁸⁺⁷\nf = 0.6 × 10¹⁵\nf = 6.0 × 10¹⁴ Hz",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 904,
+    "question": "A machine of velocity ratio 6 requires an effort of 400 N to raise a load of 800 N through 1 m. Find the efficiency of the machine",
+    "option": {
+      "a": "55. 6 %",
+      "b": "50.00%",
+      "c": "33.30%",
+      "d": "22.20%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nVelocity Ratio (V.R) = 6\nEffort (E) = 400 N\nLoad (L) = 800 N\nDistance load raised = 1 m\nEfficiency = ?\n\nStep 1: Calculate Mechanical Advantage (M.A)\nM.A = Load/Effort\nM.A = 800/400\nM.A = 2\nStep 2: Calculate Efficiency\nEfficiency = (M.A/V.R) × 100%\nSubstituting values:\nEfficiency = (2/6) × 100%\nEfficiency = (1/3) × 100%\nEfficiency = 33.33%\nEfficiency ≈ 33.3%",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 907,
     "question": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and?",
     "option": {
@@ -2316,6 +2620,22 @@
     "image": "",
     "answer": "b",
     "solution": "Refraction index, n = (real depth)/apparent depth\n1.5 = (10)/X\nX = (10)/1.5 = 6.67 cm",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 924,
+    "question": "Dispersion occurs when white light passes through a glass prism because of the?",
+    "option": {
+      "a": "different hidden colours in the glass",
+      "b": "different speeds of the colour in the glass",
+      "c": "defects in the glass",
+      "d": "high density of the glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dispersion is the splitting of white light into its spectral component colors and is caused by different speed of the colors in the prism.",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -2496,6 +2816,22 @@
     "examyear": "2011"
   },
   {
+    "id": 976,
+    "question": "A certain far - sighted person cannot see object that are closer to the eye than 50 cm clearly. Determine the power of the converging lens which will enable him to see at 25 cm",
+    "option": {
+      "a": ". 0.06 D",
+      "b": " 2.0 D",
+      "c": " 0.03 D",
+      "d": " 0.04 D"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nPerson's near point = 50 cm (cannot see closer than this)\nDesired near point = 25 cm (normal near point)\nPower of lens (P) = ?\n\nUnderstanding the correction:\nThe lens must take an object at 25 cm and form a virtual image at 50 cm (where the person can see clearly).\nUsing sign convention:\n\nObject distance (u) = -25 cm = -0.25 m (object on left, negative)\nImage distance (v) = -50 cm = -0.50 m (virtual image on same side, negative)\n\nStep 1: Use lens formula\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-0.50) - 1/(-0.25)\n1/f = -1/0.50 + 1/0.25\n1/f = -2 + 4\n1/f = 2 m⁻¹\nStep 2: Calculate power\nPower (P) = 1/f (in meters)\nP = 2 D",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 981,
     "question": "Under which of the following conditions do gases conduct electricity?",
     "option": {
@@ -2556,6 +2892,22 @@
     "image": "",
     "answer": "a",
     "solution": "The bond between silicon and germanium is covalent because both are metalloids from the same group with similar electronegativity values, leading to electron sharing rather than electron transfer.\nPractical application: Silicon-germanium (SiGe) alloys are used in high-speed semiconductor devices, and the covalent bonding between Si and Ge atoms is crucial for their electronic properties.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 985,
+    "question": "A radioactive isotope has a decay constant of 10⁻⁵ s⁻¹. Calculate half-life",
+    "option": {
+      "a": "6.93 × 10⁻⁵ s",
+      "b": " 6.93 × 10⁵ s",
+      "c": "6.93 × 10⁴ s",
+      "d": "6.93 × 10⁻⁴ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁵ s⁻¹\nHalf-life (T₁/₂) = ?\n\nFormula relating half-life and decay constant:\nT₁/₂ = ln(2)/λ\nT₁/₂ = 0.693/λ\nSubstituting values:\nT₁/₂ = 0.693/(10⁻⁵)\nT₁/₂ = 0.693 × 10⁵\nT₁/₂ = 6.93 × 10⁴ s",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -2720,6 +3072,38 @@
     "examyear": "2012"
   },
   {
+    "id": 1043,
+    "question": "A simple pendulum of length 0.4m has a period of 2s. What is the period of a similar pendulum of length 0.8m at the same place?",
+    "option": {
+      "a": " 8 s",
+      "b": "4 s",
+      "c": "2√2 s",
+      "d": " √2 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\n\nInitial length (L₁) = 0.4 m\nInitial period (T₁) = 2 s\nNew length (L₂) = 0.8 m\nNew period (T₂) = ?\nSame location (same g)\n\nFormula for period of simple pendulum:\nT = 2π√(L/g)\nKey relationship:\nT ∝ √L (period is proportional to square root of length)\nMethod 1: Using ratio\nT₁/T₂ = √(L₁/L₂)\nRearranging:\nT₂ = T₁ × √(L₂/L₁)\nSubstituting values:\nT₂ = 2 × √(0.8/0.4)\nT₂ = 2 × √2\nT₂ = 2√2 s",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1056,
+    "question": "What will happen to the boiling point of pure water when it is heated in a place 30m below sea level?",
+    "option": {
+      "a": " It will be more than 100 °C",
+      "b": "It will be less than 100 °C",
+      "c": "It will still be at 100 °C",
+      "d": "It will be fluctuating"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Boiling point of a liquid depends on external pressure. At sea level (standard atmospheric pressure), water boils at 100 °C. Below sea level, atmospheric pressure is higher because there is more air above.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1059,
     "question": "A wave that travels through stretched strings is known as",
     "option": {
@@ -2800,6 +3184,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1070,
+    "question": "A cell of emf 1.5V is connected in series with a 1Ω resistor and a current of 0.3A flows through the resistor. Find the internal resistance of the cell",
+    "option": {
+      "a": " 4.0Ω",
+      "b": "3.0Ω",
+      "c": "1.5Ω",
+      "d": "1.0Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nElectromotive force (emf), E = 1.5 V\nExternal resistance, R = 1 Ω\nCurrent, I = 0.3 A\n\nSolution:\n\nStep 1: Relate emf, current, and resistances\nFor a cell with internal resistance r connected to an external resistor R, the current is given by:\nI = E / (R + r)\n\nStep 2: Rearrange to solve for r\nR + r = E / I\nr = (E / I) – R\n\nStep 3: Substitute the values\nr = (1.5 / 0.3) – 1\nr = 5 – 1 = 4 Ω",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1090,
     "question": "The energy in the nucleus of atoms produce heat which can be used to generate",
     "option": {
@@ -2812,6 +3212,22 @@
     "image": "",
     "answer": "c",
     "solution": "Electrical energy: This is primarily done in nuclear power plants, where the heat generated from nuclear reactions is used to produce steam that drives turbines, ultimately generating electricity.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1097,
+    "question": "The quantity of heat needed to raise the temperature of a body by 1K is the body's",
+    "option": {
+      "a": "Heat capacity",
+      "b": " Internal energy",
+      "c": " Specific heat capacity",
+      "d": "Latent heat of fusion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The quantity is the body's heat capacity.",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -2960,6 +3376,22 @@
     "examyear": "2025"
   },
   {
+    "id": 1141,
+    "question": "Which of the following has the least thermal conductivity?",
+    "option": {
+      "a": "air",
+      "b": "ash",
+      "c": "glass",
+      "d": "water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(Air is a poor conductor ~0.025 W/mK; water ~0.6, glass ~1, ash varies but is higher.)\n\nAir is a poor conductor of heat compared to solids and liquids like ash, glass, and water, making it a good insulator.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 1145,
     "question": "The volume of a fixed mass of gas at 0 °C is 200 m³. What is its volume at 273 °C at constant pressure?",
     "option": {
@@ -2972,6 +3404,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nInitial temperature, T₁ = 0 °C = 273 K\nInitial volume, V₁ = 200 m³\nFinal temperature, T₂ = 273 °C = 273 + 273 = 546 K\nPressure is constant.\n\nSolution:\n\nStep 1: Charles' law\nAt constant pressure, V ∝ T (absolute temperature).\nV₁ / T₁ = V₂ / T₂\n\nStep 2: Rearrange to find V₂\nV₂ = V₁ × (T₂ / T₁)\n\nStep 3: Substitute values\nV₂ = 200 × (546 / 273) = 200 × 2 = 400 m³",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1147,
+    "question": "Calculate the decay constant of a radioactive isotope of half‑life 138.5 s.",
+    "option": {
+      "a": "5.0 × 10⁻³ s⁻¹",
+      "b": "5.1 × 10⁻³ s⁻¹",
+      "c": "4.9 × 10⁻³ s⁻¹",
+      "d": "5.2 × 10⁻³ s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nHalf‑life, T₁/₂ = 138.5 s\n\nSolution:\n\nStep 1: Relationship between decay constant and half‑life\nλ = ln 2 / T₁/₂\n\nStep 2: Substitute ln 2 ≈ 0.693\nλ = 0.693 / 138.5\n\nStep 3: Calculate\n0.693 ÷ 138.5 = 0.0050036 ≈ 5.00 × 10⁻³ s⁻¹",
     "examtype": "utme",
     "examyear": "2025"
   },
