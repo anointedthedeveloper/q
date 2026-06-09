@@ -3408,6 +3408,22 @@
     "examyear": "2015"
   },
   {
+    "id": 337,
+    "question": "Which of the following expenses is allocated according to the floor \tarea?",
+    "option": {
+      "a": "Wages and Salaries",
+      "b": "Rent and rates",
+      "c": "Canteen expenses",
+      "d": "Discount allowed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 340,
     "question": "The instrument used to release fund which the minister of finance had earlier withheld is",
     "option": {
@@ -4343,6 +4359,22 @@
       "b": "given separately",
       "c": "equivalent to the total cost of goods manufactured",
       "d": "always the same as the prime cost."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 443,
+    "question": "Goods worth N 50 000 were sent at different times from head office to the branch during the year. By the end of the period, only N  40 000 worth of goods had arrived at the branch. Which of the following is correct about the treatment of this transaction?",
+    "option": {
+      "a": "Branch should debit goods received from head office with N 50 000.",
+      "b": "Head office should debit goods sent to branch account with N 10 000.",
+      "c": "Head office should debit goods sent to branch account with N 50 000.",
+      "d": "Branch should debit goods received from head office with N  10000."
     },
     "section": "",
     "image": "",
@@ -5420,6 +5452,22 @@
     "image": "",
     "answer": "c",
     "solution": "if there was a Loss on sale, we Debit cash for the amount received, debit all accumulated depreciation, debit the loss on sale of asset account, and credit the fixed asset.\nif there was a Gain on sale. Debit cash for the amount received, debit all accumulated depreciation, credit the fixed asset, and credit the gain on sale of asset account.\n\nCash is received and expected to be debited going by the principles of double entry.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 553,
+    "question": "The income and expenditure account of a club is the same as",
+    "option": {
+      "a": "single entry account",
+      "b": "a profit and loss account",
+      "c": "a trading account",
+      "d": "a cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "this is because the income and expenditure account just like the profit and loss account shows the income to ascertain surplus or deficit.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -7248,6 +7296,22 @@
     "examyear": "2019"
   },
   {
+    "id": 756,
+    "question": "The difference between double entry and single entry is",
+    "option": {
+      "a": " double entry is based on the dual concept while single entry is not based on dual concept",
+      "b": "double entry is an account while single entry is not an account",
+      "c": "double entry keeps personal account while single does not",
+      "d": "double entry is useful for business enterprise while single entry is not"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Double entry is based on dual concept, i.e two-fold aspect of transaction whereby single entry ignored the principle of double entry.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 757,
     "question": "A rent of ₦50,000 was paid by samson to his landlady by cheque. The double entry in Samson's book is\n",
     "option": {
@@ -7468,6 +7532,22 @@
     "image": "",
     "answer": "a",
     "solution": "The provision for bad debts reduces the net amount owed by customers, so it is recorded as a credit in the Sales Ledger Control Account to offset (reduce) the balance of debtors.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 776,
+    "question": "Five hundred naira monthly is allowed on an imprest system. The following transactions took place in Period 1: cash advanced to petty cashier ₦500, petty cashier paid out for stamp ₦200 and newspaper ₦250. In Period 2: cash to petty cashier ₦450, cashier paid for writing materials ₦350. What was the balance of cash with the petty cashier at the end of period 1?",
+    "option": {
+      "a": " ₦450",
+      "b": " ₦300",
+      "c": "₦50",
+      "d": " ₦200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Under the imprest system, the petty cashier should always maintain a fixed float of ₦500.\nAfter Period 1:\n\nOpening balance: ₦500\nPayments made: Stamp ₦200 + Newspaper ₦250 = ₦450\nBalance remaining: ₦500 - ₦450 = ₦50\n\n",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -7740,6 +7820,22 @@
     "image": "",
     "answer": "b",
     "solution": "The sales ledger control account (also known as the debtors control account) represents the total amount owed by all customers who have purchased goods on credit. Its value is derived from the summation of all individual debtor balances in the sales ledger.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 798,
+    "question": "The addition of prime cost, indirect cost and opening work- in-progress less the closing work-in-progress will result in cost of",
+    "option": {
+      "a": "goods manufactured",
+      "b": "materials put into production",
+      "c": " goods available for sale",
+      "d": "goods sold"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The formula given represents the calculation for cost of goods manufactured:\nCost of Goods Manufactured = Prime Cost + Indirect Cost + Opening Work-in-Progress - Closing Work-in-Progress",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -8748,6 +8844,22 @@
     "image": "",
     "answer": "b",
     "solution": "Consolidate revenue fund shows the total income derived by the government from all the sources of revenue.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 906,
+    "question": "Capital for a profit making organization is generated through",
+    "option": {
+      "a": "gift",
+      "b": "donation",
+      "c": "shares",
+      "d": "subscription"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Shares can be issued to the public for subscription. A lot of money can be raised to finance the operation of the business through the issue of new shares to members of the public.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -9836,6 +9948,22 @@
     "image": "",
     "answer": "c",
     "solution": "Period 1\n\nImprest = ₦500\n\nPayments: Stamp ₦200 + Newspaper ₦250 = ₦450\n\nRemaining cash after Period 1 = ₦500 − ₦450 = ₦50\n\nTo restore imprest to ₦500, petty cashier receives ₦450 at start of Period 2.\n\nPeriod 2\n\nStart cash = ₦500 (₦50 leftover + ₦450 replenishment)\n\nPayments: Writing materials ₦350\n\nRemaining cash after Period 2 = ₦500 − ₦350 = ₦150\n\nTo restore imprest to ₦500: ₦500 − ₦150 = ₦350",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1024,
+    "question": "five hundred naria monthly is allowed on an imprest system. The following transactions took place.\n\nPeriod1:\nCash advanced to petty cashier......₦500\nPetty cashier paid out: stamp.......₦200\n₦ewspaper...........................₦250\n\nPeriod 2:\nCash to petty cashier...............₦450\nCashier paid for writing materials..₦350\n\nWhat was the balance of cash with the petty cashier at the end of period 1?",
+    "option": {
+      "a": "₦50",
+      "b": "₦200",
+      "c": "₦300",
+      "d": "₦450"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "From Period 1:\n\nCash given = ₦500\n\nPayments = ₦200 (stamp) + ₦250 (newspaper) = ₦450\n\nRemaining cash = ₦500 − ₦450 = ₦50",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -11440,6 +11568,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1196,
+    "question": "The working capital of the club is",
+    "option": {
+      "a": "₦5,000",
+      "b": "₦4,000",
+      "c": "₦3,000",
+      "d": "₦7,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665555/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q32_ctzr5q.jpg",
+    "answer": "c",
+    "solution": "Working Capital Calculation:\nCurrent Assets:\n\nStock: ₦3,500\nDebtors for subscriptions: ₦1,000\nBank: ₦1,500\nTotal Current Assets = ₦6,000\n\nCurrent Liabilities:\n\nCreditors for supplies: ₦2,000\nSubscriptions advance: ₦1,000\nTotal Current Liabilities = ₦3,000\n\nWorking Capital = Current Assets - Current Liabilities\nWorking Capital = ₦6,000 - ₦3,000 = ₦3,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1198,
     "question": "A company operating a chain of retail provision stores invoices goods to the branches at cost plus a mark-up of 25%. What is the mark-up percentage on selling price?",
     "option": {
@@ -11792,6 +11936,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1230,
+    "question": "A reduction in the catalogue price of an article given by a wholesaler to a retailer is called a?",
+    "option": {
+      "a": " bad debt",
+      "b": "trade discount",
+      "c": "premium",
+      "d": "cash discount"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A reduction in the catalogue price of an article given by a wholesaler to a retailer is called a trade discount.\n\nTrade discount is:\n\nA reduction from the listed/catalogue price\nGiven to encourage bulk purchases or maintain trade relationships\nOffered to retailers, distributors, or other businesses in the supply chain\nNot recorded in the books of accounts (deducted before recording the transaction)\nDifferent from cash discount, which is given for early payment",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1231,
     "question": "<b>Use the information below to answer questions 17 and 18.</b> \n\nWhat is the stock valuation method used?",
     "option": {
@@ -11836,6 +11996,22 @@
     "image": "",
     "answer": "c",
     "solution": "An incomplete set of records is first reconstructed into a Statement of Affairs (essentially a makeshift balance sheet) so that you can then derive the missing double-entry figures and arrive at complete records.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1236,
+    "question": "<b>Use the information below to answer questions 22 and 23</b>\n\n\nUsing the given balance sheet information for 31/12/98 and 31/12/99, determine the total fixed assets from the opening balance sheet (31/12/98).\nGiven data:\n\n31/12/98: Plant & Machinery ₦1,500, Fixtures ₦700, Stock ₦500, Debtors ₦900, Cash ₦200, Creditors ₦500, Loan ₦600\n31/12/99: Plant & Machinery ₦1,200, Fixtures ₦520, Stock ₦600, Debtors ₦400, Cash ₦300, Creditors ₦600, Loan ₦400",
+    "option": {
+      "a": "₦2,200",
+      "b": " ₦2,020",
+      "c": "₦1,720",
+      "d": "₦2,070"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the total fixed assets from the opening balance sheet (31/12/98), I Identify which items are fixed assets.\nFixed Assets as at 31/12/98:\n\nPlant & Machinery: ₦1,500\nFixtures: ₦700\n\nTotal Fixed Assets = ₦1,500 + ₦700 = ₦2,200\nNote: Stock, Debtors, and Cash are current assets, not fixed assets. Creditors and Loan are liabilities.\nTherefore, the total fixed assets from the opening balance sheet is ₦2,200.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -11948,6 +12124,22 @@
     "image": "",
     "answer": "a",
     "solution": "The excess of income over expenditure is usually transferred to the accumulated fund.\n\nIn non-profit organizations (like clubs, societies, associations):\n\nThe accumulated fund is equivalent to capital in a commercial business\nIt represents the net worth or fund balance of the organization\nAny surplus (excess of income over expenditure) increases this fund\nAny deficit (excess of expenditure over income) reduces this fund\nIt appears in the balance sheet as part of the organization's equity",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1247,
+    "question": "Partners' salaries and drawings are usually posted to the?",
+    "option": {
+      "a": "trading account",
+      "b": "current account",
+      "c": " capital account",
+      "d": " partners' account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Partners' salaries and drawings are usually posted to the current account.\n\nIn partnership accounting, there are typically two main accounts for each partner:\n\nCapital Account - Records the permanent capital contributions and withdrawals of partners. This account usually remains relatively stable.\nCurrent Account - Records all regular transactions with partners including:\n\nPartners' salaries\nPartners' drawings\nInterest on capital\nInterest on drawings\nShare of profits or losses",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -12220,6 +12412,22 @@
     "image": "",
     "answer": "c",
     "solution": "Raw Materials Consumed = Opening Stock + Purchases + Carriage Inwards - Returns - Closing Stock\nRearranging to find Opening Stock:\nOpening Stock = Raw Materials Consumed + Closing Stock + Returns - Purchases - Carriage Inwards\nSubstituting the values:\nOpening Stock = ₦300,600 + ₦100,250 + ₦10,800 - ₦350,000 - ₦6,700\nOpening Stock = ₦411,650 - ₦356,700 = ₦54,950",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1281,
+    "question": "Amin Ltd. Creditor Ledger Control Account (Extracts)\n\nBeginning control account\nBalance: Debit 32,000\nCredit 61,000\nPurchases during the year:\nCash 30,000\nCredit 60,000\nPayment to suppliers:\nCash 13,000\nCheque 29,000\nDebtor's contra 6,000\nThe closing control account balance is",
+    "option": {
+      "a": "₦ 41,000",
+      "b": "₦65,000",
+      "c": "₦71,000",
+      "d": "₦77,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Opening Balance:\n\nNet opening balance = Credit ₦61,000 - Debit ₦32,000 = ₦29,000 (Credit)\n\nAdditions to Creditors (Credit side):\n\nCredit purchases: ₦60,000\nTotal credits = ₦29,000 + ₦60,000 = ₦89,000\n\nReductions to Creditors (Debit side):\n\nCash payments: ₦13,000\nCheque payments: ₦29,000\nDebtor's contra: ₦6,000\nTotal debits = ₦13,000 + ₦29,000 + ₦6,000 = ₦48,000\n\nClosing Balance:\nClosing balance = Total Credits - Total Debits\nClosing balance = ₦89,000 - ₦48,000 = ₦41,000 (Credit)",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -13072,6 +13280,22 @@
     "examyear": "1998"
   },
   {
+    "id": 1368,
+    "question": "An advantage of the use of the voucher system is that it?",
+    "option": {
+      "a": "reduces the number of cheques that will be writen during any given period",
+      "b": "provides a highly flexible system for handling unusual transactions",
+      "c": " provides a comprehensive record of business done with particular suppliers",
+      "d": " ensure that every expenditure is reviewed and verified before payment is made"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The voucher system is an internal control mechanism used to authorize and verify expenditures before payments are made. It typically involves preparing a voucher that summarizes the details of a transaction (invoice, purchase order, receipts, etc.) and requires approval before issuing payment.\n\nThis process:\n\nEnsures accuracy\n\nPrevents unauthorized spending\n\nProvides an audit trail",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
     "id": 1369,
     "question": "A business transaction is recorded in the books of account when the?",
     "option": {
@@ -13644,6 +13868,22 @@
     "image": "",
     "answer": "c",
     "solution": "Source documents are the original records of business transactions (such as invoices, receipts, bank statements, purchase orders, etc.) from which accounting entries are made.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1419,
+    "question": "The document that is used to acknowledge the acceptance of the return of goods by the seller from the buyer is known as",
+    "option": {
+      "a": "credit note",
+      "b": "debit note",
+      "c": "invoice",
+      "d": "voucher"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A credit note is issued by the seller to the buyer to formally acknowledge and record the return of goods, indicating that the buyer’s account has been credited for the value of the returned items.",
     "examtype": "utme",
     "examyear": "1997"
   },
