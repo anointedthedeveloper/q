@@ -12912,6 +12912,22 @@
     "examyear": "2021"
   },
   {
+    "id": 820,
+    "question": "Use the information below to answer this question\n\nA company advertised and issued 750,000, 12% preference shares of N1 each to be issued ₦1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on prorata basis.\n\nThe share premium account would be",
+    "option": {
+      "a": "credited with application and allotment ₦187,500",
+      "b": "debited with application and allotment ₦375,000",
+      "c": "debited with application and allotment ₦187,500",
+      "d": " credited with application and allotment ₦375,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Solution (linear):\nTotal shares issued = 750,000\nIssue price per share = ₦1.50 (₦1 ordinary + ₦0.50 premium)\nTotal share premium = 750,000 × ₦0.50 = ₦375,000\n\nSince the entire premium is called up (on allotment) and fully received, the Share Premium Account is credited with ₦375,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 821,
     "question": "Use the information below to answer this question\n\nA company advertised and issued 750,000, 12% preference shares of N1 each to be issued ₦1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on prorata basis.\n\nThe second final call account was debited with",
     "option": {
@@ -14028,6 +14044,22 @@
     "image": "",
     "answer": "c",
     "solution": "Dividends are a part of a public company's profit that is distributed to shareholders. It is a way for companies to distribute a portion of their earnings back to their shareholders. Public issue, bonus, and right issue are not parts of a company's profit that belong to the shareholders.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 892,
+    "question": "Accounting entry for dissolution expenses is",
+    "option": {
+      "a": "Dr : Partnership account ;Cr: Realization account",
+      "b": "Dr: Revaluation account; Cr: Partnership account",
+      "c": "Dr: Realization account; Cr: Cash account",
+      "d": "Dr: Partners current account; Cr: Realization account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When dissolution expenses are paid, the Realization account is debited because it represents the expenses related to the dissolution of the partnership. The Cash account is credited because cash is going out of the business to pay for these expenses. Hence, the correct accounting entry is 'Dr: Realization account; Cr: Cash account'.",
     "examtype": "utme",
     "examyear": "2023"
   },
