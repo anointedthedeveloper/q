@@ -6256,6 +6256,22 @@
     "examyear": "2007"
   },
   {
+    "id": 467,
+    "question": "If y = (1 + x)<sup>2</sup>, find dy/dx",
+    "option": {
+      "a": "x - 1",
+      "b": "2 + 2x",
+      "c": " 1 + 2x",
+      "d": "2x - 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If y = (1 + x)<sup>2</sup>, find dy/dx\n\n\ny = (1 + x)<sup>2</sup>\n\ndy/dx\n = 2(1 + x)\n\n= 2 + 2x",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 468,
     "question": "The sum of the ages of Musa and Lawal is 28 years. After sharing a certain sum of money in the ratio of their ages, Musa gets N600 and Lawal N800. How old is Lawal?",
     "option": {
@@ -12640,6 +12656,22 @@
     "examyear": "2019"
   },
   {
+    "id": 996,
+    "question": "The nth term of a sequence is given by 2<sup>(2n−1)</sup>. Find the sum of the first four terms.",
+    "option": {
+      "a": "74",
+      "b": "32",
+      "c": "42",
+      "d": "170"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "T<sub>n</sub> = 2<sub>(2n−1)</sub>\n \nT<sub>1</sub> = 2<sup>(2(1)−1</sup>\n= 2\n\nT<sub>2</sub> = 2<sup>(2(2)−1)</sup>\n= 8\n\nT<sub>3</sub> = 2<sup>(2(3)−1)</sup>\n= 32\n\nT<sub>4</sub> = 2<sup>(2(4)−1)</sup>\n= 128\n\nT<sup>1</sup>+T<sup>2</sup>+T<sup>3</sup>+T<sup>4</sup> = 2 + 8 + 32 + 128\n= 170",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 997,
     "question": "Integrate ∫<sub>(-1)</sub><sup>2</sup>(2x<sup>2</sup> + x)dx",
     "option": {
@@ -12684,6 +12716,22 @@
     "image": "",
     "answer": "c",
     "solution": "200 mangoes at 4 for N2.50\n\n⟹\n Total cost price = 200/4 × N2.50\n= N 125.00\n\nSince 30 mangoes got spoilt ⟹\n Left over = 200 - 30\n\n= 170 mangoes \n\n170 mangoes at 2 for N 2.40\n\n⟹\n Total selling point = 170/2×N2.40\n= N 204.00\n\nProfit : N (204.00 - 125.00) = N 79.00\n\n% profit = 79/125×100\n= 63.2% profit.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1000,
+    "question": "The simple interest on ₦8550 for 3 years at x% per annum is ₦4890. Calculate the value of x to the nearest whole number.",
+    "option": {
+      "a": "19%",
+      "b": "20%",
+      "c": "25%",
+      "d": "16.3%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "S.I = PR/T100\n⟹ N 4890 = (8550 × 3 × x)/100\nx = (4890 × 100)/(8550×3)\nx=19.06\nx≊19",
     "examtype": "utme",
     "examyear": "2019"
   },
