@@ -2192,6 +2192,22 @@
     "examyear": "1997"
   },
   {
+    "id": 213,
+    "question": "The art of collecting, recording, presenting and interpreting accounting data is",
+    "option": {
+      "a": "cost accounting",
+      "b": "management accounting",
+      "c": "financial accounting",
+      "d": "data processing."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 214,
     "question": "The depreciation method in which the number of years of the useful life of an asset is allocated in a reverse order is",
     "option": {
@@ -3504,6 +3520,22 @@
     "examyear": "2014"
   },
   {
+    "id": 349,
+    "question": "Which of the following subsidiary books involves cash movement?",
+    "option": {
+      "a": "Sales day book",
+      "b": "Purchases day book",
+      "c": "Returns inwards book",
+      "d": "Petty cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 351,
     "question": "Net turnover is referred to as",
     "option": {
@@ -4491,6 +4523,22 @@
     "section": "Lighting [N2, 925]; Rent [ N2, 640]; Salary [N4, 050] The expenses are for three different products: Zema, Zeta and Zera. They are apportioned on the basis of production. 4500 units of the products are produced, out of which 1260 and 2060 units are for Zema and Zeta respectively.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 452,
+    "question": "Find the salary charged to Zera product.",
+    "option": {
+      "a": "N 1 854",
+      "b": "N 1 845",
+      "c": "N 1 062",
+      "d": "N 1 134."
+    },
+    "section": "Lighting [N2, 925]; Rent [ N2, 640]; Salary [N4, 050] The expenses are for three different products: Zema, Zeta and Zera. They are apportioned on the basis of production. 4500 units of the products are produced, out of which 1260 and 2060 units are for Zema and Zeta respectively.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -6480,6 +6528,22 @@
     "examyear": "2017"
   },
   {
+    "id": 650,
+    "question": "Given:\nI. Settlement of debts\nII. Cessation of business\nIII. Introduction of assets\nIV. Disposal of assets\nWhich of these constitutes dissolution of partnership?",
+    "option": {
+      "a": "II and IV only",
+      "b": " I, II and IV only",
+      "c": " I, II and III only",
+      "d": " II, III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dissolution of partnership business simply means the break up of partnership business and which are caused by many factors\nII,III and IV: disposal of asset does not constitute dissolution",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 651,
     "question": "The use of a three column cash book is determined by",
     "option": {
@@ -8240,6 +8304,22 @@
     "examyear": "2021"
   },
   {
+    "id": 837,
+    "question": "Use the information below to answer this question\nAt the end of a financial period, the trading profit and loss account of a sole trader shows a profit of \n₦180,000 it is however discovered that revenue of \n₦15,000 is recorded as expenses while expenses of\n₦4,000 is recorded as revenue.\n\nThe revenue to be added as an adjustment is",
+    "option": {
+      "a": " ₦34,000",
+      "b": "₦4,000",
+      "c": "₦30,000",
+      "d": " ₦15,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The revenue that was wrongly recorded as an expense (and therefore needs to be added back) is ₦15,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 838,
     "question": "The principle of double entry system ensures",
     "option": {
@@ -9276,6 +9356,22 @@
     "image": "",
     "answer": "a",
     "solution": "Purchase consideration is the amount that's received by the vendor company (Seller) for the assets and liabilities takeover by the purchasing company in exchange for cash or in other forms, such as issuing shares or other securities.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 951,
+    "question": "The basic accounting equation is",
+    "option": {
+      "a": "Assets = Liabilities + Owner’s Equity",
+      "b": "Assets + Expenses = Liabilities + Equity",
+      "c": "Assets + Liabilities = Owner's Equity",
+      "d": " Revenue - Expenses = Profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fundamental accounting equation is:\nAssets = Liabilities + Owner’s Equity",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -11260,6 +11356,22 @@
     "image": "",
     "answer": "a",
     "solution": "Total expenses = ₦350 + ₦335 + ₦265 = ₦950.\nSo the imprest must be replenished by ₦950.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1168,
+    "question": "Miscellaneous expenses is 10% of revenue.\nCalculate the net income",
+    "option": {
+      "a": "₦583,000",
+      "b": "₦563,000",
+      "c": "₦483,000",
+      "d": "₦683,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665330/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q4_vqhypu.png",
+    "answer": "a",
+    "solution": "Step 1: Calculate Miscellaneous Expenses\nMiscellaneous expenses = 10% × ₦820,000 = ₦82,000\nStep 2: Calculate Total Expenses\nTotal Expenses = Office rent + NEPA + Salary + Miscellaneous expenses\nTotal Expenses = ₦20,000 + ₦15,000 + ₦120,000 + ₦82,000\nTotal Expenses = ₦237,000\nStep 3: Calculate Net Income\nNet Income = Revenue - Total Expenses\nNet Income = ₦820,000 - ₦237,000\nNet Income = ₦583,000",
     "examtype": "utme",
     "examyear": "2002"
   },
