@@ -2832,6 +2832,22 @@
     "examyear": "2009"
   },
   {
+    "id": 487,
+    "question": "Calculate the balance as per bank statement at the end of the year",
+    "option": {
+      "a": "24,700",
+      "b": "25,200",
+      "c": "26,200",
+      "d": "27,700"
+    },
+    "section": "Given: Balance as per cash book [N20,000 ]; Unpresented cheques [N 5,200 ]; Direct credit to the bank [\t  N 1,000 ]; \tDirect debit from the bank [N 1,000 ]; Credit in the cash book [N 500 ]",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 490,
     "question": "Which of the following items are current assets?",
     "option": {
@@ -3052,6 +3068,22 @@
     "image": "",
     "answer": "b",
     "solution": "The standard “recovery of a previously written-off debt” entry is:\n\nReinstate the debtor: Debit Debtors Control Account\n\nRecognize the income: Credit Bad Debts Recovered Account\n\nSo the debit entry is against the Debtors Control Account.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 539,
+    "question": "The act of making necessary adjustment after comparing the actual cost with targeted cost is cost ----------------------------",
+    "option": {
+      "a": "conversion",
+      "b": "control",
+      "c": "allocation",
+      "d": "analysis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The process of reviewing actual costs against targeted (or budgeted) costs and then making the necessary corrective adjustments is known as cost control.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3612,6 +3644,22 @@
     "image": "",
     "answer": "b",
     "solution": "contra entry is used to offset amount or same transaction against another on both side of the cashbook",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 627,
+    "question": "Processed data is only useful to user if it is",
+    "option": {
+      "a": "complex",
+      "b": "quantitative",
+      "c": "relevant",
+      "d": "qualitative"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "first thing to be considered when gathering data is the relevant and usefulness of the data or information before considering the qualitative aspect and other things\nRelevant : even if the information of data is not processed, if the processed data is relevant, it will be useful to the user",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4220,6 +4268,22 @@
     "image": "",
     "answer": "b",
     "solution": "When a proprietor withdraw cash for private use, himself or owner's use, it is regarded as drawings.\nThe account involve is cash and drawings account. Therefore, the cash account gives while the drawings account receives.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 757,
+    "question": "A rent of ₦50,000 was paid by samson to his landlady by cheque. The double entry in Samson's book is\n",
+    "option": {
+      "a": " Debit rent account, Credit bank account",
+      "b": "Debit Rent account, Credit Samson's account",
+      "c": "Debit Bank account, Credit Rent account",
+      "d": "Debit Samson's account, Credit Rent account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Since Rent is receiving then rent account is debited while Samson's account is credited because it is giving out.",
     "examtype": "utme",
     "examyear": "2019"
   },
