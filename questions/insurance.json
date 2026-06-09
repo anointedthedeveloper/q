@@ -1,5 +1,309 @@
 [
   {
+    "id": 5,
+    "question": "The  type  of  cover  that  is  designed  against  loss  of earnings following loss caused by fire and special perils is",
+    "option": {
+      "a": "product guarantee insurance",
+      "b": "materials damage cover",
+      "c": "fire damage policy",
+      "d": "consequential loss cover"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 28,
+    "question": "Family income option in a life policy provides that",
+    "option": {
+      "a": "the beneficiary will be paid for life",
+      "b": "the beneficiary receives the policy sum",
+      "c": "interest will be added monthly",
+      "d": "salary will be paid to the insured until death"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 32,
+    "question": "A contract sold  by  insurance companies that  pay  a monthly or  quarterly income  benefit for the  life  of a person is",
+    "option": {
+      "a": "endowment",
+      "b": "annuity",
+      "c": "income",
+      "d": "freight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 36,
+    "question": "The professional service required for effective claims administration by insurers would be provided by",
+    "option": {
+      "a": "loss assessors",
+      "b": "risk managers",
+      "c": "loss adjusters",
+      "d": "claims consultants"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is a risk covered in endowment assurance?",
+    "option": {
+      "a": "Permanent disability",
+      "b": "Bodily injury",
+      "c": "Temporary disability",
+      "d": "Death cover"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 64,
+    "question": "Which of these is an aid to trade?",
+    "option": {
+      "a": "cover note",
+      "b": "insurance",
+      "c": "premium",
+      "d": "policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 67,
+    "question": "Insurance contract is between",
+    "option": {
+      "a": "Broker and Agent",
+      "b": "Insured and Insurer",
+      "c": "Insurer  and Agent",
+      "d": "Insured and Agent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 82,
+    "question": "The cause of a loss is known as",
+    "option": {
+      "a": "Risk",
+      "b": "Peril",
+      "c": "Hazard",
+      "d": "Moral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 86,
+    "question": "Another name for utmost good faith is",
+    "option": {
+      "a": "cadent",
+      "b": "cede",
+      "c": "ex gratia",
+      "d": "uberrimae fidei"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 93,
+    "question": "Subrogation principle can be applied in the following insurance policies except in",
+    "option": {
+      "a": "aviation policy",
+      "b": "engineering policy",
+      "c": "life policy",
+      "d": "marine policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is non- insurable risk?",
+    "option": {
+      "a": "Gambling",
+      "b": "Accident",
+      "c": "Fire",
+      "d": "Theft"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 114,
+    "question": "One of the essential features of insurance contract is",
+    "option": {
+      "a": "Premium",
+      "b": "Subrogation",
+      "c": "Interest",
+      "d": "Disclosure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 128,
+    "question": "The continuation of insurance contract after expiration is",
+    "option": {
+      "a": "Renewal",
+      "b": "Revival",
+      "c": "Resuscitation",
+      "d": "Rejuvenation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 130,
+    "question": "One of the following is the duty of the insured in insurance claim process",
+    "option": {
+      "a": "Late report of the loss",
+      "b": "Little idea of the loss size",
+      "c": "Quick report of the loss",
+      "d": "Hiding fact"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 137,
+    "question": "The sum paid for transporting the goods or for the hire of a ship is called",
+    "option": {
+      "a": "Marine cargo",
+      "b": "Freight insurance",
+      "c": "Hull insurance",
+      "d": "Risk insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 138,
+    "question": "The duty of the loss adjuster in insurance claims is to",
+    "option": {
+      "a": "Make loss",
+      "b": "Prevent loss",
+      "c": "Safeguard loss",
+      "d": "Recommend appropriate payment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 141,
+    "question": "The acronym “CllN” refers to",
+    "option": {
+      "a": "Certified insurance institute",
+      "b": "Certified insured institute",
+      "c": "Certified international institute",
+      "d": "Chartered insurance institute"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 152,
+    "question": "The uncertainty of an event occurring is known as",
+    "option": {
+      "a": "Hazard",
+      "b": "Risk",
+      "c": "Loss",
+      "d": "Accident"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 155,
+    "question": "------------ is the protection which the insured buys for his risk",
+    "option": {
+      "a": "Indemnity",
+      "b": "Compensation",
+      "c": "Cover",
+      "d": "Subrogation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 158,
     "question": "The cause of a loss is known as",
     "option": {
@@ -11,6 +315,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 161,
+    "question": "------------- is a policy designed to place the insured in the same financial position as he was immediately before the happening of the event insured against",
+    "option": {
+      "a": "Indemnity",
+      "b": "Subrogation",
+      "c": "Surrender value",
+      "d": "Actuary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 191,
+    "question": "Cover note usually run for about",
+    "option": {
+      "a": "21 days",
+      "b": "one month",
+      "c": "12 months",
+      "d": "3 month"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -32,6 +368,22 @@
     "examyear": "3"
   },
   {
+    "id": 201,
+    "question": "Insurance is defined as",
+    "option": {
+      "a": "risking of loss",
+      "b": "pooling of risk",
+      "c": "gathering of risk",
+      "d": "waiving of risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 215,
     "question": "With insurance contract there is",
     "option": {
@@ -48,6 +400,134 @@
     "examyear": "4"
   },
   {
+    "id": 235,
+    "question": "Proposal form is not applicable to the following except",
+    "option": {
+      "a": "aviation",
+      "b": "engineering",
+      "c": "large risk of fire",
+      "d": "fidelity guarantee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 239,
+    "question": "The part of a policy form that shows the name and address of the company is known as",
+    "option": {
+      "a": "heading",
+      "b": "conclusion",
+      "c": "condition",
+      "d": "preamble"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 252,
+    "question": "Subrogation in insurance means that",
+    "option": {
+      "a": "the insured could not make a profit from the insurer",
+      "b": "the insured must be fully indemnified",
+      "c": "the insurer must take the place of the insured",
+      "d": "the insured should pool their risks"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 258,
+    "question": "One of the following is necessary to meet uncertainties in future",
+    "option": {
+      "a": "profit",
+      "b": "capital",
+      "c": "borrowing",
+      "d": "insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 263,
+    "question": "Replacement of damaged property by the insurance company is",
+    "option": {
+      "a": "arbitration",
+      "b": "negotiation",
+      "c": "Re-instatement",
+      "d": "rectification"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 264,
+    "question": "A reminder to the insured who may have forgotten to seek for continuation after his policy expiry date is",
+    "option": {
+      "a": "notification message",
+      "b": "renewal notice",
+      "c": "registration notice",
+      "d": "agreement notice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 275,
+    "question": "A contract which has no legal effect is called",
+    "option": {
+      "a": "void policy",
+      "b": "voidable policy",
+      "c": "legal policy",
+      "d": "formal policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 278,
+    "question": "Physical loss of limbs or total blindness injury is an example of",
+    "option": {
+      "a": "permanent disablement",
+      "b": "temporary disablement",
+      "c": "mid-term disablement",
+      "d": "total disablement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 307,
     "question": "A fire insurance policy guaranteed by the insured to be in place for a stated period with a particular insurer is granted a _____________",
     "option": {
@@ -55,6 +535,54 @@
       "b": "fleet discount",
       "c": "long - term agreement discount",
       "d": "plurality discount"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 311,
+    "question": "Which  of  the  following  statements  is  true  about property insurance?",
+    "option": {
+      "a": "The probability that the event may occur",
+      "b": "The probability that the event will not occur",
+      "c": "The probability that the event may or may not occur",
+      "d": "The probability that the event must occur"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 331,
+    "question": "A motorist travelling from Ghana to Nigeria would be required to obtain one of the following types of motor insurance cover",
+    "option": {
+      "a": "green card",
+      "b": "brown card",
+      "c": "yellow card",
+      "d": "purple card"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 335,
+    "question": "Who  among  the  following  is  an  employer  of  loss adjuster?",
+    "option": {
+      "a": "Insurer",
+      "b": "Broker",
+      "c": "Insured",
+      "d": "Agent"
     },
     "section": "",
     "image": "",
