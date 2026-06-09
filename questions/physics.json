@@ -5632,6 +5632,22 @@
     "examyear": "2019"
   },
   {
+    "id": 368,
+    "question": "A metal rod has a length of 100cm at 200°C. At what temperature will its length be 99.4cm, if the linear expansivity of the material of the rod is 2 × 10⁻⁵ °C⁻¹?",
+    "option": {
+      "a": "300°C",
+      "b": "200°C",
+      "c": "100°C",
+      "d": "-100°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial length (L₁) = 100 cm at temperature T₁ = 200°C\nFinal length (L₂) = 99.4 cm at temperature T₂ = ?\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\n\nFormula for linear expansion:\nL₂ = L₁[1 + α(T₂ - T₁)]\nSubstituting values:\n99.4 = 100[1 + 2 × 10⁻⁵(T₂ - 200)]\nDividing by 100:\n0.994 = 1 + 2 × 10⁻⁵(T₂ - 200)\nRearranging:\n0.994 - 1 = 2 × 10⁻⁵(T₂ - 200)\n-0.006 = 2 × 10⁻⁵(T₂ - 200)\nSolving for (T₂ - 200):\n(T₂ - 200) = -0.006/(2 × 10⁻⁵)\n(T₂ - 200) = -0.006/0.00002\n(T₂ - 200) = -300\nTherefore:\nT₂ = -300 + 200\nT₂ = -100°C",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 369,
     "question": "The lead-acid accumulator consists of",
     "option": {
@@ -12092,6 +12108,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nDiameter (d) = 1.00 mm = 1.00 × 10⁻³ m\nLength (L) = 2.00 m\nResistance (R) = 0.1 Ω\nResistivity (ρ) = ?\n\nStep 1: Calculate cross-sectional area\nRadius (r) = d/2 = 0.5 × 10⁻³ m = 5 × 10⁻⁴ m\nArea (A) = πr²\nA = π × (5 × 10⁻⁴)²\nA = π × 25 × 10⁻⁸\nA = 3.14159 × 25 × 10⁻⁸\nA = 78.54 × 10⁻⁸\nA = 7.854 × 10⁻⁷ m²\nStep 2: Use resistance formula\nR = ρL/A\nRearranging for resistivity:\nρ = RA/L\nSubstituting values:\nρ = (0.1 × 7.854 × 10⁻⁷)/2.00\nρ = (0.7854 × 10⁻⁷)/2.00\nρ = 0.3927 × 10⁻⁷\nρ = 3.927 × 10⁻⁸ Ωm\nρ ≈ 3.93 × 10⁻⁸ Ωm",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 793,
+    "question": "A 40kW electric cable was used to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is",
+    "option": {
+      "a": " 4.0 × 10² W",
+      "b": "5.0 × 10² W",
+      "c": " 4.0 × 10³ W",
+      "d": "5.0 × 10³ W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPower transmitted (P) = 40 kW = 40,000 W\nResistance of cable (R) = 2.00 Ω\nVoltage (V) = 800 V\nPower loss = ?\n\nStep 1: Calculate current in the cable\nUsing P = VI:\nI = P/V\nI = 40,000/800\nI = 50 A\nStep 2: Calculate power loss in the resistor\nPower loss occurs due to the resistance of the cable:\nP_loss = I²R\nSubstituting values:\nP_loss = (50)² × 2.00\nP_loss = 2500 × 2.00\nP_loss = 5000 W\nP_loss = 5.0 × 10³ W",
     "examtype": "utme",
     "examyear": "2007"
   },
