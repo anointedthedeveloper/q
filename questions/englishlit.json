@@ -3328,6 +3328,22 @@
     "examyear": "2015"
   },
   {
+    "id": 220,
+    "question": "“We two” are",
+    "option": {
+      "a": "Antonio and Adrian",
+      "b": "Sebastian and Adrian",
+      "c": "Sebastian and Francisco",
+      "d": "Antonio and Sebastian"
+    },
+    "section": "WILLIAM SHAKESPEARE: The Tempest<br><br> \t\t<strong>X:</strong> We two, my lord,<br> \t\t\tWill guard your person while you take your rest, <br> \t\t\tAnd watch your safety. <br> \t\t\t<br> \t\t<strong>Y:</strong> Thank you. - Wondrous heavy. <br> \t\t\t(Act II, Scene One, lines 184 - 187)",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 222,
     "question": "What has happened to all the other characters in the scene?",
     "option": {
@@ -4187,6 +4203,22 @@
     "section": "Based on Ferdinand Oyono’s The Old Man and the Medal.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 277,
+    "question": "“ ‘ By my mother!’ said Engamba. The night rat doesn’t tell what happened to him in the dark! Men are born and die...”  In the statement above, The night rat doesn’t tell what happened to him in the dark! refers to",
+    "option": {
+      "a": "the Whiteman’s treatment of Meka",
+      "b": "Meka’s treatment of the medal in the whitewashed circle",
+      "c": "people’s unwillingness to talk about how Whiteman treat them",
+      "d": "people’s freedom of expression."
+    },
+    "section": "Based on Ferdinand Oyono’s The Old Man and the Medal.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -6841,6 +6873,22 @@
       "d": "Justice odili and Ayo"
     },
     "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 448,
+    "question": "Maligu and Soko abduct ___________ for whitehead",
+    "option": {
+      "a": "Kindo",
+      "b": "Wara",
+      "c": "Santigi",
+      "d": "Baliha"
+    },
+    "section": "Questions 7 to 8 are based on Dele Charley's \"The Blood of a Stranger\"",
     "image": "",
     "answer": "b",
     "solution": "",
