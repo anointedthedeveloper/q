@@ -4096,6 +4096,22 @@
     "examyear": "2004"
   },
   {
+    "id": 300,
+    "question": "Find the remainder when 3x<sup>3</sup> + 5x<sup>2</sup> - 11x + 4 is divided by x + 3",
+    "option": {
+      "a": "-4",
+      "b": "4",
+      "c": " 1",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "x = -3\nsubstitute x = -3 in 3x<sup>3</sup> + 5x<sup>2</sup> - 11x + 4\n3(-3)<sup>3</sup> + 5(-3)<sup>2</sup> - 11(-3) + 4\n-81 + 45 + 33 + 4\n-81 + 82\n= 1",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 302,
     "question": "Factorize completely ac - 2bc - a + 4b<sup>2</sup>",
     "option": {
@@ -9740,6 +9756,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716130383/ALOC-Questions/Mathematics/2012/2012_MATH_JAMB_Q40_bmsqud.jpg",
     "answer": "c",
     "solution": "Equation of the line\n\ny − 4/x−0 = 0−4/1−0\ny − 4/x = −4/1\n∴ −4x = y −4\ny = −4x + 4\n∴ The shaded portion = y ≤ −4x + 4",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 761,
+    "question": "In diagram above, QR//TU, < PQR = 80° and < PSU = 95°. Calculate < SUT.",
+    "option": {
+      "a": "15°",
+      "b": "25°",
+      "c": "30°",
+      "d": "80°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716130406/ALOC-Questions/Mathematics/2012/2012_MATH_JAMB_Q41_pd4u9c.jpg",
+    "answer": "a",
+    "solution": "< PQR = < PTU = 80°\n\n< TSU = 85°\n\nx = 180° - (80° + 85°)\n\n= 15°",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -15772,6 +15804,22 @@
     "image": "",
     "answer": "c",
     "solution": "=log<sub>2</sub> (8 × 16)/4\n\n\n=log<sub>2</sub> 32\n\n=log<sub>2</sub> 2<sup>5</sup> \n\n\n=5log<sub>2</sub>2 \n\n\n= 5 × 1\n\n\n= 5",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1195,
+    "question": "If P = {1,2,3,4,5} and P ∪\n Q = {1,2,3,4,5,6,7}, list the elements in Q",
+    "option": {
+      "a": "{6}",
+      "b": "{7}",
+      "c": " {6,7}",
+      "d": "{5,6}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Q = (P ∪ Q) - P\n{6,7}",
     "examtype": "utme",
     "examyear": "2014"
   },
