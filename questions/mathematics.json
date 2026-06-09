@@ -336,6 +336,22 @@
     "examyear": "2007"
   },
   {
+    "id": 24,
+    "question": "Evaluate x in base 3 if 41x-22x=17x. ",
+    "option": {
+      "a": "11",
+      "b": "8",
+      "c": "12",
+      "d": "22"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 25,
     "question": "When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ",
     "option": {
@@ -4732,6 +4748,22 @@
     "image": "",
     "answer": "d",
     "solution": "Tan θ = 5√3/5\nTan θ = √3\nθ = 60°",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 314,
+    "question": "The shaded area in the diagram above is represented by",
+    "option": {
+      "a": " {(x,y) : y - 3x < -6}",
+      "b": "{(x,y) : y + 3x < 6}",
+      "c": "{(x,y) : y + 3x < -6}",
+      "d": "{(x,y) : y - 3x < 6}"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700865/ALOC-Questions/Mathematics/2004/math_2004_q43_clgveq.jpg",
+    "answer": "b",
+    "solution": "Coordinates of the line are (x1 y1)(0,2) respectively and (x2 y2)(2,0) respectively\nGradient (m) of the line = (y2 - y1) / (x2 - x1) = (0-6) / (2-0) = -6/2\n= -3\nEquation of the line y-y1 = m(x-x1)\ny - 6 = -3(x - 0)\ny - 6 = -3x\ny + 3x = 6\ninequality; from the y axis, the shaded region is below the line\n∴ y + 3x ∠ 6 and line is a broken line",
     "examtype": "utme",
     "examyear": "2004"
   },
