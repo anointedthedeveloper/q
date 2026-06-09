@@ -544,6 +544,22 @@
     "examyear": "2012"
   },
   {
+    "id": 44,
+    "question": "A company provided the following information about its balance sheet: Cash N100 Accounts receivable N500 Stockholders' equity 14700 Account payable N200 Bank loans Nl000 Based on the information provided, how much are Remington's liabilities?",
+    "option": {
+      "a": "N200   ",
+      "b": "N900   ",
+      "c": "N 1,200   ",
+      "d": "N 1,700"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 45,
     "question": "A complete set of financial statements for Hartman Company, at December 31, 1999, would include each of the following except:",
     "option": {
@@ -2720,6 +2736,22 @@
     "examyear": "1997"
   },
   {
+    "id": 202,
+    "question": "The person, who is responsible for the formation of a company is called the",
+    "option": {
+      "a": "promoter",
+      "b": "sponsor",
+      "c": "shareholder",
+      "d": "director"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 204,
     "question": "Which of the following best describes the path of a transaction?",
     "option": {
@@ -4368,6 +4400,22 @@
     "examyear": "2015"
   },
   {
+    "id": 328,
+    "question": "The accounting concept that assumes that a business will continue operating for an indefinite period is",
+    "option": {
+      "a": "business entity",
+      "b": "going concern",
+      "c": "consistency",
+      "d": "duality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 329,
     "question": "The accounting concept that states that a firm’s financial affairs must be separated from that of the owner’s private transactions is",
     "option": {
@@ -4747,6 +4795,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 367,
+    "question": "Which of the following is not an administrative expenses in a \tmanufacturing organization?",
+    "option": {
+      "a": "Discounts allowed",
+      "b": "Office electricity",
+      "c": "Stationery",
+      "d": "Insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -5856,6 +5920,22 @@
     "examyear": "2007"
   },
   {
+    "id": 456,
+    "question": "The federal government approved  N 140 m to local governments W, X, Y and Z. The amount is to be shared on the basis of 40% equality. 35% population and 25% internal revenue generation. Calculate the share of local government W on equality.",
+    "option": {
+      "a": "N 35 m",
+      "b": "N 14 m .",
+      "c": "N 56 m",
+      "d": "N 28 m."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 457,
     "question": "Stock valuation is useful because it informs the sales department on the",
     "option": {
@@ -6583,6 +6663,22 @@
       "b": "capital receipt",
       "c": "capital expenditure",
       "d": "revenue expenditure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 513,
+    "question": "Which of the following is credited to the consolidated revenue fund?",
+    "option": {
+      "a": "Recurrent expenditure",
+      "b": "Capital expenditure",
+      "c": "Transfers to revenue fund",
+      "d": "Internal revenue"
     },
     "section": "",
     "image": "",
@@ -7484,6 +7580,22 @@
     "image": "",
     "answer": "a",
     "solution": "A receipt is a written acknowledgment of having received, or taken into one's possession, a specified amount of money, goods, etc. ",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 579,
+    "question": "Turaki Youth Club Income and Expenditure for the year ended 31/12/04. The following items were recorded: Balance brought down ₦390, Sales of tickets ₦4,000, Donations ₦3,000, Subscription ₦6,500, Expenses on cleaning ₦300, New tool ₦510, Repairs ₦400, and Electricity ₦350.\nWhat is the total income for the period?",
+    "option": {
+      "a": "₦10,500",
+      "b": "₦13,500",
+      "c": "₦13,890",
+      "d": "₦9,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Calculation:\nTotal Income = Sales of tickets + Donations + Subscription\nTotal Income = 4,000 + 3,000 + 6,500 = ₦13,500",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -15520,6 +15632,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1213,
+    "question": "Upon the dissolution of a partnership, the Partnership Act provides that the amount realized should be?",
+    "option": {
+      "a": "used to pay all taxes due to government",
+      "b": " used to start a new partnership business by members who are willing",
+      "c": "shared equally by the existing partners",
+      "d": "used in paying the debts and liabilities of the firm to persons who are not partners"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: Under the Partnership Act, upon dissolution, assets are first used to pay debts to outside creditors (non-partners) before settling partners’ loans and capital, and finally distributing any surplus to partners.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1214,
     "question": "In the public sector, the method of accounting that reports revenues and expenditures in the period in which they are received and paid is called?",
     "option": {
@@ -18364,6 +18492,22 @@
     "image": "",
     "answer": "b",
     "solution": "The full ₦50,000 was originally charged to Rent Expense.\n\nAt 31 Dec 1993, ₦35,417 of that relates to future periods (prepaid).\n\nTo move that unexpired portion off the expense and onto the balance sheet, you debit Prepaid Rent and credit Rent Expense.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1430,
+    "question": "The receipt of cash from a customer who bought goods with ₦800 list price, 25% trade discount and 2/10, n/30 terms would, if paid within the discount period, amount to",
+    "option": {
+      "a": "₦576",
+      "b": "₦588",
+      "c": "₦600",
+      "d": "₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Net after trade discount:\n\n₦800 × (1−0.25) = ₦600\n\nThen 2% cash discount on ₦600:\n\n₦600 × 0.02 = ₦12\nAmount paid = ₦600 − ₦12 = ₦588",
     "examtype": "utme",
     "examyear": "1997"
   },
