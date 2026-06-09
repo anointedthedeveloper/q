@@ -752,6 +752,22 @@
     "examyear": "2001"
   },
   {
+    "id": 164,
+    "question": "The histogram above shows the distribution of passengers in taxis of a certain motor park. How many taxis have more than 4 passengers",
+    "option": {
+      "a": "16",
+      "b": "17",
+      "c": "14",
+      "d": "15"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696703/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_43_ohk92h.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 167,
     "question": "In the figure PQR a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, < SRQ is 75° and < QPT IS 25°. Calculate the value of < RST",
     "option": {
@@ -1024,6 +1040,22 @@
     "examyear": "2003"
   },
   {
+    "id": 231,
+    "question": "The sum of four numbers is 1214<sub>5</sub>\n. What is the average expressed in base five?",
+    "option": {
+      "a": " 114",
+      "b": "141",
+      "c": "401",
+      "d": "411"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Convert to base 10, divide and then re-convert to base 5.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 235,
     "question": "The graph of the function y = x<sup>2</sup> + 4 and a straight line PQ are drawn to solve the equation x<sup>2</sup>\n - 3x + 2 = 0. What is the equation of PQ?",
     "option": {
@@ -1036,6 +1068,22 @@
     "image": "",
     "answer": "b",
     "solution": "x<sup>2</sup> + 4 = x<sup>2</sup>\n - 3x + 2\n3x + 2 = y",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 237,
+    "question": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0",
+    "option": {
+      "a": "-5, -4",
+      "b": " -4,. -5",
+      "c": " 4, 5",
+      "d": " 5, 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "3x - 5y + 5 = 0 → eqn1\n4x - 7y + 8 = 0 → eqn2\neqn1 * 4; 12x - 20y + 20 = 0 → eqn3\neqn2 * 3; 12x - 21y + 24 = 0 → eqn4\neqn3 - eqn4 = y - 4 = 0\n∴ y = 4\nFrom eqn1,\n3x - 5y + 5 = 0\n3x - 5(4) + 5 = 0\n3x - 20 + 5 = 0\n3x - 15 = 0\n3x = 15\nx = 5\nx and y = 5, 4 respectively",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -1216,6 +1264,38 @@
     "examyear": "2004"
   },
   {
+    "id": 285,
+    "question": "Evaluate ∫_<sub>1</sub><sup>3</sup>(X<sup>2</sup>-1)dx",
+    "option": {
+      "a": "2/3",
+      "b": "-2/3",
+      "c": "-6(2/3)",
+      "d": "6(2/3)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo data-mjx-texclass=\"OP\">&#x222B;</mo>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>1</mn>\n    </mrow>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>3</mn>\n    </mrow>\n  </msubsup>\n  <mo stretchy=\"false\">(</mo>\n  <msup>\n    <mi>X</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>&#x2212;</mo>\n  <mn>1</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mi>d</mi>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "∫<sub>1</sub><sup>3</sup>(X<sup>2</sup>-1)dx =〖[1/3 x<sup>2</sup>-x]〗<sub>1</sub><sup>3</sup>=(9-3)-(1/3-1)=6-(-2/3)=6+2/3 = 6 (2/3)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 290,
+    "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+    "option": {
+      "a": "25 ways",
+      "b": "10 ways",
+      "c": "15 ways",
+      "d": "20 ways"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In<sup>2</sup> C<sub>2</sub> ways=5!/((5-2)!2!)=5!/3!2!=(5×4×3!)/(3!×2×1)=10ways",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 291,
     "question": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group",
     "option": {
@@ -1324,6 +1404,22 @@
     "image": "",
     "answer": "c",
     "solution": "4<sup>2x</sup>  = 16\nthis implies that (3√4<sup>2x</sup>)<sup>3</sup>. 4<sup>2x</sup>  = 4<sup> 2*3</sup>\n4<sup>2x</sup>= 4<sup>6</sup>\n∴ 2x = 6\nx = 3",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 311,
+    "question": "Simplify 1/√3+2\n in the form a+b√3",
+    "option": {
+      "a": "2 -√3",
+      "b": "-2 - √3",
+      "c": "2 + √3",
+      "d": "-2 + √3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "1/(√3+2)  1/(√3+2)=1/(√3+2)×(√3-2)/(√3-2)=(√3-2)/((√3 )^2-2^2 )=(√3-2)/(3-4)=(√3-2)/1=-√3+2=2-√3",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -1612,6 +1708,22 @@
     "image": "",
     "answer": "c",
     "solution": "((a+a+1+a+2+a+3+a+4))/5 30=(5a+10)/5 30×5=5a+105a=150-105a=140a=28∴a+4=28+4=32",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 375,
+    "question": "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/3, find the value of x",
+    "option": {
+      "a": "8",
+      "b": "10",
+      "c": "4",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Black = 5\nWhite = 4\nRed = x\nTotal = 9+x\nP(red) = 2/3\nx / (9+x) = 2/5\n5x = 2(9+x)\n5x = 18+2x\n5x-2 = 18\n3x = 18\nx = 6",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -2224,6 +2336,22 @@
     "examyear": "2009"
   },
   {
+    "id": 532,
+    "question": "A polynomial in x whose roots are 4/3 and -3/5 is?",
+    "option": {
+      "a": "15x<sup>2</sup> - 11x – 12",
+      "b": " 15x<sup>2</sup> + 11x – 12",
+      "c": "12x<sup>2</sup> - x – 12",
+      "d": "12x<sup>2</sup> + 11x – 15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If 4/3 and -3/5 are roots of a polynomial\nImply x = 4/3 and - 3/5\n3x = 4 and 5x = -3\n∴3x-4 = 0 and 5x+3 = 0 are factors\n(3x-4)(5x+3) = 0 product of the factors\n15x2 + 9x – 20x – 12 = 0 By expansion\n15x2 - 11x – 12 = 0",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 535,
     "question": "Determine the value of x for which (x<sup>2</sup> - 1) > 0?",
     "option": {
@@ -2476,6 +2604,22 @@
     "image": "",
     "answer": "a",
     "solution": "If 18(p + q) = (18 + p)q\n\nthen 18p + 18q = 18q + pq\n\n18p = pq ⟹ q = 18.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 581,
+    "question": "From the diagram above, find x",
+    "option": {
+      "a": " 65°",
+      "b": "50°",
+      "c": "75°",
+      "d": "55°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128227/ALOC-Questions/Mathematics/2010/MATH_2010_Q10_d2xag1.jpg",
+    "answer": "a",
+    "solution": "∠RTS = 90° (∠ in semi circle)\n∠UTS = 25° (∠ in alternate segment)\nX + 90 + 25 = 180(sum of ∠s on a str line)\nX + 115 = 180\nX = 180 - 115\nX = 65°",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -3088,6 +3232,22 @@
     "examyear": "2013"
   },
   {
+    "id": 790,
+    "question": "If y = (2x + 2)<sup>3</sup>, find δy/δx",
+    "option": {
+      "a": "3(2x +2)<sup>2</sup>",
+      "b": "6(2x +2)",
+      "c": "3(2x +2)",
+      "d": ". 6(2x +2)<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y=(2x+2)3<sup>3</sup>\ndy/dx = 3(2x+2)<sup>3−1</sup>.2\n= 6(2x+2)<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 792,
     "question": "Find the mean of t + 2, 2t - 4, 3t + 2 and 2t.",
     "option": {
@@ -3296,6 +3456,22 @@
     "examyear": "2016"
   },
   {
+    "id": 833,
+    "question": "Calculate the range of 20, -6, 25, 30, 21, 28, 32, 33, 34, 5, 3, 2, and 1.",
+    "option": {
+      "a": "32",
+      "b": "36",
+      "c": "33",
+      "d": "40"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Range = 34 - (-6) = 34 + 6 = 40",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 842,
     "question": "Evaluate (〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2)",
     "option": {
@@ -3408,6 +3584,22 @@
     "examyear": "2016"
   },
   {
+    "id": 868,
+    "question": "From the diagram above, find the required roots/region of x.",
+    "option": {
+      "a": "x≤-1, x ≥4",
+      "b": "x≤4",
+      "c": "-1≤x≤4",
+      "d": " x≤-1, o≤x≤4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003351/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q50_crbsbj.jpg",
+    "answer": "c",
+    "solution": "The required roots/region of x is -1≤x≤4",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 871,
     "question": "If U = {x : x is an integer and 1 ≤ x ≤ 20 }\nE1 = {x: x is a multiple of 3}\nE2 = {x: x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E2",
     "option": {
@@ -3436,6 +3628,22 @@
     "image": "",
     "answer": "d",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 879,
+    "question": "Simplify 3<sup>n−1</sup> ×  (27<sup>n+1</sup>)/81<sup>n</sup>",
+    "option": {
+      "a": "32<sup>2n</sup>",
+      "b": "9",
+      "c": "3<sup>n</sup>",
+      "d": "3<sup>n + 1</sup>"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <msup>\n      <mn>27</mn>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mi>n</mi>\n        <mo>+</mo>\n        <mn>1</mn>\n      </mrow>\n    </msup>\n    <msup>\n      <mn>81</mn>\n      <mi>n</mi>\n    </msup>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "3<sup>n - 1</sup>\n × (27<sup>n + 1</sup>/8n<sup>n</sup>)\n\n\n= 3<sup>n - 1</sup>\n ×  (3<sup>3(n + 1)</sup>)/3<sup>4n</sup>\n\n\n= 3<sup>(n−1+3n+3−4n)</sup>\n\n\n= 3<sup>4n−4n−1+3</sup>\n\n\n= 3<sup>2</sup>\n\n\n= 9",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4032,6 +4240,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1009,
+    "question": "Find the value of x and y in the simultaneous equation: 3x + y = 21; xy = 30",
+    "option": {
+      "a": "x = 3 or 7, y = 12 or 8",
+      "b": "x = 6 or 1, y = 11 or 5",
+      "c": " x = 2 or 5, y = 15 or 6",
+      "d": " x = 1 or 5, y = 10 or 7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "3x + y = 21 ... (i);\n\nxy = 30 ... (ii)\n\nFrom (ii), y = 30/x\n. Putting the value of y in (i), we have\n\n3x + 30/x = 21\n\n⟹ 3x<sup>2</sup> + 30 = 21x\n\n3x<sup>2</sup>  - 21x + 30 = 0\n\n3x<sup>2</sup>  - 15x -6x + 30 = 0\n\n3x(x - 5) - 6(x - 5) = 0\n\n(3x - 6)(x - 5) = 0\n\n3x - 6 = 0 ⟹ x = 2.\n\nx - 5 = 0 ⟹ x = 5.\n\nIf x = 2, y = 30/2 = 15;\n\nIf x = 5, y = 30/5 = 6.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 1010,
     "question": "Points X and Y are 20km North and 9km East of point O, respectively. What is the bearing of Y from X? Correct to the nearest degree.",
     "option": {
@@ -4094,6 +4318,22 @@
     "solution": "(0.0439 ÷ 3.62)\n \n= 0.01213\n\n≊\n 0.012\n\n= 12/1000",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 1023,
+    "question": "Four boys and ten girls can cut a field first in 5 hours. If the boys work at 5/4\n the rate at which the girls work, how many boys will be needed to cut the field in 3 hours? ",
+    "option": {
+      "a": "180",
+      "b": "60",
+      "c": "25",
+      "d": "20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let x rep. numbers of boys that can work at 5/4 the rate at\n\nwhich the 10 girls work \n\nFor 1 hrs, x boys will work for ((1/5) × 10)/4\n \n\nx = 5/4 x 10 \n\n= 8 boys \n\n8 boys will do the work of ten girls at the same rate \n\n4 + 8 = 12 bous cut the field in 5 hrs for 3 hrs, \n\n(12×5)/3 boys will be needed = 20 boys.",
+    "examtype": "2020",
+    "examyear": "utme"
   },
   {
     "id": 1029,
@@ -4268,6 +4508,22 @@
     "image": "",
     "answer": "c",
     "solution": "(0.00275 × 0.0064)/(0.025 × 0.08)\n \n\nRemoving the decimals = (275 × 64)/(2500 × 800)\n\n\n= 88/10<sup>4</sup>\n\n\n88 x 10<sup>-4</sup> = 88 x 10<sup>-1</sup> x 10<sup>-4</sup>\n\n= 8.8 x 10<sup>-3</sup>",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1075,
+    "question": "Find the length of a side of a rhombus whose diagonals are 6 cm and 8 cm",
+    "option": {
+      "a": "8 cm",
+      "b": "5 cm",
+      "c": "4 cm",
+      "d": "3 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The diagonal of a rhombus is a line segment that joins any two non-adjacent vertices.\n\nA rhombus has two diagonals that bisect each other at right angles.\n\ni.e this splits 6 cm into 3 cm each AND 8 cm to 4 cm\n\nUsing Hyp<sup>2</sup> = adj<sup>2</sup>  + opp<sup>2</sup> .\nHyp<sup>2</sup>  = 3<sup>2</sup>  + 4<sup>2</sup> \nHyp<sup>2</sup>  = 25\n\nHyp = 5\n\n∴ Length (L) is 5 cm because a rhombus is a quadrilateral with 4 equal lengths",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -4592,6 +4848,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1150,
+    "question": "Find the value of t, if the distance between the points P(–3, –14) and Q(t, –5) is 9 units.",
+    "option": {
+      "a": "3",
+      "b": "2",
+      "c": " - 3",
+      "d": "- 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let the given points be:\n\nP(-3, -14) = (x<sub>1</sub> , y<sub>1</sub>)\n\nQ(t, -5) = (x<sub>2</sub>, y<sub>2</sub>)\n\nPQ = 9 units (given)\n\nUsing the distance formula,\n\nd = √ [ (x<sub>2</sub> − x<sub>1</sub> )<sup>2</sup> + (y<sub>2</sub> − y<sub>1</sub>)<sup>2</sup>]\n\nPQ = √ [ (t − (−3))<sup>2</sup> + (−5 + 14)<sup>2</sup>]\n\n⟹ √ [ ( t + 3)<sup>2</sup> + 81] = 9\n\nSquaring on both sides,\n\n⇒ (t + 3)<sup>2</sup> + 81 = 81\n\n⇒ (t + 3)<sup>2</sup>  = 0\n\n⇒ t + 3 = 0\n\n∴ t = -3",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1152,
     "question": "Evaluate the following limit: lim <sub>(x→2)</sub> (x<sup>2</sup> + 4x − 12)/(x<sup>2</sup> − 2x)",
     "option": {
@@ -4604,6 +4876,22 @@
     "image": "",
     "answer": "a",
     "solution": "lim <sub>(x→2)</sub> x<sup>2</sup> + 4x − 12)/(x<sup>2</sup> −2x) \n = lim <sub>(x→2)</sub> ((x−2)(x+6))/(x(x − 2))\nlim<sub>x→2 x+6/x</sub>\n2 + 6/2 = 8/2\n = 4",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1157,
+    "question": "A coin is thrown 3 times. What is the probability that atleast one head is obtained?",
+    "option": {
+      "a": "7/8",
+      "b": "3/8",
+      "c": " None the above",
+      "d": "1/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sample space = {HHH, HHT, HTH, THH, TTH, THT, HTT, TTT}\n\nTotal number of possible outcomes = 2 x 2 x 2 = 8\n\nfavourable number of outcomes = 7\n\n∴Pr(at least one head) = 7/8",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4864,6 +5152,38 @@
     "examyear": "2014"
   },
   {
+    "id": 1228,
+    "question": "From the venn diagram above, the shaded parts represent",
+    "option": {
+      "a": "(P∩Q)∪(P∩R)",
+      "b": "(P∪Q)∩(P∩R)",
+      "c": " (P∪Q)∪(P∪R)",
+      "d": "(P∩Q)∪(P∪R)"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206734/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q43_z19fk2.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1234,
+    "question": "If the angle of a sector of a circle with radius 10.5 cm is 120°, find the perimeter of the sector. [Take π=22/7]",
+    "option": {
+      "a": "48 cm",
+      "b": "40 cm",
+      "c": " 43 cm",
+      "d": "45 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Perimeter of the sector = 2r+θ/360° × 2πr\n= 2(10.5) + 120/360 × 2 ×(22/7) × 10.5\n= 21 + 22\n= 43 cm",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1238,
     "question": "Factorize x<sup>2</sup> + 9x + 20",
     "option": {
@@ -5020,6 +5340,22 @@
     "image": "",
     "answer": "d",
     "solution": "log<sub>5</sub>(y<sup>2</sup>x<sup>5</sup>÷125b(1/2))\n \n= log<sub>5</sub>y<sup>2</sup> + log<sub>5</sub>x<sup>5</sup>−[log<sub>5</sub>125+log<sub>5</sub>(1/2)\n= 2log<sub>5</sub>y + 5log<sub>5</sub>x − log<sub>5</sub>5<sup>3</sup>−1/2log<sub>5</sub>b\n= 2log<sub>5</sub>y+5log<sub>5</sub>x−3−1/2log<sub>5</sub>",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1278,
+    "question": "Integral ∫(5x<sup>3</sup> + 7x<sup>2</sup> − 2x +5)\ndx",
+    "option": {
+      "a": "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 + 2x + C",
+      "b": "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 − x<sup>2</sup>  + 5x + C",
+      "c": "5x<sup>3</sup> /3 + 7x<sup>2</sup> /x − x + C",
+      "d": "2x<sup>2</sup> /3 + x/5  − C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "∫(5x<sup>3</sup> + 7x<sup>2</sup> −2x + 5)dx\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − 2x<sup>2</sup>/2 + 5x + c\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − x<sup>2</sup> + 5x + c",
     "examtype": "utme",
     "examyear": "2015"
   }
