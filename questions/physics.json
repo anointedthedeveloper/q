@@ -544,6 +544,22 @@
     "examyear": "2009"
   },
   {
+    "id": 62,
+    "question": "The force with which an object is attracted to the earth is called ",
+    "option": {
+      "a": "acceleration ",
+      "b": "mass ",
+      "c": "gravity ",
+      "d": "weight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 66,
     "question": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of ",
     "option": {
@@ -576,6 +592,22 @@
     "examyear": "2010"
   },
   {
+    "id": 70,
+    "question": " For  a particle having an x co-ordinate that varies in time according to the express ion x = 4t -2t2 The instantaneous velocity for of the particle at t = 2.5s is:",
+    "option": {
+      "a": "12m/s ",
+      "b": "6m/s ",
+      "c": "0m/s ",
+      "d": "10m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 75,
     "question": "An automobile is traveling at 60km/hr. calculate the angular velocity of the 0.35m radius wheels. ",
     "option": {
@@ -587,6 +619,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 78,
+    "question": "Highly polished silvery  surfaces are: ",
+    "option": {
+      "a": "poor absorbers but good emitter of radiation ",
+      "b": "good absorbers and good emitters of radiation ",
+      "c": "poor emitters but good reflectors of radiation ",
+      "d": "poor emitters and poor reflectors of radiation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -667,6 +715,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 89,
+    "question": "When three coplanar non-parallel forces are in equilibrium i. they can be represented in magnitude and direction by the three sides of a triangle taken in order ii. The lines of action meet at a point iii. The magnitude of any one force equals the magnitude of the other two forces iv. Any one force is the equivalent of the other two. Which of the following statements above are correct? ",
+    "option": {
+      "a": "i and iii only ",
+      "b": "i and ii only",
+      "c": "i, ii,iii and iv ",
+      "d": "none of them"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -1472,6 +1536,22 @@
     "examyear": "2016"
   },
   {
+    "id": 206,
+    "question": "Calculate the temperature of 6 moles of an ideal gas at a pressure of 7.6 × 10⁶ Nm⁻² with a volume of 10⁻³ m³. [R = 8.3 J mol⁻¹ K⁻¹]",
+    "option": {
+      "a": " 201°C",
+      "b": "126°C",
+      "c": "153°C",
+      "d": "185°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nNumber of moles (n) = 6 moles\nPressure (P) = 7.6 × 10⁶ Nm⁻²\nVolume (V) = 10⁻³ m³\nGas constant (R) = 8.3 J mol⁻¹ K⁻¹\n\nUsing the Ideal Gas Equation:\nPV = nRT\nRearranging to find T:\nT = PV/(nR)\nSubstituting values:\nT = (7.6 × 10⁶ × 10⁻³)/(6 × 8.3)\nT = 7,600/49.8\nT = 152.6°C ≈ 153°C",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 208,
     "question": "What will happen to the pressure of a gas if its temperature is reduced to -273°C?",
     "option": {
@@ -1744,6 +1824,22 @@
     "examyear": "2017"
   },
   {
+    "id": 249,
+    "question": "The net capacitance in the circuit above is",
+    "option": {
+      "a": "80µF",
+      "b": " 6.0µF",
+      "c": " 4.0µF",
+      "d": "2.0µF"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610999/ALOC-Questions/Physics/2017/2017_Q_20_jqc9yc.png",
+    "answer": "d",
+    "solution": "Series arrangement:\nIf the two 2µF are in parallel first: 2 + 2 = 4µF\nThen this 4µF is in series with the other 4µF:\n1/C_total = 1/4 + 1/4 = 2/4\nC_total = 2µF",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 251,
     "question": "A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10ms⁻², the power expended is",
     "option": {
@@ -1932,6 +2028,22 @@
     "image": "",
     "answer": "b",
     "solution": "Radio waves are not mechanical waves because they are electromagnetic waves that do not require a medium for propagation.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 274,
+    "question": "The velocity ratio of an inclined plane where angle of inclination in θ is",
+    "option": {
+      "a": " Sinθ",
+      "b": "Cosθ",
+      "c": "Tanθ",
+      "d": "1/sinθ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding velocity ratio of inclined plane:\nVelocity Ratio (V.R) = Distance moved by effort / Distance moved by load\nFor an inclined plane:\n\nWhen the load moves a vertical height h\nThe effort moves along the length of the plane L\n\nFrom geometry:\nsin θ = h/L\nTherefore: L = h/sin θ\nVelocity Ratio:\nV.R = L/h = (h/sin θ)/h = 1/sin θ\nAlternative expression:\nV.R = Length of plane / Height = 1/sin θ",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -2334,6 +2446,22 @@
     "solution": "Given information:\n\nMass (m) = 20 kg\nAngle of inclination (θ) = 30°\nEfficiency = 75% = 0.75\ng = 10 m/s²\nEffort (Force) = ?\n\nStep 1: Calculate Load (Total weight)\nLoad = mg\nLoad = 20 × 10 = 200 N\nStep 2: Calculate Velocity Ratio (V.R)\nFor an inclined plane:\nV.R = 1/sin θ = 1/sin 30° = 1/0.5 = 2\nStep 3: Calculate Mechanical Advantage (M.A)\nEfficiency = (M.A / V.R) × 100%\n75 = (M.A / 2) × 100\n75/100 = M.A / 2\nM.A = (75 × 2) / 100\nM.A = 150 / 100 = 1.5\nStep 4: Calculate Force (Effort)\nM.A = Load / Force\n1.5 = 200 / Force\nForce = 200 / 1.5\nForce = 133.3 N",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 331,
+    "question": "If a body moves with a constant speed and at the same time undergoes an acceleration, its motion is said to be",
+    "option": {
+      "a": "oscillation",
+      "b": "circular",
+      "c": "rotational",
+      "d": "rectilinear"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Circular motion is characterized by constant speed with continuous acceleration (centripetal acceleration) that changes the direction of velocity while maintaining constant magnitude.",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 334,
@@ -2796,6 +2924,22 @@
     "image": "",
     "answer": "b",
     "solution": "High tension transmission is characterized by low current and high voltage, which minimizes power losses during long-distance electricity transmission.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 393,
+    "question": "Tha mass of a proton is approximately equal to that of ",
+    "option": {
+      "a": "an α\n-particle",
+      "b": "a β\n-Particle",
+      "c": " a neutron",
+      "d": "an electron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The mass of a proton is approximately equal to that of a neutron. Both have a relative mass of approximately 1 atomic mass unit (u), with the neutron being only slightly heavier.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -3696,6 +3840,38 @@
     "examyear": "2023"
   },
   {
+    "id": 510,
+    "question": "Name the type of equilibrium for each position of the ball",
+    "option": {
+      "a": "A - unstable, B - neutral, C - stable",
+      "b": "A - stable, B - neutral, C - unstable",
+      "c": "A - stable, B - unstable, C - neutral",
+      "d": "A - unstable, B - stable, C - neutral"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614783/ALOC-Questions/Physics/2023/physics_2023-Q11_nw4jov.jpg",
+    "answer": "d",
+    "solution": "Object A will undergo unstable equilibrium as it can move farther from its original position\n\nObject B will undergo stable equilibrium as it can return to its original position\n\nObject C will undergo neutral equilibrium as it can remain in a new position",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 511,
+    "question": "Rainbow formation is as a result of the combination of which of the following phenomena?\n(i) Reflection\n(ii) Dispersion\n(iii) Total internal reflection\n(iv) Refraction",
+    "option": {
+      "a": "(ii) and (iv) only",
+      "b": "(i), (iii) and (iv) only",
+      "c": "(ii), (iii) and (iv) only",
+      "d": "(i), (ii) and (iv) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Rainbow formation involves refraction of light entering and exiting water droplets, dispersion of white light into component colors, and reflection at the back surface of the droplets. While total internal reflection does occur, it's often grouped under general reflection in basic explanations, making option D the intended answer.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 512,
     "question": "\nThe surface temperature of a swimming pool on a warm day is 25ºC and the temperature at the bottom is 15ºC. If the swimming pool has a surface area of 620 m² and a depth of 1.5m. Find the rate at which energy is transferred by conduction from the surface to the bottom of the swimming pool. [Thermal conductivity of water (k) = 0.6071 Wm⁻¹K⁻¹]",
     "option": {
@@ -3776,6 +3952,22 @@
     "examyear": "2023"
   },
   {
+    "id": 520,
+    "question": "What is the amount of heat required to raise the temperature of a 0.02 kg of ice cube from −10°C to 10°C ? [specific latent heat of fusion of ice = 3.34 x 10⁵ Jkg⁻¹, Specific heat capacity of water = 4200 Jkg⁻¹ k⁻¹, Specific heat capacity of ice = 2100 Jkg⁻¹ k⁻¹]",
+    "option": {
+      "a": "6680 J",
+      "b": "1680 J",
+      "c": "7520 J",
+      "d": "7940 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 0.02 kg\nInitial temperature = −10°C\nFinal temperature = 10°C\nSpecific latent heat of fusion, Lf = 3.34 × 10⁵ J/kg\nSpecific heat capacity of water, cw = 4200 J/(kg·K)\nSpecific heat capacity of ice, ci = 2100 J/(kg·K)\n\nSolution:\nThe process involves three stages:\nStage 1: Heat ice from −10°C to 0°C\nQ₁ = mciΔT\nQ₁ = 0.02 × 2100 × [0 − (−10)]\nQ₁ = 0.02 × 2100 × 10\nQ₁ = 420 J\nStage 2: Melt ice at 0°C to water at 0°C\nQ₂ = mLf\nQ₂ = 0.02 × 3.34 × 10⁵\nQ₂ = 6680 J\nStage 3: Heat water from 0°C to 10°C\nQ₃ = mcwΔT\nQ₃ = 0.02 × 4200 × 10\nQ₃ = 840 J\nStep 4: Calculate total heat required\nQtotal = Q₁ + Q₂ + Q₃\nQtotal = 420 + 6680 + 840\nQtotal = 7940 J",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 521,
     "question": "Which of the following thermometers measures temperature from the thermal radiation emitted by objects?",
     "option": {
@@ -3788,6 +3980,22 @@
     "image": "",
     "answer": "a",
     "solution": "A pyrometer is a type of remote-sensing thermometer used to measure the temperature of a surface. It does this by measuring the thermal radiation or infrared energy being emitted from the object. Therefore, a pyrometer thermometer measures temperature from the thermal radiation emitted by objects.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 522,
+    "question": "A 400 N box is being pushed across a level floor at a constant speed by a force P of 100 N at an angle of 30.0° to the horizontal, as shown in the the diagram below. What is the coefficient of kinetic friction between the box and the floor?",
+    "option": {
+      "a": "0.19",
+      "b": "0.24",
+      "c": "0.4",
+      "d": "0.22"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614857/ALOC-Questions/Physics/2023/physics_2023-Q23_ehlmzy.png",
+    "answer": "a",
+    "solution": "Given information:\n\nWeight of box, W = 400 N\nApplied force, P = 100 N\nAngle, θ = 30.0°\nConstant speed (equilibrium condition)\nCoefficient of kinetic friction, μk = ?\n\nSolution:\nStep 1: Resolve force P into components\nHorizontal component: Px = P cos θ = 100 cos 30°\nPx = 100 × 0.866 = 86.6 N\nVertical component: Py = P sin θ = 100 sin 30°\nPy = 100 × 0.5 = 50 N (directed downward)\nStep 2: Calculate normal force (vertical equilibrium)\nThe vertical forces acting on the box:\n\nNormal force R (upward)\nWeight W (downward)\nVertical component Py (downward)\n\nAt equilibrium:\nR - W - Py = 0\nR = W + Py\nR = 400 + 50\nR = 450 N\nStep 3: Apply horizontal equilibrium\nAt constant speed, horizontal forces are balanced:\nPx = Ffriction\nPx = μkR\nStep 4: Solve for coefficient of kinetic friction\n86.6 = μk × 450\nμk = 86.6/450\nμk = 0.192\nμk ≈ 0.19",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3904,6 +4112,22 @@
     "examyear": "2023"
   },
   {
+    "id": 539,
+    "question": "The sensitivity of a thermometer is",
+    "option": {
+      "a": "All of the above",
+      "b": "how quickly a temperature change can be detected",
+      "c": " the difference between the maximum and the minimum temperature",
+      "d": "the smallest temperature change that can be detected or measured"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The sensitivity of a thermometer is defined as the smallest temperature change that can be detected or measured, NOT how quickly that temperature change can be detected.\n\nIn contrast, the difference between the maximum and the minimum temperature is the range of a thermometer",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 541,
     "question": "An explosion occurs at an altitude of 312 m above the ground. If the air temperature is -10.00°C, how long does it take the sound to reach the ground? [velocity of sound at 0°C = 331 ms⁻¹]",
     "option": {
@@ -3916,6 +4140,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nHeight (distance), d = 312 m\nAir temperature, T = -10.00°C\nVelocity of sound at 0°C, v₀ = 331 m/s\nTime, t = ?\n\nSolution:\nStep 1: Calculate velocity of sound at -10°C\nThe velocity of sound in air varies with temperature:\nv = v₀ + 0.6T\nWhere T is in degrees Celsius.\nv = 331 + 0.6(-10)\nv = 331 - 6\nv = 325 m/s\nStep 2: Calculate time for sound to travel\nUsing the formula:\nt = d/v\nt = 312/325\nt = 0.96 s",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 542,
+    "question": "A charge of 4.6×10⁻⁵C is placed in an electric field of intensity 3.2×10⁴ Vm⁻¹. What is the force acting on the electron?",
+    "option": {
+      "a": " 1.5 N",
+      "b": "3.7 N",
+      "c": "4.2 N",
+      "d": " 2.5 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCharge, q = 4.6×10⁻⁵ C\nElectric field intensity, E = 3.2×10⁴ V/m\nForce, F = ?\n\nSolution:\nStep 1: Apply electric force formula\nThe force on a charge in an electric field:\nF = qE\nStep 2: Substitute the known values\nF = 4.6×10⁻⁵ × 3.2×10⁴\nStep 3: Calculate the force\nF = (4.6 × 3.2) × (10⁻⁵ × 10⁴)\nF = 14.72 × 10⁻¹\nF = 1.472 N\nF ≈ 1.5 N",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4608,6 +4848,22 @@
     "examyear": "2004"
   },
   {
+    "id": 648,
+    "question": "A cell whose internal resistance is 0.5Ω delivers a current of 4A to an external resistor,The loss voltage of the cell is",
+    "option": {
+      "a": "1.250V",
+      "b": "2.000V",
+      "c": "8.000V",
+      "d": "0.125V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInternal resistance, r = 0.5 Ω\nCurrent delivered, I = 4 A\nLost voltage, Vₗₒₛₜ = ?\n\nSolution:\nStep 1: Define lost voltage\nLost voltage (voltage drop) is the voltage dissipated across the internal resistance of the cell.\nThis represents the energy lost as heat inside the cell.\nStep 2: Apply Ohm's Law\nFormula: V = IR\nFor internal resistance:\nVₗₒₛₜ = I × r\nWhere:\n\nVₗₒₛₜ = voltage lost/dropped across internal resistance\nI = current\nr = internal resistance\n\nStep 3: Substitute values\nVₗₒₛₜ = 4 × 0.5\nVₗₒₛₜ = 2.0 V\nStep 4: Interpretation\nThis 2V represents:\n\nEnergy dissipated as heat in the cell\nDifference between EMF and terminal voltage\nLost voltage = EMF - Terminal voltage",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 650,
     "question": "Marching soldiers crossing a suspension bridge are usually advised to break their steps to avoid damaging the bridge owing to",
     "option": {
@@ -4812,6 +5068,22 @@
     "image": "",
     "answer": "b",
     "solution": "I. Melting: Solid to liquid transition; molecules gain energy to overcome fixed positions, showing molecular motion and interactions.\n\nII. Boiling: Liquid to gas transition; molecules gain enough energy to break intermolecular forces, demonstrating molecular kinetic energy and forces.\n\nIV. Conduction: Heat transfer via molecular collisions (or electron movement), directly showing molecular motion and energy transfer.                           Melting, boiling, and conduction are direct evidence of the molecular nature of matter.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 676,
+    "question": "An electric device is rated 2000 W, 250 v. The correct fuse rating of the device is?",
+    "option": {
+      "a": "9 A",
+      "b": "8 A",
+      "c": "6 A",
+      "d": "7 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\nPower, P = 2000 W\nVoltage, V = 250 V\n\nStep 1: Calculate operating current\nI = P / V = 2000 / 250 = 8 A\n\nStep 2: Determine fuse rating principle\nA fuse rating should be slightly higher than the normal operating current to allow for normal operation without unnecessary blowing, but not too high to fail protection.  9 A is the next higher standard value and provides a small safety margin.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -5408,6 +5680,22 @@
     "examyear": "2007"
   },
   {
+    "id": 760,
+    "question": "I. Increase the melting point of the liquid.\nII. Increase the boiling point of the liquid.\nIII. Decrease the melting point of the liquid.\nIV. Decrease the boiling point of the liquid.\n\n\nwhich of the statement above about the effect on increase in pressure in a liquid are correct?",
+    "option": {
+      "a": " I and II only",
+      "b": "I and III only",
+      "c": " II and III only",
+      "d": "III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Increase in pressure generally raises the boiling point but but lowers the melting point. II and III",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 761,
     "question": "I. Mass\nII. Density\nIII. Temperature\nIV. Nature of substance\n\n\nwhich of the above affect diffusion?",
     "option": {
@@ -5964,6 +6252,22 @@
     "image": "",
     "answer": "c",
     "solution": "\nGiven information:\nForce F₁ = 12 N\nForce F₂ = 5 N\nResultant R = 13 N\n\nSolution:\n\nStep 1: Formula for resultant of two forces\nR² = F₁² + F₂² + 2F₁F₂ cos θ\nwhere θ is the angle between the forces.\n\nStep 2: Substitute the given values\n13² = 12² + 5² + 2 × 12 × 5 × cos θ\n169 = 144 + 25 + 120 cos θ\n169 = 169 + 120 cos θ\n\nStep 3: Simplify and solve for cos θ\n169 – 169 = 120 cos θ\n0 = 120 cos θ\ncos θ = 0\n\nStep 4: Determine the angle\ncos θ = 0 ⇒ θ = 90°\n",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 839,
+    "question": "A body of mass 4 kg resting on a smooth horizontal plane is simultaneously acted upon by two perpendicular forces 6 N and 8 N. Calculate the acceleration of the motion",
+    "option": {
+      "a": "2.5 m s⁻²",
+      "b": "3.0 m s⁻²",
+      "c": "4.0 m s⁻²",
+      "d": "4.5 m s⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nMass m = 4 kg\nForces: F₁ = 6 N, F₂ = 8 N, perpendicular to each other.\nPlane is smooth (no friction).\n\nSolution:\n\nStep 1: Find resultant force\nSince forces are perpendicular, resultant R = √(F₁² + F₂²)\nR = √(6² + 8²) = √(36 + 64) = √100 = 10 N\n\nStep 2: Apply Newton's second law\nAcceleration a = R / m = 10 N / 4 kg = 2.5 m s⁻²",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -6624,6 +6928,22 @@
     "examyear": "2010"
   },
   {
+    "id": 929,
+    "question": "In alternating current circuit at resonance, the angle of lead or lag is?",
+    "option": {
+      "a": "π°",
+      "b": "(π)/2°",
+      "c": "(π)/3°",
+      "d": " 0°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nIn an AC circuit, resonance occurs when the inductive reactance equals the capacitive reactance (X_L = X_C).\n\nSolution:\n\nStep 1: Condition at resonance\nAt resonance, the circuit behaves purely resistively. The phase angle between voltage and current is zero.\n\nStep 2: Interpretation\nA phase angle of zero means the voltage and current are in phase, neither leads nor lags.\n\nStep 3: Evaluate options\nOnly 0° corresponds to this condition.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 931,
     "question": "The ground state energy for the hydrogen atom is 5.44 × 10⁻¹⁹ J. If an electron drops from zero energy to the ground state, calculate the frequency of the emitted radiation. [h = 6.6 × 10⁻³⁴ Js]",
     "option": {
@@ -6956,6 +7276,22 @@
     "image": "",
     "answer": "a",
     "solution": "Eclipse of the sun occurs when the moon which is opaque objects between the sun and the earth",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 979,
+    "question": "In measuring high frequency a.c, the instrument used is the",
+    "option": {
+      "a": " d.c ammeter",
+      "b": "moving coil ammeter",
+      "c": "moving iron ammeter",
+      "d": "hot wire ammeter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Hot wire ammeter is used because the heat affect of A C is same as that of DC",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -7440,6 +7776,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1044,
+    "question": "A train with an initial velocity of 20 ms⁻¹ is subjected to a uniform deceleration of 2 ms⁻². The time required to bring the train to a complete halt is?",
+    "option": {
+      "a": "5 s",
+      "b": " 10 s",
+      "c": "20 s",
+      "d": "40 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial velocity (u) = 20 m/s\nFinal velocity (v) = 0 m/s (complete halt)\nDeceleration (a) = -2 m/s² (negative because it's slowing down)\nTime (t) = ?\n\nUsing equation of motion:\nv = u + at\nRearranging for time:\nt = (v - u)/a\nSubstituting values:\nt = (0 - 20)/(-2)\nt = -20/(-2)\nt = 10 s",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1045,
     "question": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5 ms⁻². [g = 10 ms⁻²]",
     "option": {
@@ -7724,6 +8076,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nInitial velocity, u = 0 m s⁻¹\nAcceleration, a = 3 m s⁻²\nDistance, s = 24 m\n\nSolution:\n\nStep 1: Choose the appropriate kinematic equation\nv² = u² + 2as\n\nStep 2: Substitute the values\nv² = 0² + 2 × 3 × 24 = 144\n\nStep 3: Solve for v\nv = √144 = 12 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1085,
+    "question": "Calculate the escape velocity of a satellite launched from the earth's surface if the radius of the earth is 6.4x106m",
+    "option": {
+      "a": " 25.3 km s⁻¹",
+      "b": "4.2 km s⁻¹",
+      "c": " 4.0 km s⁻¹",
+      "d": "11.3 km s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nRadius of Earth, R = 6.4 × 10⁶ m\nAcceleration due to gravity, g ≈ 9.8 m s⁻² (standard value, though not explicitly given, it is implied for such problems)\n\nSolution:\n\nStep 1: Formula for escape velocity\nEscape velocity, vₑ = √(2gR)\n\nStep 2: Substitute the values\nvₑ = √(2 × 9.8 × 6.4 × 10⁶)\nvₑ = √(2 × 9.8 × 6.4 × 10⁶) = √(125.44 × 10⁶) = √(1.2544 × 10⁸)\n\nStep 3: Calculate\n√(1.2544 × 10⁸) = 1.12 × 10⁴ m s⁻¹ = 11.2 km s⁻¹ ≈ 11.3 km s⁻¹\n\nFinal Answer:\nThe escape velocity is approximately 11.3 km s⁻¹.",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -8076,6 +8444,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nMass, m = 20 kg\nVelocity, v = 5 m s⁻¹\ng = 10 m s⁻²\n\nSolution:\n\nStep 1: Determine the force required\nTo lift the mass at constant speed, the boy must exert a force equal to the weight:\nF = mg = 20 × 10 = 200 N\n\nStep 2: Power formula\nPower = Force × velocity\nP = F × v = 200 × 5 = 1000 W",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1140,
+    "question": "Without considering the containing vessel, what mass of boiled water can raise the temperature of 8 kg of water from 25 °C to 60 °C when mixed in a heat‑proof container?",
+    "option": {
+      "a": "10 kg",
+      "b": "7 kg",
+      "c": " 5 kg",
+      "d": " 6 kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nMass of cold water, m_c = 8 kg\nInitial temperature of cold water, T_c = 25 °C\nInitial temperature of boiled water (hot), T_h = 100 °C (boiled water)\nFinal temperature of mixture, T_f = 60 °C\nSpecific heat capacity of water, c (same for both, cancels out)\n\nSolution:\n\nStep 1: Heat lost by hot water = Heat gained by cold water\nLet m_h be the mass of hot water.\nHeat lost = m_h × c × (T_h – T_f)\nHeat gained = m_c × c × (T_f – T_c)\n\nStep 2: Set up equation\nm_h × (100 – 60) = 8 × (60 – 25)\nm_h × 40 = 8 × 35\n\nStep 3: Solve for m_h\nm_h = (8 × 35) / 40 = 280 / 40 = 7 kg",
     "examtype": "utme",
     "examyear": "2025"
   },
