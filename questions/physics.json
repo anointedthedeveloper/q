@@ -96,6 +96,38 @@
     "examyear": "2007"
   },
   {
+    "id": 25,
+    "question": "A uniform rod PQ of mass 2kg and length of 1m is pivoted at the end P, if a load of 14N is placed at the centre, find the force that should be applied vertically upwards at Q to maintain the rod in equilibrium ",
+    "option": {
+      "a": "7N ",
+      "b": "28N ",
+      "c": "68N ",
+      "d": "17N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 26,
+    "question": "The energy contained in wire when it is extended by 0.02m by a force 500N is ",
+    "option": {
+      "a": "104J ",
+      "b": "103J ",
+      "c": "10J ",
+      "d": "5J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 34,
     "question": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment? ",
     "option": {
@@ -187,6 +219,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 107,
+    "question": "Dry air of column length 10 cm is trapped by a pellet of mercury of length 15 cm, with the open end uppermost. When the capillary is inverted the length of the air column increased to 25 cm while that of mercury remained constant. Calculate the atmospheric pressure (in cm of Hg.)  ",
+    "option": {
+      "a": "35 cm Hg  ",
+      "b": "15 cm Hg  ",
+      "c": "20 cm Hg  ",
+      "d": "35 cm Hg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -512,6 +560,22 @@
     "examyear": "2017"
   },
   {
+    "id": 278,
+    "question": "Which of the following is not true of an electrical charge?",
+    "option": {
+      "a": "Negative charge means deficit electrons",
+      "b": "Negative charge means excess of electrons",
+      "c": "electric current means movement of electrons",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This statement is NOT true. Negative charge means excess of electrons, not deficit. A deficit of electrons would result in a positive charge.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 287,
     "question": "Cathode rays are",
     "option": {
@@ -620,6 +684,22 @@
     "image": "",
     "answer": "d",
     "solution": "Retina is similar to film\nPupil is similar to aperture\nIris is similar to diaphragm",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 365,
+    "question": "According to kinetic molecular model, in gases",
+    "option": {
+      "a": "The particles are closely packed together, they occupy minimum space & are usually arranged in a regular pattern",
+      "b": "The particles occur in clusters with molecules slightly farther apart",
+      "c": "The molecule are very fast apart & occupy all the space made available",
+      "d": "The particle vibrate about fixed positions and are held together by the strong intermolecular bonds between them"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In kinetic molecular model, gases are energized and thus moves freely, fast as they occupy specific space",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1054,6 +1134,22 @@
     "solution": "Mechanics is the branch of physics that deals with the motion of objects and the forces acting on them. It is the foundation of all other branches of physics, and it is used to study everything from the motion of planets to the motion of electrons.",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 551,
+    "question": "Under which conditions is work done",
+    "option": {
+      "a": "A man supports a heavy load on his head with hands.",
+      "b": "A woman holds a pot of water",
+      "c": "A boy climbs onto a table",
+      "d": "A man pushes against a stationary petrol tanker"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Work is only done when there is both force and displacement in the direction of the force. Only in option C does the boy move (upward displacement) while applying force against gravity, thus doing work. In all other options, despite forces being applied, there is no displacement, so no work is done.",
+    "examtype": "utme",
+    "examyear": "2024"
   },
   {
     "id": 552,
@@ -1568,6 +1664,22 @@
     "examyear": "2007"
   },
   {
+    "id": 770,
+    "question": "A charge 50 µC has electric field strength of 360 NC⁻¹ at a certain point. The electric field strength due to another charge 120 µC kept at the same distance apart and in the same medium is?",
+    "option": {
+      "a": "864 NC⁻¹",
+      "b": " 150 NC⁻¹",
+      "c": "144 NC⁻¹",
+      "d": "18 NC⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCharge 1 (Q₁) = 50 µC\nElectric field at point (E₁) = 360 NC⁻¹\nCharge 2 (Q₂) = 120 µC\nDistance and medium remain same\nElectric field due to Q₂ (E₂) = ?\n\nUnderstanding electric field:\nElectric field strength (E) is directly proportional to the charge (Q):\nE ∝ Q (at constant distance and medium)\nFormula:\nE = kQ/r²\nSince k (constant), r (distance), and medium are the same:\nE₁/E₂ = Q₁/Q₂\nSetting up proportion:\n360/E₂ = 50/120\nSolving for E₂:\nE₂ = (360 × 120)/50\nE₂ = 43,200/50\nE₂ = 864 NC⁻¹\nAlternative approach:\nRatio of charges = 120/50 = 2.4\nE₂ = E₁ × 2.4\nE₂ = 360 × 2.4\nE₂ = 864 NC⁻¹",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 773,
     "question": "Silicon doped with aluminum and germanium doped with arsenic become?",
     "option": {
@@ -1888,6 +2000,38 @@
     "examyear": "2010"
   },
   {
+    "id": 922,
+    "question": "An object is embedded in a block of ice, 10 cm below the plane surface. if the refractive index of the ice is 1.50, the apparent depth below the surface is?",
+    "option": {
+      "a": " 2.50 cm",
+      "b": " 6.67 cm",
+      "c": " 7.50 cm",
+      "d": "7.63 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Refraction index, n = (real depth)/apparent depth\n1.5 = (10)/X\nX = (10)/1.5 = 6.67 cm",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 931,
+    "question": "The ground state energy for the hydrogen atom is 5.44 × 10⁻¹⁹ J. If an electron drops from zero energy to the ground state, calculate the frequency of the emitted radiation. [h = 6.6 × 10⁻³⁴ Js]",
+    "option": {
+      "a": " 8.24 × 10¹⁴ Hz",
+      "b": "3.59 × 10⁻⁵³ Hz",
+      "c": " 8.24 × 10¹⁵ Hz",
+      "d": "1.21 × 10⁻⁵³ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nGround state energy = -5.44 × 10⁻¹⁹ J (negative, bound state)\nInitial energy (zero energy level) = 0 J\nPlanck's constant (h) = 6.6 × 10⁻³⁴ Js\nFrequency of emitted radiation (f) = ?\n\nUnderstanding the process:\nWhen an electron drops from zero energy (ionization level) to the ground state, it emits a photon.\nStep 1: Calculate energy of emitted photon\nEnergy of photon = Initial energy - Final energy\nE = 0 - (-5.44 × 10⁻¹⁹)\nE = 5.44 × 10⁻¹⁹ J\nStep 2: Calculate frequency using Planck's equation\nE = hf\nRearranging for frequency:\nf = E/h\nSubstituting values:\nf = (5.44 × 10⁻¹⁹)/(6.6 × 10⁻³⁴)\nf = 0.824 × 10⁻¹⁹⁺³⁴\nf = 0.824 × 10¹⁵\nf = 8.24 × 10¹⁴ Hz",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 933,
     "question": "Which of the following is a pure semiconductor?",
     "option": {
@@ -1900,6 +2044,22 @@
     "image": "",
     "answer": "b",
     "solution": "A semiconductor is a material whose conductivity is between good conductor and insulator. Example of pure semi conductors are silicon and germanium",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 934,
+    "question": "The diagram above shows a velocity - time graph. The statement that is true about this motion is that the car?",
+    "option": {
+      "a": " has no acceleration between point F and G",
+      "b": "decelerates between F and H",
+      "c": " has a constant soeed between points E and F",
+      "d": "Accelerates between points F and G"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435489/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_35_zmxbxg.png",
+    "answer": "a",
+    "solution": "Above are the V-t graphs for\nI Uniform acceleration\nII uniform retardation\nIII Uniform velocity\nThus the car has no acceleration between point F and G since that portion of the graph represents uniform velocity",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -2012,6 +2172,22 @@
     "image": "",
     "answer": "b",
     "solution": "Under high potential difference and low pressure gases are good conductor of electricity",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 982,
+    "question": "Two inductors of inductance 4 II and 8 II are arrange in series and a current of 10 A is passed through them. What is the energy stored in them?",
+    "option": {
+      "a": " 600 J",
+      "b": " 50 J",
+      "c": "133 J",
+      "d": "250 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInductance 1 (L₁) = 4 H\nInductance 2 (L₂) = 8 H\nCurrent (I) = 10 A\nConnected in series\nTotal energy stored = ?\n\nStep 1: Calculate total inductance (series)\nFor inductors in series:\nL_total = L₁ + L₂\nL_total = 4 + 8\nL_total = 12 H\nStep 2: Calculate energy stored\nEnergy stored in an inductor:\nE = ½LI²\nSubstituting values:\nE = ½ × 12 × (10)²\nE = ½ × 12 × 100\nE = 6 × 100\nE = 600 J",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -2160,6 +2336,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1030,
+    "question": "Disperson of white light is the ability of white light to",
+    "option": {
+      "a": " penetrate air, water and glass",
+      "b": "move in a straight line",
+      "c": "move around corners",
+      "d": "separate to its component colours"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Dispersion is the ability of white light to separate into its component colours.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1034,
     "question": "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is",
     "option": {
@@ -2302,6 +2494,22 @@
     "solution": "PHCN (Power Holding Company of Nigeria) is an electricity distribution company that bills customers for electrical energy consumed. The unit of electrical energy used in utility billing is the kilowatt-hour (kWh).",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 1121,
+    "question": "The power of a lens in diopters is ",
+    "option": {
+      "a": "3f ",
+      "b": "1/f",
+      "c": "2f",
+      "d": "f"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nThe power of a lens is defined as the reciprocal of its focal length (in metres).\n\nSolution:\n\nStep 1: Formula for power of a lens\nPower P (in dioptres) = 1 / f, where f is the focal length in metres.",
+    "examtype": "utme",
+    "examyear": "2025"
   },
   {
     "id": 1126,
