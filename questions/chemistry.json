@@ -1,5 +1,53 @@
 [
   {
+    "id": 16,
+    "question": "Phosphorous is stored under water to precvent it from",
+    "option": {
+      "a": "Dehydrating",
+      "b": "Becoming inert",
+      "c": "Smelling",
+      "d": "Catching fire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 24,
+    "question": " 2SO2(g) + O2(g) ⇌  2SO3(g)  The equilibrium constant for the reaction above is increased by  [ΔH = -189kJ mol -1]",
+    "option": {
+      "a": "Increasing the temperature of the system",
+      "b": "Increasing the pressure of the system",
+      "c": "The addition of a catalyst to the system",
+      "d": "Increasing the surface area of the vessel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 87,
+    "question": "A consequence of global warming is",
+    "option": {
+      "a": "Air pollution",
+      "b": "Water pollution",
+      "c": "Increased humidity",
+      "d": "Flooding"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 137,
     "question": "A carcinogenic substance is",
     "option": {
@@ -14,6 +62,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 138,
+    "question": "The solubility in mol dm-3 of 20g of CuSO4 dissolved in 100g of water at 1800C is  [Cu = 64, S = 32, O = 16]",
+    "option": {
+      "a": "0.13",
+      "b": "0.25",
+      "c": "1.25",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 198,
+    "question": "Which of the following are structural isomers",
+    "option": {
+      "a": "Propanoic acid and propan-1, 2-diol",
+      "b": "Ethanoic acid and propanoic acid",
+      "c": "Ethan-1, 2 –diol and ethanoic acid",
+      "d": "Propanal and propanone"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 232,
@@ -32,6 +112,86 @@
     "examyear": "2006"
   },
   {
+    "id": 258,
+    "question": "The characteristic colour of the flame shown when a copper salt moistened with concentrated hydrochloric acid on platinum is put on a bunzen burner is",
+    "option": {
+      "a": "Green",
+      "b": "Lilac",
+      "c": "Yellow",
+      "d": "Brick-red"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 261,
+    "question": "Which of the following is an example of a mixture",
+    "option": {
+      "a": "Blood",
+      "b": "Sand",
+      "c": "Washing soda",
+      "d": "Common salt"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 282,
+    "question": "Iron can be protected from corrosion by coating the surface with",
+    "option": {
+      "a": "Silver",
+      "b": "Copper",
+      "c": "Zinc",
+      "d": "Gold"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 291,
+    "question": "When iron is exposed to moist air, it gradually rusts. This is due to the formation of",
+    "option": {
+      "a": "Anahydrous  iron (III) oxide",
+      "b": "Anhydrous iron (II) oxide",
+      "c": "Hydrated iron (II) oxide",
+      "d": "Hydrated iron  (III) oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 341,
+    "question": "An oxidation state of Cr in K₂Cr₂O₇",
+    "option": {
+      "a": "7",
+      "b": "6",
+      "c": "5",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In K₂Cr₂O₇: K is +1, O is -2. Let Cr = x. 2(+1) + 2x + 7(-2) = 0 → 2 + 2x - 14 = 0 → 2x = 12 → x = +6. The oxidation state of Cr is +6.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 351,
     "question": "Which of the following gives a precipitation when treated with NaOH solution?",
     "option": {
@@ -46,6 +206,70 @@
     "solution": "AlCl₃ reacts with NaOH to form aluminium hydroxide, Al(OH)₃, a white gelatinous precipitate: AlCl₃ + 3NaOH → Al(OH)₃↓ + 3NaCl. NH₄Cl produces ammonia gas (not a precipitate), while Na₂CO₃ and CH₃COONa are fully soluble in NaOH.",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 364,
+    "question": "The relative atomic mass of a naturally occurring lithium consisting of 90% ⁷₃Li and 10% ⁶₃Li is",
+    "option": {
+      "a": "6.2",
+      "b": "6.8",
+      "c": "7.1",
+      "d": "6.9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Relative atomic mass = (90/100 × 7) + (10/100 × 6) = 6.3 + 0.6 = 6.9.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 386,
+    "question": "The drying agent suitable for drying ammonia is",
+    "option": {
+      "a": "Calcium Chloride",
+      "b": "Calcium Oxide",
+      "c": "Phosphorus (V) Oxide",
+      "d": "Concentrated H₂SO₄"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Calcium oxide (CaO) is the only suitable drying agent for ammonia because it is a basic oxide that does not react with ammonia. Concentrated H₂SO₄ and P₂O₅ are acidic and react with the basic NH₃. Anhydrous CaCl₂ forms a complex with ammonia (CaCl₂·8NH₃) and cannot be used.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 390,
+    "question": "An example of a solid emulsion is",
+    "option": {
+      "a": "Butter",
+      "b": "Hair cream",
+      "c": "Milk",
+      "d": "Cod-liver oil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Butter is a solid emulsion — it is water droplets dispersed in a solid fat matrix. Milk is a liquid emulsion (fat droplets in water). Hair cream is a semi-solid emulsion (liquid in liquid). Cod-liver oil is a pure oil, not an emulsion. Therefore butter is the correct example of a solid emulsion.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 399,
+    "question": "In the diagram above, X is the",
+    "option": {
+      "a": "Enthalpy",
+      "b": "Activated complex",
+      "c": "Activation energy",
+      "d": "Enthalpy change"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636239/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q45_px9hlb.png",
+    "answer": "d",
+    "solution": "In the energy profile diagram, X is the arrow showing the difference in energy level between the reactants and the products. This energy difference is the enthalpy change (ΔH) of the reaction. Since products are lower in energy than reactants, ΔH is negative (exothermic). The activation energy would be measured from reactants to the peak, not between reactants and products.",
+    "examtype": "utme",
+    "examyear": "2016"
   },
   {
     "id": 456,
@@ -64,6 +288,102 @@
     "examyear": "2018"
   },
   {
+    "id": 457,
+    "question": "A substance that is used as a ripening agent for fruits is",
+    "option": {
+      "a": "ethene",
+      "b": "propane",
+      "c": "methane",
+      "d": "butane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ethene (C₂H₄) is a natural plant hormone that accelerates the ripening of fruits. It is produced naturally by fruits and is also used commercially to ripen fruits uniformly after harvesting. The other gases (propane, methane, butane) are simple fuel gases with no ripening function.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 495,
+    "question": "When air which contains oxygen, nitrogen, carbon dioxide, water vapour and the rare gases is passed through alkaline pyrogallol and then over quicklime, the only gases left are",
+    "option": {
+      "a": "nitrogen and carbon dioxide",
+      "b": "the rare gases",
+      "c": "nitrogen and oxygen",
+      "d": "nitrogen and the rare gases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Alkaline pyrogallol absorbs O₂ from air. Quicklime (CaO) absorbs CO₂ and water vapour: CaO + CO₂ → CaCO₃; CaO + H₂O → Ca(OH)₂. After these treatments, only nitrogen (unreactive, not absorbed) and the rare gases (noble gases, chemically inert) remain.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 507,
+    "question": "The IUPAC name for CH₃CH₂COOCH₂CH₃ is",
+    "option": {
+      "a": "methylpropanoate",
+      "b": "ethylethanoate",
+      "c": "ethylpropanoate",
+      "d": "methylethanoate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "CH₃CH₂COOCH₂CH₃ is an ester. The acid part is CH₃CH₂COO- (propanoic acid, 3 carbons), and the alcohol part is -CH₂CH₃ (ethyl group, 2 carbons). IUPAC name: ethyl propanoate. The alcohol portion names the ester first (ethyl), followed by the acid portion (-anoate): ethylpropanoate.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 562,
+    "question": "What are the possible oxidation numbers of an element if its atomic number is 17?",
+    "option": {
+      "a": "-1 and 7",
+      "b": "-1 and 6",
+      "c": "-3 and 5",
+      "d": "-2 and 6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Atomic number 17 is chlorine, with electron configuration [Ne] 3s² 3p⁵ — 7 valence electrons. Chlorine can gain 1 electron to achieve −1 oxidation state, or lose electrons to reach +1, +3, +5, or +7. The extreme oxidation states are −1 and +7.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 573,
+    "question": "Which of the following gases will rekindle a brightly glowing splint?",
+    "option": {
+      "a": "NO₂",
+      "b": "NO",
+      "c": "N₂O",
+      "d": "Cl₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A glowing splint rekindling (bursting back into flame) is the standard test for oxygen or a gas that supports combustion. N₂O (dinitrogen monoxide/laughing gas) decomposes on heating to release oxygen: 2N₂O → 2N₂ + O₂. This oxygen relights the glowing splint. NO₂, NO, and Cl₂ do not rekindle a glowing splint in this way.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 581,
+    "question": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?",
+    "option": {
+      "a": "24,125 C",
+      "b": "48,250 C",
+      "c": "72,375 C",
+      "d": "96,500 C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "At the anode: 2H₂O → O₂ + 4H⁺ + 4e⁻. One mole of O₂ requires 4 Faradays. For 0.125 mol O₂: charge = 0.125 × 4 × 96500 = 48,250 C.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 637,
     "question": "SO₂ + O₂ → 2SO₃. In the reaction above, the most suitable catalyst is?",
     "option": {
@@ -78,6 +398,22 @@
     "solution": "The conversion of SO₂ to SO₃ is the key step in the Contact Process for manufacturing sulphuric acid. The catalyst used in this reaction is vanadium(V) oxide (V₂O₅). It operates at approximately 450°C and increases the rate of oxidation of SO₂ to SO₃ without being consumed in the overall reaction.",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 706,
+    "question": "Which group does calcium belong to in the periodic table?",
+    "option": {
+      "a": "Alkaline earth metals",
+      "b": "Halogens",
+      "c": "Alkali metals",
+      "d": "Noble gases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Calcium (Ca) has atomic number 20 and electron configuration [Ar] 4s². It is in Group IIA (Group 2) of the periodic table, known as the alkaline earth metals. This group includes beryllium, magnesium, calcium, strontium, barium, and radium. Alkali metals are Group IA, halogens are Group VIIA, and noble gases are Group VIII/0.",
+    "examtype": "utme",
+    "examyear": "2023"
   },
   {
     "id": 733,
@@ -96,6 +432,22 @@
     "examyear": "2024"
   },
   {
+    "id": 736,
+    "question": "The pH of a 0.001 mol dm⁻³ of H₂SO₄ is [Log₁₀2 = 0.3]",
+    "option": {
+      "a": "2.7",
+      "b": "3",
+      "c": "3.3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "H₂SO₄ is a diprotic strong acid: H₂SO₄ → 2H⁺ + SO₄²⁻. [H⁺] = 2 × 0.001 = 0.002 mol/dm³. pH = −log(0.002) = −log(2 × 10⁻³) = −(log 2 + log 10⁻³) = −(0.3 − 3) = −(−2.7) = 2.7.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 743,
     "question": "The ions responsible for permanent hardness in water are sulphates of",
     "option": {
@@ -108,6 +460,22 @@
     "image": "",
     "answer": "b",
     "solution": "Permanent hardness in water is caused by dissolved calcium sulphate (CaSO₄) and magnesium sulphate (MgSO₄) — the sulphate salts of Ca²⁺ and Mg²⁺. Unlike temporary hardness caused by bicarbonates, permanent hardness cannot be removed by boiling. It requires treatment with washing soda (Na₂CO₃) or ion exchange to remove the Ca²⁺ and Mg²⁺ ions.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 745,
+    "question": "CuO(s) + H₂(g) ⇌ Cu(s) + H₂O(g). In the equation above, the effect of increased pressure on the equilibrium position is that",
+    "option": {
+      "a": "the equilibrium is shifted to the left",
+      "b": "the equilibrium is shifted to the right",
+      "c": "there is no effect",
+      "d": "more H₂(g) is produced"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In this reaction, CuO and Cu are solids and do not contribute to the gas-phase equilibrium. The gaseous species are H₂(g) on the left and H₂O(g) on the right — 1 mole of gas on each side. Since the number of moles of gas is equal on both sides of the equation, a change in pressure has no effect on the equilibrium position.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -156,6 +524,22 @@
     "image": "",
     "answer": "a",
     "solution": "The product XCl shows X forms a monovalent chloride, meaning X has a valency of 1. Among the options, only K (potassium) is monovalent. Mg, Ca, and Ba are divalent and would form XCl₂, not XCl.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 783,
+    "question": "In the laboratory preparation of Chlorine, the gas is passed through a wash bottle of water to",
+    "option": {
+      "a": "dilute it",
+      "b": "absorb HCl gas",
+      "c": "neutralize it",
+      "d": "absorb the Cl₂ gas"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "During laboratory preparation of Cl₂ (using MnO₂ and concentrated HCl), HCl gas is carried along as an impurity. Passing through water removes HCl because HCl is extremely soluble in water, while Cl₂ is only slightly soluble and passes through.",
     "examtype": "utme",
     "examyear": "2025"
   }
