@@ -16,6 +16,22 @@
     "examyear": "2010"
   },
   {
+    "id": 8,
+    "question": "At the end of a trading period, wages will be  ",
+    "option": {
+      "a": "debited to trading account and shown as a current liability ",
+      "b": "credited to profit and loss Account and shown as a current liability ",
+      "c": "credited to trading account and shown as a current asset ",
+      "d": "debited to profit and loss account and shown as a current liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 11,
     "question": "The journal is a book ",
     "option": {
@@ -43,6 +59,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 15,
+    "question": "Money spent on buying of plots of land by a firm is ",
+    "option": {
+      "a": "Capital Expenditure ",
+      "b": "capital receipts ",
+      "c": "Revenue Expenditure",
+      "d": " Revenue Receipts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -784,6 +816,22 @@
     "examyear": "1997"
   },
   {
+    "id": 177,
+    "question": "Which of the following is not a capital expenditure to a local government?",
+    "option": {
+      "a": "Beds",
+      "b": "Theatre equipment",
+      "c": "Incubators",
+      "d": "Drugs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 183,
     "question": "Accumulated depreciation at the time of sale was",
     "option": {
@@ -1056,6 +1104,22 @@
     "examyear": "2006"
   },
   {
+    "id": 232,
+    "question": "The unit which keeps government’s books of accounts is the",
+    "option": {
+      "a": "Central Bank",
+      "b": "Internal Audit Department",
+      "c": "Treasury Department",
+      "d": "Accountant General’s Department."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 236,
     "question": "Which of the following is not used in solving problems of incomplete records?",
     "option": {
@@ -1312,6 +1376,22 @@
     "examyear": "2012"
   },
   {
+    "id": 283,
+    "question": "If creditors at 1/1/10 were Le 3,000; creditors at 31/12/10 Le 5,500 and payments to creditors Le 29,000. The purchases figure for 2010 is",
+    "option": {
+      "a": "Le 34,500",
+      "b": "Le 32,000",
+      "c": "Le 31,500",
+      "d": "Le 26,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 287,
     "question": "The amount of recurrent expenditure was",
     "option": {
@@ -1543,6 +1623,22 @@
       "b": "supplementary general warrant",
       "c": "provisional general warrant",
       "d": "supplementary statutory warrant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 342,
+    "question": "Which of the following is found on the credit side of a partnership’s appropriation of profit account?",
+    "option": {
+      "a": "Interest on capital",
+      "b": "Interest on drawings",
+      "c": "share of profit",
+      "d": "Drawings"
     },
     "section": "",
     "image": "",
@@ -1888,6 +1984,38 @@
     "examyear": "2004"
   },
   {
+    "id": 432,
+    "question": "The budget statement presented to the legislature by the Chief Executive is called",
+    "option": {
+      "a": "an appropriation act",
+      "b": "a budget bill",
+      "c": "an appropriation bill",
+      "d": "a budget proposal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 434,
+    "question": "A company has departments X, Y and Z. Department X occupies a space twice that of Y while Z   occupies half the space of  Y. If the company pays N 70 000 on rent, what is the amount of rent that should be allocated to Y?",
+    "option": {
+      "a": "N 30,000",
+      "b": "N 40,000",
+      "c": "N 20,000",
+      "d": "N 10, 000."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 442,
     "question": "In the trading and profit and loss account of a manufacturing organization, purchases is",
     "option": {
@@ -2172,6 +2300,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Major Difference Of The Financial Statement between a Sole Proprietorship And Partnership is More than one capital account. The number of capital accounts depends on the number of partners in the Partnership concern. Profit & loss is distributed to the partners' capital account according to the agreed ratio",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 527,
+    "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it can be used for more than one year is",
+    "option": {
+      "a": "Materiality",
+      "b": "Accrual",
+      "c": "Going concern",
+      "d": "Business entity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Materiality states that only items of material values are recorded e.g. the cost of a stapler should not be capitalized but expensed just as kitchen cutlery.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2620,6 +2764,22 @@
     "image": "",
     "answer": "b",
     "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 611,
+    "question": "A business has the following information for a particular period:\nCreditors had an opening balance of ₦3,000 and a closing balance of ₦4,000. Debtors had a closing balance of ₦6,000 but the opening balance is not given. During the period, cash received from debtors was ₦35,000, cash paid to suppliers was ₦25,000, discount allowed to customers was ₦4,000, and discount received from suppliers was ₦4,200.\nWhat is the total sales for the period?",
+    "option": {
+      "a": " ₦37,000",
+      "b": "₦36,000",
+      "c": "₦45,000",
+      "d": "₦40,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To find total sales, work with the debtors account movement:\nDebtors Account Analysis:\n\nCash received from debtors: ₦35,000\nDiscount allowed to customers: ₦4,000\nClosing balance: ₦6,000\n\nUsing the debtors account formula:\nOpening Balance + Sales - Cash Received - Discount Allowed = Closing Balance\nLet Opening Balance = X and Sales = S\nX + S - 35,000 - 4,000 = 6,000\nX + S = 45,000\nSince we need total sales and the opening balance of debtors would be zero or the sales figure itself represents the period's activity:\nTotal Sales = ₦45,000",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3952,6 +4112,22 @@
     "examyear": "2024"
   },
   {
+    "id": 927,
+    "question": "An example of fictitious assets is",
+    "option": {
+      "a": "stock",
+      "b": "overdraft",
+      "c": "goodwill",
+      "d": "profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Fictitious assets are intangible assets that do not have a physical form and lack inherent value. They represent deferred expenses or prepaid costs that provide benefits over future periods. For example: Preliminary Expense: Discount on Issue of Shares, Goodwill etc.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 932,
     "question": "A commission of ₦5000 to a sales manager was debited to debtors account. This is an error of",
     "option": {
@@ -4172,6 +4348,22 @@
     "image": "",
     "answer": "d",
     "solution": "Trial Balance:\nDebit Side:\n\nPurchases = ₦7,500\nLight expenses = ₦900\nRent = ₦1,500\nDebtors = ₦6,000\nDrawings = ₦2,500\nBank = ₦400\nGeneral expenses = ₦1,500\nTotal Debit = ₦20,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300\n\nWait, let me adjust to make it balance properly:\nCorrected figures:\n\nCapital = ₦13,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 970,
+    "question": "Bariga, a stock broker bought stationery for ₦ 12000 by cash. To record this transaction, debit?",
+    "option": {
+      "a": "cash and credit stationery",
+      "b": "purchase and credit stationery",
+      "c": "stationery and credit cash",
+      "d": "stationery and credit purchases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation: buying stationery for cash increases the stationery account (debit) and decreases cash (credit).",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -4960,6 +5152,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1130,
+    "question": "<b>Use the information below to answer questions 15 and 16</b>\n\nCalculate the value of fixed assets",
+    "option": {
+      "a": "₦17,052",
+      "b": "₦18469",
+      "c": "₦27 001",
+      "d": "₦27051"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663151/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q15-16_s3clfz.png",
+    "answer": "a",
+    "solution": "Fixed assets:\n\nLand & building = ₦8,470\n\nFurniture & fittings = ₦5,120\n\nMotor vehicles = ₦3,462\n\nTotal fixed assets =\n8,470 + 5,120 + 3,462 = ₦17,052",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1144,
     "question": "Income and expenditure account is more informative than receipts and payments account because it discloses?",
     "option": {
@@ -5100,6 +5308,22 @@
     "image": "",
     "answer": "b",
     "solution": "COGS = Opening stock + Purchases + Direct production wages − Closing stock\n\nSo: ₦800 + ₦2,450 + ₦675 − ₦940\n= ₦3,925 − ₦940\n= ₦2,985",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1175,
+    "question": "The normal accounting entry to record the dishonor of a businessman is to?",
+    "option": {
+      "a": "debit cash book and credit suspense account",
+      "b": "debit cash book and credit drawer",
+      "c": " credit caah book and debit suspense account",
+      "d": " credit cash book and debit drawer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: When a bill or cheque is dishonoured, the amount is removed from the cash/bank (credit cash book) and reinstated as a receivable from the person who gave it (debit drawer).",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -5388,6 +5612,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Calculate the gross amount\n10 bags × ₦500 = ₦5,000\nStep 2: Apply trade discount (5%)\nTrade discount = 5% × ₦5,000 = ₦250\nNet amount after trade discount = ₦5,000 - ₦250 = ₦4,750\nStep 3: Apply cash discount (12%)\nCash discount = 12% × ₦4,750 = ₦570\nStep 4: Determine what gets recorded\n\nTrade discount is NOT recorded in the books - it's deducted before recording the purchase\nCash discount IS recorded in the books as \"Discount Received\"\n\nTherefore, only the cash discount of ₦570 will be recorded as discount received in the company's books.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1223,
+    "question": "A cash book had opening balance of ₦15,200 closing balance ₦18,400 and total cash received during the period ₦36,000. What was the amount of cash paid out during the same period?",
+    "option": {
+      "a": " ₦17,800",
+      "b": " ₦19,600",
+      "c": " ₦29,200",
+      "d": "₦32,800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Opening Balance + Cash Received - Cash Paid = Closing Balance\nRearranging to find Cash Paid:\nCash Paid = Opening Balance + Cash Received - Closing Balance\nSubstituting the values:\nCash Paid = ₦15,200 + ₦36,000 - ₦18,400\nCash Paid = ₦51,200 - ₦18,400 = ₦32,800",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -5744,6 +5984,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1296,
+    "question": "Given:\nOpening cash balance ₦20,000\nSales of match tickets ₦15,000\nClearing of pitch ₦1,200\nRefreshments ₦3,500\nReferees' allowance ₦1,000\nCost of petrol ₦1,120\nDonation from local government ₦3,800\n\nThe club's balance is?",
+    "option": {
+      "a": "₦39,180",
+      "b": "₦34,830",
+      "c": "₦34,380",
+      "d": "₦31,980"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Opening cash: ₦20 000\nAdd receipts:\n\nSales of match tickets: ₦15 000\n\nDonation from local government: ₦3 800\nSubtotal: 20 000 + 15 000 + 3 800 = ₦38 800\n\nLess payments:\n\nClearing of pitch: ₦1 200\n\nRefreshments: ₦3 500\n\nReferees’ allowance: ₦1 000\n\nCost of petrol: ₦1 120\nTotal payments: 1 200 + 3 500 + 1 000 + 1 120 = ₦6 820\n\nClosing cash: 38 800 − 6 820 = ₦31 980",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1300,
     "question": "The accumulation fund of a non-trading concern can equally be referred to as?",
     "option": {
@@ -5760,6 +6016,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1303,
+    "question": "<b>Use the information below to answer question 39 and 40</b>\n\nRakya and Joy are in partnership and agreed that 5% interest per annum is to be charged on drawings. The drawing made by both partners in one year were: Rakiya, ₦200 on March 31 and ₦300 on September 30, Joy, ₦100 on April 1 and ₦240 on July 1\n\nThe interest on Joy’s drawing is",
+    "option": {
+      "a": "₦6.00",
+      "b": "₦7.25",
+      "c": "₦9.00",
+      "d": "₦9.75"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Assuming the accounting year ends on December 31, we calculate interest on Joy’s drawings from the date of each drawing to the year-end:\n\n₦100 drawn on April 1\nInterest for 9 months (Apr 1–Dec 31):\n\n100 × 5% × 9/12 = 100 × 0.05 × 0.75 = ₦3.75\n\n\n₦240 drawn on July 1\nInterest for 6 months (Jul 1–Dec 31):\n\n240 × 5% × 6/12 = 240 × 0.05 × 0.5 = ₦6.00\n\nTotal interest on Joy’s drawings = ₦3.75 + ₦6.00 = ₦9.75",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1309,
     "question": "(i) Meet growth and diversification need.\n(ii) Reach out to particular customers or markets\n(iii) Comply with some regulatory directives\n(iv) Increase employees' income.\nWhich of the reasons above do companies consider in establishing branches?",
     "option": {
@@ -5772,6 +6044,22 @@
     "image": "",
     "answer": "b",
     "solution": "Companies typically establish branches to support strategic objectives such as expanding operations, targeting new customer segments, or meeting legal/regulatory requirements, not simply to boost employee earnings.\n\nThat means they consider:\n\nMeet growth and diversification needs\n\nReach out to particular customers or markets\n\nComply with some regulatory directives\n\nThey do not set up branches primarily to increase employees’ income.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1311,
+    "question": "Given the following information for two departments: Department A has floor space 400m, machine 1200, turnover ₦36 million, and labour hours 1000; Department B has floor space 600m, machine 1400, turnover ₦64 million, and labour hours 1400. A joint cost of ₦72 million incurred by the two departments was apportioned ₦30 million to A and ₦42 million to B. The basis used for apportionment must have been what?",
+    "option": {
+      "a": " labour hours",
+      "b": "floor space",
+      "c": "turnover",
+      "d": " machine hours"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The allocation ratio is:\n\nDepartment A: ₦30 million\nDepartment B: ₦42 million\nTotal: ₦72 million\nRatio A:B = 30:42 = 5:7\n\n\nLabour hours:\n\nDept A: 1000, Dept B: 1400\nTotal: 2400\nRatio = 1000:1400 = 5:7 ",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -6092,6 +6380,22 @@
     "image": "",
     "answer": "a",
     "solution": "The discounts received column in the cash book records discounts given to us by suppliers, that is, reductions in the amount we pay.\n\nThis is a gain to the business and should be credited in the discounts received account.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1375,
+    "question": "<b>Use the information below to answer questions 11 and 12.   The initial imprest as at July 1st was ₦500. Petty cash voucers with the custodian by July 15th added up to ₦394. An IOU slip received from a co-worker was ₦65 and there was a shorage of ₦5 cash. The co-worker made refund on July 18th just before the imprest was replenished.</b>\n\n\n\nWhat was the actual cash in the till as at 15th July?",
+    "option": {
+      "a": "₦106",
+      "b": "₦101",
+      "c": "₦70",
+      "d": "₦36"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To find the actual cash in the till as at July 15th, account for all the items in the petty cash box.\nGiven information:\n\nInitial imprest (July 1st): ₦500\nPetty cash vouchers by July 15th: ₦394\nIOU slip from co-worker: ₦65\nCash shortage: ₦5\n\nAnalysis of what should be in the till:\nThe imprest system means the total value of cash + vouchers + IOUs should equal the original imprest amount.\nExpected composition on July 15th:\n\nCash + Vouchers + IOU = ₦500\nCash + ₦394 + ₦65 = ₦500\nCash = ₦500 - ₦394 - ₦65 = ₦41\n\nActual cash in the till:\nExpected cash: ₦41\nLess: Cash shortage: ₦5\nActual cash in till: ₦41 - ₦5 = ₦36",
     "examtype": "utme",
     "examyear": "1998"
   },
