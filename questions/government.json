@@ -2720,6 +2720,22 @@
     "examyear": "2013"
   },
   {
+    "id": 257,
+    "question": "In Nigeria, the head of the electoral commission is called the",
+    "option": {
+      "a": "Administrative Secretary",
+      "b": "Chairman",
+      "c": "Electoral Commissioner",
+      "d": "Presiding Officer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 261,
     "question": "The first military intervention in Nigeria politics was in",
     "option": {
@@ -5712,6 +5728,22 @@
     "examyear": "2013"
   },
   {
+    "id": 538,
+    "question": "Nigeria adopted a federal system of government because of",
+    "option": {
+      "a": "the fear of domination of minorities",
+      "b": "uneven development",
+      "c": "the availability of limited resource",
+      "d": "the adoption of a state religion."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 539,
     "question": "The highest policy making body under the Gowon Regime was the",
     "option": {
@@ -8508,6 +8540,22 @@
     "image": "",
     "answer": "c",
     "solution": "Legitimacy is determined by the people's acceptance of a government’s rule.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 802,
+    "question": "A.V. Dicey popularised the principle of",
+    "option": {
+      "a": "rule of law",
+      "b": "democracy",
+      "c": "political vulture",
+      "d": "separation of powers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A.V. Dicey is known for popularizing the rule of law concept.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -15644,6 +15692,22 @@
     "image": "",
     "answer": "c",
     "solution": "The council constituted by Lord Lugard in 1914, following the amalgamation of Northern and Southern Nigeria, had 36 members; 24 official and 12 unofficial members. This was part of his administrative structure aimed at unifying the two regions.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1493,
+    "question": "Nigeria’s withdrawal from the Edinburgh Commonwealth Games in July 1986 was in protest against British",
+    "option": {
+      "a": "supply of arms of Rhodesia",
+      "b": "failure to impose sanctions on South Africa",
+      "c": "negative utterances on Nigeria",
+      "d": "support for UNITA rebels in Angola"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Nigeria withdrew from the 1986 Edinburgh Commonwealth Games in protest against the British government's reluctance to impose sanctions on apartheid South Africa.",
     "examtype": "utme",
     "examyear": "2015"
   }
