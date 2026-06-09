@@ -1104,6 +1104,22 @@
     "examyear": "2000"
   },
   {
+    "id": 107,
+    "question": "In how many ways can a delegation of 3 be chosen from among 5 men and 3 women, if at least one man and at least one woman must be included?",
+    "option": {
+      "a": "15",
+      "b": "28",
+      "c": "30",
+      "d": "45"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "No of ways of choosing 1 man, 2 women = 5C1 x 3C2\nNo of ways of choosing 2 men, 1 woman = 5C2 x 3C1\nSumming, => (5C1 x 3C2) + (5C2 x 3C1) = 15 + 30 = 45",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 108,
     "question": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)? ",
     "option": {
@@ -5344,6 +5360,22 @@
     "examyear": "2007"
   },
   {
+    "id": 446,
+    "question": "If x<sub>10</sub> = 1214<sub>5</sub> find x",
+    "option": {
+      "a": "124",
+      "b": "121",
+      "c": "184",
+      "d": "180"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": " x<sub>10</sub> = 1214<sub>5</sub>\n= x x<sub>10</sub>  = 1 x 5<sup>3</sup> + 2 x 5<sup>2</sup> + 1 * 5<sup>1</sup> + 4 x 5<sup>0</sup>\n= 1 x 125 + 2 x 25 + 1 x 5 + 4 x 1\n= 125 + 50 + 5 + 4\n= 184",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 447,
     "question": "Evaluate ((05652)<sup>2</sup> - (04375)<sup>2</sup>)/0.04 correct to three significant figures",
     "option": {
@@ -5740,6 +5772,22 @@
     "image": "",
     "answer": "b",
     "solution": "(x – 3) ∝ y<sup>2</sup>\nX-3 = Ky<sup>2</sup>\nK = X-3 / y<sup>2</sup>\n= 5-2/2<sup>2</sup>\n= 2/4\n= 1/2\n∴X-3 = 1/2y<sup>2</sup>\nX-3 = 1/2 (6)<sup>2</sup>\nX-3 = 1/2 x 36/1\nX-3 = 18\nX = 21",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 487,
+    "question": "If p varies inversely as the square of q and p=8 when q=4, find q when p =32",
+    "option": {
+      "a": "± 16",
+      "b": "± 8",
+      "c": "± 4",
+      "d": "± 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "p ∝ 1/q\np = k/q\nK = q<sup>2</sup>p= 4<sup>2</sup>(8)\n∴p = 128/q\n32 = 128/q\nq<sup>2</sup> = 128/32\nq<sup>2</sup> = 4\nq = √4 = ± 2",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -7824,6 +7872,22 @@
     "examyear": "2011"
   },
   {
+    "id": 657,
+    "question": "Find ∫ cos4 x dx",
+    "option": {
+      "a": " 3/4 sin 4x + k",
+      "b": "-1/4 sin 4x + k",
+      "c": " -3/4 sin 4x + k",
+      "d": " 1/4 sin 4x + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "∫ cos4 x dx\n\nlet u = 4x\n\ndy/dx = 4\n\ndx = dy/4\n\n\n∫cos u. dy/4 = 14\n∫cos u du\n\n= 1/4 sin u + k\n\n= 1/4 sin4x + k",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 658,
     "question": "The sum of four consecutive integers is 34. Find the least of these numbers",
     "option": {
@@ -8800,6 +8864,22 @@
     "examyear": "2013"
   },
   {
+    "id": 786,
+    "question": "If a binary operation * is defined by x * y = x + 2y, find 2 * (3 * 4)",
+    "option": {
+      "a": "24",
+      "b": "16",
+      "c": "14",
+      "d": "26"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x * y = x + 2y (given)\n\n3 * 4 = 3 + 2(4) = 11\n\nHence, 2 * (3 * 4) = 2 * 11\n\n= 2 + 2(11)\n\n= 2 + 22\n\n= 24",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 789,
     "question": "If y = x sin x, find δy/δx",
     "option": {
@@ -9388,6 +9468,22 @@
     "image": "",
     "answer": "b",
     "solution": "Perimeter = 2r + θ/360\n x 2πr\n= 2(12) + 60/360\n x 2 x π x 12\n= (24 + 4π)cm",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 837,
+    "question": "The table above shows the frequency distribution of marks obtained by a group of students. If the total mark is 48, find the value of y.",
+    "option": {
+      "a": "6",
+      "b": "8",
+      "c": "7",
+      "d": "5"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>M</mi>\n        <mi>a</mi>\n        <mi>r</mi>\n        <mi>k</mi>\n        <mi>s</mi>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mi>F</mi>\n        <mi>r</mi>\n        <mi>e</mi>\n        <mi>q</mi>\n        <mi>u</mi>\n        <mi>e</mi>\n        <mi>n</mi>\n        <mi>c</mi>\n        <mi>y</mi>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mi>y</mi>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003093/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q19_gwzbht.jpg",
+    "answer": "c",
+    "solution": "(2 x 4) + (3 x 4) + (4 x y) = 48\n8 + 12 + 4y = 48\n4y = 48 - 20\n4y/4 = 28/4\ny = 7",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -10620,6 +10716,22 @@
     "image": "",
     "answer": "c",
     "solution": "Since the salary increases by #36 after every 6 months\n\n: 2 years and 8 months imply an increase of five times only:\n\n36 * 5 →  #180\n\n His salary then = initial salary + increment\n\n  = 540 + 180\n\n  = #720",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 949,
+    "question": "A man stands on a tree 150cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree.",
+    "option": {
+      "a": "52 cm",
+      "b": "43 cm",
+      "c": "40 cm",
+      "d": "15 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Tan 74 = 150/x\n\n  x = 150/tan 74\n\n  = 43.01 cm",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -14348,6 +14460,22 @@
     "image": "",
     "answer": "b",
     "solution": "x<sup>2</sup> − 2x − 3 = 0\n\n−3x + x = − 2x\n\n− 3x × x = − 3x<sup>2</sup>\n\n(x<sup>2</sup> − 3x)(x − 3) = 0\n\n(x − 3)(x + 1) = 0\n\nEither (x − 3) = 0 or (x + 1) = 0\n\nx = 3 or − 1",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1267,
+    "question": "The probability of an event A is 1/5. The probability of B is 1/3 . The probability both A and B is 1/15. What is the probability of either event A or B or both",
+    "option": {
+      "a": "2/15",
+      "b": "3/4",
+      "c": "9/15",
+      "d": "1/15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In probability, or = +\n\nProb( A or B or Both ) = 1/3 + 1/5 + 1/15 = (5+3+1)/15\n = 9/15\n = 3/5",
     "examtype": "utme",
     "examyear": "2015"
   },
