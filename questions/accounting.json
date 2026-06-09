@@ -6384,6 +6384,22 @@
     "examyear": "2017"
   },
   {
+    "id": 632,
+    "question": "Salaries in arrears is treated in the balance sheet as a",
+    "option": {
+      "a": " current asset",
+      "b": "current liability",
+      "c": "fixed asset",
+      "d": "long term liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Current Liability: salaries in arrears fall into the category of them under the current liability because it is benefit due to outsiders but still enjoying by the organisation and can't exceed a year",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 633,
     "question": "A business acquisition shows the following assets and liabilities: Plant and Machinery ₦190,000, Motor Vehicle ₦170,000, Stock ₦60,000, Current Liabilities ₦50,000, Purchase consideration ₦400,000. Determine the amount of goodwill.",
     "option": {
@@ -9856,6 +9872,22 @@
     "examyear": "2008"
   },
   {
+    "id": 997,
+    "question": "Given:\nCapital:\nG...........₦5,000\nT...........₦8,000\nDrawings:\nG...........₦2,000\nT...........₦1,000\nInterest on capital..10%\nInterest on Drawings..5%\nFind the interest on drawings of G?",
+    "option": {
+      "a": "₦50",
+      "b": "₦100",
+      "c": "₦200",
+      "d": "₦250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Calculation:\nInterest on drawings for G = Drawings × Interest rate\nInterest on drawings for G = ₦2,000 × 5%\nInterest on drawings for G = ₦2,000 × 0.05\nInterest on drawings for G = ₦100",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 998,
     "question": "The entry in the partnership books of accounts for interest on drawings is to?",
     "option": {
@@ -9884,6 +9916,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a partner takes over an asset during partnership dissolution:\nJournal Entry:\n\nDebit: Partner's Capital Account (at agreed value)\nCredit: Realization Account (at agreed value)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1001,
+    "question": "Cash received from the subscribed shares is recorded by debting?",
+    "option": {
+      "a": "application, allotment and crediting cash",
+      "b": "allotment and crediting cash",
+      "c": "cash and crediting subscribed shares",
+      "d": "cash, crediting application and allotment account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When cash is received from subscribed shares, the journal entry is:\nDebit: Cash Account (cash is coming into the company)\nCredit: Application and Allotment Account (to record the liability to issue shares)",
     "examtype": "utme",
     "examyear": "2008"
   },
