@@ -4480,6 +4480,22 @@
     "examyear": "1999"
   },
   {
+    "id": 311,
+    "question": "The principle of collectively responsibility implies that",
+    "option": {
+      "a": "individual views cannot be expressed",
+      "b": "decisions taken are defended in spite of individual opinions",
+      "c": "those who hold different views must acquiesce",
+      "d": "government cannot be personalized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 312,
     "question": "A government controlled by a few people for their own interests is said to be",
     "option": {
@@ -8875,6 +8891,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 601,
+    "question": "The number of permanent members of the UN Security Council is",
+    "option": {
+      "a": "eight",
+      "b": "five",
+      "c": "six",
+      "d": "seven"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -14380,6 +14412,22 @@
     "image": "",
     "answer": "b",
     "solution": "An homogeneous state has a single language, belief, culture and ethnicity among its people.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 986,
+    "question": "The ________ as a new policy direction introduced by the French government that was aimed at granting more autonomy to its colonies under pressure from independence movements.",
+    "option": {
+      "a": "policy of assimilation",
+      "b": "indignant policy",
+      "c": "policy of association",
+      "d": "Loi cadre"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The loi-cadre ( Reform Act) was a French legal reform passed by the French National Assembly on 23 June 1956. It marked a turning point in relations between France and its overseas empire. Under pressure from independence movements in the colonies, the government transferred a number of powers from Paris to elected territorial governments in French African colonies and also removed remaining voting inequalities by implementing universal suffrage and abolishing the multiple electoral college system.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -21772,6 +21820,22 @@
     "image": "",
     "answer": "d",
     "solution": "In a Presidential System of Government, the president is elected to office by the people through direct elections. This means that citizens have the opportunity to vote directly for their president, rather than the president being appointed or elected by the legislature, cabinet or military. ",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1488,
+    "question": "The act of removing an elected official by the electorate is referred to as",
+    "option": {
+      "a": "impeachment",
+      "b": "consensus",
+      "c": "recall",
+      "d": "plebiscite"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A recall is a procedure that allows voters to remove an elected official from office before their term is completed. This process is initiated by the electorate, and if sufficient signatures or support is gathered, a recall election is held. This is distinct from impeachment, which is a legislative process used to remove officials from office for misconduct, and from plebiscite, which is a direct vote by the electorate on an important public question.",
     "examtype": "utme",
     "examyear": "2015"
   },
