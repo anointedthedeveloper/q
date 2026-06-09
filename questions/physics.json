@@ -1376,6 +1376,22 @@
     "examyear": "2012"
   },
   {
+    "id": 118,
+    "question": "Three knives made of steel, plastic and flat wood respectively are placed on the table for an equal amount of time. The steel knife feels coldest to touched because",
+    "option": {
+      "a": "The steel knife has the lowest temperature ",
+      "b": "The plastic and wooden knives have absorbed more heat from the environment than the steel knife. ",
+      "c": "Both wooden and plastic knives have lower densities than the steel ",
+      "d": "The steel knife conducts heat faster from the finger than the wooden and plastic knives "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 119,
     "question": "Which of the following quantities is a scalar quantity?",
     "option": {
@@ -4400,6 +4416,22 @@
     "examyear": "2020"
   },
   {
+    "id": 381,
+    "question": "The force required to make an object of mass m, travelling with velocity v, turn in a circle of radius r is",
+    "option": {
+      "a": "mv²/r",
+      "b": "mr²/v",
+      "c": "mrv",
+      "d": "mv/r²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Understanding circular motion:\nFor an object moving in a circle at constant speed, a centripetal force is required to keep it moving in that circular path.\nCentripetal force formula:\nF = mv²/r\nwhere:\n\nm = mass of the object\nv = velocity (speed) of the object\nr = radius of the circular path\n\nDerivation concept:\n\nCentripetal acceleration = v²/r\nForce = mass × acceleration\nTherefore: F = m × (v²/r) = mv²/r",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 382,
     "question": "\nA machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms⁻¹. The recoil speed of the machine gun is",
     "option": {
@@ -4700,6 +4732,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nDistance between fixed points = 210 mm\nMercury column height above lower fixed point = 49 mm\nLower fixed point (ice point) = 0°C\nUpper fixed point (steam point) = 100°C\nRoom temperature = ?\n\nUnderstanding the thermometer scale:\nThe distance of 210 mm represents the temperature range from 0°C to 100°C.\nFormula:\nTemperature = (Height above lower fixed point / Total distance) × 100°C\nCalculating:\nTemperature = (49/210) × 100°C\nTemperature = 0.2333... × 100°C\nTemperature = 23.33°C\nTemperature ≈ 23.3°C",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 410,
+    "question": "Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is P₁ while the pressure on H is P₂. If the atmospheric pressure is equivalent to 10m of water, then the value of P₂/P₁ is?",
+    "option": {
+      "a": "0.5",
+      "b": "0.6",
+      "c": "1.67",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nDepth of diver G = 20 m\nDepth of diver H = 40 m\nAtmospheric pressure = 10 m of water\nP₂/P₁ = ?\n\nUnderstanding pressure in liquids:\nTotal pressure = Atmospheric pressure + Pressure due to water depth\nP = P₀ + ρgh\nIn terms of water column height:\nP = Atmospheric pressure (in m) + Depth (in m)\nStep 1: Calculate pressure on diver G (P₁)\nP₁ = Atmospheric pressure + Depth of G\nP₁ = 10 m + 20 m = 30 m of water\nStep 2: Calculate pressure on diver H (P₂)\nP₂ = Atmospheric pressure + Depth of H\nP₂ = 10 m + 40 m = 50 m of water\nStep 3: Calculate ratio P₂/P₁\nP₂/P₁ = 50/30\nP₂/P₁ = 5/3\nP₂/P₁ = 1.67",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -5216,6 +5264,22 @@
     "examyear": "2021"
   },
   {
+    "id": 451,
+    "question": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss (specific heat capacity of copper = 400 Jkg⁻¹K⁻¹, latent heat of fusion of ice = 3.3 × 10⁵ Jkg⁻¹)",
+    "option": {
+      "a": "8/33 kg",
+      "b": "3.380 kg",
+      "c": "80/33 kg",
+      "d": "3.38 kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of copper (m_c) = 2 kg\nTemperature change (ΔT) = 100 - 0 = 100°C\nSpecific heat capacity of copper (c) = 400 J/(kg·K)\nLatent heat of fusion of ice (L_f) = 3.3 × 10⁵ J/kg\nMass of ice melted (m) = ?\n\nEnergy conservation:\nHeat lost by copper = Heat gained by ice melting\nm_c × c × ΔT = m × L_f\nSubstituting values:\n2 × 400 × 100 = m × (3.3 × 10⁵)\n80,000 = m × 330,000\nSolving for m:\nm = 80,000 / 330,000\nm = 80/330\nm = 8/33 kg\nConverting to decimal:\nm = 8/33 ≈ 0.242 kg",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 453,
     "question": "If a sound wave goes from a cold air region to a hot air region, its wavelength will?",
     "option": {
@@ -5564,6 +5628,22 @@
     "image": "",
     "answer": "d",
     "solution": "A sea breeze describes a wind that blows from the ocean inland towards land.\n\nThis breeze occurs most often in the spring and summer months because of the greater temperature differences between the ocean and nearby land, particularly in the afternoon when the land is at maximum heating from the sun.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 486,
+    "question": "Which component of fiber-optic connector has a provision of entry for the fibre along with the fixation to connector housing?",
+    "option": {
+      "a": "coupling device",
+      "b": "cable",
+      "c": "ferrule",
+      "d": "connector housing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The ferrule is the critical component that holds the optical fiber in place and provides the entry point for it. It fits securely into the connector housing while keeping the fiber aligned for proper light transmission between connected fibers.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -6044,6 +6124,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614922/ALOC-Questions/Physics/2023/physics_2023-Q26_gyyxse.png",
     "answer": "b",
     "solution": "Given information:\n\nForce F₁ = 16 N at 26° above negative x-axis\nForce F₂ = 12 N at 32° above positive x-axis\nForce F₃ = 21 N along negative y-axis\n\nSolution:\nStep 1: Resolve forces into x-components\nTaking right as positive (+ve) and left as negative (-ve):\nFₓ = 12 cos 32° - 16 cos 26°\nFₓ = 10.18 - 14.38\nFₓ = -4.20 N\nStep 2: Resolve forces into y-components\nTaking up as positive (+ve) and down as negative (-ve):\nFᵧ = 12 sin 32° + 16 sin 26° - 21\nFᵧ = 6.36 + 7.01 - 21\nFᵧ = -7.63 N\nStep 3: Calculate magnitude of resultant\nR² = Fₓ² + Fᵧ²\nR² = (-4.20)² + (-7.63)²\nR² = 17.64 + 58.22\nR² = 75.86\nR = √75.86\nR = 8.71 N\nStep 4: Calculate angle with x-axis\ntan θ = opposite/adjacent\ntan θ = Fᵧ/Fₓ\ntan θ = 7.63/4.20\ntan θ = 1.8095\nθ = tan⁻¹(1.8095)\nθ = 61°\nAnswer: B. 8.71N, 61°",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 526,
+    "question": "A travelling wave of amplitude 0.80 m has a frequency of 16 Hz and a wave speed of 20 ms⁻¹. Calculate the wave number of the wave.",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nAmplitude, A = 0.80 m\nFrequency, f = 16 Hz\nWave speed, v = 20 m/s\nWave number, k = ?\n\nSolution:\nStep 1: Calculate wavelength\nUsing the wave equation:\nv = fλ\nλ = v/f\nλ = 20/16\nλ = 1.25 m\nStep 2: Calculate wave number\nWave number is defined as:\nk = 2π/λ\nk = 2π/1.25\nk = 2 × 3.142/1.25\nk = 6.284/1.25\nk = 5.03 rad/m\nk ≈ 5 rad/m",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -6912,6 +7008,22 @@
     "examyear": "2004"
   },
   {
+    "id": 611,
+    "question": "The energy stored in an inductor of inductance 5mH when a current of 6A flows through it is",
+    "option": {
+      "a": "9.0 × 10⁻³ J",
+      "b": "9.0 × 10⁻² J",
+      "c": "1.4 × 10⁻² J",
+      "d": "1.8 × 10⁻³ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Formula:\nEnergy stored in an inductor: E = ½LI²\nWhere:\n\nE = energy (in joules)\nL = inductance (in henries)\nI = current (in amperes)\n\nStep 1: Substitute values\nE = ½ × (5 × 10⁻³) × (6)²\nStep 2: Calculate\nE = ½ × (5 × 10⁻³) × 36\nE = ½ × 180 × 10⁻³\nE = 90 × 10⁻³\nE = 9.0 × 10⁻² J",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 612,
     "question": "Which of the following is an electrolyte?",
     "option": {
@@ -7068,6 +7180,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nForce on effort piston, F₁ = 40 N\nArea of effort piston, A₁ = 0.4 m²\nForce on load piston, F₂ = 400 N\nArea of load piston, A₂ = ?\n\nSolution:\nPascal's Principle:\nIn a hydraulic press, pressure is transmitted equally throughout the fluid.\nP₁ = P₂\nFormula:\nF₁/A₁ = F₂/A₂\nStep 1: Substitute values\n40/0.4 = 400/A₂\nStep 2: Cross-multiply\n40 × A₂ = 400 × 0.4\n40 × A₂ = 160\nStep 3: Solve for A₂\nA₂ = 160/40\nA₂ = 4 m²",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 626,
+    "question": "A 100kg box is pushed along a road with force of 500N. If the box moves with a uniform velocity, the coefficient of friction between the box and the road is",
+    "option": {
+      "a": "0.4",
+      "b": "1",
+      "c": "0.8",
+      "d": "0.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 100 kg\nApplied force, F = 500 N\nMotion: uniform velocity (constant velocity)\nAcceleration due to gravity, g = 10 m/s²\n\nSolution:\nKey concept:\nWhen an object moves with uniform velocity, acceleration = 0, therefore net force = 0.\nThis means: Applied force = Frictional force\nStep 1: Determine frictional force\nSince velocity is constant:\nFrictional force, f = Applied force = 500 N\nStep 2: Calculate normal reaction\nNormal reaction, N = mg\nN = 100 × 10 = 1000 N\nStep 3: Calculate coefficient of friction\nFormula: f = μN\nWhere μ = coefficient of friction\nμ = f/N\nμ = 500/1000\nμ = 0.5",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -8716,6 +8844,22 @@
     "image": "",
     "answer": "a",
     "solution": "The phenomenon of light bending around an obstacle is:  diffraction",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 766,
+    "question": "The instrument used by designers to obtain different color pattern is called?",
+    "option": {
+      "a": "periscope",
+      "b": "sextant",
+      "c": "episcope",
+      "d": "kaleidoscope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Kaleidoscope is an optical instrument that creates patterns and designs by reflecting light through coloured materials.",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -11504,6 +11648,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1022,
+    "question": "The characteristic of a vibration that determines its intensity is the",
+    "option": {
+      "a": "Frequency",
+      "b": "Overtone",
+      "c": "Wavelength",
+      "d": "Amplitude"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The higher the amplitude of sound the larger the loudness of sound and the lower the amplitude of sound waves the softer the loudness of sound by this we get to know that the amplitude of a sound wave decides the loudness of sound or we can call it the intensity of sound.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1025,
     "question": "The magnification of an object 2cm tall when placed 10cm in front of a plane mirror is",
     "option": {
@@ -11852,6 +12012,22 @@
     "image": "",
     "answer": "d",
     "solution": "\nGiven information:\n\nDistance between ice point (0°C) and steam point (100°C) = 400 mm\nTemperature to measure = 20°C\nLength corresponding to 20°C = ?\n\nUnderstanding the thermometer:\nCalibration points:\n\nIce point (0°C): reference at 0 mm (taking ice point as origin)\nSteam point (100°C): at 400 mm from ice point\nTemperature scale is linear between these points\n\nPrinciple:\nFor a linear thermometer, the length is proportional to temperature:\nLength / Temperature = Constant\nSetting up proportion:\n100°C corresponds to 400 mm\n20°C corresponds to L mm\nUsing ratio:\nL / 20 = 400 / 100\nSolving for L:\nL = (20 × 400) / 100\nL = 8000 / 100\nL = 80 mm",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1053,
+    "question": "A gas at a pressure of 10⁵ Nm⁻² expands from 0.6 m³ to 1.2 m³ at constant temperature, the work done is",
+    "option": {
+      "a": "7.0 × 10⁶ J",
+      "b": "6.0 × 10⁶ J",
+      "c": "6.0 × 10⁵ J",
+      "d": "6.0 × 10⁴ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial pressure (P₁) = 10⁵ N/m² = 10⁵ Pa\nInitial volume (V₁) = 0.6 m³\nFinal volume (V₂) = 1.2 m³\nTemperature = constant (isothermal process)\nWork done (W) = ?\n\nW = P₁ × ΔV = 10⁵ × 0.6 = 6.0 × 10⁴ J",
     "examtype": "utme",
     "examyear": "2013"
   },
