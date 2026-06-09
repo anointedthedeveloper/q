@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 3,
+    "question": "How many different three digit numbers can be formed using the integers 1 to 6 if no integer 1 to 6 if no integer occurs twice in a number? ",
+    "option": {
+      "a": "720",
+      "b": "1260",
+      "c": "2520",
+      "d": "5040"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 4,
     "question": "In how many different ways can the letters of the word GEOLOGY be arranged in order? ",
     "option": {
@@ -480,6 +496,22 @@
     "examyear": "2009"
   },
   {
+    "id": 59,
+    "question": "Given a regular hexagon, calculate each interior angle of the hexagon ",
+    "option": {
+      "a": "60",
+      "b": "30",
+      "c": "120",
+      "d": "15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 60,
     "question": "Factorize 6x2 – 14x – 12 ",
     "option": {
@@ -526,6 +558,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 69,
+    "question": "If  are the roots of equation 6 +5x –x2 =0, find  x",
+    "option": {
+      "a": "11",
+      "b": "-11",
+      "c": "1",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
   },
   {
     "id": 71,
@@ -828,6 +876,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710691853/ALOC-Questions/Mathematics/2000/question-41_ggjkvo.jpg",
     "answer": "d",
     "solution": "The locus of X is the perpendicular bisector of PQ",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 113,
+    "question": "In the diagram, If < RPS = 50°, < RPQ = 30° and pq = QR, Find the value of < prs\n",
+    "option": {
+      "a": "50°",
+      "b": " 60°",
+      "c": "70°",
+      "d": "80<sup>o</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710691930/ALOC-Questions/Mathematics/2000/question-42_jnvogc.jpg",
+    "answer": "c",
+    "solution": "< QPR = < PRQ = 30° (PQ = QR)\n\n< SPQ + < QRS = 180° (supplementary)\n\n80 + < QRS = 180° = < QRS = 180° - 80° = 100°\n\n< QRP + < PRS = 100° = 30o + < PRS = 100°\n\n= < PRS = 100° - 30° = 70°",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -2720,6 +2784,22 @@
     "examyear": "2005"
   },
   {
+    "id": 341,
+    "question": "Three straight lines EF, GH and LK interest at O as shown above. If ∠KOF = 52° and ∠LOH = 85°, calculate the size of ∠EOG.",
+    "option": {
+      "a": "26°",
+      "b": "43°",
+      "c": "52°",
+      "d": "85°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702171/ALOC-Questions/Mathematics/2005/math_2005_q20_u2kn28.jpg",
+    "answer": "b",
+    "solution": "∠GOK = 85° (vertical opposite angle ∠s)\n∠EOG + ∠GOK + ∠KOF = 180 (∠s on a straight line)\n∠EOg + 85° + 52° = 180°\n∠EOG + 137° = 180°\n∠EOG = 43°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 342,
     "question": "The sum of the interior angle of a regular polygon is 1800o. Calculate the size of one exterior angle of the polygon",
     "option": {
@@ -2942,6 +3022,22 @@
     "solution": "Angle of Excellent\n= 360 - (120+80+90)\n= 360 - 290\n= 70o\nIf 360o represents 36 students\n1o will represent 36/360\n50o will represent 36/360 * 70/1\n= 7",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 373,
+    "question": "A final examination requires that a student answer any 4 out of 6 questions. In how many ways can this be done?",
+    "option": {
+      "a": "15",
+      "b": "20",
+      "c": "30",
+      "d": "45"
+    },
+    "section": "SOLUTION : <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mi></mi>\n    <mn>5</mn>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mn>4</mn>\n  </msub>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>6</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>4</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n      <mn>4</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>!</mo>\n      <mn>4</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>6</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>5</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>4</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>4</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>15</mn>\n  <mspace width=\"1mm\" />\n  <mi>w</mi>\n  <mi>a</mi>\n  <mi>y</mi>\n  <mi>s</mi>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "<sup>5</sup>C<sub>4</sub> =6!/((6-4)!4!)=6!/2!4!=(6×5×4!)/(2×1×4!)=15ways",
+    "examtype": "utme",
+    "examyear": "2006"
   },
   {
     "id": 374,
@@ -3356,6 +3452,22 @@
     "image": "",
     "answer": "d",
     "solution": "Let the positive integers be 1, 2, ,3, 4, .....n\n∴ a = 1, d = 1 and n = n\nSn = n/2(2a + (n-1)d)\n= n/2 (2 + n – 1)\n= 1/2n(n + 1)",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 414,
+    "question": "If T = 2 π √1/g, make g the subject of the formula",
+    "option": {
+      "a": "(4π l<sup>2</sup>) / T",
+      "b": "(4π<sup>2</sup>l) / T<sup>2</sup>",
+      "c": "(4π<sup>2</sup>l<sup>2</sup>) / T<sup>2</sup>",
+      "d": "(2π√l) / T"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "T = 2 π √1/g\nT/2π = √1/g\n(T/2π)2 = (√1/g)2\nT2/4π2 = 1/g\nT2 x g = 4π2 x l\nG = (4π2 x l) / T2",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -3872,6 +3984,22 @@
     "examyear": "2008"
   },
   {
+    "id": 485,
+    "question": "Factorize completely; (4x+3y)<sup>2</sup>\n - (3x-2y)<sup>2</sup>\n ",
+    "option": {
+      "a": " (x+5y)(7x+y)",
+      "b": " (x+5y)(7x-y)",
+      "c": " (x-5y)(7x+y)",
+      "d": " (x-5y)(7x-y)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(4x+3y)<sup>2</sup>\n - (3x-2y)<sup>2</sup>\n \n\nUsing the differences of two squares:\n\n(4x+3y+3x-2y)(4x+3y-(3x-2y))\n\n(4x+3y+3x-2y)(4x+3y-3x+2y)\n\n(x+5y)(7x+y)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 486,
     "question": "If x - 3 is directly proportional to the square of y and x = 5 when y =2, find x when y = 6.",
     "option": {
@@ -3948,6 +4076,22 @@
     "image": "",
     "answer": "d",
     "solution": "Exterior angle = 360 / n\n= 360 / 12\n= 30°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 498,
+    "question": "Find the capacity in liters of a cylindrical well of radius 1 meter and depth 14 meters\n[π = 22/7]",
+    "option": {
+      "a": "44,000 liters",
+      "b": "4,400 liters",
+      "c": " 440 liters",
+      "d": "44 liters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "V = πr2h\n1m = 100cm\n14cm = 1400cm\n∴V=22/7 × (100 x100 x 1400)/1000 = 44,000liters",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -4336,6 +4480,22 @@
     "examyear": "2009"
   },
   {
+    "id": 550,
+    "question": "What is the locus of the mid-point of all the chords of length 6cm with circle of radius 5cm and with center O?",
+    "option": {
+      "a": "A circle of radius 4 cm and the center 0",
+      "b": "The perpendicular bisector of the chords",
+      "c": "A straight line passing through 0",
+      "d": "A circle of radius 6 cm and with center 0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547223/ALOC-Questions/Mathematics/2009/MATH_2009_Q29_SOLUTION_mwxenz.jpg",
+    "answer": "a",
+    "solution": "x<sup>2</sup> + 3<sup>3</sup> = 5<sup>2</sup>\nx<sup>2</sup> + 9 = 25\nx<sup>2</sup> = 25 – 9\nx<sup>2</sup> = 16\n\nx = √ 16 \n\n= 4 cm\n∴ The locus is a circle of radius 4 cm with the center O",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 551,
     "question": "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is 2/3?",
     "option": {
@@ -4396,6 +4556,22 @@
     "image": "",
     "answer": "d",
     "solution": "Sin45 − cos30.    √2/2− √3/2 = (√2−√3)/2",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 555,
+    "question": "A cliff on the bank of a river is 300 meter high. if the angle of depression of a point on the opposite side of the river is 60º, find the width of the river?",
+    "option": {
+      "a": " 100m",
+      "b": "75√3 m",
+      "c": "100√3m",
+      "d": "200√3m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Tan 60 =\t300/x\nx =300/Tan 60 \n\nx =300/√3\n\nx = (300/√3) x (√3/√3)\n\n\nx =300√3/.....3\n \n\n\nx = 100√3\n",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -4988,6 +5164,22 @@
     "image": "",
     "answer": "a",
     "solution": "S.I. = P×R×T/100\n\n\nIf T = 9 months, it is equivalent to 9/12\n years\n\nS.I. = 5000×4×9/(100×12)\n\n\nS.I. = N150",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 625,
+    "question": "If the numbers M, N, Q are in the ratio 5:4:3, find the value of 2N−Q/M",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "1",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "M:N:Q == 5:4:3\n\ni.e M = 5, N = 4, Q = 3\n\nSubstituting values into equation, we have...\n\n2N−Q/M\n\n\n= 2(4)−3/5\n\n\n= 8−3/5\n\n\n= 5/5\n\n\n= 1",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -6000,6 +6192,22 @@
     "examyear": "2013"
   },
   {
+    "id": 802,
+    "question": "In the diagram given, find the value of x.",
+    "option": {
+      "a": "30°",
+      "b": "40°",
+      "c": "45°",
+      "d": "15°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131352/ALOC-Questions/Mathematics/2013/2013_MATH_JAMB_Q33_un2psj.jpg",
+    "answer": "b",
+    "solution": "In the diagram above, < CDE = < CED = 15°\n\n(base < s of isos. △)\n\n< ECD = 180° - (15 + 15)°\n\n= 180° - 30° = 150°\n\nBut x + 110° = 150°\n\n(Sum of opp. interior < s of a△\n = opp. exterior < )\n\nx = 150° - 110° = 40°",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 803,
     "question": "The value x in the figure given is",
     "option": {
@@ -6204,6 +6412,22 @@
     "image": "",
     "answer": "c",
     "solution": "∫ (2x<sup>3</sup>+2x)/x\n = ∫2x<sup>3</sup>/x + 2x/x = ∫ (2x<sup>3</sup> + 2)dx\n\n(2x<sup>2</sup>+1)/(2+1) + 2x + k\n\n= 2x<sup>3</sup>/3+ 2x + k",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 823,
+    "question": "If the 2nd term of a G.P is 8/9\n and the 6th term is 4(1/2)\n. Find the common ratio.",
+    "option": {
+      "a": "2",
+      "b": "3/2",
+      "c": "2/3",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "T<sub>2</sub = 8/9, T<sub>6</sub> = 4(1/2)\nar = 8/9\n\nar<sup>5</sup> = 9/2\n\n\nar/ar<sup>5</sup> = 8/9\n x 2/9\n\n\n1/r<sup>4</sup>\n = 16/81\n\n\nr = 4√(18/16) = 3/2",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -6732,6 +6956,22 @@
     "image": "",
     "answer": "b",
     "solution": "2x + x = 180°\n\n3x = 180°\n\nx = 60° (exterior angle of the polygon)\n\nangle = total angle/number of sides\n\n\n60 = 360/n\n\n\nn = 360/60\n\n\nn = 6 sides",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 889,
+    "question": "A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was?",
+    "option": {
+      "a": "three times as much",
+      "b": "the same",
+      "c": "twice as much",
+      "d": "half as much"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let the speed of the 1st trip be x miles/hr\n\nand the speed of the 2nd trip be 3x miles/hr\n\nSpeed = distance/time\n\n∴ Time taken to cover a distance of 50 miles on the 1st trip\n\n= 50/xhr\n\ntime taken to cover a distance of 300 miles on the next trip\n\n= 300/3xhr\n\n= 100/xhr\n\n∴the new time compared with the old time is twice as much",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -7536,6 +7776,22 @@
     "examyear": "2019"
   },
   {
+    "id": 978,
+    "question": "if 6x<sup>3</sup>+2x<sup>2</sup>-5x+1 divides x<sup>2</sup>−x−1\n, find the remainder.\n",
+    "option": {
+      "a": "9x + 9",
+      "b": "2x + 6",
+      "c": "6x + 8",
+      "d": "5x - 3"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"right left right left right left right left right left right left\" rowspacing=\"3pt\" columnspacing=\"0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em\" displaystyle=\"true\">\n    <mtr>\n      <mtd />\n      <mtd>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msup>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>x</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n        <mo>&#x2212;<!-- − --></mo>\n        <mi>x</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>1</mn>\n        <mover>\n          <mover>\n            <mrow>\n              <mo>)</mo>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mtable columnalign=\"right left right left right left right left right left right left\" rowspacing=\"3pt\" columnspacing=\"0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em\" displaystyle=\"true\">\n                  <mtr>\n                    <mtd />\n                    <mtd>\n                      <mn>6</mn>\n                      <mrow class=\"MJX-TeXAtom-ORD\">\n                        <msup>\n                          <mrow class=\"MJX-TeXAtom-ORD\">\n                            <mi>x</mi>\n                          </mrow>\n                          <mrow class=\"MJX-TeXAtom-ORD\">\n                            <mn>3</mn>\n                          </mrow>\n                        </msup>\n                      </mrow>\n                      <mo>+</mo>\n                      <mn>2</mn>\n                      <mrow class=\"MJX-TeXAtom-ORD\">\n                        <msup>\n                          <mrow class=\"MJX-TeXAtom-ORD\">\n                            <mi>x</mi>\n                          </mrow>\n                          <mrow class=\"MJX-TeXAtom-ORD\">\n                            <mn>2</mn>\n                          </mrow>\n                        </msup>\n                      </mrow>\n                      <mo>&#x2212;<!-- − --></mo>\n                      <mn>5</mn>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mtd>\n                  </mtr>\n                  <mtr>\n                    <mtd />\n                    <mtd>\n                      <munder>\n                        <mrow>\n                          <mn>6</mn>\n                          <mrow class=\"MJX-TeXAtom-ORD\">\n                            <msup>\n                              <mrow class=\"MJX-TeXAtom-ORD\">\n                                <mi>x</mi>\n                              </mrow>\n                              <mrow class=\"MJX-TeXAtom-ORD\">\n                                <mn>3</mn>\n                              </mrow>\n                            </msup>\n                          </mrow>\n                          <mo>&#x2212;<!-- − --></mo>\n                          <mn>6</mn>\n                          <mrow class=\"MJX-TeXAtom-ORD\">\n                            <msup>\n                              <mrow class=\"MJX-TeXAtom-ORD\">\n                                <mi>x</mi>\n                              </mrow>\n                              <mrow class=\"MJX-TeXAtom-ORD\">\n                                <mn>2</mn>\n                              </mrow>\n                            </msup>\n                          </mrow>\n                          <mo>&#x2212;<!-- − --></mo>\n                          <mn>6</mn>\n                          <mi>x</mi>\n                        </mrow>\n                        <mo>&#x005F;<!-- _ --></mo>\n                      </munder>\n                    </mtd>\n                  </mtr>\n                  <mtr>\n                    <mtd />\n                    <mtd>\n                      <mtext>&#xA0;</mtext>\n                      <mn>8</mn>\n                      <mrow class=\"MJX-TeXAtom-ORD\">\n                        <msup>\n                          <mrow class=\"MJX-TeXAtom-ORD\">\n                            <mi>x</mi>\n                          </mrow>\n                          <mrow class=\"MJX-TeXAtom-ORD\">\n                            <mn>2</mn>\n                          </mrow>\n                        </msup>\n                      </mrow>\n                      <mo>+</mo>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mtd>\n                  </mtr>\n                  <mtr>\n                    <mtd />\n                    <mtd>\n                      <mtext>&#xA0;</mtext>\n                      <munder>\n                        <mrow>\n                          <mtext>&#xA0;</mtext>\n                          <mn>8</mn>\n                          <mrow class=\"MJX-TeXAtom-ORD\">\n                            <msup>\n                              <mrow class=\"MJX-TeXAtom-ORD\">\n                                <mi>x</mi>\n                              </mrow>\n                              <mrow class=\"MJX-TeXAtom-ORD\">\n                                <mn>2</mn>\n                              </mrow>\n                            </msup>\n                          </mrow>\n                          <mo>&#x2212;<!-- − --></mo>\n                          <mn>8</mn>\n                          <mi>x</mi>\n                          <mo>&#x2212;<!-- − --></mo>\n                          <mn>8</mn>\n                        </mrow>\n                        <mo>&#x005F;<!-- _ --></mo>\n                      </munder>\n                    </mtd>\n                  </mtr>\n                </mtable>\n              </mrow>\n              <mo fence=\"true\" stretchy=\"true\" symmetric=\"true\"></mo>\n            </mrow>\n            <mo accent=\"false\">&#x00AF;<!-- ¯ --></mo>\n          </mover>\n          <mrow>\n            <mn>6</mn>\n            <mi>x</mi>\n            <mo>+</mo>\n            <mn>8</mn>\n          </mrow>\n        </mover>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mtext>&#xA0;</mtext>\n        <mn>9</mn>\n        <mi>x</mi>\n        <mo>+</mo>\n        <mn>9</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mtext>The remainder is&#xA0;</mtext>\n        <mn>9</mn>\n        <mi>x</mi>\n        <mo>+</mo>\n        <mn>9</mn>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 979,
     "question": "If a fair coin is tossed 3 times, what is the probability of getting at least two heads?",
     "option": {
@@ -7920,6 +8176,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1027,
+    "question": "In a class of 150 students, the sector in a pie chart representing the students offering physics has angle 12°. How many students are offering physics? ",
+    "option": {
+      "a": "18",
+      "b": "15",
+      "c": "10",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "No of students offering physics are \n\n12/360 x 150 = 5",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1028,
     "question": "If log<sub>10</sub> 2 = 0.3010 and log<sub>10</sub> 3 = 0.4771, eventually without using the logarithm tables, log<sub>10</sub> 4.5",
     "option": {
@@ -8112,6 +8384,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1055,
+    "question": "The mean age group of some students is 15years. When the age of a teacher, 45 years old, is added to the ages of the students, the mean of their ages become 18 years. Find the number of students in the group.",
+    "option": {
+      "a": "7",
+      "b": "9",
+      "c": "15",
+      "d": "42"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x( ∑x)/N\n15 = (∑x)/N\n∑x = 15N........(i)\n\ny = ∑y/Ny = (∑x+45)/(N + 1)\n18/1 = (15N + 45)/(N + 1)\n \n\n18(N + 1) = 15N + 45\n\n18N + 18 = 15N + 45\n\n18N - 15N = 45 - 18 \n\n3N = 27 \n\nN = 27/3\n \n\n= 9",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1059,
     "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
     "option": {
@@ -8140,6 +8428,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007318/ALOC-Questions/Mathematics/2021/MATH_JAMB_2021_Q5_ienw34.png",
     "answer": "a",
     "solution": "Area of Trapezium = 1/2(sum of parallel sides) * h\n91 = 1/2 (5 + 9)h\n\ncross multiply\n91 = 7h\nh = 91/7\n\nh = 13 cm",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1064,
+    "question": "The ratio of the length of two similar rectangular blocks is 2 : 3. If the volume of the larger block is 351 cm<sup>3</sup>\n, then the volume of the other block is?",
+    "option": {
+      "a": "234.00 cm<sup>3</sup>",
+      "b": "526.50 cm<sup>3</sup>",
+      "c": "166.00 cm<sup>3</sup>",
+      "d": "687cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Let x represent total vol. 2 : 3 = 2 + 3 = 5\n\n3/5x = 351\n\nx = (351 × 5)/3\n\n\n= 585\n\nVolume of smaller block = 2/5 x 585\n\n= 234.00 cm<sup>3</sup>",
     "examtype": "utme",
     "examyear": "2021"
   },
