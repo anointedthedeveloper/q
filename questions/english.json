@@ -1330,6 +1330,25 @@
     "category": "others"
   },
   {
+    "id": 83,
+    "question": "The reporter said that the Honourable speaker………….. impeached ",
+    "option": {
+      "a": "is to be",
+      "b": "might have been",
+      "c": "may have being",
+      "d": "will have been"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 84,
     "question": "Actually, he forgot the one to …………… the job was given.",
     "option": {
@@ -15500,6 +15519,25 @@
     "examtype": "utme",
     "examyear": "2012",
     "questionNub": 99,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1094,
+    "question": "The cat DEVOURED the rat",
+    "option": {
+      "a": " did the rat devour the cat?",
+      "b": "what devoured the rat?",
+      "c": "did the cat eat the rat?",
+      "d": "Is this the rat that the cat devoured?"
+    },
+    "section": "<b>In each of the questions 98 to 100 the word in capital letters has the emphatic stress. Choose the option to which the given sentence relates.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "In responding to questions on emphatic stress, Interrogative sentence that contradicts the emphasized word is the correct option. This means that, the statement that does not have the emphasized word in it is the correct answer. Option C is the correct answer here because the word ''eat contradicts ''devour''",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 100,
     "hasPassage": 0,
     "category": "others"
   },
