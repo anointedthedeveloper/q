@@ -7408,6 +7408,22 @@
     "examyear": "2008"
   },
   {
+    "id": 484,
+    "question": "If 2x<sup>2</sup>\n - kx - 12 is divisible by x-4, Find the value of k",
+    "option": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2x<sup>2</sup> - kx - 12 is divisible by x-4\nimplies x is a factor ∴ x = 4\nf(4) implies 2(4)2 - k(4) - 12 = 0\n32 - 4k - 12 = 0\n-4k + 20 = 0\n-4k = -20\nk = 5",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 485,
     "question": "Factorize completely; (4x+3y)<sup>2</sup>\n - (3x-2y)<sup>2</sup>\n ",
     "option": {
