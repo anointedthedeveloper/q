@@ -11264,6 +11264,22 @@
     "examyear": "2018"
   },
   {
+    "id": 715,
+    "question": "Transactions are recorded or posted to the ledger in line with",
+    "option": {
+      "a": "Accounting Concept",
+      "b": "Source document",
+      "c": " Double Entry Principle",
+      "d": "Data collection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The main principle of double-entry system is that for every debit there is a corresponding credit for an equal amount of money and for every credit there is a corresponding debit for an equal amount of money; i.e. for every transaction one account is debited for, the amount of transaction and the other account is also credited. ",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 716,
     "question": "Show how the following transaction will be recorded applying the double-entry principle:\nRent ₦50,000 was paid by Mr. Roi to his landlord on 1st July 2017 by cheque.",
     "option": {
