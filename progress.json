@@ -34,5 +34,37 @@
   "currentaffairs": {
     "done": false,
     "total": 10
+  },
+  "englishlit": {
+    "done": false,
+    "total": 19
+  },
+  "crk": {
+    "done": false,
+    "total": 15
+  },
+  "physics": {
+    "done": false,
+    "total": 10
+  },
+  "economics": {
+    "done": false,
+    "total": 20
+  },
+  "government": {
+    "done": false,
+    "total": 10
+  },
+  "insurance": {
+    "done": false,
+    "total": 5
+  },
+  "commerce": {
+    "done": false,
+    "total": 15
+  },
+  "history": {
+    "done": false,
+    "total": 5
   }
 }
