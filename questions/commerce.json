@@ -2480,6 +2480,22 @@
     "examyear": "2012"
   },
   {
+    "id": 420,
+    "question": "A company has an authorized capital of 40 million shares at N1 each, out of which 32 million are issued and fully paid-up. What happens to the remaining 8million shares?",
+    "option": {
+      "a": "it has been issued but not paid-up ",
+      "b": "it has been applied for but not issued ",
+      "c": "it is not paid up",
+      "d": "it is not yet been issued "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 421,
     "question": "If the rate of turnover of a company in 1999 was 4 times while the average stock was N49, 600, determine the turnover.",
     "option": {
@@ -3120,6 +3136,22 @@
     "examyear": "2000"
   },
   {
+    "id": 530,
+    "question": "The deliberate and sustained efforts to maintain a good image of a company is known as",
+    "option": {
+      "a": "personal relations",
+      "b": "public relations",
+      "c": "professional relations",
+      "d": "industrial relations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 533,
     "question": "Which of the following is not a means of consumer protection?",
     "option": {
@@ -3739,6 +3771,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 623,
+    "question": "Which of the following is the quickest and accurate means of communication?",
+    "option": {
+      "a": "Telegram",
+      "b": "Express mail",
+      "c": "Courier services",
+      "d": "Telex"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1990"
