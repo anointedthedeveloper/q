@@ -6544,6 +6544,22 @@
     "examyear": "2008"
   },
   {
+    "id": 473,
+    "question": "If 125<sub>x</sub>  = 20<sub>10</sub>  find x",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "125x = 20<sub>10</sub> \n1 x X<sup>2</sup> + 2 x X<sup>1</sup>\n + 5x X<sup>0</sup>\n = 20\nX<sup>2</sup> + 2X + 5 = 20\nX<sup>2</sup> + 2X - 15 = 0\n(X + 5)( X - 3) = 0\nX + 5 implies X = -5\nX - 3 implies X = 3\nBut X cannot be negative\n∴X = 3",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 474,
     "question": "Evaluate  ((3/8÷1/2+1/2))/((1/8×2/3+1/3))",
     "option": {
