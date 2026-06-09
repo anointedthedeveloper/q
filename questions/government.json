@@ -3280,6 +3280,22 @@
     "examyear": "2000"
   },
   {
+    "id": 235,
+    "question": "The concept of regionalism in Nigeria was first introduced by the",
+    "option": {
+      "a": "Independence Constitution",
+      "b": "Macpherson Constitution",
+      "c": "Richard’s Constitution",
+      "d": "Lyttleton Constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 236,
     "question": "Immediately after the Nigerian Civil War, Gowon’s regime embarked on",
     "option": {
@@ -9008,6 +9024,22 @@
     "examyear": "1988"
   },
   {
+    "id": 641,
+    "question": "The highest court of appeal under the Republican constitution of Nigeria was the",
+    "option": {
+      "a": "Federal High Court",
+      "b": "Judicial Committee of the Privy Council",
+      "c": "Regional court of Appeal",
+      "d": "Supreme Court"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 642,
     "question": "Nigeria became a federation of 19 states in",
     "option": {
@@ -13948,6 +13980,22 @@
     "image": "",
     "answer": "c",
     "solution": "Nigeria gained its independence through the Nigerian Independence Act. The Nigerian Independence Act 1960 was an Act of the Parliament of the United Kingdom that conferred independence on Nigeria with effect from 1 October 1960.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1002,
+    "question": "Which of the following is a right associated with citizenship?",
+    "option": {
+      "a": "Right to education",
+      "b": "Right to vote",
+      "c": "Right to privacy",
+      "d": "Right to property"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The right to vote is a right associated with citizenship. This is because voting is a fundamental way in which citizens participate in the democratic process. Other rights associated with citizenship include the right to run for public office, the right to work, and the right to receive government services.",
     "examtype": "utme",
     "examyear": "2023"
   },
