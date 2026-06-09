@@ -5168,6 +5168,22 @@
     "examyear": "2015"
   },
   {
+    "id": 345,
+    "question": "Detergents are manufactured with straight hydrocarbon chains, is to make them",
+    "option": {
+      "a": "soluble",
+      "b": "biodegradable",
+      "c": "cheaper",
+      "d": "foamy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Detergents with straight (unbranched) hydrocarbon chains are biodegradable because soil bacteria can break down straight chains enzymatically. Branched-chain detergents resist bacterial degradation and cause persistent foam pollution in water bodies.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 346,
     "question": "Which of the following results in the fall of acid rain?",
     "option": {
@@ -7472,6 +7488,22 @@
     "examyear": "2018"
   },
   {
+    "id": 496,
+    "question": "In the laboratory preparation of oxygen, the gas cannot be collected by downward displacement of air because",
+    "option": {
+      "a": "the density of oxygen is greater than that of air",
+      "b": "the density of air is nearly the same as that of oxygen",
+      "c": "oxygen is a component of air",
+      "d": "air is an impure substance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Oxygen cannot be collected by downward displacement of air because oxygen is itself a major component of air (~21%). Introducing O₂ into air simply mixes with the air already present, making it impossible to collect a pure sample. O₂ is collected over water (upward displacement of water) or by upward displacement of air instead.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 497,
     "question": "2KClO₃(s) → 2KCl(s) + 3O₂(g). The importance of the catalyst in the reaction above is that",
     "option": {
@@ -8844,6 +8876,22 @@
     "image": "",
     "answer": "b",
     "solution": "Cathode rays are streams of electrons, which are negatively charged particles. When these electrons are deflected onto the electrode of an electrometer, they deposit negative charge on it. The electrometer therefore becomes negatively charged. This experiment by J.J. Thomson helped confirm the negative charge of cathode rays.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 590,
+    "question": "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone?",
+    "option": {
+      "a": "Sublimation",
+      "b": "Crystallization",
+      "c": "Distillation",
+      "d": "Evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sublimation is the direct change of state from solid to gas without passing through the liquid phase. When a solid disappears completely as a gas on heating without melting first, it has sublimed. Examples include iodine, dry ice (solid CO₂), and ammonium chloride.",
     "examtype": "utme",
     "examyear": "2020"
   },
