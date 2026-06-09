@@ -3888,6 +3888,22 @@
     "examyear": "2013"
   },
   {
+    "id": 262,
+    "question": "To contest an election, a candidate must be a member of a",
+    "option": {
+      "a": "campaign organization.",
+      "b": "civil society organization.",
+      "c": "national assembly",
+      "d": "political party."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 263,
     "question": "Military rule is an example of ______ authority.",
     "option": {
@@ -13808,6 +13824,22 @@
     "examyear": "2020"
   },
   {
+    "id": 909,
+    "question": "The delineation of constituencies is a major duty of the __________",
+    "option": {
+      "a": "electoral commission",
+      "b": " boundary commission",
+      "c": "national assemblies",
+      "d": "political parties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Electoral Commission is a body charged with organising and conducting all elections in the country. The electoral commission is also typically responsible for defining and adjusting the boundaries of electoral constituencies to ensure fair and effective representation.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 910,
     "question": "A meeting of the legislature is usually brought to an end with __________",
     "option": {
@@ -18252,6 +18284,22 @@
     "image": "",
     "answer": "a",
     "solution": "Removal by impeachment applies to the position of a president.\n\nImpeachment means the process by which the chief executive is removed from office by the parliament.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1199,
+    "question": "One of the duties of the legislature is to",
+    "option": {
+      "a": " implement laws",
+      "b": "adjudicate disputes",
+      "c": " promulgate decrees",
+      "d": "exercise oversigh"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "One of the key responsibilities of the legislature in any democratic system is to exercise oversight over the executive branch and government agencies. This oversight function includes scrutinizing policies, monitoring the implementation of laws, and ensuring accountability in government operations. The legislature does not implement laws (that is the role of the executive), adjudicate disputes (that is the role of the judiciary), or promulgate decrees (also typically an executive function).",
     "examtype": "utme",
     "examyear": "2003"
   },
