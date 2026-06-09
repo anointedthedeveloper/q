@@ -3232,6 +3232,22 @@
     "examyear": "2000"
   },
   {
+    "id": 220,
+    "question": "The acquisition of political power through hereditary means is a feature of",
+    "option": {
+      "a": "Communalism",
+      "b": "Capitalism",
+      "c": "Oligarchy",
+      "d": "Monarch"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 221,
     "question": "Which of the following factors limits the expression of public opinion?",
     "option": {
@@ -13772,6 +13788,22 @@
     "image": "",
     "answer": "b",
     "solution": "One argument against a multi-party system is the high cost of conducting election. It is very expensive in both men and materials.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 941,
+    "question": "________refers to the manipulation of boundaries of constituencies in order to win more seats,",
+    "option": {
+      "a": "Delimitation",
+      "b": "Devolution",
+      "c": "Determination",
+      "d": "Gerrymandering"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In representative democracies, Gerrymandering refers to political manipulation of electoral district boundaries with the intent of creating undue advantage for a party, group, or socio-economic class within the constituency",
     "examtype": "utme",
     "examyear": "2021"
   },
