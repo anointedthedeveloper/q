@@ -112,6 +112,38 @@
     "examyear": "2013"
   },
   {
+    "id": 96,
+    "question": "The accumulated fund of a not-for-profit making organization is",
+    "option": {
+      "a": "a fixed asset.",
+      "b": "a current asset.",
+      "c": "a liability.",
+      "d": "capital."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 99,
+    "question": "Which of the following is determined in the Trading Account?",
+    "option": {
+      "a": "Factory overheads",
+      "b": "Cost of goods sold",
+      "c": "Prime cost",
+      "d": "Net profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 103,
     "question": "The accounting principle that states that, in the preparation of accounting statement, revenue are recognized as        soon as goods are passed on to the customer is the",
     "option": {
@@ -123,6 +155,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 115,
+    "question": "In a not-for-profit making organization, the cash book is referred to as",
+    "option": {
+      "a": "income and expenditure account.",
+      "b": "receipts and payments account.",
+      "c": "two column cash book.",
+      "d": "petty cash book."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -592,6 +640,22 @@
     "examyear": "2006"
   },
   {
+    "id": 237,
+    "question": "In a system of incomplete records, the opening capital is determined by preparing",
+    "option": {
+      "a": "statement of affairs",
+      "b": "balance sheet",
+      "c": "cash book",
+      "d": "trial balance."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 245,
     "question": "Using the straight line method, the depreciation charged for year 2002 was",
     "option": {
@@ -651,6 +715,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 256,
+    "question": "Rent expenses for the year 2005 is",
+    "option": {
+      "a": "N 11,400",
+      "b": "N  11,300",
+      "c": "N  11,200",
+      "d": "N  10,200."
+    },
+    "section": "Rent accrued 1st January, 2005 [600], Rent paid in 2005 [11,300], Rent prepaid 31st December, 2005 [500]",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -736,6 +816,22 @@
     "examyear": "2012"
   },
   {
+    "id": 296,
+    "question": "Which of the following is found in a Memorandum of \tAssociation?",
+    "option": {
+      "a": "Names of directors",
+      "b": "Appointment of directors",
+      "c": "Object of the business",
+      "d": "Payment of dividend"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 299,
     "question": "The capital is",
     "option": {
@@ -750,6 +846,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
+  },
+  {
+    "id": 303,
+    "question": "Which of the following describes a trial balance?",
+    "option": {
+      "a": "It is a special account",
+      "b": "It is a list of balances in the books",
+      "c": "It reveals the financial position of a business",
+      "d": "It shows all the entries in the books of a business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
   },
   {
     "id": 304,
@@ -1049,6 +1161,22 @@
       "d": "profitability"
     },
     "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 416,
+    "question": "In the balance sheet, the subscription in arrears will be",
+    "option": {
+      "a": "N 200",
+      "b": "N 300",
+      "c": "N 1,200",
+      "d": "N 1,300"
+    },
+    "section": "On January 1, 2000, a club’s assets and liabilities were as follows: Club house [ N8,000 ]; Subscription in arrears [ N300]; Cash [N1,000]; Wages owed [N100]. The club has 50 members and annual subscription is N 100 per member. Subscription received is N 4,000 and this includes 1999 arrears of  N 200.",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -1360,6 +1488,22 @@
     "examyear": "2015"
   },
   {
+    "id": 555,
+    "question": "Specific principles, bases, conventions, rules and practices adopted by an enterprise in preparing and presenting financial statements are known as ---------------------",
+    "option": {
+      "a": "financial accounting",
+      "b": " accounting policies",
+      "c": "cost accounting",
+      "d": " accounting conventions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Accounting policies refer to the specific principles, bases, conventions, rules, and practices that an enterprise chooses to adopt and consistently apply in preparing and presenting its financial statements.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 565,
     "question": "Balance as per cashbook ₦2, 970\nBank Charges ₦220\nUnpresented cheques ₦3, 950\nUncredited cheques ₦4, 178\nDirect debit by bank ₦1, 0000\n\nDetermine the balance as per bank statement.",
     "option": {
@@ -1548,6 +1692,22 @@
     "image": "",
     "answer": "b",
     "solution": "Sales return journal otherwise called return inward book is meant for recording of all good returned by customer",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 629,
+    "question": "The authority warrant issued prior to the approval of the appropriate bill at the beginning of the year",
+    "option": {
+      "a": " provisional general warrant",
+      "b": "annual general warrant",
+      "c": "Reserved expenditure warrant",
+      "d": "contigencies"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Provisional general warrant is issued by minister to enable money to be released for expenditure for the early of the year before the appropriation Act is passed",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -2112,6 +2272,22 @@
     "examyear": "2021"
   },
   {
+    "id": 833,
+    "question": "A source document is used for verifying the ",
+    "option": {
+      "a": "amount due from debtors",
+      "b": "amount due to creditors",
+      "c": "selling price of goods",
+      "d": "actual cost of an asset"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A source document—such as a supplier’s invoice—serves as the primary evidence for the acquisition of an asset and the exact amount paid. It underpins the recorded cost in the accounting books, ensuring the asset’s value is accurately captured.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 835,
     "question": "The purchase consideration that is lower than the net asset implies that, the buyer has gained the advantage of",
     "option": {
@@ -2172,6 +2348,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a government ministry makes a payment to a revenue collector, the official acknowledgment of that payment is issued in the form of a treasury receipt. This document serves as the evidence that funds have been collected and remitted to the government’s treasury.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 884,
+    "question": "Interest on a partner's drawings is debited to the",
+    "option": {
+      "a": "Partners current account and credited to the profit and loss appropriation account\n",
+      "b": "profit and loss appropriation account and credited to the partner's current account\n",
+      "c": "profit and loss account and credited to the partner's current account\n",
+      "d": "Partner's current account and credited to the profit and loss account\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a partner makes drawings, they may be charged interest on those drawings as agreed in the partnership deed. The accounting treatment is:\nDebit: Partner's Current Account - This reduces the partner's equity because they are being charged for the interest on money they withdrew from the business.\nCredit: Profit and Loss Appropriation Account - This increases the profits available for distribution among all partners, as the interest charged becomes additional income for the partnership.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -2752,6 +2944,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1106,
+    "question": "The accounting entry to record the premium on goodwill is to debit?",
+    "option": {
+      "a": "cash and credit old partners' capital",
+      "b": "goddwill and credit revaluation",
+      "c": "assets and credit capital",
+      "d": " capital and credit assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Explanation: when a new partner pays a goodwill premium, you debit Cash/Bank (what's received) and credit the old partners' capital accounts in their profit-sharing ratio (since the premium compensates the existing partners).",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1120,
     "question": "<b>Use the information below to answer questions 6 and 7.</b>\n\nEzekiel Malgwi is a retailer. He recorded sales representing\n95% cash and 5% credit. He took the total cash sales of ₦19,000 from the business tray and banked it.\n\nThe credit sales for the period would be",
     "option": {
@@ -2812,6 +3020,38 @@
     "image": "",
     "answer": "c",
     "solution": "The Income and Expenditure Account is more comprehensive because it includes debtors (amounts owed to the organization) and creditors (amounts the organization owes), giving a complete picture of the organization's financial performance regardless of whether cash has been exchanged.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1146,
+    "question": "Given: \nRich Social Club \nCash................................>₦100,000\nLoan ...............................>₦30000\nSubscription in arrears.............>₦5,000\nSubscription in advance.............>₦15,000\n\nWhat is the accumulation fund?",
+    "option": {
+      "a": "₦60,000",
+      "b": " ₦80,000",
+      "c": " ₦90,000",
+      "d": "₦110,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1 – Identify assets:\n\nCash = ₦100,000\n\nSubscription in arrears = ₦5,000 (this is money owed to the club, so it’s an asset)\n\nTotal Assets = ₦100,000 + ₦5,000 = ₦105,000\n\nStep 2 – Identify liabilities:\n\nLoan = ₦30,000\n\nSubscription in advance = ₦15,000 (this is money the club owes in service, so liability)\n\nTotal Liabilities = ₦30,000 + ₦15,000 = ₦45,000\n\nStep 3 – Calculate Accumulated Fund:\nAccumulated Fund = Assets − Liabilities\nAccumulated Fund = ₦105,000 − ₦45,000 = ₦60,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1158,
+    "question": "<b>Use the information below to answer questions 43 and 44</b>\n\nGoods from head office................₦13,400\nReturns to head office ...............₦118\nRates and insurance paid .............₦188\nWages paid ...........................₦913\nCash remitted to head office..........₦16,625\nStock at 1/1/2000.....................₦1,875\nRents paid ...........................₦325\nStock at 31/12/2000 ..................₦1,975\nSundry expenses ......................₦200\n\nWhat is the total expenses?",
+    "option": {
+      "a": "₦1 875",
+      "b": "₦1 817",
+      "c": "₦1 626",
+      "d": " ₦1 426"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given Expense Items:\n\nRates and insurance paid: ₦188\nWages paid: ₦913\nRents paid: ₦325\nSundry expenses: ₦200\n\nCalculation:\nTotal Expenses = Rates and insurance + Wages + Rents + Sundry expenses\nTotal Expenses = ₦188 + ₦913 + ₦325 + ₦200\nTotal Expenses = ₦1,626",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -2960,6 +3200,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1210,
+    "question": "Given:\n\nBalance at 31st December ............₦14,744m\n\nTreasury Bills issued Jan-Dec........₦7124m\n\nRevenue for the year ................₦6387m\n\nExpenditure .........................₦8767m\n\n\nWhat is the opening balance on the consolidated revenue fund account?",
+    "option": {
+      "a": "₦10,000m",
+      "b": "₦12,000m",
+      "c": "₦9,000m",
+      "d": "₦11,000m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find: Opening balance\nFormula for Consolidated Revenue Fund Account:\nClosing Balance = Opening Balance + Revenue + Treasury Bills Issued - Expenditure\nRearranging to find Opening Balance:\nOpening Balance = Closing Balance - Revenue - Treasury Bills Issued + Expenditure\nCalculation:\nOpening Balance = ₦14,744m - ₦6,387m - ₦7,124m + ₦8,767m\nOpening Balance = ₦14,744m + ₦8,767m - ₦6,387m - ₦7,124m\nOpening Balance = ₦23,511m - ₦13,511m\nOpening Balance = ₦10,000m",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1215,
     "question": "The current growth in the volume of trading and financial dealings in Nigeria is helped by?",
     "option": {
@@ -3072,6 +3328,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1257,
+    "question": "The law that currently regulates the registration of companies in Nigeria is the?",
+    "option": {
+      "a": " Constitution of the Federal Republic of Nigeria, 1999",
+      "b": "Nigeria Enterprises Promotion Decree, 1972",
+      "c": "Companies and Allied Matters Decree, 1990",
+      "d": "Companies Decree, 1968"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The law currently governing company registration in Nigeria is the Companies and Allied Matters Decree, 1990 (now the Companies and Allied Matters Act, CAMA).",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1263,
     "question": "<b>Use the information below to answer questions 49 and 50</b>\n\nGiven PTF Trial balance (Extract) as at 31 December 1999 showing: Cash ₦2,000 (Dr), Investments ₦3,000 (Dr), Accounts receivable ₦6,000 (Dr), and Fund balance ₦11,000 (Cr). Assuming all the investments realized ₦4m, what will be the ending fund balance?",
     "option": {
@@ -3132,6 +3404,22 @@
     "image": "",
     "answer": "b",
     "solution": "Factory overhead includes all indirect manufacturing costs. From the items listed, the factory overheads are:\n\nDepreciation of plant and machinery: ₦1,600\n\nFactory rent: ₦650\n\nIndirect wages: ₦695\n\nGeneral indirect expenses: ₦726\n\nLubricants: ₦1,235\n\nFactory power: ₦350\n\n(Carriage inwards is part of materials cost, and bank charges & carriage outwards are non-manufacturing.)\n\nSumming the factory overheads:\n\n1,600 + 650 + 695 + 726 + 1,235 + 350 = ₦5,256",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1291,
+    "question": "Didi Ltd offered 10,000 ordinary shares of ₦1.50 each at a discount of 2% which were fully subscribed. With regard to the offer above?",
+    "option": {
+      "a": "shares are never offered at a discount; the offer is invalid",
+      "b": "the value of shares in the capital account will be lowered by 2%",
+      "c": "the company incurs a loss to the tune of 2% of the offer",
+      "d": "each of the subscribers loses 2% of investment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The shares have a nominal value of ₦1.50, so on 10,000 shares the full par amount would be ₦15,000.\n\nAt a 2% discount, subscribers actually pay only 98% of par, i.e. ₦1.50 × 0.98 = ₦1.47 per share, so total cash received is ₦14,700.\n\nThe “missing” ₦300 (₂₀₀₀ × ₦0.03) is debited to a “Discount on Issue of Shares” account, effectively a capital loss to the company.\n\nThus the company forgoes 2% of the issue price, incurring that amount as a loss on the share issue.",
     "examtype": "utme",
     "examyear": "2000"
   },
