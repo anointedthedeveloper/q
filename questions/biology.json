@@ -48,6 +48,22 @@
     "examyear": "2003"
   },
   {
+    "id": 12,
+    "question": "The part of the mammalian digestive  system where absorption of nutrients takes place is the",
+    "option": {
+      "a": "ileum  ",
+      "b": "colon  ",
+      "c": "esophagus  ",
+      "d": "duodenum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 14,
     "question": "In mammalian males, the excretory and reproductive  systems share the",
     "option": {
@@ -247,6 +263,38 @@
       "b": "are warm blooded  ",
       "c": "haelungs",
       "d": "have sebaceous glands"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 51,
+    "question": "In the internal structure of plants, a wide pith in the centre is common to",
+    "option": {
+      "a": "dicot stems and moocot stems",
+      "b": "dicot stems and monocot roots",
+      "c": "dicot roots and monocot roots",
+      "d": "dicotroots and monocot stems"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 55,
+    "question": "The surface of an alveolus in a mammal is well supplied with tiny blood vessels known as",
+    "option": {
+      "a": "arterioles  ",
+      "b": "Venules",
+      "c": "arteries  ",
+      "d": "capillaries"
     },
     "section": "",
     "image": "",
@@ -736,6 +784,54 @@
     "examyear": "2006"
   },
   {
+    "id": 152,
+    "question": "An organism which exhibits extracelluar digestion is  ",
+    "option": {
+      "a": "Paramecium",
+      "b": "Rhizopus  ",
+      "c": "Spirogyra  ",
+      "d": "Amoeba  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 158,
+    "question": "Which of the following has the most primitive respiratory system?",
+    "option": {
+      "a": "Fish",
+      "b": "Snail  ",
+      "c": "Mouse",
+      "d": "insect"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 159,
+    "question": "Moncot stems differ from dioct  stems in that monocots have",
+    "option": {
+      "a": "fewer vascular bundies",
+      "b": " no cambium  ",
+      "c": "phloem with parenchyma   ",
+      "d": " no pith"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 161,
     "question": "The photosynthetic pigment is include  ",
     "option": {
@@ -960,6 +1056,22 @@
     "examyear": "2008"
   },
   {
+    "id": 193,
+    "question": "Radial symmetry is a feature common to the  ",
+    "option": {
+      "a": "platyhelminthes",
+      "b": "nematodes  ",
+      "c": "coelentrates",
+      "d": "arthropods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 194,
     "question": "Which of the following  is used mainly for balancing in fish?",
     "option": {
@@ -1136,6 +1248,38 @@
     "examyear": "2009"
   },
   {
+    "id": 247,
+    "question": "Mass of a crucible = 10g\n Mass of a crucible and soil before heating = -29g.\nMass of a crucible and sol after heating = 18g. From the information above, determine the percentage of wter in the given soil sample?  \n",
+    "option": {
+      "a": "20%",
+      "b": "25%",
+      "c": "40%",
+      "d": "50%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 249,
+    "question": "The major cause of global warming is the",
+    "option": {
+      "a": "Burning of fossil fuel",
+      "b": "construction of dams",
+      "c": "use of electricity  ",
+      "d": "exploration of space"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 251,
     "question": "A phenotypic character with intermediate forms that can be graded from one extreme to the other is referred to as",
     "option": {
@@ -1232,6 +1376,22 @@
     "examyear": "2009"
   },
   {
+    "id": 260,
+    "question": "During the dry season in the tropics, the body metabolism of some animals slows to a minimal level in a process referred to as",
+    "option": {
+      "a": "hibernation",
+      "b": "aestivation",
+      "c": "dormancy",
+      "d": "sense scense  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 263,
     "question": "Which of the following is NOT a function of the nucleus of a cell?  ",
     "option": {
@@ -1275,6 +1435,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 270,
+    "question": "When a mixture of a food substance fand Benedict’s solution was warmed, the solution changed from blue to brick red . This indicates the presence of",
+    "option": {
+      "a": "reducing  sugar",
+      "b": "fatty acid",
+      "c": "sucrose  ",
+      "d": "amino acid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 273,
+    "question": "Yeast respires anaerobically  to covert simple sugar to carbon (IV) oxide and",
+    "option": {
+      "a": "alcohol  ",
+      "b": "acid",
+      "c": "oxygen",
+      "d": "water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1328,6 +1520,22 @@
     "examyear": "2010"
   },
   {
+    "id": 282,
+    "question": "A food chain always begins with a  ",
+    "option": {
+      "a": "consumer  ",
+      "b": "decomposer  ",
+      "c": "producer",
+      "d": "primary  consumer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 283,
     "question": "Mycorrhizae promote plant growth by",
     "option": {
@@ -1339,6 +1547,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 285,
+    "question": "The blood component  that has the greatest affinity for oxygen is the ",
+    "option": {
+      "a": "lymphocytes",
+      "b": " leucocytes",
+      "c": "erythorocytes  ",
+      "d": "thromboytes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1456,6 +1680,22 @@
     "examyear": "2010"
   },
   {
+    "id": 302,
+    "question": "The function of the red head in male Agama lizards is to",
+    "option": {
+      "a": "scare other males from the territory  ",
+      "b": "attract female lizards for mating purposes  ",
+      "c": "warn predators of the distastefulness of the animal  ",
+      "d": "Conceal and camouflage the animal from predators"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 303,
     "question": "In which of the following species is the biomass of an individual the smallest?",
     "option": {
@@ -1483,6 +1723,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 307,
+    "question": "The adaptive importance of nuptial flight from termite colonies is to",
+    "option": {
+      "a": "provide abundant food for birds and other animals during the early rains",
+      "b": "ensure cross breeding between members of one colony  and another",
+      "c": "expel  the reproductive so as to provide  enough food for other members",
+      "d": "disperse the reproductive in order to establish  new colonies"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -1632,6 +1888,22 @@
     "examyear": "2011"
   },
   {
+    "id": 333,
+    "question": "Drancunculiasis can be contacted  through  ",
+    "option": {
+      "a": "drinking contaminated water",
+      "b": "bathing in contaminated water  ",
+      "c": "bites of blackfly   ",
+      "d": "eating contaminated food"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 335,
     "question": "Millet, sorghum, maize and onions are common crops grown in Nigerian in the  (a) Sudan savanna",
     "option": {
@@ -1655,6 +1927,22 @@
       "b": " mutation  ",
       "c": " linkage",
       "d": "co dominance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 343,
+    "question": "During blood transfusion, agglutination may occur as a result of the reaction between",
+    "option": {
+      "a": "two different antigens  ",
+      "b": "two different antibodies  ",
+      "c": "similar antigens and antibodies  ",
+      "d": "contrasting antigens and antibodies"
     },
     "section": "",
     "image": "",
@@ -1819,6 +2107,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 376,
+    "question": "Which of the following is true in blood transfusion?",
+    "option": {
+      "a": "a person of blood group AB can donate blood only to another person of blood group AB",
+      "b": "Persons of blood groups A and B can donate or receive blood from each other",
+      "c": "A person of blood group AB can receive blood only from persons of blood group A or B  ",
+      "d": "A person of blood group O can donate only to a person of blood group O."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 383,
+    "question": "The use and disuse of body parts and the inheritance of acquired traits were used to explain  ",
+    "option": {
+      "a": "Darwin’s theory",
+      "b": "Lamarck’s theory",
+      "c": "genetic drift  ",
+      "d": "gene flow"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
