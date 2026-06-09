@@ -4672,6 +4672,22 @@
     "examyear": "2010"
   },
   {
+    "id": 300,
+    "question": "The correct order of increasing boiling points of the following  compounds C3H7OH, C7H16 and C4H10 is",
+    "option": {
+      "a": "C4H10  →  C7H16 → C3H7OH",
+      "b": "C7H16 → C3H7OH → C4H16",
+      "c": "C4H10  → C3H7OH  → C4H10",
+      "d": "C3H7OH →  C4H10  → C7H16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 301,
     "question": "One of the major uses of Alkanes is",
     "option": {
@@ -5980,6 +5996,22 @@
     "image": "",
     "answer": "b",
     "solution": "Ethanol (C₂H₅OH) is soluble in water because of its hydroxyl group (-OH), which forms hydrogen bonds with water molecules. The -OH group is polar and interacts strongly with the polar water molecules, allowing ethanol to mix with water in all proportions.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 385,
+    "question": "The number of electronic shells contained in an atom with electron configuration 1s²2s²2p⁶3s²3p⁶4s² is",
+    "option": {
+      "a": "3",
+      "b": "2",
+      "c": "4",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The electron configuration 1s²2s²2p⁶3s²3p⁶4s² corresponds to shells n=1, n=2, n=3, and n=4. Counting the principal quantum numbers occupied: shell 1 (1s), shell 2 (2s, 2p), shell 3 (3s, 3p), and shell 4 (4s) — giving 4 electronic shells. This is Calcium (Z=20).",
     "examtype": "utme",
     "examyear": "2016"
   },
