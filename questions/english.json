@@ -8987,6 +8987,25 @@
     "category": "others"
   },
   {
+    "id": 556,
+    "question": "Jankoli was dressed in an old  <i>assortment</i>  of clothes",
+    "option": {
+      "a": "avalanche ",
+      "b": "homogeneity ",
+      "c": "sameness",
+      "d": "melange"
+    },
+    "section": "choose the option nearest  in meaning to the word or phrase in Italics.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 557,
     "question": "The girl's father was  <i>astounded</i>  to see her appear from the shrine ",
     "option": {
@@ -20098,6 +20117,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 36,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1410,
+    "question": "The driver was short of petrol, so he ........ down the road with the engine switched off",
+    "option": {
+      "a": "glided",
+      "b": "coasted",
+      "c": "wheeled",
+      "d": "taxied"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Coasted means to move forward in a vehicle without using the engine.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 37,
     "hasPassage": 0,
     "category": "others"
   },
