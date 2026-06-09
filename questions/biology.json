@@ -128,6 +128,22 @@
     "examyear": "2004"
   },
   {
+    "id": 64,
+    "question": "A caterpillar and an aphid living in different parts of the same plant can be said to",
+    "option": {
+      "a": " occupy the same ecological riches   ",
+      "b": " Be in different habitats  ",
+      "c": "occupy different ecological riches  ",
+      "d": "be in  similar micro habitats"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 68,
     "question": "The progressive loss of energy at each level in a food chain  leads to",
     "option": {
@@ -135,6 +151,22 @@
       "b": "a decrease in biomass at each successive level  ",
       "c": "an increase in the number of organisms at each successive level",
       "d": "an increase in the total weight of living matter at each successive level."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 78,
+    "question": "Which of the following is an example of intraspecific competition?",
+    "option": {
+      "a": "a lizard and an ant eater chasing an insect  ",
+      "b": "a worker termite and a solider in a limited space  ",
+      "c": "a hawk and an eagle targeting the same chicken",
+      "d": "yam and potato shoots growing out through the same window"
     },
     "section": "",
     "image": "",
@@ -224,6 +256,22 @@
     "examyear": "2005"
   },
   {
+    "id": 106,
+    "question": "The mambilla plateau is a unique Nigeria biome located in",
+    "option": {
+      "a": "Plateau State  ",
+      "b": "Borno state  ",
+      "c": "Taraba state  ",
+      "d": "Benue state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 126,
     "question": "The causative reagent of typhoid fever is  ",
     "option": {
@@ -235,6 +283,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 128,
+    "question": "Grasses recover quickly from bush fires in the savanna  because of their  ",
+    "option": {
+      "a": "succulent stems   ",
+      "b": "rapid growth  ",
+      "c": "fibrous roots  ",
+      "d": "perennating organs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -288,6 +352,38 @@
     "examyear": "2006"
   },
   {
+    "id": 151,
+    "question": "A characteristic that best exemplifies the evolutionary advancement of mammals over other  vertebrates in the  ",
+    "option": {
+      "a": "terrestrial mode of life  ",
+      "b": "possession  of paired limbs  ",
+      "c": "a false foot  ",
+      "d": "radial symmetry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 162,
+    "question": "The pancreas secretes enzymes for the digestion of  ",
+    "option": {
+      "a": "fats, vitamins and cellulose",
+      "b": " fats, carbohydrates and vitamins  ",
+      "c": "proteins, celluclose and minerals  ",
+      "d": "fats, proteins and carbohydrates"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 164,
     "question": "The opening  and closing of the stoma are regulated by",
     "option": {
@@ -295,6 +391,38 @@
       "b": "diffusion  ",
       "c": "transpiration  ",
       "d": "respiration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 168,
+    "question": "Stunted growth and poor root development are a result of as deficiency in  ",
+    "option": {
+      "a": "calcium  ",
+      "b": "sulphur  ",
+      "c": "iron  ",
+      "d": "phosphorous"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 170,
+    "question": "A biotic factor which affects the distribution and abundance of organisms in a terrestrial  habitat is",
+    "option": {
+      "a": "competition  ",
+      "b": "temperature  ",
+      "c": "light  ",
+      "d": "pH"
     },
     "section": "",
     "image": "",
@@ -352,6 +480,54 @@
     "examyear": "2007"
   },
   {
+    "id": 187,
+    "question": "In terms of the number of individuals, which of the following  taxa is most inclusive?",
+    "option": {
+      "a": "order",
+      "b": "family",
+      "c": "class  ",
+      "d": "species"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 199,
+    "question": "Insectivorous plants traps and kill their prey to derive  ",
+    "option": {
+      "a": "phosphorous  ",
+      "b": "calcium  ",
+      "c": "nitrogen",
+      "d": "Zinc"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 202,
+    "question": "Exhaled air differs from inhaled air in that it  ",
+    "option": {
+      "a": "contains less amount of carbon (IV) oxide  ",
+      "b": "is usually lower in temperature",
+      "c": "often has more oxygen  ",
+      "d": "usually has more water vapour"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 211,
     "question": "Stomata  of some plants are sunken and protected by hairs. These are features of ",
     "option": {
@@ -400,6 +576,22 @@
     "examyear": "2009"
   },
   {
+    "id": 229,
+    "question": "A blue-green alga is not a protophytes because",
+    "option": {
+      "a": "it is aquatic  ",
+      "b": "its cells are prokaryotic",
+      "c": "it cannot move",
+      "d": "it is not a green plant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 241,
     "question": "The most important ecological factor in a terrestrial environment is",
     "option": {
@@ -432,6 +624,22 @@
     "examyear": "2009"
   },
   {
+    "id": 256,
+    "question": "Plants that grow in an area that is neither too wet nor too dry are",
+    "option": {
+      "a": "xerophytes  ",
+      "b": "mesophytes  ",
+      "c": "epiphytes",
+      "d": "hydrophytes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 257,
     "question": "The part of a domestic fowl responsible  for preventing heat loss is the  ",
     "option": {
@@ -446,6 +654,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 259,
+    "question": "The specialized pigment cells that are involved in colouration and colour change in animals are the",
+    "option": {
+      "a": "xanthophyl",
+      "b": "chromatophores",
+      "c": "chlorophyll",
+      "d": "mechanic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 263,
+    "question": "Which of the following is NOT a function of the nucleus of a cell?  ",
+    "option": {
+      "a": "it controls the life processes of the cell",
+      "b": "It translates genetic formation for   the manufacture of proteins",
+      "c": "it stores and carries hereditary information  ",
+      "d": "it sis a reservoir of energy for the cell"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 269,
@@ -496,6 +736,102 @@
     "examyear": "2010"
   },
   {
+    "id": 296,
+    "question": "A pair of genes that control a trait is referred to as",
+    "option": {
+      "a": "anallele",
+      "b": "recessive",
+      "c": "dominant  ",
+      "d": "ahybrid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 301,
+    "question": "The flippers of a whale  and the fins of a fish are examples of",
+    "option": {
+      "a": "divergent evolution  ",
+      "b": "co evolution",
+      "c": "continuous variation",
+      "d": "convergent evolution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 310,
+    "question": "The conversion of a nutrient into a molecule in the body of a consumer is referred to a s  ",
+    "option": {
+      "a": "assimilation",
+      "b": "absorption  ",
+      "c": "inhibition",
+      "d": "digestion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 315,
+    "question": "I. Test tube containing cane sugar and water  II. Test tube containing cane sugar and dilute acid  III Test tube containing cane sugar and its degrading enzyme \nIn which of the test tubes will glucose be detected after complete hydrolysis?\n",
+    "option": {
+      "a": "II and III only",
+      "b": "I only",
+      "c": "I, II and III   ",
+      "d": "I and II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 320,
+    "question": "The vascular tissues in higher plants are responsible for  ",
+    "option": {
+      "a": "suction pressure  ",
+      "b": "transpiration pull",
+      "c": "the transport of gases and water   ",
+      "d": "the movement of food and water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 326,
+    "question": "An example of a filter-feeding animals is",
+    "option": {
+      "a": "butterly  ",
+      "b": "whale",
+      "c": "mosquito  ",
+      "d": "shark"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 327,
     "question": "Which of the  following is a feature of the population Pyramid of a developing country?  ",
     "option": {
@@ -526,6 +862,54 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 344,
+    "question": "The fallacy in Lamarck’s evolutionary theory was the  assumption that",
+    "option": {
+      "a": "acquired traits  are heritable",
+      "b": "acquired traits are seldom formed",
+      "c": "traits  are acquired  through the use of body parts  ",
+      "d": "traits are acquired through disuse  of body parts."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 348,
+    "question": "Plants  that show secondary growth are usually found among the",
+    "option": {
+      "a": "thallophytes",
+      "b": "pteridophytes",
+      "c": "monocotyledons  ",
+      "d": "dicotyledons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 349,
+    "question": "The fungi are a distinct group of eukaryotes mainly  because they have  ",
+    "option": {
+      "a": "spores  ",
+      "b": "no chlorophyll  ",
+      "c": "many fruiting bodies",
+      "d": "sexual and asexual reproduction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
   },
   {
     "id": 351,
