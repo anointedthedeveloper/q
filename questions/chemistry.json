@@ -32,6 +32,22 @@
     "examyear": "2001"
   },
   {
+    "id": 4,
+    "question": "Cancerous growths are cured by exposure to",
+    "option": {
+      "a": "ɣ-rays",
+      "b": " β – rays",
+      "c": " ἀ – rays",
+      "d": "X -rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 5,
     "question": "An oxide X02 has a vapour density of 32. What is the atomic mass of X [O = 16]",
     "option": {
@@ -283,6 +299,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 32,
+    "question": "The main impurity in iron ore during the extraction of iron is",
+    "option": {
+      "a": "Silicon (IV) oxide",
+      "b": "Carbon(IV) oxide",
+      "c": "Calciumtrioxosilicate",
+      "d": "Sulphur(II) oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
@@ -699,6 +731,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 70,
+    "question": "The most important use of hydrogen is in the",
+    "option": {
+      "a": "Hydrogenation of oils",
+      "b": "Manufacture of methyl alcohol",
+      "c": "Manufacture of ammonia",
+      "d": "Manufacture of ethyl alcohol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
@@ -1776,6 +1824,38 @@
     "examyear": "2005"
   },
   {
+    "id": 188,
+    "question": "How many moles of limestone will be required to produce 5.6g of CaO",
+    "option": {
+      "a": "0.20 mol",
+      "b": "1, 12mol",
+      "c": "0.10 mol",
+      "d": "0.56 mol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 191,
+    "question": "The component of an atom that contributes least to its mass is the",
+    "option": {
+      "a": "Nucleus",
+      "b": "Neutron",
+      "c": "Electron",
+      "d": "Proton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 192,
     "question": "Sugar is separated from its impurities by",
     "option": {
@@ -1963,6 +2043,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 211,
+    "question": "What is the correct IUPAC name for NO2",
+    "option": {
+      "a": "Dioxonitrate(III) ion",
+      "b": "Dioxonitrate(IV) ION",
+      "c": "trioxonitrate(iii) ion",
+      "d": "trioxonitrate(iv) ion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -3184,6 +3280,22 @@
     "examyear": "2015"
   },
   {
+    "id": 337,
+    "question": "The basic particles from which matter could be made up of are as follow, except?",
+    "option": {
+      "a": "Salt",
+      "b": "Atom",
+      "c": "Ion",
+      "d": "Molecule"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The basic particles from which matter is made up are atoms, ions, and molecules. Salt is a compound (e.g., NaCl), not a basic particle — it is itself made up of ions. Therefore salt is the odd one out.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 338,
     "question": "The energy value of petrol can be determined by",
     "option": {
@@ -3424,6 +3536,22 @@
     "examyear": "2016"
   },
   {
+    "id": 369,
+    "question": "What is the concentration of a solution containing 2 g of NaOH in 100 cm³ of solution? [Na = 23, O = 16, H = 1]",
+    "option": {
+      "a": "0.05 mol dm⁻³",
+      "b": "0.30 mol dm⁻³",
+      "c": "0.50 mol dm⁻³",
+      "d": "0.40 mol dm⁻³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Molar mass of NaOH = 23 + 16 + 1 = 40 g mol⁻¹. Moles of NaOH = 2/40 = 0.05 mol. Volume = 100 cm³ = 0.1 dm³. Concentration = 0.05/0.1 = 0.50 mol dm⁻³.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 371,
     "question": "The compound produced when sodium peroxide is heated with excess sodium is",
     "option": {
@@ -3436,6 +3564,22 @@
     "image": "",
     "answer": "b",
     "solution": "When sodium peroxide (Na₂O₂) is heated with excess sodium metal, the oxygen in the peroxide is reduced and sodium oxide (Na₂O) is formed: Na₂O₂ + 2Na → 2Na₂O. The excess sodium reduces the peroxide to the monoxide.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 372,
+    "question": "The pollutant that contributes to the depletion of the ozone layer is",
+    "option": {
+      "a": "CFCs",
+      "b": "NO₂",
+      "c": "SO₂",
+      "d": "CO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Chlorofluorocarbons (CFCs) are the primary cause of ozone layer depletion. When CFCs reach the stratosphere, UV radiation breaks them down to release chlorine radicals, which catalytically destroy ozone molecules (O₃) in a chain reaction. SO₂ causes acid rain; CO is a respiratory poison; NO₂ contributes to smog.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -4092,6 +4236,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777637355/ALOC-Questions/Chemistry/UTME/2017/Chemistry_2017_Q30-31_gkt7yx.png",
     "answer": "d",
     "solution": "In the diagram, Y is the conical flask containing the drying agent through which the gas passes before collection. Concentrated H₂SO₄ is the standard drying agent used to dry acidic or neutral gases in laboratory gas preparation. Z is the thistle funnel for adding acid, and X is the water trough for collection by downward displacement of water.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 436,
+    "question": "Calculate the mass of copper deposited when a current of 0.5 ampere was passed through a solution of copper (II) chloride for 45 minutes in an electrolytic cell. [Cu = 64, F = 96500 C mol⁻¹]",
+    "option": {
+      "a": "0.300 g",
+      "b": "0.250 g",
+      "c": "0.2242 g",
+      "d": "0.448 g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Charge = I × t = 0.5 × (45 × 60) = 1350 C. Cu²⁺ + 2e⁻ → Cu, so n = 2. Mass of Cu = (I × t × M)/(n × F) = (0.5 × 2700 × 64)/(2 × 96500) = 86400/193000 = 0.4477 g ≈ 0.448 g.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4928,6 +5088,22 @@
     "examyear": "2019"
   },
   {
+    "id": 535,
+    "question": "At 27°C, 58.5g of sodium chloride is present in 250cm³ of a solution. The solubility of sodium chloride at this temperature is? (molar mass of sodium chloride = 111.0gmol⁻¹)",
+    "option": {
+      "a": "2.0 moldm⁻³",
+      "b": "0.25 moldm⁻³",
+      "c": "1.0 moldm⁻³",
+      "d": "0.5 moldm⁻³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Moles of NaCl = 58.5 ÷ 111.0 = 0.527 mol. Volume = 250 cm³ = 0.25 dm³. Concentration = moles ÷ volume = 0.527 ÷ 0.25 = 2.11 moldm⁻³ ≈ 2.0 moldm⁻³. Answer: A.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 536,
     "question": "Which of the following properties increases from left to right along the period but decreases down the group in the Periodic Table? i. Atomic Number  ii. Ionization energy  iii. Metallic character  iv. Electron affinity",
     "option": {
@@ -5360,6 +5536,38 @@
     "examyear": "2020"
   },
   {
+    "id": 586,
+    "question": "What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen?",
+    "option": {
+      "a": "8.0g",
+      "b": "16.0g",
+      "c": "36.0g",
+      "d": "72.0g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Equation: 2H₂ + O₂ → 2H₂O. Molar mass of H₂ = 2 g/mol. Moles of H₂ = 8.0 ÷ 2 = 4 mol. From the equation, 2 mol H₂ produces 2 mol H₂O, so 4 mol H₂ produces 4 mol H₂O. Mass of H₂O = 4 × 18 = 72.0 g.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 587,
+    "question": "Proteins in acid solution undergo?",
+    "option": {
+      "a": "Substitution",
+      "b": "Fermentation",
+      "c": "Hydrolysis",
+      "d": "Polymerisation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Proteins are polymers of amino acids linked by peptide bonds. In acid solution, water molecules break these peptide bonds in a reaction called hydrolysis, producing the constituent amino acids. This is the reverse of condensation polymerisation and is used in protein digestion and laboratory analysis.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 589,
     "question": "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes?",
     "option": {
@@ -5372,6 +5580,22 @@
     "image": "",
     "answer": "b",
     "solution": "Cathode rays are streams of electrons, which are negatively charged particles. When these electrons are deflected onto the electrode of an electrometer, they deposit negative charge on it. The electrometer therefore becomes negatively charged. This experiment by J.J. Thomson helped confirm the negative charge of cathode rays.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 593,
+    "question": "The most important element on the earth's crust is?",
+    "option": {
+      "a": "Nitrogen",
+      "b": "Hydrogen",
+      "c": "Oxygen",
+      "d": "Fluorine"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Oxygen is the most abundant element in the earth's crust by mass, making up approximately 46% of the crust. It occurs in combined form in rocks, minerals, water, and oxides. Nitrogen is most abundant in the atmosphere, not the crust. Silicon is the second most abundant element in the crust after oxygen.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -5532,6 +5756,22 @@
     "image": "",
     "answer": "a",
     "solution": "Kerosene is a hydrocarbon mixture containing only carbon and hydrogen atoms, with no oxygen in its composition. Soil contains water and oxides, glass contains silicon dioxide (SiO₂) and metal oxides, and cement contains calcium silicates and aluminates, all of which contain oxygen. Kerosene is the only substance listed that contains no oxygen.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 607,
+    "question": "A sample of any of the following substances disappears after some time when exposed to air like camphor, naphthalene, or dry ice. This phenomenon is called?",
+    "option": {
+      "a": "Sublimation",
+      "b": "Evaporation",
+      "c": "Diffusion",
+      "d": "Radiation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sublimation is the direct conversion of a solid into vapour without passing through the liquid state. Camphor, naphthalene, and dry ice (solid CO₂) all sublime at room conditions, gradually disappearing as they convert directly from solid to gas. Evaporation applies to liquids, not solids.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -6304,6 +6544,22 @@
     "examyear": "2023"
   },
   {
+    "id": 678,
+    "question": "What is the sum of the oxidation numbers in a neutral compound?",
+    "option": {
+      "a": "2",
+      "b": "-1",
+      "c": "0",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a neutral compound, the sum of the oxidation numbers of all atoms must equal zero. This is a fundamental rule of oxidation number assignment. For example, in H₂O: 2(+1) + (−2) = 0. In CO₂: (+4) + 2(−2) = 0. The algebraic sum is always zero for electrically neutral compounds.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 679,
     "question": "According to the kinetic theory of gases, the pressure exerted by a gas is due to?",
     "option": {
@@ -6572,6 +6828,22 @@
     "image": "",
     "answer": "d",
     "solution": "Diluting an acidic solution adds more water, which decreases the concentration of H⁺ ions. Since pH = −log[H⁺], a decrease in H⁺ concentration causes the pH to increase (move closer to 7). The solution becomes less acidic but remains acidic — the pH rises toward 7 but does not exceed it on dilution alone.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 701,
+    "question": "Which organic compound is responsible for the characteristic aroma of fruits?",
+    "option": {
+      "a": "Alkane",
+      "b": "Alkyne",
+      "c": "Ester",
+      "d": "Amine"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Esters are organic compounds formed by the reaction of a carboxylic acid with an alcohol. They are responsible for the pleasant, sweet aromas characteristic of fruits and flowers. For example, ethyl ethanoate gives a pear-like smell, pentyl ethanoate smells of banana, and octyl ethanoate has an orange scent. Amines have fishy smells, while alkanes and alkynes are largely odourless or have petroleum-like smells.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7404,6 +7676,22 @@
     "image": "",
     "answer": "d",
     "solution": "Boiling points: CH₃CH₂OH (ethanol) = 78°C, CH₃CH₂CH₂Cl (1-chloropropane) = 47°C, CH₃CH₂CH₂CH₂CH₂CH₃ (hexane) = 69°C, CH₃CH₂CH₂OH (propan-1-ol) = 97°C. Propan-1-ol has the highest bp because it forms hydrogen bonds and has a greater molecular mass than ethanol, giving stronger intermolecular forces.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 788,
+    "question": "From the graph, it can be inferred that",
+    "option": {
+      "a": "the solubility of X and Y is the same at all temperatures",
+      "b": "the solubility of X, Y and Z is temperature dependent",
+      "c": "solubility of Z increases as temperature increases",
+      "d": "solubility of Y increases steadily as temperature increases"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777640735/ALOC-Questions/Chemistry/UTME/2025/Chemistry_2025_Q34_sawho2.png",
+    "answer": "d",
+    "solution": "From the graph, substance Z has a constant solubility of 40 g/100 cm³ regardless of temperature, eliminating options B and C. Substance X and Y have different solubility values at most temperatures and only intersect once, eliminating option A. Substance Y shows a consistent increase in solubility as temperature rises throughout the entire range, making D the correct inference.",
     "examtype": "utme",
     "examyear": "2025"
   },
