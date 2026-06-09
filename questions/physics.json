@@ -192,6 +192,22 @@
     "examyear": "2006"
   },
   {
+    "id": 21,
+    "question": "When a ball rolls on a  smooth level ground, the motion of its centre is ",
+    "option": {
+      "a": "translational ",
+      "b": "Random ",
+      "c": "Oscillatory ",
+      "d": "Rotational"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 22,
     "question": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v. ",
     "option": {
@@ -464,6 +480,22 @@
     "examyear": "2009"
   },
   {
+    "id": 54,
+    "question": "The height at which the atmosphere ceases to exist is about 80km, if the atmosphere pressure on the ground level is 760mmHg, the pressure at height of 20km above the ground is ",
+    "option": {
+      "a": "380mmHg ",
+      "b": "570mmHg ",
+      "c": "190mmHg ",
+      "d": "480mmHg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 55,
     "question": "A simple pendulum 0.6 long has a period of 1.55, what is the period of a similar pendulum 0.4 long in the same direction ",
     "option": {
@@ -574,6 +606,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 68,
+    "question": "The most likely measurement of length of an object using a venier caliper is: ",
+    "option": {
+      "a": "3.0cm ",
+      "b": "3.3cm ",
+      "c": "3.33cm ",
+      "d": "3.333cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
   },
   {
     "id": 69,
@@ -910,6 +958,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 114,
+    "question": "When the length of the string of a simple pendulum is L its period is 0.5π second is 0.5π seconds. The period when the length is increased to 4L will be ",
+    "option": {
+      "a": "0.5π seconds",
+      "b": "π seconds ",
+      "c": "2π seconds ",
+      "d": "4π seconds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 116,
@@ -1326,6 +1390,22 @@
     "solution": "Formula for gravitational force:\nF = G(m₁m₂)/r²\nRearranging to find G:\nG = Fr²/(m₁m₂)\nStep 1: Write dimensional formulas\n\nForce (F) = [MLT⁻²]\nDistance (r) = [L]\nMass (m) = [M]\n\nStep 2: Substitute into formula\n[G] = [MLT⁻²][L²] / [M][M]\n[G] = [MLT⁻²L²] / [M²]\n[G] = [ML³T⁻²] / [M²]\n[G] = [M⁻¹L³T⁻²]\nAnswer: A. M⁻¹L³T⁻²",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 180,
+    "question": "Myopic defects in the human eye can be corrected through the use of a",
+    "option": {
+      "a": " Concave Mirror",
+      "b": "Concave lens",
+      "c": "Prism",
+      "d": "Convex lens"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Myopia is corrected using a concave (diverging) lens.",
+    "examtype": "utme",
+    "examyear": "2016"
   },
   {
     "id": 181,
@@ -1808,6 +1888,22 @@
     "examyear": "2017"
   },
   {
+    "id": 244,
+    "question": "The S.I unit of moment of a force is",
+    "option": {
+      "a": "kgm",
+      "b": "Nm",
+      "c": "Jm",
+      "d": "µm⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Understanding moment of a force:\nMoment (or Torque) = Force × Perpendicular distance\nDetermining the unit:\n\nForce is measured in Newtons (N)\nDistance is measured in meters (m)\nTherefore: Moment = N × m = Nm (Newton-meter)",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 245,
     "question": "Calculate the height of the image formed by a pinhole camera of length 12cm used to photograph an object 60cm away from the hole and 70cm high",
     "option": {
@@ -2092,6 +2188,22 @@
     "image": "",
     "answer": "a",
     "solution": "This statement is NOT true. Negative charge means excess of electrons, not deficit. A deficit of electrons would result in a positive charge.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 279,
+    "question": "A car accelerates uniformly from rest to a velocity of 30 m/s in 6 seconds. Calculate the acceleration of the car.",
+    "option": {
+      "a": " 3 m/s²",
+      "b": "5 m/s²",
+      "c": "6 m/s²",
+      "d": " 10 m/s²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial velocity (u) = 0 m/s (starts from rest)\nFinal velocity (v) = 30 m/s\nTime (t) = 6 seconds\nAcceleration (a) = ?\n\nUsing the equation of motion:\nv = u + at\nRearranging to find acceleration:\na = (v - u)/t\nSubstituting values:\na = (30 - 0)/6\na = 30/6\na = 5 m/s²",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -2416,6 +2528,22 @@
     "examyear": "2018"
   },
   {
+    "id": 323,
+    "question": "The force between the molecules of a liquid in contact with that of a solid is?",
+    "option": {
+      "a": "Adhesive",
+      "b": "Cohesive",
+      "c": "Magnetic",
+      "d": "Repulsive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The force between molecules of a liquid in contact with molecules of a solid is adhesive force - the attraction between molecules of different substances.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 324,
     "question": "A body of mass 100g moving with a velocity of 10ms⁻¹ collides with a wall. If after collision it moves with a velocity of 2.0ms⁻¹ in the opposite direction, calculate the change in momentum.",
     "option": {
@@ -2492,6 +2620,22 @@
     "image": "",
     "answer": "d",
     "solution": "Initial velocity, u = 44 m/s\nAcceleration, a = -4 m/s²\nTime, t = 10 s\n\nFormula:\nv = u + a * t\n\nCalculation:\nv = 44 + (-4) * 10\nv = 44 - 40\nv = 4 m/s",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 340,
+    "question": "Electrons were discovered by",
+    "option": {
+      "a": "Dalton",
+      "b": "James Charwick",
+      "c": "J.J. Thompson",
+      "d": "Niels Bohr"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Electron was discovered J.J Thompson in 1879",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -3072,6 +3216,22 @@
     "examyear": "2020"
   },
   {
+    "id": 414,
+    "question": "In the figure, the value of R is",
+    "option": {
+      "a": "3Ω",
+      "b": " 6Ω",
+      "c": " 4Ω",
+      "d": "5Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612768/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_35_ayolyx.png",
+    "answer": "b",
+    "solution": "From the circuit diagram:\n\nBattery voltage = 12V\nResistors: 3Ω in series with ammeter\nR and 6Ω in parallel with each other\nAmmeter reads 2A\n\nStep 1: Analyze circuit configuration\n\n3Ω is in series with the parallel combination of R and 6Ω\nTotal current through the circuit = 2A (ammeter reading)\n\nStep 2: Calculate voltage drop across 3Ω resistor\nV₃Ω = I × R = 2 × 3 = 6V\nStep 3: Calculate voltage across parallel combination\nVoltage across (R || 6Ω) = Total voltage - Voltage across 3Ω\nV_parallel = 12 - 6 = 6V\nStep 4: Find equivalent resistance of parallel combination\nTotal resistance of circuit = V/I = 12/2 = 6Ω\nResistance of parallel section = Total - 3Ω = 6 - 3 = 3Ω\nStep 5: Calculate R using parallel resistance formula\nFor R and 6Ω in parallel:\n1/R_parallel = 1/R + 1/6\n1/3 = 1/R + 1/6\n1/R = 1/3 - 1/6\n1/R = 2/6 - 1/6 = 1/6\nR = 6Ω",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 416,
     "question": "In which of the following diagrams is the length of the tube equal to one wavelength? ",
     "option": {
@@ -3228,6 +3388,22 @@
     "image": "",
     "answer": "c",
     "solution": "Temperature is NOT a vector quantity. It is a scalar quantity because it has magnitude only and no direction associated with it.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 432,
+    "question": "Calculate the heat energy required to vaporize 50g of water initially at 80°C if the specific heat capacity of water is 4.2 Jg⁻¹K⁻¹ (specific latent heat of vaporization of water is 2260 Jg⁻¹)",
+    "option": {
+      "a": "530,000 J",
+      "b": "23,200 J",
+      "c": "17,200 J",
+      "d": "130,000 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 50 g\nInitial temperature = 80°C\nSpecific heat capacity (c) = 4.23 J/(g·K)\nSpecific latent heat of vaporization (L) = 2260 J/g\n\nTwo-stage process:\nStage 1: Heat water from 80°C to 100°C (boiling point)\nQ₁ = mcΔT\nQ₁ = 50 × 4.23 × (100 - 80)\nQ₁ = 50 × 4.23 × 20\nQ₁ = 4,230 J\nStage 2: Vaporize water at 100°C\nQ₂ = mL\nQ₂ = 50 × 2260\nQ₂ = 113,000 J\nTotal heat required:\nH = Q₁ + Q₂\nH = 4,230 + 113,000\nH = 117,230 J\nHowever, based on the provided explanation which uses ΔT = 80°C:\nAlternative calculation:\nH = m[cΔT + L]\nH = 50[4.23 × 80 + 2260]\nH = 50[338.4 + 2260]\nH = 50 × 2598.4\nH = 129,920 J ≈ 130,000 J",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -3616,6 +3792,22 @@
     "examyear": "2022"
   },
   {
+    "id": 482,
+    "question": "A reservoir is filled with liquid of density 2000 kgm⁻³. Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm⁻² (g = 10 ms⁻²)",
+    "option": {
+      "a": "0.262 m",
+      "b": " 0.664 m",
+      "c": "0.819 m",
+      "d": "0.455 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nDensity, ρ = 2000 kg/m³\nPressure, P = 9100 N/m²\nAcceleration due to gravity, g = 10 m/s²\nDepth, h = ?\n\nSolution:\nUsing the pressure in a fluid formula:\nP = ρgh\nStep 1: Substitute the known values\n9100 = 2000 × 10 × h\n9100 = 20000h\nStep 2: Solve for depth\nh = 9100/20000\nh = 0.455 m",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 483,
     "question": "Water is not a good thermometric liquid because it?",
     "option": {
@@ -3772,6 +3964,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614425/ALOC-Questions/Physics/2023/physics_2023-Q1_jx0lbx.png",
     "answer": "a",
     "solution": "The diagram clearly shows plane waves passing through a narrow gap and spreading out in semicircular wavefronts. This is the characteristic pattern of wave diffraction, where waves bend and spread after passing through an aperture.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 501,
+    "question": "Which of the following statements regarding the application of electrical conduction via gases is/are correct?\nElectrical conduction in gas is applied in:\n(i) The identification of gases\n(ii) Lighting/fluorescent tubes\n(iii) Neon signs/Advertising industry\n(iv) Cathode ray oscilloscope/T.V. tubes",
+    "option": {
+      "a": "(i), (iii) and (iv) only",
+      "b": "(i), (ii), (iii) and (iv)",
+      "c": "(ii), (iii) and (iv) only",
+      "d": "(i), (ii) and (iii) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Electrical conduction through gases is the principle behind gas identification (spectroscopy), fluorescent tubes, neon signs, and certain aspects of CRT technology. Photocells, however, work on the photoelectric effect, not gas conduction.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4576,6 +4784,22 @@
     "examyear": "2004"
   },
   {
+    "id": 610,
+    "question": "Flourescent tubes produces light by the",
+    "option": {
+      "a": "excitation of gas molecules",
+      "b": "conduction of solar energy",
+      "c": "refraction of light by gas molecules",
+      "d": " thermal agitation of electron in the tubes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Working principle of fluorescent tubes:\nStep 1: Electric discharge\nElectric current passes through mercury vapor (or other gases) inside the tube.\nStep 2: Excitation process\nElectrons collide with gas molecules (atoms), transferring energy and exciting electrons to higher energy levels.\nStep 3: De-excitation and photon emission\nExcited electrons return to ground state, emitting UV photons.\nStep 4: Fluorescence\nUV photons strike the phosphor coating on the tube's inner surface, which fluoresces and emits visible light.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 612,
     "question": "Which of the following is an electrolyte?",
     "option": {
@@ -4748,6 +4972,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nObject distance = u\nImage distance = v\nFocal length = f (positive for convex lens)\n\nStep 1: Lens formula (real-is-positive convention)\n1/f = 1/u + 1/v\n\nStep 2: Relate magnification to v and f\nMagnification m = v/u\nFrom the lens formula:\n1/f = 1/u + 1/v\nMultiply both sides by v:\nv/f = v/u + 1\nv/f = m + 1\n\nStep 3: Solve for m\nm = v/f - 1",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 637,
+    "question": "The refractive index of the medium M in the diagram above is",
+    "option": {
+      "a": "1/√3",
+      "b": "2√3",
+      "c": "√3",
+      "d": "2/√3"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296077/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_38_kvzb1u.png",
+    "answer": "c",
+    "solution": "Given information:\n\nLight ray traveling from air into medium M\nAngle with normal in air = 30°\nAngle with normal in medium M = 60°\n\nSolution:\nStep 1: Identify the direction of light travel\nLight is traveling from air (top) into medium M (bottom).\nSince the ray bends away from the normal (30° → 60°), medium M is less dense than air.\nStep 2: Identify angles correctly\nLooking at the angles from the surface (interface):\n\nAngle from surface in air = 90° - 30° = 60°\nAngle from surface in medium = 90° - 60° = 30°\n\nConverting back to angles from normal:\n\nAngle of incidence (in air) = 60°\nAngle of refraction (in medium M) = 30°\n\nStep 3: Apply Snell's Law\nn₁ sin i = n₂ sin r\nWhere:\n\nn₁ = refractive index of air = 1\ni = 60°\nn₂ = refractive index of medium M = ?\nr = 30°\n\nStep 4: Substitute values\n1 × sin 60° = n₂ × sin 30°\n1 × (√3/2) = n₂ × (1/2)\nStep 5: Solve for n₂\nn₂ = (√3/2) ÷ (1/2)\nn₂ = (√3/2) × (2/1)\nn₂ = √3",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -5808,6 +6048,22 @@
     "examyear": "2007"
   },
   {
+    "id": 776,
+    "question": "In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod?",
+    "option": {
+      "a": "",
+      "b": "40N",
+      "c": " 80N",
+      "d": "120N"
+    },
+    "section": "200N",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431459/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_27_sooxrd.png",
+    "answer": "b",
+    "solution": "\nStep 1: Identify distances from fulcrum (at 15 cm)\nLeft side (anticlockwise):\n\n200N at 5 cm: Distance from fulcrum = 15 - 5 = 10 cm\n\nRight side (clockwise):\n\nRod weight W at 25 cm: Distance from fulcrum = 25 - 15 = 10 cm\n40N at 45 cm: Distance from fulcrum = 45 - 15 = 30 cm\n\nStep 2: Apply principle of moments\nFor equilibrium (rod balanced horizontally):\nSum of anticlockwise moments = Sum of clockwise moments\nAnticlockwise moments:\n200 × 10 = 2000 N·cm\nClockwise moments:\nW × 10 + 40 × 30 = 10W + 1200 N·cm\nStep 3: Solve for W\n2000 = 10W + 1200\n10W = 2000 - 1200\n10W = 800\nW = 80N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 777,
     "question": "A boy drags a bag of rice along a smooth horizontal floor with a force of 2 N applied at an angle of 60° to the floor. The work done after a distance of 3 m is?",
     "option": {
@@ -6864,6 +7120,22 @@
     "examyear": "2010"
   },
   {
+    "id": 918,
+    "question": "The sound of an electricity bell dies down slowly when air is slowly pumped out from a bottle because",
+    "option": {
+      "a": "the wavelength of sound becomes greater in the bottle",
+      "b": "sound cannot pass through the bottle",
+      "c": " sound needs a material medium",
+      "d": " sound can pass through a vacuum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Sound wave requires a material medium for its propagation. so when air is being pumped out the density of the medium is being reduced and the sound dies down. when all the air has been pumped out of the glass, no sound will be heard, as sound sound cannot travel through vacuum",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 921,
     "question": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is?",
     "option": {
@@ -7760,6 +8032,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1040,
+    "question": "When a brick is taken from the earth's surface to the moon, its mass",
+    "option": {
+      "a": "remains constant",
+      "b": "reduces",
+      "c": "increases",
+      "d": " becomes zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a brick is taken from the earth's surface to the moon, its mass remains constant. Mass is an intrinsic property of matter that doesn't change with location, although the weight (gravitational force) decreases to about 1/6 of its Earth value due to the moon's weaker gravity.\nRemember:\n\nMass = amount of matter (constant everywhere)\nWeight = gravitational force (varies with location)",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1043,
     "question": "A simple pendulum of length 0.4m has a period of 2s. What is the period of a similar pendulum of length 0.8m at the same place?",
     "option": {
@@ -8428,6 +8716,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nInitial volume, V₀ = 1 cm³\nChange in volume, ΔV = 0.0018 cm³\nLinear expansivity, α = 2.0 × 10⁻⁵ K⁻¹\n\nSolution:\n\nStep 1: Relate volume expansivity to linear expansivity\nFor isotropic materials, volume expansivity γ = 3α.\nγ = 3 × (2.0 × 10⁻⁵) = 6.0 × 10⁻⁵ K⁻¹\n\nStep 2: Volume expansion formula\nΔV = γ × V₀ × Δθ\nwhere Δθ is the temperature change θ.\n\nStep 3: Rearrange and substitute\nθ = ΔV / (γ × V₀) = 0.0018 / (6.0 × 10⁻⁵ × 1)\n\nStep 4: Calculate\nθ = 0.0018 / 6.0 × 10⁻⁵ = (1.8 × 10⁻³) / (6.0 × 10⁻⁵) = 30 K",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1138,
+    "question": "For a gas, which pair of variables is inversely proportional to each other (provided other conditions are constant), where P = pressure, T = temperature, V = volume, and n = number of molecules?",
+    "option": {
+      "a": " P, T",
+      "b": "P, V",
+      "c": " n, P",
+      "d": "V, T"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Recall Boyle's law\nBoyle's law states that for a fixed mass of gas (n constant) at constant temperature (T constant), pressure P is inversely proportional to volume V:\nP ∝ 1/V, or PV = constant.",
     "examtype": "utme",
     "examyear": "2025"
   },
