@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "Which of the following is the best general definition of the study of economics? ",
+    "option": {
+      "a": "the best way invest in the stock market",
+      "b": "business decision making under foreign competition ",
+      "c": "individual and social choice",
+      "d": "inflation unemployment in a growing economy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 5,
     "question": "If the price of Pepsi decrease relative to the price of coke and 7-up the demand for ",
     "option": {
@@ -350,6 +366,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 48,
+    "question": " If the equation relating consumption (C) to income (Y) is C= N7,500 + 0.2Y, then ",
+    "option": {
+      "a": "consumption is inversely related to income ",
+      "b": "consumption is the independent inversely related to income is the dependent variable ",
+      "c": "if income is N15,000, the  consumption is 10,500 ",
+      "d": "if consumption is N300,000, then income is N10,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
   },
   {
     "id": 52,
@@ -800,6 +832,22 @@
     "examyear": "2011"
   },
   {
+    "id": 111,
+    "question": "Price legislation can be defined as ",
+    "option": {
+      "a": "how price fluctuates in the market",
+      "b": "how prices are controlled in the market  ",
+      "c": "how to avoid inflation  ",
+      "d": "how the government fixes the prices of essential commodities."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 113,
     "question": "A commodity is said to be price inelastic if  ",
     "option": {
@@ -811,6 +859,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 114,
+    "question": "The parameter ‘b’ in a consumption function of the form; C = a + bY; where Y is the National income is  ",
+    "option": {
+      "a": "Marginal benefit of consumption  ",
+      "b": "Marginal propensity to purchase  ",
+      "c": "Marginal propensity to consume  ",
+      "d": "Marginal propensity to save "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -839,6 +903,22 @@
       "b": "All factors affecting change in demand are not affecting change in quantity demanded except income  ",
       "c": "Many factors leads to change in demand but only change in price affect change in quantity demanded   ",
       "d": "Many factors leads to change in demand but only change in income affect change in quantity demanded"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 121,
+    "question": " Yam and palm oil are together; therefore  ",
+    "option": {
+      "a": "Yam is a substitute good while palm oil is a complementary good  ",
+      "b": "Yam is complimentary good while palm oil is a substitute good  ",
+      "c": "Yam and oil are complimentary goods ",
+      "d": "Yam and beans are substitute goods"
     },
     "section": "",
     "image": "",
@@ -1095,6 +1175,22 @@
       "b": "Unitary elastic demand",
       "c": "Inelastic demand",
       "d": "Perfectly elastic demand "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 153,
+    "question": "A total utility is increasing, marginal utility is  ",
+    "option": {
+      "a": "Negative and decreasing  ",
+      "b": "Positive and increasing  ",
+      "c": "positive and decreasing   ",
+      "d": "Zero"
     },
     "section": "",
     "image": "",
@@ -1408,6 +1504,38 @@
     "examyear": "2010"
   },
   {
+    "id": 182,
+    "question": "A demand curve which is parallel to the horizontal axis is",
+    "option": {
+      "a": "perfectly inelastic ",
+      "b": "perfectly elastic ",
+      "c": "relatively inelastic ",
+      "d": "relatively elastic."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 183,
+    "question": "Allocative efficiency occurs only at that output where: ",
+    "option": {
+      "a": "marginal benefit exceeds marginal cost the by greatest ",
+      "b": "consumer surplus exceeds producer surplus by the greatest amount ",
+      "c": "the areas of consumer and producer surplus are equal ",
+      "d": "the combined amounts of consumer surplus and producer surplus are maximizes."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 185,
     "question": "Economic problems arise because",
     "option": {
@@ -1600,6 +1728,22 @@
     "examyear": "2001"
   },
   {
+    "id": 201,
+    "question": "Consumers buy more of a commodity at a lower price than at a higher price because",
+    "option": {
+      "a": "producers like to produce more",
+      "b": "in any given situation, people like to buy more",
+      "c": "consumers like to show off",
+      "d": "with the same amount of money, they will be able to buy more"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 202,
     "question": "The demand for a commodity not directly for immediate consumption but for the production of another commodity is",
     "option": {
@@ -1627,6 +1771,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 206,
+    "question": "The upward sloping of the supply curve indicates that",
+    "option": {
+      "a": "more will be supplied as price rises",
+      "b": "less will be supplied as price rises",
+      "c": "supply is not a function of price",
+      "d": "supply is static and demand is dynamic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2001"
@@ -1968,6 +2128,22 @@
     "examyear": "2010"
   },
   {
+    "id": 247,
+    "question": "All the following are sources of finance to a joint stock company except",
+    "option": {
+      "a": "debentures",
+      "b": "cooperative loans",
+      "c": "shares",
+      "d": "bank loans"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 248,
     "question": "The public sector of an economy includes",
     "option": {
@@ -2171,6 +2347,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 270,
+    "question": "One disadvantage of direct taxes is that they",
+    "option": {
+      "a": "allocate scarce resources",
+      "b": "are not rigid",
+      "c": "can be progressive.",
+      "d": "can be evaded"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -3360,6 +3552,22 @@
     "examyear": "2003"
   },
   {
+    "id": 424,
+    "question": "The additional satisfaction derived from the consumption of one more unit of a good is called",
+    "option": {
+      "a": "marginal product",
+      "b": "marginal utility",
+      "c": "marginal revenue",
+      "d": "marginal cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 428,
     "question": "The market supply curve slopes upwards from left to right indicating that",
     "option": {
@@ -3387,6 +3595,22 @@
     "section": "Use the data below to answer question:  Output [1, 2, 3, 4, 5]  Total Revenue(N=) [40, 49, 56, 61, 65]",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 431,
+    "question": "West African countries experience rapid population growth due to",
+    "option": {
+      "a": "existence of birth control clinics",
+      "b": "early marriages",
+      "c": "adequate sex education in schools",
+      "d": "late marriages"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2003"
@@ -3728,6 +3952,22 @@
     "examyear": "2003"
   },
   {
+    "id": 465,
+    "question": "The reward for land as a factor of production is",
+    "option": {
+      "a": "interest",
+      "b": "rent",
+      "c": "dividend",
+      "d": "wages"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
     "id": 466,
     "question": "The three broad categories of production are",
     "option": {
@@ -3803,6 +4043,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 475,
+    "question": "Natural growth rate is",
+    "option": {
+      "a": "birth rate less death rate",
+      "b": "death rate less migration",
+      "c": "death rate plus birth rate",
+      "d": "birth rate plus migration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
@@ -3899,6 +4155,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 487,
+    "question": "Which of the following will be an effect of inflation?",
+    "option": {
+      "a": "Wages earners will gain",
+      "b": "Borrowing of money will be restricted",
+      "c": "Money lenders will gain",
+      "d": "Borrowers of money will gain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
@@ -4027,6 +4299,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 509,
+    "question": "A major achievement of  the  Organization  of  Petroleum Exporting Countries (OPEC) is that",
+    "option": {
+      "a": "crude oil price has increased tremendously",
+      "b": "petroleum products prices have remained low",
+      "c": "producing countries are highly industrialized",
+      "d": "price of crude oil has remained relatively stable."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
@@ -4219,6 +4507,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 533,
+    "question": "ln which of the following business units are the owners mostly the customers?",
+    "option": {
+      "a": "Co-operatives",
+      "b": "Limited liability companies",
+      "c": "Partnerships",
+      "d": "Public corporations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -4784,6 +5088,22 @@
     "examyear": "2006"
   },
   {
+    "id": 607,
+    "question": "The full meaning of OPEC is",
+    "option": {
+      "a": "Oil and Petroleum Exporting Countries",
+      "b": "Original Petroleum Exporting Companies",
+      "c": "Organization of Petrol Exporting Countries",
+      "d": "Organization of Petroleum Exporting Countries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 610,
     "question": "The reward which accrues to labour for participating in production is",
     "option": {
@@ -5088,6 +5408,22 @@
     "examyear": "2007"
   },
   {
+    "id": 641,
+    "question": "Which of the following institutions assists the government in managing the national debt?",
+    "option": {
+      "a": "Commercial Banks",
+      "b": "The Central Bank",
+      "c": "The Capital Market",
+      "d": "The World Bank"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
     "id": 643,
     "question": "Which of Ike following is an example of direct tax?",
     "option": {
@@ -5147,6 +5483,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 654,
+    "question": "A summary of all the receipts and payments of a country in \tinternational transactions is called",
+    "option": {
+      "a": "terms of trade",
+      "b": "balance of payment",
+      "c": "balance of payment adjustment",
+      "d": "capital account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
