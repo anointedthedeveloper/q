@@ -6000,6 +6000,22 @@
     "examyear": "2006"
   },
   {
+    "id": 392,
+    "question": "Evaluate 2/(6-5√3)",
+    "option": {
+      "a": "-(12/39-(10√3)/39)",
+      "b": "12/39-(10√3)/39",
+      "c": "-(12/39+(10√3)/39)",
+      "d": "12/39+(10√3)/39"
+    },
+    "section": "SOLUTION : <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mn>2</mn>\n    <mrow>\n      <mn>6</mn>\n      <mo>&#x2212;</mo>\n      <mn>5</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>2</mn>\n    <mrow>\n      <mn>6</mn>\n      <mo>&#x2212;</mo>\n      <mn>5</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mo>&#xD7;</mo>\n  <mfrac>\n    <mrow>\n      <mn>6</mn>\n      <mo>+</mo>\n      <mn>5</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>6</mn>\n      <mo>+</mo>\n      <mn>5</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <mo stretchy=\"false\">(</mo>\n      <mn>6</mn>\n      <mo>+</mo>\n      <mn>5</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>6</mn>\n      <mo>&#x2212;</mo>\n      <mn>5</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n      <mo stretchy=\"false\">)</mo>\n      <mo stretchy=\"false\">(</mo>\n      <mn>6</mn>\n      <mo>+</mo>\n      <mn>5</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>12</mn>\n      <mo>+</mo>\n      <mn>10</mn>\n      <mo>&#x2212;</mo>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>36</mn>\n      <mo>&#x2212;</mo>\n      <mn>25</mn>\n      <mo stretchy=\"false\">(</mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>12</mn>\n      <mo>+</mo>\n      <mn>10</mn>\n      <mo>&#x2212;</mo>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>36</mn>\n      <mo>&#x2212;</mo>\n      <mn>75</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>12</mn>\n      <mo>+</mo>\n      <mn>10</mn>\n      <mo>&#x2212;</mo>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mo>&#x2212;</mo>\n      <mn>39</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mo>&#x2212;</mo>\n  <mrow data-mjx-texclass=\"INNER\">\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\n    <mfrac>\n      <mn>12</mn>\n      <mn>39</mn>\n    </mfrac>\n    <mo>&#x2212;</mo>\n    <mfrac>\n      <mrow>\n        <mn>10</mn>\n        <msqrt>\n          <mn>3</mn>\n        </msqrt>\n      </mrow>\n      <mn>39</mn>\n    </mfrac>\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\n  </mrow>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "2/(6-5√3)=2/(6-5√3)×(6+5√3)/(6+5√3)=(2(6+5√3))/((6-5√3)(6+5√3))=(12+10-√3)/(36-25(3))=(12+10-√3)/(36-75)=(12+10-√3)/(-39)=-(12/39-(10√3)/39)",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 393,
     "question": "Compute 110011<sub>2</sub> + 11111<sub>2</sub>",
     "option": {
@@ -18140,6 +18156,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206828/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q45_silkfl.jpg",
     "answer": "b",
     "solution": "In the figure above, q° = 30° (vertically opposite angles)\n\n(P + 2q)° + 30° = 180°(angles on a straight line)\n\np + 2 x 30° + 30° = 180°\n\np + 60° + 30° = 180°\n\np + 90° = 180°\n\np = 180° - 90°\n\n= 90°",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1231,
+    "question": "Find the value of x in the figure above",
+    "option": {
+      "a": "20√3cm",
+      "b": "10√3cm",
+      "c": "5√3cm",
+      "d": "4√3cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206915/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q46_z6rziz.jpg",
+    "answer": "b",
+    "solution": "In the figure above, x/sin 60° =10/sin30° (Sine rule)\n\nx = 10sin60°/sin30°\n\n\n= 10 x √3/2 × 1/2\n\n\n= 10 x √3/2 × 2/1\n\n\n= 10√3cm",
     "examtype": "utme",
     "examyear": "2014"
   },
