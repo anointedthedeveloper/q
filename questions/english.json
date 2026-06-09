@@ -12787,6 +12787,25 @@
     "category": "others"
   },
   {
+    "id": 783,
+    "question": "Civil engineering is <u>predominantly</u> a male profession?",
+    "option": {
+      "a": "absolutely",
+      "b": "essentially",
+      "c": "generally",
+      "d": "seldom"
+    },
+    "section": "In each of questions 85 to 100, choose from the option <b>opposite</b> in meaning to the word underlined.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 87,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 784,
     "question": "The officer said that he knew nothing to the <u>detriment</u> of the applicant?",
     "option": {
@@ -18559,6 +18578,25 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 28,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1222,
+    "question": "Many people believed that such an action is <u>unbecoming</u> of a leader",
+    "option": {
+      "a": "forthcoming",
+      "b": ". not befitting",
+      "c": "unwanted",
+      "d": " not necessary"
+    },
+    "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+    "image": "",
+    "answer": "b",
+    "solution": "Unbecoming: (of behaviour) not fitting or appropriate; unseemly.",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 29,
     "hasPassage": 0,
     "category": "others"
   },
