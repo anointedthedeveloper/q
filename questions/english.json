@@ -15827,6 +15827,25 @@
     "category": "others"
   },
   {
+    "id": 1133,
+    "question": "You need to brush up on your Spanish",
+    "option": {
+      "a": " you need to improve your skills",
+      "b": "you need a brush from Spain",
+      "c": "you need to learn to play with a spaniard",
+      "d": "you need to study the history of Spain"
+    },
+    "section": "<b>questions 36 - 45 are on LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of this question select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "a",
+    "solution": "This means, you need to get better or improve at speaking Spanish",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 41,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1134,
     "question": "Amaka would pass for a beauty queen",
     "option": {
@@ -21181,6 +21200,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 40,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1524,
+    "question": "The Journalist said he was working </i>freelance</i>",
+    "option": {
+      "a": "tireless",
+      "b": "without pay",
+      "c": "satisfactory",
+      "d": "dependently"
+    },
+    "section": "Choose the option opposite in meaning to the word(s) or phrase in italics. ",
+    "image": "",
+    "answer": "d",
+    "solution": "To work freelance means to work randomly without having a long-term contract with any firm or person.\n\nDependent means to rely on a particular person or thing. It is the antonym of ‘freelance’ in this context.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 41,
     "hasPassage": 0,
     "category": "others"
   },
