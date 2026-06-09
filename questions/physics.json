@@ -4192,6 +4192,22 @@
     "examyear": "2019"
   },
   {
+    "id": 355,
+    "question": "A thermocouple thermometer is connected to a millivoltmeter which can read up to 10mV. When one junction is in ice at 0°C and the other is in steam at 100°C, the millivoltmeter reads 4mV. What is the maximum temperature which this arrangement can measure?",
+    "option": {
+      "a": "100°C",
+      "b": "248°C",
+      "c": "250°C",
+      "d": "350°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMillivoltmeter maximum reading = 10 mV\nTemperature difference (0°C to 100°C) produces 4 mV\nReference junction at 0°C\nMaximum temperature = ?\n\nStep 1: Find the temperature-voltage relationship\nTemperature difference of 100°C produces 4 mV\nRate = 100°C / 4 mV = 25°C per mV\nStep 2: Calculate maximum temperature\nMaximum reading = 10 mV\nMaximum temperature difference from 0°C:\nΔT = 10 mV × 25°C/mV = 250°C\nMaximum temperature:\nT_max = 0°C + 250°C = 250°C",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 356,
     "question": "An alternating current can induce voltage because it has",
     "option": {
@@ -4588,6 +4604,22 @@
     "image": "",
     "answer": "b",
     "solution": "High tension transmission is characterized by low current and high voltage, which minimizes power losses during long-distance electricity transmission.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 392,
+    "question": "What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 Kobo per KWh?",
+    "option": {
+      "a": "N0.65",
+      "b": " N0.39",
+      "c": "N3.90",
+      "d": "N0.13"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nFive 50W lamps\nFour 100W lamps\nTime = 10 hours\nCost per kWh = 2 Kobo = N0.02\nTotal cost = ?\n\nStep 1: Calculate total power\nPower from 50W lamps = 5 × 50 = 250W\nPower from 100W lamps = 4 × 100 = 400W\nTotal power = 250 + 400 = 650W = 0.65kW\nStep 2: Calculate energy consumed\nEnergy = Power × Time\nEnergy = 0.65kW × 10 hours\nEnergy = 6.5 kWh\nStep 3: Calculate total cost\nCost = Energy × Rate\nCost = 6.5 × N0.02\nCost = N0.13",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -6512,6 +6544,22 @@
     "examyear": "2024"
   },
   {
+    "id": 555,
+    "question": "When a bus is accelerating, it must be ",
+    "option": {
+      "a": "changing its speed",
+      "b": "changing its velocity",
+      "c": " changing its position",
+      "d": "changing its direction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Acceleration is defined as the rate of change of velocity. This means a bus can accelerate by changing its speed, direction, or both. However, the most general definition of acceleration involves a change in velocity.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 556,
     "question": "The friction due to air mass can be reduced by ",
     "option": {
@@ -7676,6 +7724,22 @@
     "image": "",
     "answer": "a",
     "solution": "This stream of high‑energy electrons is called a cathode ray. Cathode rays are responsible for the glowing of gases in discharge tubes (e.g., neon signs, Crookes tubes).",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 664,
+    "question": "A transformer is rated 240v. If the primary coil is 4000 turns and the secondary voltage 12v, determine the number of turns in the secondary coil.",
+    "option": {
+      "a": "200",
+      "b": "100",
+      "c": "250",
+      "d": "150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nPrimary voltage, Vₚ = 240 V\nPrimary turns, Nₚ = 4000 turns\nSecondary voltage, Vₛ = 12 V\nSecondary turns, Nₛ = ?\n\nSolution:\nStep 1: Apply transformer equation\nFormula: Vₚ/Vₛ = Nₚ/Nₛ\nStep 2: Rearrange for Nₛ\nNₛ = (Vₛ × Nₚ)/Vₚ\nStep 3: Substitute values\nNₛ = (12 × 4000)/240\nNₛ = 48000/240\nNₛ = 200 turns",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -11356,6 +11420,22 @@
     "image": "",
     "answer": "d",
     "solution": "The process of adding impurities to drastically alter the electrical properties of germanium (or other semiconductors) is called doping. This is fundamental to semiconductor technology and the basis of modern electronics.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 988,
+    "question": "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis?",
+    "option": {
+      "a": "X is the anode and very high current is used",
+      "b": "X is the anode and Y is the cathode",
+      "c": " Y is the cathode and X is the anode",
+      "d": "Y is the anode and very high current is used"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Metals and hydrogen are deposited at the cathode, while non-metals and oxygen are deposited on the anode\n∴ metals Y will form the anode which is deposited at the cathode made of x",
     "examtype": "utme",
     "examyear": "2011"
   },
