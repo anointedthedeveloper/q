@@ -256,6 +256,22 @@
     "examyear": "2004"
   },
   {
+    "id": 17,
+    "question": "Poor sewage disposal, oil spill and indiscriminate refuse dumping all ",
+    "option": {
+      "a": "lead to  land pollution",
+      "b": "water pollution   ",
+      "c": "land and water pollution",
+      "d": "air and water pollution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 18,
     "question": "One of the advantages of commercialization is that it",
     "option": {
@@ -7947,6 +7963,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 531,
+    "question": "A contract of sale where ownership passes to the buyer on the payment of the first instalment is known as",
+    "option": {
+      "a": "hire purchase",
+      "b": "lease",
+      "c": "cash on delivery",
+      "d": "credit sale"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
