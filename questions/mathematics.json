@@ -608,6 +608,22 @@
     "examyear": "2009"
   },
   {
+    "id": 54,
+    "question": "Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium  ",
+    "option": {
+      "a": "3/5 ",
+      "b": "2/5 ",
+      "c": "1/5 ",
+      "d": "1/5 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 55,
     "question": "A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close ",
     "option": {
@@ -1100,6 +1116,22 @@
     "image": "",
     "answer": "b",
     "solution": "5<sup>-3log5</sup><sup>2</sup> x 2<sup>2log2</sup><sup>3</sup>\ni Let -3log5<sup>2</sup> = p => log5<sup>2</sup><sup>-3</sup> = p\n∴2<sup>-3</sup> = 5<sup>-p</sup>\n∴5<sup>-3log5</sup><sup>2</sup> = 5log5<sup>2</sup><sup>-3</sup> = 5<sup>-p</sup>\nii 2<sup>2</sup> 2<sup>2log2</sup><sup>3</sup> = q => log532 = q\n∴3<sup>2</sup> = 2<sup>q</sup>\n∴2<sup>2</sup> 2<sup>2log2</sup><sup>3</sup> = 2<sup>q</sup>\n= 3<sup>2</sup> = 9\ni x ii = 2<sup>-3</sup> x 9 = (1/2)<sup>3</sup> x 9\n= 1/8 x 9\n= 9/8 = 1(1/8)",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 111,
+    "question": "In the diagram above, if ∠RPS = 50°, ∠RPQ = 30° and PQ = QR, find the value of ∠PRS.",
+    "option": {
+      "a": " 80°",
+      "b": "70°",
+      "c": "60°",
+      "d": "50°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710691373/ALOC-Questions/Mathematics/2000/question-40_dk16ta.jpg",
+    "answer": "b",
+    "solution": "Δ PQR is isosceles\n∴∠PRQ = 30°\nAlso in Δ PQR\n^Q = 180 -(30 + 30)\n= 120°\nPQRS is a cyclic quad\n∴^S + ^Q = 180(opp ∠s of a cyclic quad)\nS + 120 = 180\nS = 60°\nIn ΔPSR\nx + 50 + 60\n= 180(sum of ∠s of a Δ)\nx + 110 = 180\nx = 180 - 110\nx = 70°",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -3104,6 +3136,22 @@
     "examyear": "2004"
   },
   {
+    "id": 277,
+    "question": "Find the value of x in the figure above",
+    "option": {
+      "a": "15√6",
+      "b": "20√6",
+      "c": "3√6",
+      "d": "5√6"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mi>X</mi>\n    <mrow>\n      <mi>s</mi>\n      <mi>i</mi>\n      <mi>n</mi>\n      <mn>45</mn>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>15</mn>\n    <mrow>\n      <mi>s</mi>\n      <mi>i</mi>\n      <mi>n</mi>\n      <mn>60</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>X</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>15</mn>\n      <mi>s</mi>\n      <mi>i</mi>\n      <mi>n</mi>\n      <mn>45</mn>\n    </mrow>\n    <mrow>\n      <mi>s</mi>\n      <mi>i</mi>\n      <mi>n</mi>\n      <mn>60</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>X</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>15</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mo stretchy=\"false\">(</mo>\n      <mfrac>\n        <mn>1</mn>\n        <msqrt>\n          <mn>2</mn>\n        </msqrt>\n      </mfrac>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <msqrt>\n      <mfrac>\n        <mn>3</mn>\n        <mn>2</mn>\n      </mfrac>\n    </msqrt>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>X</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mn>15</mn>\n    <msqrt>\n      <mn>2</mn>\n    </msqrt>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>2</mn>\n    <msqrt>\n      <mn>3</mn>\n    </msqrt>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>X</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mn>30</mn>\n    <msqrt>\n      <mn>6</mn>\n    </msqrt>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>X</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mn>30</mn>\n    <msqrt>\n      <mn>6</mn>\n    </msqrt>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <msqrt>\n      <mn>6</mn>\n    </msqrt>\n    <msqrt>\n      <mn>6</mn>\n    </msqrt>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>30</mn>\n      <msqrt>\n        <mn>6</mn>\n      </msqrt>\n    </mrow>\n    <mn>6</mn>\n  </mfrac>\n  <mo>=</mo>\n  <mn>5</mn>\n  <msqrt>\n    <mn>6</mn>\n  </msqrt>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700586/ALOC-Questions/Mathematics/2004/math_2004_q6_hzflxf.jpg",
+    "answer": "d",
+    "solution": "X/sin45=15/sin60 X=15sin45/sin60 X=(15×(1/√2))/√(3/2) X=15/√2×2/√3 X=30/√6 X=30/√6×√6/√6=(30√6)/6=5√6",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 278,
     "question": "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR",
     "option": {
@@ -4688,6 +4736,22 @@
     "examyear": "2006"
   },
   {
+    "id": 408,
+    "question": "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between p and r?",
+    "option": {
+      "a": "p varies directly as r<sup>3</sup>",
+      "b": "p varies inversely as r<sup>6</sup>",
+      "c": " p varies inversely as 6√P",
+      "d": "p varies directly as r<sup>6</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "P ∝ 1/q<sup>3</sup>\nP = K/q<sup>3</sup>\nq3 = K/P\nq = K/p<sup>1/3</sup>\nBut q ∝ r<sup>2</sup>\nq = Kr<sup>2</sup>\nK/p<sup>1/3</sup> = Kr<sup>2</sup><sup>2</sup>\nr<sup>2</sup> = K/p<sup>1/3</sup>x 1/K\nr<sup>2</sup> = 1/p<sup>1/3</sup>\nr = (1/p1/3)<sup>2</sup>\nr = 1/p<sup>1/6</sup>\nr ∝ 1/p<sup>1/6</sup>\n∴ r varies inversely as 6√P",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 409,
     "question": "A binary operation * on the set of rational numbers is defined asx×y=(x^2-y^2)/2xy find-5×3",
     "option": {
@@ -5324,6 +5388,22 @@
     "image": "",
     "answer": "c",
     "solution": "If the point of intersection is (1, -2), it implies that x = 1 and y = -2 when the two equation are solved simultaneously.\n∴ substitute x = 1 and y = -2 in any of the equations\n2y - k x + 2 = 0\n2(-2) - k(1) + 2 = 0\n-4 - k + 2 = 0\n-4 + 2 = k\n-2 = k",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 462,
+    "question": "Find the locus of point equidistant from two straight lines y - 5 = 0 and y - 3 = 0",
+    "option": {
+      "a": "y - 2 = 0",
+      "b": " y - 4 = 0",
+      "c": "y - 1 = 0",
+      "d": "y - 3 = 0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545117/ALOC-Questions/Mathematics/2007/JAMB_2007_Q41_solution_r1aho2.jpg",
+    "answer": "b",
+    "solution": "Locus of point P equidistant from y - 5 = 0 and y - 3 = 0 is y = 4 i.e y - 4 = 0",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -6876,6 +6956,22 @@
     "image": "",
     "answer": "b",
     "solution": "1/2x + 1/4 > 1/3x + 1/2\n\nMultiply through by through by the LCM of 2, 3 and 4\n\n12 x 1/2x + 12 x 1/4 > 12 x 1/3x + 12 x 1/2\n\n6x + 3 > 4x + 6\n\n6x - 4x > 6 - 3\n\n2x > 3\n\n2x/2 > 3/2\n\nx > 3/2",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 606,
+    "question": "Find the sum to infinity of the following series. 0.5 + 0.05 + 0.005 + 0.0005 + .....",
+    "option": {
+      "a": "5/8",
+      "b": "5/7",
+      "c": "5/11",
+      "d": "5/9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using S∞ = a/1−r\n\nr = 0.05/0.5 = 1/10\n\nS∞ = 0.5/(1/10)\n\n\n= 0.5/(9/10)\n\n= 0.5×10/9\n\n= 5/9",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -10592,6 +10688,22 @@
     "examyear": "2019"
   },
   {
+    "id": 976,
+    "question": "Given sin58° = cos p°, find p.",
+    "option": {
+      "a": "48°",
+      "b": " 58°",
+      "c": "32°",
+      "d": "52°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "sinθ = cos(90 − θ)\nsinθ = cos(90 − 58)\n=  cos32",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 977,
     "question": "(2/3÷4/5)/(1/4+3/5-1/3)",
     "option": {
@@ -11164,6 +11276,22 @@
     "image": "",
     "answer": "d",
     "solution": "234 - 4x<sup>2</sup> = 182<sup>2</sup>  - (2x)<sup>2</sup> = (18 - 2x)(18 + 2x)\n\n2x + 18 = 2x + 18 = (2x + 18)\n\n18 - 2x = 2(a - x) or -2(x - a) \n\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1031,
+    "question": "The angle of a sector of a circle radius 10.5 cm is 48o\n. Calculate the perimeter of the sector.",
+    "option": {
+      "a": "25.4 cm",
+      "b": "25.4 cm",
+      "c": "25.6 cm",
+      "d": "29.8 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The lenght of Arc AB = Q/360 2πr\n\n= 48/360 x 22/27 x 10.5 = 48/360\n x 22/27 x 21/2= (4 × 22 × 3)/30 × 88/10 = 8.8cm \n\nPerimeter = 8.8 + 2r = 8.8 + 2r \n\n= 8.8 + 2(10.5)\n\n= 8.8 + 21\n\n= 29.8 cm\n",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -13100,6 +13228,22 @@
     "image": "",
     "answer": "d",
     "solution": "8x<sup>-2</sup> = 2/25\n\nx<sup>-2</sup> = 2/25 x 1/8\n\nx<sup>-2</sup> = 2/200\n\nx<sup>-2</sup> = 1/100\n\n1/x<sup>2</sup> = 1/100\n\nx<sup>2</sup> = 100\n\nx = 10",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1193,
+    "question": "Simplify  (2√2-√3)/(√2+√3)",
+    "option": {
+      "a": "3√6-7",
+      "b": "3√6-+7",
+      "c": "3√6-1",
+      "d": "3√6+1"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n      <mo>+</mo>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "=(2√2-√3)/(√2+√3) × (√2-√3)/(√2-√3)  =(2√2(√2)+(2√2)(-√3)-√3(√2)-√3(-√3))/((√2 )<sup>2</sup>-(√3 )<sup>2</sup>)  =(2×2-2√6-√6+3)/(2-3)             = 4−3√6+3/(−1)                             =7−3√6/−1\n=7/−1 − 3√6/−1 =-7 + 3√6  = 3√6 - 7 ",
     "examtype": "utme",
     "examyear": "2014"
   },
