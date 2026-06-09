@@ -1920,6 +1920,22 @@
     "examyear": "2015"
   },
   {
+    "id": 135,
+    "question": "In an elastic collision\n\nI. Energy is conserved\nII. Energy is decreased\nIII. Energy is increased\nIV. Linear momentum conserved",
+    "option": {
+      "a": "I only",
+      "b": "I and IV only",
+      "c": "II only",
+      "d": "III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In an inelastic collision, linear momentum is conserved and energy is decreased\n\nMomentum and kinetic energy are conserved in elastic collision",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 136,
     "question": "Body floats in fluid when its …………………",
     "option": {
@@ -2620,6 +2636,22 @@
     "image": "",
     "answer": "a",
     "solution": "The acceleration of the satellite is g/16, where g is the acceleration due to gravity at Earth's surface.\nExplanation: Gravitational acceleration decreases with the square of distance. At 4 times Earth's radius, acceleration is (1/4²) = 1/16 of surface gravity.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 184,
+    "question": "I. Chemical II. Sound III. Electricity\n\nWhich of the above forms of energy can directly be converted to light energy?",
+    "option": {
+      "a": " I and II only",
+      "b": " II and III only",
+      "c": "I, II and III",
+      "d": " I and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Chemical and electrical energy can be directly converted to light energy, but sound energy cannot.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3356,6 +3388,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nVolume of object (V) = 50 cm³ = 50 × 10⁻⁶ m³\nDensity of liquid (ρ) = 10³ kg/m³\nAcceleration due to gravity (g) = 10 m/s²\nUpthrust = ?\n\nFormula for upthrust (Archimedes' Principle):\nUpthrust = Weight of liquid displaced\nUpthrust = ρVg\nSubstituting values:\nUpthrust = 10³ × 50 × 10⁻⁶ × 10\nUpthrust = 10³ × 50 × 10⁻⁵\nUpthrust = 50 × 10⁻²\nUpthrust = 0.5 N",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 235,
+    "question": "Under what conditions are cathode rays produced in a discharge tube?",
+    "option": {
+      "a": " High pressure and low voltage",
+      "b": " High pressure and high voltage",
+      "c": " Low pressure and low voltage",
+      "d": " Low pressure and high volatge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cathode rays are produced in a discharge tube under Low pressure and high voltage",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -6368,6 +6416,22 @@
     "examyear": "2021"
   },
   {
+    "id": 446,
+    "question": "When the temperature of a liquid increases, its surface tension",
+    "option": {
+      "a": "decreases",
+      "b": "increases",
+      "c": "remains constant",
+      "d": "increases then decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When the temperature of a liquid increases, its surface tension decreases due to weakening of intermolecular cohesive forces as molecular kinetic energy increases.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 447,
     "question": "A gas at a volume of V₀ in a container at pressure P₀ is compressed to one-fifth of its volume. What will be its pressure if the magnitude of its original temperature T is constant?",
     "option": {
@@ -8972,6 +9036,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nFar point of the person = 200 cm\nDesired object distance = infinity\n\nStep 1: Identify the defect\nThe inability to see distant objects clearly indicates myopia (nearsightedness).\n\nStep 2: Principle of correction\nA corrective lens must form a virtual image of an object at infinity at the person’s far point (200 cm), so the eye can focus it.\n\nStep 3: Apply lens formula\nUsing the lens formula:\n1/f = 1/v - 1/u\nWhere:\nObject distance, u = infinity\nImage distance, v = -200 cm (virtual image, same side as object)\n1/f = 1/(-200) - 1/infinity = -1/200\nf = -200 cm\nNegative focal length indicates a diverging (concave) lens.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 635,
+    "question": "The pitch of a sound note depends on",
+    "option": {
+      "a": "timbre",
+      "b": "frequency",
+      "c": "harmonics",
+      "d": "quality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Pitch depends on frequency.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -14208,6 +14288,22 @@
     "examyear": "2011"
   },
   {
+    "id": 1000,
+    "question": "In order to remove the error of parallax when taking measurements with a metre rule, the eye should be focused",
+    "option": {
+      "a": "slantingly towards the right on the markings",
+      "b": "slantingly towards the left on the markings",
+      "c": "vertically downwards on the markings",
+      "d": "vertically upwards on the markings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To remove parallax error, the eye should be focused vertically downwards on the markings, ensuring the line of sight is perpendicular to the scale. This eliminates angular displacement and ensures accurate readings.\nPractical tip: When using a metre rule, always position your eye directly above (perpendicular to) the point you're measuring to avoid parallax error. Some instruments have mirrors behind the scale to help verify correct eye position - your eye and its reflection should align.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1002,
     "question": "Calculate the total distance covered by a train before coming to rest if its initial speed is 30ms⁻¹ with a constant retardation of 0.1ms⁻²",
     "option": {
@@ -15756,6 +15852,22 @@
     "image": "",
     "answer": "d",
     "solution": "Different gases emit characteristic colours when an electric discharge passes through them at low pressure due to excitation and de‑excitation of their atoms.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1117,
+    "question": "Which of the following is NOT a Fundamental S.I unit?",
+    "option": {
+      "a": "Metre",
+      "b": "Ampere",
+      "c": "Newton",
+      "d": "Second"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Newton is not a fundamental SI unit.",
     "examtype": "utme",
     "examyear": "2014"
   },
