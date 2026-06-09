@@ -15328,6 +15328,22 @@
     "examyear": "2011"
   },
   {
+    "id": 987,
+    "question": "If the threshold frequency for tungsten is 1.3 × 10¹⁵ Hz, what is its work function? [h = 6.6 × 10⁻³⁴ Js]",
+    "option": {
+      "a": "8.58 × 10⁻¹⁹ J",
+      "b": "8.50 × 10⁻¹⁵ J",
+      "c": "8.58 × 10⁻¹⁷ J",
+      "d": " 8.85 × 10⁻¹⁸ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nThreshold frequency (f₀) = 1.3 × 10¹⁵ Hz\nPlanck's constant (h) = 6.6 × 10⁻³⁴ Js\nWork function (φ or W) = ?\n\nUnderstanding work function:\nThe work function is the minimum energy required to remove an electron from the surface of a material.\nFormula:\nWork function = Planck's constant × Threshold frequency\nφ = hf₀\nSubstituting values:\nφ = 6.6 × 10⁻³⁴ × 1.3 × 10¹⁵\nφ = 8.58 × 10⁻³⁴⁺¹⁵\nφ = 8.58 × 10⁻¹⁹ J",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 988,
     "question": "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis?",
     "option": {
