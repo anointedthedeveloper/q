@@ -128,6 +128,22 @@
     "examyear": "2010"
   },
   {
+    "id": 12,
+    "question": "The receipts and payments of a club is the same  as ",
+    "option": {
+      "a": "  Profit and   loss  account  ",
+      "b": "Trading Account ",
+      "c": "Cash book ",
+      "d": "control Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 14,
     "question": "Money set aside for the saving of business overheads    is    referred    to   ",
     "option": {
@@ -603,6 +619,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 57,
+    "question": "The purchase journal records:",
+    "option": {
+      "a": "invoices from creditors",
+      "b": "Debtors' invoices",
+      "c": "Cash payments to suppliers",
+      "d": "Amounts owing to employees for wage;"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1323,6 +1355,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 120,
+    "question": "The basic assumption which underlines the preparation of periodic financial statement is known as accounting",
+    "option": {
+      "a": "bases.",
+      "b": "techniques.",
+      "c": "concepts.",
+      "d": "method."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -3312,6 +3360,22 @@
     "examyear": "2012"
   },
   {
+    "id": 271,
+    "question": "Branch Stock Account is used to determine the",
+    "option": {
+      "a": "net value of goods sent to branch.",
+      "b": "gross profit of the branch.",
+      "c": "branch credit sales.",
+      "d": "branch net profit or loss."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 272,
     "question": "The name given to a budget in public service accounting is",
     "option": {
@@ -4510,6 +4574,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
+  },
+  {
+    "id": 392,
+    "question": "The accounting principle that is applied to check arbitrary actions on the part of accountants is",
+    "option": {
+      "a": "consistency",
+      "b": "materiality",
+      "c": "objectivity",
+      "d": "realization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 394,
@@ -6080,6 +6160,22 @@
     "examyear": "2015"
   },
   {
+    "id": 523,
+    "question": "What will be the number of shares to be issued to a subscriber who applied for 50,000 units.",
+    "option": {
+      "a": "20,000",
+      "b": "18,000",
+      "c": "15,000",
+      "d": "12,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Allotment = 500,000 = 0.4 or 40%\n\n∴ Each subscriber would get 40% shares of what they applied for.\n\n∴ 50,000 x 0.4 = 20,000 units",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 524,
     "question": "Buhari and Osinbajo entered into a partnership in which Buhari contributed a capital of ₦40,000 and is entitled to a salary allowance of ₦10,000, while Osinbajo contributed ₦70,000 of capital and is entitled to a salary allowance of ₦15,000. Both partners earn interest on their capital at 5% per annum, and any remaining profit or loss is to be shared between them in the ratio of 40 : 60 (Buhari : Osinbajo). For the year ended, the business realized a net profit of ₦80,000, and during the year Buhari withdrew ₦80,000 while Osinbajo withdrew ₦12,000. What is Osinbajo share of profit?\n",
     "option": {
@@ -7632,6 +7728,22 @@
     "examyear": "2017"
   },
   {
+    "id": 645,
+    "question": "The accounting entries for goods stolen in branch will be to debit",
+    "option": {
+      "a": " The accounting entries for goods stolen in branch will be to debit",
+      "b": " branch stock account and credit branch adjustment account",
+      "c": "branch adjustment account and credit profit and loss account",
+      "d": "branch adjustment account and credit branch stock account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A branch account is a small part of business account operating with some degree of independence . It maintains its own personal/self accounting entries to determine the profit/loss made by a specific period of time\n\nThe accounting entries is to debit profit and loss account and credit branch stock. The profit and loss is debited because the cost of the stolen goods must be charged against the profit for the period to balance the account and the branch stock account is credited because the cost of the goods is out of the branch already.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 646,
     "question": "A business has the following bank reconciliation information: Balance as per cashbook ₦5,467, Uncredited cheques ₦4,410, Unpresented cheques ₦19,404, and Cheques wrongly debited by bank ₦1,404. What is the balance as per bank statement?",
     "option": {
@@ -8656,6 +8768,22 @@
     "examyear": "2019"
   },
   {
+    "id": 749,
+    "question": "Accounting standards are issued at the International level by the",
+    "option": {
+      "a": " Standards Advisory Council",
+      "b": " International Accounting Standards Board",
+      "c": "Nigerian Accounting Standards Board",
+      "d": "Standing Interpretations Committee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Accounting standard is a statement issued by the appropriate standard - setting body locally or internationally on a specific area or topic in Financial Accounting.\nAccounting standards are issued at the International level by the International Accounting Standards Board (IASB) - formerly International Accounting Standards Committee (IASC).",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 750,
     "question": "The method of stock valuation in which the issue price is obtained by dividing the value of stock in hand by unit of stock in hand is",
     "option": {
@@ -8844,6 +8972,22 @@
     "image": "",
     "answer": "c",
     "solution": "Right issue are offered to existing shareholders in a company.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 764,
+    "question": "Where there is no agreement made by the partners, the following provisions takes place except",
+    "option": {
+      "a": "No salary for partners acting in the business",
+      "b": "There is interest on capital",
+      "c": " No interest to be charged on drawings",
+      "d": "Profit and loss are to be shared equally"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "According to section 24 of the partnership Act 1890. If no specific agreement is made by the partners, the following takes place:\n1. No partners may introduce a new person without the consent of all other partners 2.5% interest a year on loans made by partner e.t.c",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -9680,6 +9824,22 @@
     "examyear": "2021"
   },
   {
+    "id": 832,
+    "question": "Recurrent expenditures are expenses for the period not exceeding",
+    "option": {
+      "a": " 10 years",
+      "b": "2 years",
+      "c": "5 years",
+      "d": "1 year"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Recurrent expenditures are those routine expenses incurred in the day‑to‑day running of an organization and typically cover a period not exceeding one year. They contrast with capital expenditures, which relate to assets with benefits over multiple years.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 833,
     "question": "A source document is used for verifying the ",
     "option": {
@@ -10236,6 +10396,22 @@
     "image": "",
     "answer": "a",
     "solution": "Branch accounts are intended to improve control, oversight, and performance evaluation of individual branches—not to facilitate fraud or resource wastage. The other options correctly describe benefits of maintaining branch accounts.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 886,
+    "question": "The use of three column cash book is determined by",
+    "option": {
+      "a": "trade discount",
+      "b": "cash transaction",
+      "c": "bank transaction",
+      "d": "cash discount"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The cash discount is allowed for prompt payment of an account or for payment within a specified period of time. It is divided into discount allowed and discount received.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -12784,6 +12960,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1109,
+    "question": "<b>Use the information below to answer questions 45 and 46</b>\n\nWhat is the value of the authorized share capital?",
+    "option": {
+      "a": "₦500,000",
+      "b": "₦900,000",
+      "c": "₦750,000",
+      "d": "₦1, 200,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662647/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q45-46_utzntz.png",
+    "answer": "b",
+    "solution": "Step 1: Calculate Authorized Preference Share Capital\nAuthorized preference shares = 600,000 shares × ₦0.50 per share\nAuthorized preference shares = ₦300,000\nStep 2: Calculate Authorized Ordinary Share Capital\nAuthorized ordinary shares = 600,000 shares × ₦1 per share\nAuthorized ordinary shares = ₦600,000\nStep 3: Calculate Total Authorized Share Capital\nTotal Authorized Share Capital = Preference shares + Ordinary shares\nTotal Authorized Share Capital = ₦300,000 + ₦600,000\nTotal Authorized Share Capital = ₦900,000",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1111,
     "question": "Share premium is an example of?",
     "option": {
@@ -13548,6 +13740,22 @@
     "image": "",
     "answer": "a",
     "solution": "Net working capital = Current assets − Current liabilities\n= ₦110m − ₦20m = ₦90m",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1177,
+    "question": "<b>Use the information below to answer questions 12 and 13.</b> \n\n<b>Statement of assets and liabilities as at 31st December, 2001.</b> \n\nShareholders' interest ₦240 \nCurrent liabilities ₦20 \nCurrent assets ₦110 \nFixed assets ₦140\n\nDetermine the value of the trade investment?",
+    "option": {
+      "a": "₦8m",
+      "b": "₦10m",
+      "c": "₦15m",
+      "d": "₦20m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Total assets\nShareholders’ interest = ₦240m\nCurrent liabilities = ₦20m\nSo:\nTotal assets = ₦240m + ₦20m = ₦260m\n\nStep 2: Known assets\nCurrent assets = ₦110m\nFixed assets = ₦140m\nSum = ₦110m + ₦140m = ₦250m\n\nStep 3: Trade investment\nTrade investment = Total assets − (Current assets + Fixed assets)\n= ₦260m − ₦250m\n= ₦10m",
     "examtype": "utme",
     "examyear": "2002"
   },
