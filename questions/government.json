@@ -224,6 +224,22 @@
     "examyear": "2007"
   },
   {
+    "id": 31,
+    "question": "The following are Anglophone West African countries except ",
+    "option": {
+      "a": "Ghana ",
+      "b": "Nigeria ",
+      "c": "Kenya ",
+      "d": "The Gambia."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 33,
     "question": "How many countries are in Africa? ",
     "option": {
@@ -2064,6 +2080,22 @@
     "examyear": "2010"
   },
   {
+    "id": 451,
+    "question": "The prominent role Nigeria played in the UN in the 70’s earned her.",
+    "option": {
+      "a": "permanent representation at the UN",
+      "b": "membership of the Security Council",
+      "c": "chairmanship of the General Assembly",
+      "d": "non-permanent membership position."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 452,
     "question": "The head of Nigeria’s foreign mission in a Commonwealth nation is known as",
     "option": {
@@ -2171,6 +2203,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 471,
+    "question": "The bringing of a session of a parliament to an end through royal proclamation is known as",
+    "option": {
+      "a": "political impasse",
+      "b": "dissolution of parliament",
+      "c": "vote of no confidence",
+      "d": "prorogation of parliament."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -2603,6 +2651,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 563,
+    "question": "An example of a country ruled by a constitutional monarch is",
+    "option": {
+      "a": "Uganda",
+      "b": "Morocco",
+      "c": "Italy",
+      "d": "Libya"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -4352,6 +4416,22 @@
     "examyear": "2021"
   },
   {
+    "id": 952,
+    "question": "The type of government operated in Nigeria between October 1st 1979 to December 3 1983 is called a __________",
+    "option": {
+      "a": "Collegial system of government",
+      "b": "Presidential system of government",
+      "c": "Unitary system of government",
+      "d": "Parliamentary system of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "During this period, Nigeria operated under the Second Republic, which was modelled after the United States' presidential system. In this system, the President is both the head of state and the head of government, separate from the legislature. This period marked a shift from the parliamentary system used during the First Republic.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 964,
     "question": "A group of people with different natures, opinions, and goals with complicated networks of social relation",
     "option": {
@@ -5584,6 +5664,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1244,
+    "question": "Nigeria''s support for the South-South Cooperation is based on her desire to",
+    "option": {
+      "a": "assert her leadership role in Africa",
+      "b": "promote her non-aligned policy",
+      "c": "promote economic understanding in the Third World",
+      "d": "counter the political and military domination by major powers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nigeria's support for South-South Cooperation is rooted in its commitment to fostering economic collaboration and mutual development among developing nations (the \"Third World\"). This cooperation aims to enhance resource sharing, technology transfer, and collective self-reliance, reducing dependency on the Global North.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1248,
     "question": "With the admission of Asian and African countries to the Commonwealth, the Queen of England became the",
     "option": {
@@ -6620,6 +6716,22 @@
     "image": "",
     "answer": "a",
     "solution": "In the Oyo Empire’s traditional political system, the Oyo Mesi (a council of seven high-ranking chiefs) held the authority to elect or depose the Alafin. This council ensured checks and balances by selecting a new Alafin from the royal lineage and overseeing his governance.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1475,
+    "question": "The Independent National Electoral Commission has the power to prepare and maintain the register of",
+    "option": {
+      "a": "electoral candidates",
+      "b": "voters",
+      "c": " political parties",
+      "d": "constituencies"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Independent National Electoral Commission (INEC) of Nigeria is constitutionally mandated to conduct the registration of eligible voters and to prepare, maintain, and revise the register of voters. This function ensures that all qualified citizens are accurately documented and able to participate in elections.",
     "examtype": "utme",
     "examyear": "2015"
   },
