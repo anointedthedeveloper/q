@@ -19,6 +19,25 @@
     "category": "others"
   },
   {
+    "id": 11,
+    "question": "The candidate's charisma should be a..………factor in winning the election. ",
+    "option": {
+      "a": "determinant ",
+      "b": "determinate",
+      "c": "determining ",
+      "d": "determinable "
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 14,
     "question": "  It is bad to take………… property without permission. ",
     "option": {
@@ -266,6 +285,25 @@
     "category": "others"
   },
   {
+    "id": 56,
+    "question": "Mark<u>e</u>t  ",
+    "option": {
+      "a": "mortgage ",
+      "b": " bachelor ",
+      "c": " get ",
+      "d": " enter "
+    },
+    "section": "choose the option that has the same vowel sound as the one represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 62,
     "question": "The carpenter built a <i>commodious</i> wardrobe ",
     "option": {
@@ -448,6 +486,25 @@
     "section": "choose the option that best completes the gap(s).",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 100,
+    "question": "The interpreter was wrong because he gave the congregation a ………… translation of the pastor’s statement.",
+    "option": {
+      "a": "literal",
+      "b": "unilateral",
+      "c": "literary",
+      "d": "lateral"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004",
@@ -1463,6 +1520,25 @@
     "category": "others"
   },
   {
+    "id": 330,
+    "question": "The study he carried out of the problem was quite <i>comprehensive</i>",
+    "option": {
+      "a": "detailed ",
+      "b": " sketch  ",
+      "c": "inscrutable ",
+      "d": "complete."
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 334,
     "question": "capitalism    ",
     "option": {
@@ -1679,6 +1755,25 @@
       "b": "The official had been taking bribes without feeling any guilt.  ",
       "c": "It was proved that the official had been taking bribes ",
       "d": "The official accused some people of taking bribes."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 369,
+    "question": "There's a door at either end of the building.",
+    "option": {
+      "a": "The building has two ends and two doors. ",
+      "b": "The building has two ends, but only one doc'",
+      "c": "The building has two ends, but I do not know which of the two has a door. ",
+      "d": "The building has many ends each with a door."
     },
     "section": "select the option that best explains the information conveyed in the sentence.",
     "image": "",
@@ -3838,6 +3933,25 @@
     "category": "others"
   },
   {
+    "id": 878,
+    "question": "The king RAN to the palace?",
+    "option": {
+      "a": "Where did the king run to?",
+      "b": " Did the king walk to the palace?",
+      "c": "Did the queen run to the palace?",
+      "d": "Who ran to the palace?"
+    },
+    "section": "<b>In each of questions 81 to 85, the word in capital letters has the emphatic stress. Choose the option that best fits the expression in the sentence.</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 82,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 881,
     "question": "My UNCLE retired from the police?",
     "option": {
@@ -3876,6 +3990,25 @@
     "category": "others"
   },
   {
+    "id": 886,
+    "question": "The principal took exception to the <u>ignoble</u> role the teacher played in the matter?",
+    "option": {
+      "a": "embarrassing",
+      "b": "honourable",
+      "c": "extraordinary",
+      "d": "dishonourable"
+    },
+    "section": "<b>In each of questions 86 to 100, choose the option opposite in meaning to the underlined word(s).</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 90,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 887,
     "question": "He is <u>notorious</u> for his drunkenness?",
     "option": {
@@ -3891,6 +4024,25 @@
     "examtype": "utme",
     "examyear": "2002",
     "questionNub": 91,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 892,
+    "question": "The athlete has unexpectedly become <u>indomitable</u>? ",
+    "option": {
+      "a": "weak",
+      "b": "disoriented",
+      "c": "unruly",
+      "d": "unconquerable"
+    },
+    "section": "<b>In each of questions 86 to 100, choose the option opposite in meaning to the underlined word(s).</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 96,
     "hasPassage": 0,
     "category": "others"
   },
@@ -4138,6 +4290,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 67,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 964,
+    "question": "Suara needn't come with us, .......?",
+    "option": {
+      "a": "does she",
+      "b": "will she",
+      "c": "can she",
+      "d": "need she"
+    },
+    "section": "<b>In each of the questions 64 to 83, choose the option that best completes the gap(s).</b> \n",
+    "image": "",
+    "answer": "d",
+    "solution": "When there is no special emphasis, the rule of thumb often applies that a positive sentence has a negative tag and vice versa. This form may express confidence, or seek confirmation of the asker's opinion or belief.\n\nFor example: It's cold (positive), isn't it (negative)? just like in the question above,\n\n''Suara needn't (negative) come with us'' Need she? (positive) correlates with the question tag",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 69,
     "hasPassage": 0,
     "category": "others"
   },
@@ -4423,6 +4594,25 @@
     "examtype": "utme",
     "examyear": "2012",
     "questionNub": 46,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1041,
+    "question": "The presidential system is an <u>antidote</u> to some political ailments.",
+    "option": {
+      "a": " an answer",
+      "b": " an inquiry",
+      "c": " a reply",
+      "d": " an obstacle"
+    },
+    "section": "In each of the questions 36 to 50 choose the option <b>opposite</b> in meaning to the underlined word or phrase.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "Antidote; something that counteracts an unpleasant feeling or situation. \n\nObstacle; a thing that blocks one's way or prevents or hinders progress.",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 47,
     "hasPassage": 0,
     "category": "others"
   },
@@ -4731,6 +4921,25 @@
     "category": "others"
   },
   {
+    "id": 1134,
+    "question": "Amaka would pass for a beauty queen",
+    "option": {
+      "a": "She would be accepted by all as a beauty Queen",
+      "b": "She walked past the beauty queen",
+      "c": "she was acting as a beauty queen",
+      "d": "she would pass the drink to the queen who is sitting next to her"
+    },
+    "section": "<b>questions 36 - 45 are on LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of this question select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "a",
+    "solution": "Amaka has the qualities of a beauty queen.",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 42,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1137,
     "question": "Ramatus expressed her feelings in uncertain terms",
     "option": {
@@ -4841,6 +5050,25 @@
     "examtype": "utme",
     "examyear": "2013",
     "questionNub": 78,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1172,
+    "question": "Usman would have won the race.....",
+    "option": {
+      "a": "only if he could run fast",
+      "b": "if he had run fast",
+      "c": "if he can run faster",
+      "d": "although he ran fast"
+    },
+    "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "Run is the past participle form of the irregular verb run. Ran is the simple past form of the verb. With the auxiliary verb had you are using the past perfect tense. We use the past participle form of the main verb combined with the auxiliary verb in this tense. So, had run is the correct choice",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 80,
     "hasPassage": 0,
     "category": "others"
   },
@@ -5088,6 +5316,25 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1248,
+    "question": "<u>K</u>ing",
+    "option": {
+      "a": "that",
+      "b": "think",
+      "c": "thine",
+      "d": "tongue"
+    },
+    "section": "choose the option that has the same consonant sound as the letter(s) underlined from the options lettered A-E",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 55,
     "hasPassage": 0,
     "category": "others"
   },
@@ -5392,6 +5639,25 @@
     "examtype": "utme",
     "examyear": "2022",
     "questionNub": 54,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1308,
+    "question": "It is wise not to depend on <u>mundane</u> things.",
+    "option": {
+      "a": "imported",
+      "b": "material",
+      "c": "attractive",
+      "d": "expensive"
+    },
+    "section": "From the options lettered A-D, choose the option that is nearest in meaning to the underlined word.\n",
+    "image": "",
+    "answer": "b",
+    "solution": "Both means things that are of this earthly world rather than a heavenly or spiritual one.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 55,
     "hasPassage": 0,
     "category": "others"
   },
@@ -6080,6 +6346,25 @@
     "category": "others"
   },
   {
+    "id": 1500,
+    "question": "Choose the option that best completes the gap. The young man looked carefully at the long document, but he couldn't make __________ what it meant",
+    "option": {
+      "a": "up",
+      "b": "out",
+      "c": "off",
+      "d": "through"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To make out;  means to understand something. Simply put, he couldn't understand what it meant.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 17,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1504,
     "question": "The meeting was <u>cancelled</u> because of the convocation",
     "option": {
@@ -6209,6 +6494,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 52,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1538,
+    "question": "Choose the option that has a different stress pattern from the others.",
+    "option": {
+      "a": "competent",
+      "b": "represent",
+      "c": "syllabus",
+      "d": "quality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "All the words are stressed on the first syllable except 'represent' which is stressed on the last syllable.\n\n ",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 55,
     "hasPassage": 0,
     "category": "others"
   },
@@ -6916,6 +7220,25 @@
     "category": "others"
   },
   {
+    "id": 1688,
+    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n                    ‘Sorry does anyone know you’re here? does daddy know?… who said this and to who?",
+    "option": {
+      "a": "Mr. Solade to Mrs.Solade",
+      "b": "Mrs. Solade to Mr. Solade",
+      "c": "Jimi to Wole",
+      "d": "Wole to Jimi"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In chapter one, page 1, Jimi asked Wole because he knew that his father was going to be mad seeing Wole after what he did (almost making his father) bankrupt.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 1,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1689,
     "question": "Choose the option that best completes the sentence.\n\nHe did not attend the final burial............",
     "option": {
@@ -7030,6 +7353,25 @@
     "category": "others"
   },
   {
+    "id": 1705,
+    "question": "Who was Efua related to?",
+    "option": {
+      "a": "Arisa",
+      "b": "Jimi",
+      "c": " Mrs. Alli",
+      "d": " Mr. Mallum"
+    },
+    "section": "This question is from the novel 'The Last Days at Forcados High school'.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "Efua is related Mrs Alli who lives on balogun street not too far from Nene ekpo, Jimi and Arisa’s house",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 18,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1709,
     "question": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nBreeze",
     "option": {
@@ -7045,6 +7387,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 22,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1710,
+    "question": "Select the wrongly spelt words",
+    "option": {
+      "a": "quite",
+      "b": "believe",
+      "c": "proceed",
+      "d": "advise/advice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The correct answer is ‘B’ ‘beleive’ which is properly spelt as ‘believe’. The others on the list are properly spelt",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 23,
     "hasPassage": 0,
     "category": "others"
   },
@@ -7140,6 +7501,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1746,
+    "question": "The officer was compelled to ------------------- the suspect’s car.",
+    "option": {
+      "a": "seize",
+      "b": "cease",
+      "c": "sieze",
+      "d": "sease"
+    },
+    "section": "Choose the option that best fills the gap.",
+    "image": "",
+    "answer": "a",
+    "solution": "The correct answer is ‘A’ which means to take possession of (by force, laws etc).While option ‘B’ means to stop doing something’",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 59,
     "hasPassage": 0,
     "category": "others"
   },
@@ -7425,6 +7805,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 45,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1805,
+    "question": "The clock _____ 12 o'clock two hours ago.",
+    "option": {
+      "a": "Striking.",
+      "b": "Strikes.",
+      "c": "Strike.",
+      "d": "Struck."
+    },
+    "section": "Choose the option that best complete the gap.",
+    "image": "",
+    "answer": "d",
+    "solution": "Struck; past and past participle of strike.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 46,
     "hasPassage": 0,
     "category": "others"
   },
