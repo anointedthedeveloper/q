@@ -5136,6 +5136,22 @@
     "examyear": "2016"
   },
   {
+    "id": 359,
+    "question": "The monomer of nylon is",
+    "option": {
+      "a": "Hydroxybenzene",
+      "b": "Hexanedioic acid",
+      "c": "Benzene-1,4-dicarboxylic acid",
+      "d": "Ethane-1,2-diol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Nylon-6,6 is formed by condensation polymerization of hexanedioic acid (adipic acid) and hexane-1,6-diamine. Hexanedioic acid is one of the two key monomers of nylon. Benzene-1,4-dicarboxylic acid and ethane-1,2-diol are monomers of Terylene (polyester).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 360,
     "question": "The principle of column chromatography is based on the ability of the constituents to",
     "option": {
@@ -6494,6 +6510,22 @@
     "solution": "Electronegativity increases across a period from left to right. In Period 2: C (2.5) < N (3.0) < O (3.5) < F (4.0). Fluorine is the most electronegative element on the periodic table. The correct order of increasing electronegativity is C < N < O < F.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 455,
+    "question": "A given amount of gas occupies 10.0 dm³ at 4 atm and 273°C. The number of moles of the gas present is? [Molar volume of gas at s.t.p = 22.4 dm³]",
+    "option": {
+      "a": "0.89 mol",
+      "b": "1.90 mol",
+      "c": "3.80 mol",
+      "d": "5.70 mol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "First convert to STP using combined gas law: V(STP) = P₁V₁T₂/(T₁P₂) = (4 × 10 × 273)/(546 × 1) = 20.0 dm³. Note: T₁ = 273°C + 273 = 546 K, T₂ = 273 K (STP). Moles = 20.0/22.4 = 0.89 mol.",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 456,
@@ -10284,6 +10316,22 @@
     "image": "",
     "answer": "c",
     "solution": "In the Bayer process for refining bauxite ore, silica (SiO₂) impurity is removed by dissolving the ore in hot concentrated sodium hydroxide solution. SiO₂ reacts with NaOH: SiO₂ + 2NaOH → Na₂SiO₃ + H₂O. The silicate dissolves and is later precipitated out, while aluminium hydroxide is filtered off. However, among the given options, reaction with H₂SO₄ is closest to an acid-base removal process, though the actual reagent is NaOH.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 720,
+    "question": "When Calcium ethynide is decomposed by water, the gas produced is",
+    "option": {
+      "a": "CO",
+      "b": "H₂",
+      "c": "C₂H₂",
+      "d": "CH₄"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Calcium ethynide is calcium carbide (CaC₂). When it reacts with water, it produces ethyne (acetylene) gas and calcium hydroxide: CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂. The gas produced is ethyne (C₂H₂), also known as acetylene, which is used in oxyacetylene welding.",
     "examtype": "utme",
     "examyear": "2024"
   },
