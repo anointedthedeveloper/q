@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 7,
+    "question": "The play starts with a ",
+    "option": {
+      "a": "flashback ",
+      "b": "prayer ",
+      "c": "muezzin ",
+      "d": "dialogue "
+    },
+    "section": "question is on Attahiru, Ahmed Yerima's play",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 9,
     "question": "Caliph: \"You have spoken well. I agree with the Waziri' s suggestion. You shall be organize your men and build in new well in the market. “That is our judgement\". What informed this statement? ",
     "option": {
@@ -1083,6 +1099,22 @@
     "section": "(Extract for question )\nBlessed Nigerians,\nWho eat pestilence to sleep\nBlessed the poor \nWho inherit thorns. . . . . . \n",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 136,
+    "question": "“Your hand is heavy, Night, upon by brow” is an example of  ",
+    "option": {
+      "a": "hyperbole  ",
+      "b": "onomatopoeia  ",
+      "c": "apostrophe  ",
+      "d": "oxymoron "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -2720,6 +2752,22 @@
     "examyear": "2009"
   },
   {
+    "id": 334,
+    "question": "The phrase the sunset in Kunene’s “A Heritage of Liberation” refers to",
+    "option": {
+      "a": "critical need",
+      "b": "old age",
+      "c": "patience",
+      "d": "caution"
+    },
+    "section": "based on selected poems from Ker, D. et al (eds.) New poetry from Africa; Soyinka W. (ed.): Poems of Black Africa: Senanu, K E and Vincent, T. (eds.): A Selection of African poetry; Umukoro, M et al (eels.): Exam Focus: Lit-erature in English; Eruvbetine, A. E. et al (eds.): Longman Examination guides; Nwoga, D.I (ed.): West African Verse andAdeoti G: Naked Soles.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 335,
     "question": "‘The silence of the battlefield heralds the widow’s anguish’ The widow in the lines above in Launko’s “Endof the War” is in anguish because of the",
     "option": {
@@ -3184,6 +3232,22 @@
     "examyear": "2016"
   },
   {
+    "id": 398,
+    "question": "George Herbert's The pulley The poem is an artistic or poetic narration of the relationship which exists between",
+    "option": {
+      "a": "God and man",
+      "b": "Man and environment",
+      "c": "Man and nature",
+      "d": "Man and relationship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 399,
     "question": "Robert frost's \"Birches\" The description of the Birch tree represents the span of man from",
     "option": {
@@ -3403,6 +3467,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 437,
+    "question": "One of the following writers is better known as a playwright that as a novelist",
+    "option": {
+      "a": "C. Achebe",
+      "b": "C. Ekwensi",
+      "c": "J.P. Clark",
+      "d": "W. Soyinka"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
@@ -3883,6 +3963,22 @@
     "section": "Question 26 to 30 are based on William Shakespeare's \"Othello\". I have no great devotion to the deed. And yet he hath given me satisfying reasons. Tis but a man gone forth, ny sword; he dies.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 508,
+    "question": "The speech was directed to",
+    "option": {
+      "a": "Cassio",
+      "b": "Lago",
+      "c": "Roderigo",
+      "d": "Othello"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
