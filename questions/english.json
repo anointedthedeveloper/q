@@ -2717,6 +2717,25 @@
     "category": "others"
   },
   {
+    "id": 222,
+    "question": "The EAGLES won the match",
+    "option": {
+      "a": "Did the Eagles lose the match?",
+      "b": "Who won the match?",
+      "c": "What did the Eagles win?",
+      "d": "Did the Eagles win the match?"
+    },
+    "section": "the word in capital letters has the emphatic stress. Choose the option to which the given sentence relates",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 223,
     "question": "The police claim that a number of stolen cars…… recovered ",
     "option": {
@@ -4389,6 +4408,25 @@
     "category": "others"
   },
   {
+    "id": 363,
+    "question": "He could not have rewarded them more handsomely.",
+    "option": {
+      "a": "He did not reward them very well,",
+      "b": "He rewarded them well, and he was also a good- looking man.",
+      "c": "He rewarded them very well.",
+      "d": "He spoke to them in a very generous way."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 364,
     "question": "My advice to Tolu was: 'Look before you leap.'",
     "option": {
@@ -4533,6 +4571,25 @@
     "section": "select the option that bost explains the information conveyed in the sentence.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 382,
+    "question": "The officer has discussed the vexed issue of incessant power failure",
+    "option": {
+      "a": "In anger, the officer explained the problem of constant power failure",
+      "b": "The officer added his voice to the much discussed problem of power cut",
+      "c": "The officer's explanations angered those who have suffered the effects of frequency power failure ",
+      "d": "The officer told the people not , to be angered by the frequent power cut"
+    },
+    "section": "select the option that bost explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008",
@@ -5008,6 +5065,25 @@
     "section": "choose the option  best completes the gap(s) .",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 421,
+    "question": "I knocked his door, but he.........",
+    "option": {
+      "a": "has already ten ",
+      "b": "left already ",
+      "c": "would already leave",
+      "d": "had already left "
+    },
+    "section": "choose the option  best completes the gap(s) .",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008",
@@ -6091,6 +6167,25 @@
     "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 513,
+    "question": "sheer",
+    "option": {
+      "a": "dear",
+      "b": "shirt",
+      "c": "spare",
+      "d": "shade"
+    },
+    "section": "choose the option that rhymes with the given word.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -7330,6 +7425,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 37,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 637,
+    "question": "This imposing edifice, ....... a fortune to build?",
+    "option": {
+      "a": " had costed",
+      "b": "have cost",
+      "c": "costed",
+      "d": "cost"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 41,
     "hasPassage": 0,
     "category": "others"
   },
@@ -9348,6 +9462,25 @@
     "category": "others"
   },
   {
+    "id": 877,
+    "question": "He travelled ONLY 20 kilometres before his car stopped?",
+    "option": {
+      "a": "Did he travel only 20 kilometres after his car stopped?",
+      "b": "Did he travel exactly 20 kilometres before his car stopped?",
+      "c": "Did you walk only 20 kilometres before the vehicle stopped?",
+      "d": "Did he travel more than 20 kilometres before his car stopped?"
+    },
+    "section": "<b>In each of questions 81 to 85, the word in capital letters has the emphatic stress. Choose the option that best fits the expression in the sentence.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 81,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 878,
     "question": "The king RAN to the palace?",
     "option": {
@@ -9496,6 +9629,25 @@
     "examtype": "utme",
     "examyear": "2002",
     "questionNub": 91,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 889,
+    "question": "Her <u>phlegmatic</u> temperament endears her to her friends?",
+    "option": {
+      "a": "stoic",
+      "b": "irritable",
+      "c": "lively",
+      "d": "cold"
+    },
+    "section": "<b>In each of questions 86 to 100, choose the option opposite in meaning to the underlined word(s).</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "hese are various meanings of phlegmatic\n\na. Having or suggesting a calm, sluggish temperament; unemotional or apathetic.\n\nb. not easily excited to action or display of emotion; having a calm or apathetic temperament.. synonymes apathetic, stoic, cold-blooded, sluggish. Antonymes edgy, excitable.\n\nLIVELY is therefore the opposite of phlegmatic from the options given above. it means to be;\n\na. Full of energy or alertness; vigorous or animated: a lively baby; lively eyes.\n\nb. Characterized by much activity or excitement:",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 93,
     "hasPassage": 0,
     "category": "others"
   },
@@ -11514,6 +11666,25 @@
     "category": "others"
   },
   {
+    "id": 1085,
+    "question": "Edi<u>t</u>ion",
+    "option": {
+      "a": "bash",
+      "b": "catch",
+      "c": "bastion",
+      "d": "rating"
+    },
+    "section": "<b>In each of questions 89 to 91, choose the \noption that has the same consonant \nsound as the one represented by the \nletter(s) underlined.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "edition; /ɪˈdɪʃ(ə)n/\n\nbastion; /ˈbastɪən/",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 91,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1087,
     "question": "Impossible",
     "option": {
@@ -12327,6 +12498,25 @@
     "examtype": "utme",
     "examyear": "2013",
     "questionNub": 81,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1176,
+    "question": "We have a family mutiny......our hands",
+    "option": {
+      "a": "on",
+      "b": "for",
+      "c": "from",
+      "d": "of"
+    },
+    "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "The preposition ''on'' correctly fills in the gap, When you say you have a mutiny on your hands, it means you have a case of rebellion at hand that needs to be attended to. ",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 84,
     "hasPassage": 0,
     "category": "others"
   },
@@ -18502,6 +18692,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 11,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1771,
+    "question": "One of the students bought a <u>plagiarised</u> copy of the book.",
+    "option": {
+      "a": "An annotated.",
+      "b": "A used.",
+      "c": "An original.",
+      "d": "A revised."
+    },
+    "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "c",
+    "solution": "plagiarize; take (the work or an idea of someone else) and pass it off as one's own.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 12,
     "hasPassage": 0,
     "category": "others"
   },
