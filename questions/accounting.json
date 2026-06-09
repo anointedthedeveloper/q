@@ -17408,6 +17408,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1091,
+    "question": "<b>Use the information below to answer questions 26 and 27</b>\n\nMaterials consumed...................₦16,600\nDirect cost..........................₦5,400\nFactory rent.........................₦2,300\nFactory lighting.....................₦1,200\n\n<b>Cost of production to be transferred at cost plus 20% mark-up.</b>\n\nThe market value of goods produced is?",
+    "option": {
+      "a": "₦30,500",
+      "b": "₦30,600",
+      "c": "₦31,600",
+      "d": "₦31,620"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given:\n\nTotal Production Cost = ₦25,500\nTransfer at cost plus 20% mark-up\n\nCalculation:\nThe market value of goods produced = Cost of production + 20% mark-up\nMarket value = ₦25,500 + (20% × ₦25,500)\nMarket value = ₦25,500 + ₦5,100\nMarket value = ₦30,600\nTherefore, the market value of goods produced is ₦30,600",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1092,
     "question": "<b>Use the information below to answer questions 28 and 29</b>\n\n\nOn January 1,2000, a club's assets and liabilities were as follows:\nClub house...................₦8,000\nSubscription.................₦300\nCash.........................₦1,000\nWages owed...................₦100\n\nThe club has 50 members and annual subscription is ₦100 per member.\nSubscription received is ₦4,000 and this includes 1999 arrears of ₦200.\n\nThe accumulated fund is?",
     "option": {
