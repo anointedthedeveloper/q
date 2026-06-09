@@ -1568,6 +1568,22 @@
     "examyear": "2015"
   },
   {
+    "id": 136,
+    "question": "Body floats in fluid when its …………………",
+    "option": {
+      "a": "Displaces its own volume of the liquid (fluid)",
+      "b": " Displaces its own weight of the fluid",
+      "c": "Displace its own density of the fluid",
+      "d": "Is no longer subjected to gravity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Archimedes' Principle states: A body floats when the upward force (buoyant force) equals the weight of the body.\nFor a body to float:\nThe buoyant force = Weight of fluid displaced\nThe key condition:\nA body floats when it displaces its own weight of the fluid.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 138,
     "question": "A motor boy of a driver saw what seems to appear to be a pool of water a head of him, while his driver drives a new truck on a sunny day. Which of the following explains his observation?",
     "option": {
@@ -3692,6 +3708,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611723/ALOC-Questions/Physics/2018/2018_Q_35_asprjk.jpg",
     "answer": "c",
     "solution": "Understanding magnetic induction by stroking:\nWhen a steel bar is magnetized by stroking with a magnet:\n\nThe pole that is stroked attracts the stroking pole\nTherefore, it becomes the opposite polarity\n\nFrom the diagram:\n\nTwo magnets with south poles (S) stroke the steel bar\nLeft magnet strokes from center (U) toward left end (T)\nRight magnet strokes from center (U) toward right end (V)\n\nApplying the rule:\n\nAt T: Stroked by south pole → becomes north pole\nAt V: Stroked by south pole → becomes north pole\nThe center (U) becomes a south pole (or weak point)\n\nResult:\nBoth ends (T and V) become north poles because both were stroked by south poles.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 315,
+    "question": "In homes, electrical appliances and lamps are connected in parallel because",
+    "option": {
+      "a": "Each appliance receives the full mains voltage and can be switched on/off independently",
+      "b": " less voltage will be used",
+      "c": "parallel connection does not heat up the wires",
+      "d": "series connection uses high voltage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The PRIMARY reasons electrical appliances are connected in parallel in homes are:\n1. Full voltage to each device\n\nEvery appliance gets the complete mains voltage (e.g., 240V or 120V)\nEnsures proper operation at rated specifications\n\n2. Independent operation\n\nEach device has its own separate path to the power source\nSwitching one device on/off doesn't affect others\nCan use different combinations of appliances simultaneously\n\n3. Reliability\n\nIf one device fails (breaks or burns out), others continue working\nOne broken bulb doesn't turn off all lights\n\n4. Flexibility\n\nCan add or remove appliances without affecting others\nDifferent power requirements easily accommodated",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5904,6 +5936,22 @@
     "examyear": "2023"
   },
   {
+    "id": 507,
+    "question": "A lorry accelerates uniformly in a straight line with acceleration of 4ms⁻² and covers a distance of 250 m in a time interval of 10 s. How far will it travel in the next 10 s?",
+    "option": {
+      "a": " 650 m",
+      "b": "900 m",
+      "c": "800 m",
+      "d": "250 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nAcceleration, a = 4 m/s²\nDistance in first 10 s, s₁ = 250 m\nTime for first interval, t₁ = 10 s\nTime for second interval, t₂ = 10 s\nDistance in next 10 s = ?\n\nSolution:\nStep 1: Find initial velocity using first 10 seconds data\nUsing: s = ut + ½at²\n250 = u(10) + ½(4)(10)²\n250 = 10u + ½(4)(100)\n250 = 10u + 200\n10u = 50\nu = 5 m/s\nStep 2: Find velocity at the end of first 10 seconds\nUsing: v = u + at\nv = 5 + 4(10)\nv = 5 + 40\nv = 45 m/s\nStep 3: Calculate distance in next 10 seconds\nFor the next 10 seconds:\n\nInitial velocity = 45 m/s (final velocity from first interval)\nTime = 10 s\nAcceleration = 4 m/s²\n\nUsing: s = ut + ½at²\ns₂ = 45(10) + ½(4)(10)²\ns₂ = 450 + ½(4)(100)\ns₂ = 450 + 200\ns₂ = 650 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 508,
     "question": "The half life of a radioactive material is 12 days. Calculate the decay constant.",
     "option": {
@@ -6348,6 +6396,22 @@
     "image": "",
     "answer": "c",
     "solution": "Mechanics is the branch of physics that deals with the motion of objects and the forces acting on them. It is the foundation of all other branches of physics, and it is used to study everything from the motion of planets to the motion of electrons.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 548,
+    "question": "Which of the following is NOT a limitation of experimental measurements?",
+    "option": {
+      "a": "Systematic error",
+      "b": "Instrument resolution",
+      "c": "Random errors",
+      "d": "Human error"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Instrument resolution is not a limitation of experimental measurements. It is the smallest change in a measured quantity that can be detected by an instrument. While instrument resolution limits the accuracy of a measurement, it is not a limitation of experimental measurements itself.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -10924,6 +10988,22 @@
     "image": "",
     "answer": "d",
     "solution": "Step 1: Calculate actual weight (in air)\nWeight in air = mg = 30 × 10 = 300 N\nStep 2: Calculate apparent weight (in water)\nApparent weight in water = 22 × 10 = 220 N\nStep 3: Calculate upthrust\nUpthrust = Weight in air - Weight in water\nUpthrust = 300 - 220\nUpthrust = 80 N",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 957,
+    "question": "A metal of volume 40 cm³ is heated from 30°C to 90°C, the increase in volume is [Linear expansivity of the metal = 2.0 × 10⁻⁵ K⁻¹]",
+    "option": {
+      "a": " 0.12 cm³",
+      "b": " 4.00 cm³",
+      "c": " 1.20 cm³",
+      "d": " 0.144 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial volume (V₀) = 40 cm³\nInitial temperature (T₁) = 30°C\nFinal temperature (T₂) = 90°C\nTemperature change (ΔT) = 90 - 30 = 60°C = 60 K\nLinear expansivity (α) = 2.0 × 10⁻⁵ K⁻¹\nIncrease in volume (ΔV) = ?\n\nStep 1: Find volume expansivity (γ)\nFor isotropic materials:\nγ = 3α\nγ = 3 × 2.0 × 10⁻⁵\nγ = 6.0 × 10⁻⁵ K⁻¹\nStep 2: Calculate increase in volume\nΔV = V₀γΔT\nSubstituting values:\nΔV = 40 × 6.0 × 10⁻⁵ × 60\nΔV = 40 × 60 × 6.0 × 10⁻⁵\nΔV = 2400 × 6.0 × 10⁻⁵\nΔV = 14,400 × 10⁻⁵\nΔV = 0.144 cm³",
     "examtype": "utme",
     "examyear": "2011"
   },
