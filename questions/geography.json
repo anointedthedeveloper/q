@@ -48,6 +48,38 @@
     "examyear": "2006"
   },
   {
+    "id": 14,
+    "question": "The major air mass affecting the climate of West Africa in summer is the  ",
+    "option": {
+      "a": "harmattan wind  ",
+      "b": "tropical continental  ",
+      "c": "warm equatorial  ",
+      "d": "tropical maritime "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 18,
+    "question": "The doldrums refer to  ",
+    "option": {
+      "a": "land areas bordering the confluence of the blue and white Nile  ",
+      "b": "areas intense weather activities around the Mediterranean  ",
+      "c": "areas of South Atlantic where cold and warm currents meet  ",
+      "d": "area within a few degrees north and south of the equator."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 19,
     "question": "Nigeria Sat I is designed by primarily to  ",
     "option": {
@@ -320,6 +352,22 @@
     "examyear": "2008"
   },
   {
+    "id": 74,
+    "question": "Which of the following features is produced by wave deposition  ",
+    "option": {
+      "a": "caves  ",
+      "b": "stack  ",
+      "c": "tomobolo  ",
+      "d": "blow holes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 86,
     "question": "The highest volume of shipping across the Atlantic ocean is  ",
     "option": {
@@ -347,6 +395,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 90,
+    "question": "Which of the following is not the Karst features? ",
+    "option": {
+      "a": "Poljes  ",
+      "b": "Uvala  ",
+      "c": "Kopjes  ",
+      "d": "Dolines "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 93,
+    "question": "Which one of these is not a thermometric scale:  ",
+    "option": {
+      "a": "Celsius  ",
+      "b": "Kelvin  ",
+      "c": "Fahrenheit  ",
+      "d": "Octas "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -480,6 +560,22 @@
     "examyear": "2011"
   },
   {
+    "id": 117,
+    "question": "Which of the following is a cold ocean current ",
+    "option": {
+      "a": "Mozambique   ",
+      "b": "gulf stream ",
+      "c": "Kuro Siwo  ",
+      "d": "Benguela   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 130,
     "question": "Orographic rainfall is also called ",
     "option": {
@@ -510,6 +606,38 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 134,
+    "question": "What is the local standard time in New York (750W) when it is 2pm in Accra? ",
+    "option": {
+      "a": "9.00pm  ",
+      "b": "9.00 pm  ",
+      "c": "7.00pm   ",
+      "d": "7.00am "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 145,
+    "question": "Which of the following features is not commonly associated with a river at the floodplain stage? ",
+    "option": {
+      "a": "Meanders  ",
+      "b": "Levees ",
+      "c": "Braided channel  ",
+      "d": "Knick point "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 146,
@@ -608,6 +736,22 @@
     "examyear": "2012"
   },
   {
+    "id": 165,
+    "question": "Which of the locations in Nigeria has the highest mean annual rainfall total ?  ",
+    "option": {
+      "a": "Benin City  ",
+      "b": "Port-Harcourt  ",
+      "c": "C.Calabar   ",
+      "d": "Ondo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 170,
     "question": "The surface of discontinuity between the earth’s crust and the mantle is know as",
     "option": {
@@ -619,6 +763,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 175,
+    "question": "The earth rotates from  ",
+    "option": {
+      "a": "Southeast to Southwest",
+      "b": "Southwest  to Southeast",
+      "c": "West to East  ",
+      "d": "East to West"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 179,
+    "question": "One hour’s difference in mean solar time represents what angular difference in longitude?",
+    "option": {
+      "a": "15o ",
+      "b": "23.5o  ",
+      "c": "90o",
+      "d": "66.5o"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -656,6 +832,22 @@
     "examyear": "2014"
   },
   {
+    "id": 194,
+    "question": "Lesotho is in: ",
+    "option": {
+      "a": "South Africa",
+      "b": "West Africa.   ",
+      "c": "East Africa",
+      "d": "Central Africa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 197,
     "question": "The capital of Niger state in Nigeria is: ",
     "option": {
@@ -667,6 +859,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 198,
+    "question": "A valley is a:   ",
+    "option": {
+      "a": "Highland between hills",
+      "b": "Lowland between hills",
+      "c": "Rock between hills",
+      "d": "Highland between trees. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme-aaua",
     "examyear": "2014"
@@ -715,6 +923,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 213,
+    "question": "Casablanca is a",
+    "option": {
+      "a": "North African City ",
+      "b": "West African City ",
+      "c": "South African City ",
+      "d": "Central African City "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 214,
+    "question": "The World largest Ocean is: ",
+    "option": {
+      "a": "Pacific Ocean ",
+      "b": "Atlantic Ocean ",
+      "c": "Indian Ocean ",
+      "d": "Arctic Ocean "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme-aaua",
     "examyear": "2014"
@@ -784,6 +1024,22 @@
     "examyear": "2014"
   },
   {
+    "id": 233,
+    "question": "________ is the time of day when tornadoes are most likely to occur",
+    "option": {
+      "a": "Dawn ",
+      "b": "Mid-afternoon ",
+      "c": "Evening ",
+      "d": "Noon "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 245,
     "question": "What is the size, in square kilometers of the area covered by the map?",
     "option": {
@@ -794,6 +1050,22 @@
     },
     "section": "",
     "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 250,
+    "question": "The elevated feature that runs westwards from the cape near mito to the western edge of the map is",
+    "option": {
+      "a": "A Spur",
+      "b": "Peninsular",
+      "c": "A Hill",
+      "d": "A ridge"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2016_13_to_17_iprrih.jpg",
     "answer": "d",
     "solution": "",
     "examtype": "utme",
@@ -992,6 +1264,22 @@
     "examyear": "2017"
   },
   {
+    "id": 303,
+    "question": "The fishing industry in the Mediterranean Sea is Best accounted for by the fact that",
+    "option": {
+      "a": "The coastal dwellers are fishermen",
+      "b": "Fishing is an old industry in the basin",
+      "c": "It is shallow and rich in plankton",
+      "d": "It is a warm sea"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 306,
     "question": "Pastoral nomadism was not native to the American Continents or Australia because",
     "option": {
@@ -1056,6 +1344,38 @@
     "examyear": "2018"
   },
   {
+    "id": 324,
+    "question": "How were the major mountain belts of the world produced?",
+    "option": {
+      "a": "By weathering",
+      "b": "By wind erosion",
+      "c": "By folding ",
+      "d": "By river deposition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 333,
+    "question": "The most important minerals found in the area marked X are",
+    "option": {
+      "a": "Lead and Zinc",
+      "b": "Tin and Columbite",
+      "c": "Galena and Tantalite",
+      "d": "Iron ore and thorium"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582572/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_17_and_18_bmtfhg.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 334,
     "question": "The major environmental problems associated with the area marked Y is",
     "option": {
@@ -1104,6 +1424,22 @@
     "examyear": "2018"
   },
   {
+    "id": 354,
+    "question": "One of the leading industrial nations of the world ranking second in manufacturing output after the USA is ",
+    "option": {
+      "a": "Germany",
+      "b": "Britain",
+      "c": "Japan",
+      "d": "Russia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 357,
     "question": "What is a typical farmer in the Susan Savannah of Nigeria most likely to be doing in June?",
     "option": {
@@ -1147,6 +1483,22 @@
     "section": "",
     "image": "",
     "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 368,
+    "question": "\"Adiabatic cooling\" is the cooling of rising air as a result of",
+    "option": {
+      "a": "Movement on the windward side of mountains",
+      "b": "Increasing altitude",
+      "c": "Instability",
+      "d": "Advection"
+    },
+    "section": "Study the table below, which shows the mean climatic conditions at Station Y , and answer question 12 to 14",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2019_12_to_14_kwqvds.jpg",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -1232,6 +1584,22 @@
     "examyear": "2019"
   },
   {
+    "id": 393,
+    "question": "Economic activities in Tropical Africa largely depends on",
+    "option": {
+      "a": "Secondary production",
+      "b": "Quaternary is located",
+      "c": " Primary production",
+      "d": "Tertiary production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 400,
     "question": "When on looks at a soil profile, the first characteristic to be noticed is soil",
     "option": {
@@ -1280,6 +1648,22 @@
     "examyear": "2020"
   },
   {
+    "id": 411,
+    "question": "A good overland transportation system promotes economic development because it",
+    "option": {
+      "a": "Provides employment for drivers",
+      "b": "Fosters interregional trade",
+      "c": "Reduces fuel consumption",
+      "d": "Reduces depreciation of motor vehicles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 414,
     "question": "In what order do the following occur from the surface to the bottom of an oil well?",
     "option": {
@@ -1287,6 +1671,38 @@
       "b": "Gas, oil, water",
       "c": "Oil, water, gas",
       "d": "Oil, gas, water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 416,
+    "question": "In Nigeria, geographical location poses the greatest hindrance to economic development in the",
+    "option": {
+      "a": "Eastern High Lands",
+      "b": "Eastern Scarp Land",
+      "c": "Niger-Benue Trough",
+      "d": "Western Highlands"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 419,
+    "question": "A good example of cuesta landscape in Nigeria is ",
+    "option": {
+      "a": "Yoruba Hills",
+      "b": "North central highland",
+      "c": "Bui Plateau",
+      "d": "Udi hills"
     },
     "section": "",
     "image": "",
@@ -1307,6 +1723,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 427,
+    "question": "The world's busiest seaport is",
+    "option": {
+      "a": "London",
+      "b": "Bombay",
+      "c": "Kobe",
+      "d": "Rotterdam"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
