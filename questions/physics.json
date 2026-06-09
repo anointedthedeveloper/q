@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "A 70kg man ascends a flight of stairs of height 4m in 7s. The power expended by the man is;",
+    "option": {
+      "a": "40W ",
+      "b": "100W ",
+      "c": "280W ",
+      "d": "400W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 2,
     "question": "A body accelerates uniformly from rest at 6ms-2 for 8 seconds and then decelerates uniformly to rest in the next 5 seconds. The magnitude of the deceleration is: ",
     "option": {
@@ -896,6 +912,22 @@
     "examyear": "2012"
   },
   {
+    "id": 132,
+    "question": "The direction of the path taken by light is called",
+    "option": {
+      "a": "Locus",
+      "b": "Lines",
+      "c": "Ray",
+      "d": "Beam"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Ray – a beam of light or radiation",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 134,
     "question": "A stroboscope can be used to make the wave appear …………..",
     "option": {
@@ -1248,6 +1280,22 @@
     "examyear": "2016"
   },
   {
+    "id": 195,
+    "question": "Semiconductor is a class of solid whose conductivity increases with an increase in",
+    "option": {
+      "a": "Pressure",
+      "b": "Temperature",
+      "c": "Current",
+      "d": "Voltage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Semiconductors have a unique property:\nIn semiconductors (like silicon and germanium):\n\nAt low temperatures, few electrons have enough energy to conduct\nAs temperature increases, more electrons gain enough energy to break free\nThese free electrons increase conductivity\n\nEffect of temperature:\nHigher temperature → More free charge carriers → Higher conductivity\nThis is opposite to conductors (metals):\n\nMetals: Higher temperature → Lower conductivity\n\nOther options:\n\nPressure = minimal effect on conductivity\nCurrent/Voltage = are results of conductivity, not causes\n\nAnswer: B. Temperature\nSemiconductor conductivity increases with an increase in temperature.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 198,
     "question": "A saturated vapour pressure of a liquid increases when the",
     "option": {
@@ -1340,6 +1388,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nApparent depth = 1.00 m\nRefractive index of water (n) = 1.33\nReal depth = ?\n\nFormula for refraction (vertical viewing):\nRefractive index = Real depth / Apparent depth\nRearranging to find Real depth:\nReal depth = Refractive index × Apparent depth\nSubstituting values:\nReal depth = 1.33 × 1.00\nReal depth = 1.33 m\nExplanation:\nDue to refraction, water appears shallower than it actually is. The refractive index relates the actual depth to the apparent depth. When light travels from water (denser) to air (less dense), it bends away from the normal, making objects appear closer to the surface.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 216,
+    "question": "A satellite revolving around the earth is kept on its orbit by?",
+    "option": {
+      "a": "Centripetal forces only",
+      "b": "Centripetal and frictional forces",
+      "c": "Centrifugal forces only",
+      "d": "Centripetal and centrifugal forces"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The concept of centrifugal force can be applied in rotating devices, such as centrifuges, centrifugal pumps, centrifugal governors, and centrifugal clutches, and in centrifugal railways, planetary orbits and banked curves, when they are analyzed in a rotating coordinate system",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1472,6 +1536,22 @@
     "examyear": "2016"
   },
   {
+    "id": 230,
+    "question": "Which is the incorrect formula for a body accelerating uniformly?",
+    "option": {
+      "a": "a = (v² − u²)/2",
+      "b": "v² = u² + 2as",
+      "c": "s = ut + ½at²",
+      "d": "v² − u² = 2as"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Standard equations of motion for uniform acceleration:\n\nv = u + at\ns = ut + ½at²\nv² = u² + 2as\n\nAnalyzing each option:\nOption A: a = (v² − u²)/2\n\nThis is INCORRECT ✗\nThe correct formula derived from v² = u² + 2as is:\nv² − u² = 2as\nTherefore: a = (v² − u²)/(2s) [NOT divided by 2 alone]\n\nOption B: v² = u² + 2as\n\nThis is CORRECT ✓\nStandard equation of motion\n\nOption C: s = ut + ½at²\n\nThis is CORRECT ✓\nStandard equation of motion\n\nOption D: v² − u² = 2as\n\nThis is CORRECT ✓\nRearranged form of equation 3\n\nAnswer: A. a = (v² − u²)/2\nThis is the incorrect formula. The correct formula should be a = (v² − u²)/(2s), which includes the displacement 's' in the denominator.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 234,
     "question": "Calculate the upthrust on an object of volume 50cm³ which is immersed in liquid of density 10³ kgm⁻³ [g = 10ms⁻²]",
     "option": {
@@ -1500,6 +1580,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nInternal resistance (r) = 2Ω\nExternal resistance (R) = 6Ω\nEfficiency = ?\n\nFormula for efficiency of a cell:\nEfficiency = (Power delivered to load)/(Total power) × 100%\nEfficiency = R/(R + r) × 100%\nSubstituting values:\nEfficiency = 6/(6 + 2) × 100%\nEfficiency = 6/8 × 100%\nEfficiency = 0.75 × 100%\nEfficiency = 75.0%\nExplanation:\nThe efficiency represents the fraction of total power that is usefully delivered to the external resistor (load), with the rest being lost to the internal resistance of the cell.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 240,
+    "question": "A block and tackle pulley arrangement has 6 pulleys in which an effort of 50N supports a load of 200N, calculate the efficiency of the machine",
+    "option": {
+      "a": "80.00%",
+      "b": "76.60%",
+      "c": "66.70%",
+      "d": "60.70%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nNumber of pulleys = 6\nEffort (E) = 50N\nLoad (L) = 200N\nEfficiency = ?\n\nStep 1: Calculate Mechanical Advantage (M.A)\nM.A = Load/Effort = 200/50 = 4\nStep 2: Calculate Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings = 6\nStep 3: Calculate Efficiency\nEfficiency = (M.A/V.R) × 100%\nEfficiency = (4/6) × 100%\nEfficiency = 0.667 × 100%\nEfficiency = 66.7%",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -1628,6 +1724,22 @@
     "image": "",
     "answer": "c",
     "solution": "When silicon is doped with phosphorus, an n-type semiconductor material is formed due to the extra free electrons provided by phosphorus atoms.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 269,
+    "question": "Calculate the angle of minimum deviation of a 60° prism of refractive index 1.5 [sin⁻¹(0.75) = 49°]",
+    "option": {
+      "a": "38°",
+      "b": "19.47°",
+      "c": "16.25°",
+      "d": "49°\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nPrism angle (A) = 60°\nRefractive index (n) = 1.5\nsin⁻¹(0.75) = 49°\nMinimum deviation (δₘ) = ?\n\nFormula for minimum deviation:\nn = sin[(A + δₘ)/2] / sin(A/2)\nRearranging:\nsin[(A + δₘ)/2] = n × sin(A/2)\nSubstituting values:\nsin[(60° + δₘ)/2] = 1.5 × sin(60°/2)\nsin[(60° + δₘ)/2] = 1.5 × sin(30°)\nsin[(60° + δₘ)/2] = 1.5 × 0.5\nsin[(60° + δₘ)/2] = 0.75\nUsing the given information:\n(60° + δₘ)/2 = sin⁻¹(0.75) = 49°\nSolving for δₘ:\n60° + δₘ = 2 × 49°\n60° + δₘ = 98°\nδₘ = 98° - 60°\nδₘ = 38°",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -1840,6 +1952,22 @@
     "examyear": "2018"
   },
   {
+    "id": 299,
+    "question": "Which of the following has the lowest internal resistance when new?",
+    "option": {
+      "a": "Leclanche cell",
+      "b": "Daniell cell",
+      "c": "Torch battery",
+      "d": "Accumulator"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The accumulator (lead-acid battery) has the lowest internal resistance when new, which allows it to deliver large currents efficiently. This is why it's used in applications requiring high current, such as starting car engines.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 300,
     "question": "The pitch of an acoustic device can be increased by",
     "option": {
@@ -1900,6 +2028,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nTime elapsed (t) = 120 years\nFraction remaining = 1/64\nHalf-life (T½) = ?\n\nUnderstanding radioactive decay:\nAfter each half-life, half of the material remains.\nStep 1: Determine number of half-lives\nFraction remaining = (1/2)ⁿ\nwhere n = number of half-lives\n1/64 = (1/2)ⁿ\nFinding n:\n64 = 2ⁿ\n2⁶ = 2ⁿ\nn = 6\nSo 6 half-lives have passed.\nStep 2: Calculate half-life\nn × T½ = total time\n6 × T½ = 120 years\nT½ = 120/6\nT½ = 20 years",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 307,
+    "question": "The time rate of loss of heat by a body is proportional to the",
+    "option": {
+      "a": " temperature of its surroundings",
+      "b": " temperature of the body",
+      "c": " difference in temperature between the body and its surroundings",
+      "d": "ratio of the temperature of the body to that of its surroundings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "According to Newton's Law of Cooling, the rate of heat loss is proportional to the temperature difference between the body and its surroundings.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2140,6 +2284,22 @@
     "image": "",
     "answer": "d",
     "solution": "Aluminium is used as an electroscope leaf because it can be converted into very thin sheets (foil), which makes it lightweight and able to diverge easily when charged.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 352,
+    "question": "The diagram above represents the stress-strain graph of a loaded wire. Which of these statements is correct?",
+    "option": {
+      "a": " At J, the wire becomes plastic",
+      "b": "J is the yield point",
+      "c": "L is the elastic limit",
+      "d": "At K, the wire breaks"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612313/ALOC-Questions/Physics/2019/2019_physics_Q_23_r159gl.jpg",
+    "answer": "b",
+    "solution": "I is the elastic limit\nThe end of the constant part J is the yield point\nL is the break point.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -2880,6 +3040,22 @@
     "examyear": "2022"
   },
   {
+    "id": 463,
+    "question": "An object 40 cm high is 30cm from the pin hole camera. If the height of the image formed is 20 cm. What is the distance of the image from the pin height?",
+    "option": {
+      "a": "15 cm",
+      "b": "70 cm",
+      "c": "40 cm",
+      "d": "60 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHeight of object (h_o) = 40 cm\nObject distance from pinhole (u) = 30 cm\nHeight of image (h_i) = 20 cm\nImage distance from pinhole (v) = ?\n\nPrinciple of pinhole camera:\nSimilar triangles are formed, so:\nh_i/h_o = v/u\nRearranging to find v:\nv = (h_i/h_o) × u\nSubstituting values:\nv = (20/40) × 30\nv = (1/2) × 30\nv = 15 cm\nVerification:\nThe image is smaller (20 cm vs 40 cm), so it makes sense that the image distance is also smaller (15 cm vs 30 cm), maintaining the proportion.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 464,
     "question": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
     "option": {
@@ -3424,6 +3600,22 @@
     "examyear": "2023"
   },
   {
+    "id": 550,
+    "question": "The stress experienced by a wire of diameter yπm loaded by a weight y²N is",
+    "option": {
+      "a": "πNm⁻²",
+      "b": "2πNm⁻²",
+      "c": "4πNm⁻²",
+      "d": " 8πNm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nDiameter of wire, d = yπ m\nLoad (weight), F = y² N\nStress, σ = ?\n\nSolution:\nIf d = y/π m, then r = y/(2π) m\nA = πr² = π[y/(2π)]² = π × y²/(4π²) = y²/(4π) m²\nσ = F/A = y²÷[y²/(4π)] = y² × 4π/y² = 4π Nm⁻129",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 551,
     "question": "Under which conditions is work done",
     "option": {
@@ -3564,6 +3756,22 @@
     "image": "",
     "answer": "a",
     "solution": "Concave mirrors are designed to focus sunlight onto a specific area, enhancing the intensity of the solar energy. This concentrated energy can then be utilized for heating or converted into electricity in solar thermal and photovoltaic systems.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 568,
+    "question": "A rectifier is a device that changes ",
+    "option": {
+      "a": " D.C to D.C",
+      "b": "D.C to A.C",
+      "c": "A.C to A.C",
+      "d": "A.C to D.C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A rectifier is a device that converts alternating current (AC) into direct current (DC). It enables the flow of current in one direction while blocking it in the opposite direction, thus transforming AC voltage into a form of DC voltage suitable for different applications.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -3724,6 +3932,22 @@
     "image": "",
     "answer": "b",
     "solution": "To convert a DC dynamo to an AC dynamo, the split-ring commutator must be replaced with slip rings. This allows the alternating current generated in the rotating coil to be delivered to the external circuit without rectification.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 612,
+    "question": "Which of the following is an electrolyte?",
+    "option": {
+      "a": "Paraffin",
+      "b": "Sugar solution",
+      "c": "Grape fruit",
+      "d": "Alcohol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "It has been scientifically proven that 100g of grapefruit contains 135g of potassium electrolyte.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4368,6 +4592,22 @@
     "examyear": "2006"
   },
   {
+    "id": 711,
+    "question": "An electric heater with a p.d of 240 V connected across its terminals has a total resistance of 960Ω. find the power rating of the heater.",
+    "option": {
+      "a": " 0.25 W",
+      "b": " 4.00 W",
+      "c": "38.40W",
+      "d": "60.00W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPotential difference, V = 240 V\nResistance, R = 960 Ω\nPower, P = ?\n\nSolution:\nStep 1: Formula for electrical power\nPower: P = V²/R\nAlternative formulas:\n\nP = VI\nP = I²R\n\nStep 2: Substitute values\nP = V²/R\nP = (240)²/960\nP = 57,600/960\nStep 3: Calculate\nP = 60 W",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 712,
     "question": "If the capacitance of a capacitor is C = (εA)/d, which of the following parameters is varied when a variable capacitor is used for tuning radio sets?",
     "option": {
@@ -4528,6 +4768,22 @@
     "examyear": "2006"
   },
   {
+    "id": 729,
+    "question": "The theory of electronic conduction in solids, which satisfactorily explains the properties of conductors, insulators and semi-conductor, is?",
+    "option": {
+      "a": "string theory",
+      "b": "particle theory",
+      "c": " group theory",
+      "d": "band theory"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nBand Theory: This theory describes the energy levels of electrons in solids as bands. It explains how the bands (valence and conduction bands) determine the electrical properties of materials.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 734,
     "question": "A submarine is observed to rise from a real depth of 80 m to 60 m in water. Calculate the change in apparent depth.\n[Refractive index of water = 4/3]",
     "option": {
@@ -4608,6 +4864,22 @@
     "examyear": "2006"
   },
   {
+    "id": 741,
+    "question": "A mirror of weight 75N is hung by a cord from a hook on the wall. If the cord makes an angle of 30o with horizontal, the tension in the cord is",
+    "option": {
+      "a": "100N",
+      "b": "1500N",
+      "c": "250N",
+      "d": "150N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nWeight of mirror, W = 75 N\nAngle between cord and horizontal, θ = 30°\n\nSolution:\n\nStep 1: Equilibrium condition\nThe vertical component of the tension must balance the weight of the mirror:\nT sinθ = W\n\nStep 2: Substitute values\nsin30° = 0.5\nT × 0.5 = 75 N\n\nStep 3: Solve for tension\nT = 75 N / 0.5 = 150 N",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 745,
     "question": "A progressive wave equation is represented by y = a sin(150πt - (π/4)x). If the phase difference of the wave is 45°, the value of x in the equation is?",
     "option": {
@@ -4652,6 +4924,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nInitial angular velocity (ω₀) = 0 rad/s (starts from rest)\nFinal angular velocity (ω) = 4π rad/s\nTime (t) = 5 s\nAngular acceleration (α) = ?\n\nUsing angular motion equation:\nω = ω₀ + αt\nSince ω₀ = 0:\nω = αt\nRearranging to find α:\nα = ω/t\nSubstituting values:\nα = 4π/5\nα = 0.8π rad/s²",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 757,
+    "question": "A clinical thermometer is different from other mercury in glass thermometers owing to",
+    "option": {
+      "a": " the constriction on its stem",
+      "b": "the grade of mercury used in it",
+      "c": "its long stem",
+      "d": "its wide range of temperatures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The constriction in the stem of a clinical thermometer prevents the mercury from returning to the bulb after the temperature has been taken, allowing for a more accurate reading. This feature is what distinguishes it from other types of mercury thermometers, which do not typically have this constriction",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -5008,6 +5296,22 @@
     "examyear": "2008"
   },
   {
+    "id": 824,
+    "question": "An object placed at the bottom of a well full of clear water appears closer to the surface due to?",
+    "option": {
+      "a": "diffraction",
+      "b": "reflection",
+      "c": "refraction",
+      "d": "polarization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Real depth and apparent dept is due to refraction",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 825,
     "question": "In the microscope, the eyepiece lens merely acts as?",
     "option": {
@@ -5020,6 +5324,22 @@
     "image": "",
     "answer": "d",
     "solution": "The basic function of microscope is magnification",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 827,
+    "question": "A short chain is sometimes attached to the back of a petrol tanker to?",
+    "option": {
+      "a": " generate more friction",
+      "b": " ensure the balancing of the tanker",
+      "c": "caution the driver when overspeeding",
+      "d": "conduct excess charges to the earth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The friction between the tanker and air creates charges which the chain conducts to the ground.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -5132,6 +5452,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432531/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_42_icabeo.png",
     "answer": "c",
     "solution": "Step 1: Determine Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings = 4\nStep 2: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A/V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.80 × 4\nM.A = 3.2\nStep 3: Calculate Effort\nM.A = Load/Effort\nRearranging:\nE = Load/M.A\nE = 1200/3.2\nE = 375N",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 842,
+    "question": "The diagram above is the heating curve for a solid, QR is the?",
+    "option": {
+      "a": "melting region",
+      "b": "boiling region",
+      "c": " sublimation region",
+      "d": "evaporating process"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432563/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_43_kgsgv7.png",
+    "answer": "a",
+    "solution": "At melting point there is no change temperature",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -5756,6 +6092,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nInitial temperature, T₁ = 16°C = 16 + 273 = 289 K\nInitial velocity, v₁ = 340 m s⁻¹\nFinal temperature, T₂ = 127°C = 127 + 273 = 400 K\nPressure is doubled (does not affect velocity of sound in air for an ideal gas)\n\nSolution:\n\nStep 1: Formula for velocity of sound in an ideal gas\nVelocity v is proportional to the square root of absolute temperature: v ∝ √T\nTherefore, v₂ / v₁ = √(T₂ / T₁)\n\nStep 2: Substitute values\nv₂ / 340 = √(400 / 289) = 20 / 17\n\nStep 3: Solve for v₂\nv₂ = 340 × (20 / 17) = 20 × 20 = 400 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 947,
+    "question": "An object is weighed at different locations on the Earth. What will be the right observation?",
+    "option": {
+      "a": "Both the mass and weight vary",
+      "b": "The weight is constant while the mass varies",
+      "c": "The mass is constant while the weight varies",
+      "d": "Both the mass and weight are constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The mass is constant while the weight varies.",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -6800,6 +7152,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1119,
+    "question": "What type of reaction is represented by the equation\n²₁X + ²₁X → ³₂Y + ¹₀n + Energy",
+    "option": {
+      "a": "Ionization",
+      "b": "Fusion",
+      "c": "Fission",
+      "d": "Chain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The given reaction is the fusion of two deuterium nuclei (²₁H) to form helium‑3 and a neutron.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1121,
     "question": "The power of a lens in diopters is ",
     "option": {
@@ -7036,6 +7404,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nRelative density of wood = 0.4\nDensity of wood = 0.4 × 1000 = 400 kg m⁻³\nDensity of liquid = 1600 kg m⁻³\n\nSolution:\n\nStep 1: Condition for floating\nFor a floating object, weight = upthrust.\nWeight = ρ_wood × V × g\nUpthrust = ρ_liquid × V_immersed × g\n\nStep 2: Cancel g and rearrange\nρ_wood × V = ρ_liquid × V_immersed\nV_immersed / V = ρ_wood / ρ_liquid\n\nStep 3: Substitute values\nV_immersed / V = 400 / 1600 = 0.25",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1154,
+    "question": "Lining the walls of an auditorium with perforated materials reduces",
+    "option": {
+      "a": "reverberation",
+      "b": "diffraction",
+      "c": "refraction",
+      "d": " auditorium pulse"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Perforated materials absorb sound, reducing reverberation.",
     "examtype": "utme",
     "examyear": "2025"
   },
