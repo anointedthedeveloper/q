@@ -6441,6 +6441,25 @@
     "category": "others"
   },
   {
+    "id": 367,
+    "question": "The next village is at least 30 kilometres away.",
+    "option": {
+      "a": "The next village is 30 kilometres away, possibly less. ",
+      "b": "The next village is approximately 30 kilometres away.    ",
+      "c": "The next village is   only 30 kilometres away.",
+      "d": "The next village is 30 kilometres away, or possibly more."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 368,
     "question": "The woman won't have lived through the night. ",
     "option": {
@@ -24031,6 +24050,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 68,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1552,
+    "question": "choose the option that best completes the gap(s).\n\nYou may now ___________ with your presentation.",
+    "option": {
+      "a": "Precede",
+      "b": "Preceed",
+      "c": "Procede",
+      "d": "Proceed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Note the spelling of each word.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 69,
     "hasPassage": 0,
     "category": "others"
   },
