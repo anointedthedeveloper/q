@@ -448,6 +448,22 @@
     "examyear": "2007"
   },
   {
+    "id": 46,
+    "question": "Which of the following formulae is the correct one for converting X0 Fahrenheit temperature reading into Centigrade temperature readings (Y0)?  ",
+    "option": {
+      "a": "Y = (X + 32)5/90C ",
+      "b": "Y = (X – 32)5/90C  ",
+      "c": "Y =  (X – 32)9/50C  ",
+      "d": "Y = (X+32)9/50C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 47,
     "question": "Oxbow lakes are found in  ",
     "option": {
@@ -974,6 +990,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 88,
+    "question": "All planets have satellites except:  ",
+    "option": {
+      "a": "Earth & Venus ",
+      "b": "Mars & Mercury  ",
+      "c": "Mercury & Venus  ",
+      "d": "Neptune & Venus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
   },
   {
     "id": 89,
@@ -2080,6 +2112,22 @@
     "examyear": "2014"
   },
   {
+    "id": 199,
+    "question": "Nigeria has a total land area of: ",
+    "option": {
+      "a": "923,768 km2 ",
+      "b": "823,768 km2 ",
+      "c": "623,768 km2 ",
+      "d": "723,768 km2 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 200,
     "question": "A lake is a:   ",
     "option": {
@@ -2299,6 +2347,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 219,
+    "question": "Wind erosion is most common in ",
+    "option": {
+      "a": "Rocky areas ",
+      "b": "Riverine areas ",
+      "c": "Arid areas ",
+      "d": "Humid areas "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme-aaua",
     "examyear": "2014"
@@ -3104,6 +3168,22 @@
     "examyear": "2017"
   },
   {
+    "id": 302,
+    "question": "Fishing is the mainstay of the economy of",
+    "option": {
+      "a": "Iceland",
+      "b": "Kuwait",
+      "c": "Libya",
+      "d": "Argentina"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 303,
     "question": "The fishing industry in the Mediterranean Sea is Best accounted for by the fact that",
     "option": {
@@ -3211,6 +3291,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 312,
+    "question": "The equatorial circumference of the earth is",
+    "option": {
+      "a": "30,084 km",
+      "b": "40,084 km",
+      "c": "60,084 km",
+      "d": "20,084km"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
@@ -3664,6 +3760,22 @@
     "examyear": "2018"
   },
   {
+    "id": 355,
+    "question": "An instrument used for setting out right angle in surveying a parcel of land is",
+    "option": {
+      "a": "A measuring rod",
+      "b": "Abney level",
+      "c": "A ranging pole",
+      "d": "Theodeolite"
+    },
+    "section": "",
+    "image": "",
+    "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 357,
     "question": "What is a typical farmer in the Susan Savannah of Nigeria most likely to be doing in June?",
     "option": {
@@ -3776,6 +3888,22 @@
     "examyear": "2019"
   },
   {
+    "id": 365,
+    "question": "The major relief feature between the rivers Zogo and Bidana is a",
+    "option": {
+      "a": "Ridge",
+      "b": "Cuesta",
+      "c": "Mountain",
+      "d": "Hill"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2019_06_to_10_hkwszi.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 367,
     "question": "The pair of countries which has the largest area of coniferous forest in the world is made up of Canada and",
     "option": {
@@ -3819,6 +3947,38 @@
     "section": "Study the table below, which shows the mean climatic conditions at Station Y , and answer question 12 to 14",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2019_12_to_14_kwqvds.jpg",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 373,
+    "question": "Which of the following represents tha cheapest mode of transportation",
+    "option": {
+      "a": "Air",
+      "b": "Rail",
+      "c": "Road",
+      "d": "Water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 375,
+    "question": "Which of the following is a river port in Africa?",
+    "option": {
+      "a": "Kinshasa",
+      "b": "East London",
+      "c": "Mombasa",
+      "d": "Alexandria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -3915,6 +4075,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 385,
+    "question": "During winter, the Eskimos live in",
+    "option": {
+      "a": "Tunnels",
+      "b": "Igloos",
+      "c": "Tents",
+      "d": "Caves"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -4363,6 +4539,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 430,
+    "question": "The most significant economic use of ocean water is for",
+    "option": {
+      "a": "Bathing",
+      "b": "Recreation",
+      "c": "Drinking",
+      "d": "Transportaion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
