@@ -13104,6 +13104,22 @@
     "examyear": "2018"
   },
   {
+    "id": 927,
+    "question": "If x/(a+1) + y/b = 1. Make y the subject of the relation.",
+    "option": {
+      "a": "b(a+1−x)/(a+1)",
+      "b": "(a+1)/b(a−x+1)",
+      "c": "a(b−x+1)/(b+1)",
+      "d": "b/(a(b−x+1))"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 928,
     "question": "Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm",
     "option": {
@@ -15836,6 +15852,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007442/ALOC-Questions/Mathematics/2022/JAMB_MATH_2022_Q9_tovtlt.jpg",
     "answer": "b",
     "solution": "28∗360/100\n  \n\n= 100.8°",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1107,
+    "question": "A rectangular pyramid has an area 24cm<sup>2</sup>\n and height 7.5cm. Find its volume?",
+    "option": {
+      "a": "65.0cm<sup>3</sup>",
+      "b": "70.5cm<sup>3</sup>",
+      "c": "56.5cm<sup>3</sup>",
+      "d": "60.0cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Volume of a rectangular pyramid = length∗width∗height/3\n or area∗height/3\n= 24∗7.5/3\n → 180/3\nVolume of the rectangular pyramid = 60cm<sup>3</sup>",
     "examtype": "utme",
     "examyear": "2022"
   },
