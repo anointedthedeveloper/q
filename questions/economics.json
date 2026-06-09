@@ -1,5 +1,21 @@
 [
   {
+    "id": 6,
+    "question": "Suppose wages paid by a firm increase what would reasonably be expected to happen to the equilibrium price and equilibrium quantity for the firm’s output? ",
+    "option": {
+      "a": "price increase,  quantity decreases ",
+      "b": "price decrease, quantity decrease",
+      "c": "price decreases, quantity increase",
+      "d": "price increases, quantity increase."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 10,
     "question": "Which of the following is an economic cost ",
     "option": {
@@ -11,6 +27,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 23,
+    "question": "The only essential attribute of the good currency is ",
+    "option": {
+      "a": "scarcity ",
+      "b": "homogeneity",
+      "c": "acceptability ",
+      "d": "cognoscibility."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
@@ -32,6 +64,102 @@
     "examyear": "2007"
   },
   {
+    "id": 43,
+    "question": "The situation in which the total amount of government spending exceeds total called ",
+    "option": {
+      "a": "balance budget ",
+      "b": "budget surplus ",
+      "c": "budget deficit ",
+      "d": "fiscal surplus "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 46,
+    "question": "Middlemen in a economy perform the function of ",
+    "option": {
+      "a": "protection ",
+      "b": "hoarding ",
+      "c": "distribution ",
+      "d": "exchange"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 52,
+    "question": "The reason for the law of demand can best be explained in terms of: ",
+    "option": {
+      "a": "supply ",
+      "b": "complementary goods ",
+      "c": "the rationing function of price ",
+      "d": "diminishing marginal utility."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 69,
+    "question": " A monopolist will practice price discrimination in two market if ",
+    "option": {
+      "a": "there is a patent of the commodity ",
+      "b": "There is free flow of information in the market ",
+      "c": "The markets have different elasticity of demand ",
+      "d": "The cost of separating the markets is low."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 75,
+    "question": "A characteristic of a debenture is that ",
+    "option": {
+      "a": "Its yield is based on profit ",
+      "b": "Its yield is a fixed rate of interest ",
+      "c": "It has no redemption date ",
+      "d": "There is a voting when interest is paid "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 80,
+    "question": "In a sole proprietorship decision are made by the ",
+    "option": {
+      "a": "Government ",
+      "b": "Board of directors ",
+      "c": "Management ",
+      "d": "Owners."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 92,
     "question": "A major factor affecting the value of money is the: ",
     "option": {
@@ -46,6 +174,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 129,
+    "question": "Normal profit means;  ",
+    "option": {
+      "a": "All the accountant cost are covered but not all the economist cost  ",
+      "b": "All the economist cost are covered but not all the accountant cost  ",
+      "c": "More than economist cost are covered  ",
+      "d": "None of the economist and Accountant costs is covered "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 133,
@@ -64,6 +208,38 @@
     "examyear": "2012"
   },
   {
+    "id": 136,
+    "question": "The following is not true of price mechanism ",
+    "option": {
+      "a": "Equilibrium price is determined by forces of demand and supply  ",
+      "b": "Individual households and firms pursue personal interest  ",
+      "c": "Producers and consumers are rational in decision making ",
+      "d": "Price control in prominent in the commodity and input markets."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 146,
+    "question": "When the product of any one firm in an industry is not  perceived by consumers as a perfect substitute for the product of any other firm in the same industry, we have ",
+    "option": {
+      "a": "Perfect competition",
+      "b": "Monopoly  ",
+      "c": "Oligopolist ",
+      "d": "Monopolistic competition   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 148,
     "question": "In economics, a commodity is said to have an opportunity cost because  ",
     "option": {
@@ -80,6 +256,54 @@
     "examyear": "2013"
   },
   {
+    "id": 159,
+    "question": "The law of comparative cost and absolute cost advantage are not the same is that; ",
+    "option": {
+      "a": "Former require that one of the countries has absolute advantage in the two goods but latter does not   ",
+      "b": "Former requires one country to have at least absolute advantage in one of the trading goods over the other country but latter does not.",
+      "c": "Former does not require any of the country to have absolute advantage in any of the two goods but latter require that one of the countries should have absolute advantage in all the goods.  ",
+      "d": "Former does not require any of the country to have absolute advantage in any of the two goods but latter require that one of the countries should have absolute advantage in at least one of the goods."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 191,
+    "question": "The difference between the highest and lowest in a set of data is the",
+    "option": {
+      "a": "Range",
+      "b": "median",
+      "c": "variance",
+      "d": "mode"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 192,
+    "question": "In which of the following economic systems is the consumer referred to as King?",
+    "option": {
+      "a": "Capitalist economy",
+      "b": "Socialist economy",
+      "c": "Communist economy",
+      "d": "Mixed Economy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 225,
     "question": "Public expenditure can be financed from all the following sources except",
     "option": {
@@ -94,6 +318,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2001"
+  },
+  {
+    "id": 261,
+    "question": "Which of the following over estimates the value of national income?",
+    "option": {
+      "a": "Incomplete statistical data",
+      "b": "Wrong timing of computation",
+      "c": "Changes in prices of goods within the year",
+      "d": "Double counting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
   },
   {
     "id": 265,
@@ -128,6 +368,54 @@
     "examyear": "2010"
   },
   {
+    "id": 276,
+    "question": "The co-efficient of income elasticity of demand for inferior goods is",
+    "option": {
+      "a": "Positive",
+      "b": "equal to one",
+      "c": "less than one",
+      "d": "negative"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 281,
+    "question": "Price fixed above the equilibrium is to",
+    "option": {
+      "a": "protect agricultural producers",
+      "b": "discourage agricultural producers",
+      "c": "lower the prices of agricultural produce",
+      "d": "favour consumers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 299,
+    "question": "Natural growth rate of population can be defined as the",
+    "option": {
+      "a": "difference between birth rate and death rate",
+      "b": "number of births in a year",
+      "c": "increase in the population growth in a year",
+      "d": "difference between the total population and the death rate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 318,
     "question": "The privatization exercise in Nigeria is a move towards a",
     "option": {
@@ -160,6 +448,38 @@
     "examyear": "2009"
   },
   {
+    "id": 379,
+    "question": "If a consumer plans to spend 120k on four oranges but spent 80k, his consumer surplus is",
+    "option": {
+      "a": "N = 1.50",
+      "b": "N = 1.00",
+      "c": "N = 0.40",
+      "d": "N = 2.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 381,
+    "question": "If  the coefficient of price elasticity of supply is greater than one, the supply is said to be",
+    "option": {
+      "a": "perfectly elastic",
+      "b": "infinitely inelastic",
+      "c": "fairly inelastic",
+      "d": "fairly elastic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 387,
     "question": "The rising portion of the long - run average cost curve of a",
     "option": {
@@ -167,6 +487,22 @@
       "b": "diseconomies of scale",
       "c": "economics of scale",
       "d": "increasing marginal returns"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 409,
+    "question": "One of  the characteristics of  free trade zone is",
+    "option": {
+      "a": "common tariff against non-member countries",
+      "b": "free factor mobility within the zone",
+      "c": "different trade policies of non-member countries",
+      "d": "harmonized trade among member countries"
     },
     "section": "",
     "image": "",
@@ -192,6 +528,22 @@
     "examyear": "2010"
   },
   {
+    "id": 428,
+    "question": "The market supply curve slopes upwards from left to right indicating that",
+    "option": {
+      "a": "at a lower price, more is supplied",
+      "b": "two commodities can be supplied at the same time",
+      "c": "at a lower price, less is supplied",
+      "d": "producers pay high taxes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 432,
     "question": "Which of the following could be  used  to  measure  the efficiency of labour?",
     "option": {
@@ -206,6 +558,54 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2003"
+  },
+  {
+    "id": 435,
+    "question": "If the quantity demanded of a commodity increases from 20 to 30 units when there is an increase in price from 4 naira to 5 naira, the elasticity of demand is",
+    "option": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 460,
+    "question": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the",
+    "option": {
+      "a": "increasing population",
+      "b": "willingness of member to co-operate",
+      "c": "geographical contiguity",
+      "d": "weak trade relations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 466,
+    "question": "The three broad categories of production are",
+    "option": {
+      "a": "direct, secondary and extractive",
+      "b": "primary, tertiary and direct",
+      "c": "primary, secondary and tertiary",
+      "d": "secondary, primary and indirect"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
   },
   {
     "id": 469,
@@ -240,6 +640,38 @@
     "examyear": "2004"
   },
   {
+    "id": 493,
+    "question": "The number of people who are qualified to work and who offer themselves for employment are called",
+    "option": {
+      "a": "migrant labour",
+      "b": "working population",
+      "c": "labour turnover",
+      "d": "mobility of labour"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 516,
+    "question": "When all factor inputs are reduced by half, the production possibility curve will shift",
+    "option": {
+      "a": "outwards",
+      "b": "inwards",
+      "c": "downwards",
+      "d": "upwards"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 526,
     "question": "At the equilibrium price, quantity demanded is",
     "option": {
@@ -263,6 +695,22 @@
       "b": "inelastic",
       "c": "infinitely elastic",
       "d": "zero elastic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 537,
+    "question": "Acceptability, durability, homogeneity and portability are all \tattributes of good",
+    "option": {
+      "a": "markets",
+      "b": "money",
+      "c": "banks",
+      "d": "government"
     },
     "section": "",
     "image": "",
