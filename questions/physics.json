@@ -5344,6 +5344,22 @@
     "examyear": "2023"
   },
   {
+    "id": 504,
+    "question": "On a particular hot day, the temperature is 40°C and the partial pressure of water vapor in the air is 38.8 mmHg. What is the relative humidity?",
+    "option": {
+      "a": "70",
+      "b": "62",
+      "c": "80",
+      "d": "42"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614729/ALOC-Questions/Physics/2023/physics_2023-Q5_snfh7b.png",
+    "answer": "a",
+    "solution": "Given information:\n\nTemperature = 40°C\nPartial pressure of water vapor (actual) = 38.8 mmHg\nSaturated vapor pressure at 40°C (from table) = 55.3 mmHg\nRelative humidity = ?\n\nSolution:\nUsing the relative humidity formula:\nRelative Humidity (RH) = (Actual vapor pressure / Saturated vapor pressure) × 100%\nStep 1: Identify values from the table\nAt 40°C:\n\nSaturated vapor pressure (s.v.p) = 55.3 mmHg\nActual vapor pressure = 38.8 mmHg\n\nStep 2: Calculate relative humidity\nRH = (38.8/55.3) × 100%\nRH = 0.7014 × 100%\nRH = 70.14%\nRH ≈ 70%",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 506,
     "question": "The terminals of a battery of emf 24.0 V and internal resistance of 1.0 Ω is connected to an external resistor 5.0 Ω. Find the terminal p.d.",
     "option": {
@@ -6684,6 +6700,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296136/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_40_e7g2is.png",
     "answer": "d",
     "solution": "\nStep 1: Identify wave characteristics\nBoth waves are sinusoidal with:\n\nSame wavelength (period)\nSame amplitude\nDifferent starting positions (phase shift)\n\nStep 2: Determine the shift\nObserving the waves:\n\nWave P starts at zero and increases\nWave Q reaches its maximum when P is at zero\nThis represents a quarter-cycle shift\n\nStep 3: Express shift in terms of wavelength\nOne complete cycle = 2π radians = 360°\nQuarter cycle shift = 2π/4 = π/2 radians = 90°\nStep 4: Verify the phase difference\nWhen wave P is at:\n\nZero displacement (going up) → Wave Q is at maximum\nMaximum → Wave Q is at zero (going down)\nZero (going down) → Wave Q is at minimum\nMinimum → Wave Q is at zero (going up)\n\nThis confirms a 90° or π/2 phase difference.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 640,
+    "question": "The change in volume when 450kg of ice is completely melted is [density of ice = 900 kgm⁻³, density of water = 1000 kgm⁻³]",
+    "option": {
+      "a": "0.50m³",
+      "b": "0.45m³",
+      "c": "0.05m³",
+      "d": "4.50m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Formula:\nDensity = Mass/Volume\nTherefore: Volume = Mass/Density\nStep 1: Calculate volume of ice\nVᵢ = m/ρᵢ\nVᵢ = 450/900\nVᵢ = 0.5 m³\nStep 2: Calculate volume of water\nVw = m/ρw\nVw = 450/1000\nVw = 0.45 m³\nStep 3: Calculate change in volume\nΔV = Vᵢ - Vw\nΔV = 0.5 - 0.45\nΔV = 0.05 m³\nStep 4: Interpretation\nThe positive value indicates that volume decreases when ice melts.\nIce occupies more volume than the same mass of water.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -10286,6 +10318,22 @@
     "solution": "Given information:\n\nLength (L) = 5.0 m\nCross-sectional area (A) = 2.0 × 10⁻⁶ m²\nResistance (R) = 0.5 Ω\nResistivity (ρ) = ?\n\nFormula for resistance:\nR = ρL/A\nRearranging for resistivity:\nρ = RA/L\nSubstituting values:\nρ = (0.5 × 2.0 × 10⁻⁶)/5.0\nρ = (1.0 × 10⁻⁶)/5.0\nρ = 0.2 × 10⁻⁶\nρ = 2.0 × 10⁻⁷ Ωm",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 1002,
+    "question": "Calculate the total distance covered by a train before coming to rest if its initial speed is 30ms⁻¹ with a constant retardation of 0.1ms⁻²",
+    "option": {
+      "a": "5500m",
+      "b": "4500m",
+      "c": "4200m",
+      "d": "3000m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nInitial velocity (u) = 30 m/s\nFinal velocity (v) = 0 m/s (comes to rest)\nRetardation (deceleration, a) = -0.1 m/s² (negative because it's slowing down)\nDistance (s) = ?\n\nUsing the equation of motion:\nv² = u² + 2as\nSubstituting values:\n0² = 30² + 2(-0.1)s\n0 = 900 - 0.2s\n0.2s = 900\ns = 900/0.2\ns = 4500 m",
+    "examtype": "utme",
+    "examyear": "2012"
   },
   {
     "id": 1003,
