@@ -464,6 +464,22 @@
     "examyear": "2002"
   },
   {
+    "id": 65,
+    "question": "A fixed mass of gas has a  volume of 92cm3 at 30C. What will be be its volume at 180C if the pressure remains constant",
+    "option": {
+      "a": "15.3cm3",
+      "b": "87.3cm3",
+      "c": "97.0cm3",
+      "d": "552.0cm3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 66,
     "question": "The postulate of Dalton’s atomic theory which still holds is that",
     "option": {
@@ -695,6 +711,22 @@
       "b": "-42kJ mol-1",
       "c": "+42 kJ mol-1",
       "d": "+262 kJ mol-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 103,
+    "question": "Which of the following is an electrolyte",
+    "option": {
+      "a": "Alcohol",
+      "b": "Sodium acetate solution",
+      "c": "Solid potassium hydroxide",
+      "d": "Mercury"
     },
     "section": "",
     "image": "",
@@ -1335,6 +1367,22 @@
       "b": "2,,8,4",
       "c": "2,8,5",
       "d": "2,8,1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 194,
+    "question": "How many hydrogen atoms does a single ring cycloalkane have less than the corresponding open- chain alkane",
+    "option": {
+      "a": "Three",
+      "b": "One",
+      "c": "Four",
+      "d": "Two"
     },
     "section": "",
     "image": "",
@@ -2224,6 +2272,22 @@
     "examyear": "2015"
   },
   {
+    "id": 316,
+    "question": "The weakest attractive force that can be observed between two molecules is",
+    "option": {
+      "a": "ionic",
+      "b": "covalent",
+      "c": " co-ordinate covalent",
+      "d": " vander Waals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Van der Waals forces are the weakest attractive forces between molecules, arising from temporary dipoles and induced dipoles. These include London dispersion forces and dipole-dipole interactions.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 318,
     "question": "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays",
     "option": {
@@ -2460,6 +2524,22 @@
     "image": "",
     "answer": "a",
     "solution": "Element 13 is Aluminium (Al) with 13 electrons. Filling in order: 1s²2s²2p⁶3s²3p¹. Total: 2 + 2 + 6 + 2 + 1 = 13 electrons. This matches option A.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 354,
+    "question": "In countries where the temperature fall below 273 K, salt is always spilled on the road in order to",
+    "option": {
+      "a": "increase the boiling point",
+      "b": "increase the density of the ice",
+      "c": "make the ice impure",
+      "d": "reduce the freezing point of ice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Salt (NaCl) is spread on icy roads to reduce the freezing point of water (freezing point depression). Dissolving salt in water lowers its freezing point below 0°C (273 K), causing ice to melt even at sub-zero temperatures and preventing refreezing.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2768,6 +2848,22 @@
     "examyear": "2016"
   },
   {
+    "id": 400,
+    "question": "The diagram represents",
+    "option": {
+      "a": "A spontaneous reaction",
+      "b": "An exothermic reaction",
+      "c": "A non-spontaneous reaction",
+      "d": "An endothermic reaction"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636389/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q46_ayhbpf.png",
+    "answer": "b",
+    "solution": "In the diagram, the reactants are at a higher potential energy level than the products, meaning energy is released during the reaction. This is the profile of an exothermic reaction (ΔH < 0). The activated complex at the peak represents the transition state. An endothermic reaction would show products at a higher energy level than reactants.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 401,
     "question": "The curve depicts titration between",
     "option": {
@@ -2892,6 +2988,38 @@
     "image": "",
     "answer": "a",
     "solution": "Rusting of iron requires both oxygen (O₂) and water (H₂O). Oxygen acts as the oxidizing agent converting Fe to Fe²⁺/Fe³⁺, while water acts as the electrolyte that facilitates the electrochemical corrosion process. In the complete absence of either, rusting does not occur.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 417,
+    "question": "The oxidation number of iodine in KIO₃ is",
+    "option": {
+      "a": "7",
+      "b": "3",
+      "c": "5",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In KIO₃: K = +1, O = -2. Let I = x. +1 + x + 3(-2) = 0 → 1 + x - 6 = 0 → x = +5. The oxidation number of iodine in KIO₃ is +5.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 424,
+    "question": "When ΔH is negative, a reaction is said to be",
+    "option": {
+      "a": "endothermic",
+      "b": "exothermic",
+      "c": "reversible",
+      "d": "ionic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A negative ΔH (enthalpy change) means the products have lower energy than the reactants, so heat is released to the surroundings. This defines an exothermic reaction. A positive ΔH indicates an endothermic reaction where heat is absorbed from the surroundings.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3180,6 +3308,22 @@
     "image": "",
     "answer": "d",
     "solution": "NaOH is a strong base: [OH⁻] = 0.001 = 10⁻³ mol dm⁻³. pOH = -log(10⁻³) = 3. pH = 14 - pOH = 14 - 3 = 11.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 462,
+    "question": "To what temperature must a gas at 273 K be heated in order to double both its volume and pressure?",
+    "option": {
+      "a": "298 K",
+      "b": "546 K",
+      "c": "819 K",
+      "d": "1092 K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using the general gas law: P₁V₁/T₁ = P₂V₂/T₂. Let P₂ = 2P₁ and V₂ = 2V₁. Then T₂ = T₁ × (P₂V₂)/(P₁V₁) = 273 × (2 × 2)/1 = 273 × 4 = 1092 K.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3920,6 +4064,22 @@
     "examyear": "2020"
   },
   {
+    "id": 571,
+    "question": "The number of molecules of Carbon(iv)Oxide produced when 10.0g of CaCO₃ is treated with 0.2dm³ of 1 Mole of HCl in the equation CaCO₃ + 2HCl ⇒ CaCl₂ + H₂O + CO₂ is?",
+    "option": {
+      "a": "1.00 × 10²³",
+      "b": "6.02 × 10²³",
+      "c": "6.02 × 10²²",
+      "d": "6.02 × 10²⁴"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Moles of CaCO₃ = 10/100 = 0.1 mol. Moles of HCl = 1 × 0.2 = 0.2 mol. From the equation, 1 mol CaCO₃ needs 2 mol HCl. For 0.1 mol CaCO₃, 0.2 mol HCl is needed — HCl is the limiting reagent exactly. Moles of CO₂ produced = 0.1 mol. Number of molecules = 0.1 × 6.02 × 10²³ = 6.02 × 10²².",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 573,
     "question": "Which of the following gases will rekindle a brightly glowing splint?",
     "option": {
@@ -3980,6 +4140,22 @@
     "image": "",
     "answer": "b",
     "solution": "Helium is the second lightest element, making it ideal for lifting balloons. It is also a noble gas and completely non-combustible, making it much safer than hydrogen (which is equally light but highly flammable). These two properties, lightness and non-combustibility, make helium the preferred gas for observation balloons.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 580,
+    "question": "A gaseous metallic chloride MCl consists of 20.22% of M by mass. The formula of the chloride is? [M = 27, Cl = 35.5]",
+    "option": {
+      "a": "MCl",
+      "b": "MCl₂",
+      "c": "MCl₃",
+      "d": "M₂Cl₆"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let the formula be MClₙ. % of M = 27 ÷ (27 + 35.5n) × 100 = 20.22. Solving: 27 = 0.2022 × (27 + 35.5n) → 27 = 5.459 + 7.178n → 21.541 = 7.178n → n = 3. The formula is MCl₃. (M = 27 is aluminium, Al, so the compound is AlCl₃.)",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -4252,6 +4428,22 @@
     "image": "",
     "answer": "c",
     "solution": "Argon (Ar) is the most abundant noble (rare) gas in the atmosphere, making up approximately 0.93% of dry air by volume. It is the third most abundant gas in the atmosphere after nitrogen and oxygen. Helium, neon, and xenon are present in much smaller quantities.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 619,
+    "question": "The nucleus of a hydrogen atom consists of a?",
+    "option": {
+      "a": "1 proton only",
+      "b": "1 proton, 2 neutrons",
+      "c": "1 neutron only",
+      "d": "1 electron only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The most common isotope of hydrogen (protium, ¹H) has an atomic number of 1, meaning its nucleus contains exactly 1 proton and no neutrons. The single electron orbits outside the nucleus. Deuterium (²H) has 1 proton and 1 neutron, and tritium (³H) has 1 proton and 2 neutrons, but the ordinary hydrogen atom nucleus contains only 1 proton.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -4636,6 +4828,22 @@
     "image": "",
     "answer": "c",
     "solution": "The enthalpy of neutralization is highest when both the acid and base are strong. The neutralization of a strong acid (HCl) with a strong base (NaOH) involves the simple combination of H⁺ and OH⁻ ions: H⁺ + OH⁻ → H₂O, releasing approximately −57.3 kJ/mol. Reactions involving weak acids or weak bases release less energy because energy is partly used to ionise the weak electrolyte. NaOH + HCl gives the highest ΔH in magnitude.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 661,
+    "question": "The pollutant usually present in a city which generates its electricity from coal?",
+    "option": {
+      "a": "fog",
+      "b": "carbon(ii)oxide",
+      "c": "smog",
+      "d": "sulphur(iv)oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Coal contains significant amounts of sulphur. When coal is burned to generate electricity, sulphur is oxidised to sulphur(IV) oxide (SO₂). SO₂ is the primary pollutant associated with coal-burning power stations. It causes acid rain and respiratory problems. Smog results from photochemical reactions, and CO is produced from incomplete combustion rather than coal-burning power stations specifically.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -5056,6 +5264,22 @@
     "examyear": "2023"
   },
   {
+    "id": 702,
+    "question": "What is the molar mass of water (H₂O)?",
+    "option": {
+      "a": "18 g/mol",
+      "b": "22 g/mol",
+      "c": "16 g/mol",
+      "d": "12 g/mol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Molar mass of H₂O = (2 × atomic mass of H) + (atomic mass of O) = (2 × 1) + 16 = 18 g/mol. This means one mole of water molecules has a mass of 18 grams.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 703,
     "question": "What is the chemical formula of rust, which is formed on the surface of iron in the presence of oxygen and moisture?",
     "option": {
@@ -5260,6 +5484,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Biuret test detects the presence of proteins (peptide bonds). When dilute sodium hydroxide and a few drops of copper(II) sulphate solution are added to a protein solution, a purple/violet colour develops. The colour results from the coordination of Cu²⁺ ions with the peptide bonds (–CO–NH–) in the protein chain. No colour change occurs with carbohydrates, amines, or esters.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 727,
+    "question": "A gas when mixed with oxygen, it produces a very hot and easily controllable flame. What is the name of the flame and where is it used?",
+    "option": {
+      "a": "Acetylene flame; miners' lamp",
+      "b": "Oxy-ethylene; hunters' torch",
+      "c": "Oxy-ethylene flame; miners' lamp",
+      "d": "Oxy-ethylene flame; cutting and welding metals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ethyne (acetylene, C₂H₂) mixed with oxygen produces the oxyacetylene (oxy-ethylene) flame, which burns at over 3000°C. This extremely hot flame is easily controllable and is used industrially for cutting and welding metals. It is not used in miners' lamps or hunters' torches.",
     "examtype": "utme",
     "examyear": "2024"
   },
