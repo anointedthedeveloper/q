@@ -1056,6 +1056,22 @@
     "examyear": "2010"
   },
   {
+    "id": 72,
+    "question": "A mass of 0.5kg is attached to one end of a helical spring and produces an extension of 2.5cm. The mass now set into vertically oscillation of amplitude 10mm. The period of oscillation is: (g = 10m/s2) ",
+    "option": {
+      "a": "0.33s ",
+      "b": "100s ",
+      "c": "200s ",
+      "d": "280s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 73,
     "question": "A boat is passing under a bridge. The deck of the boat is 15m below the bridge. A small package is to be dropped from the bridge onto the deck of the boat is 25m from just below the drop point. What speed is necessary to have the package land in the boat? (g= 9.8ms-2)",
     "option": {
@@ -7868,6 +7884,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614955/ALOC-Questions/Physics/2023/physics_2023-Q32_awom7h.png",
     "answer": "a",
     "solution": "Given information:\n\nMass of block, m = 0.5 kg\nPosition of block (C) = 40 cm mark\nPosition of pivot (E) = 90 cm mark\nPosition of string (D) = 60 cm mark\nAngle of string = 30° to the horizontal\ng = 10 m/s²\n\nSolution:\nStep 1: Calculate weight of block\nW = mg\nW = 0.5 × 10\nW = 5 N (acting downward at C)\nStep 2: Determine perpendicular distances from pivot E\nDistance from E to C:\ndC = 90 - 40 = 50 cm = 0.50 m\nDistance from E to D:\ndD = 90 - 60 = 30 cm = 0.30 m\nStep 3: Resolve tension into vertical component\nThe vertical component of tension creates the moment:\nTvertical = T sin 30° = T × 0.5 = 0.5T\nStep 4: Apply principle of moments (about pivot E)\nFor equilibrium, clockwise moment = anticlockwise moment\nMoment due to weight = Moment due to tension\nW × dC = Tvertical × dD\n5 × 0.50 = 0.5T × 0.30\n2.5 = 0.15T\nStep 5: Solve for tension\nT = 2.5/0.15\nT = 16.67 N",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 532,
+    "question": "A 35 kΩ is connected in series with a resistance of 40 kΩ. What resistance R must be connected in parallel with the combination so that the equivalent resistance is equal to 25 kΩ?",
+    "option": {
+      "a": "40 kΩ",
+      "b": "37.5 kΩ",
+      "c": "45.5 kΩ",
+      "d": "30 kΩ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nResistance 1, R₁ = 35 kΩ\nResistance 2, R₂ = 40 kΩ\nEquivalent resistance, Req = 25 kΩ\nUnknown parallel resistance, R = ?\n\nSolution:\nStep 1: Calculate series resistance\nWhen R₁ and R₂ are connected in series:\nRseries = R₁ + R₂\nRseries = 35 + 40\nRseries = 75 kΩ\nStep 2: Apply parallel resistance formula\nResistance R is connected in parallel with Rseries to give Req:\n1/Req = 1/Rseries + 1/R\nStep 3: Substitute known values\n1/25 = 1/75 + 1/R\nStep 4: Solve for R\n1/R = 1/25 - 1/75\n1/R = 3/75 - 1/75\n1/R = 2/75\nR = 75/2\nR = 37.5 kΩ",
     "examtype": "utme",
     "examyear": "2023"
   },
