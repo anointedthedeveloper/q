@@ -2112,6 +2112,22 @@
     "examyear": "2015"
   },
   {
+    "id": 137,
+    "question": "The general gas law can be written as",
+    "option": {
+      "a": "PV ÷ T = a constant",
+      "b": "PV = a constant",
+      "c": " v/t = a constant",
+      "d": " p/T = a constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Formula for general gas law\n\nV × 1/T × P\n\nN [(PV) ÷ T] = K is constant",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 138,
     "question": "A motor boy of a driver saw what seems to appear to be a pool of water a head of him, while his driver drives a new truck on a sunny day. Which of the following explains his observation?",
     "option": {
@@ -5852,6 +5868,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nCurrent (I) = 1A (r.m.s value)\nFrequency (f) = 800 Hz\nInductance (L) = 2.5mH = 2.5 × 10⁻³ H\nResistance (R) = 5Ω\nPower absorbed = ?\n\nKey principle:\nIn an AC circuit with resistance and inductance:\n\nPower is dissipated only in the resistance\nInductance stores and returns energy (no net power dissipation)\n\nFormula for power absorbed:\nP = I²R\nNote: The inductance affects impedance and phase angle but doesn't dissipate power.\nCalculating power:\nP = I²R\nP = (1)² × 5\nP = 1 × 5\nP = 5W",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 379,
+    "question": "In semi-conductor, the carriers of current at room temperature are",
+    "option": {
+      "a": "electrons only",
+      "b": "electrons and holes",
+      "c": " holes only",
+      "d": " electron and ions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Electron and holes represents the negative and positive charge respectively.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -17644,6 +17676,22 @@
     "image": "",
     "answer": "d",
     "solution": "Electrical conduction in semiconductors occurs via electrons and holes.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1144,
+    "question": "If the critical angle for a glass–air boundary is 45°, what is the refractive index of the glass?",
+    "option": {
+      "a": "√2",
+      "b": "√5",
+      "c": "√3",
+      "d": "2√2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nCritical angle, C = 45°\nRefractive index of air = 1 (approximately)\n\nSolution:\n\nStep 1: Relationship between critical angle and refractive index\nWhen light travels from a denser medium (glass) to a less dense medium (air), the refractive index n of the denser medium is given by:\nn = 1 / sin C\n\nStep 2: Substitute the value\nsin 45° = √2 / 2 = 1/√2\nn = 1 / (1/√2) = √2",
     "examtype": "utme",
     "examyear": "2025"
   },
