@@ -9232,6 +9232,22 @@
     "examyear": "2019"
   },
   {
+    "id": 727,
+    "question": "Given:\nOrdinary share dividend ₦100,000, General reserve ₦4,100, Net profit b/d ₦27,370, corporation tax ₦2,500, Profit and loss ₦28,200, Interim ordinary dividend ₦4,050, Goodwill 20,50 provide for preference Dividend ₦2100 and Final ordinary Dividend of 5% and also write off Goodwill at ₦1500.\nThe retained profit in the Appropriation account is",
+    "option": {
+      "a": " ₦55,570",
+      "b": "₦36,320",
+      "c": " ₦50,000",
+      "d": "₦30,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Ordinary share dividend = 5% × 10,000 = 5000\nRetained profit = (27,370 + 28,000 - 4100 + 1500 - 4050 + 5000 + 2100 + 2500)\n⇒ 55,570 - 19,250 = ₦36,320",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 728,
     "question": "Retained profits is an example of",
     "option": {
@@ -14540,6 +14556,22 @@
     "image": "",
     "answer": "b",
     "solution": "A Development Fund Warrant authorizes expenditure from the development (capital) fund and is used to finance capital projects. The provisional general warrant and supplementary warrant relate to recurrent or additional votes, while reserved expenditure warrants are for specific reserved charges—not the normal capital development fund.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1155,
+    "question": "For the purpose of conversion of a partnership to a company, a total purchase consideration of ₦3.6m was paid. If 30% of the purchase consideration was in cash and the rest by 50k shares, how many shares issued?",
+    "option": {
+      "a": "₦1,080 000",
+      "b": " ₦2 160 000",
+      "c": "₦3 600 000",
+      "d": "₦5 040 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Total purchase consideration = ₦3,600,000\nCash portion (30%) = 0.30 × 3,600,000 = ₦1,080,000\nAmount paid by shares = 3,600,000 − 1,080,000 = ₦2,520,000\n\nIf each share = ₦0.50 (50kobo), number of shares issued = 2,520,000 ÷ 0.50 = 5,040,000 shares",
     "examtype": "utme",
     "examyear": "2003"
   },
