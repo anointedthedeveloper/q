@@ -1,5 +1,85 @@
 [
   {
+    "id": 39,
+    "question": "The electromagnetic waves that are sensitive to temperature changes are",
+    "option": {
+      "a": "ultra-violet rays ",
+      "b": "Gamma rays ",
+      "c": "infrared-rays ",
+      "d": "X-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 66,
+    "question": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of ",
+    "option": {
+      "a": "2:01",
+      "b": "1:02",
+      "c": "1:04",
+      "d": "1:16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 96,
+    "question": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)  ",
+    "option": {
+      "a": "142.90C  ",
+      "b": "63.60C  ",
+      "c": "43.00C  ",
+      "d": "00C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 116,
+    "question": "rectangular block measures 40cm x 25cm and made of material of density 7800kg/m3. Calculate the pressure the block exerts on the floor when it stands on the smallest of its surfaces ",
+    "option": {
+      "a": "3.12 x 103N/m2 ",
+      "b": "3.90 x 103N/m2 ",
+      "c": "1.9 x 104N/m2 ",
+      "d": "3.12 x 104N/m2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 117,
+    "question": "A ship sinks to the bottom of a 250m deep lake. The atmospheric pressure over the lake is 1.03 x 105 Pa. Taking the density of water in the lake to be 1000 kg/m3, calculate the pressure exerted on the boat. [acceleration due to gravity = 10 m/s2] ",
+    "option": {
+      "a": "2.60 x 106Pa  ",
+      "b": "2.50 x 106Pa ",
+      "c": "2.60 x 105Pa ",
+      "d": "1.03 x 105Pa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 155,
     "question": "The device in which one circuit controls another, especially if the current in the second circuit is large or dangerous is known as",
     "option": {
@@ -14,6 +94,102 @@
     "solution": "A magnetic relay is the device that allows one circuit to safely control another circuit, especially when dealing with large or dangerous currents.",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 198,
+    "question": "A saturated vapour pressure of a liquid increases when the",
+    "option": {
+      "a": " Temperature of a liquid increases",
+      "b": "Volume of the liquid increases",
+      "c": "Volume of the liquid decreases",
+      "d": "Temperature of the liquid decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Saturated vapor pressure increases when temperature increases.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 257,
+    "question": "From the diagram above, calculate the energy stored in the capacitor",
+    "option": {
+      "a": "4.0 × 10⁻²J",
+      "b": " 4.0 × 10⁻⁴J",
+      "c": " 8.0 × 10⁻⁴J",
+      "d": "8.0 × 10⁻²J"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611037/ALOC-Questions/Physics/2017/2017_Q_28_lvf0sz.jpg",
+    "answer": "b",
+    "solution": "Given information:\n\nCapacitance (C) = 8µF = 8 × 10⁻⁶ F\nVoltage (V) = 10V\nEnergy (E) = ?\n\nFormula for energy stored in a capacitor:\nE = ½CV²\nSubstituting values:\nE = ½ × 8 × 10⁻⁶ × (10)²\nE = ½ × 8 × 10⁻⁶ × 100\nE = ½ × 800 × 10⁻⁶\nE = 400 × 10⁻⁶\nE = 4.0 × 10⁻⁴ J",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 270,
+    "question": "What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh?",
+    "option": {
+      "a": "N80.00",
+      "b": "N45.36",
+      "c": "N65.00",
+      "d": "N57.12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nSeven 40W lamps\nFive 80W lamps\nTime = 12 hours\nCost per kWh = N7.00\nTotal cost = ?\n\nStep 1: Calculate total power\nPower from 40W lamps = 7 × 40 = 280W\nPower from 80W lamps = 5 × 80 = 400W\nTotal power = 280 + 400 = 680W = 0.68kW\nStep 2: Calculate energy consumed\nEnergy = Power × Time\nEnergy = 0.68kW × 12 hours\nEnergy = 8.16 kWh\nStep 3: Calculate total cost\nCost = Energy × Rate\nCost = 8.16 × N7.00\nCost = N57.12",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 275,
+    "question": "The volume of a fixed mass of gas is 10cm3 when its pressure is 400cmHg. Determine the volume of the gas when its pressure is 200cmHg.",
+    "option": {
+      "a": "30cm³",
+      "b": "40cm³",
+      "c": " 50cm³",
+      "d": "20cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial volume (V₁) = 10 cm³\nInitial pressure (P₁) = 400 cmHg\nFinal pressure (P₂) = 200 cmHg\nFinal volume (V₂) = ?\nTemperature constant (fixed mass)\n\nUsing Boyle's Law:\nAt constant temperature: P₁V₁ = P₂V₂\nRearranging:\nV₂ = (P₁V₁)/P₂\nSubstituting values:\nV₂ = (400 × 10)/200\nV₂ = 4000/200\nV₂ = 20 cm³\nExplanation:\nWhen pressure is halved (from 400 to 200 cmHg), the volume doubles (from 10 to 20 cm³), following the inverse relationship in Boyle's Law.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 287,
+    "question": "Cathode rays are",
+    "option": {
+      "a": "High-energy electromagnetic waves",
+      "b": "protons",
+      "c": "neutrons",
+      "d": "streams of electrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cathode rays are streams of electrons observed in vacuum tubes.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 288,
+    "question": "A narrow beam of white light can be split up into different Colours by a glass prism. The correct explanation is that",
+    "option": {
+      "a": "white light Is an electromagnetic wave",
+      "b": "the prism has all the colours of the white light",
+      "c": "different colours of white light travel with different speeds in glass",
+      "d": "white light has undergone total Internal reflection in the prism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Dispersion occurs because different colors (wavelengths) of light travel at different speeds in glass, causing them to refract by different amounts and separate into a spectrum.",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 289,
@@ -32,6 +208,102 @@
     "examyear": "2018"
   },
   {
+    "id": 305,
+    "question": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
+    "option": {
+      "a": "20 years",
+      "b": "10 years",
+      "c": "2 years",
+      "d": "24 years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nTime elapsed (t) = 120 years\nFraction remaining = 1/64\nHalf-life (T½) = ?\n\nUnderstanding radioactive decay:\nAfter each half-life, half of the material remains.\nStep 1: Determine number of half-lives\nFraction remaining = (1/2)ⁿ\nwhere n = number of half-lives\n1/64 = (1/2)ⁿ\nFinding n:\n64 = 2ⁿ\n2⁶ = 2ⁿ\nn = 6\nSo 6 half-lives have passed.\nStep 2: Calculate half-life\nn × T½ = total time\n6 × T½ = 120 years\nT½ = 120/6\nT½ = 20 years",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 322,
+    "question": "A ball of mass 800g moving horizontally with a speed of 5m/s hits a vertical wall and rebounds with the same speed. The impulse experienced by the ball is?",
+    "option": {
+      "a": "0kgm",
+      "b": "2kgm/s",
+      "c": "4kgm/s",
+      "d": "8kgm/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 800g = 0.8 kg\nInitial velocity (u) = +5 m/s (toward wall)\nFinal velocity (v) = -5 m/s (away from wall, opposite direction)\nImpulse = ?\n\nFormula for impulse:\nImpulse = Change in momentum\nImpulse = m(v - u)\nNote: Since the ball reverses direction, we must consider the sign change.\nCalculating:\nImpulse = 0.8 × (-5 - 5)\nImpulse = 0.8 × (-10)\nImpulse = -8 kgm/s\nMagnitude of impulse:\n|Impulse| = 8 kgm/s\nExplanation:\nThe negative sign indicates direction (force acts opposite to initial motion). The magnitude of impulse is 8 kgm/s.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 402,
+    "question": "Consider the three forces acting at O and in equilibrium as shown in the figure. Which of the following equations is/are CORRECT?\nI. P₁ cos θ₁ = P₂ cos θ₂\nII. P₃ = P₁ cos θ₁ + P₂ cos θ₂\nIII. P₁ sin θ₁ = P₂ sin θ₂",
+    "option": {
+      "a": "I only",
+      "b": " II only",
+      "c": "III only",
+      "d": " II and III"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612655/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_23_l9aleb.png",
+    "answer": "d",
+    "solution": "Understanding equilibrium of forces:\nFor three forces in equilibrium at point O, the sum of forces in any direction must equal zero.\nResolving forces:\nHorizontal direction (along P₃):\nP₃ = P₁ cos θ₁ + P₂ cos θ₂\nVertical direction (perpendicular to P₃):\nP₁ sin θ₁ = P₂ sin θ₂\n(upward component of P₁ balances downward component of P₂)\nAnalyzing each statement:\nI. P₁ cos θ₁ = P₂ cos θ₂:\n\nThis would mean horizontal components are equal\nFALSE ✗\nThis ignores P₃, which also has a horizontal component\nThe sum of P₁ cos θ₁ and P₂ cos θ₂ equals P₃, not each other\n\nII. P₃ = P₁ cos θ₁ + P₂ cos θ₂:\n\nTRUE ✓\nHorizontal equilibrium equation\nP₃ balances the horizontal components of P₁ and P₂\n\nIII. P₁ sin θ₁ = P₂ sin θ₂:\n\nTRUE ✓\nVertical equilibrium equation\nUpward and downward vertical components balance\n\nCorrect statements: II and III",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 413,
+    "question": "\nIn an experiment in which molten naphthalene is allowed to cool, the cooling curve in the figure was obtained. The temperature 80°C is known as the",
+    "option": {
+      "a": "Cooling temperature",
+      "b": "Boiling point",
+      "c": "Melting point",
+      "d": "Vaporization point"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612725/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_34_giruq4.jpg",
+    "answer": "c",
+    "solution": "Understanding the cooling curve:\nFrom the graph:\n\nTemperature starts at ~100°C\nDrops rapidly to ~80°C\nRemains constant at 80°C for several minutes (flat horizontal section)\nThen continues dropping below 80°C\n\nWhat happens at the flat section:\nThe horizontal plateau at 80°C indicates a phase change is occurring:\n\nTemperature remains constant while naphthalene changes from liquid to solid\nDuring solidification, latent heat is released\nThis heat release keeps temperature constant until all liquid has solidified\n\nIdentifying the temperature:\nThe temperature at which a substance changes from liquid to solid (or solid to liquid) is called the melting point (or freezing point - same temperature).\nFor naphthalene: 80°C is the temperature where:\n\nLiquid naphthalene solidifies (when cooling)\nSolid naphthalene melts (when heating)",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 426,
+    "question": "A given mass of gas has a pressure of 80 Nm⁻² at a temperature of 47°C. If the temperature is reduced to 27°C with volume remaining constant, the new pressure is?",
+    "option": {
+      "a": "46.0 Nm⁻²",
+      "b": "75.0 Nm⁻²",
+      "c": "80.0 Nm⁻²",
+      "d": "85.3 Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial pressure (P₁) = 80 Nm⁻²\nInitial temperature (T₁) = 47°C = 47 + 273 = 320 K\nFinal temperature (T₂) = 27°C = 27 + 273 = 300 K\nVolume constant\nFinal pressure (P₂) = ?\n\nUsing Gay-Lussac's Law (Pressure Law):\nAt constant volume: P₁/T₁ = P₂/T₂\nRearranging to find P₂:\nP₂ = P₁ × (T₂/T₁)\nSubstituting values:\nP₂ = 80 × (300/320)\nP₂ = 80 × 0.9375\nP₂ = 75 Nm⁻²\nExplanation:\nWhen temperature decreases at constant volume, pressure decreases proportionally because the average kinetic energy of gas molecules decreases, resulting in fewer and less forceful collisions with the container walls.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 437,
+    "question": "The inner diameter of a test tube can be measured accurately using a?",
+    "option": {
+      "a": "micrometer screw gauge",
+      "b": "pair of dividers",
+      "c": "meter rule",
+      "d": "pair of vernier calipers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Vernier calipers are also used to measure the internal and external diameters of a tube",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 444,
     "question": "If the stress on a wire is 10⁷ Nm⁻² and the wire is stretched from its original length of 10.00m to 10.05m. The Young's modulus of the wire is?",
     "option": {
@@ -46,6 +318,38 @@
     "solution": "Given information:\n\nStress = 10⁷ Nm⁻²\nOriginal length (L₀) = 10.00 m\nFinal length (L) = 10.05 m\nExtension (ΔL) = 10.05 - 10.00 = 0.05 m\nYoung's modulus (E) = ?\n\nFormula for Young's modulus:\nYoung's modulus (E) = Stress / Strain\nStep 1: Calculate strain\nStrain = Extension / Original length\nStrain = ΔL / L₀\nStrain = 0.05 / 10.00\nStrain = 0.005 = 5 × 10⁻³\nStep 2: Calculate Young's modulus\nE = Stress / Strain\nE = 10⁷ / (5 × 10⁻³)\nE = 10⁷ / 0.005\nE = 10⁷ × 200\nE = 2 × 10⁹ Nm⁻²",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 448,
+    "question": "A piece of substance of specific heat capacity 450 Jkg⁻¹K⁻¹ falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms⁻²]",
+    "option": {
+      "a": "2/9°C",
+      "b": "4/9°C",
+      "c": "9/2°C",
+      "d": " 9/4°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nSpecific heat capacity (c) = 450 J/(kg·K)\nHeight (h) = 20 m\nInitial velocity = 0 (falls from rest)\ng = 10 m/s²\nRise in temperature (ΔT) = ?\n\nPrinciple: Energy Conservation\nAll gravitational potential energy is converted to heat energy.\nStep 1: Calculate potential energy lost\nPE = mgh\nPE = m × 10 × 20\nPE = 200m J\nStep 2: Calculate heat gained\nHeat gained = mcΔT\nHeat = m × 450 × ΔT\nStep 3: Apply energy conservation\nPE lost = Heat gained\n200m = m × 450 × ΔT\nDividing both sides by m:\n200 = 450 × ΔT\nSolving for ΔT:\nΔT = 200/450\nΔT = 20/45\nΔT = 4/9°C\nDecimal value:\nΔT = 4/9 ≈ 0.44°C",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 465,
+    "question": "Tyres are treaded to?",
+    "option": {
+      "a": " increase weight of tyres",
+      "b": " increase friction",
+      "c": " increase its longevity",
+      "d": " look good"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Tyres are treaded to increase friction (grip/traction) between the tyre and the road surface, especially in wet or slippery conditions, which is crucial for vehicle safety and control.",
+    "examtype": "utme",
+    "examyear": "2022"
   },
   {
     "id": 481,
@@ -64,6 +368,86 @@
     "examyear": "2022"
   },
   {
+    "id": 484,
+    "question": "Which of these is a second-class lever?",
+    "option": {
+      "a": "sugar tongs",
+      "b": "claw hammer",
+      "c": "plier",
+      "d": "wheelbarrow"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Examples of first class levers are pliers, scissors, a crow bar, a claw hammer, a see-saw and a weighing balance.\n\nA wheelbarrow, a bottle opener, and an oar are examples of second class levers",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 498,
+    "question": "The mercury column in the barometer at notational  atmospheric pressure has a height of?",
+    "option": {
+      "a": " 0.76 cm at see level",
+      "b": "760 cm at sea level",
+      "c": " 7.6 cm at sea level",
+      "d": "76 cm at sea level"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Recall standard atmospheric pressure\nStandard atmospheric pressure at sea level:\n\n1 atmosphere (atm)\n101,325 Pa\n760 mmHg (millimeters of mercury)\n\nStep 2: Convert to appropriate units\n760 mmHg = 760 mm\nConvert to centimeters:\n760 mm = 760/10 cm = 76 cm",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 521,
+    "question": "Which of the following thermometers measures temperature from the thermal radiation emitted by objects?",
+    "option": {
+      "a": " Pyrometer thermometer",
+      "b": "Platinum resistance thermometer",
+      "c": "Thermocouple thermometer",
+      "d": "Constant pressure gas thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A pyrometer is a type of remote-sensing thermometer used to measure the temperature of a surface. It does this by measuring the thermal radiation or infrared energy being emitted from the object. Therefore, a pyrometer thermometer measures temperature from the thermal radiation emitted by objects.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 565,
+    "question": "Electrolysis can be investigated using ",
+    "option": {
+      "a": "Voltmeter",
+      "b": "Ammeter",
+      "c": "Galvanometer",
+      "d": "Voltameter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A voltameter measures the amount of substance that is deposited during electrolysis, allowing for the study of the electrochemical process. It provides information about the quantity of electric charge passed through the electrolyte and the resulting chemical changes. Voltameter is also called an Electrolytic cell.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 641,
+    "question": "Tea pots are often silver-coated to prevent heat loss by",
+    "option": {
+      "a": "conduction only",
+      "b": "convention only",
+      "c": " convection and conduction",
+      "d": "radiation only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Teapots are often silver-coated to prevent heat loss by reflecting infrared radiation. Silver is a good reflector of thermal radiation, which helps to minimize heat loss from the teapot, keeping the contents warm for a longer period.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 670,
     "question": "The process whereby the molecules of different substances move randomly is called?",
     "option": {
@@ -76,6 +460,22 @@
     "image": "",
     "answer": "d",
     "solution": "Diffusion is the process by which molecules move from an area of higher concentration to an area of lower concentration. This movement occurs due to the random motion of particles, leading to an even distribution of substances over time.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 691,
+    "question": "The figure above shows three capacitors, 2μF, 3μF and 6μF connected in series. If the p.d across the system is 12V, the p.d across the 6μF capacitor is",
+    "option": {
+      "a": "4V",
+      "b": "12V",
+      "c": "2V",
+      "d": "6V"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296800/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_42_f6paqx.png",
+    "answer": "c",
+    "solution": "Given information:\n\nC₁ = 2 μF\nC₂ = 3 μF\nC₃ = 6 μF\nTotal voltage, V = 12 V\nCapacitors in series\n\nSolution:\nStep 1: Key principle for series capacitors\nIn series, all capacitors have the same charge:\nQ = Q₁ = Q₂ = Q₃\nStep 2: Find equivalent capacitance\nFor series capacitors:\n1/Cₑq = 1/C₁ + 1/C₂ + 1/C₃\n1/Cₑq = 1/2 + 1/3 + 1/6\n1/Cₑq = 3/6 + 2/6 + 1/6 = 6/6 = 1\nCₑq = 1 μF\nStep 3: Calculate total charge\nQ = Cₑq × V\nQ = 1 × 12 = 12 μC\nStep 4: Calculate voltage across 6μF capacitor\nV₃ = Q/C₃\nV₃ = 12/6\nV₃ = 2 V",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -144,6 +544,150 @@
     "examyear": "2007"
   },
   {
+    "id": 799,
+    "question": "A photon of wavelength 6.0 × 10⁻⁷ m behaves like a particle of a certain mass. The value of that mass is [h = 6.63 × 10⁻³⁴ Js, c = 3.0 × 10⁸ ms⁻¹]",
+    "option": {
+      "a": " 3.7 × 10⁻³⁶ kg",
+      "b": "2.2 × 10⁻³⁵ kg",
+      "c": " 1.1 × 10⁻³⁵ kg",
+      "d": "2.2 × 10⁻⁷ kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nWavelength (λ) = 6.0 × 10⁻⁷ m\nPlanck's constant (h) = 6.63 × 10⁻³⁴ Js\nSpeed of light (c) = 3.0 × 10⁸ m/s\nEffective mass (m) = ?\n\nUnderstanding photon mass:\nAlthough photons have zero rest mass, they have an effective relativistic mass associated with their energy.\nStep 1: Calculate photon energy\nE = hf = hc/λ\nE = (6.63 × 10⁻³⁴ × 3.0 × 10⁸)/(6.0 × 10⁻⁷)\nE = (19.89 × 10⁻²⁶)/(6.0 × 10⁻⁷)\nE = 3.315 × 10⁻¹⁹ J\nStep 2: Calculate effective mass using E = mc²\nm = E/c²\nm = (3.315 × 10⁻¹⁹)/(3.0 × 10⁸)²\nm = (3.315 × 10⁻¹⁹)/(9.0 × 10¹⁶)\nm = 0.368 × 10⁻³⁵\nm = 3.68 × 10⁻³⁶ kg\nm ≈ 3.7 × 10⁻³⁶ kg",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 804,
+    "question": "What is the frequency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s?",
+    "option": {
+      "a": "0.01 Hz",
+      "b": "0.04 Hz",
+      "c": "2.27 Hz",
+      "d": "3.60 Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nNumber of revolutions = 90\nTime (t) = 25 s\nFrequency (f) = ?\n\nFormula for frequency:\nFrequency = Number of revolutions / Time taken\nf = N/t\nSubstituting values:\nf = 90/25\nf = 3.6 Hz",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 806,
+    "question": "Counting of currency notes with moist fingers is based on the principles of?",
+    "option": {
+      "a": "Diffusion",
+      "b": "Cohesion",
+      "c": "Adhesion",
+      "d": "Viscosity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Counting currency notes with moist fingers is based on the principle of adhesion - the attractive force between water molecules (on the finger) and paper molecules (of the note), which creates a grip that helps separate and count individual notes.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 821,
+    "question": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?",
+    "option": {
+      "a": " 3.0 cm",
+      "b": "8.0 cm",
+      "c": "12.0 cm",
+      "d": "16.0 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nObject height = 4 cm\nImage height = 2 cm\nImage distance (camera size) = 6 cm\n\nSolution:\n\nStep 1: Magnification formula for pinhole camera\nMagnification = Image height / Object height = Image distance / Object distance\n\nStep 2: Substitute known values\n2/4 = 6 / u\n1/2 = 6 / u\n\nStep 3: Solve for object distance u\nu = 6 × 2 = 12 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 856,
+    "question": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal, its velocity ratio will be?",
+    "option": {
+      "a": "3.0",
+      "b": "3.1",
+      "c": "3.2",
+      "d": "2.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nInclined plane angle, θ = 30°\n\nSolution:\n\nStep 1: Velocity ratio for an inclined plane\nFor an inclined plane, when the effort is applied parallel to the plane, the velocity ratio (VR) is the ratio of the distance moved by the effort (length of the incline, L) to the distance moved by the load (vertical height, h).\nVR = L / h = 1 / sin θ\n\nStep 2: Calculate sin 30°\nsin 30° = 0.5\n\nStep 3: Compute VR\nVR = 1 / 0.5 = 2.0",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 867,
+    "question": "Metal cables are used as telephone wires because?",
+    "option": {
+      "a": "they are cheap",
+      "b": "they are sourced locally",
+      "c": "the speed of sound in them is very low",
+      "d": " the speed of sound in them is very high"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The speed of sound is highest in solid.\n\nMetals (solids) like copper, steel rod, etc",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 915,
+    "question": "The pressure of one mole of an ideal gas of volume 10⁻² m³ at a temperature of 27°C is [molar gas constant = 8.3 J mol⁻¹ K⁻¹]",
+    "option": {
+      "a": " 2.49 × 10⁴ Nm⁻²",
+      "b": "2.24 × 10⁴ Nm⁻²",
+      "c": "2.49 × 10⁵ Nm⁻²",
+      "d": "2.24 × 10⁵ Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nNumber of moles (n) = 1 mol\nVolume (V) = 10⁻² m³ = 0.01 m³\nTemperature (T) = 27°C = 27 + 273 = 300 K\nMolar gas constant (R) = 8.3 J mol⁻¹ K⁻¹\nPressure (P) = ?\n\nUsing ideal gas equation:\nPV = nRT\nRearranging for pressure:\nP = nRT/V\nSubstituting values:\nP = (1 × 8.3 × 300)/0.01\nP = 2490/0.01\nP = 249,000 N/m²\nP = 2.49 × 10⁵ Nm⁻²",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 984,
+    "question": "The bond between silicon and germanium is",
+    "option": {
+      "a": "covalent",
+      "b": "ionic",
+      "c": "dative",
+      "d": "electrovalent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The bond between silicon and germanium is covalent because both are metalloids from the same group with similar electronegativity values, leading to electron sharing rather than electron transfer.\nPractical application: Silicon-germanium (SiGe) alloys are used in high-speed semiconductor devices, and the covalent bonding between Si and Ge atoms is crucial for their electronic properties.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 998,
+    "question": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is",
+    "option": {
+      "a": "1:3",
+      "b": "2:9",
+      "c": "3:1",
+      "d": "9:1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nR₁ = 5Ω\nR₂ = 10Ω\nVoltage (V) = 24V\n\nPower in Series Arrangement:\nTotal Resistance:\nR_series = R₁ + R₂ = 5 + 10 = 15Ω\nTotal Power:\nP_series = V²/R = (24)²/15 = 576/15 = 38.4 W\nPower in Parallel Arrangement:\nTotal Resistance:\nR_parallel = (R₁ × R₂)/(R₁ + R₂) = (5 × 10)/(5 + 10) = 50/15 = 10/3 ≈ 3.33Ω\nTotal Power:\nP_parallel = V²/R = (24)²/(10/3) = 576 × (3/10) = 1728/10 = 172.8 W\nRatio of Powers:\nP_series : P_parallel = 38.4 : 172.8\nSimplifying:\n= 38.4/172.8\n= 1/4.5\n= 2/9",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 1010,
     "question": "An object of volume 1 m³ and mass 2 kg is totally immersed in a liquid of density 1 kgm⁻³. Calculate its apparent weight.",
     "option": {
@@ -158,5 +702,69 @@
     "solution": "Given information:\n\nVolume of object (V) = 1 m³\nMass of object (m) = 2 kg\nDensity of liquid (ρ_liquid) = 1 kg/m³\ng = 10 m/s² (assumed)\nApparent weight = ?\n\nUnderstanding apparent weight:\nApparent weight = Actual weight - Upthrust (buoyant force)\nStep 1: Calculate actual weight\nWeight = mg\nWeight = 2 × 10\nWeight = 20 N\nStep 2: Calculate upthrust (buoyant force)\nUpthrust = Weight of liquid displaced\nUpthrust = ρ_liquid × V × g\nSubstituting values:\nUpthrust = 1 × 1 × 10\nUpthrust = 10 N\nStep 3: Calculate apparent weight\nApparent weight = Actual weight - Upthrust\nApparent weight = 20 - 10\nApparent weight = 10 N",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 1028,
+    "question": "I. Rays of light travel from a less dense medium to a denser medium.\nII. The angle of incidence is greater than critical angle.\nIII. Rays of light travel from a denser medium to a less dense medium.\n\nWhich of the statements above are conditions for total internal reflection to occur?",
+    "option": {
+      "a": " I and II only",
+      "b": "I and III only",
+      "c": "II and III only",
+      "d": "II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The conditions for total internal reflection are II and III only.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1034,
+    "question": "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is",
+    "option": {
+      "a": "5.0A",
+      "b": "7.1A",
+      "c": "10.0A",
+      "d": "14.1A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nInstantaneous current, I = 10 sin ωt\nPeak current, I₀ = 10 A\n\nSolution:\n\nStep 1: d.c equivalent of a.c current\nThe d.c equivalent (or r.m.s value) of a sinusoidal a.c current is given by:\nI_rms = I₀ / √2\n\nStep 2: Substitute the value\nI_rms = 10 / √2 ≈ 10 / 1.4142 ≈ 7.07 A ≈ 7.1 A",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1090,
+    "question": "The energy in the nucleus of atoms produce heat which can be used to generate",
+    "option": {
+      "a": " Kinetic energy",
+      "b": "Mechanical energy",
+      "c": "Electrical energy",
+      "d": "Potential energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Electrical energy: This is primarily done in nuclear power plants, where the heat generated from nuclear reactions is used to produce steam that drives turbines, ultimately generating electricity.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1145,
+    "question": "The volume of a fixed mass of gas at 0 °C is 200 m³. What is its volume at 273 °C at constant pressure?",
+    "option": {
+      "a": "100 m³",
+      "b": "400 m³",
+      "c": "800 m³",
+      "d": "200 m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nInitial temperature, T₁ = 0 °C = 273 K\nInitial volume, V₁ = 200 m³\nFinal temperature, T₂ = 273 °C = 273 + 273 = 546 K\nPressure is constant.\n\nSolution:\n\nStep 1: Charles' law\nAt constant pressure, V ∝ T (absolute temperature).\nV₁ / T₁ = V₂ / T₂\n\nStep 2: Rearrange to find V₂\nV₂ = V₁ × (T₂ / T₁)\n\nStep 3: Substitute values\nV₂ = 200 × (546 / 273) = 200 × 2 = 400 m³",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]
