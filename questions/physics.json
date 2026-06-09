@@ -1920,6 +1920,22 @@
     "examyear": "2015"
   },
   {
+    "id": 167,
+    "question": "If an object whose mass is 3kg moves in a circular path of a radius 0.7m, records a speed at 2m/s. What is the result of the angular velocity?",
+    "option": {
+      "a": "4 rads⁻¹",
+      "b": "1rads–1⁻¹",
+      "c": "3⁻¹rads⁻¹",
+      "d": "4rads–1⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass (m) = 3 kg\nRadius (r) = 0.7 m\nLinear speed (v) = 2 m/s\nAngular velocity (ω) = ?\n\nFormula for circular motion:\nv = ωr\nwhere:\n\nv = tangential/linear speed\nω = angular velocity\nr = radius\n\nRearranging to find ω:\nω = v/r\nSubstituting values:\nω = 2/0.7\nω = 2.857 rad/s\nRounding to nearest whole number:\nω ≈ 3 rad/s\nAnswer: C. 3 rads⁻¹",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 168,
     "question": "The optical instrument which is suitable for viewing a nearby objects is ………..?",
     "option": {
@@ -4108,6 +4124,22 @@
     "image": "",
     "answer": "a",
     "solution": "The pin-hole camera produces a less sharply defined (blurred) image when the pin-hole is larger because multiple light rays from each object point can pass through, creating overlapping light circles on the screen.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 349,
+    "question": "The pitch of a screw jack is 0.45cm and the arm is 60cm long. If the efficiency of the Jack is 75/π %, calculate the mechanical advantage.",
+    "option": {
+      "a": "400",
+      "b": "300",
+      "c": "200",
+      "d": "150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nPitch (p) = 0.45 cm\nLength of arm (L) = 60 cm\nEfficiency = 75/π %\nMechanical Advantage (M.A) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor a screw jack:\nV.R = 2πL/p\nV.R = (2π × 60)/0.45\nV.R = 120π/0.45\nV.R = 120π × (100/45)\nV.R = 120π × (20/9)\nV.R = 2400π/9\nV.R = 800π/3\nStep 2: Use efficiency formula\nEfficiency = (M.A/V.R) × 100%\n75/π = (M.A/(800π/3)) × 100\n75/π = (M.A × 3 × 100)/(800π)\n75/π = (300 × M.A)/(800π)\nSolving for M.A:\n75/π × (800π/300) = M.A\n75 × 800/300 = M.A\n60,000/300 = M.A\nM.A = 200",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -6848,6 +6880,22 @@
     "examyear": "2024"
   },
   {
+    "id": 580,
+    "question": "The thermometer whose thermometric property is change in volume with temperature is ",
+    "option": {
+      "a": "Resistance thermometer",
+      "b": "Thermocouple",
+      "c": " Bimetallic thermometer",
+      "d": "Liquid-in-glass thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A liquid-in-glass thermometer operates on the principle that liquids (like mercury or alcohol) expand and contract with temperature changes. This change in volume of the liquid causes it to rise or fall in a calibrated glass tube, allowing temperature measurement.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 583,
     "question": "Which of these gas laws is equivalent to workdone",
     "option": {
@@ -7612,6 +7660,22 @@
     "image": "",
     "answer": "c",
     "solution": "Displacement: Has magnitude and direction (e.g., 5m north)\nTorque: Has magnitude and direction (clockwise/counterclockwise, follows right-hand rule)\n\nBoth displacement and torque are vectors.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 655,
+    "question": "In an ideal wheel an axle system, R stand for the radius of the wheel and r is the radius of the axle. the mechanical advantage is",
+    "option": {
+      "a": "(R/r)²",
+      "b": "r/R",
+      "c": "(r/R)²",
+      "d": "R/r"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nRadius of wheel = R\nRadius of axle = r\nMechanical advantage, MA = ?\n\nSolution:\nStep 1: Define mechanical advantage\nMechanical Advantage (MA) = Load/Effort\nFor an ideal machine (100% efficiency):\nMA = Distance moved by effort / Distance moved by load\nStep 2: Analyze wheel and axle system\nIn a wheel and axle:\n\nEffort is applied at the wheel (larger radius R)\nLoad is lifted by the axle (smaller radius r)\n\nStep 3: Calculate distances moved\nFor one complete rotation:\n\nDistance moved by effort = 2πR (circumference of wheel)\nDistance moved by load = 2πr (circumference of axle)\n\nStep 4: Apply MA formula\nMA = Distance moved by effort / Distance moved by load\nMA = 2πR / 2πr\nMA = R/r",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -8412,6 +8476,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nAmmeter resistance, G = 5 Ω\nFull-scale deflection current, Iɡ = 50 mA = 0.05 A\nDesired maximum current, I = 5 A\nShunt resistance, S = ?\n\nSolution:\nStep 1: Understand shunt resistor\nA shunt resistor is connected in parallel with the ammeter to allow most of the current to bypass the ammeter, extending its range.\nStep 2: Current distribution\nTotal current: I = 5 A\nCurrent through ammeter: Iɡ = 0.05 A\nCurrent through shunt: Iₛ = I - Iɡ = 5 - 0.05 = 4.95 A\nStep 3: Voltage across parallel components\nSince ammeter and shunt are in parallel, voltage across both is equal:\nVɡ = Vₛ\nIɡG = IₛS\nStep 4: Substitute values\n0.05 × 5 = 4.95 × S\n0.25 = 4.95S\nStep 5: Solve for shunt resistance\nS = 0.25/4.95\nS = 0.0505 Ω ≈ 0.05 Ω",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 718,
+    "question": "The motion of smoke particles from a chimney is typical of?",
+    "option": {
+      "a": " random motion",
+      "b": " circular motion",
+      "c": "rotational motion",
+      "d": "oscillatory motion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Smoke particles move chaotically and unpredictablely due to their collisions with air molecules, which characterizes random motion.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -11180,6 +11260,22 @@
     "image": "",
     "answer": "d",
     "solution": "Regelation means refreezing a phenomenon whereby melted ice free from increased pressure refreezed when they are released from the pressure.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 969,
+    "question": "A block of aluminum is heated electrically by a 30W heater. If the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is",
+    "option": {
+      "a": "900 JK⁻¹",
+      "b": "90 JK⁻¹",
+      "c": "100 JK⁻¹",
+      "d": "200 JK⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nPower (P) = 30 W\nTemperature rise (ΔT) = 10°C = 10 K\nTime (t) = 5 minutes = 5 × 60 = 300 seconds\nHeat capacity (C) = ?\n\nStep 1: Calculate total heat energy supplied\nEnergy = Power × Time\nQ = P × t\nQ = 30 × 300\nQ = 9000 J\nStep 2: Calculate heat capacity\nHeat capacity is the heat required to raise the temperature by 1K:\nQ = CΔT\nRearranging for C:\nC = Q/ΔT\nSubstituting values:\nC = 9000/10\nC = 900 JK⁻¹",
     "examtype": "utme",
     "examyear": "2011"
   },
