@@ -288,6 +288,22 @@
     "examyear": "2001"
   },
   {
+    "id": 22,
+    "question": "Ethanoic acid is",
+    "option": {
+      "a": "Tribasic",
+      "b": "Unionizeable",
+      "c": "Monobasic",
+      "d": "Dibasic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 24,
     "question": " 2SO2(g) + O2(g) ⇌  2SO3(g)  The equilibrium constant for the reaction above is increased by  [ΔH = -189kJ mol -1]",
     "option": {
@@ -427,6 +443,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 33,
+    "question": "During the vulcanization of rubber, sulphur is added to",
+    "option": {
+      "a": "Break down rubber polymer",
+      "b": "Lengthen the chain of rubber",
+      "c": "Bind rubber molecules together",
+      "d": "Act as a catalyst"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
@@ -4256,6 +4288,22 @@
     "examyear": "2015"
   },
   {
+    "id": 307,
+    "question": "Iron is often galvanized in order to",
+    "option": {
+      "a": "Make it more malleable",
+      "b": "Remove the impurities unit",
+      "c": "Protect it against corrosion",
+      "d": " Render it passive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Iron is galvanized to protect it against corrosion. The zinc coating prevents rust formation by acting as both a physical barrier and a sacrificial anode that corrodes preferentially to the iron beneath.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 308,
     "question": "In the industrial production of H₂ from water gas, the CO₂ produced along with the H₂ is removed by",
     "option": {
@@ -7532,6 +7580,22 @@
     "image": "",
     "answer": "c",
     "solution": "Mole ratio — C: 40.0/12 = 3.33; H: 6.7/1 = 6.7; O: 53.3/16 = 3.33. Divide by smallest (3.33): C:H:O = 1:2:1. Empirical formula = CH₂O. Empirical formula mass = 12 + 2 + 16 = 30. n = 180 ÷ 30 = 6. Molecular formula = C₆H₁₂O₆.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 550,
+    "question": "The IUPAC nomenclature of the compound H₃C - CH(CH₃) - CH(CH₃) - CH₂ - CH₃",
+    "option": {
+      "a": "3,4-dimethylhexane",
+      "b": "2,3-dimethyl pentane",
+      "c": "2-ethyl hexane",
+      "d": "2,3-dimethylhexane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The longest carbon chain: CH₃-CH(CH₃)-CH(CH₃)-CH₂-CH₃ contains 6 carbons (hexane). Methyl groups are on C2 and C3. IUPAC name: 2,3-dimethylhexane. Numbering from the end closest to the substituents gives positions 2 and 3, not 3 and 4.",
     "examtype": "utme",
     "examyear": "2019"
   },
