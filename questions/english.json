@@ -513,6 +513,25 @@
     "category": "others"
   },
   {
+    "id": 40,
+    "question": "A <i>conservative</i> estimate put the number of missing persons at forty.",
+    "option": {
+      "a": "an accurate ",
+      "b": "An incorrect ",
+      "c": "A rough ",
+      "d": "Primitive "
+    },
+    "section": "opposite in meaning to the word(s) or phrase in italics ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 43,
     "question": "The labour leader’s <i>recalcitrant</i> stance was applauded ",
     "option": {
@@ -600,6 +619,25 @@
     "section": "opposite in meaning to the word(s) or phrase in italics ",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 50,
+    "question": "I am <i>loath</i> to do the assignment ",
+    "option": {
+      "a": "unwilling ",
+      "b": "waiting ",
+      "c": "dying ",
+      "d": "willing "
+    },
+    "section": "opposite in meaning to the word(s) or phrase in italics ",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003",
@@ -3876,6 +3914,25 @@
     "category": "others"
   },
   {
+    "id": 310,
+    "question": " <i>Beads</i> of sweat ran down Ngozi's armpit",
+    "option": {
+      "a": "Pools",
+      "b": "Springs   ",
+      "c": "Ponds    ",
+      "d": "Rivulets."
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 311,
     "question": "The noise across the road  <i>drowned</i> the sound of the keyboard in my room",
     "option": {
@@ -5073,6 +5130,25 @@
     "category": "others"
   },
   {
+    "id": 412,
+    "question": "The popularity of the military dictator <i>waned</i>  after war ",
+    "option": {
+      "a": "increased ",
+      "b": "changed ",
+      "c": "declined ",
+      "d": "skyrocketed."
+    },
+    "section": "choose the option nearest in meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 415,
     "question": "Last Tuesday, Ochonu asked me.........",
     "option": {
@@ -5445,6 +5521,25 @@
     "section": "select the option that best explains the information conveyed in the sentence. ",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 452,
+    "question": "You could have heard the sound, if you weren't asleep.",
+    "option": {
+      "a": "You were not asleep so you heard the sound.",
+      "b": "You were asleep so you did not hear the sound.",
+      "c": "You heard the sound though you were asleep.",
+      "d": "You did not hear the sound though you were not asleep"
+    },
+    "section": "select the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -6338,6 +6433,25 @@
     "section": "choose the appropriate stress pattern from the options. The syllables are written in capital letters.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 518,
+    "question": " management ",
+    "option": {
+      "a": "MAnagement ",
+      "b": "maNAgement",
+      "c": "manaGEment ",
+      "d": "manageMENT"
+    },
+    "section": "choose the appropriate stress pattern from the options. The syllables are written in capital letters.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -7322,6 +7436,25 @@
       "b": "POlitical",
       "c": "poliTlcal",
       "d": "poLltical"
+    },
+    "section": "choose the most appropriate stress pattern from the options. The stressed syllable are written in capital letter(s)",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 592,
+    "question": "satisfactory ",
+    "option": {
+      "a": "satisfacTORY  ",
+      "b": "saTISfactory",
+      "c": "SATisfactory ",
+      "d": "satisFACtory"
     },
     "section": "choose the most appropriate stress pattern from the options. The stressed syllable are written in capital letter(s)",
     "image": "",
@@ -8474,6 +8607,25 @@
     "category": "others"
   },
   {
+    "id": 754,
+    "question": "The Dark Continent was an ...... for Africa? ",
+    "option": {
+      "a": "abuse",
+      "b": "enigma",
+      "c": "eclectic",
+      "d": "epithet"
+    },
+    "section": "<b>In each of questions 41 to 62, fill the gap with the most appropriate option from the list provided.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 58,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 756,
     "question": "You can travel on your own ......?",
     "option": {
@@ -9287,6 +9439,25 @@
     "examtype": "utme",
     "examyear": "2002",
     "questionNub": 45,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 844,
+    "question": "We did not understand what the magistrate said about ........ and battery?",
+    "option": {
+      "a": "acid",
+      "b": "insult",
+      "c": "assault",
+      "d": "touching"
+    },
+    "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 48,
     "hasPassage": 0,
     "category": "others"
   },
@@ -11875,6 +12046,25 @@
     "category": "others"
   },
   {
+    "id": 1118,
+    "question": "Obu dashed out of the school building because",
+    "option": {
+      "a": "His teacher wanted to flog him",
+      "b": "He came top of standard 1,",
+      "c": "His teacher sent him on an errand",
+      "d": "He was given a prize by the headmaster"
+    },
+    "section": "<b>Questions 21 - 30 are based on Chukwuemeka Ike's The Potter's Wheel</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "See page 1",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 26,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1120,
     "question": "According to the novel, Obu was good at",
     "option": {
@@ -14364,6 +14554,25 @@
     "category": "others"
   },
   {
+    "id": 1353,
+    "question": "Because of the hard times, workers live in ___________ poverty\n",
+    "option": {
+      "a": "repulsive",
+      "b": "ridiculous",
+      "c": "abject",
+      "d": "unpardonable"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "c",
+    "solution": "From the above Options, Option C best describes the state of poverty",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 40,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1354,
     "question": "Our chief is very intelligent but he could be <u>parochial</u> in his judgements",
     "option": {
@@ -14721,6 +14930,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 26,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1400,
+    "question": "It may be argued that Chapter Two is titled, \"The Drive\" particularly because...?",
+    "option": {
+      "a": "of the social disparity between the rich and the poor which is unlikely to end",
+      "b": " Aliya's father drove her home from the boarding house",
+      "c": "it indicates the realities and experiences shared during Mr Bello's drive with Aliya",
+      "d": "it was the best atmosphere for Mr Bello to scold Aliya for her wrongdoings"
+    },
+    "section": "<b>Questions are based on Bolaji Abdullahi's \"Sweet Sixteen\"</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "Readers must see through the meanings of words and titles beyond their ordinarily usage where necessary. Aliya's drive home by Mr Bello is relevant not because of the drive but especially because Mr Bello used the opportunity of the informal atmosphere to educate his daughter about sexual maturity and the realities of life pictured by the hawking girls and their aspiration to be great in life.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 27,
     "hasPassage": 0,
     "category": "others"
   },
@@ -16108,6 +16336,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 62,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1547,
+    "question": "choose the option opposite in meaning to the word(s) in italics.\n\n  Everyone testifies to the <i>unique</i> taste of our flavor.",
+    "option": {
+      "a": "Offensive",
+      "b": "Common",
+      "c": "Uncommon",
+      "d": "Sufficient"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 64,
     "hasPassage": 0,
     "category": "others"
   },
@@ -17514,6 +17761,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 48,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1661,
+    "question": "'fam<u>ou</u>s''",
+    "option": {
+      "a": "soup",
+      "b": "cook",
+      "c": "pilot",
+      "d": "colonel"
+    },
+    "section": "For these questions, choose the option that have same vowel sound as the ones represented by the letter (s) underlined\n",
+    "image": "",
+    "answer": "c",
+    "solution": "famous: /ˈfeɪməs/\n\npilot: /ˈpʌɪlət/",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 49,
     "hasPassage": 0,
     "category": "others"
   },
@@ -19034,6 +19300,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 23,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1783,
+    "question": "Joke gave Muhammad a <u>jaunty</u>  smile.",
+    "option": {
+      "a": " A cheerful.",
+      "b": "A discouraging.",
+      "c": "An inviting.",
+      "d": "A frightful."
+    },
+    "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "a",
+    "solution": "jaunty; having or expressing a lively, cheerful, and self-confident manner.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 24,
     "hasPassage": 0,
     "category": "others"
   },
