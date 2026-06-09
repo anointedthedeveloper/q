@@ -576,6 +576,22 @@
     "examyear": "2008"
   },
   {
+    "id": 56,
+    "question": "He shall save his people from their sins. Who is being referred to here? ",
+    "option": {
+      "a": "John the Baptist ",
+      "b": "Elijah ",
+      "c": "Elisha ",
+      "d": "Jesus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 57,
     "question": "Which of the following carried Judah into captivity ",
     "option": {
@@ -635,6 +651,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 62,
+    "question": "Who was the priest that confronted Uzziah in the temple ",
+    "option": {
+      "a": "Zadokaul ",
+      "b": "Phineas ",
+      "c": "Azariah ",
+      "d": "Aaron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -3200,6 +3232,22 @@
     "examyear": "2011"
   },
   {
+    "id": 320,
+    "question": "The prophet who was ordained from the womb for God’s service was",
+    "option": {
+      "a": "Jeremiah",
+      "b": "Isaiah",
+      "c": "Ezekiel",
+      "d": "Hosea."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 321,
     "question": "According to Jeremiah, the anger of God towards Israel would only be reduced by",
     "option": {
@@ -4704,6 +4752,22 @@
     "examyear": "2009"
   },
   {
+    "id": 479,
+    "question": "John’s summary of God’s love for the world is that He",
+    "option": {
+      "a": "sent his son to judge the world righteously.",
+      "b": "created man in his own image with authority.",
+      "c": "made light that the world might walk in it.",
+      "d": "gave his only son to save all believers."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
     "id": 483,
     "question": "Paul wished to retain Onesimus with him but did not do so because",
     "option": {
@@ -5099,6 +5163,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 522,
+    "question": "The action that portrayed Moses as a leader of the Israelites was his",
+    "option": {
+      "a": "request to Pharaoh to spare Israelite’s sons",
+      "b": "disobedience to Pharaoh and escape",
+      "c": "killing of an Egyptian who fought with a Hebrew",
+      "d": "protection of the daughter of Jethro"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2015"
@@ -6528,6 +6608,22 @@
     "examyear": "2011"
   },
   {
+    "id": 684,
+    "question": "Which of the following is not true about spiritual gifts as taught by Paul?",
+    "option": {
+      "a": "Gifts should be used with all modesty",
+      "b": "No gift can be independent of others",
+      "c": "Gifts have nothing to do with the level of one’s faith",
+      "d": "Specific gifts perform specific functions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 685,
     "question": "In his comparison of the human body with the body of Christ, Paul did not mention the",
     "option": {
@@ -7307,6 +7403,22 @@
     "section": "",
     "image": "",
     "answer": " b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 769,
+    "question": "\"Do not be afraid; for I know what you seek, Jesus who was crucified...\" This statement was made__________",
+    "option": {
+      "a": "by Joseph of Arimathea",
+      "b": "to Mary Magdalene and Mary the mother of James",
+      "c": "to Mary Salome, Mary Magdalene and Mary the mother of James",
+      "d": "by Peter, James and John"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -8288,6 +8400,22 @@
     "examyear": "2012"
   },
   {
+    "id": 866,
+    "question": "Jesus’ baptism was significant because it",
+    "option": {
+      "a": "initiated him into Judaism",
+      "b": "cleansed Him from sin",
+      "c": "awakened the messianic spirit in Him",
+      "d": "marked the call into the messianic ministry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 867,
     "question": " “If you are the son of God, throw yourself down from here”This temptation implies that Jesus should",
     "option": {
@@ -9195,6 +9323,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 965,
+    "question": "“... you brood of vipers!  who warned you to flee from the wrath to come?” The “wrath to come” here refers to the ",
+    "option": {
+      "a": "day of confusion.",
+      "b": "judgement day. ",
+      "c": "rejection by God",
+      "d": "burning furnace."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
