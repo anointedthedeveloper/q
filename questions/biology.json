@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "In the egg of bird, the embryo is located in the",
+    "option": {
+      "a": "Chalaza",
+      "b": "Yolk  ",
+      "c": "albumen  ",
+      "d": "embryo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 3,
     "question": "The umbrella-shaped fruiting body of a fully developed mushroom is the",
     "option": {
@@ -87,6 +103,22 @@
       "b": "release of oxygen and the splitting of water",
       "c": "photolysis of water and the production of starch  ",
       "d": "splitting of water into hydrogen ions."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 11,
+    "question": "Organisms I, II, III and IV have surface volume ratios  of 1:2, 1:3, 1:4, 1:5, respectively. The organism that is likely to have the most complex transport system is",
+    "option": {
+      "a": "IV",
+      "b": "III  ",
+      "c": "I  ",
+      "d": "II"
     },
     "section": "",
     "image": "",
@@ -624,6 +656,22 @@
     "examyear": "2004"
   },
   {
+    "id": 52,
+    "question": "The gall bladder of mammal has a duct connected to",
+    "option": {
+      "a": "liver  ",
+      "b": " duodenum  ",
+      "c": "small intestine",
+      "d": "pancreas"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 53,
     "question": "Al living cells require water because it",
     "option": {
@@ -779,6 +827,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 70,
+    "question": "A state in Nigeria that is most susceptible to desert encroachment is",
+    "option": {
+      "a": "Kwara  ",
+      "b": "Taraba  ",
+      "c": "Kaduna",
+      "d": "Katsina"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -1152,6 +1216,22 @@
     "examyear": "2005"
   },
   {
+    "id": 101,
+    "question": "When bacteria swim from cold to warm regions, this is known as",
+    "option": {
+      "a": "negative chemotaxis  ",
+      "b": "positive thermotaxis  ",
+      "c": "positive phototaxis",
+      "d": "negative phototaxis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 103,
     "question": "Which of the following is a homeostatic response in humans?",
     "option": {
@@ -1163,6 +1243,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 105,
+    "question": "At which temperature will cockroaches not survive after 10 days?   ",
+    "option": {
+      "a": "15oC",
+      "b": "19oC  ",
+      "c": "24oC  ",
+      "d": "33oC"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -1984,6 +2080,22 @@
     "examyear": "2007"
   },
   {
+    "id": 169,
+    "question": "The highest level of ecological organization is the",
+    "option": {
+      "a": "niche",
+      "b": "biosphere  ",
+      "c": "population  ",
+      "d": "Ecosystem"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 170,
     "question": "A biotic factor which affects the distribution and abundance of organisms in a terrestrial  habitat is",
     "option": {
@@ -2448,6 +2560,22 @@
     "examyear": "2008"
   },
   {
+    "id": 201,
+    "question": "What will happen when two equal  sized pieces of unripe pawpaw labeled X and Y are dropped into equal volumes of concentrated salt solution and distilled water respectively?  ",
+    "option": {
+      "a": "Pawpaw X will become  turgid  ",
+      "b": "Both  will increase in size",
+      "c": "pawpaw Y will become turgid",
+      "d": "Both will decrease in size"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 202,
     "question": "Exhaled air differs from inhaled air in that it  ",
     "option": {
@@ -2619,6 +2747,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 218,
+    "question": "Genetically modified food products have not become  universally accepted because",
+    "option": {
+      "a": "They are not tasty as others produced  by conventional means",
+      "b": "they are usually costlier than others produced by conventional means",
+      "c": "their  efforts on human consumers is not yet fully understood   ",
+      "d": "the technology can be applied only  in developed  countries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -3483,6 +3627,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 288,
+    "question": "I. Adoption of appropriate nocturnal habits   II. Burrowing   III. adjusting their  internal body temperature   IV. Possession of many sweat pores.\nWhich of the above are ways in which desert animals adapt to extreme heat of environment?  \n",
+    "option": {
+      "a": "I and IV only  ",
+      "b": "II and III only  ",
+      "c": "I and II only  ",
+      "d": "I, II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
