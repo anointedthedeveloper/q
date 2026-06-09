@@ -13927,6 +13927,25 @@
     "category": "others"
   },
   {
+    "id": 1629,
+    "question": "My friend is well off nowadays",
+    "option": {
+      "a": "My friend is financially sound",
+      "b": "My friend is well known to people",
+      "c": "My fiend is now well",
+      "d": "My friend has lost focus"
+    },
+    "section": "For this question, select the option that best explains the information conveyed in the question.",
+    "image": "",
+    "answer": "a",
+    "solution": "well off; wealthy. (in a favourable situation or circumstances).",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 17,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1643,
     "question": "The idea makes me <i>cringe</i>",
     "option": {
