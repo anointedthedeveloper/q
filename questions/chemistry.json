@@ -528,6 +528,22 @@
     "examyear": "2002"
   },
   {
+    "id": 47,
+    "question": "The formula CH2O for ethanoic acid is regarded as its",
+    "option": {
+      "a": "General formula",
+      "b": "Structural formula",
+      "c": "Molecular formula",
+      "d": "Empirical formula"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 48,
     "question": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from",
     "option": {
@@ -878,6 +894,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 75,
+    "question": "What volume of oxygen is produced from the decomposition of 2 moles of KClO3 at s.t.p   [Molar volume of a gas at s.t.p = 22.4 dm3]",
+    "option": {
+      "a": "22.4 dm3",
+      "b": "33.6 dm3",
+      "c": "44.8 dm3",
+      "d": "67.2 dm3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 76,
@@ -5104,6 +5136,38 @@
     "examyear": "2017"
   },
   {
+    "id": 440,
+    "question": "The carbon atoms in ethane are",
+    "option": {
+      "a": "sp² hybridized",
+      "b": "sp³ hybridized",
+      "c": "sp⁴ hybridized",
+      "d": "sp hybridized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Ethane (CH₃-CH₃) contains only C-C and C-H single bonds. Each carbon forms 4 single bonds using sp³ hybridization (one s orbital + three p orbitals combine to form 4 equivalent sp³ hybrid orbitals arranged tetrahedrally). sp² is for alkenes; sp is for alkynes; sp⁴ does not exist.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 441,
+    "question": "According to Charles's law, the volume of a gas becomes zero at",
+    "option": {
+      "a": "-100°C",
+      "b": "-273°C",
+      "c": "-373°C",
+      "d": "0°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Charles's Law states that volume is directly proportional to absolute temperature (V ∝ T in Kelvin). Extrapolating the V-T graph to V = 0 gives T = 0 K, which corresponds to -273°C (absolute zero). At this theoretical temperature, the volume of an ideal gas would be zero.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 442,
     "question": "An oxide XO₂ has a vapour density of 32. What is the atomic mass of X?",
     "option": {
@@ -6432,6 +6496,22 @@
     "examyear": "2020"
   },
   {
+    "id": 557,
+    "question": "Duralumin consists of aluminum, copper and?",
+    "option": {
+      "a": "Zinc and Gold",
+      "b": "Lead and Manganese",
+      "c": "Nickel and Silver",
+      "d": "Manganese and Magnesium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Duralumin is an alloy composed mainly of aluminium, copper, manganese, and magnesium. It is lightweight but strong, widely used in aircraft construction. Zinc, gold, lead, nickel, and silver are not components of duralumin.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 558,
     "question": "An example of a polysaccharide is?",
     "option": {
@@ -6780,6 +6860,22 @@
     "image": "",
     "answer": "c",
     "solution": "Proteins are polymers of amino acids linked by peptide bonds. In acid solution, water molecules break these peptide bonds in a reaction called hydrolysis, producing the constituent amino acids. This is the reverse of condensation polymerisation and is used in protein digestion and laboratory analysis.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 588,
+    "question": "The general formula for the Alkanals is?",
+    "option": {
+      "a": "R₂CO",
+      "b": "RCHO",
+      "c": "ROH",
+      "d": "RCOOR"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Alkanals are aldehydes containing the functional group -CHO at the end of the carbon chain. The general formula is RCHO, where R is an alkyl group. R₂CO represents ketones (alkanones), ROH represents alcohols (alkanols), and RCOOR represents esters (alkanoates).",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -7420,6 +7516,22 @@
     "image": "",
     "answer": "d",
     "solution": "The conversion of SO₂ to SO₃ is the key step in the Contact Process for manufacturing sulphuric acid. The catalyst used in this reaction is vanadium(V) oxide (V₂O₅). It operates at approximately 450°C and increases the rate of oxidation of SO₂ to SO₃ without being consumed in the overall reaction.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 638,
+    "question": "In the preparation of salts, the method employed will depend on the?",
+    "option": {
+      "a": "composition",
+      "b": "dissociating ability",
+      "c": "stability to heat",
+      "d": "precipitating ability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The method used to prepare a salt depends on the solubility and dissociating ability of the salt and its parent acid and base. Soluble salts can be made by neutralisation, titration, or displacement. Insoluble salts are made by precipitation. The dissociating ability (solubility) of the salt in water determines which preparation method is most appropriate.",
     "examtype": "utme",
     "examyear": "2022"
   },
