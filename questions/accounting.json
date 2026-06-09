@@ -176,6 +176,22 @@
     "examyear": "2016"
   },
   {
+    "id": 140,
+    "question": "A receipt is an evidence of",
+    "option": {
+      "a": "payments",
+      "b": "stocking",
+      "c": "delivery",
+      "d": "discounts."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 144,
     "question": "When goods are sent to the branch at cost plus mark­up, it means that the branch should sell at",
     "option": {
@@ -361,6 +377,22 @@
       "d": "Profit and Loss Account, credit Branch Stock Account,"
     },
     "section": "A company charges out goods to a branch at cost plus 25 percent.  It invoiced  N 12,000 worth of goods",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 195,
+    "question": "Which of the following is not a personal account?",
+    "option": {
+      "a": "Bolaji Account",
+      "b": "Drawings Account",
+      "c": "P.Z. Plc Account",
+      "d": "Cash Account"
+    },
+    "section": "",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -1376,6 +1408,22 @@
     "examyear": "2019"
   },
   {
+    "id": 740,
+    "question": "Using the same information extracted from the books of Miliki state where sinking of bore holes cost ₦2,900,000, purchase of motor car ₦920,000, stationery ₦300,000, electricity ₦45,000, purchase of drugs ₦76,000, and purchase of beds ₦425,000, what is the capital expenditure?",
+    "option": {
+      "a": " ₦345,000",
+      "b": "₦3,245,000",
+      "c": "₦421,000",
+      "d": " ₦4,245,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Capital expenditure refers to spending on long-term assets that will benefit the organization for more than one year. These are investments in fixed assets.\nFrom the given items:\n\nSinking of bore holes: ₦2,900,000 (capital - infrastructure development)\nPurchase of motor car: ₦920,000 (capital - fixed asset)\nPurchase of beds: ₦425,000 (capital - durable equipment)\n\nCapital expenditure = ₦2,900,000 + ₦920,000 + ₦425,000 = ₦4,245,000\nTherefore, the capital expenditure is ₦4,245,000.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 742,
     "question": "Abelawo ltd operates a retail branch at Aba. All purchases are made by the head office in Onitsha and goods are charged to the branch at cost plus 50%. During the year ended. Goods sent to branch at invoiced price is ₦30,870, cash sales ₦13,020 and Bad debt amounted to 129. From the following, what is the profit?",
     "option": {
@@ -1452,6 +1500,22 @@
     "image": "",
     "answer": "b",
     "solution": "\nTrade discount (5%) reduces the list cost and isn’t separately recorded in the books:\n\n10 × ₦500 = ₦5,000 ⟹ ₦5,000 × 5% = ₦250\nNet after trade discount = ₦5,000 − ₦250 = ₦4,750.\n\nCash discount (12%) is the one actually recorded as “Discount Received”:\n\n₦4,750 × 12% = ₦570.\nHence, the company will record ₦570 as discount received.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 783,
+    "question": "A major cause of discrepancy between the bank statement and the cashbook that overstates the bank statement balance is the",
+    "option": {
+      "a": "commission paid",
+      "b": " interest received",
+      "c": "direct withdrawal",
+      "d": "direct payment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When the bank credits your account with interest, it appears immediately on the bank statement but isn’t yet recorded in your cashbook. This makes the bank statement balance higher than the cashbook balance until you record the interest in your books.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -2446,6 +2510,22 @@
     "solution": "When goods are transferred to a department at the selling price, the department must separate the cost and the markup. The markup portion is removed from the stock valuation by debiting the Mark-up Account.",
     "examtype": "utme",
     "examyear": "199"
+  },
+  {
+    "id": 1418,
+    "question": "The instrument that are generated when firms enter into business transactions with others are called",
+    "option": {
+      "a": "purchase document",
+      "b": "journals",
+      "c": "source documents",
+      "d": "invoices"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Source documents are the original records of business transactions (such as invoices, receipts, bank statements, purchase orders, etc.) from which accounting entries are made.",
+    "examtype": "utme",
+    "examyear": "1997"
   },
   {
     "id": 1428,
