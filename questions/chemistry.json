@@ -288,6 +288,22 @@
     "examyear": "2001"
   },
   {
+    "id": 27,
+    "question": "As the concentration of an electrolyte reduces, the conductivity",
+    "option": {
+      "a": "Reduces to zero",
+      "b": "Decreases",
+      "c": "Increases",
+      "d": "Is unaffected"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 28,
     "question": "In which of the following reactions has the oxidation number of nitrogen increased",
     "option": {
@@ -1319,6 +1335,22 @@
       "b": "It is an odourless gas",
       "c": "It is an acid anhydride",
       "d": "It forms white precipitate with acidified barium chloride"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 109,
+    "question": "The metal that liberates hydrogen from cold water in bubbles only is",
+    "option": {
+      "a": "Na",
+      "b": "K",
+      "c": "Ca",
+      "d": "Al"
     },
     "section": "",
     "image": "",
@@ -6876,6 +6908,22 @@
     "image": "",
     "answer": "c",
     "solution": "The configuration 3P³ has three electrons distributed across three separate p orbitals (by Hund's rule, each occupies its own orbital before pairing). So 3P³ contributes 3 unpaired electrons. The s orbitals (1S², 2S², 3S²) and 2P⁶ are all fully paired. Total unpaired electrons = 3.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 556,
+    "question": "Which of the following can be obtained by fractional distillation?",
+    "option": {
+      "a": "Nitrogen from liquid air",
+      "b": "Sodium Chloride from sea water",
+      "c": "Iodine from solution of Iodine in carbon tetrachloride",
+      "d": "Sulphur from the solution of sulphur in carbon disulphide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Fractional distillation separates mixtures of liquids with different boiling points. Liquid air is a mixture of nitrogen (b.p. −196°C) and oxygen (b.p. −183°C), separated by fractional distillation. Sodium chloride from sea water requires evaporation/crystallisation. Iodine from CCl₄ and sulphur from CS₂ require simple distillation or evaporation.",
     "examtype": "utme",
     "examyear": "2020"
   },
