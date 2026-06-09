@@ -848,6 +848,22 @@
     "examyear": "1"
   },
   {
+    "id": 69,
+    "question": "The seller of insurance product is",
+    "option": {
+      "a": "Insurer",
+      "b": "Insured",
+      "c": "Broker",
+      "d": "Agent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 72,
     "question": "The risks which affect the society and whose causes are beyond human control is",
     "option": {
@@ -1312,6 +1328,22 @@
     "examyear": "2"
   },
   {
+    "id": 107,
+    "question": "Insurance was developed as a result of the existence of",
+    "option": {
+      "a": "Hazards",
+      "b": "Loss",
+      "c": "Risk",
+      "d": "Indemnity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 108,
     "question": "Which of the following is not a function of insurance?",
     "option": {
@@ -1451,6 +1483,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 117,
+    "question": "There must  be  a  close  connection  between  the loss actually suffered and the risk is relating to the principle  of",
+    "option": {
+      "a": "Abandonment",
+      "b": "Proximate cause",
+      "c": "Utmost good faith",
+      "d": "Adhesion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -1920,6 +1968,22 @@
     "examyear": "3"
   },
   {
+    "id": 153,
+    "question": "The provider of protection to an insurance  company against the excess risk it has given insurance covers is called",
+    "option": {
+      "a": "Assurer",
+      "b": "Insuring",
+      "c": "Reinsurer",
+      "d": "Insurer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 154,
     "question": "---------- is the evidence cover of the risk given to the insured by the insurer",
     "option": {
@@ -2203,6 +2267,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 176,
+    "question": "The person  that  brings  an  insurance  contract into existence  between  the principal  and  third  party is a/an",
+    "option": {
+      "a": "Agent",
+      "b": "Bailee",
+      "c": "Contractor",
+      "d": "Insurer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -3179,6 +3259,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 254,
+    "question": "If the insured does not want the contract to continue he receives",
+    "option": {
+      "a": "surrender value",
+      "b": "consideration",
+      "c": "premium",
+      "d": "commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
