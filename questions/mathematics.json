@@ -3616,6 +3616,22 @@
     "examyear": "2003"
   },
   {
+    "id": 258,
+    "question": "An aeroplane flies due north from airport P to Q and then flies due east R. If Q is equidistant from P and R, find the bearing of P and R",
+    "option": {
+      "a": "90°",
+      "b": "135°",
+      "c": "225°",
+      "d": "270°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Since PQ = QR, Δ PQR is a right angle isosceles triangle\n∴ ∠PQR = 45°\n=> The bearing of P from R = 180 + 45\n= 225°",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 259,
     "question": "An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc.",
     "option": {
@@ -6700,6 +6716,22 @@
     "image": "",
     "answer": "a",
     "solution": "I=(P×T×R)/100 = (7500 × 8 × 5)/100 = N3000",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 479,
+    "question": "〖log〗<sub>(x<sup>1/2</sup>)</sub><sup>64</sup> = 3,  find the value of x",
+    "option": {
+      "a": "4",
+      "b": "16",
+      "c": "32",
+      "d": "64"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If logx1/264 = 3\n(X 1/2)3 = 64\n(X 1/2)3 = 4 3\nX 1/2 = 4\nX = 42\nX = 16",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -10364,6 +10396,22 @@
     "image": "",
     "answer": "b",
     "solution": "Let f(p) = 6p<sup>3</sup> - p<sup>2</sup> - 47p + 30\n\nThen by the remainder theorem,\n\n(p - 3): f(3) = remainder R,\n\ni.e. f(3) = 6(3)<sup>3</sup> - (3)2 - 47(3) + 30 = R\n\n162 - 9 - 141 + 30 = R\n\n192 - 150 = R\n\nR = 42",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 781,
+    "question": "P varies jointly as m and u, and varies inversely as q. Given that p = 4, m = 3 and u = 2 and q = 1, find the value of p when m = 6, u = 4 and q = 8/5",
+    "option": {
+      "a": "12(8/5)",
+      "b": "15",
+      "c": "10",
+      "d": "28(8/5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "P ∝ mu, p ∝1/q\n\n\np = muk ................ (1)\n\np = 1/qk... (2)\n\nCombining (1) and (2), we get\n\nP = (mu/q)k\n\n\n4 = (m × u/1)k\n\n\ngiving k = 4/6 = 2/3\n\n\nSo, P = mu/q × 2/3 =(2mu/3q)\n\n\nHence, P = (2 × 6 × 4)/(3 ×8/5)\n\n\nP = (2 × 6 × 4 × 5/3 × 8)\n\n\np = 10",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -14412,6 +14460,22 @@
     "image": "",
     "answer": "d",
     "solution": "first work out the expression and then correct the answer to 4 s.f = 241.34..............(A)\n\n(3 x 10<sup>-3</sup>)<sup>2</sup>............(B)\n\n= 3<sup>2</sup>x<sup>2</sup>\n\n\n= 1/10<sup>3</sup>\n x 1/10<sup>3</sup>\n\n\n(Note that x<sup>2</sup> = 1/x<sup>3</sup>)\n\n= 24.34 x 3<sup>2</sup> x 1/10<sup>6</sup>\n\n\n= 2172.06/10<sup>6</sup>\n\n\n= 0.00217206\n\n= 0.002172(4 s.f)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1068,
+    "question": "At what rate would a sum of N100.00 deposited for 5 years raise an interest of N7.50?",
+    "option": {
+      "a": "1/2 %",
+      "b": "2(1/2)%",
+      "c": "1.5%",
+      "d": "25%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Interest I = PRT/100\n\n\n∴ R = (100n×n1)/(100 × 5)\n\n\n= (100 × 7.50)/(500 × 5)\n\n= 750/500\n\n\n= 3/2\n\n\n= 1.5%",
     "examtype": "utme",
     "examyear": "2021"
   },
