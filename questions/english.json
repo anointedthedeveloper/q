@@ -1254,6 +1254,25 @@
     "category": "others"
   },
   {
+    "id": 75,
+    "question": "Cement",
+    "option": {
+      "a": "perfect (adjective)",
+      "b": "include",
+      "c": "interest",
+      "d": "employ(noun)"
+    },
+    "section": "choose the option that has the same stress pattern as the given word.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 76,
     "question": "I shall find time for my ……… when I get …… with this difficult assignment.",
     "option": {
@@ -6137,6 +6156,25 @@
     "category": "others"
   },
   {
+    "id": 376,
+    "question": "It was too cold for him to go out ",
+    "option": {
+      "a": "He had a bad cold, and did not go out,",
+      "b": "Although it was very cold, he still went out ",
+      "c": "As it was very cold, he did not go out",
+      "d": "He was afraid to go out that day."
+    },
+    "section": "select the option that bost explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 378,
     "question": "He wants the meeting to be adjourned,",
     "option": {
@@ -10446,6 +10484,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 52,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 649,
+    "question": "They had to ...... the generator when the electricity failed?",
+    "option": {
+      "a": "light up",
+      "b": "fall back on",
+      "c": "switch on",
+      "d": "resort to"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 53,
     "hasPassage": 0,
     "category": "others"
   },
@@ -17685,6 +17742,25 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 22,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1216,
+    "question": "The matter was considered a <u>private</u> concern of the chairman to handle",
+    "option": {
+      "a": "personal",
+      "b": "known",
+      "c": "public",
+      "d": "open"
+    },
+    "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+    "image": "",
+    "answer": "a",
+    "solution": "Private: belonging to or for the use of one particular person or group of people only.",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 23,
     "hasPassage": 0,
     "category": "others"
   },
