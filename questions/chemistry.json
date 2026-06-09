@@ -384,6 +384,22 @@
     "examyear": "2002"
   },
   {
+    "id": 56,
+    "question": "When a salt loses its water of crystallization to the atmosphere on exposure, the process is said to be",
+    "option": {
+      "a": "Deliquescence",
+      "b": "Effervescence",
+      "c": "Efflorescence",
+      "d": "Fluorescence"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 58,
     "question": "The solubility of a salt of molar mass 101g at 200C is 0.34mol dm-3. If 3.40g of the salt is dissolved completely in 250cm3 of water in a beaker, the resulting solution is",
     "option": {
@@ -567,6 +583,22 @@
       "b": "I and  III",
       "c": "I    and IV",
       "d": "III  and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 85,
+    "question": "When cathode rays are detected onto the electrode of an electrometer, the instrument becomes",
+    "option": {
+      "a": "Negatively charged",
+      "b": "Positively charged",
+      "c": "Neutral",
+      "d": "Bipolar"
     },
     "section": "",
     "image": "",
@@ -3360,6 +3392,22 @@
     "examyear": "2018"
   },
   {
+    "id": 488,
+    "question": "Beryllium and Aluminium have similar properties because they",
+    "option": {
+      "a": "are both metals",
+      "b": "belong to the same group",
+      "c": "belong to the same period",
+      "d": "are positioned diagonally to each other"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Beryllium (Be, Group 2, Period 2) and Aluminium (Al, Group 13, Period 3) exhibit similar chemical properties due to the diagonal relationship in the periodic table. Elements diagonally adjacent show similarities because the increase in period number (↓) and group number (→) have opposing effects on properties, resulting in nearly identical charge density and electronegativity.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 490,
     "question": "(I) 3CuO(s) + 2NH₃(g) → 3Cu(s) + 3H₂O(l) + N₂(g)\n(II) 2NH₃(g) + 3Cl₂(g) → 6HCl(g) + N₂(g)\n(III) 4NH₃(g) + 3O₂(g) → 6H₂O(l) + N₂(g)\nThe reactions represented by the equations above demonstrate the",
     "option": {
@@ -4844,6 +4892,22 @@
     "image": "",
     "answer": "d",
     "solution": "The equilibrium constant Kc is defined as the ratio of product concentrations to reactant concentrations at equilibrium. When a reaction is reversed, products become reactants and vice versa. The Kc for the reversed reaction is therefore 1 divided by the original Kc (its reciprocal). For example, if Kc = 4 for the forward reaction, then Kc = 1/4 = 0.25 for the reverse reaction.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 685,
+    "question": "What is the chemical structure of soap and detergent molecules?",
+    "option": {
+      "a": "Hydrophilic head and hydrophobic tail",
+      "b": "Hydrophilic head and hydrophilic tail",
+      "c": "Hydrophobic head and hydrophobic tail",
+      "d": "Hydrophilic tail and hydrophobic head"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Soap and detergent molecules have a dual structure: a hydrophilic (water-loving) ionic head that dissolves in water, and a long hydrophobic (water-repelling) hydrocarbon tail that dissolves in grease and oil. This dual nature allows them to form micelles around grease particles, suspending them in water so they can be washed away.",
     "examtype": "utme",
     "examyear": "2023"
   },
