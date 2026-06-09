@@ -4208,6 +4208,22 @@
     "examyear": "1999"
   },
   {
+    "id": 330,
+    "question": "Naturalization is a process of acquiring citizenship by",
+    "option": {
+      "a": "persons of dual nationality",
+      "b": "foreign visitors to a country",
+      "c": "resident foreigners of good character",
+      "d": "persons born abroad."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 331,
     "question": "The ideology which states that each person is the best judge of what is in his self-interest is",
     "option": {
@@ -4539,6 +4555,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 359,
+    "question": "During the civil war, the major power that expressed moral support for Biafra’s self-determination was",
+    "option": {
+      "a": "Great Britain",
+      "b": "the United States",
+      "c": "China",
+      "d": "France"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -16572,6 +16604,22 @@
     "image": "",
     "answer": "c",
     "solution": "The Organization of African Unity (OAU), founded in 1963, achieved its most significant success in advancing the decolonization of Africa",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1299,
+    "question": "An indication that Africa is still the center-peice of Nigeria's foreign policy was the creation of the",
+    "option": {
+      "a": " Ministry of Integration and Cooperation in Africa",
+      "b": "National Institute of Policy and Strategic Studies",
+      "c": "Ministry of Foriegn Affairs",
+      "d": "Nigerian Institute of International Affairs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An indication that Africa is still the center-peice of Nigeria's foreign policy was the creation of the National Institute of Policy and Strategic Studies",
     "examtype": "utme",
     "examyear": "2005"
   },
