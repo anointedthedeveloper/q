@@ -48,6 +48,22 @@
     "examyear": "2011"
   },
   {
+    "id": 63,
+    "question": " An expenditure whose benefit is finished or enjoyed immediately is called: ",
+    "option": {
+      "a": "Expense   ",
+      "b": "Liability ",
+      "c": "Cost ",
+      "d": "Income"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 69,
     "question": "A debit balance of Nl50,000 in a cash account   shows   that   ",
     "option": {
@@ -224,6 +240,22 @@
     "examyear": "2016"
   },
   {
+    "id": 153,
+    "question": "The total cash and cheques received from customers in a control account is derived from the",
+    "option": {
+      "a": "income and expenditure account",
+      "b": "cashbook",
+      "c": "purchases day book",
+      "d": "sales journal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 154,
     "question": "Which of the followings is a credit item in creditors ledger control account?",
     "option": {
@@ -240,6 +272,22 @@
     "examyear": "2016"
   },
   {
+    "id": 157,
+    "question": "Clifford pays rent of  N200 per month for premises. He paid N 2,800 within the year, Compute the prepayment.",
+    "option": {
+      "a": "N300",
+      "b": "N400",
+      "c": "N660",
+      "d": "N200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 160,
     "question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled N800,000. A provision of 2% was made for discount and 5% provision for bad and doubtful debts.  Find the amount for sundry debtors after provision.",
     "option": {
@@ -251,6 +299,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 162,
+    "question": "When the purchase Consideration is lower than the net asset, the buyer has gained the advantage of",
+    "option": {
+      "a": "capital reserve",
+      "b": "revenue reserve",
+      "c": "net-income",
+      "d": "net loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -416,6 +480,22 @@
     "examyear": "2006"
   },
   {
+    "id": 227,
+    "question": "Cross referencing among different books of accounts is achieved with the use of",
+    "option": {
+      "a": "columns",
+      "b": "reference numbers",
+      "c": "folio",
+      "d": "margin."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 245,
     "question": "Using the straight line method, the depreciation charged for year 2002 was",
     "option": {
@@ -496,6 +576,22 @@
     "examyear": "2012"
   },
   {
+    "id": 278,
+    "question": "Which of the following is not an input device?",
+    "option": {
+      "a": "Card reader",
+      "b": "Paper top reader",
+      "c": "Alpha-numeric keyboard",
+      "d": "Line printer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 287,
     "question": "The amount of recurrent expenditure was",
     "option": {
@@ -542,6 +638,38 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
+  },
+  {
+    "id": 304,
+    "question": "Which of the following is not a feature of accounting information?",
+    "option": {
+      "a": "Affordability",
+      "b": "Timeliness",
+      "c": "Accuracy",
+      "d": "Completeness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 305,
+    "question": "Which of the following is the equation for determining net profit or loss from the records of a firm?",
+    "option": {
+      "a": "Closing Capital - Drawings - Capital Introduced",
+      "b": "Opening Capital + Drawings - Closing Capital",
+      "c": "Closing Capital + Opening Capital - Drawings",
+      "d": "Closing Capital + Drawings - Opening Capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
   },
   {
     "id": 309,
@@ -619,6 +747,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 362,
+    "question": "The sum of direct cost in a manufacturing account is",
+    "option": {
+      "a": "production cost",
+      "b": "prime cost",
+      "c": "total cost",
+      "d": "finance cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -912,6 +1056,22 @@
     "examyear": "2016"
   },
   {
+    "id": 568,
+    "question": "Departments K Y\nOpening 2,500 800\nPurchases 120,000 100,000\nSales 180,000 200,000\nSalary 8,000 30,000\nClosing stock 3,000 1,500\nRate expenses of 1,500 are apportioned in the ratio 1:2\n\nThe gross profit for K is",
+    "option": {
+      "a": "₦ 60,700",
+      "b": "₦23,500",
+      "c": "₦60,500",
+      "d": "₦82,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Sales - Cost of Goods Sold = Gross Profit\n\nCOGS = Beginning Inventory + Purchases During the Period – Ending Inventory.\n\nCOGS = 2,500, +  120,000 - 3,000 = 119,500\n\ngross profit for K = 180,000 - 119,500 = 60,500",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 570,
     "question": "The ratio that gives the indication of the efficiency of a firm's sales with respect to cost of goods sold is a",
     "option": {
@@ -972,6 +1132,22 @@
     "image": "",
     "answer": "d",
     "solution": "A cash discount is a deduction allowed by some sellers of goods or by some providers of services in order to motivate customers to pay within a specified time. The cash discount is also referred to as an early payment discount.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 608,
+    "question": "Use the information below to answer the question that follows,\n\nA machine bought for ₦35,000 was estimated to have a life span of 5years with a scrap value of ₦9,000.\nIf the scrap value is now ₦15,000. What will be the yearly depreciation using the straight line method.?",
+    "option": {
+      "a": "₦11,000",
+      "b": " ₦7,000",
+      "c": "₦4,000",
+      "d": "₦24,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "subtract the revised scrap value (₦15,000) from the original cost (₦35,000) to get ₦20,000, then divide by the machine’s 5-year lifespan. Thus, annual depreciation is ₦20,000 ÷ 5 = ₦4,000 per year.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1068,6 +1244,22 @@
     "image": "",
     "answer": "b",
     "solution": "the amount called by the company which is not paid by the shareholders before the due date fixed for payment\n\n ",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 674,
+    "question": "A business has the following balance sheet as at the beginning of the year: Capital ₦40,000, Furnishing ₦10,000, Ceiling Fan ₦1,500, and Cash in Hand ₦28,500, with total assets and liabilities both equaling ₦40,000.\nDuring the year ending 31/1/95, the following transactions occurred:\n\nRent for shop ₦12,000 paid for the year\nTotal purchases ₦15,000\nTotal sales ₦8,200\nStock of goods left ₦10,000\nPaid sales boy ₦500\n\nWhat is the new balance sheet total as at 31/1/95?",
+    "option": {
+      "a": " ₦39,700",
+      "b": " ₦40,000",
+      "c": " ₦41,500",
+      "d": "₦48,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Starting with opening cash of ₦28,500, we track cash movements:\nCash Outflows:\n\nRent paid: ₦12,000\nPurchases: ₦15,000\nSales boy wages: ₦500\nTotal outflows: ₦27,500\n\nCash Inflows:\n\nSales: ₦8,200\n\nNew Cash Balance: ₦28,500 - ₦27,500 + ₦8,200 = ₦9,200\nNew Balance Sheet:\n\nAssets: Furnishing ₦10,000 + Ceiling Fan ₦1,500 + Stock ₦10,000 + Cash ₦9,200 = ₦30,700\nCapital: ₦40,000 - ₦300 (net loss) = ₦39,700\nPrepaid Rent: ₦9,000 (11 months remaining)\n\nNew Balance Sheet Total: ₦39,700",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1216,6 +1408,22 @@
     "examyear": "2019"
   },
   {
+    "id": 752,
+    "question": "Majority of commercial transactions are termed credit transactions, which means",
+    "option": {
+      "a": "The buyers pay immediately for goods bought",
+      "b": "Settlement is deferred to a future date",
+      "c": "No account will be opened",
+      "d": "Item of expenditure increases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In credit transactions, the transfer of ownership takes place before payment to the supplier i.e settlement is at a future safe.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 767,
     "question": "In preparing accounting records, the owners of a business and the business are treated as",
     "option": {
@@ -1228,6 +1436,22 @@
     "image": "",
     "answer": "a",
     "solution": "Under the business entity (or separate entity) concept, the affairs of the owners and those of the business are kept completely distinct. Personal transactions of the owners are not recorded in the business’s books, and only business‑related transactions appear in the accounting records.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 772,
+    "question": "Danjuma Ltd. bought 10 bags of rice for N500 each. The company was given 5% and 12% trade and cash discounts respectively. What will be recorded as discount received in the company's book?",
+    "option": {
+      "a": "₦250",
+      "b": "₦570",
+      "c": " ₦850",
+      "d": " ₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nTrade discount (5%) reduces the list cost and isn’t separately recorded in the books:\n\n10 × ₦500 = ₦5,000 ⟹ ₦5,000 × 5% = ₦250\nNet after trade discount = ₦5,000 − ₦250 = ₦4,750.\n\nCash discount (12%) is the one actually recorded as “Discount Received”:\n\n₦4,750 × 12% = ₦570.\nHence, the company will record ₦570 as discount received.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -1328,6 +1552,22 @@
     "examyear": "2022"
   },
   {
+    "id": 869,
+    "question": "An evidence of payment issued to a government ministry by a revenue collector is",
+    "option": {
+      "a": "treasury receipt",
+      "b": "receipt voucher",
+      "c": "payment voucher",
+      "d": "treasury card"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a government ministry makes a payment to a revenue collector, the official acknowledgment of that payment is issued in the form of a treasury receipt. This document serves as the evidence that funds have been collected and remitted to the government’s treasury.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 891,
     "question": "A part of public company's profit belonging to the shareholders is",
     "option": {
@@ -1424,6 +1664,22 @@
     "examyear": "2024"
   },
   {
+    "id": 964,
+    "question": "When manufactured goods are transferred to the trading account at the market price, the difference is credited to the",
+    "option": {
+      "a": " manufacturing account",
+      "b": "balance sheet",
+      "c": " trading account",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When manufactured goods are transferred to the trading account at market price (which is higher than the cost of production), the difference represents an unrealized profit on the manufactured goods.\nThis difference is credited to the profit and loss account as \"Unrealized Profit on Manufacturing\" or \"Profit on Manufacturing.\"",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 969,
     "question": "Given:\n\nSales.....................₦4,000\nLight expenses............₦900\nRent......................₦1,500\nPurchases.................₦7,500\nDebtors...................₦6,000\nCreditors.................₦9,000\nDrawings..................₦2,500\nBank......................₦400\nGeneral expenses..........₦1,500\nCapital...................₦10,300\n\nCalculate the total of trial balance?",
     "option": {
@@ -1468,6 +1724,22 @@
     "image": "",
     "answer": "b",
     "solution": "LIFO (Last In, First Out) assumes that the most recently purchased (and therefore most expensive) items are sold first. This means:\n\nThe newer, higher-priced inventory gets matched against sales revenue\nThe older, lower-priced inventory remains in closing stock\nThis results in a lower closing stock value on the balance sheet\n\nIn contrast:\n\nFIFO would show higher closing stock values (newer, expensive items remain)\nSimple average and periodic simple average would show moderate values between FIFO and LIFO\n\nLIFO is often preferred during inflation because it:\n\nMatches current costs against current revenues (better income statement matching)\nResults in lower reported profits (and thus lower taxes)\nShows more conservative inventory values\n\nSo LIFO typically gives the lowest closing stock valuation during inflationary periods.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 987,
+    "question": "<b>Use the information below to answer questions 23 to 24.</b>\n\n\t\t\t   31 Dec. 05........31 Dec. 06\nTotal fixed assets.........₦7,800............₦6,600\nTotal current assets.......₦12,100............₦17,800\nTotal current liabilities..₦4,700............₦3,800\nDrawings for 2006 is ₦5,200.\n\nDetermine the capital balance as at Dec. 31, 2005?",
+    "option": {
+      "a": "₦20 600",
+      "b": "₦15 200",
+      "c": "₦13 800",
+      "d": "₦11 600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Assets = Capital + Liabilities\nTherefore: Capital = Assets - Liabilities\nAs at December 31, 2005:\nTotal Assets:\n\nFixed Assets: ₦7,800\nCurrent Assets: ₦12,100\nTotal Assets = ₦7,800 + ₦12,100 = ₦19,900\n\nTotal Liabilities:\n\nCurrent Liabilities: ₦4,700\n\nCapital Balance:\nCapital = Total Assets - Total Liabilities\nCapital = ₦19,900 - ₦4,700 = ₦15,200\nTherefore, the capital balance as at December 31, 2005 is ₦15,200.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -1600,6 +1872,38 @@
     "examyear": "2005"
   },
   {
+    "id": 1073,
+    "question": "The imprest account is subsidiary to the?",
+    "option": {
+      "a": " ledger account",
+      "b": "bank account",
+      "c": "cash book",
+      "d": "bank column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The imprest (petty cash) account records small day-to-day payments and is controlled by the main cash book (or bank book) — the cash book is the controlling account and the imprest/petty cash is a subsidiary petty-cash ledger that gets replenished from the cash book.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1084,
+    "question": "The beginning and ending accounts receivable balances were ₦20,000 and ₦30,000 respectively.\nThe collection from customers during the period was ₦70,000. What was the total sale on account?",
+    "option": {
+      "a": "₦20,000",
+      "b": "₦60,000",
+      "c": "₦80,000",
+      "d": "₦120,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "We can calculate total sales on account using the accounts receivable equation:\n\nBeginning A/R + Credit Sales − Collections = Ending A/R\n\nSubstitute values:\n\n20,000 + Credit Sales − 70,000 = 30,000\n\nCredit Sales − 50,000 = 30,000\n\nCredit Sales = 80,000",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1087,
     "question": "<b>Use the information below to answer questions 23 and 24</b>\n\nBeginning inventory............₦?\nPurchases......................₦?\nEnding inventory...............₦4,800\nSales..........................₦12,800\nWages..........................₦1,040\nGross profit...................₦5,900\n\n<b>The beginning inventory was estimated at 80% of sales.</b>\n\nDetermine the amount for the beginning inventory?",
     "option": {
@@ -1648,6 +1952,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1128,
+    "question": "Given:\n(i) Order of performance\n(ii) Order of liquidity\n(iii)Vertical order\n(iv) Horizontal order\n\n\nThe order in which a balance assets is arranged are?",
+    "option": {
+      "a": " i and ii",
+      "b": "i and iv",
+      "c": "ii and iii",
+      "d": " iii and iv"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a balance sheet, assets can be arranged:\n\nOrder of liquidity → listing assets based on how quickly they can be converted into cash.\n\nVertical order → presenting the items in a top-to-bottom format.\n\nSo, the order in which assets are arranged is order of liquidity and vertical order.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1129,
     "question": "<b>Use the information below to answer questions 15 and 16</b>\n\nWhat is the capital employed?",
     "option": {
@@ -1680,6 +2000,38 @@
     "examyear": "2003"
   },
   {
+    "id": 1159,
+    "question": "The necessary accounts to be opened on the issue of ordinary share capital are?",
+    "option": {
+      "a": " preference share capital, cash and allotment accounts",
+      "b": "bank and ordinary share capital accounts",
+      "c": " cash and ordinary share capital accounts",
+      "d": " nominal value and ordinary share capital accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a company issues ordinary shares for cash:\n\nDebit Cash/Bank account (asset increases)\n\nCredit Ordinary Share Capital account (equity increases by the nominal value of shares issued).",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1161,
+    "question": "<b>Use the information below to answer questions 47 and 48.</b>\n\nThe business was acquired on 1st April, 2002 at a purchase consideration of ₦120 000 by SOZ. All assets and liabilities were taken over except the cash.\n\nTo open the new firm’s bank account, additional ₦20,000 was paid into the bank.\n\nThe goodwill on purchase is?",
+    "option": {
+      "a": "₦90,000",
+      "b": "₦30,000",
+      "c": "₦19,000",
+      "d": "₦18,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663292/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q47-48_i1is6p.png",
+    "answer": "b",
+    "solution": "Step 1: Calculate Net Assets Acquired\nAssets taken over (excluding cash):\n\nLand and buildings: ₦50,000\nFurniture: ₦10,000\nStock: ₦30,000\nDebtors: ₦30,000\nTotal Assets = ₦120,000\n\nLiabilities taken over:\n\nCreditors: ₦30,000\n\nNet Assets Acquired = ₦120,000 - ₦30,000 = ₦90,000\nStep 2: Calculate Goodwill\nGoodwill = Purchase Consideration - Net Assets Acquired\nGoodwill = ₦120,000 - ₦90,000 = ₦30,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1164,
     "question": "Mamza ₦igeria Limited issued 20 000 ordinary shares of ₦1.50 per share on 2nd July 2002.\n1500 ordinary shares were fully subscribed for and their monies received as below:\n\nOn application .........................₦0.40\nOn allotment ...........................₦0.20\nFirst call (including premium of ₦0.50)..₦0.70\n\nThe last and final call was yet to be made.\n\nWhat is the balance of the ordinary share capital account after the first call was received?",
     "option": {
@@ -1708,6 +2060,22 @@
     "image": "",
     "answer": "c",
     "solution": "Cost of goods sold = Opening stock + Goods sent to branch − Returns to head office − Closing stock\n= ₦400 + ₦8,000 − ₦340 − ₦720\n= ₦7,340",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1193,
+    "question": "<b>Use the information below to answer questions 28 and 29.</b>\n\n<b>It is the tradition of the club to write off an amount equal to 25% of the subscriptions received as other expenses.</b>\n\nDetermine the club’s excess ofincome over expenditure",
+    "option": {
+      "a": "₦12,000",
+      "b": "₦15,000.",
+      "c": "₦10,000",
+      "d": "₦14,500"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665518/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q28-29_mt0snk.png",
+    "answer": "a",
+    "solution": "Given Information from the Account:\n\nTotal for both sides: ₦35,000\nOther expenses = ₦5,000 (25% of ₦20,000 subscriptions as calculated in the previous question)\n\nIncome Side:\n\nSubscriptions received: ₦20,000\nDonations received: ₦10,000\nProfits on sale of investment: ₦5,000\nTotal Income = ₦35,000\n\nExpenditure Side:\n\nWaged: ₦12,000\nElectricity: ₦5,000\nDepreciation - Furniture: ₦1,000\nOther expenses: ₦5,000 (calculated as 25% of subscriptions)\nExcess of income over expenditure: ?\n\nCalculation:\nTotal Expenditure (excluding excess) = ₦12,000 + ₦5,000 + ₦1,000 + ₦5,000 = ₦23,000\nSince both sides must balance at ₦35,000:\nExcess of income over expenditure = ₦35,000 - ₦23,000 = ₦12,000",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1840,6 +2208,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1271,
+    "question": "Which of the following is an example of intangible assets?",
+    "option": {
+      "a": "trade debtors",
+      "b": "Goodwill",
+      "c": "trade creditors",
+      "d": "motor vehicles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An intangible asset is a non-physical, long-term resource that provides future economic benefits to a business. Let’s examine each option:\n\n\nGoodwill represents the excess paid over fair value when acquiring another business. It reflects non-identifiable assets like reputation, customer relationships, or brand value. Being non-physical yet providing ongoing economic benefit, goodwill is the quintessential intangible asset.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1272,
     "question": "A source document that aids the ascertainment of amount paid out of current account is the?",
     "option": {
@@ -1920,6 +2304,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1341,
+    "question": "Receipt and payments account of a non-profit making organization is principally a summary of the?",
+    "option": {
+      "a": " bank entries",
+      "b": "cash book entries",
+      "c": "expenditure entries",
+      "d": "balance sheet entries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A Receipts and Payments Account is:\n\nA summary of all cash and bank transactions (both capital and revenue) during an accounting period.\n\nIt records actual cash inflows and outflows on a cash basis.\n\nIt is similar to a cash book, but prepared at the end of the year for presentation to members.\n\nSo, it is primarily a summary of what is found in the cash book.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1367,
     "question": "Responsibility accounting is particularly concerned with?",
     "option": {
@@ -1980,6 +2380,22 @@
     "image": "",
     "answer": "a",
     "solution": "When the bank collects a note on your behalf, the bank statement balance will include that collection even though your books haven’t yet. On the reconciliation, you would add that amount to the book balance to bring your records up to date.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1379,
+    "question": "Sobande Incorporation acquired a machine that involved the following expenditures and related factors.\n\n₦\nGross invoice price 15,000\nSales tax 900\nPurchases discount taken 300\nFreight 750\nAssembly of machine 500\nInstallation of machine 800\nAssorted spare parts for future use 1200\nTuring and adjusting machine 700\n\nWhat is the initial accounting cost of the machine?",
+    "option": {
+      "a": "₦19,550",
+      "b": "₦18,950",
+      "c": "₦18,350",
+      "d": "₦17,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "he initial capitalized cost of the machine includes all amounts necessary to bring it to working condition, excluding spare parts held for future use. So we include:\n\nGross invoice price: ₦15,000\n\nSales tax: ₦900\n\nFreight: ₦750\n\nAssembly: ₦500\n\nInstallation: ₦800\n\nTurning & adjusting: ₦700\n\nLess purchase discount: (₦300)\n\n15000 − 300 + 900 + 750 + 500 + 800 + 700 = ₦18,350",
     "examtype": "utme",
     "examyear": "1998"
   },
