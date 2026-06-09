@@ -144,6 +144,22 @@
     "examyear": "2013"
   },
   {
+    "id": 127,
+    "question": "A trading account is prepared to disclose the",
+    "option": {
+      "a": "net profit or loss for the year.",
+      "b": "gross profit or loss for the year.",
+      "c": "accumulated fund for the year.",
+      "d": "gross profit on manufacturing."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 135,
     "question": "The documents that provide instant information to firms on their transactions with banks are",
     "option": {
@@ -329,6 +345,38 @@
       "d": "net loss"
     },
     "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 169,
+    "question": "If the scrap value is now N15, 000, what will be the yearly depreciation using straight line method?",
+    "option": {
+      "a": "N11 000",
+      "b": "N7, 000",
+      "c": "N 4, 000",
+      "d": "N24. 000"
+    },
+    "section": "Use the information below to answer the question that follows. A machine bought for N 35,000 was estimated to have a life span of 5 years with a scrap value of N= 9, 000. ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 170,
+    "question": "The yearly depreciation using the straight line method would be",
+    "option": {
+      "a": "N5,200",
+      "b": "N6,500",
+      "c": "N8, 800",
+      "d": "N4, 400"
+    },
+    "section": "Use the information below to answer the question that follows. A machine bought for N 35,000 was estimated to have a life span of 5 years with a scrap value of N= 9, 000. ",
     "image": "",
     "answer": "a",
     "solution": "",
@@ -523,6 +571,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 231,
+    "question": "Bank reconciliation statement reconciles",
+    "option": {
+      "a": "bank and cash balances in the cash book",
+      "b": "bank balance in the cash book and bank statement balance",
+      "c": "cash balance in the cash book and bank statement balance",
+      "d": "bank balance brought down and bank balance carried down in the cash bcok."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -752,6 +816,22 @@
     "examyear": "2015"
   },
   {
+    "id": 313,
+    "question": "Discount Received Account is a",
+    "option": {
+      "a": "real account",
+      "b": "personal account",
+      "c": "nominal account",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 315,
     "question": "The accounting entry to correct sales day book overcast is",
     "option": {
@@ -784,6 +864,22 @@
     "examyear": "2015"
   },
   {
+    "id": 351,
+    "question": "Net turnover is referred to as",
+    "option": {
+      "a": "purchases",
+      "b": "assets",
+      "c": "sales",
+      "d": "profits"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 360,
     "question": "The purchase of ten ceiling fans by Akpan Electronic Enterprises will be recorded as",
     "option": {
@@ -811,6 +907,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 363,
+    "question": "Net profit in a business is",
+    "option": {
+      "a": "the amount of money taken out of the business by the owner",
+      "b": "the cash in the business bank account",
+      "c": "the difference between sales and cost of sales",
+      "d": "sale revenue less cost of sales and expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -976,6 +1088,22 @@
     "examyear": "2004"
   },
   {
+    "id": 427,
+    "question": "The accounting entry to record the premium on goodwill is to debit",
+    "option": {
+      "a": "cash and credit old partners’ capital",
+      "b": "goodwill and credit revaluation",
+      "c": "assets and credit capital",
+      "d": "capital and credit assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 442,
     "question": "In the trading and profit and loss account of a manufacturing organization, purchases is",
     "option": {
@@ -1072,6 +1200,22 @@
     "examyear": "2009"
   },
   {
+    "id": 483,
+    "question": "Find the fixed assets",
+    "option": {
+      "a": "I, II and V",
+      "b": "I, II and IV",
+      "c": "I, II and III",
+      "d": "Ill, IV and V"
+    },
+    "section": "Use the information to answer questions: I.Operating machine II. Furniture  III .Fixtures and fittings IV.  Loan from friends V. Creditors",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 490,
     "question": "Which of the following items are current assets?",
     "option": {
@@ -1132,6 +1276,22 @@
     "image": "",
     "answer": "b",
     "solution": "The income and expenditure account of a club serves exactly the same purpose as a profit and loss account in a trading concern: it summarizes all the revenues (incomes) and the expenses (expenditures) for the period to show the net surplus or deficit.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 530,
+    "question": "The ledger entries to be made if cash sales is banked is debit",
+    "option": {
+      "a": "cash, credit sales",
+      "b": "sales, credit cash",
+      "c": " bank, credit cash",
+      "d": "bank, credit sales"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When you make a cash sale and lodge the proceeds directly into the bank, you:\n\nDebit Bank (to increase your bank balance)\n\nCredit Sales (to record the revenue earned)",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1216,6 +1376,22 @@
     "examyear": "2016"
   },
   {
+    "id": 581,
+    "question": "A proprietor started business with ₦13,000. Assets and liabilities at the end of the year; fixed assets ₦8,800, stock ₦, 600, debtors ₦1,000, cash ₦3, 000 and creditors ₦1,000. Determine the profit for the year?",
+    "option": {
+      "a": " ₦2,400",
+      "b": "₦3,000",
+      "c": "₦9,800",
+      "d": "-₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate the closing capital\nClosing Capital = Assets - Liabilities\n\nTotal Assets = Fixed assets + Stock + Debtors + Cash\nTotal Assets = ₦8,800 + ₦600 + ₦1,000 + ₦3,000 = ₦13,400\nTotal Liabilities = Creditors = ₦1,000\nClosing Capital = ₦13,400 - ₦1,000 = ₦12,400\n\nStep 2: Calculate the profit\nProfit = Closing Capital - Opening Capital\nProfit = ₦12,400 - ₦13,000 = -₦600",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 582,
     "question": "Badge Plc issued 450,000 ordeinary shares of 50,000 each at ₦1.50 per share\nApplication and allotment 45,000\n1st call 50,000\n2nd call 55,000\n\nDetermine the amount received on final call.",
     "option": {
@@ -1280,6 +1456,22 @@
     "examyear": "2016"
   },
   {
+    "id": 601,
+    "question": "When the purchase consideration is lower ttan the net asset, the buyer has gained the advantage of",
+    "option": {
+      "a": "capital reserve",
+      "b": "revenue reserve",
+      "c": "net income",
+      "d": "net loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Capital Reserve is a type of profit that is earned on capital transactions - an example would be the profit arising from the forfeiture of shares, sales of assets etc",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 608,
     "question": "Use the information below to answer the question that follows,\n\nA machine bought for ₦35,000 was estimated to have a life span of 5years with a scrap value of ₦9,000.\nIf the scrap value is now ₦15,000. What will be the yearly depreciation using the straight line method.?",
     "option": {
@@ -1312,6 +1504,22 @@
     "examyear": "2016"
   },
   {
+    "id": 630,
+    "question": "one of the options below is not the source of income for non- profit organization",
+    "option": {
+      "a": "Entrance fees",
+      "b": "subscription/dues",
+      "c": "odrinary shares",
+      "d": "Donations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Ordinary shares: This type of source of income is only used in profit oriented organization to generate fund the pubic so as to enable the organization make more profit at the end of a specified period",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 643,
     "question": "Discount allowed is enjoyed by",
     "option": {
@@ -1340,6 +1548,38 @@
     "image": "",
     "answer": "a",
     "solution": "The partnership experiences super profit: super profit is the profit that is generated by intangible asset or the profit that is attributed by the tangible asset when such profit is capitalized we get intangible asset or goodwill",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 657,
+    "question": "A company's inventory records show the following information for the year: Opening stock on January 1st was ₦2,000, purchases during the year totaled ₦4,000, carriage inwards was ₦500, sales amounted to ₦9,000, and carriage outwards was ₦500. Based on this information, what is the value of the Gross profit?",
+    "option": {
+      "a": "₦9,000",
+      "b": " ₦2,500",
+      "c": "₦3,000",
+      "d": "₦1,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nCOGS = 2,000 + 4,000 + 500 = ₦6,500\n\nGross Profit = Sales − COGS = 9,000 − 6,500 = ₦2,500",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 661,
+    "question": "An evidence of payment issued to a government ministry by a revenue collector is",
+    "option": {
+      "a": "treasury receipt",
+      "b": " receipt voucher",
+      "c": "payment voucher",
+      "d": " treasury card"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Receipt voucher is raised as evidence by revenue collector when government funds and property or received\n\nReceipt voucher: these are vouchers raised as evidence for the receipt of government funds and property. The revenue collected is prepared for the government ministry as a means that revenue has been collected",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -1440,6 +1680,22 @@
     "examyear": "2018"
   },
   {
+    "id": 688,
+    "question": "In departmental accounting, which is not a transfer pricing_________",
+    "option": {
+      "a": "cost based transfer price",
+      "b": "market based transfer pricing",
+      "c": "Dual pricing system",
+      "d": "peak pricing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The standard transfer‐pricing methods used in departmental accounting are:\n\nCost‐based transfer pricing (using internal cost as the basis)\n\nMarket‐based transfer pricing (using external market prices)\n\nDual pricing system (charging one price to the selling division and another to the buying division)\n\nPeak pricing, on the other hand, is a demand‐management strategy for external customers (adjusting prices during high‐demand “peak” periods) and is not used for inter‐departmental transfer pricin",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 704,
     "question": "Departmentalization of accounts is useful because it shows the____________",
     "option": {
@@ -1532,6 +1788,22 @@
     "image": "",
     "answer": "d",
     "solution": "Unissuer capital is the total amount which has not been issued out on the authorized, nominal or registered capital.\nTherefore, unissued capital = Authorized\ncapital - issued capital which is :\n200,000 - 100,000 = ₦100,000",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 737,
+    "question": "A fall or decrease in the economic service potential of an asset as a result of wear, tear and obsolescence is referred to as",
+    "option": {
+      "a": "Estimate",
+      "b": "Depreciation",
+      "c": "Asset",
+      "d": "Useful Life"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Depreciation is the reduction in the economic service potentials of an asset as a result of wears, usuage, tears and passage of time.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1644,6 +1916,22 @@
     "image": "",
     "answer": "b",
     "solution": "When the bank credits your account with interest, it appears immediately on the bank statement but isn’t yet recorded in your cashbook. This makes the bank statement balance higher than the cashbook balance until you record the interest in your books.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 788,
+    "question": "Fiyinfoluwa Motors bought three Toyota Hilux vans on cash at the cost of ₦6,000,000 on debiting the vehicle account, the corresponding credit for the purchase will appear in the",
+    "option": {
+      "a": "sales day book",
+      "b": "cash book",
+      "c": " sales subsidiary book",
+      "d": "purchase day book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Since the vans were purchased for cash, the corresponding credit entry is made in the cash book (which records all cash payments), not in any of the sales or purchase day books (which are used for credit transactions).",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -1840,6 +2128,22 @@
     "examyear": "2023"
   },
   {
+    "id": 908,
+    "question": "From the following information: Plant and Machinery is valued at ₦190,000, Motor Vehicle at ₦170,000, Stock at ₦60,000, Current Liabilities amount to ₦50,000, and Purchase consideration is ₦400,000. What is the goodwill?",
+    "option": {
+      "a": "₦110,000",
+      "b": " ₦30,000",
+      "c": " ₦90,000",
+      "d": " ₦80,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Net assets = ₦190,000 + ₦170,000 + ₦60,000 – ₦50,000 = ₦370,000\n\nGoodwill = ₦400,000 – ₦370,000 = ₦30,000",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 933,
     "question": "The following accounts have debit balances except",
     "option": {
@@ -1968,6 +2272,22 @@
     "examyear": "2008"
   },
   {
+    "id": 974,
+    "question": "An entry made in bank column of cash book to record movement of cash between the office and the bank is the?",
+    "option": {
+      "a": "real entry",
+      "b": "special entry",
+      "c": "direct entry",
+      "d": "contra entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When cash is moved between the office and the bank (or vice versa), this creates a special type of entry in the cash book.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 983,
     "question": "In a period of inflation, which of the following method normally gives a lower closing stock value?",
     "option": {
@@ -2000,6 +2320,22 @@
     "examyear": "2008"
   },
   {
+    "id": 995,
+    "question": "Given:\n(i) Cost price \n(ii) Selling price \n(iii) Cost plus fixed percentage \n(iv) Price above cost and selling price\n\nFrom the information above, the prices used in charging goods to the branches are?",
+    "option": {
+      "a": "i and ii",
+      "b": "i, ii and iii",
+      "c": " i, ii, iii and iv",
+      "d": " iii and iv"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When charging goods to branches, the commonly used pricing methods are:\n(i) Cost price - Goods transferred at actual cost\n(ii) Selling price - Goods transferred at retail/selling price\n(iii) Cost plus fixed percentage - Goods transferred at cost plus a predetermined markup percentage",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 996,
     "question": "If a GSM operator based in Lagos supplies recharge cards to its branch in Akure, the head office can charge the goods at?",
     "option": {
@@ -2028,6 +2364,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a partner takes over an asset during partnership dissolution:\nJournal Entry:\n\nDebit: Partner's Capital Account (at agreed value)\nCredit: Realization Account (at agreed value)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1007,
+    "question": "Given that the balance as per cash book after adjustment was ₦6315, nu-presented cheques ₦1000 and the bank statement balance ₦3240. What was the balance of the nu-credited cheques?",
+    "option": {
+      "a": "₦4075",
+      "b": "₦4240",
+      "c": "₦3315",
+      "d": "₦3075"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given:\n  Cash book (after adjustments) = ₦6,315\n  Bank statement balance         = ₦3,240\n  Un-presented cheques           = ₦1,000\n  Let un-credited cheques = x\n\nBank reconciliation formula:\n  Bank statement + x − Un-presented cheques = Cash book\n\nSubstitute values:\n  ₦3,240 + x − ₦1,000 = ₦6,315\n\nSolve for x:\n  ₦3,240 − ₦1,000 = ₦2,240\n  ₦6,315 − ₦2,240 = ₦4,075\n\nTherefore:\n  Un-credited cheques (x) = ₦4,075\n",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -2352,6 +2704,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1166,
+    "question": "Given:\nStock (1/4/94) ₦800\n\nPurchases of flour ₦2450\n\nSales ₦4745\n\nWages of bakery staff ₦675\n\nCarriage outwards ₦50\n\nSalary of administrative staff ₦225\n\nStock (31/3/95) ₦940\n\nCapital ₦1540\nDetermine the cost of goods sold?",
+    "option": {
+      "a": "₦2575",
+      "b": "₦2985",
+      "c": "₦3250",
+      "d": "₦3925"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "COGS = Opening stock + Purchases + Direct production wages − Closing stock\n\nSo: ₦800 + ₦2,450 + ₦675 − ₦940\n= ₦3,925 − ₦940\n= ₦2,985",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1186,
     "question": "<b>Use the information below to answer question 21 and 22.</b>\n\nAdex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch.\n\nStock at branch 1st January at cost............₦400\nGoods sent to branch at cost...................₦8000\nReturns to head ...............................₦340\nCash sales ....................................₦9160\nStock at branch 31st December at cost..........₦720\n\nCalculate the cost of goods credited to the head office trading account?",
     "option": {
@@ -2476,6 +2844,22 @@
     "image": "",
     "answer": "b",
     "solution": "For a property developing company, selling a completed building would be treated as a revenue receipt.\n\n\n\nA property developing company is in the business of constructing and selling buildings\nThe completed building represents stock/inventory for this type of company\nWhen sold, it generates income from the company's normal business operations\nThis is similar to how a manufacturing company treats the sale of its manufactured goods",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1235,
+    "question": "For an incomplete record to provide necessary information, it must be converted to?",
+    "option": {
+      "a": " complete records",
+      "b": "double entry records",
+      "c": "statement of affairs",
+      "d": "single entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An incomplete set of records is first reconstructed into a Statement of Affairs (essentially a makeshift balance sheet) so that you can then derive the missing double-entry figures and arrive at complete records.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -2672,6 +3056,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1361,
+    "question": "<b>Use the information below to Answer questions 46 and 47.</b>\n\nAmong Limited invoiced goods at a cost of ₦10,000 to its Ikeja branch at a marginal of 20%. The branch later returned goods worth ₦1,200 at invoice price to the head office.\n\n\nWhat is the correct entry in the head office books at the point of initial transfer of the goods?",
+    "option": {
+      "a": "Branch stock account would be credited with ₦6000",
+      "b": "Branch stock account would be debited with ₦12,000",
+      "c": "Goods sent to branch account would be debited with ₦10,800",
+      "d": "Goods sent to branch account would be credited with ₦12,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When goods costing ₦10,000 are invoiced to the branch at cost plus 20% (i.e. at ₦12,000), the head office increases its branch‐stock asset and uses the “Branch Stock” account. The entry in the head office books on dispatch is:\n\nDr Branch Stock Account ₦12,000\n  Cr Goods Sent to Branch Account ₦12,000",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1367,
     "question": "Responsibility accounting is particularly concerned with?",
     "option": {
@@ -2752,6 +3152,22 @@
     "examyear": "1998"
   },
   {
+    "id": 1388,
+    "question": "Derive the total sales figure from the following information extracted from a firm's cash book and other relevant records.\n\nTotal debtors b/f ₦ 5,600\nTotal cash receipts from debtors\nand cash sales ₦ 153,000\nTotal debtors c/f ₦ 6,800",
+    "option": {
+      "a": "₦6,800",
+      "b": "₦153,000",
+      "c": "₦154,200",
+      "d": "₦159,800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using the debtors’ account approach:\n\nSales = Total cash receipts from debtors and cash sales + Closing debtors − Opening debtors\n=₦153,000 + ₦6,800 − ₦5,600\n=₦154,200\n​\n ",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1390,
     "question": "The contribution marginal on a job is the?",
     "option": {
@@ -2764,6 +3180,22 @@
     "image": "",
     "answer": "c",
     "solution": "Contribution Margin = Sales Revenue − Variable Costs\n\nIt represents the amount available to cover fixed costs and then contribute to profit",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1392,
+    "question": "<b>Use the information below to answer question 28 and 29.\nRaw materials inventory at the beginning of a period was ₦ 46,800 and at the close of the period there was a balance of ₦38,600. From the purchases made during the period, defective materials costing ₦9,200 were returned. Cost of materials consumed during the period was ₦448,500.</b>\n\nWhat was the total purchases made during the period?",
+    "option": {
+      "a": "₦497,100",
+      "b": "₦457,700",
+      "c": "₦449,500",
+      "d": "₦440,300"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To find total purchases, use the materials flow equation:\n\nMaterials Consumed = Opening Inventory + Purchases − Returns − Closing Inventory\nRearrange for Purchases:\n\nPurchases = Materials Consumed + Returns + Closing Inventory − Opening Inventory \nSubstitute the figures:\n\nPurchases = ₦448,500 + ₦9,200 +₦38,600 − ₦46,800 = ₦449,500\n",
     "examtype": "utme",
     "examyear": "199"
   },
