@@ -3520,6 +3520,22 @@
     "examyear": "2006"
   },
   {
+    "id": 225,
+    "question": "The dividend per ordinary share for the year is",
+    "option": {
+      "a": "N  0.88 kobo",
+      "b": "N  0.40 kobo",
+      "c": "N  0.20 kobo",
+      "d": "N  0.17 kobo"
+    },
+    "section": "Ordinary shares of  N1each  [500,000], 8% preference shares of  N1each [200,000], Interim dividends paid:  - ordinary shares [40,000], - preference shares [12,000], Profit for the year [100,000]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 226,
     "question": "A customer who returns goods to the supplier because they are defective is issued a",
     "option": {
@@ -17452,6 +17468,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663211/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q18-19_t9cj1m.png",
     "answer": "a",
     "solution": "Periodic Simple Average Method:\nThis method calculates the average of all the different purchase prices, regardless of the quantities purchased at each price.\nCalculation:\nSimple Average = Sum of all purchase prices ÷ Number of different prices\nSimple Average = (₦1.00 + ₦2.00 + ₦3.00 + ₦4.00) ÷ 4\nSimple Average = ₦10.00 ÷ 4\nSimple Average = ₦2.50 per unit",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1134,
+    "question": "<b>Use the information below to answer questions 20 and 21.</b>\n\nCredit purchases are always put at 150% of the total cash paid to suppliers\n\nCalculate the closing balance of the ledger account",
+    "option": {
+      "a": "₦6 900",
+      "b": "₦6400",
+      "c": "₦5 000",
+      "d": "₦4000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663260/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q20-21_gg4bum.png",
+    "answer": "c",
+    "solution": "Step 1: Calculate Credit Purchases\nCredit purchases = 150% × Cash paid to suppliers\nCredit purchases = 150% × ₦8,000 = 1.5 × ₦8,000 = ₦12,000\nStep 2: Set up the Purchases Ledger Control Account\nDebit Side (Decreases creditors):\n\nDiscount received: ₦1,000\nBills payable: ₦1,500\nCash paid to suppliers: ₦8,000\nReturns outwards: ₦3,000\nBalance c/d: ?\n\nCredit Side (Increases creditors):\n\nBalance b/d: ₦2,900\nCredit purchases: ₦12,000\nBills payable dishonoured: ₦1,600\nDishonoured cheques: ₦2,000\n\nStep 3: Calculate the totals\nCredit side total = ₦2,900 + ₦12,000 + ₦1,600 + ₦2,000 = ₦18,500\nDebit side (excluding balance c/d) = ₦1,000 + ₦1,500 + ₦8,000 + ₦3,000 = ₦13,500\nStep 4: Calculate closing balance\nBalance c/d = Credit side total - Debit side payments\nBalance c/d = ₦18,500 - ₦13,500 = ₦5,000",
     "examtype": "utme",
     "examyear": "2003"
   },
