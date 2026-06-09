@@ -13184,6 +13184,22 @@
     "examyear": "2018"
   },
   {
+    "id": 924,
+    "question": "Find the value of x in the diagram",
+    "option": {
+      "a": "10°",
+      "b": "28°",
+      "c": "36°",
+      "d": " 40°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006328/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q6_ki6g4i.jpg",
+    "answer": "d",
+    "solution": "The diagram shows angles at a point, the total angle at a point is 360\n\n  x - 10 + 4x - 50 + 2x + 3x + 20 = 360\n\n  10x - 40 = 360\n\n  10x = 360 + 40\n\n  10x = 400\n\n  x = 400/10\n  x = 40\n",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 925,
     "question": "Solve for t in the equation 3/4\nt + 13\n(21 - t) = 11",
     "option": {
@@ -14956,6 +14972,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007156/ALOC-Questions/Mathematics/2020/JAMB_MATH_2020_Q23_qrkny8.jpg",
     "answer": "c",
     "solution": "Gradient of line = Change in y/Change in x = (y<sub>2</sub> −Y<sub>1</sub>)/(x<sub>2</sub>  − x<sub>1</sub>)\n \n\ny<sub>2</sub>   = 0<sub>1</sub> \n \n\nY<sub>1</sub>  = 4 \n\nx<sub>2</sub> = 3 and x<sub>1</sub> = 0\n\n(y<sub>2</sub>  − y<sub>1</sub> )/(x<sub>2</sub>  − x<sub>1</sub> ) = (0−4)/(3 − 0) = −4/3\nEquation of straight line y = mx + c\n\nWhere m = gradient and c = y \n\nintercept = 4 \n\ny = -4/3x + 4 multiply through by 3\n\n3y = -4x + 12",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1041,
+    "question": "Express the product of 0.0014 and 0.011 in standard form ",
+    "option": {
+      "a": "1.54 x 10<sup>-2</sup>",
+      "b": "1.54 x 10<sup>-3</sup>",
+      "c": "1.54 x 10<sup>-2</sup>",
+      "d": "1.54 x 10<sup>--5</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
     "examtype": "2020",
     "examyear": "utme"
   },
