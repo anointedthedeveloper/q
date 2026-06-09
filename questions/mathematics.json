@@ -2448,6 +2448,22 @@
     "examyear": "2010"
   },
   {
+    "id": 574,
+    "question": "Express the product of 0.21 and 0.34 in standard form",
+    "option": {
+      "a": " 7.14 x 10<sup>-3</sup>",
+      "b": " 7.14 x 10<sup>-2</sup>",
+      "c": "7.14 x 10<sup>-1</sup>",
+      "d": " 7.14 x 10sup>-4</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "0.21 x 0.34 = 0.0714\n= 7.14 x 10<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 579,
     "question": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
     "option": {
@@ -2972,6 +2988,22 @@
     "image": "",
     "answer": "d",
     "solution": "Man lives = 2/3\n not live = 1/3\n\n\nWife lives = 3/5\n not live = 2/5\nP(at least one lives to 80 years) = P(man lives to 80 not woman) + P(woman lives to 80 and not man) + P(both live to 80)\n\nP=(2/3 × 2/5) + (2/5 × 1/3) + (2/3 × 3/5)\n\n= 4/15 + 3/15 + 6/15\n\n\n= 13/15",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 764,
+    "question": "The grades of 36 students in a class test are as shown in the pie chart above. How many students have excellent?",
+    "option": {
+      "a": "12",
+      "b": "9",
+      "c": "8",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716130496/ALOC-Questions/Mathematics/2012/2012_MATH_JAMB_Q44_f6pzeb.jpg",
+    "answer": "d",
+    "solution": "Excellent = 360° - (120° + 90° + 80°)\n\n= 70°\n\nNumber of excellent students = 70/360 × 36\n= 7 students",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -3888,6 +3920,22 @@
     "examyear": "2019"
   },
   {
+    "id": 985,
+    "question": "If 4sin2x−3=0, find the value of x, when 0° ≤ x ≤ 90°",
+    "option": {
+      "a": " 90°",
+      "b": "45°",
+      "c": " 60°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "4sin<sup>2</sup>x − 3 = 0\n4sin<sup>2</sup>x = 3 ⟹ sin<sup>2</sup>x = 3/4 \nsin x = √3/2\n∴ x = sin<sup>−1</sup>(√3/2)\nx = 60°",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 997,
     "question": "Integrate ∫<sub>(-1)</sub><sup>2</sup>(2x<sup>2</sup> + x)dx",
     "option": {
@@ -4236,6 +4284,22 @@
     "image": "",
     "answer": "b",
     "solution": "The required locus is angle bisector of the two lines",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1079,
+    "question": "4, 16, 30, 20, 10, 14 and 26 are represented on a pie chart. Find the sum of the angles of the bisectors representing all numbers equals to or greater than 16",
+    "option": {
+      "a": "48°",
+      "b": "84°",
+      "c": "92°",
+      "d": "276°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given that 4, 16, 30, 20, 10, 14 and 26\n\nAdding up = 120\n\nnos ≥ 16 are 16 + 30 + 20 + 26 = 92\n\nThe requires sum of angles = 92/120 x 360°/1\n\n\n= 276°",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -4764,6 +4828,22 @@
     "image": "",
     "answer": "a",
     "solution": "Mean x = ∑x/n\n\n\n= (5+4+3+2+1)/5\n\n\n=15/5\n\n\n= 3\n\n",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1225,
+    "question": "In how many ways can a team of 3 girls be selected from 7 girls?",
+    "option": {
+      "a": "7!/3!",
+      "b": "7!/4!",
+      "c": "7!/3!4!",
+      "d": "7!/3!4!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "C",
+    "solution": "A team of 2 girls can be selected from 7 girls in <sup>7/sup>C<sub>3</sub>\n\n\n=7!/(7−3)!3!\n\n\n=7!/4!3!ways",
     "examtype": "utme",
     "examyear": "2014"
   },
