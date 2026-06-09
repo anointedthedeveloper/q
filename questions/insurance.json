@@ -2432,6 +2432,22 @@
     "examyear": "3"
   },
   {
+    "id": 156,
+    "question": "A temporary certificate to show that a cover is in existence is called",
+    "option": {
+      "a": "Policy",
+      "b": "Certificate",
+      "c": "Cover note",
+      "d": "Claim slip"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 157,
     "question": "------------ is used to bring amendment in a policy that is either to add in a new thing or removal of an existing thing in the policy",
     "option": {
@@ -3547,6 +3563,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 231,
+    "question": "The statement “ I to the best of my knowledge hereby confirm that the statements contained in this prosal form are true and correct” represents",
+    "option": {
+      "a": "confirmation",
+      "b": "declaration",
+      "c": "witnessing",
+      "d": "humility"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -5095,6 +5127,22 @@
       "b": "National Insurance Commission",
       "c": "Nigerian Corporation of Registered Insurance Brokers",
       "d": "Nigerian Insurers Association"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 334,
+    "question": "The process of  assessing  risks  in  insurance  and classifying them according to their degree of insurability so  that  the  appropriate  rate  may  be  assigned  is",
+    "option": {
+      "a": "inspecting",
+      "b": "underwriting",
+      "c": "surveying",
+      "d": "evaluating"
     },
     "section": "",
     "image": "",
