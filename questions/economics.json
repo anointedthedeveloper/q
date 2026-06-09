@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 3,
+    "question": "In economics , rational decision-making requires that: ",
+    "option": {
+      "a": "one’s choices be arrived at logically and without error   ",
+      "b": "one’s choice be consistent with one’s goals ",
+      "c": "one’s choice never very ",
+      "d": "one makes choice that do not involve trade-offs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 5,
     "question": "If the price of Pepsi decrease relative to the price of coke and 7-up the demand for ",
     "option": {
@@ -43,6 +59,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 7,
+    "question": "When a nation’s exports are greater than its imports ",
+    "option": {
+      "a": "the net foreign trade is zero ",
+      "b": "an unfavourable balance of payments exists ",
+      "c": "a favourable balance of trade exists ",
+      "d": "a favourable balance of payment exists."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
@@ -139,6 +171,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is regarded as fixed cost? ",
+    "option": {
+      "a": "cost of raw materials ",
+      "b": "labour wages ",
+      "c": "rent land ",
+      "d": "cost of light.                                                                                                                                                                                                                   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
@@ -496,6 +544,22 @@
     "examyear": "2008"
   },
   {
+    "id": 50,
+    "question": " Which of the following statement is false? ",
+    "option": {
+      "a": "An economy where economic decision making is shared by individuals and government is known as mixed economy ",
+      "b": "Given that apples and pears are substitutes, If the price of pear fall ",
+      "c": "An elasticity of demand measured between two point on a demanded curve is called a point elasticity ",
+      "d": "A and B are complements. If the supply of A decreases, the price B are tend to fall"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 52,
     "question": "The reason for the law of demand can best be explained in terms of: ",
     "option": {
@@ -699,6 +763,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following does not hinder the efficient distribution of goods in West Africa? ",
+    "option": {
+      "a": "Government participation in the distribution trade ",
+      "b": "Inadequate storage facilities for agricultural goods ",
+      "c": "Inadequate credit facilities for potential distribution ",
+      "d": "the tendency to hoard and smuggle."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -2688,6 +2768,22 @@
     "examyear": "2010"
   },
   {
+    "id": 235,
+    "question": "Find the median of the following set of scores: 8, 9, 6, 5, 10",
+    "option": {
+      "a": "9",
+      "b": "8",
+      "c": "6",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 236,
     "question": "Which of the following causes the demand curve to shift to the right?",
     "option": {
@@ -2779,6 +2875,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 244,
+    "question": "If TC, FC and VC represent total cost, fixed cost and variable cost respectively, which of the following is\n\tcorrect?",
+    "option": {
+      "a": "TC = FC-VC",
+      "b": "FC = TC + VC",
+      "c": "TC > FC + VC",
+      "d": "TC = FC + VC"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -3102,6 +3214,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
+  },
+  {
+    "id": 271,
+    "question": "Human wants are",
+    "option": {
+      "a": "Limited",
+      "b": "scarce",
+      "c": "unlimited",
+      "d": "in grades"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
   },
   {
     "id": 273,
@@ -3451,6 +3579,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 304,
+    "question": "The production strategy used in an over populated country is",
+    "option": {
+      "a": "import substitution",
+      "b": "capital intensive",
+      "c": "labour intensive",
+      "d": "first come first employed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -3952,6 +4096,22 @@
     "examyear": "2009"
   },
   {
+    "id": 349,
+    "question": "The major reason why countries strive to achieve optimum growth is to",
+    "option": {
+      "a": "be self–sufficient",
+      "b": "raise general living standards",
+      "c": "raise the level of production",
+      "d": "reduce aggregate expenditure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 350,
     "question": "According to the theory of comparative advantage, specialization will result in",
     "option": {
@@ -4272,6 +4432,22 @@
     "examyear": "2010"
   },
   {
+    "id": 382,
+    "question": "If commodity X is a by-product of commodity Y, this implies that both commodities are",
+    "option": {
+      "a": "in competitive supply",
+      "b": "jointly supplied",
+      "c": "in composite supply",
+      "d": "in excess supply"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 384,
     "question": "In order to reduce hardship faced by consumers due to high prices, government can introduce",
     "option": {
@@ -4359,6 +4535,38 @@
       "b": "haggling",
       "c": "collusion",
       "d": "specialization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 392,
+    "question": "In national income accounting, tax is determined by the",
+    "option": {
+      "a": "level of  income",
+      "b": "level of investment",
+      "c": "level of consumption",
+      "d": "rate of savings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 394,
+    "question": "If  MPC is 0.7 while government expenditure increased by N= 150m, the equilibrium national income is",
+    "option": {
+      "a": "N= 214 million",
+      "b": "N= 105 million",
+      "c": "N= 45 million",
+      "d": "N= 500 million"
     },
     "section": "",
     "image": "",
@@ -5536,6 +5744,22 @@
     "examyear": "2004"
   },
   {
+    "id": 494,
+    "question": "When the general price level persistently falls, the rate of  unemployment",
+    "option": {
+      "a": "rises",
+      "b": "stagnates",
+      "c": "rapidly reduces",
+      "d": "equals natural growth rate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
     "id": 496,
     "question": "To ensure high employment rates, developing countries should",
     "option": {
@@ -6032,6 +6256,22 @@
     "examyear": "2005"
   },
   {
+    "id": 545,
+    "question": "Mr. Bala’s income is $800.00 per month while that of Mr. Jatau is $1,200.00. lf Messrs Bala and Jatau pay $80.00 and $120.00 respectively as taxes, the tax system is",
+    "option": {
+      "a": "progressive",
+      "b": "regressive",
+      "c": "proportional",
+      "d": "ad-valorem"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 547,
     "question": "The theory of comparative cost advantage is associated with",
     "option": {
@@ -6123,6 +6363,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 553,
+    "question": ".\n\n\tAn essential characteristics of a market economy is",
+    "option": {
+      "a": "government control",
+      "b": "producer surplus",
+      "c": "consumer surplus",
+      "d": "consumer sovereignty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -6592,6 +6848,22 @@
     "examyear": "2006"
   },
   {
+    "id": 595,
+    "question": "Agriculture is important to the economy of West African countries because it is the source of",
+    "option": {
+      "a": "power",
+      "b": "equipment supply",
+      "c": "industrial  input",
+      "d": "technological progress"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 598,
     "question": "In a rapidly growing economy, a change in technology which is labour saving is likely to cause",
     "option": {
@@ -6800,6 +7072,22 @@
     "examyear": "2007"
   },
   {
+    "id": 615,
+    "question": "What must be added to variable cost to give total cost?",
+    "option": {
+      "a": "Average total cost",
+      "b": "Average variable cost",
+      "c": "Fixed cost",
+      "d": "Marginal cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
     "id": 616,
     "question": "Revenue is the",
     "option": {
@@ -6827,6 +7115,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 618,
+    "question": "The lower the price of a commodity, the greater the quantity demanded. This is based on the assumption that consumers’",
+    "option": {
+      "a": "income is diminished",
+      "b": "income remains the same",
+      "c": "utility is diminished",
+      "d": "population is high"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
@@ -7275,6 +7579,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 656,
+    "question": "Which of the following are examples of transfer payments?",
+    "option": {
+      "a": "Gifts and donations",
+      "b": "Rents and rates",
+      "c": "Profits and dividends",
+      "d": "Internal and external debts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
