@@ -96,6 +96,22 @@
     "examyear": "2011"
   },
   {
+    "id": 111,
+    "question": "  Calcium has a work function of 19 eV with a wavelength of 150 nm. Calculate the maximum energy of a photo electron emitted. (1 eV = 16.1 x 10-19J, h = 6.6 x 10-34Js)            ",
+    "option": {
+      "a": "6.35 Ev  ",
+      "b": "8.25 cV  ",
+      "c": "14.60eV  ",
+      "d": "None of above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 116,
     "question": "rectangular block measures 40cm x 25cm and made of material of density 7800kg/m3. Calculate the pressure the block exerts on the floor when it stands on the smallest of its surfaces ",
     "option": {
@@ -123,6 +139,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 129,
+    "question": "To convert an a.c generator to d.c generator, one needs to ",
+    "option": {
+      "a": "Remove the brush touching the slip rings ",
+      "b": "Laminate the armature ",
+      "c": "Replace the permanent magnets with  iron-core armature. ",
+      "d": "replace the slip rings with split rings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -188,6 +220,22 @@
     "image": "",
     "answer": "a",
     "solution": "Saturated vapor pressure increases when temperature increases.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 202,
+    "question": "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is",
+    "option": {
+      "a": "40s",
+      "b": "10s",
+      "c": "20s",
+      "d": "5s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial velocity (u) = 20 m/s\nFinal velocity (v) = 0 m/s (complete halt)\nDeceleration (a) = -2 m/s² (negative because it's deceleration)\nTime (t) = ?\n\nUsing the equation of motion:\nv = u + at\nSubstituting values:\n0 = 20 + (-2)t\n0 = 20 - 2t\nSolving for t:\n2t = 20\nt = 20/2\nt = 10 seconds",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -352,6 +400,22 @@
     "examyear": "2018"
   },
   {
+    "id": 397,
+    "question": "When a sound wave passes from air into water its ",
+    "option": {
+      "a": "speed and frequency increases but its wavelength remains the same",
+      "b": "speed and wavelength increases but its frequency remains the same",
+      "c": "speed decreases",
+      "d": " speed increases but its frequency and wavelength decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When sound passes from air into water, its speed and wavelength both increase while its frequency remains constant.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 402,
     "question": "Consider the three forces acting at O and in equilibrium as shown in the figure. Which of the following equations is/are CORRECT?\nI. P₁ cos θ₁ = P₂ cos θ₂\nII. P₃ = P₁ cos θ₁ + P₂ cos θ₂\nIII. P₁ sin θ₁ = P₂ sin θ₂",
     "option": {
@@ -428,6 +492,22 @@
     "image": "",
     "answer": "d",
     "solution": "Vernier calipers are also used to measure the internal and external diameters of a tube",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 438,
+    "question": "Two bodies have masses in the ratio 3:1. They experience forces which impart to them, acceleration in the ratio 2:9 respectively. Find the ratio of forces the masses experienced",
+    "option": {
+      "a": "1:04",
+      "b": "2:01",
+      "c": "2:03",
+      "d": "2:05"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass ratio: m₁ : m₂ = 3 : 1\nAcceleration ratio: a₁ : a₂ = 2 : 9\nForce ratio: F₁ : F₂ = ?\n\nUsing Newton's Second Law:\nF = ma\nFor body 1:\nF₁ = m₁a₁\nFor body 2:\nF₂ = m₂a₂\nFinding the ratio of forces:\nF₁/F₂ = (m₁a₁)/(m₂a₂)\nF₁/F₂ = (m₁/m₂) × (a₁/a₂)\nSubstituting the given ratios:\nF₁/F₂ = (3/1) × (2/9)\nF₁/F₂ = 6/9\nF₁/F₂ = 2/3\nTherefore:\nF₁ : F₂ = 2 : 3",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -608,6 +688,38 @@
     "examyear": "2023"
   },
   {
+    "id": 553,
+    "question": "Rainbow is formed when sunlight undergoes ",
+    "option": {
+      "a": "reflection",
+      "b": "refraction",
+      "c": "dispersion",
+      "d": "diffraction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A rainbow is formed by the DISPERSION of sunlight by spherical raindrops floating in the air.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 564,
+    "question": "\nIf the S.V.P of water vapour was 13.5mmHg at 33ºC and 7.3mmHg at 7ºC. Find the percentage relative humidity of the air on a day when average air temperature was 33ºC and dew point was 7ºC.",
+    "option": {
+      "a": "55%",
+      "b": "60%",
+      "c": "54%",
+      "d": "51%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nSaturated Vapour Pressure (S.V.P) at 33ºC = 13.5 mmHg\nSaturated Vapour Pressure (S.V.P) at 7ºC = 7.3 mmHg\nAir temperature = 33ºC\nDew point = 7ºC\nRelative humidity = ?\n\nSolution:\nStep 1: Understand relative humidity\nRelative humidity (R.H) is the ratio of actual vapour pressure to saturated vapour pressure at the same temperature, expressed as a percentage.\nR.H = (Actual vapour pressure / S.V.P at air temperature) × 100%\nStep 2: Identify actual vapour pressure\nThe dew point (7ºC) is the temperature at which the air becomes saturated with water vapour. This means the actual vapour pressure in the air equals the S.V.P at the dew point temperature.\nActual vapour pressure = S.V.P at dew point = 7.3 mmHg\nStep 3: Calculate relative humidity\nR.H = (Actual vapour pressure / S.V.P at air temperature) × 100%\nR.H = (7.3 / 13.5) × 100%\nR.H = 0.5407 × 100%\nR.H = 54.07%\nR.H ≈ 54%",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 565,
     "question": "Electrolysis can be investigated using ",
     "option": {
@@ -622,6 +734,38 @@
     "solution": "A voltameter measures the amount of substance that is deposited during electrolysis, allowing for the study of the electrochemical process. It provides information about the quantity of electric charge passed through the electrolyte and the resulting chemical changes. Voltameter is also called an Electrolytic cell.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 588,
+    "question": "A cell of internal resistance of 2Ω supplies current through a resistor, X. If the efficiency of the cell is 75%, find the value of X.",
+    "option": {
+      "a": "2Ω",
+      "b": "4Ω",
+      "c": "6Ω",
+      "d": "8Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Solution:\nGiven information:\n\nInternal resistance (r) = 2Ω\nExternal resistance (R) = X\nEfficiency = 75% = 0.75\nValue of X = ?\n\nUnderstanding cell efficiency:\nEfficiency of a cell = (Power delivered to external load) / (Total power from cell)\nFormula for efficiency:\nEfficiency = R / (R + r)\nwhere:\n\nR = external resistance\nr = internal resistance\n\nSetting up equation:\n0.75 = X / (X + 2)\nSolving for X:\n0.75(X + 2) = X\n0.75X + 1.5 = X\n1.5 = X - 0.75X\n1.5 = 0.25X\nX = 1.5 / 0.25\nX = 6Ω",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 615,
+    "question": "If 16mA of current flows through a conductor in one second, the number of electrons transported per second is [1 electronic charge = 1.6 × 10⁻¹⁹C]",
+    "option": {
+      "a": "1.00 × 10²⁰",
+      "b": "2.56 × 10⁻¹⁸",
+      "c": " 2.56 × 10⁻¹⁷",
+      "d": "1.00 × 10¹⁷"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nCurrent, I = 16 mA = 16 × 10⁻³ A\nTime, t = 1 s\nElectronic charge, e = 1.6 × 10⁻¹⁹ C\n\nSolution:\nFormula:\nCurrent: I = Q/t\nCharge: Q = ne\nWhere:\n\nQ = total charge (in coulombs)\nn = number of electrons\ne = charge of one electron\n\nStep 1: Calculate total charge transported\nQ = I × t\nQ = 16 × 10⁻³ × 1\nQ = 16 × 10⁻³ C\nStep 2: Calculate number of electrons\nn = Q/e\nn = (16 × 10⁻³)/(1.6 × 10⁻¹⁹)\nStep 3: Simplify\nn = (16/1.6) × 10⁻³⁻(⁻¹⁹)\nn = 10 × 10⁻³⁺¹⁹\nn = 10 × 10¹⁶\nn = 1.0 × 10¹⁷\nFinal Answer:\nNumber of electrons = 1.00 × 10¹⁷ electrons",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 641,
@@ -732,6 +876,22 @@
     "image": "",
     "answer": "c",
     "solution": "The component of vector X along vector Y is given by |X|cosθ, where θ is the angle between them. This component becomes zero when cosθ = 0, which occurs at θ = 90°. Therefore, the component is zero only when X is perpendicular to Y",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 723,
+    "question": "Which of the statements about machines are true?\nI. Work done by load is always less than the work done by effort.\nII. All machines are made of levers, pulleys, screws and gear wheels.\nIII. A fishing rod is a machine.\nIV. Effort is always larger than load.",
+    "option": {
+      "a": "II and III",
+      "b": "III and IV",
+      "c": "I and III",
+      "d": "II and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "I. Work done by load is always less than the work done by effort. This statement is generally true for all machines because some of the work done by the effort is used to overcome friction and other resistive forces in the machine.\n\nIII. A fishing rod is a machine. This statement is true as a fishing rod is a simple machine that uses a lever to catch fish.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -896,6 +1056,22 @@
     "examyear": "2008"
   },
   {
+    "id": 825,
+    "question": "In the microscope, the eyepiece lens merely acts as?",
+    "option": {
+      "a": " an inverter",
+      "b": "a refiner",
+      "c": "a diminisher",
+      "d": " a magnifier"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The basic function of microscope is magnification",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 856,
     "question": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal, its velocity ratio will be?",
     "option": {
@@ -958,6 +1134,22 @@
     "solution": "When a pentavalent (5 outer electron)atom is added to a pure semiconductor, there is an extra electrons which does not take part in the covalent bonding resulting in an n-type semiconductor.",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 907,
+    "question": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and?",
+    "option": {
+      "a": " a density bottle",
+      "b": "an eureka can",
+      "c": " a pipette",
+      "d": "a burette"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Since relative density = mass of substance\nmass of equal volume of water relative density bottle should be used to determine the mass of the substance, and mass of an equal volume of water by filling the bottle with the powder and water respectively and weighed with the beam balance.",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 915,
@@ -1152,6 +1344,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1059,
+    "question": "A wave that travels through stretched strings is known as",
+    "option": {
+      "a": "electromagnetic wave",
+      "b": " micro wave",
+      "c": "mechanical wave",
+      "d": "seismic wave"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A wave that travels through stretched strings is known as a mechanical wave. Mechanical waves require a physical medium (in this case, the string) to propagate. When a string is plucked or disturbed, the vibrations travel along the string as transverse mechanical waves, with particles of the string moving perpendicular to the direction of wave propagation.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1063,
     "question": "A man 1.5m tall is standing 3m in front of a pinhole camera whose distance between the hole and the screen is 0.1m. What is the height of the image of the man on the screen?",
     "option": {
@@ -1212,6 +1420,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nInitial temperature, T₁ = 0 °C = 273 K\nInitial volume, V₁ = 200 m³\nFinal temperature, T₂ = 273 °C = 273 + 273 = 546 K\nPressure is constant.\n\nSolution:\n\nStep 1: Charles' law\nAt constant pressure, V ∝ T (absolute temperature).\nV₁ / T₁ = V₂ / T₂\n\nStep 2: Rearrange to find V₂\nV₂ = V₁ × (T₂ / T₁)\n\nStep 3: Substitute values\nV₂ = 200 × (546 / 273) = 200 × 2 = 400 m³",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1158,
+    "question": "What mass of silver is deposited during electrolysis when a current of 0.8 A flows for 25 minutes?",
+    "option": {
+      "a": "0.22 g",
+      "b": "1.86 g",
+      "c": "0.14 g",
+      "d": "1.34g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nCurrent, I = 0.8 A\nTime, t = 25 minutes = 25 × 60 = 1500 s\nElectrochemical equivalent of silver, Z = 1.118 × 10⁻⁶ kg C⁻¹ (standard value from scientific literature) \n\nSolution:\n\nStep 1: Calculate total charge passed\nQ = I × t = 0.8 × 1500 = 1200 C\n\nStep 2: Calculate mass deposited\nUsing Faraday's first law of electrolysis: m = Z × Q\nm = (1.118 × 10⁻⁶) × 1200 = 1.3416 × 10⁻³ kg\n\nStep 3: Convert to grams\n1.3416 × 10⁻³ kg = 1.3416 g ≈ 1.34 g",
     "examtype": "utme",
     "examyear": "2025"
   }
