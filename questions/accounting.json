@@ -64,6 +64,22 @@
     "examyear": "2013"
   },
   {
+    "id": 139,
+    "question": "Given:  Drawings [3,500]; Net loss [2, 500]; Capital 1.1.2007 [35, 000], Additional capital [10, 000]. The adjusted capital as at 31 : 12 : 2007 is",
+    "option": {
+      "a": "N45, 000",
+      "b": "N39,000",
+      "c": "N35, 000",
+      "d": "N46, 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 149,
     "question": "A discount that is allowed to encourage a debtor to pay off his debt within a period is the",
     "option": {
@@ -208,6 +224,22 @@
     "examyear": "2012"
   },
   {
+    "id": 309,
+    "question": "Which of the following is a real account?",
+    "option": {
+      "a": "Plant account",
+      "b": "Salaries account",
+      "c": "Creditors account",
+      "d": "Trading account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 311,
     "question": "Which of the following is not a book of original entry?",
     "option": {
@@ -219,6 +251,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 315,
+    "question": "The accounting entry to correct sales day book overcast is",
+    "option": {
+      "a": "debit Sales Account and credit Debtors Account",
+      "b": "debit Suspense Account and credit Sales Account",
+      "c": "debit Debtors Account and credit Suspense Account",
+      "d": "debit Sales Account and credit Suspense Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -299,6 +347,22 @@
     "section": "Shaku Company Ltd: Stock [N 3,600, 000]; Cash at hand [N800, 000]; Cash in bank [2,400, 000]; Debtors [ 580, 000]; Trade creditors [N 920, 000 ]; \tBank overdraft [ N200, 000 ]; Tax liabilities [N600, 000]; Salary owed to staff {N 180, 000]",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 455,
+    "question": "A pension granted to any past president or vice-president shall be charged to the",
+    "option": {
+      "a": "consolidated revenue fund",
+      "b": "special pension fund",
+      "c": "contingency fund",
+      "d": "development fund."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -448,6 +512,22 @@
     "examyear": "2018"
   },
   {
+    "id": 679,
+    "question": "Calls in advance are treated in the balance sheet as_______",
+    "option": {
+      "a": "Current asset",
+      "b": "Fixed asset",
+      "c": "Current liability",
+      "d": "Fixed liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "calls in advance is treated as a current liability until the calls are made and the amount actually becomes payable by the shareholders",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 706,
     "question": "The rent expense for Trendy store is ₦3500. Trendy store has three departments; jewelry, hair dressing, and clothing. The floor spaces occupied by the departments are 3:2:5 respectively. What is the rent allocated to clothing department?",
     "option": {
@@ -478,6 +558,22 @@
     "solution": "The interest on Joy’s drawings is ₦9.75, calculated as follows:\n\n₦100 drawn on April 1 for 9 months:\n₦100 × 5% × 9/12 = ₦3.75\n\n₦240 drawn on July 1 for 6 months:\n₦240 × 5% × 6/12 = ₦6.00\n\nTotal interest = ₦3.75 + ₦6.00 = ₦9.75.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 719,
+    "question": "Accounts can be classified into",
+    "option": {
+      "a": "cash and credit transactions",
+      "b": " cash and credit accounts",
+      "c": "personal and private account",
+      "d": "personal and impersonal account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Accounts in accounting are primarily divided into:\n\nPersonal accounts, which relate to individuals, firms, and other organizations.\n\nImpersonal accounts, which are further subdivided into real accounts (assets) and nominal accounts (incomes and expenses).",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 725,
@@ -524,6 +620,22 @@
     "image": "",
     "answer": "b",
     "solution": "Carriage outwards (distribution or delivery expense) varies directly with sales activity and is therefore apportioned to departments based on their relative turnover. Carriage inwards relates to purchases, while discount received and returns outwards aren’t selling‐related expenses.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 813,
+    "question": "Given the following departmental information: Department A has a gross profit of ₦6,000 and Department B has a gross profit of ₦4,000, making a total gross profit of ₦10,000. The total expenses are as follows: Salaries and wages ₦3,000, Electricity ₦2,000, and Depreciation ₦1,000, totaling ₦6,000 in expenses. Department A shows salaries and wages of ₦1,800 and depreciation of ₦600, while Department B shows salaries and wages of ₦1,200 and net profit of ₦1,600. The organization apportions expenses in the proportion 60:40 for departments A and B respectively. What is the net profit made by department A?",
+    "option": {
+      "a": " ₦2000",
+      "b": "₦3600",
+      "c": "₦3000",
+      "d": "₦2400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To find Department A's net profit, allocate the electricity expense using the 60:40 ratio:\nElectricity allocation:\n\nDepartment A: 60% of ₦2,000 = ₦1,200\nDepartment B: 40% of ₦2,000 = ₦800\n\nDepartment A's calculation:\n\nGross profit: ₦6,000\nLess: Salaries and wages: ₦1,800\nLess: Electricity: ₦1,200\nLess: Depreciation: ₦600\nNet profit for Department A = ₦6,000 - ₦1,800 - ₦1,200 - ₦600 = ₦2,400",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -604,6 +716,22 @@
     "image": "",
     "answer": "d",
     "solution": "Trial Balance:\nDebit Side:\n\nPurchases = ₦7,500\nLight expenses = ₦900\nRent = ₦1,500\nDebtors = ₦6,000\nDrawings = ₦2,500\nBank = ₦400\nGeneral expenses = ₦1,500\nTotal Debit = ₦20,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300\n\nWait, let me adjust to make it balance properly:\nCorrected figures:\n\nCapital = ₦13,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 972,
+    "question": "<b>Use the information below to answer questions 7 to 8.</b>\n\n(i) Cash at bank (ii) Cash in hand (iii) Premises\n(iv) Land (v) Creditors (vi)loan from friends/bank.\n\nWhat are the current assets?",
+    "option": {
+      "a": " i and ii",
+      "b": "i and v",
+      "c": "ii and iv",
+      "d": "iii and v"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Current assets are short-term assets convertible to cash within a year, cash at bank and cash in hand.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -864,6 +992,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1367,
+    "question": "Responsibility accounting is particularly concerned with?",
+    "option": {
+      "a": " histoical accounting",
+      "b": "controllable costs",
+      "c": " storekeeping",
+      "d": "valuation of stock"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Responsibility accounting is a system of accounting that:\n\nIdentifies areas of responsibility within an organization (e.g., departments, units, or managers),\n\nMeasures the performance of those areas, and\n\nHolds the responsible managers accountable for the costs and revenues they can control.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
     "id": 1373,
     "question": "If the inventory at the end of the current year is understated and the error is not caught during the following year, the effect is to?",
     "option": {
@@ -878,6 +1022,22 @@
     "solution": "Year 1 (Current Year) - Ending inventory understated:\n\nCost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory\nIf ending inventory is understated (too low), COGS will be overstated (too high)\nIf COGS is overstated, Net Income will be understated (too low)\n\nYear 2 (Following Year) - The understated ending inventory becomes beginning inventory:\n\nBeginning inventory is understated (too low)\nCost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory\nIf beginning inventory is understated, COGS will be understated (too low)\nIf COGS is understated, Net Income will be overstated (too high)\n\nSummary:\n\nYear 1: Income is understated (too low)\nYear 2: Income is overstated (too high)\nThe error self-corrects over the two-year period",
     "examtype": "utme",
     "examyear": "1998"
+  },
+  {
+    "id": 1390,
+    "question": "The contribution marginal on a job is the?",
+    "option": {
+      "a": "gross profit",
+      "b": " net profit",
+      "c": " excess of sales revnue over variable costs",
+      "d": "difference between fixed and variable costs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Contribution Margin = Sales Revenue − Variable Costs\n\nIt represents the amount available to cover fixed costs and then contribute to profit",
+    "examtype": "utme",
+    "examyear": "199"
   },
   {
     "id": 1396,
@@ -912,6 +1072,22 @@
     "examyear": "199"
   },
   {
+    "id": 1428,
+    "question": "On the 30/5/93 Tolu & Co. paid 2 years rent of ₦50,000 which was debited to the rent account.\nAt 31/12/93, what portion of that amount was prepaid?",
+    "option": {
+      "a": "₦14,583",
+      "b": "₦25,000",
+      "c": "₦35,417",
+      "d": "₦37,415"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To find the prepaid portion at 31 Dec 1993:\n\nThe ₦50,000 paid on 30 May 1993 covers 24 months (30 May 93–29 May 95).\n\nBy 31 Dec 1993, 7 months’ rent have been “used up” (June–December).\n\nRemaining prepaid months = 24 – 7 = 17 months.\n\nPrepaid amount = 17/24 × 50,000 = 35,416.67 ≈ ₦35,417",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1446,
     "question": "Share premium can be used to?\ni. write off discount on shares\nii. give loans to directors\niii.pay dividends\niv. pay company's formation expenses.",
     "option": {
@@ -940,6 +1116,38 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756671991/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q34-35_xtycy4.jpg",
     "answer": "a",
     "solution": "To calculate the Accumulated Fund on 1st January 1993, we prepare a Statement of Affairs using the opening balances (assets – liabilities).\n\nStep 1: Identify assets on 1/1/93\nCash/Bank balance (from Receipts & Payments b/d) = ₦720\n\nSubscriptions in arrears = ₦300\n\nFurniture = ₦7,000\n\nTotal Assets = ₦720 + ₦300 + ₦7,000 = ₦8,020\n\nStep 2: Identify liabilities on 1/1/93\nSubscriptions received in advance = ₦500\n\nRate owing = ₦50\n\nTotal Liabilities = ₦500 + ₦50 = ₦550\n\nStep 3: Accumulated Fund\n\nAccumulated Fund = Total Assets − Total Liabilities\nAccumulated Fund = ₦8,020 − ₦550 =₦7,470",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1451,
+    "question": "The correct closing balance for Musa’s current account\nis",
+    "option": {
+      "a": "₦20,000 credit",
+      "b": "₦16,600 credit",
+      "c": "₦16,600 debit",
+      "d": "₦1,800 credit"
+    },
+    "section": "<b>Use the table below to answer questions 37 and 38</b>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672047/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q37-38_sdjnqq.png",
+    "answer": "a",
+    "solution": "To find the correct closing balance for Musa's current account, properly arrange the account with debits on the left and credits on the right.\nMusa's Current Account (Corrected):\nDebit Side (Left):\n\nDrawings: ₦8,800\nBalance c/d (if credit balance): ?\n\nCredit Side (Right):\n\nBalance b/d: ₦1,800\nInterest on capital: ₦800\nShare of profit: ₦26,200\n\nCalculation:\nTotal credits = ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nLess: Drawings = ₦8,800\nNet credit balance = ₦28,800 - ₦8,800 = ₦20,000\nWait, let me recalculate more carefully:\nCredit side total: ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nDebit side: Drawings ₦8,800\nBalance c/d: ₦28,800 - ₦8,800 = ₦20,000 credit",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1457,
+    "question": "Share premium can be used to\n\ni. Write off discount on shares ii. Give loans to directors, iii. Pay dividends, iv. Pay company’s formation expenses",
+    "option": {
+      "a": "i and iv only",
+      "b": "i andiii",
+      "c": "ii and iii only",
+      "d": "iii and ivonly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The share premium account can only be used for purposes allowed by law, such as:\n\nWriting off discount on shares (i)\n\nPaying company’s formation (preliminary) expenses (iv)\n\nIssuing fully paid bonus shares",
     "examtype": "utme",
     "examyear": "1997"
   }
