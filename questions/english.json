@@ -3363,6 +3363,25 @@
     "category": "others"
   },
   {
+    "id": 191,
+    "question": "The first prize was",
+    "option": {
+      "a": "a carved wooden, attractive ",
+      "b": "a wooden attractive carved   ",
+      "c": " an attractive carved wooden   ",
+      "d": "a carved attractive wooden tray "
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 192,
     "question": "Tsadu always cautions that difficult jobs should be done",
     "option": {
@@ -6087,6 +6106,25 @@
       "b": "expected/win arrive ",
       "c": "expects/will arrive",
       "d": "expected/would arrive "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 360,
+    "question": "Kola was fined; ……….. thieves were given a jail sentence.",
+    "option": {
+      "a": "the rest of the",
+      "b": "rest ",
+      "c": "the rest",
+      "d": "rest off "
     },
     "section": "choose the option that best completes the gap(s).",
     "image": "",
@@ -23290,6 +23328,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 58,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1542,
+    "question": "choose the option opposite in meaning to the word(s) in italics. The manager commended the players for the <i>narrow</i> victory.",
+    "option": {
+      "a": "Difficult",
+      "b": "Unexpected",
+      "c": "Easy",
+      "d": "Expected"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Narrow here means close or small margin.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 59,
     "hasPassage": 0,
     "category": "others"
   },
