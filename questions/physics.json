@@ -1104,6 +1104,22 @@
     "examyear": "2010"
   },
   {
+    "id": 88,
+    "question": "Which of the following is not true about an object that is projected upwards at angle θ? ",
+    "option": {
+      "a": "the velocity is maximum at the maximum height ",
+      "b": "the acceleration along the horizontal direction is zero ",
+      "c": "the maximum range (Rmax) for an object moving with speed u is given by u2/g ",
+      "d": "the time it takes to get the maximum height is equal to the time it takes to come back to the point of projection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 89,
     "question": "When three coplanar non-parallel forces are in equilibrium i. they can be represented in magnitude and direction by the three sides of a triangle taken in order ii. The lines of action meet at a point iii. The magnitude of any one force equals the magnitude of the other two forces iv. Any one force is the equivalent of the other two. Which of the following statements above are correct? ",
     "option": {
@@ -4448,6 +4464,22 @@
     "examyear": "2019"
   },
   {
+    "id": 360,
+    "question": "In the molecular explanation of conduction, heat is transferred by the",
+    "option": {
+      "a": " Free electrons",
+      "b": "Free atoms",
+      "c": "Free molecules",
+      "d": "Free solids"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In the molecular explanation of conduction, heat is transferred primarily by free electrons, especially in metallic conductors where these electrons can move freely and carry thermal energy.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 361,
     "question": "The conductivity of gases at low pressure can be termed as\nI. hot cathode emission\nII. thermo ionic emission\nIII. cold cathode emission\nIV. Field emission",
     "option": {
@@ -5564,6 +5596,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nMass of copper (m_c) = 2 kg\nTemperature change (ΔT) = 100 - 0 = 100°C\nSpecific heat capacity of copper (c) = 400 J/(kg·K)\nLatent heat of fusion of ice (L_f) = 3.3 × 10⁵ J/kg\nMass of ice melted (m) = ?\n\nEnergy conservation:\nHeat lost by copper = Heat gained by ice melting\nm_c × c × ΔT = m × L_f\nSubstituting values:\n2 × 400 × 100 = m × (3.3 × 10⁵)\n80,000 = m × 330,000\nSolving for m:\nm = 80,000 / 330,000\nm = 80/330\nm = 8/33 kg\nConverting to decimal:\nm = 8/33 ≈ 0.242 kg",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 452,
+    "question": "The equation of a wave traveling along the positive x-direction is given by: y = 0.25 × 10⁻³ sin(500t - 0.025x). Determine the angular velocity of the wave motion.",
+    "option": {
+      "a": " 0.25 × 10⁻³ rad s⁻¹",
+      "b": "0.25 × 10⁻¹ rad s⁻¹",
+      "c": "5.00 × 10² rad s⁻¹",
+      "d": "2.50 × 10³ rad s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given wave equation:\ny = 0.25 × 10⁻³ sin(500t - 0.025x)\nStandard form of wave equation:\ny = A sin(ωt - kx)\nwhere:\n\nA = amplitude\nω = angular velocity (angular frequency)\nk = wave number\nt = time\nx = position\n\nComparing the given equation with standard form:\ny = 0.25 × 10⁻³ sin(500t - 0.025x)\ny = A sin(ωt - kx)\nIdentifying parameters:\n\nAmplitude (A) = 0.25 × 10⁻³ m\nAngular velocity (ω) = 500 rad/s\nWave number (k) = 0.025 rad/m\n\nConverting to scientific notation:\nω = 500 rad/s = 5.00 × 10² rad s⁻¹",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -13756,6 +13804,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nFirst displacement: 6.0 m due East\nSecond displacement: 10.0 m in the direction N30°E (30° east of north)\n\nSolution:\n\nStep 1: Resolve the second displacement into components\nTake East as +x direction and North as +y direction.\n\nx-component = 10 sin 30° = 10 × 0.5 = 5.0 m (eastward)\n\ny-component = 10 cos 30° = 10 × 0.8660 = 8.66 m (northward)\n\nStep 2: Find total components\nTotal x = 6.0 + 5.0 = 11.0 m\nTotal y = 0 + 8.66 = 8.66 m\n\nStep 3: Calculate resultant displacement\nResultant R = √[(11.0)² + (8.66)²] = √(121 + 75) = √196 = 14.0 m",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1124,
+    "question": "The graphical representation of the pressure law is always a straight line passing through the origin, only if the temperature scale is",
+    "option": {
+      "a": "Rankine",
+      "b": "Celsius",
+      "c": "Fahrenheit",
+      "d": "thermodynamic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The line passes through the origin only if the temperature is on the thermodynamic (Kelvin) scale.",
     "examtype": "utme",
     "examyear": "2025"
   },
