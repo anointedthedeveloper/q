@@ -1,5 +1,37 @@
 [
   {
+    "id": 2,
+    "question": "A body accelerates uniformly from rest at 6ms-2 for 8 seconds and then decelerates uniformly to rest in the next 5 seconds. The magnitude of the deceleration is: ",
+    "option": {
+      "a": "9.6ms-2 ",
+      "b": "48 ms-2 ",
+      "c": " 24 ms-2 ",
+      "d": "39.2 ms-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 6,
+    "question": "The ice and steam point of a thermometer are 20mm and 100mm respectively: A temperature of 75oC correspond to Ymm on the thermometer. What is Y? ",
+    "option": {
+      "a": "100mm ",
+      "b": "70mm ",
+      "c": "80mm ",
+      "d": "60mm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 15,
     "question": "A coil of copper wire of N turns is kept rotating between the poles of a magnet  such that the magnetic flux linking the coil changes continuously. Which of the  following statements is TRUE? ",
     "option": {
@@ -48,6 +80,22 @@
     "examyear": "2006"
   },
   {
+    "id": 22,
+    "question": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v. ",
+    "option": {
+      "a": "mv2/p ",
+      "b": "mv2/2p ",
+      "c": "mv/p ",
+      "d": "mv/2p"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 34,
     "question": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment? ",
     "option": {
@@ -80,6 +128,22 @@
     "examyear": "2007"
   },
   {
+    "id": 50,
+    "question": "When a yellow card is observed through a blue glass, the card would appear as ",
+    "option": {
+      "a": "black ",
+      "b": "green ",
+      "c": "red ",
+      "d": "white "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 66,
     "question": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of ",
     "option": {
@@ -94,6 +158,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 90,
+    "question": "Which of the following statements is not true about a body performing simple harmonic motion? ",
+    "option": {
+      "a": "the linear speed is the product of the angular speed and the radius or amplitude ",
+      "b": "the linear acceleration is the product of the square of the angular speed and the displacement ",
+      "c": "frequency is the number of complete revolution per second made by a vibrating body ",
+      "d": "the S.I unit of amplitude is Hertz (Hz)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
   },
   {
     "id": 96,
@@ -188,6 +268,22 @@
     "image": "",
     "answer": "b",
     "solution": "A magnetic relay is the device that allows one circuit to safely control another circuit, especially when dealing with large or dangerous currents.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 157,
+    "question": "Quantities of heat Q can be measured using a container called",
+    "option": {
+      "a": "Thermometer",
+      "b": "Measuring cylinder",
+      "c": "Calorimeter",
+      "d": "Meter rule"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -352,6 +448,22 @@
     "examyear": "2017"
   },
   {
+    "id": 267,
+    "question": "When two mirrors are placed at an angle of 90º to each other, how many images will be formed when an object is placed in front of the mirrors",
+    "option": {
+      "a": "5",
+      "b": "4",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When two plane mirrors are placed at an angle, multiple images are formed due to repeated reflections. The number of images depends on the angle between the mirrors. At 90°, three images are formed.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 270,
     "question": "What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh?",
     "option": {
@@ -464,6 +576,22 @@
     "examyear": "2018"
   },
   {
+    "id": 317,
+    "question": "What effort will a machine of efficiency 90% apply to a load of 180N if its efforts arm is twice as long as its load arm?",
+    "option": {
+      "a": "100N",
+      "b": "90N",
+      "c": "80N",
+      "d": "120N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nLoad (L) = 180 N\nEfficiency = 90% = 0.90\nEffort arm = 2 × Load arm\nEffort (E) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor a lever:\nV.R = Effort arm / Load arm = 2/1 = 2\nStep 2: Use efficiency formula\nEfficiency = M.A / V.R\nwhere M.A (Mechanical Advantage) = Load / Effort\nSubstituting:\n0.90 = M.A / 2\nM.A = 0.90 × 2 = 1.8\nStep 3: Calculate Effort\nM.A = Load / Effort\n1.8 = 180 / E\nE = 180 / 1.8\nE = 100 N",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 322,
     "question": "A ball of mass 800g moving horizontally with a speed of 5m/s hits a vertical wall and rebounds with the same speed. The impulse experienced by the ball is?",
     "option": {
@@ -478,6 +606,38 @@
     "solution": "Given information:\n\nMass (m) = 800g = 0.8 kg\nInitial velocity (u) = +5 m/s (toward wall)\nFinal velocity (v) = -5 m/s (away from wall, opposite direction)\nImpulse = ?\n\nFormula for impulse:\nImpulse = Change in momentum\nImpulse = m(v - u)\nNote: Since the ball reverses direction, we must consider the sign change.\nCalculating:\nImpulse = 0.8 × (-5 - 5)\nImpulse = 0.8 × (-10)\nImpulse = -8 kgm/s\nMagnitude of impulse:\n|Impulse| = 8 kgm/s\nExplanation:\nThe negative sign indicates direction (force acts opposite to initial motion). The magnitude of impulse is 8 kgm/s.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 364,
+    "question": "The following are parts of the eye\nI. Retina\nII. Pupil\nIII. Iris\nThe correct equivalent in the camera in the same order are",
+    "option": {
+      "a": "Diaphragm, Aperture, film",
+      "b": "Aperture, Diaphragm, Film",
+      "c": "Film, Diaphragm, Aperture",
+      "d": "Film, Aperture, Diaphragm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Retina is similar to film\nPupil is similar to aperture\nIris is similar to diaphragm",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 366,
+    "question": "A force of 6N acts horizontally on a stationary mass of 2kg for 4s. The kinetic energy gained by the mass is _________",
+    "option": {
+      "a": "366j",
+      "b": "240j",
+      "c": "144j",
+      "d": " 90j"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nForce (F) = 6 N\nMass (m) = 2 kg\nTime (t) = 4 s\nInitial velocity (u) = 0 (stationary)\nKinetic energy gained = ?\n\nStep 1: Calculate acceleration\nF = ma\n6 = 2 × a\na = 3 m/s²\nStep 2: Calculate final velocity\nv = u + at\nv = 0 + 3 × 4\nv = 12 m/s\nStep 3: Calculate kinetic energy gained\nKE = ½mv²\nKE = ½ × 2 × (12)²\nKE = 1 × 144\nKE = 144 J",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 397,
@@ -508,6 +668,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612655/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_23_l9aleb.png",
     "answer": "d",
     "solution": "Understanding equilibrium of forces:\nFor three forces in equilibrium at point O, the sum of forces in any direction must equal zero.\nResolving forces:\nHorizontal direction (along P₃):\nP₃ = P₁ cos θ₁ + P₂ cos θ₂\nVertical direction (perpendicular to P₃):\nP₁ sin θ₁ = P₂ sin θ₂\n(upward component of P₁ balances downward component of P₂)\nAnalyzing each statement:\nI. P₁ cos θ₁ = P₂ cos θ₂:\n\nThis would mean horizontal components are equal\nFALSE ✗\nThis ignores P₃, which also has a horizontal component\nThe sum of P₁ cos θ₁ and P₂ cos θ₂ equals P₃, not each other\n\nII. P₃ = P₁ cos θ₁ + P₂ cos θ₂:\n\nTRUE ✓\nHorizontal equilibrium equation\nP₃ balances the horizontal components of P₁ and P₂\n\nIII. P₁ sin θ₁ = P₂ sin θ₂:\n\nTRUE ✓\nVertical equilibrium equation\nUpward and downward vertical components balance\n\nCorrect statements: II and III",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 403,
+    "question": "The refractive index of a liquid is 1.5. If the velocity of light in vacuum is 3.0 × 10⁸ ms⁻¹, the velocity of light in the liquid is",
+    "option": {
+      "a": "1.5 × 10⁸ ms⁻¹",
+      "b": "2.0 × 10⁸ ms⁻¹",
+      "c": " 3.0 × 10⁸ ms⁻¹",
+      "d": " 4.5 × 10⁸ ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nRefractive index (n) = 1.5\nVelocity of light in vacuum (c) = 3.0 × 10⁸ m/s\nVelocity of light in liquid (v) = ?\n\nFormula for refractive index:\nn = c/v\nwhere:\n\nn = refractive index\nc = speed of light in vacuum\nv = speed of light in the medium\n\nRearranging to find v:\nv = c/n\nSubstituting values:\nv = (3.0 × 10⁸)/1.5\nv = 2.0 × 10⁸ m/s",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -572,6 +748,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nWavelength (λ) = 1.65 m\nSpeed of sound (v) = 330 m/s\nPeriod (T) = ?\n\nStep 1: Calculate frequency using wave equation\nv = fλ\nRearranging:\nf = v/λ\nSubstituting values:\nf = 330/1.65\nf = 200 Hz\nStep 2: Calculate period\nPeriod is the reciprocal of frequency:\nT = 1/f\nSubstituting:\nT = 1/200\nT = 0.005 s\nExplanation:\nThe period represents the time for one complete wave cycle (oscillation). With a frequency of 200 Hz (200 cycles per second), each cycle takes 1/200 = 0.005 seconds.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 430,
+    "question": "A boy standing some distance from the foot of a tall cliff claps his hands and hears an echo 0.5s later. If the speed of sound is 340ms⁻¹, how far is he from the cliff?",
+    "option": {
+      "a": "680m",
+      "b": "170m",
+      "c": "34m",
+      "d": "85m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nTime for echo = 0.5 s\nSpeed of sound (v) = 340 m/s\nDistance to cliff = ?\n\nUnderstanding echo:\n\nSound travels from boy to cliff and back to boy\nTotal distance = 2 × distance to cliff\nTime given is for the round trip\n\nStep 1: Calculate total distance traveled by sound\nTotal distance = Speed × Time\nTotal distance = 340 × 0.5\nTotal distance = 170 m\nStep 2: Calculate distance to cliff\nSince sound travels to the cliff and back:\nDistance to cliff = Total distance / 2\nDistance to cliff = 170 / 2\nDistance to cliff = 85 m",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -768,6 +960,22 @@
     "examyear": "2022"
   },
   {
+    "id": 487,
+    "question": "In order to view the sun, the most suitable instrument to use is?",
+    "option": {
+      "a": "helioscope",
+      "b": "telescope",
+      "c": " stroboscope",
+      "d": " sun meter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A helioscope is specifically designed for safe solar observation with appropriate filters and protective features. Direct viewing of the sun with ordinary telescopes or other instruments can cause severe eye damage or blindness.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 494,
     "question": "A train of mass 1600 kg attains a speed of 25 ms⁻¹ in 20 seconds. The power developed in the engine is?",
     "option": {
@@ -944,6 +1152,22 @@
     "examyear": "2024"
   },
   {
+    "id": 613,
+    "question": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is",
+    "option": {
+      "a": "9.6J",
+      "b": "2.4J",
+      "c": "12.0J",
+      "d": "7.2J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Energy stored = Ivt = current x back e.m.f x time\n= 2 x 3 x 0.4\n= 2.4J",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 615,
     "question": "If 16mA of current flows through a conductor in one second, the number of electrons transported per second is [1 electronic charge = 1.6 × 10⁻¹⁹C]",
     "option": {
@@ -956,6 +1180,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nCurrent, I = 16 mA = 16 × 10⁻³ A\nTime, t = 1 s\nElectronic charge, e = 1.6 × 10⁻¹⁹ C\n\nSolution:\nFormula:\nCurrent: I = Q/t\nCharge: Q = ne\nWhere:\n\nQ = total charge (in coulombs)\nn = number of electrons\ne = charge of one electron\n\nStep 1: Calculate total charge transported\nQ = I × t\nQ = 16 × 10⁻³ × 1\nQ = 16 × 10⁻³ C\nStep 2: Calculate number of electrons\nn = Q/e\nn = (16 × 10⁻³)/(1.6 × 10⁻¹⁹)\nStep 3: Simplify\nn = (16/1.6) × 10⁻³⁻(⁻¹⁹)\nn = 10 × 10⁻³⁺¹⁹\nn = 10 × 10¹⁶\nn = 1.0 × 10¹⁷\nFinal Answer:\nNumber of electrons = 1.00 × 10¹⁷ electrons",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 624,
+    "question": "I. Jet propelled aircraft\nII. Rocket propulsion\nIII. The recoil of a gun\nIV. A person walking\nWhich of the above is based on Newton's third law of motion",
+    "option": {
+      "a": "I and II only",
+      "b": "I, II, III, and IV only",
+      "c": " I and III only",
+      "d": " I, II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Newton's third law: For every action, there is an equal and opposite reaction\n\n\nAll four examples (I, II, III, and IV) are based on Newton's third law of motion.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -1056,6 +1296,22 @@
     "examyear": "2005"
   },
   {
+    "id": 665,
+    "question": "The current in a reverse-biased junction is due to?",
+    "option": {
+      "a": "minority carriers",
+      "b": "electrons",
+      "c": "majority carriers",
+      "d": "holes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The small reverse current (typically microamperes) in a reverse-biased junction is due to the drift of minority carriers across the junction, not majority carriers. This current is also called leakage current or reverse saturation current.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 670,
     "question": "The process whereby the molecules of different substances move randomly is called?",
     "option": {
@@ -1084,6 +1340,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nLength, L = 20 m\nCross‑sectional area, A = 8 × 10⁻⁶ m²\nResistivity, ρ = 4 × 10⁻⁷ Ω·m\n\nStep 1: Formula for resistance\nR = ρL / A\n\nStep 2: Substitute values\nR = (4 × 10⁻⁷ Ω·m × 20 m) / (8 × 10⁻⁶ m²)\n= (80 × 10⁻⁷ Ω·m) / (8 × 10⁻⁶ m²)\n\nStep 3: Simplify\n= (80 / 8) × 10⁻⁷⁻⁽⁻⁶⁾ Ω = 10 × 10⁻¹ Ω = 1.0 Ω",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 682,
+    "question": "The figure above shows a plot of angles of deviation through a glass prism when light is incident at θ degrees on the prism. The incident angle that produces the minimum deviation is",
+    "option": {
+      "a": "20°",
+      "b": "18°",
+      "c": "35°",
+      "d": "25°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296611/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_33_oy4esv.png",
+    "answer": "d",
+    "solution": "The curve reaches its minimum (lowest point) at approximately θ = 25°, where the deviation is approximately 18°.\n\nAt minimum deviation:\n\nThe ray passes symmetrically through the prism\nThe angle of incidence equals the angle of emergence\nThis condition is used in prism experiments to determine refractive index\n\n\nIncident angle at minimum deviation = 25°",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -1148,6 +1420,22 @@
     "image": "",
     "answer": "a",
     "solution": "The phase difference of 90° means voltage and current are in quadrature. The capacitor stores energy when charging and returns it when discharging, resulting in zero net power consumption.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 715,
+    "question": "During electrolysis, 2.0 g of a metal is deposited using a current of 0.5 A in 3 hours. The mass of the same metal which can be deposited using a current of 1.5 A in 1 hour is?",
+    "option": {
+      "a": "1.0 g",
+      "b": "0.5 g",
+      "c": "3.0 g",
+      "d": "2.0 g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nFirst case: m₁ = 2.0 g, I₁ = 0.5 A, t₁ = 3 hours\nSecond case: m₂ = ?, I₂ = 1.5 A, t₂ = 1 hour\n\nSolution:\nStep 1: Faraday's First Law of Electrolysis\nMass deposited: m = ZIt\nWhere:\n\nm = mass deposited\nZ = electrochemical equivalent (constant for a given metal)\nI = current\nt = time\n\nOr: m ∝ It (for same metal)\nStep 2: Set up relationship\nm₁/m₂ = (I₁t₁)/(I₂t₂)\nStep 3: Calculate charge in first case\nQ₁ = I₁t₁ = 0.5 × 3 = 1.5 A·hours\nStep 4: Calculate charge in second case\nQ₂ = I₂t₂ = 1.5 × 1 = 1.5 A·hours\nStep 5: Find mass ratio\nm₁/m₂ = Q₁/Q₂\n2.0/m₂ = 1.5/1.5\n2.0/m₂ = 1\nm₂ = 2.0 g",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -1228,6 +1516,22 @@
     "image": "",
     "answer": "d",
     "solution": "Diameter, d = 1.00 mm = 1.00 × 10⁻³ m\nLength, L = 2.00 m\nResistance, R = 0.1 Ω\n\nSolution:\n\nStep 1: Compute cross‑sectional area\nA = πd²/4 = π × (1.00 × 10⁻³)² / 4 = π × 10⁻⁶ / 4 ≈ 7.854 × 10⁻⁷ m²\n\nStep 2: Resistivity formula\nρ = R × A / L\n\nStep 3: Substitute values\nρ = 0.1 Ω × 7.854 × 10⁻⁷ m² / 2.00 m\n= 0.1 × 3.927 × 10⁻⁷ Ω m\n= 3.927 × 10⁻⁸ Ω m ≈ 3.93 × 10⁻⁸ Ω m",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 745,
+    "question": "A progressive wave equation is represented by y = a sin(150πt - (π/4)x). If the phase difference of the wave is 45°, the value of x in the equation is?",
+    "option": {
+      "a": "3 cm",
+      "b": "4 cm",
+      "c": "1 cm",
+      "d": "2 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nWave equation: y = a sin(150πt - (π/4)x)\nPhase difference Δφ = 45° = π/4 rad\n\nSolution:\n\nStep 1: Identify the wave number\nComparing with standard form y = a sin(ωt - kx):\nWave number k = π/4\n\nStep 2: Phase difference formula\nFor a progressive wave, phase difference Δφ = kΔx\nHere Δx is the distance x we want to find.\n\nStep 3: Substitute values\nπ/4 = (π/4) * x\n\nStep 4: Solve for x\nx = (π/4) / (π/4) = 1",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -1372,6 +1676,22 @@
     "image": "",
     "answer": "c",
     "solution": "Counting currency notes with moist fingers is based on the principle of adhesion - the attractive force between water molecules (on the finger) and paper molecules (of the note), which creates a grip that helps separate and count individual notes.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 817,
+    "question": "In a good thermos flask, heat loss is reduced through the following features EXCEPT?",
+    "option": {
+      "a": " the lens surface",
+      "b": " the insulating cork",
+      "c": " silvered walls",
+      "d": "the cork lid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The silver coating on the inner bottle of a thermos flask is used to prevent heat transfer by radiation",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -1568,6 +1888,22 @@
     "examyear": "2010"
   },
   {
+    "id": 933,
+    "question": "Which of the following is a pure semiconductor?",
+    "option": {
+      "a": "carbon",
+      "b": "silicon",
+      "c": "transistor",
+      "d": "phosphorus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A semiconductor is a material whose conductivity is between good conductor and insulator. Example of pure semi conductors are silicon and germanium",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 937,
     "question": "Two metals P and Q of length l1 and l2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of lengths is 3:4. What is the ratio of increase in length of P to Q?",
     "option": {
@@ -1596,6 +1932,38 @@
     "image": "",
     "answer": "c",
     "solution": "The liquid will rise up the capillary if it wets glass and falls below its wets glass and falls below its initial level if it does not wet glass",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 961,
+    "question": "I. Density of the liquid.\nII. Depth below the surface of the liquid.\nIII. Surface area of the liquid.\nIn which of the statement above will pressure be dependent?",
+    "option": {
+      "a": " I and II only.",
+      "b": " II and III only.",
+      "c": " I, II and III only.",
+      "d": " I and III only."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Pressure in liquid is independent of cross sectional area of the container/ liquid\n∴ the correct options are I & II",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 968,
+    "question": "The phenomenon that shows that increase in pressure lowers the melting point can be observed in",
+    "option": {
+      "a": "sublimation",
+      "b": "condensation",
+      "c": "coagulation",
+      "d": "regelation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Regelation means refreezing a phenomenon whereby melted ice free from increased pressure refreezed when they are released from the pressure.",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -1808,6 +2176,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1036,
+    "question": "The process of detecting a pin mistakenly swallowed by a child is X-ray",
+    "option": {
+      "a": "Diagnosis",
+      "b": "Therapy",
+      "c": "Crystallography",
+      "d": "Mammography"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "X-rays are used in medicine for various purposes including imaging, treatment, and analysis.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1059,
     "question": "A wave that travels through stretched strings is known as",
     "option": {
@@ -1856,6 +2240,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1066,
+    "question": "If the linear magnification of the objective and eyepiece convex lenses of a compound microscope are 4 and 7 respectively. Calculate the angular magnification of the microscope",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "11",
+      "d": "28"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nLinear magnification of objective = 4\nLinear magnification of eyepiece = 7\n\nSolution:\n\nStep 1: Total magnification of a compound microscope\nThe overall angular magnification (or total magnification) is the product of the magnification of the objective and the magnification of the eyepiece.\n\nStep 2: Multiply the magnifications\nTotal magnification = 4 × 7 = 28",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1090,
     "question": "The energy in the nucleus of atoms produce heat which can be used to generate",
     "option": {
@@ -1868,6 +2268,22 @@
     "image": "",
     "answer": "c",
     "solution": "Electrical energy: This is primarily done in nuclear power plants, where the heat generated from nuclear reactions is used to produce steam that drives turbines, ultimately generating electricity.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1105,
+    "question": "In a compound microscope, the objective and the eye piece focal lengths are",
+    "option": {
+      "a": "At infinity",
+      "b": "Long",
+      "c": "Short",
+      "d": "The same"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A compound microscope uses two convex lenses: an objective lens (near the object) and an eyepiece lens (near the eye). To achieve high magnification, both lenses need to have short focal lengths.",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -1900,6 +2316,22 @@
     "image": "",
     "answer": "d",
     "solution": "It is longitudinal (String waves are transverse; perpendicular to propagation.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1127,
+    "question": "The emf of a cell is the potential difference across its terminals when it is in",
+    "option": {
+      "a": " series connection",
+      "b": "closed circuit",
+      "c": "open circuit",
+      "d": "parallel connection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "open circuit (EMF is maximum PD with no current drawn.",
     "examtype": "utme",
     "examyear": "2025"
   },
