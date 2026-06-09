@@ -27474,6 +27474,25 @@
     "category": "others"
   },
   {
+    "id": 1742,
+    "question": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.\n\nDi<u>ce</u>",
+    "option": {
+      "a": "shame",
+      "b": "cue",
+      "c": "chair",
+      "d": "loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The correct answer is ‘D’ because only ‘loss’ /lcs/ has the same consonant sound as ‘dice’ /dais/. Others are ‘shame’ /seim/, ‘cue’ /kju/, ‘chair’ /ʧea/ or /ʧer/",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 55,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1743,
     "question": "My --------------------- is for you to refuse the -------------- of the wicked",
     "option": {
