@@ -16496,6 +16496,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1159,
+    "question": "Differentiate the function y = <sup>3</sup>√x<sup>2</sup>(2x − x<sup>2</sup>)",
+    "option": {
+      "a": "dy/dx=10x<sup>5/3</sup>/3−8x<sup>2/3</sup>/3",
+      "b": "dy/dx=10x<sup>2/3</sup>/3−8x<sup>5/3</sup>/3",
+      "c": "dy/dx=10x<sup>5/3</sup>/3−8x<sup>5/3</sup>/3",
+      "d": "dy/dx=10x<sup>2/3</sup>/3−8x<sup>5/3</sup>/3"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mroot>\n    <msup>\n      <mi>x</mi>\n      <mn>2</mn>\n    </msup>\n    <mn>3</mn>\n  </mroot>\n  <mo stretchy=\"false\">(</mo>\n  <mn>2</mn>\n  <mi>x</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <msup>\n    <mi>x</mi>\n    <mn>2</mn>\n  </msup>\n  <mo stretchy=\"false\">)</mo>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "y = <sup>3</sup>√x<sup>2</sup>(2x−x<sup>2</sup>) = x<sup>(2/3)</sup>(2x − x<sup>2</sup>)\n= 2x<sup>(5/3)</sup> − x<sup>(8/3)</sup> Now, we can differentiate the function\n\n∴dy/dx = (10x<sup>(2/3)</sup>)/3 − (8x<sup>(5/3)</sup>/3",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1160,
     "question": "Calculate the mean deviation of the first five prime numbers.",
     "option": {
