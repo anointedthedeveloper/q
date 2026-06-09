@@ -64,6 +64,38 @@
     "examyear": "2014"
   },
   {
+    "id": 84,
+    "question": "Which of the following is not a function of political parties?",
+    "option": {
+      "a": "Aggregation of opinion",
+      "b": "Educating the government",
+      "c": "Interest articulation",
+      "d": "Unifying factor."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 125,
+    "question": "The following are causes of emergency rule except",
+    "option": {
+      "a": "crisis",
+      "b": "blood lettings",
+      "c": "stage peaceful protest",
+      "d": "sabotage / terrorism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 131,
     "question": "The organization with the motives and goals of helping people is called",
     "option": {
@@ -176,6 +208,38 @@
     "examyear": "2013"
   },
   {
+    "id": 210,
+    "question": "For which of these can someone be arrested while driving on a high way",
+    "option": {
+      "a": "driving and laughing",
+      "b": "driving and singing",
+      "c": "driving and eating or receiving phone call",
+      "d": "driving and crying"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 212,
+    "question": "The armed forces and the police are part of the ........ organ of government",
+    "option": {
+      "a": "executive",
+      "b": "judicial",
+      "c": "legislative",
+      "d": "informative"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 224,
     "question": "The power to legislate is usually exercised by",
     "option": {
@@ -203,6 +267,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 237,
+    "question": "Popular participation refers to",
+    "option": {
+      "a": "Political Apathy",
+      "b": "The active involvement of citizens in the social political activities of a country",
+      "c": "The rule of the party with the largest number of supporters",
+      "d": "The rule of a prominent and popular politician"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -240,6 +320,22 @@
     "examyear": "2013"
   },
   {
+    "id": 286,
+    "question": "The Ebola disease is usually acquired when a person comes in contact with",
+    "option": {
+      "a": "the blood or bodily fluids of an infested organism",
+      "b": "anybody whose name is Bola",
+      "c": "any animal",
+      "d": "snake fish"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 312,
     "question": "In Lagos state and some other states in Nigeria, motorcycle (okada) riders are expected to wear ............ while on motion",
     "option": {
@@ -247,6 +343,22 @@
       "b": "Hand glove",
       "c": "Crash helmet",
       "d": "Black coloured shirt"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 332,
+    "question": "The age limit for the service is ..............",
+    "option": {
+      "a": "25",
+      "b": "35",
+      "c": "30",
+      "d": "18"
     },
     "section": "",
     "image": "",
@@ -288,6 +400,22 @@
     "examyear": "2016"
   },
   {
+    "id": 385,
+    "question": "According to the above story, the open trial of Dr. Fajir and his representation by lawyers of his choice in a court of competent jurisdiction is an indication of",
+    "option": {
+      "a": "respect for habeas corpus",
+      "b": "freedom of expression",
+      "c": "respect for human rights",
+      "d": "freedom of legal representation"
+    },
+    "section": "Dr. Fajir was the Minister of Works and Urban Development in the Gambia Republic. As such, he was entrusted with the public fund so that his ministry could construct new roads and rehabilitate the existing ones. Unfortunately. Dr Fajir embezzled the money entrusted in his care and siphoned same to his foreign accounts. This led to the deplorable conditions of roads in the Republic. The Crime Commission arrested and prosecuted him accordingly. Subsequently, he was given the opportunity to be defended by lawyers of his choice in a Court of Law. However, he was found guilty and sentenced to 15 years imprisonment with hard labour without the option of a fine. In addition, he forfeited all his ill-gotten wealth to the Republic.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
     "id": 418,
     "question": "A situation whereby someone is obliged to inform a superior about his actions and decisions for the purpose of control is",
     "option": {
@@ -299,6 +427,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 425,
+    "question": "Democracy can promote national development if there is",
+    "option": {
+      "a": "good governance",
+      "b": "promotion of culture",
+      "c": "immunity for leaders",
+      "d": "registration of parties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
