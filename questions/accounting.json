@@ -464,6 +464,22 @@
     "examyear": "2012"
   },
   {
+    "id": 52,
+    "question": "A petty cash fund is:",
+    "option": {
+      "a": "Used to pay relatively small amount",
+      "b": "reimbursed when the amount of money in the fund is reduced to a predetermined minimum amount",
+      "c": "Established by estimating the amount of cash needed for disbursement of  relatively small amount during a specified period  ",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 53,
     "question": "A debit may signify: ",
     "option": {
@@ -2016,6 +2032,22 @@
     "examyear": "2006"
   },
   {
+    "id": 219,
+    "question": "Books of account consists of",
+    "option": {
+      "a": "ledgers and subsidiary books",
+      "b": "ledgers and principal books",
+      "c": "folios and subsidiary books",
+      "d": "ledgers and cash book."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 222,
     "question": "Which of the following is not a revenue account?",
     "option": {
@@ -2203,6 +2235,22 @@
     "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 240,
+    "question": "Cost of goods manufactured is",
+    "option": {
+      "a": "D138,000",
+      "b": "D131,800",
+      "c": "D130,500",
+      "d": "D123,000."
+    },
+    "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -3504,6 +3552,22 @@
     "examyear": "2004"
   },
   {
+    "id": 407,
+    "question": "The beginning and ending accounts receivable balances were N 20,000 and N 30,000 respectively.The collection from customers during the period was N 70.000. What was the total sale on account?",
+    "option": {
+      "a": "N 20,000",
+      "b": "N 60,000",
+      "c": "N 80,000",
+      "d": "N 120,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 408,
     "question": "Determine how much to be charged to profit and loss account.",
     "option": {
@@ -4352,6 +4416,22 @@
     "examyear": "2009"
   },
   {
+    "id": 494,
+    "question": "Apart from the common control accounts, a control account can also be opened for",
+    "option": {
+      "a": "sales account",
+      "b": "purchases account",
+      "c": "cash account",
+      "d": "wages account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 495,
     "question": "Which of the following is a debit item in the purchases ledger control account?",
     "option": {
@@ -4427,6 +4507,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 504,
+    "question": "Which of the following is a common cause of a discrepancy between head office and branch trial balance?",
+    "option": {
+      "a": "Debtors and cash in transit",
+      "b": "Creditors and cash in transit",
+      "c": "Stock and cash in transit",
+      "d": "Stock and prepayments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -7136,6 +7232,22 @@
     "examyear": "2021"
   },
   {
+    "id": 826,
+    "question": "The formular for calculating depreciation using straight line method is",
+    "option": {
+      "a": "Cost-scrap value/useful life",
+      "b": "Scrap value + sales/useful life",
+      "c": " Sales-scrap value/useful life",
+      "d": "Purshases + sales/useful life"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The straight‐line method spreads the depreciable amount (original cost less residual value) evenly over the asset’s useful life. Therefore annual depreciation = (Cost – Scrap Value) ÷ Useful Life.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 827,
     "question": "The two legally recognized professional accounting bodies in Nigeria are the ",
     "option": {
@@ -8112,6 +8224,22 @@
     "examyear": "2024"
   },
   {
+    "id": 952,
+    "question": "The chief accounting officer of the Federation is",
+    "option": {
+      "a": " Auditor General",
+      "b": "Minister of Economic Planning",
+      "c": "Chief Accountant",
+      "d": "Accountant General"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Accountant General of the Federation is the head of the Office of the Accountant General of the Federation (OAGF), which is the treasury of the Federal Republic of Nigeria. They are responsible for overseeing the government's receipts and payments, ensuring proper accounting practices, and managing the Federation Account.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 954,
     "question": "Based on the following information, calculate the raw materials available for production:\nOpening stock of raw materials on 1/1/09 was ₦2,000, work-in-progress was ₦5,000, closing stock of raw materials on 31/12/09 was ₦500, work-in-progress was ₦4,000, raw materials purchased during the year was ₦18,000, direct labour was ₦7,500, direct expenses were ₦3,000, and factory expenses were ₦10,000.",
     "option": {
@@ -9040,6 +9168,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1052,
+    "question": "Profit or loss in a partnership is usually arrived at after deducting from gross profit all expenses including?",
+    "option": {
+      "a": " partners' salaries",
+      "b": " interest on capital",
+      "c": "partners' drawings",
+      "d": "interest on loans"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Explanation: Profit or loss is found after deducting operating expenses (e.g., rent, wages, interest on loans). Items like partners' drawings are not expenses, and partners' salaries or interest on capital are typically treated as appropriations of profit (handled in the profit & loss appropriation account), not ordinary business expenses.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1053,
     "question": "<b>Use the information below to answer questions 39 to 40</b>\n\n\nJide and Haruna contribute ₦12000 each as capital and share profit equally. Jide draws ₦1500 and Haruna ₦1700 half-yearly. The profit for the year is ₦10000. Jide receives a salary of ₦2000.\n\nCalculate the profit available for appreciation?",
     "option": {
@@ -9150,6 +9294,22 @@
     "solution": "Current Assets:\n\nStock = ₦10,000\nDebtors = ₦15,000\nCash = ₦5,000\nTotal Current Assets = ₦30,000\n\nCurrent Liabilities:\n\nCreditors = ₦8,000\nWages owed = ₦4,000\nRent owed = ₦3,000\nTotal Current Liabilities = ₦15,000\n\nCurrent Ratio:\nCurrent Ratio = Current Assets ÷ Current Liabilities\nCurrent Ratio = ₦30,000 ÷ ₦15,000 = 2:1\nTherefore, the current ratio is 2:1",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 1065,
+    "question": "The accounting principle that is applied to check arbitrary actions on the part of accountants is?",
+    "option": {
+      "a": "consistency",
+      "b": "materiality",
+      "c": "objectivity",
+      "d": "realization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Reason: The objectivity principle requires accounting information to be supported by unbiased, verifiable evidence (invoices, receipts, contracts). This prevents accountants from making arbitrary or subjective adjustments because entries must be based on objective documentation.",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 1072,
@@ -9488,6 +9648,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1119,
+    "question": "<b>Use the information below to answer questions 4 and 5</b>\n\nCapital ...................₦2000\nBank ......................₦1200\nPurchase ..................₦2500\nSales .....................₦6700\nStock .....................₦1300\nCreditors .................₦1000\nFixed assets...............₦3700\nDrawings ..................₦?\n\n\nDrawings are always estimated at 50% of capital.\n\nCompute the amountwithdrawn",
+    "option": {
+      "a": "₦2 000",
+      "b": "₦ 1 500",
+      "c": "₦1 200",
+      "d": "₦1000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Amount withdrawn (drawings) = 50% of capital = 0.5 × ₦2,000 = ₦1,000.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1120,
     "question": "<b>Use the information below to answer questions 6 and 7.</b>\n\nEzekiel Malgwi is a retailer. He recorded sales representing\n95% cash and 5% credit. He took the total cash sales of ₦19,000 from the business tray and banked it.\n\nThe credit sales for the period would be",
     "option": {
@@ -9744,6 +9920,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1151,
+    "question": "Emeka Enterprises Statement of Affairs at start\nAssets:\n\nCash: ₦70,000\nInventory: ₦58,000\nMachines: ₦100,000\n\nLiabilities:\n\nCreditors: ₦85,000\nBank Loan: ₦60,000\n\nWhat is the capital at start?",
+    "option": {
+      "a": "₦53000",
+      "b": "₦63000",
+      "c": "₦73000",
+      "d": "₦83000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Assets:\n\nCash: ₦70,000\nInventory: ₦58,000\nMachines: ₦100,000\nTotal Assets = ₦70,000 + ₦58,000 + ₦100,000 = ₦228,000\n\nLiabilities:\n\nCreditors: ₦85,000\nBank Loan: ₦60,000\nTotal Liabilities = ₦85,000 + ₦60,000 = ₦145,000\n\nCalculation:\nCapital at start = Total Assets - Total Liabilities\nCapital at start = ₦228,000 - ₦145,000 = ₦83,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1154,
     "question": "Which of these is a capital expenditure warrant?",
     "option": {
@@ -9900,6 +10092,22 @@
     "image": "",
     "answer": "a",
     "solution": "Total expenses = ₦350 + ₦335 + ₦265 = ₦950.\nSo the imprest must be replenished by ₦950.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1170,
+    "question": "In an incomplete record, the preparation of the bank reconciliation ensures that?",
+    "option": {
+      "a": " all cash taking are banked",
+      "b": "the cash book is correct",
+      "c": "there are no overdrafts",
+      "d": "there are no hidden loans"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Reason: a bank reconciliation compares the cash book with the bank statement, identifying and explaining differences (unpresented cheques, uncredited lodgements, bank charges, etc.) to ensure the cash book balance is accurate.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -10384,6 +10592,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1220,
+    "question": "<b>Use the information below to answer questions 5 and 6.\nGiven:</b>\n\nFixed assets ₦85,600\nSales ₦197,000\nStock ₦34,300\nSalaries ₦37,000\nPurchases ₦127,700\nShare capital ₦120,000\nCreditors ₦16, 050\nMotor expenses ₦10,500\nDebtors ₦25,000\n\nDetermine the total of the trial balance?",
+    "option": {
+      "a": " ₦335,050",
+      "b": "₦333,050",
+      "c": "₦323,050",
+      "d": "₦230,550"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "DEBIT BALANCES:\n\nFixed assets: ₦85,600\nStock: ₦34,300\nSalaries: ₦37,000\nPurchases: ₦127,700\nMotor expenses: ₦10,500\nDebtors: ₦25,000\nCash: ₦12,950\nTotal Debits: ₦333,050\n\nCREDIT BALANCES:\n\nSales: ₦197,000\nShare capital: ₦120,000\nCreditors: ₦16,050\nTotal Credits: ₦333,050\n\nSince the trial balance must balance, both debit and credit sides should have the same total.\nThe total of the trial balance is ₦333,050.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1221,
     "question": "The accuracy of journalist is checked by?",
     "option": {
@@ -10592,6 +10816,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1241,
+    "question": "Lubricating oil and spare parts of machinery are examples of?",
+    "option": {
+      "a": "direct materials",
+      "b": "indirect materials",
+      "c": " indirect expenses",
+      "d": "direct expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "These items are classified as indirect materials because:\n\nLubricating oil: Used to maintain machinery but cannot be directly traced to specific units of production. It's consumed by the machinery that produces various products.\nSpare parts: Used for maintenance and repair of machinery. While essential for production, they cannot be directly allocated to specific products being manufactured.\n\nKey distinction:\n\nDirect materials become part of the finished product and can be easily traced to specific units (e.g., raw materials like steel in car manufacturing)\nIndirect materials support the production process but cannot be economically traced to individual products",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1242,
     "question": "<b>Use the information below to answer questions 28 and\n29</b>\n\nSubscription received during the year ₦30,000\nSubscription owed last year ₦4,000\nSubscription received for next year ₦6,000\n\nThe ₦6,000 subscription received is?",
     "option": {
@@ -10684,6 +10924,22 @@
     "image": "",
     "answer": "c",
     "solution": "Current Assets:\n\nDebtors: ₦13,000\nCash in hand: ₦5,000\nTotal Current Assets = ₦18,000\n\nCurrent Liabilities:\n\nCreditors: ₦25,000\nTotal Current Liabilities = ₦25,000\n\nNet Current Assets = Current Assets - Current Liabilities\nNet Current Assets = ₦18,000 - ₦25,000 = -₦7,000\nThe net current assets is -₦7,000 (negative ₦7,000).",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1256,
+    "question": "<b>Use the information below to answer questions 41 and 42</b>\n\nGiven the following information: Authorized capital of ₦100,000 ordinary shares of ₦1 each, issued and fully paid 50,000 ordinary shares of ₦1 each amounting to ₦50,000, 10,000 8% preference shares of ₦1 each, reserves ₦10,000, creditors ₦25,000, debtors ₦13,000, and cash in hand ₦5,000. Calculate the shareholder’sfund.",
+    "option": {
+      "a": "₦70,000.",
+      "b": "₦75,000",
+      "c": "₦85,000",
+      "d": "₦185,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Shareholders' fund represents the total equity belonging to shareholders, which includes share capital and reserves.\nShareholders' Fund consists of:\n\nOrdinary share capital (issued and fully paid): ₦50,000\n8% preference shares: ₦10,000\nReserves: ₦10,000\n\nTotal Shareholders' Fund = ₦50,000 + ₦10,000 + ₦10,000 = ₦70,000\nTherefore, the shareholders' fund is ₦70,000.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -10924,6 +11180,22 @@
     "image": "",
     "answer": "c",
     "solution": "The opening Statement of Affairs in an incomplete‐records system is essentially a makeshift balance sheet showing the business’s assets and liabilities at the period’s start.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1285,
+    "question": "In a manufacturing company, the total cost of goods produced is equivalent to?",
+    "option": {
+      "a": "purchases",
+      "b": "sales",
+      "c": "cost of goods sold",
+      "d": "cost of materials used"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The total cost of goods produced (often called cost of goods manufactured) in a manufacturing company represents the full production cost of items completed during the period. Once transferred out of production, these costs become the Cost of Goods Sold when those finished goods are sold.",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -11696,6 +11968,22 @@
     "examyear": "1998"
   },
   {
+    "id": 1372,
+    "question": "The purchase of two generators by Hassan Electronics Enterprises should be recorded as?",
+    "option": {
+      "a": "an acquistion of fixed assets",
+      "b": "an expenses in its general office expenses account",
+      "c": "an acquistion of stock",
+      "d": "a part of capital in the capital account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Generators are not items meant for resale (stock), nor are they everyday operational costs (expenses).\n\nThey are long-term assets used in the running of the business, typically for providing power to the premises.\n\nTherefore, the purchase of generators is considered an acquisition of fixed assets, such as equipment or machinery.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
     "id": 1373,
     "question": "If the inventory at the end of the current year is understated and the error is not caught during the following year, the effect is to?",
     "option": {
@@ -11920,6 +12208,22 @@
     "examyear": "199"
   },
   {
+    "id": 1393,
+    "question": "<b>Use the information below to answer question 28 and 29.\nRaw materials inventory at the beginning of a period was ₦ 46,800 and at the close of the period there was a balance of ₦38,600. From the purchases made during the period, defective materials costing ₦9,200 were returned. Cost of materials consumed during the period was ₦448,500.</b>\n\nWhat was the cost of materials available for use during the period?",
+    "option": {
+      "a": "₦487,100",
+      "b": "₦449,500",
+      "c": "₦448,500",
+      "d": "₦440,300"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Opening inventory + (Purchases − Returns) \nFrom the previous calculation, Purchases = ₦449 500 and Returns = ₦9 200, so net purchases = ₦449 500 − ₦9 200 = ₦440 300.\n\nMaterials available = ₦46,800 + ₦440,300 = ₦487,100",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1394,
     "question": "The limitations of the receipts and payments account arise mainly because of the reliance on?",
     "option": {
@@ -11948,6 +12252,22 @@
     "image": "",
     "answer": "d",
     "solution": "The best distinguishing feature of a non-profit-making organization is that its routine income sources are things like annual subscriptions and levies rather than trading profits.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1401,
+    "question": "The price paid by an acquiring company is the?",
+    "option": {
+      "a": "premium",
+      "b": "purchase consideration",
+      "c": " sales consideration",
+      "d": "conversion fee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The purchase consideration is the total price paid by an acquiring company to obtain ownership of the target company’s shares or assets. It encompasses cash paid, shares issued, or other forms of payment agreed upon.",
     "examtype": "utme",
     "examyear": "199"
   },
