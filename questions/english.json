@@ -2090,6 +2090,25 @@
     "category": "others"
   },
   {
+    "id": 136,
+    "question": "It is a <i>misnomer</i> to call three thousand naira a living wage.",
+    "option": {
+      "a": "an incontrovertible assertion",
+      "b": "an appropriate term",
+      "c": "a wrong description",
+      "d": "a mishmash"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 137,
     "question": "His plans <i>boomeranged</i> on him",
     "option": {
@@ -2310,6 +2329,25 @@
     "section": "select the option that best explains the information conveyed in the sentence.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 156,
+    "question": "The crisis ended as suddenly as it began",
+    "option": {
+      "a": "The crisis ha suddenly as it began",
+      "b": "The crisis will not end suddenly",
+      "c": "The crisis stopped almost immediately",
+      "d": "The crisis will stop immediately."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005",
@@ -15903,6 +15941,25 @@
     "category": "others"
   },
   {
+    "id": 1264,
+    "question": "How old is Bint ?",
+    "option": {
+      "a": "6 years old",
+      "b": "4 years old",
+      "c": "5 years old",
+      "d": "7 years old"
+    },
+    "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 11,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1265,
     "question": " What question did Bint ask her teacher?",
     "option": {
@@ -16222,6 +16279,25 @@
     "examtype": "utme",
     "examyear": "2022",
     "questionNub": 40,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1295,
+    "question": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\n<u>F</u>oot",
+    "option": {
+      "a": "live",
+      "b": "vegetable",
+      "c": "traffic",
+      "d": "of"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Both words have the /f/ sound. Others have the /v/ sound.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 42,
     "hasPassage": 0,
     "category": "others"
   },
@@ -16564,6 +16640,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 12,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1326,
+    "question": "KOTL means ___________",
+    "option": {
+      "a": "Kiss on the lips",
+      "b": "Kiss on the lab",
+      "c": "kiss on-top the lips",
+      "d": "Kiss on-top the legs"
+    },
+    "section": "This question is based on Bolaji Abdullahi's Sweet Sixteen",
+    "image": "",
+    "answer": "a",
+    "solution": "KOTL means 'Kiss On The Lips'\n\nSee page 31",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 13,
     "hasPassage": 0,
     "category": "others"
   },
@@ -18312,6 +18407,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 106,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1480,
+    "question": "Neighb[our]",
+    "option": {
+      "a": "blood",
+      "b": "standard",
+      "c": "board",
+      "d": "source"
+    },
+    "section": "Choose the word that has the same vowel sound as the one in bracket, from questions below",
+    "image": "",
+    "answer": "b",
+    "solution": "The vowel sound obtainable here is the /∂/ sound as in 'brother'. Stand[ar]d qualifies in this regard.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 107,
     "hasPassage": 0,
     "category": "others"
   },
@@ -22682,6 +22796,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 31,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1795,
+    "question": "The invigilator _____ to know how long the examination _____ going on.",
+    "option": {
+      "a": "Wanted/ had been.",
+      "b": "Wanted/ has been.",
+      "c": "Want/had been.",
+      "d": "Wanted/have been."
+    },
+    "section": "Choose the option that best complete the gap.",
+    "image": "",
+    "answer": "a",
+    "solution": "The invigilator Wanted   to know how long the examination had been going on.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 36,
     "hasPassage": 0,
     "category": "others"
   },
