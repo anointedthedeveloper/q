@@ -1072,6 +1072,22 @@
     "examyear": "2009"
   },
   {
+    "id": 79,
+    "question": "Under partnership, investors who have no desire to be actively involved in the day-to-day management of such organization are called ",
+    "option": {
+      "a": "Stock brokers ",
+      "b": "Sleeping partners ",
+      "c": "part-time investor ",
+      "d": "Ordinary partners "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 80,
     "question": "In a sole proprietorship decision are made by the ",
     "option": {
@@ -2363,6 +2379,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 175,
+    "question": "Investment and saving are, respectively: ",
+    "option": {
+      "a": "income and wealth ",
+      "b": "stock & flows ",
+      "c": "injection: and leakages ",
+      "d": "leakages and injections:"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -4144,6 +4176,22 @@
     "examyear": "2012"
   },
   {
+    "id": 307,
+    "question": "When a country’s net income from abroad is added to its total \toutput, the result is",
+    "option": {
+      "a": "gross domestic product",
+      "b": "net national product",
+      "c": "gross national product",
+      "d": "net domestic product"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 308,
     "question": "A fall in national output will necessitate",
     "option": {
@@ -4171,6 +4219,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 310,
+    "question": "Cost push inflation is caused by a",
+    "option": {
+      "a": "rise in the cost of production",
+      "b": "decrease in the transportation cost",
+      "c": "rise in demand for goods",
+      "d": "decrease in the cost of production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -7703,6 +7767,38 @@
       "b": "demand for the commodity will fall",
       "c": "supply of the commodity will be constant",
       "d": "Supply of the commodity will fall."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 575,
+    "question": "When the quantity of a commodity supplied increases and the quantity demanded decreases there will be",
+    "option": {
+      "a": "a rise in price",
+      "b": "no change in price",
+      "c": "price fluctuation",
+      "d": "a fall in price."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 576,
+    "question": "The market price of a commodity is normally determined by the",
+    "option": {
+      "a": "law of demand",
+      "b": "interaction of the forces of demand and supply.",
+      "c": "total number of people in the market",
+      "d": "total quantity of the commodity in the market."
     },
     "section": "",
     "image": "",
