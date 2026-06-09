@@ -1,0 +1,162 @@
+[
+  {
+    "id": 155,
+    "question": "The device in which one circuit controls another, especially if the current in the second circuit is large or dangerous is known as",
+    "option": {
+      "a": "Electromagnetic devices",
+      "b": "Magnetic relay device",
+      "c": "None at all",
+      "d": "Sextant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A magnetic relay is the device that allows one circuit to safely control another circuit, especially when dealing with large or dangerous currents.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 289,
+    "question": "The diagram shown represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40, then the value of W is?",
+    "option": {
+      "a": "28",
+      "b": "48.0N",
+      "c": " 233.0N",
+      "d": "50.0N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611497/ALOC-Questions/Physics/2018/2018_Q_10_ppy08m.jpg",
+    "answer": "d",
+    "solution": "From the diagram:\n\nLoad = 120.0 N\nEffort = W N\nEfficiency = 40% = 0.40\nCounting the supporting strings in the diagram: V.R = 6 (6 rope segments supporting the load)\n\nStep 1: Calculate Mechanical Advantage (M.A)\nEfficiency = (M.A/V.R) × 100%\n40 = (M.A/6) × 100\n0.40 = M.A/6\nM.A = 0.40 × 6 = 2.4\nStep 2: Calculate effort using M.A\nM.A = Load/Effort\n2.4 = 120/W\nW = 120/2.4\nW = 50.0 N",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 444,
+    "question": "If the stress on a wire is 10⁷ Nm⁻² and the wire is stretched from its original length of 10.00m to 10.05m. The Young's modulus of the wire is?",
+    "option": {
+      "a": "5.0 × 10⁻⁴ Nm⁻²",
+      "b": "5.0 × 10⁻⁵ Nm⁻²",
+      "c": "2.0 × 10⁻⁸ Nm⁻²",
+      "d": "2.0 × 10⁹ Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nStress = 10⁷ Nm⁻²\nOriginal length (L₀) = 10.00 m\nFinal length (L) = 10.05 m\nExtension (ΔL) = 10.05 - 10.00 = 0.05 m\nYoung's modulus (E) = ?\n\nFormula for Young's modulus:\nYoung's modulus (E) = Stress / Strain\nStep 1: Calculate strain\nStrain = Extension / Original length\nStrain = ΔL / L₀\nStrain = 0.05 / 10.00\nStrain = 0.005 = 5 × 10⁻³\nStep 2: Calculate Young's modulus\nE = Stress / Strain\nE = 10⁷ / (5 × 10⁻³)\nE = 10⁷ / 0.005\nE = 10⁷ × 200\nE = 2 × 10⁹ Nm⁻²",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 481,
+    "question": "The potential energy in an elastic string of force constant k, which has an extension X is?",
+    "option": {
+      "a": "kX",
+      "b": " KX²",
+      "c": "½KX²",
+      "d": ". ½K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Recall Hooke's Law\nFor an elastic material:\nF = kX\nWhere:\n\nF = restoring force\nk = force constant (spring constant)\nX = extension\n\nStep 2: Derive potential energy\nPotential energy stored in an elastic string is the work done in stretching it:\nE = ∫F dx\nE = ∫kx dx (from 0 to X)\nStep 3: Integrate\nE = k∫x dx (from 0 to X)\nE = k[x²/2]₀ˣ\nE = k(X²/2 - 0)\nE = ½kX²",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 670,
+    "question": "The process whereby the molecules of different substances move randomly is called?",
+    "option": {
+      "a": "capillarity",
+      "b": "surface tension",
+      "c": "osmosis",
+      "d": "diffusion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Diffusion is the process by which molecules move from an area of higher concentration to an area of lower concentration. This movement occurs due to the random motion of particles, leading to an even distribution of substances over time.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 708,
+    "question": "A cell of internal resistance r is connected to an external resistor R. The condition for maximum power transfer is?",
+    "option": {
+      "a": "R < r",
+      "b": " R = r",
+      "c": "R = 2r",
+      "d": "R > r"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nCell with internal resistance r\nExternal resistor R\nNeed to find condition for maximum power transfer\n\nSolution:\nStep 1: Set up power equation\nCurrent in circuit: I = E/(R + r)\nWhere E = EMF of cell\nPower delivered to external resistor:\nP = I²R = [E/(R + r)]² × R\nP = E²R/(R + r)²\nStep 2: Find maximum power condition\nFor maximum power, take derivative dP/dR and set equal to zero:\ndP/dR = E²[(R + r)² - R × 2(R + r)]/(R + r)⁴ = 0\nSimplifying the numerator:\n(R + r)² - 2R(R + r) = 0\n(R + r)[(R + r) - 2R] = 0\n(R + r)(r - R) = 0\nStep 3: Solve for R\nSince R + r ≠ 0:\nr - R = 0\nR = r\nStep 4: Maximum Power Transfer Theorem\nThis result is known as the Maximum Power Transfer Theorem: Maximum power is transferred from a source to a load when the load resistance equals the source's internal resistance.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 713,
+    "question": "When an a.c. voltage is applied to a capacitor, no power is consumed because the current",
+    "option": {
+      "a": "leads the voltage by 90°",
+      "b": "lags behind the voltage by 90°",
+      "c": "and voltage are in phase",
+      "d": "and voltage are 180° out of phase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The phase difference of 90° means voltage and current are in quadrature. The capacitor stores energy when charging and returns it when discharging, resulting in zero net power consumption.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 724,
+    "question": "The energy associated with the emitted photon when a mercury atom changes from one state to another is 3.3 eV. Calculate the frequency of the photon. [e = 1.6 × 10⁻¹⁹C; h = 6.6 × 10⁻³⁴Js]",
+    "option": {
+      "a": "1.3 × 10⁻¹⁵ Hz",
+      "b": "3.1 × 10⁵² Hz",
+      "c": "3.2 × 10⁻⁵³ Hz",
+      "d": " 8.0 × 10¹⁴ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nEnergy, E = 3.3 eV\nCharge of electron, e = 1.6 × 10⁻¹⁹ C\nPlanck's constant, h = 6.6 × 10⁻³⁴ Js\nFrequency, f = ?\n\nSolution:\nStep 1: Convert energy from eV to Joules\n1 eV = 1.6 × 10⁻¹⁹ J\nE = 3.3 × 1.6 × 10⁻¹⁹\nE = 5.28 × 10⁻¹⁹ J\nStep 2: Apply Planck's equation\nFormula: E = hf\nWhere:\n\nE = energy of photon\nh = Planck's constant\nf = frequency\n\nStep 3: Rearrange for frequency\nf = E/h\nStep 4: Substitute values\nf = (5.28 × 10⁻¹⁹)/(6.6 × 10⁻³⁴)\nf = (5.28/6.6) × 10⁻¹⁹⁻⁽⁻³⁴⁾\nf = 0.8 × 10¹⁵\nf = 8.0 × 10¹⁴ Hz",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 785,
+    "question": "from the diagram above, the inductive reactance and the resistance R are respectively",
+    "option": {
+      "a": " 50Ω and 45Ω",
+      "b": "25Ω and 51Ω",
+      "c": "20Ω and 50Ω",
+      "d": "10Ω and 50Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431541/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_36_mzam4o.png",
+    "answer": "d",
+    "solution": "The inductive reactance is given as\nXl = 2πfl\n= 2 x 50/π x 0.1\n= 10Ω\nAgain from ohms law,\nR = V/I = 75/1.5 = 50Ω\n∴ Thus the inductive reactance and the resistance are respectively 10Ω, and 50Ω",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 1010,
+    "question": "An object of volume 1 m³ and mass 2 kg is totally immersed in a liquid of density 1 kgm⁻³. Calculate its apparent weight.",
+    "option": {
+      "a": "20 N",
+      "b": "10 N",
+      "c": "2 N",
+      "d": "1 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nVolume of object (V) = 1 m³\nMass of object (m) = 2 kg\nDensity of liquid (ρ_liquid) = 1 kg/m³\ng = 10 m/s² (assumed)\nApparent weight = ?\n\nUnderstanding apparent weight:\nApparent weight = Actual weight - Upthrust (buoyant force)\nStep 1: Calculate actual weight\nWeight = mg\nWeight = 2 × 10\nWeight = 20 N\nStep 2: Calculate upthrust (buoyant force)\nUpthrust = Weight of liquid displaced\nUpthrust = ρ_liquid × V × g\nSubstituting values:\nUpthrust = 1 × 1 × 10\nUpthrust = 10 N\nStep 3: Calculate apparent weight\nApparent weight = Actual weight - Upthrust\nApparent weight = 20 - 10\nApparent weight = 10 N",
+    "examtype": "utme",
+    "examyear": "2012"
+  }
+]
