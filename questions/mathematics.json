@@ -560,6 +560,22 @@
     "examyear": "2000"
   },
   {
+    "id": 114,
+    "question": "In the diagram, EFGH is a circle centre O. FH is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH",
+    "option": {
+      "a": " 32cm",
+      "b": " 26cm",
+      "c": "20cm",
+      "d": "16cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710691965/ALOC-Questions/Mathematics/2000/question-43_ptovoz.jpg",
+    "answer": "b",
+    "solution": "△OEN = △OGN\n\nOE = OG = r(radii)\n\n(r - 8)<sup>2</sup> + 12<sup>2</sup> = r<sup>2</sup>\n\nr<sup>2</sup> - 16r + 64 + 144 = r<sup>2</sup>\n\n16r = 64 + 144 = r<sup>2</sup>\n\n16r = 64 + 144 = 208\n\n208/16 = 13cm\n\nFH = 2FO = 2OH = 2R\n\n= 2 x 13cm\n\n= 26cm",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 116,
     "question": "The cumulative frequency curve represents the ages of ages of students in a school. What age group do 70% of the students belongs?",
     "option": {
@@ -1376,6 +1392,22 @@
     "examyear": "2003"
   },
   {
+    "id": 239,
+    "question": "Triangle OPQ above is the solution of the inequalities",
+    "option": {
+      "a": "x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
+      "b": " y + x ≤ 0, y - x ≥ 0, x -1 ≥ 0",
+      "c": " x - 1 ≤ 0, y - x ≥ o, y + x ≥ 0",
+      "d": " x - 1 ≤ 0, y + x ≤ 0, y - x ≤ 0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699241/ALOC-Questions/Mathematics/2003/math_2003_q18_hgssa8.jpg",
+    "answer": "a",
+    "solution": "Lines bounding Δ OPQ\nOQ; y - x = 0\ny - x ≥ 0\nPQ; x + 1 = 0\nx + 1 ≥ = 0\nPO; y + x = 0\ny + x ≤ 0\n∴ x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 241,
     "question": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
     "option": {
@@ -1452,6 +1484,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699397/ALOC-Questions/Mathematics/2003/math_2003_q29_nr90g5.jpg",
     "answer": "b",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 251,
+    "question": "In the diagram PQR is a straight line and PS is a tangent to the circle < QRS with |PS| = |SR| and < SPR = 40°. Find PSQ",
+    "option": {
+      "a": "20°",
+      "b": "40°",
+      "c": "10°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699473/ALOC-Questions/Mathematics/2003/math_2003_q30_fu5oyu.jpg",
+    "answer": "b",
+    "solution": "PS = SR\n\nPSR is an isosceles\n\n< P = < SPQ = 40°\n\n< R = < SRQ\n\n< PSQ = < SRQ (alternate segment)\n\n< PSQ = 40°",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -1822,6 +1870,22 @@
     "solution": "< PRS = 20° + 35° = 55°\n\n< POS = 2 < PRS\n\n2 x 55° = 10°\n\n< OPS = < PSO = x\n\nIn △\nPOS\n\nOP = OS(radii)\n\n△POS is an isosceles\n\n2x + 110° = 180°\n\n2x = 180° - 110° = 70°\n\nx = 70°/2\n \n\n\n= 35",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 327,
+    "question": "Evaluate ((〖81〗<sup>(3/4)</sup> -〖27〗<sup>(1/3)</sup>)))/(3×2^3 )",
+    "option": {
+      "a": "3",
+      "b": "1",
+      "c": " 1/3",
+      "d": " 1/8"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mn>81</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <msup>\n        <mn>27</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <msup>\n        <mn>2</mn>\n        <mn>3</mn>\n      </msup>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(81<sup>(3/4)</sup> - 27<sup>(1/3)</sup>)/(3×2<sup>3</sup> )=((3<sup>(3-3/4)</sup>-33<sup>(3-3/4)</sup>))/(3×2<sup>3</sup> )=(3<sup>3</sup> -3)/(3 ×8) = (27 - 3 ) / 24 = 24/24 = 1",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 336,
@@ -2320,6 +2384,22 @@
     "examyear": "2006"
   },
   {
+    "id": 402,
+    "question": "What is the locus of points equidistant from the lines ax + bc + c = 0?",
+    "option": {
+      "a": "A line bx - ay +q = 0",
+      "b": "A line ax - ay +q = 0",
+      "c": "A line bx + ay +q = 0",
+      "d": " A line bx + ay +q = 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Locus of point equidistant from a given straight is the perpendicular bisector of the straight line\n∴Gradient of the line ax + by + c = 0\nimplies by = -ax - c\ny = -a/bx - c\nthe gradient (m) = a/b\n∴Gradient of the perpendicular (m) = b/a\nIf P(x,y) is the point intersection of the two lines equation of the perpendicular becomes\ny - y1 = m(x - x1)\ny - y1 = b/a(x - x1)\nay - ay1 = bx - bx1\nay - bx + bx1 - ay1 = 0\nay - bx + b(x1 - y1) = 0\nimplies ay - bx + q",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 403,
     "question": "PQRSTW is a regular hexagon and QS intersects RT at V. Calculate ∠TVS",
     "option": {
@@ -2576,6 +2656,38 @@
     "examyear": "2007"
   },
   {
+    "id": 457,
+    "question": "In the parallelogram PQRS above, find angle SQR",
+    "option": {
+      "a": "100°",
+      "b": "80°",
+      "c": "50°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545061/ALOC-Questions/Mathematics/2007/JAMB_2007_Q36_rnxe0j.jpg",
+    "answer": "a",
+    "solution": "x = 30° (alternate ∠s b/c PQ//Sr)\nY = 50° (vertical opposite ∠s)\nr = 30° (alternate ∠s b/c PQ//SR)\nBut = y + q + t = 180° (∠s on a straight line)\n50 + q + 30 = 180\nq + 80 = 180\nq = 180 -80\nq = 100o°",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 458,
+    "question": "The volume of a hemispherical bowl is 718(2/3)\n. Find its radius .",
+    "option": {
+      "a": " 4.0 cm",
+      "b": " 5.6 cm",
+      "c": "7.0 cm",
+      "d": "3.8 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Volume of bow   2/3 πr<sup>2</sup> 718 2/3=2/3 πr<sup>2</sup>  2156/3=2/3×22/7×r<sup>3</sup> ∴ r<sup>3</sup>=(2156×3×7)/(3×2×22) r<sup>3</sup>=343 r=∛343.  r=7.0cm",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 459,
     "question": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus of P",
     "option": {
@@ -2716,6 +2828,38 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545860/ALOC-Questions/Mathematics/2008/MATH_2008_Q18_SOLUTION_qtwz0u.jpg",
     "answer": "a",
     "solution": "x<sup>2</sup> - 5x + 6 = 0\n(X-2)(X-3) = 0\nX-2 = 0 implies X = 2\nX-3 = 0 implies X = 3\n− x ≤ 2, x ≥ 3",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 490,
+    "question": "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term.",
+    "option": {
+      "a": "12",
+      "b": "4",
+      "c": "-12",
+      "d": "-24"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "U5 = 24, n = 5 and U11 = 96, n = 11\nUn = a + (n-1)d\n24 = a + (5-1)d imply 24 = a+4d .....eqn1\n96 = a + (11-1)d imply 96 = a+10d ...eqn2\neqn1 - eqn2 -72 = -6d\nd = 72/6 = 12\nbut 24 = a+4d\n24 = a + 4(12)\n24 = a + 48\na = 24-48\na = -24",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 492,
+    "question": "A binary operation on the real set of numbers excluding -1 is such that for all m, n ∈ R, mΔn = m+n+mn. Find the identity element of the operation.",
+    "option": {
+      "a": "1",
+      "b": "0",
+      "c": "-1/2",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "mΔn = m+n+mn\nLet e be the identity element\n∴mΔe = eΔm = m\nm+e+me = m\ne+me = m-m\ne+me = 0\ne(1+m) = 0\ne = 0 / (1+m)\ne = 0",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -3568,6 +3712,22 @@
     "examyear": "2011"
   },
   {
+    "id": 637,
+    "question": "Solve the inequality -6(x + 3) ≤ 4(x - 2)",
+    "option": {
+      "a": " x ≤ 2",
+      "b": "x ≥ -1",
+      "c": " x ≥ -2",
+      "d": "x ≤ -1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "-6(x + 3) ≤ 4(x - 2)\n\n-6(x +3) ≤ 4(x - 2)\n\n-6x -18 ≤ 4x - 8\n\n-18 + 8 ≤ 4x +6x\n\n-10 ≤ 10x\n\n10x ≥ -10\n\nx ≥ -1",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 642,
     "question": "If ∣∣∣2533x∣∣∣ = ∣∣∣4312x∣∣∣\n, find the value of x. ",
     "option": {
@@ -3868,6 +4028,22 @@
     "image": "",
     "answer": "d",
     "solution": "y = x<sup>2</sup>  - 1/x\n\n\ny = x<sup>2</sup>  - x<sup>-1</sup> \n\nδy/δx = 2x + x<sup>-2</sup> \n\n\nδy/δx = 2x + 1/x<sup>2</sup> ",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 754,
+    "question": "Find the range of 4,9,6,3,2,8,10 and 11",
+    "option": {
+      "a": "11",
+      "b": "9",
+      "c": "8",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Range = Highest Number - Lowest Number\n\nRange = 11 - 2 = 9",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -4208,6 +4384,22 @@
     "examyear": "2013"
   },
   {
+    "id": 810,
+    "question": "The locus of the points which is equidistant from the line PQ forms a",
+    "option": {
+      "a": "perpendicular line to PQ",
+      "b": "circle centre P",
+      "c": " circle centre Q",
+      "d": "pair of parallel lines to PQ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 811,
     "question": "If the midpoint of the line PQ is (2,3) and the point P is (-2, 1), find the coordinate of the point Q.",
     "option": {
@@ -4528,6 +4720,22 @@
     "examyear": "2017"
   },
   {
+    "id": 873,
+    "question": "If two graphs Y = px<sup>2</sup> + q and y = 2x<sup>2</sup> − 1 intersect at x =2, find the value of p in terms of q",
+    "option": {
+      "a": "q − 8/7",
+      "b": "7 − q/4",
+      "c": "8 − q/2",
+      "d": "7 + q/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Y = Px<sup>2</sup> + q\n\nY = 2x<sup>2</sup> - 1\n\nPx<sup>2</sup> + q = 2x<sup>2</sup> - 1\n\nPx<sup>2</sup> = 2x<sup>2</sup> - 1 - q\n\np = (2x<sup>2</sup>−1−q)/x<sup>2</sup>\n\n\nat x = 2\n\nP = (2(2)<sup>2</sup>−1−q)/2<sup>2</sup>\n\n\n= (2(4)−1−q)/4\n\n\n= (8−1−q)/4\n\n\nP = (7−q)/4",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 877,
     "question": "Evaluate 1 - (1/5 x 2/3) + ( 5 + 2/3)",
     "option": {
@@ -4780,6 +4988,22 @@
     "image": "",
     "answer": "a",
     "solution": "There are 52 cards in a pack of cards. The probability of NOT picking red card is the probability of picking other cards. Which is Prob(R1)=1−13/52 = 1 − 1/4 = 3/4",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 915,
+    "question": "The time taken to a piece of work is inversely proportional to the number of men employed. If it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
+    "option": {
+      "a": "15 days",
+      "b": "12 days",
+      "c": " \n5days",
+      "d": "9days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let t be the time taken Let m the number of men  t ∝1/m t = k/m (k = proportionality constant) when m =45, t=5.    5=k/45.   k =225 When we have 25 men, the number of days will be  t = k/m =225/25  t = 9days",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -5070,6 +5294,22 @@
     "solution": "0.04945 to 2s.f is 0.049",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 971,
+    "question": "A binary operation ⊗\n is defined by m ⊗ n = mn + m − n on the set of real numbers, for all m, n ∈\n R. Find the value of 3 ⊗ (2⊗ 4).",
+    "option": {
+      "a": "6",
+      "b": "25",
+      "c": "15",
+      "d": "18"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "m ⊗ n = mn + m − n\n3 ⊗ (2 ⊗ 4)\n\n2 ⊗ 4 = 2(4) + 2 - 4 = 6\n\n3 otimes 6 = 3(6) + 3 - 6  = 15",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 972,
@@ -5500,6 +5740,22 @@
     "image": "",
     "answer": "b",
     "solution": "Equation through (5,7) parallel to the line \n\n7x + 5y = 12\n\n5y = 7x + 12 \n\ny = −7x/5 + 12/5\nGradient = −7/5\n \nRequired equation = (y−7)/(x − 5) = −7/5\ni.e. 5y - 35 = -7x + 35\n\n5y + 7x = 70",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1042,
+    "question": "A school boy lying on the ground 30 m away from the foot of a water tank towel observes that the angle of elevation of the top of the tank is 60°\n. Calculate the height of the tank.",
+    "option": {
+      "a": "60√3 m",
+      "b": "30√3 m",
+      "c": "20√3 m",
+      "d": "10√3 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "h = 30 tan 60 \n\n= 30√3\n ",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -6012,6 +6268,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given Data: x<sub>1</sub> = -3,  x<sub>2</sub> = 2,y<sub>1</sub>  = 5,  y<sub>2</sub> = 10\n\ncoordinates of the mid-point of the line = (x<sub>1</sub>+x<sub>2</sub> /2, y<sub>1</sub>+y<sub>2</sub> /2)\n\n(−3+2/2, 5+10/2)\n\n=  −1/2) , 15/2)",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1125,
+    "question": "Evaluate <sup>n</sup><sup>2 </sup> + <sup>1</sup>C<sub>(n+5)</sub> \n if n = 3 ",
+    "option": {
+      "a": "55",
+      "b": "45",
+      "c": "35",
+      "d": "25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": " <sup>3</sup><sup>2 </sup> + <sup>1</sup>C<sub>(3+5)</sub>\n\n<sup>9+1</sup>C<sub>3+5</sub>\n \n\n\n<sup>10</sup>C<sub>8</sub> = 10!/(8!2!)\n(10∗9∗8!)/(8!2!)= (10∗9)/2\n= 45",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -6732,6 +7004,22 @@
     "image": "",
     "answer": "d",
     "solution": "n(X ∪ Y) = n(X) + n(Y) − n(X ∩ Y)\n\n= 15 + 12 − 7\n\n∴ n(X ∪ Y) = 20",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1243,
+    "question": "Find the total surface area of a cylinder of base radius 5cm and length 7cm ( π = 3.14)",
+    "option": {
+      "a": "17.8 cm<sup>2</sup> ",
+      "b": "15.8 cm<sup>2</sup> ",
+      "c": "75.4 cm<sup>2</sup> ",
+      "d": "377.0 cm<sup>2</sup> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The total surface area of a cylinder = 2πrl + 2πr<sup>2</sup> \n\n= 2πr(l + r)\n\n= 2 × 3.14 x 5(7+5)\n\n2 × 3.14 × 12 x 5\n\n= 377.1 cm (1DP)",
     "examtype": "utme",
     "examyear": "2015"
   },
