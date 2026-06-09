@@ -10944,6 +10944,25 @@
     "category": "others"
   },
   {
+    "id": 659,
+    "question": "The lecture seemed <u>interminable</u>?",
+    "option": {
+      "a": "unending",
+      "b": "boring",
+      "c": "interesting",
+      "d": "brief"
+    },
+    "section": "<b>In each of questions 63 to 77,choose the option opposite in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 63,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 660,
     "question": "Had I known about their plan much earlier I would have <u>nipped it in the bud</u>?",
     "option": {
@@ -20573,6 +20592,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 42,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1356,
+    "question": "Coming late to work, according to Leonard, is <u>inimical</u> to the progress of the company",
+    "option": {
+      "a": "harmful",
+      "b": "predominat",
+      "c": "unavoidable",
+      "d": "inevitable"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence\n\n ",
+    "image": "",
+    "answer": "a",
+    "solution": "Inimical implies harmful",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 43,
     "hasPassage": 0,
     "category": "others"
   },
