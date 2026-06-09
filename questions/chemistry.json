@@ -1,5 +1,21 @@
 [
   {
+    "id": 11,
+    "question": "Deliquenscent substances are used for",
+    "option": {
+      "a": "Cooling",
+      "b": "Wetting",
+      "c": "Melting",
+      "d": "Drying"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 16,
     "question": "Phosphorous is stored under water to precvent it from",
     "option": {
@@ -32,6 +48,22 @@
     "examyear": "2001"
   },
   {
+    "id": 72,
+    "question": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate(VI) is",
+    "option": {
+      "a": "Ethanol",
+      "b": "Methanol",
+      "c": "Butanal",
+      "d": "Propanal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 87,
     "question": "A consequence of global warming is",
     "option": {
@@ -46,6 +78,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 114,
+    "question": "How many isomers does pentane have",
+    "option": {
+      "a": "6",
+      "b": "5",
+      "c": "4",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 125,
+    "question": "If a solution contains 4.8g of Tetraoxosulphate (VI) acid. Calculate the amount of copper(II) oxide that will react with it  [CU = 64, O = 16, S = 32, H = 1]",
+    "option": {
+      "a": "0.8g",
+      "b": "4.0g",
+      "c": "40.0g",
+      "d": "80.0g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 137,
@@ -80,6 +144,38 @@
     "examyear": "2004"
   },
   {
+    "id": 140,
+    "question": "Which of these compounds is a normal salt",
+    "option": {
+      "a": "NaHS",
+      "b": "NaSO4",
+      "c": "NaHCO3",
+      "d": "Na2CO3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 168,
+    "question": "In the production of soap, concentrated sodium chloride solution is added to",
+    "option": {
+      "a": "Increase the solubility of the soap",
+      "b": "Decrease the solubility of the soap",
+      "c": "Saponify the soap",
+      "d": "Emulsify the soap"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 198,
     "question": "Which of the following are structural isomers",
     "option": {
@@ -103,6 +199,70 @@
       "b": "Chlorine",
       "c": "Nitrogen",
       "d": "Calcium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 240,
+    "question": "CH3-CH2-C = CH  The hybridization in the compound above is",
+    "option": {
+      "a": "Sp3 and sp",
+      "b": "Sp3 and sp2",
+      "c": "Sp",
+      "d": "Sp2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 245,
+    "question": "When 5.0cm3 of a saturated solution of sugar of molar mass 342g at 400C was evaporated to dryness, 34.2g of dry solid was obtained. The solubility of sugar at 400C is",
+    "option": {
+      "a": "7.0 mol dm-3",
+      "b": "3.5 mol dm-3",
+      "c": "2.0 mol dm-3",
+      "d": "10.0mol dm-3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 251,
+    "question": "The raw material used for the smelting of iron ore in a furnace is",
+    "option": {
+      "a": "Zn(NO3)2",
+      "b": "CaSO4",
+      "c": "CuSO4",
+      "d": "CaCO3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 257,
+    "question": "Group IA metals are not found free in nature because they",
+    "option": {
+      "a": "Have high melting and boiling points",
+      "b": "Conduct heat and electricity",
+      "c": "Are very reactive and unstable",
+      "d": "Are malleable and ductile"
     },
     "section": "",
     "image": "",
@@ -176,6 +336,54 @@
     "examyear": "2010"
   },
   {
+    "id": 297,
+    "question": "Benzene reacts with hydrogen in the presence of nickel catalyst at 1800C to give",
+    "option": {
+      "a": "Toluene",
+      "b": "Cyclopentane",
+      "c": "Cyclohexane",
+      "d": "Xylene"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 298,
+    "question": "Which of the following is used to hasten the ripening of fruit",
+    "option": {
+      "a": "Ethanol",
+      "b": "Ethyne",
+      "c": "Ethane",
+      "d": "Ethane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 336,
+    "question": "The number of isomers formed by C₆H₁₄ is",
+    "option": {
+      "a": "4",
+      "b": "5",
+      "c": "2",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Alkanes exhibit structural isomerism due to different arrangements of carbon atoms. For hexane (C₆H₁₄), the isomers are:\n\nn-hexane (straight chain)\n\n2-methylpentane (one methyl group on carbon 2)\n\n3-methylpentane (one methyl group on carbon 3)\n\n2,2-dimethylbutane (two methyl groups on carbon 2)\n\n2,3-dimethylbutane (two methyl groups on carbons 2 and 3)\n\n\nThere are 5 structural isomers of hexane.\n\nThe number of isomers formed by C₆H₁₄ is 5.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 341,
     "question": "An oxidation state of Cr in K₂Cr₂O₇",
     "option": {
@@ -208,6 +416,22 @@
     "examyear": "2015"
   },
   {
+    "id": 352,
+    "question": "Electronic configuration of element 13 in the subsidiary energy level is",
+    "option": {
+      "a": "1s²2s²2p⁶3s²3p¹",
+      "b": "1s²2s²2p⁴3p¹3s¹",
+      "c": "1s²2s²2p⁶3s²3p³",
+      "d": "1s¹2s²2p⁶3s²3p⁴"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Element 13 is Aluminium (Al) with 13 electrons. Filling in order: 1s²2s²2p⁶3s²3p¹. Total: 2 + 2 + 6 + 2 + 1 = 13 electrons. This matches option A.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 364,
     "question": "The relative atomic mass of a naturally occurring lithium consisting of 90% ⁷₃Li and 10% ⁶₃Li is",
     "option": {
@@ -220,6 +444,22 @@
     "image": "",
     "answer": "d",
     "solution": "Relative atomic mass = (90/100 × 7) + (10/100 × 6) = 6.3 + 0.6 = 6.9.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 378,
+    "question": "Which of the following is not an alkali?",
+    "option": {
+      "a": "Ca(OH)₂",
+      "b": "NH₃",
+      "c": "NaOH",
+      "d": "Al(OH)₃"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An alkali is a soluble base. Al(OH)₃ is amphoteric — it acts as both an acid and a base — and is insoluble in water, so it is not classified as an alkali. Ca(OH)₂ (slightly soluble), NH₃ (forms NH₄OH in water), and NaOH are all alkalis.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -256,6 +496,22 @@
     "examyear": "2016"
   },
   {
+    "id": 393,
+    "question": "The gas that is used for the treatment of cancer is",
+    "option": {
+      "a": "Neon",
+      "b": "Radon",
+      "c": "Xenon",
+      "d": "Argon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Radon (Rn) is a radioactive noble gas used in radiotherapy for the treatment of cancer. Its radioactive decay produces alpha particles which can be used to irradiate and destroy cancerous tumours. The other noble gases (Ne, Xe, Ar) are not radioactive and have no such medical application.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 399,
     "question": "In the diagram above, X is the",
     "option": {
@@ -270,6 +526,38 @@
     "solution": "In the energy profile diagram, X is the arrow showing the difference in energy level between the reactants and the products. This energy difference is the enthalpy change (ΔH) of the reaction. Since products are lower in energy than reactants, ΔH is negative (exothermic). The activation energy would be measured from reactants to the peak, not between reactants and products.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 427,
+    "question": "The mass of silver deposited when a current of 10 A is passed through a solution of silver salt for 4830 s is [Ag = 108, F = 96500 C mol⁻¹]",
+    "option": {
+      "a": "54.0 g",
+      "b": "27.0 g",
+      "c": "13.5 g",
+      "d": "108.0 g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Charge = I × t = 10 × 4830 = 48300 C. Moles of electrons = 48300/96500 = 0.5 mol. Ag⁺ + e⁻ → Ag, so moles of Ag = 0.5 mol. Mass of Ag = 0.5 × 108 = 54.0 g.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 442,
+    "question": "An oxide XO₂ has a vapour density of 32. What is the atomic mass of X?",
+    "option": {
+      "a": "20",
+      "b": "32",
+      "c": "14",
+      "d": "12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Molar mass of XO₂ = 2 × vapour density = 2 × 32 = 64 g mol⁻¹. Molar mass = atomic mass of X + 2(16) → X + 32 = 64 → X = 32. The element with atomic mass 32 is sulphur (S), and XO₂ is SO₂ (sulphur dioxide).",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 456,
@@ -300,6 +588,38 @@
     "image": "",
     "answer": "a",
     "solution": "Ethene (C₂H₄) is a natural plant hormone that accelerates the ripening of fruits. It is produced naturally by fruits and is also used commercially to ripen fruits uniformly after harvesting. The other gases (propane, methane, butane) are simple fuel gases with no ripening function.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 476,
+    "question": "In the preparation of oxygen by heating KClO₃ in the presence of MnO₂, only moderate heat is needed because the catalyst acts by",
+    "option": {
+      "a": "lowering the pressure of the reaction",
+      "b": "increasing the surface area of the reaction",
+      "c": "increasing the rate of the reaction",
+      "d": "increasing the energy barrier of the reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "MnO₂ acts as a catalyst in the decomposition of KClO₃: 2KClO₃ → 2KCl + 3O₂. A catalyst increases the rate of the reaction by providing an alternative reaction pathway with a lower activation energy. This means only moderate heat is required — the reaction proceeds faster at a lower temperature than without the catalyst.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 479,
+    "question": "Suitable reagents for the laboratory preparation of nitrogen are",
+    "option": {
+      "a": "sodium dioxonitrate (III) and ammonium chloride",
+      "b": "sodium trioxonitrate (V) and ammonium chloride",
+      "c": "sodium chloride and ammonium trioxonitrate (V)",
+      "d": "sodium chloride and ammonium di-ozonitrate (III)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Nitrogen is prepared in the laboratory by heating a mixture of sodium dioxonitrate (III) (sodium nitrite, NaNO₂) and ammonium chloride (NH₄Cl): NaNO₂ + NH₄Cl → NaCl + 2H₂O + N₂↑. The reaction produces pure nitrogen gas. Sodium trioxonitrate (V) (NaNO₃) is used differently and does not give N₂ in this way.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -336,6 +656,70 @@
     "examyear": "2019"
   },
   {
+    "id": 532,
+    "question": "Which of the following statements about catalyst is false?",
+    "option": {
+      "a": "biological catalysts are called enzymes",
+      "b": "catalysts do not appear in the balanced equation",
+      "c": "catalysts reduce the activation energy for a reaction",
+      "d": "catalysts do not alter the mechanism of the reaction and never appear in the rate law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Option D is false. Catalysts DO alter the mechanism of the reaction — they provide an alternative pathway with lower activation energy. They also CAN appear in the rate law (rate equation), especially homogeneous catalysts whose concentration affects the rate. Options A, B, and C are all true statements about catalysts.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 537,
+    "question": "The molecular shape and bond angle of water are respectively",
+    "option": {
+      "a": "linear, 180°",
+      "b": "bent, 109.5°",
+      "c": "tetrahedral, 109.5°",
+      "d": "bent, 105°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Water (H₂O) has 2 bonding pairs and 2 lone pairs on the central oxygen atom. Lone pair–lone pair repulsion compresses the bond angle from the ideal tetrahedral 109.5° to approximately 105°, giving water a bent/V-shape. Answer: D.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 544,
+    "question": "Consider the equation below:\nCr₂O₇²⁻ + 6Fe²⁺ + 14H⁺ → 2Cr³⁺ + 6Fe³⁺ + 7H₂O\nThe oxidation number of chromium changes from",
+    "option": {
+      "a": "+5 to +3",
+      "b": "+6 to +3",
+      "c": "-2 to +3",
+      "d": "+7 to +3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In Cr₂O₇²⁻: 2x + 7(−2) = −2 → 2x = 12 → x = +6. In the product Cr³⁺, the oxidation number is +3. Chromium is reduced from +6 to +3. Answer: B.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 552,
+    "question": "What mass of magnesium would be obtained by passing a current of 2 amperes for 2 hours 30 mins, through molten magnesium chloride? [1 faraday = 96500C, Mg = 24]",
+    "option": {
+      "a": "1.12g",
+      "b": "4.48g",
+      "c": "1.80g",
+      "d": "2.24g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Time = 2 hrs 30 min = 9000 s. Charge = 2 × 9000 = 18000 C. Mg²⁺ + 2e⁻ → Mg, so 2 Faradays deposit 24 g of Mg. Faradays used = 18000 ÷ 96500 = 0.1865 F. Mass of Mg = (0.1865 ÷ 2) × 24 = 2.24 g.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 562,
     "question": "What are the possible oxidation numbers of an element if its atomic number is 17?",
     "option": {
@@ -348,6 +732,22 @@
     "image": "",
     "answer": "a",
     "solution": "Atomic number 17 is chlorine, with electron configuration [Ne] 3s² 3p⁵ — 7 valence electrons. Chlorine can gain 1 electron to achieve −1 oxidation state, or lose electrons to reach +1, +3, +5, or +7. The extreme oxidation states are −1 and +7.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 566,
+    "question": "Which of the following substances is a mixture?",
+    "option": {
+      "a": "Granulated sugar",
+      "b": "Seawater",
+      "c": "Sodium chloride",
+      "d": "Iron filling"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A mixture contains two or more substances not chemically combined. Seawater is a mixture of water, dissolved salts (NaCl, MgCl₂, etc.), and other substances in variable proportions. Granulated sugar (sucrose), sodium chloride, and iron are all pure substances with fixed compositions.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -368,6 +768,22 @@
     "examyear": "2020"
   },
   {
+    "id": 576,
+    "question": "Chromatography is used to separate components of a mixture which differ in their rates of?",
+    "option": {
+      "a": "diffusion",
+      "b": "migration",
+      "c": "reaction",
+      "d": "sedimentation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Chromatography separates components of a mixture based on differences in their rates of migration through a stationary phase when carried by a mobile phase. Components that interact more strongly with the stationary phase migrate more slowly, while those with weaker interactions migrate faster, achieving separation.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 581,
     "question": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?",
     "option": {
@@ -384,6 +800,54 @@
     "examyear": "2020"
   },
   {
+    "id": 589,
+    "question": "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes?",
+    "option": {
+      "a": "Bipolar",
+      "b": "Negatively charged",
+      "c": "Positively charged",
+      "d": "Neutral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Cathode rays are streams of electrons, which are negatively charged particles. When these electrons are deflected onto the electrode of an electrometer, they deposit negative charge on it. The electrometer therefore becomes negatively charged. This experiment by J.J. Thomson helped confirm the negative charge of cathode rays.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 599,
+    "question": "What is the chemical name for the compound CuCO₃?",
+    "option": {
+      "a": "Copper (iii) carbonate",
+      "b": "Copper (ii) carbonate",
+      "c": "Copper (i) carbonate",
+      "d": "Copper"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In CuCO₃, the carbonate ion CO₃²⁻ has a charge of 2−. For the compound to be electrically neutral, copper must have a charge of 2+. A copper ion with a 2+ charge is designated copper(II). The correct chemical name is therefore copper(II) carbonate.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 634,
+    "question": "The process by which salt and water react in a limited way to form an acid or a base is?",
+    "option": {
+      "a": "Neutral process",
+      "b": "Basic acidic process",
+      "c": "Hydrolysis",
+      "d": "Sublimation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Salt hydrolysis is the reaction of a salt with water to produce an acidic or basic solution. When a salt of a weak acid and strong base dissolves in water, the anion reacts with water to produce a basic solution. When a salt of a strong acid and weak base dissolves, the cation reacts with water to produce an acidic solution. This process is called hydrolysis.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 637,
     "question": "SO₂ + O₂ → 2SO₃. In the reaction above, the most suitable catalyst is?",
     "option": {
@@ -398,6 +862,102 @@
     "solution": "The conversion of SO₂ to SO₃ is the key step in the Contact Process for manufacturing sulphuric acid. The catalyst used in this reaction is vanadium(V) oxide (V₂O₅). It operates at approximately 450°C and increases the rate of oxidation of SO₂ to SO₃ without being consumed in the overall reaction.",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 644,
+    "question": "A chemical widely used as a fertilizer is?",
+    "option": {
+      "a": "galena",
+      "b": "bauxite",
+      "c": "emerald",
+      "d": "nitrochalk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nitrochalk is a widely used nitrogen fertilizer consisting of a mixture of ammonium nitrate and calcium carbonate (limestone). It supplies nitrogen to plants in the form of ammonium and nitrate ions. Galena is lead sulphide (ore of lead), bauxite is aluminium ore, and emerald is a gemstone — none of these are fertilizers.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 652,
+    "question": "A coloured gas that is known to be poisonous and can readily damage the mucous lining of the lungs is?",
+    "option": {
+      "a": "hydrogen sulphide",
+      "b": "carbon(ii)oxide",
+      "c": "chlorine",
+      "d": "sulphur(iv)oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Chlorine (Cl₂) is a yellow-green coloured gas that is highly toxic. It attacks and damages the mucous membranes of the respiratory tract, including the lungs, and was used as a chemical weapon in World War I. Hydrogen sulphide is colourless with a rotten egg smell, carbon(II) oxide is colourless and odourless, and sulphur(IV) oxide is colourless with a pungent smell.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 656,
+    "question": "An organic compound contains 69% carbon, 15.3% hydrogen and 30.7% oxygen. Calculate the empirical formula [C=12, H=1, O=16]",
+    "option": {
+      "a": "C₄H₁₂O",
+      "b": "C₃H₉O",
+      "c": "C₄H₉O",
+      "d": "C₃H₈O"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Mole ratio: C = 69/12 = 5.75; H = 15.3/1 = 15.3; O = 30.7/16 = 1.919. Divide each by the smallest (1.919): C = 3.0; H = 7.97 ≈ 8; O = 1. Empirical formula = C₃H₈O.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 665,
+    "question": "H⁺ + OH⁻ → H₂O. The equation above illustrates?",
+    "option": {
+      "a": "precipitation",
+      "b": "hydration",
+      "c": "hydrolysis",
+      "d": "neutralization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The equation H⁺ + OH⁻ → H₂O represents the ionic equation for neutralization, which is the reaction between an acid (providing H⁺) and a base (providing OH⁻) to form water. This is the net ionic equation for all strong acid-strong base neutralization reactions.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 676,
+    "question": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium?",
+    "option": {
+      "a": "Argon",
+      "b": "Krypton",
+      "c": "Radon",
+      "d": "Neon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Radon (Rn) is the only naturally occurring radioactive noble gas. It is produced as a decay product in the radioactive decay chains of uranium-238 and thorium-232. Radon-222 is the most stable isotope and is a significant health hazard as it can accumulate in buildings and cause lung cancer when inhaled.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 698,
+    "question": "What is the product of the electrolysis of aqueous sodium chloride (NaCl) using inert electrodes?",
+    "option": {
+      "a": "Hydrogen gas at the cathode and chlorine gas at the anode",
+      "b": "Hydrogen gas at the cathode and oxygen gas at the anode",
+      "c": "Sodium metal at the cathode and chlorine gas at the anode",
+      "d": "Sodium metal at the cathode and oxygen gas at the anode"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In the electrolysis of concentrated aqueous NaCl: at the cathode, H⁺ ions from water are preferentially discharged over Na⁺ ions, producing hydrogen gas (2H⁺ + 2e⁻ → H₂). At the anode, Cl⁻ ions are preferentially discharged over OH⁻ ions (in concentrated solution), producing chlorine gas (2Cl⁻ → Cl₂ + 2e⁻). The remaining solution becomes sodium hydroxide.",
+    "examtype": "utme",
+    "examyear": "2023"
   },
   {
     "id": 706,
@@ -448,6 +1008,22 @@
     "examyear": "2024"
   },
   {
+    "id": 738,
+    "question": "The chemical formula for potassiumhexacyanoferrate(II) is",
+    "option": {
+      "a": "[Fe(CN)₆]⁴⁻",
+      "b": "K₃Fe(CN)₆",
+      "c": "Fe(CN)₆",
+      "d": "K₄Fe(CN)₆"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Potassiumhexacyanoferrate(II) contains Fe²⁺. The hexacyano complex [Fe(CN)₆]⁴⁻ has a 4− charge (since Fe is +2 and 6 CN⁻ each contribute −1, total = +2 − 6 = −4). To balance, 4 K⁺ ions are needed. The correct formula is K₄Fe(CN)₆. K₃Fe(CN)₆ is potassiumhexacyanoferrate(III) which contains Fe³⁺.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 743,
     "question": "The ions responsible for permanent hardness in water are sulphates of",
     "option": {
@@ -480,6 +1056,22 @@
     "examyear": "2024"
   },
   {
+    "id": 748,
+    "question": "How much of 5g of a radioactive element whose half life is 50 days remains after 200 days?",
+    "option": {
+      "a": "2.50 g",
+      "b": "1.25 g",
+      "c": "0.63 g",
+      "d": "0.31 g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Number of half-lives = 200 ÷ 50 = 4. Remaining mass = 5 × (½)⁴ = 5 × 1/16 = 5 ÷ 16 = 0.3125 g ≈ 0.31 g.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 749,
     "question": "The group VIII elements are the inert gases because they",
     "option": {
@@ -492,6 +1084,22 @@
     "image": "",
     "answer": "b",
     "solution": "Noble gases (Group VIII/Group 18) are chemically inert because their outermost electron shells are completely filled. Helium has 2 electrons (full 1s²), and the rest have 8 electrons in their outermost shell (ns²np⁶), achieving stable octet configurations. This complete filling leaves no tendency to gain, lose, or share electrons, making them unreactive. They are not solids at room temperature and exist as monoatomic gases.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 753,
+    "question": "Water gas obtained from the gasification of coke is made up of",
+    "option": {
+      "a": "Nitrogen and Carbon(II) oxide",
+      "b": "Nitrogen and Hydrogen",
+      "c": "Hydrogen and Carbon(II) oxide",
+      "d": "Carbon(II)oxide and Carbon(IV)oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Water gas is produced by passing steam over red-hot coke (carbon) at approximately 1000°C: C + H₂O → CO + H₂. The product is an approximately equal mixture of carbon(II) oxide (CO) and hydrogen (H₂). It is an important industrial fuel and is used in the synthesis of other chemicals. It is distinct from producer gas, which contains nitrogen.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -524,6 +1132,22 @@
     "image": "",
     "answer": "a",
     "solution": "The product XCl shows X forms a monovalent chloride, meaning X has a valency of 1. Among the options, only K (potassium) is monovalent. Mg, Ca, and Ba are divalent and would form XCl₂, not XCl.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 775,
+    "question": "Which of the following pairs of elements will exhibit diagonal relationship?",
+    "option": {
+      "a": "Be and Si",
+      "b": "Na and Be",
+      "c": "Li and Al",
+      "d": "B and Si"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Diagonal relationships exist between: Li and Mg, Be and Al, B and Si. These pairs share similar properties due to similar charge density. B and Si is a recognised diagonal pair, making D the correct answer.",
     "examtype": "utme",
     "examyear": "2025"
   },
