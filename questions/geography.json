@@ -432,6 +432,22 @@
     "examyear": "2007"
   },
   {
+    "id": 30,
+    "question": "The distribution of minerals resources in Nigeria is related to its:  ",
+    "option": {
+      "a": "relief  ",
+      "b": "soil  ",
+      "c": "vegetation  ",
+      "d": "geology "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 31,
     "question": "Which of the ocean currents is classified as cool?  ",
     "option": {
@@ -535,6 +551,22 @@
       "b": "light grey colour  ",
       "c": "humus content  ",
       "d": "horizons "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 40,
+    "question": "Podsols and laterites share the following characteristics in common, except  ",
+    "option": {
+      "a": "infertility  ",
+      "b": "high degree of leaching  ",
+      "c": "associated with forest vegetation  ",
+      "d": "colour "
     },
     "section": "",
     "image": "",
@@ -1728,6 +1760,22 @@
     "examyear": "2011"
   },
   {
+    "id": 118,
+    "question": "The most important cause of tides is the,",
+    "option": {
+      "a": "distribution of the prevailing winds ",
+      "b": "rotation of the earth on its own axis  ",
+      "c": "inclination of the earth’s axis  ",
+      "d": "gravity attraction of the moon "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 119,
     "question": "Desert soils are usually deficient in ",
     "option": {
@@ -2496,6 +2544,22 @@
     "examyear": "2013"
   },
   {
+    "id": 178,
+    "question": "Which of the following continents has the largest area with a tropical type of climate?",
+    "option": {
+      "a": "Asia   ",
+      "b": "South America",
+      "c": "North America  ",
+      "d": "Africa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 179,
     "question": "One hour’s difference in mean solar time represents what angular difference in longitude?",
     "option": {
@@ -2715,6 +2779,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
+    "id": 195,
+    "question": "Weathering of rocks is: ",
+    "option": {
+      "a": "The formations of rocks",
+      "b": "The breaking down of rocks.   ",
+      "c": "The deformations of rocks",
+      "d": "The accumulation of rocks. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme-aaua",
     "examyear": "2014"
@@ -3120,6 +3200,22 @@
     "examyear": "2014"
   },
   {
+    "id": 226,
+    "question": "Precipitation include all the following except ",
+    "option": {
+      "a": "Fog",
+      "b": "Snow ",
+      "c": "Dust   ",
+      "d": "Dew "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 227,
     "question": "The location of iron and steel industry at Ajaokuta in Nigeria is best explained by the presence of ",
     "option": {
@@ -3403,6 +3499,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 249,
+    "question": "What is the length to the nearest kilometer of the main stream that is into the Laka Lagon?",
+    "option": {
+      "a": "4 kilometers",
+      "b": "8 kilometers",
+      "c": "6 kilometers",
+      "d": "12 kilometers"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2016_13_to_17_iprrih.jpg",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -5131,6 +5243,22 @@
     "section": "Study the table below, which shows the mean climatic conditions at Station Y , and answer question 12 to 14",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2019_12_to_14_kwqvds.jpg",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 372,
+    "question": "Which of the following observation can be inferred from the table above, which shows the hydro-electric power (HEP) development in some selected countries?",
+    "option": {
+      "a": "Power from hydro-electricity is cheaper than power from other sources",
+      "b": "More factories use HEP in Brazil than in Switzerland",
+      "c": "Per capita HEP consumption is higher in Switzerland than in Italy",
+      "d": "More HEP stations are built in Canada than in Japan"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582572/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2019_16_y0csjv.jpg",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
