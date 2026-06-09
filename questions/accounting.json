@@ -32,6 +32,22 @@
     "examyear": "2010"
   },
   {
+    "id": 6,
+    "question": "Which of the following is the most liquid ",
+    "option": {
+      "a": "stock ",
+      "b": "debtors ",
+      "c": "machinery ",
+      "d": "loose tools"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 8,
     "question": "At the end of a trading period, wages will be  ",
     "option": {
@@ -359,6 +375,22 @@
       "b": "Debit the income summary account credit the drawing account",
       "c": "Debit   the   drawing account credit income summary accounting",
       "d": "Debit the owner's capital account, credit the drawing account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 51,
+    "question": "Which of the following accounts would be classified as a current on the balance sheet?",
+    "option": {
+      "a": "Office Equipment",
+      "b": "Accumulated Depreciation",
+      "c": "Land",
+      "d": "Accounts receivable"
     },
     "section": "",
     "image": "",
@@ -1536,6 +1568,22 @@
     "examyear": "1997"
   },
   {
+    "id": 192,
+    "question": "A ledger is a",
+    "option": {
+      "a": "book of accounts",
+      "b": "summary of entries",
+      "c": "book of original entry",
+      "d": "double entry posting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 193,
     "question": "A real account is the account of",
     "option": {
@@ -1915,6 +1963,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 235,
+    "question": "“A business unit is assumed to operate into foreseeable future and earn reasonable net income”. This statement is emphasized by the concept of",
+    "option": {
+      "a": "business entity",
+      "b": "going concern",
+      "c": "realization",
+      "d": "accrual."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -2880,6 +2944,22 @@
     "examyear": "2014"
   },
   {
+    "id": 364,
+    "question": "An example of a self-balancing account is the",
+    "option": {
+      "a": "suspense account",
+      "b": "creditor’s account",
+      "c": "control account",
+      "d": "debtor’s accoun"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 369,
     "question": "A petty cash account has an imprest of D28,000. The account has a debit balance of D5.000. How much cash is needed to restore the imprest?",
     "option": {
@@ -2944,6 +3024,22 @@
     "examyear": "2014"
   },
   {
+    "id": 389,
+    "question": "Which of the following is not a factory overhead cost?",
+    "option": {
+      "a": "Manufacturing wages",
+      "b": "Factory rent",
+      "c": "Depreciation of machinery",
+      "d": "Salary of factory guard"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 390,
     "question": "A collection of fields relating to one logically definable unit of business information is known as",
     "option": {
@@ -2974,6 +3070,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
+  },
+  {
+    "id": 395,
+    "question": "The rule of accounting equation requires that account payable should be placed under",
+    "option": {
+      "a": "liabilities",
+      "b": "equities",
+      "c": "assets",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 397,
@@ -3168,6 +3280,22 @@
     "examyear": "2004"
   },
   {
+    "id": 419,
+    "question": "A rapidly growing business organization with multiple units that is interested in comparing the performances and weaknesses of each unit should adopt.",
+    "option": {
+      "a": "manufacturing accounts",
+      "b": "consolidated accounts",
+      "c": "departmental accounts",
+      "d": "joint venture accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 420,
     "question": "How are credit sales by a department treated?",
     "option": {
@@ -3193,6 +3321,22 @@
       "d": "discount account and a credit to branch debtors’ account"
     },
     "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 424,
+    "question": "The balance of profit and loss account will be",
+    "option": {
+      "a": "N 4,000",
+      "b": "N 2,800",
+      "c": "N 1,500",
+      "d": "N 300"
+    },
+    "section": "Jumoke and Kunle have an original investment of N 25,000 and N15,000 respectively in a partnership.   The articles of partnership provide 3% interest on capital and salaries of N1,500 and N 1,000 respectively for the partners.   The profits and losses are to be shared in the ratio 3:2. Miscellaneous expenses of N 2,500 were incurred with gross profit of N 6,500 during the financial year.",
     "image": "",
     "answer": "a",
     "solution": "",
@@ -3271,6 +3415,22 @@
       "b": "existing general reserve",
       "c": "proceeds from new issue of shares",
       "d": "withholding tax."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 431,
+    "question": "According to the provisions of the 1999 Constitution, all revenues generated by the Federal Government must be paid into the?",
+    "option": {
+      "a": "Consolidated Revenue Fund",
+      "b": "Federation Account",
+      "c": "Revenue Mobilization Allocation and Fiscal Commission’s Account",
+      "d": "Equalization Fund"
     },
     "section": "",
     "image": "",
@@ -3559,6 +3719,22 @@
       "b": "N 3000",
       "c": "N 900",
       "d": "N1500."
+    },
+    "section": "Use the information below to answer question: Debtors [N20 000]; Provision for bad debts 10%; Provision for discount on debtors 5%.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 463,
+    "question": "The provision for bad debt is",
+    "option": {
+      "a": "N2 000",
+      "b": "N 800",
+      "c": "N3 000",
+      "d": "N1 900."
     },
     "section": "Use the information below to answer question: Debtors [N20 000]; Provision for bad debts 10%; Provision for discount on debtors 5%.",
     "image": "",
@@ -4912,6 +5088,22 @@
     "examyear": "2017"
   },
   {
+    "id": 637,
+    "question": "The movement of goods from head office to a branch is treated in the head office as",
+    "option": {
+      "a": "Sales",
+      "b": "issue",
+      "c": "purchases",
+      "d": "requisition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When the head office sends goods to a branch, it doesn’t record a sale or purchase; instead it debits the Branch Account (or Branch Stock Account) and credits the Head Office’s Stock Account as an issue of goods to the branch.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 643,
     "question": "Discount allowed is enjoyed by",
     "option": {
@@ -5552,6 +5744,22 @@
     "examyear": "2019"
   },
   {
+    "id": 728,
+    "question": "Retained profits is an example of",
+    "option": {
+      "a": " Revenue reserve",
+      "b": " Capital reserves",
+      "c": "General reserves",
+      "d": "Loan capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Retained profit is part of the part of the profits of an organization not distributed as dividends but ploughed back into the business for expansion.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 737,
     "question": "A fall or decrease in the economic service potential of an asset as a result of wear, tear and obsolescence is referred to as",
     "option": {
@@ -6096,6 +6304,22 @@
     "examyear": "2020"
   },
   {
+    "id": 802,
+    "question": "Kola and Sunday are in partnership sharing profits and losses equally. If Kemi is admitted as a new partner to take 1/5 as her share, what is the new profit or loss sharing ratio?",
+    "option": {
+      "a": "Kola 1/3, Sunday 1/3 and Kemi 1/3",
+      "b": "Kola 1/5, Sunday 1/5 and Kemi 3/5",
+      "c": " Kola 2/5, Sunday 1/5 and Kemi 2/5",
+      "d": "Kola 2/5, Sunday 2/5 and Kemi 1/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Kemi is admitted with a 1/5 share\nStep 2: The remaining share for old partners = 1 - 1/5 = 4/5\nStep 3: Since Kola and Sunday were sharing equally before admission, they will continue to share the remaining 4/5 equally between themselves\nNew sharing ratio:\n\nKola: 4/5 ÷ 2 = 2/5\nSunday: 4/5 ÷ 2 = 2/5\nKemi: 1/5\n\nVerification: 2/5 + 2/5 + 1/5 = 5/5 = 1",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 804,
     "question": "A company has departments L, M and O. Department L Occupies a space twice that of M while O occupies half the space of M. If the company pays ₦70,000 on rent, what is the amount of rent that should be allocated to M?",
     "option": {
@@ -6320,6 +6544,22 @@
     "examyear": "2021"
   },
   {
+    "id": 828,
+    "question": "The corresponding entry of personal accounts  found in the debit side of the cashbook is to ",
+    "option": {
+      "a": "credit real accounts",
+      "b": "credit the ledger",
+      "c": "debit real accounts",
+      "d": "debit the ledger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a personal account (e.g. a customer’s account) appears on the debit side of the cashbook (showing cash received), the corresponding entry is a credit in that customer’s ledger account. This follows the rule for personal accounts: debit the giver, credit the receiver. Here, the business (receiver of cash) is debited, so the customer (giver of cash) is credited in the ledger.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 829,
     "question": "From Zahki Plc's balance sheet as at 31st December 1997, the company has the following financial position: On the equity and liabilities side - Paid up capital of ₦200,000, Share premium of ₦15,000, Profit and loss account balance of ₦60,000, Long-term loan of ₦180,000, Creditors of ₦200,000, and Other current liabilities of ₦100,000, totaling ₦755,000. On the assets side - Fixed assets of ₦300,000, Investment of ₦180,000, Stock of ₦28,000, Debtors of ₦90,000 with a provision of ₦3,000 making net debtors ₦87,000, Cash of ₦60,000, and Bank of ₦100,000, also totaling ₦755,000. What is the quick ratio?",
     "option": {
@@ -6448,6 +6688,22 @@
     "examyear": "2022"
   },
   {
+    "id": 850,
+    "question": "\nWhich of these is not method of stock valuation?",
+    "option": {
+      "a": "FIFO method",
+      "b": "Base method",
+      "c": "Standard method",
+      "d": "LIFO method"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Standard method is not a method of stock valuation. ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 852,
     "question": "One of the items listed below will not be found in a company’s memorandum and article of association. Which is it?",
     "option": {
@@ -6572,6 +6828,38 @@
     "image": "",
     "answer": "a",
     "solution": "When a government ministry makes a payment to a revenue collector, the official acknowledgment of that payment is issued in the form of a treasury receipt. This document serves as the evidence that funds have been collected and remitted to the government’s treasury.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 871,
+    "question": "A company has two departments X and Y. Y transferred goods to X at a profit margin of 25%. ₦10,000 worth of goods was not sold at the end of the accounting period.\nHow much is the unrealized profit?\n",
+    "option": {
+      "a": "₦2,000",
+      "b": "₦2,500",
+      "c": "₦12,000",
+      "d": "₦12,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Since goods were transferred at a 25% markup on cost, the transfer (invoice) price is 125% of cost. For unsold stock valued at ₦10,000 (transfer price), the cost component is ₦10,000 ÷ 1.25 = ₦8,000, so the unrealized profit embedded in closing stock is ₦10,000 − ₦8,000 = ₦2,000.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 873,
+    "question": "Which of the following concepts recognizes the principle of double entry?",
+    "option": {
+      "a": "business entity",
+      "b": "accrual",
+      "c": "going concern",
+      "d": "dual aspect"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The concept that recognizes the principle of double entry is the dual aspect concept.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -7276,6 +7564,22 @@
     "image": "",
     "answer": "d",
     "solution": "When cash is moved between the office and the bank (or vice versa), this creates a special type of entry in the cash book.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 979,
+    "question": "Determine the closing balance of the cash book?",
+    "option": {
+      "a": "₦4,870 credit",
+      "b": "₦655 debit",
+      "c": "₦130 credit",
+      "d": "₦130 debit"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756660495/ALOC-Questions/Accounting/UTME/2008/Accounting_JAMB_2008_Q15_IMAGE_l28hm5.jpg",
+    "answer": "a",
+    "solution": "Calculate Cash Book Balance:\nClosing Balance = Total Receipts - Total Payments\nClosing Balance = ₦15,100 - ₦10,230 = ₦4,870",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -8252,6 +8556,22 @@
     "image": "",
     "answer": "a",
     "solution": "Explanation: when a new partner pays a goodwill premium, you debit Cash/Bank (what's received) and credit the old partners' capital accounts in their profit-sharing ratio (since the premium compensates the existing partners).",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1107,
+    "question": "The expenses incurred in promoting a company are?",
+    "option": {
+      "a": "promoters' expenses",
+      "b": "floating expenses",
+      "c": "preliminary expenses",
+      "d": "the borad's expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation: Expenses incurred in promoting and forming a company (legal fees, registration, prospectus preparation, etc.) are commonly called preliminary (or formation) expenses.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -10876,6 +11196,22 @@
     "image": "",
     "answer": "b",
     "solution": "The debtors control account (sales ledger control account) summarizes all transactions with customers. In the absence of a sales day book, you can compute total credit sales by analyzing this account because it records credit sales, receipts, returns, and discounts related to debtors.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1438,
+    "question": "which of the following conditions best represents the net effect of discount allowed on credit sales on the accounts of the business?",
+    "option": {
+      "a": "decrease in the closing balance of sales ledger control accout",
+      "b": "increase in net profit",
+      "c": "increase in the value of sales",
+      "d": "decrease in the value of purchases in the trading account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Discount allowed is a reduction granted to customers for early payment. It:\n\nReduces the amount receivable from debtors (hence reduces the balance of the sales ledger control account).\n\nIt does not increase net profit (it actually reduces it),\n\nIt does not affect the value of sales,\n\nIt has nothing to do with purchases",
     "examtype": "utme",
     "examyear": "1997"
   },
