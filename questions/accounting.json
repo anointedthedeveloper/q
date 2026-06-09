@@ -432,6 +432,22 @@
     "examyear": "2011"
   },
   {
+    "id": 33,
+    "question": "Which of the following does not appear in a bank statement?   ",
+    "option": {
+      "a": "Uncredited cheque ",
+      "b": "Bank charges ",
+      "c": "Dishonoured cheque ",
+      "d": " Dividend   received   on    behalf   of customer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 34,
     "question": "Where a correct amount is entered, but in the wrong person's account, is an error of  ",
     "option": {
@@ -663,6 +679,22 @@
       "b": "an increase in a liability account",
       "c": "a decrease in an asset account",
       "d": "an increase in an asset account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 55,
+    "question": "The essential amount of depreciation or equipment for a period is 2,000 the adjusting end to record depreciation would be",
+    "option": {
+      "a": "Debit depreciation expense, 2000, credit expense, 2,000",
+      "b": "Debit equipment, 2,000; credit depreciation expense, 2,000",
+      "c": "Debit accumulated depreciation, 2,000. credit depreciation expense 2,000    ",
+      "d": "Debit depreciation expense, 2,000; credit accumulated depreciation 2,000."
     },
     "section": "",
     "image": "",
@@ -3856,6 +3888,22 @@
     "examyear": "2012"
   },
   {
+    "id": 292,
+    "question": "Which of the following is not the purpose of control account?",
+    "option": {
+      "a": "Check on errors of addition",
+      "b": "Locate errors",
+      "c": "Locate missing figures",
+      "d": "Monitor the cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 293,
     "question": "Which of the following is not part of the Central Processing Unit of a computer?",
     "option": {
@@ -4235,6 +4283,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 324,
+    "question": "The total of the returns outwards journal is posted to the",
+    "option": {
+      "a": "credit side of the returns outwards book",
+      "b": "debit side of the returns outwards account",
+      "c": "debit side of the purchases returns book",
+      "d": "credit side of the returns outwards account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -9280,6 +9344,22 @@
     "examyear": "2019"
   },
   {
+    "id": 739,
+    "question": "The following information were extracted from the books of Miliki state: sinking of bore holes ₦2,900,000, purchase of motor car ₦920,000, stationery ₦300,000, electricity ₦45,000, purchase of drugs ₦76,000, and purchase of beds ₦425,000. What is the recurrent expenditure?",
+    "option": {
+      "a": " ₦345,000",
+      "b": "₦3,245,000",
+      "c": "₦421,000",
+      "d": "₦4,245,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Recurrent expenditure refers to operating expenses that occur regularly and are consumed within a short period (usually within a year). These are expenses for day-to-day operations.\nFrom the given items:\n\nStationery: ₦300,000 (recurrent - office supplies)\nElectricity: ₦45,000 (recurrent - utility expense)\nPurchase of drugs: ₦76,000 (recurrent - medical supplies)\n\nThe other items (sinking of bore holes, motor car, and beds) are capital expenditures as they are long-term assets.\nRecurrent expenditure = ₦300,000 + ₦45,000 + ₦76,000 = ₦421,000\nTherefore, the recurrent expenditure is ₦421,000.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 740,
     "question": "Using the same information extracted from the books of Miliki state where sinking of bore holes cost ₦2,900,000, purchase of motor car ₦920,000, stationery ₦300,000, electricity ₦45,000, purchase of drugs ₦76,000, and purchase of beds ₦425,000, what is the capital expenditure?",
     "option": {
@@ -11984,6 +12064,22 @@
     "examyear": "2024"
   },
   {
+    "id": 956,
+    "question": "Which of the following bodies regulates accounting practices in Nigeria?",
+    "option": {
+      "a": "NIT",
+      "b": "NIB",
+      "c": "EFCC",
+      "d": "ANAN"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In Nigeria, there are two main professional accountancy associations with regulatory power:\nInstitute of Chartered Accountants of Nigeria (ICAN): This is the older and more widely recognized body. Association of National Accountants of Nigeria (ANAN): This is another recognized professional accountancy body.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 958,
     "question": "A method that is beneficial for tax purposes in inflationary times is? ",
     "option": {
@@ -12188,6 +12284,22 @@
     "image": "",
     "answer": "d",
     "solution": "When cash is moved between the office and the bank (or vice versa), this creates a special type of entry in the cash book.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 975,
+    "question": "Abba offers 5% cash discount on goods worth ₦10 000, The discount allowed account is to be?",
+    "option": {
+      "a": "debited with ₦10 000",
+      "b": "credited with ₦10 000",
+      "c": "debited with ₦500",
+      "d": "credited with ₦500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When Abba offers a 5% cash discount on goods worth ₦10,000:\nCalculate the discount:\nDiscount = 5% × ₦10,000 = ₦500\nAccounting treatment:\nWhen a business gives a discount to customers, it's an expense for the business.\nRule for expenses:\n\nExpenses are always debited\n\"Discount Allowed\" is an expense account\n\nTherefore:\nThe Discount Allowed Account should be debited with ₦500",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -15200,6 +15312,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1216,
+    "question": "Cost accounting entails the provision of information?",
+    "option": {
+      "a": "for investment purposes",
+      "b": " for descision making",
+      "c": "to shareholders",
+      "d": " to stockholders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Cost accounting primarily provides detailed cost information for decision making within the organization, helping managers plan, control, and evaluate operations.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1218,
     "question": "If liabilities amounted to ₦12,045, other assets ₦36,800and equity ₦26,896, the cash at hand would be?",
     "option": {
@@ -15292,6 +15420,22 @@
     "image": "",
     "answer": "d",
     "solution": "Opening Balance + Cash Received - Cash Paid = Closing Balance\nRearranging to find Cash Paid:\nCash Paid = Opening Balance + Cash Received - Closing Balance\nSubstituting the values:\nCash Paid = ₦15,200 + ₦36,000 - ₦18,400\nCash Paid = ₦51,200 - ₦18,400 = ₦32,800",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1224,
+    "question": "In a petty cash book, the closing balance was ₦235, imprest ₦1,250, while the stationery expenses were ₦655. How much was paid for other general expenses?",
+    "option": {
+      "a": "₦360",
+      "b": "₦355",
+      "c": "₦350",
+      "d": "₦305"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In an imprest petty cash system:\nOpening Balance (Imprest) = Closing Balance + Total Expenses\nRearranging to find Total Expenses:\nTotal Expenses = Opening Balance - Closing Balance\nTotal Expenses = ₦1,250 - ₦235 = ₦1,015\nSince we know stationery expenses were ₦655:\nOther General Expenses = Total Expenses - Stationery Expenses\nOther General Expenses = ₦1,015 - ₦655 = ₦360",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -15772,6 +15916,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Calculate gain/loss on investments\n\nCost of investments (from trial balance): ₦3,000\nRealization value: ₦4,000\nGain on disposal = ₦4,000 - ₦3,000 = ₦1,000\n\nStep 2: Calculate ending fund balance\n\nOpening fund balance: ₦11,000\nAdd: Gain on disposal of investments: ₦1,000\nEnding fund balance = ₦11,000 + ₦1,000 = ₦12,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1264,
+    "question": "<b>Use the information below to answer questions 49 and 50</b>\n\nGiven PTF Trial balance (Extract) as at 31 December 1999 showing: Cash ₦2,000 (Dr), Investments ₦3,000 (Dr), Accounts receivable ₦6,000 (Dr), and Fund balance ₦11,000 (Cr). Assuming all the investments realized ₦4m, If only 1/3 of the investment is sold for N2m and N5m\nrealized from the accounts receivable, what will be the\nbalance of the fund?",
+    "option": {
+      "a": "₦9m",
+      "b": "₦11m",
+      "c": "₦13m",
+      "d": "₦16m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Starting position:\n\nFund balance: ₦11m\nInvestments: ₦3m\nAccounts receivable: ₦6m\n\nTransaction 1: Sale of 1/3 of investments for ₦2m\n\nCost of 1/3 investments sold = ₦3m × 1/3 = ₦1m\nSale proceeds = ₦2m\nGain on sale = ₦2m - ₦1m = ₦1m\n\nTransaction 2: Collection of ₦5m from accounts receivable\n\nOriginal accounts receivable: ₦6m\nAmount collected: ₦5m\nLoss on collection = ₦6m - ₦5m = ₦1m (bad debt/loss)\n\nCalculate ending fund balance:\n\nOpening fund balance: ₦11m\nAdd: Gain on investment sale: ₦1m\nLess: Loss on accounts receivable: ₦1m\nEnding fund balance = ₦11m + ₦1m - ₦1m = ₦11m",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -17004,6 +17164,22 @@
     "image": "",
     "answer": "c",
     "solution": "The correct entry when issuing shares to a vendor to settle the purchase of a business is to debit the vendor’s account (to clear the liability owed to them) and credit Share Capital (to record the new shares issued).",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1358,
+    "question": "The best method of allocating expenses among departments is to?",
+    "option": {
+      "a": "allocate expenses to each department in proportion to the sales of that department",
+      "b": "charge against each department those costs which are within its control",
+      "c": "charge expenses against each department in proportion to the purchases of that department",
+      "d": "allocate expenses to each section of the department in relation to the number of people"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "By assigning directly controllable expenses to the department responsible for incurring them, you:\n\nEnhance accountability (each manager owns the costs they can influence)\n\nAvoid arbitrary allocations that can distort performance measurement\n\nSimplify cost tracking and variance analysis\n\nOther bases (sales, purchases, headcount) can be used for truly common overheads, but as a general rule direct controllables should be charged where they belong.",
     "examtype": "utme",
     "examyear": "1999"
   },
