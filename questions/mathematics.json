@@ -13856,6 +13856,22 @@
     "examyear": "2018"
   },
   {
+    "id": 951,
+    "question": "In how many ways can the letters LEADER be arranged?",
+    "option": {
+      "a": "72",
+      "b": "144",
+      "c": "360",
+      "d": "720"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The word LEADER has 1L 2E 1A 1D and 1R making total of 6! 6/1!2!1!1!1!\n = 6!/2!\n  = (6×5×4×3×2×1)/(2×1)\n  = 360",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 952,
     "question": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/",
     "option": {
@@ -14908,6 +14924,22 @@
     "image": "",
     "answer": "c",
     "solution": "[(4a + 3) <sup>2</sup> - (3a - 2)<sup>2</sup>  = a<sup>2</sup>  - b<sup>2</sup>  = (a + b) (a - b) \n\n= [(4a + 3) + (3a - 2)] [(4a + 3) - (3a - 2)]\n\n= [4a + 3 + 3a - 2] [4a + 3 - 3a + 2]\n\n= (7a + 1)(a + 5)\n\n(a + 5) (7a + 1) ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1020,
+    "question": "Find all median of the numbers 89, 141, 130, 161, 120, 131, 131, 100, 108 and 119 ",
+    "option": {
+      "a": "131",
+      "b": "125",
+      "c": "123",
+      "d": "120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Arrange in ascending order\n\n89, 100, 108, 119, 120,130, 131, 131, 141, 161\n\nMedian = (120+130)/2 = 125",
     "examtype": "2020",
     "examyear": "utme"
   },
