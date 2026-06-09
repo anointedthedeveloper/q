@@ -1691,6 +1691,25 @@
     "category": "others"
   },
   {
+    "id": 153,
+    "question": "The new Headmaster hoped that his men would pull together",
+    "option": {
+      "a": "He expected that the men would cooperate with him",
+      "b": "He thought that the men would compose themselves at work",
+      "c": "He was certain that they would resign en masse",
+      "d": "He was certain that their condition would improve under him."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 154,
     "question": "If the trader paid in full, his order was not pruned down.",
     "option": {
@@ -2690,6 +2709,25 @@
     "section": "the option that best explains the information conveyed in the sentence. ",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 261,
+    "question": "The class has fallen in with the teacher's plans",
+    "option": {
+      "a": "The class has ignored the plans",
+      "b": "The class has rejected the plans",
+      "c": " The class has accepted the plans",
+      "d": "The class has modified the plans"
+    },
+    "section": "the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006",
@@ -3997,6 +4035,25 @@
       "b": "He will probably engineer the assassination of his opponents ",
       "c": "He will probably impose crushing new taxes",
       "d": "He will probably demand for and get all that is due to him "
+    },
+    "section": "select the option that bost explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 378,
+    "question": "He wants the meeting to be adjourned,",
+    "option": {
+      "a": "He wants the meeting closed ",
+      "b": "He wants the meeting cancelled ",
+      "c": "He wants the meeting to continue till another day ",
+      "d": "He want  the meeting to another day without delay "
     },
     "section": "select the option that bost explains the information conveyed in the sentence.",
     "image": "",
@@ -8341,6 +8398,25 @@
     "category": "others"
   },
   {
+    "id": 883,
+    "question": "The high cost of living these days calls for a lot of <u>frugality</u>?",
+    "option": {
+      "a": "extravagance",
+      "b": "economy",
+      "c": "recklessness",
+      "d": "prudence"
+    },
+    "section": "<b>In each of questions 86 to 100, choose the option opposite in meaning to the underlined word(s).</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 87,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 885,
     "question": "Everyone admired the manager's <u>adroit</u> handling of the crises in the company?\n",
     "option": {
@@ -8888,6 +8964,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 59,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 955,
+    "question": "She only gives a <u>superficial</u> impression of warmth and friendliness?",
+    "option": {
+      "a": " a strong",
+      "b": " a fake",
+      "c": "deep",
+      "d": "an unrealistic"
+    },
+    "section": "In each of the questions 49 to 63 choose the word that is <b>opposite</b> in meaning to the underlined word.",
+    "image": "",
+    "answer": "c",
+    "solution": "superficial; Fake or artificial. existing or occurring at or on the surface.\n\nDeep; very intense or extreme.  extending far down from the top or surface.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 60,
     "hasPassage": 0,
     "category": "others"
   },
@@ -11210,6 +11305,25 @@
     "category": "others"
   },
   {
+    "id": 1226,
+    "question": "The annual festival attracts <u>dignitaries</u> from both home and abroad.",
+    "option": {
+      "a": "spectators",
+      "b": "celebrities",
+      "c": "chieftains",
+      "d": "nonentities"
+    },
+    "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+    "image": "",
+    "answer": "d",
+    "solution": "Dignitary: a person considered to be important because of high rank or office.\n\nnonentity: a person or thing with no special or interesting qualities; an unimportant person or thing.",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 33,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1228,
     "question": "nsecurity has <u>escalated</u> since the present government came into power.",
     "option": {
@@ -11339,6 +11453,25 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 42,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1238,
+    "question": "Successful",
+    "option": {
+      "a": "SUccessful",
+      "b": "suCcessful",
+      "c": "sucCEssful",
+      "d": "succESSful"
+    },
+    "section": "choose the option with the correct emphatic stress indicated in capital letters from the options lettered A-D\n",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 45,
     "hasPassage": 0,
     "category": "others"
   },
@@ -12958,6 +13091,25 @@
     "category": "others"
   },
   {
+    "id": 1424,
+    "question": "Smoo[th]",
+    "option": {
+      "a": "worth",
+      "b": "wealthy",
+      "c": "brother",
+      "d": "dress"
+    },
+    "section": "Choose the word that has the same consonant sound as the one in bracket",
+    "image": "",
+    "answer": "c",
+    "solution": "Brother is the correct answer. The sound present here is pronounceable from the 'TH' in 'these' (not /d/ as in 'drug' or /∅/ as in 'thanks')",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1425,
     "question": "Ask[ed]",
     "option": {
@@ -13471,6 +13623,25 @@
     "category": "others"
   },
   {
+    "id": 1482,
+    "question": "Ad[j]ust",
+    "option": {
+      "a": "Diary",
+      "b": "judge",
+      "c": "Dynasty",
+      "d": "Anticipate"
+    },
+    "section": "Choose the word that has the same vowel sound as the one in bracket, from questions below",
+    "image": "",
+    "answer": "b",
+    "solution": "The sound obtainable here is evidenced in 'journey', 'gender'. Ju[d]ge has the consonant as these ones previously mentioned",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 109,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1483,
     "question": "A[n]kle",
     "option": {
@@ -13980,6 +14151,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 57,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1543,
+    "question": "choose the option that best completes the gap(s).\n\nI am not sure that all _____ well with John.",
+    "option": {
+      "a": "Were",
+      "b": "Is",
+      "c": "Are",
+      "d": "Will"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "All is well is when it refers to everything.\n\nThe question, all is well is most appropriate because the context is used to refer to everything and not everyone in a group",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 60,
     "hasPassage": 0,
     "category": "others"
   },
@@ -14668,6 +14858,25 @@
     "category": "others"
   },
   {
+    "id": 1611,
+    "question": "In the novel \"Independence\" Tayo lied to Vanassa that Christine was his ______?",
+    "option": {
+      "a": "sister",
+      "b": "niece",
+      "c": "aunt",
+      "d": "cousin"
+    },
+    "section": "This question is based on S. L. Manyika's INDEPENDENCE",
+    "image": "",
+    "answer": "d",
+    "solution": "In chapter Nine, Tayo was showing Vanessa his collection of photographs when Christines popped out and then he lied about her being his cousin.",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 48,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1612,
     "question": "According to Tayo the two major problems of Nigeria were",
     "option": {
@@ -14839,6 +15048,44 @@
     "category": "others"
   },
   {
+    "id": 1622,
+    "question": "According to the novel, Efua was in Forcados High School because",
+    "option": {
+      "a": " her stepfather was a board member",
+      "b": " of her former principal's recommendation",
+      "c": " the school needed her mother's support",
+      "d": "of aunt Moni's gift to the school"
+    },
+    "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 10,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1623,
+    "question": "Jimi and Efua, there's something fishy going on there....\nFrom the exercept above, the expression...something fishy refers to",
+    "option": {
+      "a": "Nene's fear that Efua and Jimi were no longer going out",
+      "b": "Nene's fear that Jimi was not determined to jilt Efua",
+      "c": " Nene's annoyance that Efua might snatch Jimi from her",
+      "d": "Nene's suspicion that Jimi and Efua were having a relationship"
+    },
+    "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 11,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1624,
     "question": "Seyi Lawal, the head boy of the school was described as someone who",
     "option": {
@@ -14854,6 +15101,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 12,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1625,
+    "question": "The author uses the novel to portray some of the",
+    "option": {
+      "a": " NGO's activities only",
+      "b": " environment conditions",
+      "c": " feelings of teachers only",
+      "d": " societal problems"
+    },
+    "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 13,
     "hasPassage": 0,
     "category": "others"
   },
@@ -16583,6 +16849,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 38,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1799,
+    "question": "The words _____ divided between the end of one line.",
+    "option": {
+      "a": "Has being.",
+      "b": "Have been.",
+      "c": "Have being.",
+      "d": "Has been."
+    },
+    "section": "Choose the option that best complete the gap.",
+    "image": "",
+    "answer": "b",
+    "solution": "The words have been divided between the end of one line.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 40,
     "hasPassage": 0,
     "category": "others"
   },
