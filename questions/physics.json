@@ -1072,6 +1072,22 @@
     "examyear": "2010"
   },
   {
+    "id": 87,
+    "question": "A transformer is connected to a 240 V supply. The primary coil has 40 turns, and the secondary is found to be 960V. What is the ratio of the number of turns of the primary coil to the number of turns of the secondary coil? ",
+    "option": {
+      "a": "4:01",
+      "b": "1:04",
+      "c": "1:06",
+      "d": "6:01"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 89,
     "question": "When three coplanar non-parallel forces are in equilibrium i. they can be represented in magnitude and direction by the three sides of a triangle taken in order ii. The lines of action meet at a point iii. The magnitude of any one force equals the magnitude of the other two forces iv. Any one force is the equivalent of the other two. Which of the following statements above are correct? ",
     "option": {
@@ -1612,6 +1628,22 @@
     "image": "",
     "answer": "d",
     "solution": "The appearance of pool of water on road surfaces is called MIRAGE\n\nHis observation show that light from the sun ray refracted through a layer of hot air(layer) which is closed to the ground, passes from a hot air layer to the cold layer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 140,
+    "question": "The resultant force of a couple is ………?",
+    "option": {
+      "a": "Infinity",
+      "b": "Zero",
+      "c": "One",
+      "d": "Half"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "What is a couple?\nA couple consists of two equal and opposite parallel forces acting on a body at different points.\nKey characteristics:\n\nTwo forces of equal magnitude\nActing in opposite directions\nParallel to each other\nSeparated by a distance (perpendicular distance between the lines of action)\n\nResultant force of a couple:\nSince the two forces are:\n\nEqual in magnitude\nOpposite in direction\n\nWhen we add them vectorially:\nForce₁ + Force₂ = F + (-F) = 0\nTherefore, the resultant force = Zero",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -5280,6 +5312,22 @@
     "examyear": "2021"
   },
   {
+    "id": 441,
+    "question": "A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms⁻¹ from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is? (Take g = 10ms⁻²)",
+    "option": {
+      "a": "5J",
+      "b": "10J",
+      "c": "15J",
+      "d": "20J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass (m) = 0.1 kg\nInitial velocity (u) = 10 m/s (upward)\nHeight of tower (h) = 10 m\ng = 10 m/s²\nTotal energy just before hitting ground = ?\n\nKey principle: Conservation of Energy\nIn the absence of air resistance, total mechanical energy is conserved.\nTotal energy at any point = KE + PE (constant throughout motion)\nCalculate total energy at initial position (top of tower):\nInitial Kinetic Energy:\nKE₀ = ½mu²\nKE₀ = ½ × 0.1 × (10)²\nKE₀ = ½ × 0.1 × 100\nKE₀ = 5 J\nInitial Potential Energy (taking ground as reference):\nPE₀ = mgh\nPE₀ = 0.1 × 10 × 10\nPE₀ = 10 J\nTotal initial energy:\nTotal Energy = KE₀ + PE₀\nTotal Energy = 5 + 10 = 15 J",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 442,
     "question": "A car of mass 800kg attains a speed of 25m/s in 20secs. The power developed in the engine is?",
     "option": {
@@ -6928,6 +6976,22 @@
     "examyear": "2024"
   },
   {
+    "id": 582,
+    "question": "If a body in linear motion changes from point P to Q, the motion is ",
+    "option": {
+      "a": "Translational",
+      "b": "Rotational",
+      "c": "Simple harmonic",
+      "d": "Circular"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If a body in linear motion changes from point P to Q, the motion is Translational.\n\nTranslational motion refers to the movement of an object from one location to another in a straight line, without any rotation involved.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 583,
     "question": "Which of these gas laws is equivalent to workdone",
     "option": {
@@ -8048,6 +8112,22 @@
     "examyear": "2005"
   },
   {
+    "id": 680,
+    "question": "Two charged particles are projected into a region where there is a magnetic field perpendicular to their velocities. If the charges are deflected in opposite directions, which of the following statements is true of the charge?",
+    "option": {
+      "a": " the charge must be of opposite sign",
+      "b": "positive charges are more in number",
+      "c": " the charges are electrically neutral",
+      "d": "the charges are of the same sign"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Opposite deflections imply the charges must be of opposite sign.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 681,
     "question": "The resistance of a piece of wire of length 20 m and cross‑sectional area 8 × 10⁻⁶ m² is?\n[Resistivity of the wire = 4 × 10⁻⁷ Ω·m]",
     "option": {
@@ -8076,6 +8156,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296611/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_33_oy4esv.png",
     "answer": "d",
     "solution": "The curve reaches its minimum (lowest point) at approximately θ = 25°, where the deviation is approximately 18°.\n\nAt minimum deviation:\n\nThe ray passes symmetrically through the prism\nThe angle of incidence equals the angle of emergence\nThis condition is used in prism experiments to determine refractive index\n\n\nIncident angle at minimum deviation = 25°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 683,
+    "question": "\nThe value of F in the figure above when in equilibrium is",
+    "option": {
+      "a": "10N",
+      "b": "12N",
+      "c": " 20N",
+      "d": "27N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296660/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_34_sfvkrd.png",
+    "answer": "a",
+    "solution": "For equilibrium, F must be equal in magnitude to the resultant of the 10 N and 17 N forces (but opposite in direction).\n\nUsing the cosine rule:\n\nR² = 10² + 17² + 2(10)(17)cos150°\n\ncos150° = −0.866\n\nR² = 100 + 289 − 294.4\nR² ≈ 94.6\nR ≈ 9.7 N ≈ 10 N",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -10576,6 +10672,22 @@
     "examyear": "2009"
   },
   {
+    "id": 891,
+    "question": "The wave phenomenon demonstrated in the diagram above is?",
+    "option": {
+      "a": "reflection",
+      "b": "deflection",
+      "c": "diffraction",
+      "d": "refraction"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433244/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_42_bdll2o.png",
+    "answer": "c",
+    "solution": "Diffraction is spreading of wave after passing through a sli",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 892,
     "question": "\nThe diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is?",
     "option": {
@@ -12400,6 +12512,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1052,
+    "question": "A wire of length 100.0m at 30°C has linear expansivity of 2 × 10⁻⁵ K⁻¹. Calculate the length of the wire at a temperature of -10°C",
+    "option": {
+      "a": ". 100.08 m",
+      "b": " 100.04 m",
+      "c": "99.96 m",
+      "d": " 99.92 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nOriginal length (L₀) = 100.0 m (at 30°C)\nInitial temperature (T₁) = 30°C\nFinal temperature (T₂) = -10°C\nLinear expansivity (α) = 2 × 10⁻⁵ K⁻¹\nFinal length (L) = ?\n\nStep 1: Calculate temperature change\nΔT = T₂ - T₁\nΔT = -10 - 30\nΔT = -40°C = -40 K\n(Negative indicates temperature decrease → contraction)\nStep 2: Use linear expansion formula\nΔL = L₀αΔT\nSubstituting values:\nΔL = 100.0 × (2 × 10⁻⁵) × (-40)\nΔL = 100.0 × 2 × 10⁻⁵ × (-40)\nΔL = -8.0 × 10⁻³ m\nΔL = -0.08 m\nΔL = -8.0 cm\n(Negative indicates contraction)\nStep 3: Calculate final length\nL = L₀ + ΔL\nL = 100.0 + (-0.08)\nL = 100.0 - 0.08\nL = 99.92 m",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1053,
     "question": "A gas at a pressure of 10⁵ Nm⁻² expands from 0.6 m³ to 1.2 m³ at constant temperature, the work done is",
     "option": {
@@ -12908,6 +13036,22 @@
     "image": "",
     "answer": "d",
     "solution": "Dew forms on grass in the early morning due to condensation of atmospheric moisture on surfaces that have cooled overnight.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1096,
+    "question": "The equation PᵃVᵇTᶜ = constant reduces to Charles' Law if",
+    "option": {
+      "a": " a=1, b=1, c=0",
+      "b": " a=1, b=0, c=-1",
+      "c": "a=0, b=1, c=1",
+      "d": "a=0, b=1, c=-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nCharles' Law states that at constant pressure, volume is directly proportional to absolute temperature: V ∝ T, or V/T = constant. This implies P is constant.\n\nSolution:\n\nStep 1: Interpret the given equation\nPᵃ Vᵇ Tᶜ = constant. For this to represent Charles' Law, pressure P must be constant. That means the factor Pᵃ must not vary, so its exponent a must be 0 (since P⁰ = 1).\n\nStep 2: Apply Charles' Law condition\nWith a = 0, the equation becomes Vᵇ Tᶜ = constant. Charles' Law requires V ∝ T, i.e., V¹ T⁻¹ = constant. Therefore, b = 1 and c = –1.",
     "examtype": "utme",
     "examyear": "2014"
   },
