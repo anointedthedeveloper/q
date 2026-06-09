@@ -288,6 +288,22 @@
     "examyear": "2007"
   },
   {
+    "id": 26,
+    "question": "How long will take a sum of money invested at 8% simple interest to double the original sum? ",
+    "option": {
+      "a": "8 years  ",
+      "b": "10.5years  ",
+      "c": "(1years ",
+      "d": "12.5years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 27,
     "question": "The journey from Lagos to Ibadan usually takes a motorist 1 hour 30 minutes. By increasing his average speed by 20km/hr, the motorist saves 15 minutes. His usual speed, in Km/hr is ",
     "option": {
@@ -2496,6 +2512,22 @@
     "examyear": "2003"
   },
   {
+    "id": 247,
+    "question": "Determine the maximum value of y = 3x<sup>2</sup> - x<sup>3</sup>",
+    "option": {
+      "a": " zero",
+      "b": "2",
+      "c": " 4",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = 3x<sup>2</sup> - x<sup>3</sup>\ndy/dx = 6x - 3x<sup>2</sup>\nas dy/dx = 0\n6x - 3x<sup>2</sup> = 0\n3x (2 - x) = 0\nthis implies that 2 -x = 0 and 3x = 0\nx = 2 (or) 0\nBut = dy/dx = 6x - 3x<sup>2</sup>\nd<sup>2</sup>y/dx<sup>2</sup> = 6 - 6x at x = 2\n= 6 - 6(2)\n= -6\ny = 3x<sup>2</sup> - x<sup>3</sup>\n= 3(2)<sup>2</sup> - 2<sup>3</sup>\n= 12 - 8\n= 4",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 248,
     "question": "By how much is the mean of 30, 56, 31, 55, 43 and 44 less than the median?",
     "option": {
@@ -3356,6 +3388,22 @@
     "image": "",
     "answer": "c",
     "solution": "a * b = ab + 2(a + b + 1)\nlet e be the identity element\n∴ a * e = e * b = a\n∴ a * e\nae + 2(a + e + 1) = a\nae + 2a + 2e + 2 = a\nae + 2e = a - 2a = 2\n(a + 2)e = -a - 2\ne = -(a-2) / (a+2)\ne = -(a+2) / (a+2)\ne = -1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 340,
+    "question": "In the diagram above calculate the value of x",
+    "option": {
+      "a": "60°",
+      "b": "100°",
+      "c": "120°",
+      "d": "140°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702104/ALOC-Questions/Mathematics/2005/math_2005_q19_gir53c.jpg",
+    "answer": "c",
+    "solution": "p + 40° = 100° (exterior ∠ = sum of two interior opp ∠s)\np = 100° - 40°\nP = 60°\nBut q + p = 180° (∠s on a straight line)\nq + 60°\nq = 180° - 60°\nq = 120°\nx = q (corresponding ∠)\n∴x = 120°",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -4224,6 +4272,22 @@
     "examyear": "2006"
   },
   {
+    "id": 417,
+    "question": "If tan θ = 5/4 find sin<sup>2</sup> - cos<sup>2</sup>θ",
+    "option": {
+      "a": "9/41",
+      "b": "5/4",
+      "c": "1",
+      "d": "9/1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 420,
     "question": "The response of 160 pupils in a school asked to indicate their favourite subjects is given in the bar chart above. What percentage of the pupils have English and Health education as the their favourite subjects?",
     "option": {
@@ -4348,6 +4412,22 @@
     "image": "",
     "answer": "d",
     "solution": "y = x cos x\ndy/dx = 1. cos x + x (-sin x)\n= cos x - x sin x",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 433,
+    "question": "Find the value of x for which the function f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x + 4 has a maximum value",
+    "option": {
+      "a": " 2/3",
+      "b": "1",
+      "c": " - 2/3",
+      "d": " - 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x – 4\nf’(x) = 6x<sup>2</sup> - 2x – 4\nAs f’(x) = 0\nImplies 6x<sup>2</sup> - 2x – 4 = 0\n3x – x – 2 = 0 (By dividing by 2)\n(3x – 2)(x + 1) = 0\n3x – 2 = 0 implies x = -2/3\nOr x + 1 = 0 implies x = -1\nf’(x) = 6x<sup>2</sup> - 2x – 4\nf’’(x) = 12x – 2\nAt max point f’’(x) < 0\n∴f’’(x) = 12x – 2 at x = -1\n= 12(-1) – 2\n= -12 – 2 = -14\n∴Max at x = 1",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -5024,6 +5104,38 @@
     "examyear": "2008"
   },
   {
+    "id": 514,
+    "question": "Find the number of ways of selecting 6 out of 10 subjects for an examination",
+    "option": {
+      "a": "128",
+      "b": "216",
+      "c": "215",
+      "d": "210"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "〖<sup>10</sup> 〗C<sub>6</sub> =10!/((10-6)!6!)=10!/4!6!=(10×9×8×7×6!)/(4×3×2×1×6!)=210",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 515,
+    "question": "The probability of picking a letter T from the word OBSTRUCTION is?",
+    "option": {
+      "a": " 1/11",
+      "b": "2/11",
+      "c": " 3/11",
+      "d": "4/11"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "OBSTRUCTION\nTotal possible outcome = 11\nNumber of chance of getting T = 2\nP(picking T) = 2/11",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 516,
     "question": "The result of rolling a fair die 150 times is as summarized in the table above. What is the probability of obtaining a 5",
     "option": {
@@ -5054,6 +5166,22 @@
     "solution": "-2p + r = 1.......(i)\n\n2p + 3r = 0.......(ii)\n\nr - 1 + 2p ........(iii)\n\n2p + 3(1 + 2p) = 0\n\n2p + 3(1 + 2p) = 0\n\n2p + 3 + 6p = 0\n\n3 - 8p = 0 → 8p = 3\n\np = 3/8\n\n6 = 1 - 2 (3/8)\n\n= 1 - 6/8\n\n8−6/8 = 2/8\n\n= 1/4",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 523,
+    "question": "Simplify 7 1/12-4( 3/4+2 1/2",
+    "option": {
+      "a": "4",
+      "b": "4(1/6",
+      "c": "4(5/6)",
+      "d": "5(1/6)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mn>7</mn>\n  <mfrac>\n    <mn>1</mn>\n    <mn>12</mn>\n  </mfrac>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>4</mn>\n  <mfrac>\n    <mn>3</mn>\n    <mn>4</mn>\n  </mfrac>\n  <mo>+</mo>\n  <mn>2</mn>\n  <mfrac>\n    <mn>1</mn>\n    <mn>2</mn>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "7 (1/12) -4( 3/4) + 2( 1/2) =5((1-9+6)/12). 5((-2)/12 )                     = 4((12-2)/12)                (carry one from 5 and call it 12)\n4(10/12) = 4(5/6)",
+    "examtype": "utme",
+    "examyear": "2009"
   },
   {
     "id": 524,
@@ -5484,6 +5612,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547266/ALOC-Questions/Mathematics/2009/MATH_2009_Q38_ehu03j.jpg",
     "answer": "b",
     "solution": "20 + 2x + 60 + 40 + x + 50 = 260\n170 + 3x = 260\n3x = 260 - 170\n3x = 90\nx = 90/3 = 30\nAt least 4 days\n4 days = 40\n5 days = 30\n6 days = 50\nTotal = 120",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 562,
+    "question": "5, 8, 6 and k occur with frequency 3, 2, 4, and 1 respectively and have a mean of 5.7. Find the value of k?",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547324/ALOC-Questions/Mathematics/2009/MATH_2009_Q41_SOLUTION_kripfc.jpg",
+    "answer": "c",
+    "solution": "\nMean =\t∑fx/∑fx\n \n\n\n5.7 =55+k/10\n\n57 = 55 + k\nk = 57 - 55\nk = 2",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -6492,6 +6636,22 @@
     "image": "",
     "answer": "a",
     "solution": "sinθ/cosθ.                                    (cosθ (d(sinθ))/dθ - sinθ (d(cosθ))/dθ)/cos<sup>2</sup>θ.   (cosθ.cosθ-sinθ(-sinθ))/(cos<sup>2</sup> θ) (cos<sup>2</sup> θ+sin<sup>2</sup>⁡θ)/(cos<sup>2</sup> θ) Recall that sin<sup>2</sup> θ + cos<sup>2</sup> θ = 1\n\n1/cos<sup>2</sup>θ\n = sec<sup>2</sup> θ",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 665,
+    "question": "From the venn diagram above, the complement of the set P∩\nQ is given by",
+    "option": {
+      "a": " {a, b, d, e}",
+      "b": "{b, d}",
+      "c": "{a, e}",
+      "d": "{c}"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129865/ALOC-Questions/Mathematics/2011/JAMB_MATH_2011_Q44_bh7tnc.png",
+    "answer": "a",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -7904,6 +8064,22 @@
     "examyear": "2016"
   },
   {
+    "id": 852,
+    "question": "The nth term of the sequence 3, 9, 27, 81.....is",
+    "option": {
+      "a": "3 x 3n-2",
+      "b": "3 x 3n-1",
+      "c": " 3 x 3n+2",
+      "d": "3 x 3n+1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "3,9,27,81,.....\nr = 9/8 = 3\nT<sup>n</sup> = ar<sup>n-1</sup>\n\nT<sup>n</sup> = 3(3<sup>n-1</sup> = 3(3<sup>2</sup>)/3",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 853,
     "question": "Simplify 1 - (1/7 x 3(1/2) ÷\n 3/4",
     "option": {
@@ -8252,6 +8428,22 @@
     "image": "",
     "answer": "b",
     "solution": "2x + x = 180°\n\n3x = 180°\n\nx = 60° (exterior angle of the polygon)\n\nangle = total angle/number of sides\n\n\n60 = 360/n\n\n\nn = 360/60\n\n\nn = 6 sides",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 888,
+    "question": "Simplify 4√27 + 5√12 − 3√75",
+    "option": {
+      "a": "7",
+      "b": "-7",
+      "c": "-7√3",
+      "d": "7√3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "4√27 + 5√12 − 3√75\n\n= 4√3 × 9 + 5√3 × 4 − 3√3 × 25\n\n= 4 × 3√3 + 5 × 2√3 − 3 × 5√3\n= 12√3 + 10√3 − 15√3\n\n\n= (12 + 10 − 15)√3\n\n= 7√3",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -8716,6 +8908,22 @@
     "image": "",
     "answer": "a",
     "solution": "Since it depreciates by 10% At the end of first year, its value = 90% of 20000\n\n= 90/100\n x 20000 =18000\n\n  At the end of second year, its value = 90% of 18000\n\n  = 90/100\n x 18000 = ₦16,200",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 938,
+    "question": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\nWhat is the probability of selecting a student from the group that scored 2 or 3",
+    "option": {
+      "a": "1/11",
+      "b": "5/22",
+      "c": "7/22",
+      "d": "6/11"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006382/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q20_xt2oox.jpg",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -10176,6 +10384,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1082,
+    "question": "Find the probability that a number selected at random from 41 to 56 is a multiple of 9",
+    "option": {
+      "a": "1/8",
+      "b": "2/15",
+      "c": "3/16",
+      "d": "7/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given from 41 to 56\n\n41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56\n\nThe nos multiple of 9 are: 45, 54\n\nP(multiple of 9) = 2/16\n\n\n= 1/8",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1083,
     "question": "Musa borrows N10.00 at 2% per month simple interest and repays N8.00 after 4 months. How much does he still owe?",
     "option": {
@@ -10284,6 +10508,22 @@
     "image": "",
     "answer": "d",
     "solution": "-2 < 2x - 6   AND  2x - 6 < 4\n\n-2 + 6 <2x  AND  2x < 4 + 6\n\n4 <2x  AND  2x < 10\n\n: 2 <x  AND x <5\n\n2 < x < 5 \n\nAs 3 and 4",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1095,
+    "question": "X is due east point of y on a coast. Z is another point on the coast but 6.0km due south of Y. If the distance ZX is 12km, calculate the bearing of Z from X",
+    "option": {
+      "a": "240°",
+      "b": "150°",
+      "c": "60°",
+      "d": "270°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sinθ = 6/12\n\nSinθ = 1/2\n\nθ =  Sin 0.5\n\nθ = 30°\n\nBearing of Z from X, (270 - 30)° = 240°",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -11248,6 +11488,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1186,
+    "question": "The third term of an A.P is 6 and the fifth term is 12. Find the sum of its first twelve terms",
+    "option": {
+      "a": " 201",
+      "b": "144",
+      "c": "198",
+      "d": " 72"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "T<sub>3</sub>  = 6\n\nT<sub>5</sub>  = 12\n\nS<sub>12</sub>  = ?\n\nT<sub>n</sub>  = a + (n - 1)d\n\n⇒ T<sub>3</sub>  = a + 2d = 6 ----- (i)\n\n⇒ T<sub>5</sub>  = a + 4d = 12 ----- (ii)\n\nSubtract equation (ii) from (i)\n\n⇒ -2d = -6\n\n⇒ d(−6/−2) = 3\n\nSubstitute 3 for d in equation (i)\n\n⇒ a + 2(3) = 6\n\n⇒ a + 6 = 6\n\n⇒ a = 6 - 6 = 0\n\nS<sub>n</sub>  = (n(2a+(n−1)d))/2\n⇒ S<sub>12</sub>  = (12(2×0+(12−1)3)/2\n⇒ S<sub>12</sub>  = 6(0 + 11 x 3)\n\n⇒ S<sub>12</sub>  = 6(33)\n\n∴ S<sub>12</sub>  = 198",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1187,
     "question": "Find the value of 110111<sub>2</sub>  + 10100<sub>2</sub> ",
     "option": {
@@ -11484,6 +11740,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206533/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q23_zwoj2v.jpg",
     "answer": "d",
     "solution": "= 0(28 - 40) - 3(4 - 0) + 2(5 - 0)\n\n= 0(-12) - 3(4) + 2(5)\n\n= 0 - 12 + 10\n\n= -2",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1210,
+    "question": "A cylindrical tank has a capacity of 6160m3. What is the depth of the tank if the radius of its base is 28cm?",
+    "option": {
+      "a": " 8.0m",
+      "b": "7.5m",
+      "c": "5.0m",
+      "d": "2.5m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using V=πr<sup>2</sup>h\n\n\n6160 = 22/7 x 28 x 28 x h\n\nh=6160/22×4×28\n\n\nh=2.5m",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -12188,6 +12460,22 @@
     "image": "",
     "answer": "b",
     "solution": "S = {0, 1, 2, 3, 4, 5}\n\nT = {− 1, 0, 1, 2}\n\nS ∪ T = {− 1, 0, 1, 2, 3, 4, 5 }\n\n⇒ − 2 < x ≤ 5",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1275,
+    "question": "Evaluate log<sub>7</sub>17",
+    "option": {
+      "a": "1.35",
+      "b": "1.353",
+      "c": "1.455",
+      "d": "0.455"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "log<sub>7</sub>17\n\n= [log 17 ÷ log7]\n\n= [1.2304 ÷ 0.8451]\n\n[10<sup>0.0899</sup> ÷ 10<sup>1.9270</sup>]\n\n= 1.455(antilog)",
     "examtype": "utme",
     "examyear": "2015"
   },
