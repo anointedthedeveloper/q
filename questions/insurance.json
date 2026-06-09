@@ -784,6 +784,22 @@
     "examyear": "1"
   },
   {
+    "id": 65,
+    "question": "The following are exempted from a contract because they do not have the contractual capacity except",
+    "option": {
+      "a": "Drunkard",
+      "b": "Alien",
+      "c": "Mental patient",
+      "d": "Adult"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 66,
     "question": "Insured is likewise known as",
     "option": {
@@ -2011,6 +2027,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 165,
+    "question": "Life assurance provides dual benefits of savings and ------------ to a policy holder",
+    "option": {
+      "a": "Acceptance",
+      "b": "Consideration",
+      "c": "Contribution",
+      "d": "Security"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
