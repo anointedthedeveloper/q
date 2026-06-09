@@ -2064,6 +2064,22 @@
     "examyear": "2013"
   },
   {
+    "id": 171,
+    "question": "Where is Sahel Savanna vegetation belt found in Nigeria?",
+    "option": {
+      "a": "Northwest   ",
+      "b": "Northeast",
+      "c": "Both Northwest and Northeast",
+      "d": "From the middle belt to the north"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 175,
     "question": "The earth rotates from  ",
     "option": {
@@ -3712,6 +3728,22 @@
     "examyear": "2017"
   },
   {
+    "id": 317,
+    "question": "If the total population of the city is 500,000 what is the population of ward 4?",
+    "option": {
+      "a": "75,000",
+      "b": "150,000",
+      "c": "125,000",
+      "d": "100,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_01_and_02_v2sqab.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 318,
     "question": "An alternative graphic method that can be used to depict that same information is the",
     "option": {
@@ -3787,6 +3819,22 @@
     "section": "",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_03_and_07_byo7zc.jpg",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 323,
+    "question": "Given that the area show on the map is in Northern Nigeria, which of the following crop combinations would best be cultivated in the area that is liable to flooding?",
+    "option": {
+      "a": "Banana, Rice, and Cassava",
+      "b": "Cassava, Rice, and Yam",
+      "c": "Sugarcane, Rice, and Cassava",
+      "d": "Sugarcane, Rice, and Bannans"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_03_and_07_byo7zc.jpg",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
@@ -4448,6 +4496,22 @@
     "examyear": "2019"
   },
   {
+    "id": 376,
+    "question": "Time, as a factor of soil formation, influences mainly soil",
+    "option": {
+      "a": "Nutrients",
+      "b": "Texture",
+      "c": "Maturity",
+      "d": "Organisms"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 378,
     "question": "A radio message sent from a location on Longitude 15°W at 7.00 a.m is received at another location at 2.00 p.m on the same day. What is the longitudinal position of the other location?",
     "option": {
@@ -4535,6 +4599,22 @@
       "b": " Limestone",
       "c": "Volcanic rock",
       "d": "Granitic rock"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 384,
+    "question": "The circulations of the oceans and the atmosphere primarily help to redistribute and equalize globally",
+    "option": {
+      "a": "Oxygen",
+      "b": "Fauna",
+      "c": "Heat",
+      "d": "Flora"
     },
     "section": "",
     "image": "",
@@ -5008,6 +5088,22 @@
     "examyear": "2020"
   },
   {
+    "id": 420,
+    "question": "An example of a rock formed by wood subjected to pressure and heat is",
+    "option": {
+      "a": "Lignite",
+      "b": "Granite",
+      "c": "Sandstone",
+      "d": "Biotite"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 421,
     "question": "The most important determinants of air temprature of a region are",
     "option": {
@@ -5163,6 +5259,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 434,
+    "question": "Which of the following farming system is likely to give rise to nucleated settlements?",
+    "option": {
+      "a": "Irrigation farming",
+      "b": "Subsistence farming",
+      "c": "Large-scale farming",
+      "d": "Grazing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
