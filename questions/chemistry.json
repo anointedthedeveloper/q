@@ -1728,6 +1728,22 @@
     "examyear": "2004"
   },
   {
+    "id": 131,
+    "question": "The shape of the s-orbital is",
+    "option": {
+      "a": "Spherical",
+      "b": "Elliptical",
+      "c": "Spiral",
+      "d": "Circular"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 132,
     "question": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecule is its",
     "option": {
@@ -1819,6 +1835,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 139,
+    "question": "Calcium Tetraoxosulphate(VI) dissolves in water only sparingly to form a",
+    "option": {
+      "a": "Solution",
+      "b": "Suspension",
+      "c": "Precipitate",
+      "d": "Colloid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
