@@ -2888,6 +2888,25 @@
     "category": "others"
   },
   {
+    "id": 294,
+    "question": "The police found a <i>conclusive</i> proof of the boy's guilt",
+    "option": {
+      "a": "a corroborative ",
+      "b": "A doubtful ",
+      "c": "a consolatory",
+      "d": " an incriminating"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 295,
     "question": "The point you have made is quite <i>apt</i>",
     "option": {
@@ -12935,6 +12954,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 101,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1475,
+    "question": "These policies have been [espoused] by the ruling party",
+    "option": {
+      "a": "condemned",
+      "b": "rejected",
+      "c": "supported",
+      "d": "outlined"
+    },
+    "section": "CHOOSE THE OPTION THAT IS NEAREST IN MEANING TO THE WORD(S) IN BRACKET, FOR  THE QUESTIONS ",
+    "image": "",
+    "answer": "c",
+    "solution": "To espouse is to adopt or support a belief or strategy.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 102,
     "hasPassage": 0,
     "category": "others"
   },
