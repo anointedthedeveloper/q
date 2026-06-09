@@ -9296,6 +9296,38 @@
     "examyear": "2004"
   },
   {
+    "id": 604,
+    "question": "X rays can be used in the study of crystal structure because they",
+    "option": {
+      "a": "have a very long-reaching wavelength",
+      "b": "have extremely short wavelength",
+      "c": "are invisible",
+      "d": "are very fast"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Crystal structures have atomic spacing on the order of 10⁻¹⁰ m (angstroms).\nFor diffraction to occur and reveal structure, the wavelength of radiation must be comparable to the spacing between atoms.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 605,
+    "question": "A moving coil galvanometer has a full-scale deflection of 3A equivalent to 30° deflection. The sensitivity of the instrument is",
+    "option": {
+      "a": "33.00",
+      "b": "0.1",
+      "c": "90,0",
+      "d": "10.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nCurrent, I = 3 A\nDeflection angle, θ = 30°\n\nSolution:\nFormula:\nSensitivity of galvanometer = θ/I\nWhere:\n\nθ = deflection angle (in degrees)\nI = current (in amperes)\n\nStep 1: Substitute values\nSensitivity = 30°/3 A\nStep 2: Calculate\nSensitivity = 10 degrees per ampere (°/A)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 607,
     "question": "In a reverse biased junction diode, current flows in by",
     "option": {
