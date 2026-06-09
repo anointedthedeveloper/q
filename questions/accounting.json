@@ -6656,6 +6656,22 @@
     "examyear": "2009"
   },
   {
+    "id": 482,
+    "question": "What are the current liabilities?",
+    "option": {
+      "a": "I and II",
+      "b": "IV and V",
+      "c": "Ill and V",
+      "d": "II and IV"
+    },
+    "section": "Use the information to answer questions: I.Operating machine II. Furniture  III .Fixtures and fittings IV.  Loan from friends V. Creditors",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 483,
     "question": "Find the fixed assets",
     "option": {
@@ -8590,6 +8606,22 @@
     "solution": "Patrick is receiving and should be debited while generator account is giving",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 615,
+    "question": "Which of these accounts is dissolution expenses credited?",
+    "option": {
+      "a": "partners capital account",
+      "b": "revaluation account",
+      "c": "partners current account",
+      "d": "Realization account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Realization account: the cash realized from sales of asset is credited to it",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 616,
@@ -13760,6 +13792,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1008,
+    "question": "<b>Use the information below to answer question 44 to 45.</b>\n\nTrading Account (Extract)\n\nOpening stock .......... ₦19,500\nAdd: Purchases ........ ₦68,700\nGoods available for sale .. ₦88,200\n\nSales .................. ₦96,000\nLess: Closing stock ..... ?\nCost of goods sold ..... ?\nGross profit c/d ....... ?\n\nGross profit margin = 20%\n\nWhat is the gross profit?",
+    "option": {
+      "a": "₦88 200",
+      "b": " ₦76 800",
+      "c": "₦19 200",
+      "d": "₦12 900"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given:\n  Sales = 96,000\n  Gross profit margin = 20% (i.e. Gross profit / Sales = 20%)\n\nStep 1: Compute Gross Profit\n  Gross profit = 20% of Sales\n               = 0.20 × 96,000\n               = 19,200",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1009,
     "question": "<b>Use the information below to answer question 44 to 45.</b>\n\nTrading Account (Extract)\n\nOpening stock .......... ₦19,500\nAdd: Purchases ........ ₦68,700\nGoods available for sale .. ₦88,200\n\nSales .................. ₦96,000\nLess: Closing stock ..... ?\nCost of goods sold ..... ?\nGross profit c/d ....... ?\n\nGross profit margin = 20%\n\nDetermine the closing stock",
     "option": {
@@ -14092,6 +14140,22 @@
     "image": "",
     "answer": "d",
     "solution": "Workings (step-by-step):\n\nCredit side\n\nOpening balance = ₦4,000\n\nPurchases = ₦50,000\nTotal credit = ₦54,000\n\nDebit side\n\nCheques paid to suppliers = ₦42,300\n\nReturns outwards = ₦2,000\n\nDiscount received = ₦400\n\nCash refunded by suppliers = ₦290\nTotal debit = ₦42,300 + ₦2,000 + ₦400 + ₦290 = ₦44,990\n\nClosing (balance) = Total credit − Total debit = ₦54,000 − ₦44,990 = ₦9,010.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1034,
+    "question": "Which of the following item is found on the credit side of the sales ledger control account?",
+    "option": {
+      "a": "Discount received",
+      "b": "Dishonoured cheques",
+      "c": "Credit sals",
+      "d": "Bills receivable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Explanation: the sales (debtors') control account normally shows credits for items that reduce debtors — e.g., receipts from customers, sales returns and transfers out. When a debtor's amount is converted into a bill receivable, the debtor is reduced (credited), so bills receivable appears on the credit side.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -15068,6 +15132,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662647/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q45-46_utzntz.png",
     "answer": "b",
     "solution": "Step 1: Calculate Authorized Preference Share Capital\nAuthorized preference shares = 600,000 shares × ₦0.50 per share\nAuthorized preference shares = ₦300,000\nStep 2: Calculate Authorized Ordinary Share Capital\nAuthorized ordinary shares = 600,000 shares × ₦1 per share\nAuthorized ordinary shares = ₦600,000\nStep 3: Calculate Total Authorized Share Capital\nTotal Authorized Share Capital = Preference shares + Ordinary shares\nTotal Authorized Share Capital = ₦300,000 + ₦600,000\nTotal Authorized Share Capital = ₦900,000",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1110,
+    "question": "<b>Use the information below to answer questions 45 and 46</b>\n\nThe value of the owner's equity is",
+    "option": {
+      "a": "₦400,000",
+      "b": "₦900,000",
+      "c": "₦957,000",
+      "d": "₦1,357,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662647/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q45-46_utzntz.png",
+    "answer": "c",
+    "solution": "Calculate Owner's Equity:\nOwner's Equity = Share Capital + Reserves\nOwner's Equity = Issued shares + Capital reserves + Revenue reserves\nOwner's Equity = ₦500,000 + ₦250,000 + ₦207,000\nOwner's Equity = ₦957,000",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -17500,6 +17580,22 @@
     "image": "",
     "answer": "b",
     "solution": "The cash book records all cash receipts and payments\nSimple receivables/payables ledgers track what’s owed by customers and to suppliers without full double‐entry records",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1288,
+    "question": "A fixed cost is fixed only in relation to?",
+    "option": {
+      "a": " the quality of goods produced",
+      "b": " the quantity of goods sold",
+      "c": "a given period of time and a range of activities",
+      "d": "a given period of time and the nature of activity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A fixed cost remains constant only over a specified time period and within a relevant range of activity levels.",
     "examtype": "utme",
     "examyear": "2000"
   },
