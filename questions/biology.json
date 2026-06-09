@@ -2256,6 +2256,22 @@
     "examyear": "2007"
   },
   {
+    "id": 167,
+    "question": "Pineapple is an example of",
+    "option": {
+      "a": "a composite fruit  ",
+      "b": "a simple fruit",
+      "c": "an aggregate fruit",
+      "d": "a dehiscent fruit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 168,
     "question": "Stunted growth and poor root development are a result of as deficiency in  ",
     "option": {
@@ -2375,6 +2391,22 @@
       "b": "Taraba  ",
       "c": "Enugu  ",
       "d": "Bauchi"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 176,
+    "question": "The increasing order of the particle size in the following soil types  is",
+    "option": {
+      "a": "clay_silt_sand_gravel  ",
+      "b": "Silt_clay-sand_gravel  ",
+      "c": "clay_sand_slit_gravel",
+      "d": "silt_sand_clay gravel"
     },
     "section": "",
     "image": "",
@@ -3696,6 +3728,22 @@
     "examyear": "2010"
   },
   {
+    "id": 272,
+    "question": "Circulation of blood to all parts of the body except the lungs is through  ",
+    "option": {
+      "a": "the pulmonary artery  ",
+      "b": "systemic circulation",
+      "c": "the lymphatic system",
+      "d": "pulmonary circulation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 273,
     "question": "Yeast respires anaerobically  to covert simple sugar to carbon (IV) oxide and",
     "option": {
@@ -3915,6 +3963,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 290,
+    "question": "The average number of individuals of a species  per unit area of the habitat is the ",
+    "option": {
+      "a": " population density",
+      "b": "population frequency  ",
+      "c": "population size",
+      "d": "population distribution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -4288,6 +4352,22 @@
     "examyear": "2011"
   },
   {
+    "id": 318,
+    "question": "The path followed by air as it passes through the lungs in mammals is  ",
+    "option": {
+      "a": "bronchi_ trachea_ alveoli_ bronchioles  ",
+      "b": "Trachea _ Bronchiole _ bronchi_ alveoli   ",
+      "c": "bornchioles _ alveoli _ bronchi_ trachea   ",
+      "d": "trachea_ bronchi _ bronchioles_ alveoli"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 319,
     "question": "The movement response of a cockroach away  from a light source can be described as  ",
     "option": {
@@ -4507,6 +4587,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 338,
+    "question": "The inheritable characters that are determined by a gene located only on the X-chromosome is  ",
+    "option": {
+      "a": "sex linked",
+      "b": "homozygous  ",
+      "c": "dominant  ",
+      "d": "recessive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
