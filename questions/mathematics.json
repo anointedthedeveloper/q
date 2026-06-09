@@ -1648,6 +1648,22 @@
     "examyear": "2001"
   },
   {
+    "id": 152,
+    "question": "If y = x sinx, find dy/dx when x = π/2.",
+    "option": {
+      "a": "-π/2",
+      "b": "-1",
+      "c": " 1",
+      "d": "π/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = x sin x\ndy/dx = 1 x sinx + x cosx\n= sinx + x cosx\nAt x = π/2, = sin (π/2) + (π/2) cos (π/2)\n= 1 + (π/2) x (0) = 1",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 153,
     "question": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p.",
     "option": {
@@ -2332,6 +2348,22 @@
     "image": "",
     "answer": "d",
     "solution": "Mean : (7+3+14+9+7+8)/6 = 48/6 = 8\nMean deviation : (∑|x−x¯)n = 14/6 = 7/3",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 212,
+    "question": "In the diagram above , XZ is the diameter of the circle XZW, with center O and radius 15/2 cm. If XY = 12 cm, find the area of the triangle XYZ",
+    "option": {
+      "a": "54 cm<sup>2</sup>",
+      "b": " 45 cm<sup>2</sup>",
+      "c": "27 cm<sup>2</sup>",
+      "d": "75 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710697800/ALOC-Questions/Mathematics/2002/math_2000_q41_fwwm2j.jpg",
+    "answer": "a",
+    "solution": "o (< semi circle )\nsince radius = 15/2 diameter = 2 * (15/2) = 15cm\nXYZ is a right angled triangle\n∴ 15<sup>2</sup> = 12<sup>2</sup> + (YZ)<sup>2</sup>\n225 = 144 = (YZ)<sup>2</sup>\n225 - 144 = (YZ)<sup>2</sup>\n81 = (YZ)<sup>2</sup>\n√81 = YZ\n9 = YZ\nArea of ΔXYZ = 1/2bh\n(1/2) * 9 * 12\n9 * 6 = 54\n= 54cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -3036,6 +3068,22 @@
     "image": "",
     "answer": "d",
     "solution": "PQ = √((β−1)<sup>2</sup>+(1−α)<sup>2</sup>).  3=√((β<sup>2</sup>−2β<sup>2</sup>+1+1−2α+α<sup>2</sup>)).   3=√((α<sup>2</sup>+β<sup>2</sup>−2α+2β+2)).       3=√((α<sup>2</sup>+β<sup>2</sup>−2(α+β)+2)).     3=√((α<sup>2</sup>+β<sup>2</sup>−2∗2+2)). 3=√((α<sup>2</sup>+β<sup>2</sup>−2)).  9=(α<sup>2</sup>+β<sup>2</sup>−2).       α<sup>2</sup>+β<sup>2</sup>=9+2. α<sup>2</sup>+β<sup>2</sup>=11.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 274,
+    "question": "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x",
+    "option": {
+      "a": "y = 90 - x",
+      "b": "y = 150 - x",
+      "c": "y = 60 - x",
+      "d": " y = 120 -x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "6x + 6y = (n - 2) 180\n6x + 6y= (5 - 2) 180\n6(x + y) = 3 * 180\nx + y = (3 * 180)/6\nx + y = 90o\ny = 90 - x",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4768,6 +4816,22 @@
     "examyear": "2006"
   },
   {
+    "id": 419,
+    "question": "Find the roots of x<sup>3</sup> - 2x<sup>2</sup> - 5x + 6 = 0",
+    "option": {
+      "a": "1, -2, 3",
+      "b": " 1, 2, -3,",
+      "c": " -1, -2, 3",
+      "d": "-1, 2, -3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Equation: x<sup>3</sup>\n - 2x<sup>2</sup>\n - 5x + 6 = 0.\n\nFirst, bring out a<sub>n</sub>\n which is the coefficient of x<sup>3</sup>\n = 1.\n\nThen, aa<sub>0</sub>\n which is the coefficient void of x = 6.\n\nThe factors of aa<sub>n</sub>\n = 1; The factors of aa<sub>0</sub>\n = 1, 2, 3 and 6.\n\nThe numbers to test for the roots are ±(a<sub>n0/sub>/aa<sub>n</sub>)\n. = ±(1,2,3,6).                                              \nTest for +1: 1<sup>3</sup\n - 2(1<sup>2</sup\n) - 5(1) + 6 = 1 - 2 - 5 + 6 = 0.\n\nTherefore x = 1 is a root of the equation.\n\nUsing long division method, x<sup>3</sup−2x<sup>2</sup−5x+6/(x−1)\n = x<sup>2</sup - x - 6.\n\nx<sup>2</sup - x - 6 = (x - 3)(x + 2).\n\nx = -2, 3.\n\n∴\n The roots of the equation = 1, -2 and 3.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 420,
     "question": "The response of 160 pupils in a school asked to indicate their favourite subjects is given in the bar chart above. What percentage of the pupils have English and Health education as the their favourite subjects?",
     "option": {
@@ -4988,6 +5052,22 @@
     "image": "",
     "answer": "b",
     "solution": "d = √(42w/5l).   square both side of the equation    d<sup>2</sup>=〖(√(42W/5l))〗<sup>2</sup> d<sup>2</sup>=42W/5l 5ld<sup>2</sup>=42W.    l=42W/(5d<sup>2</sup> )",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 438,
+    "question": "The solution of the quadratic inequality (x<sup>3</sup> + x - 12) ≥ 0 is",
+    "option": {
+      "a": " x ≥ -3 or x ≤ 4",
+      "b": "x ≥ 3 or x ≥ -4",
+      "c": "x ≤ 3 or x v -4",
+      "d": "x ≥ 3 or x ≤ -4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(x<sup>3</sup> + x - 12) ≥ 0\n(x + 4)(x - 3) ≥ 0\nEither x + 4 ≥ 0 implies x ≥ -4\nOr x - 3 ≥ 0 implies x ≥ 3\n∴ x ≥ 3 or x ≥ -4",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -6032,6 +6112,22 @@
     "examyear": "2009"
   },
   {
+    "id": 543,
+    "question": "Find the acute angle between the straight lines y = x and y = √3x",
+    "option": {
+      "a": "15°",
+      "b": "30°",
+      "c": "45°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "y = x, Gradient (m1) = 1\ny = √3x gradient (m2) = √3                       tanθ = (m<sub>2</sub> -m<sub>1</sub> )/(1+m<sub>2</sub>  m<sub>1</sub> ).  tanθ = (√3-1)/(1+√3×1)=(1.73-1)/(1+1.73)=0.73/2.73 = 0.268.   θ = Tan<sup>-1</sup> (0.268)\n= 15°",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 544,
     "question": "A regular polygon has 150º as the size of each interior angle. How many sides does it have?",
     "option": {
@@ -6252,6 +6348,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547266/ALOC-Questions/Mathematics/2009/MATH_2009_Q38_ehu03j.jpg",
     "answer": "b",
     "solution": "20 + 2x + 60 + 40 + x + 50 = 260\n170 + 3x = 260\n3x = 260 - 170\n3x = 90\nx = 90/3 = 30\nAt least 4 days\n4 days = 40\n5 days = 30\n6 days = 50\nTotal = 120",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 560,
+    "question": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?\n",
+    "option": {
+      "a": "45",
+      "b": "50",
+      "c": "60",
+      "d": "75"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547296/ALOC-Questions/Mathematics/2009/MATH_2009_Q39_fyohkr.jpg",
+    "answer": "b",
+    "solution": "Sectorial angle of apple\n100 + 100 + 115 + x = 30°\n315 + x = 360\nx = 360 - 315\nx = 45°\n360° represents 400\n1° represents 400 / 360\n45o represents (400/360) x (45/1)\n= 50 apples",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -6924,6 +7036,22 @@
     "image": "",
     "answer": "d",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 619,
+    "question": "W is directly proportional to U. If W = 5 when U = 3, find U when W = 2/7",
+    "option": {
+      "a": "6/35",
+      "b": "10/21",
+      "c": "21/10",
+      "d": "35/6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "W α U\n\nW = ku\n\nu = w/k; 2/7 x 3/5\n\n= 6/35",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -8960,6 +9088,22 @@
     "examyear": "2016"
   },
   {
+    "id": 840,
+    "question": "A number of pencils were shared out among Bisi, Sola and Tunde in the ratio of 2:3:5 respectively. If Bisi got 5, how many were shared out?",
+    "option": {
+      "a": "15",
+      "b": "25",
+      "c": "30",
+      "d": "50"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let x represent total number of pencils shared\nB : S : T\n2 : 3 : 5\n\n2+3+5 = 10\n2/10 x (x) = 5\n2x/10 = 5\n2x = 50\nx = 25",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 841,
     "question": "Calculate the perimeter of a sector of a circle of raduis 9cm and angle 36o.",
     "option": {
@@ -9440,6 +9584,22 @@
     "examyear": "2017"
   },
   {
+    "id": 885,
+    "question": "The value of x + x ( xx) when x = 2 is",
+    "option": {
+      "a": "16",
+      "b": "10",
+      "c": "18",
+      "d": "24"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "when x = 2, we have\n\n2+2(2<sup>2</sup> )\n = 2 + 8 = 10",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 886,
     "question": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon",
     "option": {
@@ -9884,6 +10044,22 @@
     "image": "",
     "answer": "d",
     "solution": "3/4 t + 1/3 (21 - t) = 11\n\nMultiply through by the LCM of 4 and 3 which is 12\n\n12 x(3/4 t) + 12 x (1/3 (21 - t)) = (11 x 12)\n\n9t + 4(21 - t) = 132\n\n9t + 84 - 4t = 132\n\n5t + 84 = 132\n\n5t = 132 - 84 = 48\n\nt = 48/5\nt = 9(3/5)",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 926,
+    "question": "A school girl spends 1/4\nof her pocket money on books and 1/3\non dress. What fraction remains?",
+    "option": {
+      "a": "5/6",
+      "b": "7/12",
+      "c": "5/12",
+      "d": "1/6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "let the girls' initial pocket money be whole(1)\n\n1/4 of 1 = books, 1/3  of 1 = dress \n\nfraction of her money left = 1 -1/4 - 1/3 =  5/12",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -11228,6 +11404,22 @@
     "image": "",
     "answer": "a",
     "solution": "(r/2)/r Sin θ = 1/2\nθ = sin<sp>(−1)</sup> (1/2) = 30°\n = 60°\n \n\nLength of arc (minor)\n\nST = θ/360 x 2πr\n \n\n60/360 × 2π × r = π/3\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1049,
+    "question": "A sector of circle of radius 7.2cm which substends an angle of 300°\n at the centre is used to form a cone. What s the radius of the base of the cone?",
+    "option": {
+      "a": "8 cm",
+      "b": "9 cm",
+      "c": "6 cm",
+      "d": "7 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
     "examtype": "2020",
     "examyear": "utme"
   },
