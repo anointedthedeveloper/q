@@ -64,6 +64,38 @@
     "examyear": "2001"
   },
   {
+    "id": 7,
+    "question": "Four elements W, X, Y, and Z have atomic numbers 2, 6, 16 and 20 respectively. Which of these elements is a metal",
+    "option": {
+      "a": "X",
+      "b": "W",
+      "c": "Z",
+      "d": "Y"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 8,
+    "question": "An element X with relative atomic mass 16.2 contains two isotopes      X  with relative abundance of 90% and      X with relative abundance of 10%. The value of m is",
+    "option": {
+      "a": "16",
+      "b": "18",
+      "c": "12",
+      "d": "14"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 10,
     "question": "The pollution from petroleum spillage in rivers and lakes can best be dispersed by",
     "option": {
@@ -320,6 +352,22 @@
     "examyear": "2001"
   },
   {
+    "id": 45,
+    "question": "Which of the following gases contains the least number of atoms at s.t.p",
+    "option": {
+      "a": "4 moles of chlorine",
+      "b": "3 moles of ozone",
+      "c": "1 mole of butane",
+      "d": "7 moles of argon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 48,
     "question": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from",
     "option": {
@@ -528,6 +576,22 @@
     "examyear": "2002"
   },
   {
+    "id": 68,
+    "question": "A rock sample was added to cold dilute HNMO3. The gas evolved was passed into a solution of acidified K2Cr2O7 and the solution turned green. The rock sample contains",
+    "option": {
+      "a": "NO3-",
+      "b": "Cl-",
+      "c": "SO42-",
+      "d": "SO32-"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 71,
     "question": "Which of the following gives a precipitate when treated with NaOH solution",
     "option": {
@@ -555,6 +619,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 73,
+    "question": "The gas that gives brown colouration in brown ring test",
+    "option": {
+      "a": "Co2",
+      "b": "NO2",
+      "c": "NO",
+      "d": "CO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
@@ -619,6 +699,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 84,
+    "question": "A gas exerts pressure on its container because",
+    "option": {
+      "a": "Some of its molecules are moving faster than others",
+      "b": "Of the collision of the molecules with each other",
+      "c": "Of the mass of the molecules of gas",
+      "d": "The molecules of a gas collide with the walls of the container"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -1104,6 +1200,38 @@
     "examyear": "2004"
   },
   {
+    "id": 152,
+    "question": "Which of the following gases can be collected by the method of downward delivery",
+    "option": {
+      "a": "Chlorine",
+      "b": "Oxygen",
+      "c": "Ammonia",
+      "d": "Hydrogen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 153,
+    "question": "Which steam is passed over red-hot carbon, the substances produced are",
+    "option": {
+      "a": "Hydrogen and trioxocarbonate(IV) acid",
+      "b": "Hydrogen, oxygen and carbon(IV) oxide",
+      "c": "Hydrogen and carbon (II) oxide",
+      "d": "Hydrogen and carbon (IV) oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 154,
     "question": " sulphur (IV) oxide bleaches by",
     "option": {
@@ -1419,6 +1547,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 197,
+    "question": "A substance that is used as a ripening agent for fruits is",
+    "option": {
+      "a": "Propene",
+      "b": "Methane",
+      "c": "Ethene",
+      "d": "Butane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -1888,6 +2032,22 @@
     "examyear": "2006"
   },
   {
+    "id": 256,
+    "question": "Which of the following typically represents a photochemical reaction",
+    "option": {
+      "a": "Conversion of dinitrogen (IV) oxide to nitrogen(IV) oxide",
+      "b": "Conversion of silver halides to grey metallic silver",
+      "c": "Decomposition of calcium hydroxide to its oxide",
+      "d": "Formation of water from hydrogen and oxygen molecules"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 257,
     "question": "Group IA metals are not found free in nature because they",
     "option": {
@@ -1911,6 +2071,22 @@
       "b": "Lilac",
       "c": "Yellow",
       "d": "Brick-red"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 259,
+    "question": "The ion that will give a white precipitate with aqueous NaOH and soluble in excess of the base is",
+    "option": {
+      "a": "Zn2+",
+      "b": "Mg2+",
+      "c": "Ca2+",
+      "d": "Cu2+"
     },
     "section": "",
     "image": "",
@@ -1959,6 +2135,22 @@
       "b": "Saturated vapour pressure of the milk is equal to the atmospheric pressure",
       "c": "Water vapour in the air around loses some of its energy to the bottle",
       "d": "Water vapour in the air around the bottle gains some energy from the bottle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 270,
+    "question": "A noble gas with a high power of fog penetration used in aerodrome beacons is",
+    "option": {
+      "a": "Argon",
+      "b": "Helium",
+      "c": "Neon",
+      "d": "Krypton"
     },
     "section": "",
     "image": "",
@@ -2284,6 +2476,22 @@
     "image": "",
     "answer": "a",
     "solution": "Water gas shift reaction:\n\nCO + H₂O → CO₂ + H₂\nThis produces hydrogen but also carbon dioxide as a byproduct.\nCO₂ removal method:\n\nIn industrial hydrogen production from water gas, CO₂ is removed by washing under pressure, where the gas mixture is passed through water under high pressure to dissolve and remove the carbon dioxide.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 310,
+    "question": "Vulcanization involve the removal of",
+    "option": {
+      "a": "monometer",
+      "b": "the single bond",
+      "c": "the double bond",
+      "d": "a polymer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Vulcanization involves the removal (or breaking) of carbon-carbon double bonds in rubber molecules. Sulfur reacts with these double bonds to create cross-links between polymer chains, converting soft rubber into harder, more durable material.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2652,6 +2860,22 @@
     "image": "",
     "answer": "d",
     "solution": "NH₄Cl sublimes — it converts directly from solid to vapour on heating without melting. NaCl (common salt) does not sublime. Heating the mixture causes NH₄Cl vapour to rise and re-solidify on a cooler surface, separating it cleanly from NaCl.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 362,
+    "question": "The ability of carbon to form long chains is referred to as",
+    "option": {
+      "a": "Alkylation",
+      "b": "Acylation",
+      "c": "Carbonation",
+      "d": "Catenation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Catenation is the unique ability of carbon atoms to bond with each other to form long chains, rings, and branched structures. This property stems from the strength and stability of the C–C bond and is the foundation of all organic chemistry.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3196,6 +3420,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777637355/ALOC-Questions/Chemistry/UTME/2017/Chemistry_2017_Q30-31_gkt7yx.png",
     "answer": "d",
     "solution": "In the diagram, Y is the conical flask containing the drying agent through which the gas passes before collection. Concentrated H₂SO₄ is the standard drying agent used to dry acidic or neutral gases in laboratory gas preparation. Z is the thistle funnel for adding acid, and X is the water trough for collection by downward displacement of water.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 438,
+    "question": "The reddish-brown rust on iron roofing sheets consists of",
+    "option": {
+      "a": "Fe³⁺(H₂O)₆",
+      "b": "FeO·H₂O",
+      "c": "Fe₂O₃·XH₂O",
+      "d": "Fe₃O₄·2H₂O"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Rust is hydrated iron (III) oxide, represented as Fe₂O₃·XH₂O (where X is variable). It is formed by the oxidation of iron in the presence of water and oxygen. The reddish-brown colour is characteristic of Fe₂O₃ (iron III oxide) in its hydrated form.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3872,6 +4112,22 @@
     "examyear": "2019"
   },
   {
+    "id": 530,
+    "question": "If acidified potassium dichromate (VI) (K₂Cr₂O₇) acts as oxidizing agent, the colour changes from",
+    "option": {
+      "a": "yellow to green",
+      "b": "orange to green",
+      "c": "yellow to red",
+      "d": "orange to red"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Acidified potassium dichromate (VI) is orange in colour due to Cr₂O₇²⁻. When it acts as an oxidizing agent, Cr is reduced from +6 to +3, forming Cr³⁺ ions which give a green colour. Therefore the colour changes from orange (Cr₂O₇²⁻, Cr⁶⁺) to green (Cr³⁺) when it oxidizes a substance.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 532,
     "question": "Which of the following statements about catalyst is false?",
     "option": {
@@ -4060,6 +4316,22 @@
     "image": "",
     "answer": "c",
     "solution": "The configuration 3P³ has three electrons distributed across three separate p orbitals (by Hund's rule, each occupies its own orbital before pairing). So 3P³ contributes 3 unpaired electrons. The s orbitals (1S², 2S², 3S²) and 2P⁶ are all fully paired. Total unpaired electrons = 3.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 558,
+    "question": "An example of a polysaccharide is?",
+    "option": {
+      "a": "Dextrose",
+      "b": "Mannose",
+      "c": "Glucose",
+      "d": "Starch"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Polysaccharides are complex carbohydrates made of many monosaccharide units joined by glycosidic bonds. Starch is a polysaccharide made of many glucose units. Dextrose, mannose, and glucose are all monosaccharides (single sugar units).",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -4332,6 +4604,22 @@
     "image": "",
     "answer": "b",
     "solution": "Zymase is the enzyme complex found in yeast that converts glucose directly into ethanol (ethyl alcohol) and carbon dioxide during fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Maltase converts maltose to glucose, invertase converts sucrose to glucose and fructose, and diastase converts starch to maltose.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 597,
+    "question": "The scientist who stated that matter can be converted into energy is?",
+    "option": {
+      "a": "Boyle",
+      "b": "Lavoiser",
+      "c": "Avogadro",
+      "d": "Einstein"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Albert Einstein proposed the mass-energy equivalence through his famous equation E = mc², which states that matter (mass) can be converted into energy and vice versa. Boyle formulated the gas law relating pressure and volume, Lavoisier established the law of conservation of mass, and Avogadro proposed his hypothesis about equal volumes of gases.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -4620,6 +4908,22 @@
     "image": "",
     "answer": "c",
     "solution": "Metallurgy is the science and technology of extracting metals from their ores, purifying them, and preparing them for use. It involves processes such as concentration of ore, reduction, smelting, and refining. Extraction refers to a single step, mining involves digging up ore, and prospecting involves searching for ore deposits.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 629,
+    "question": "The compounds made up of only carbon and hydrogen are called?",
+    "option": {
+      "a": "Carbon compounds",
+      "b": "Hydrocarbons",
+      "c": "Atoms",
+      "d": "Carbon hydrolysis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Hydrocarbons are organic compounds composed entirely of carbon and hydrogen atoms. They form the basis of organic chemistry and include alkanes, alkenes, alkynes, and aromatic compounds. Examples include methane (CH₄), ethene (C₂H₄), and benzene (C₆H₆). All other organic compounds contain additional elements such as oxygen, nitrogen, or halogens.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -6076,6 +6380,22 @@
     "image": "",
     "answer": "b",
     "solution": "During laboratory preparation of Cl₂ (using MnO₂ and concentrated HCl), HCl gas is carried along as an impurity. Passing through water removes HCl because HCl is extremely soluble in water, while Cl₂ is only slightly soluble and passes through.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 784,
+    "question": "Carbohydrates can generally be represented by the general formula Cₓ(H₂O)ᵧ. For fructose the value of x is",
+    "option": {
+      "a": "3",
+      "b": "12",
+      "c": "5",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Fructose has the molecular formula C₆H₁₂O₆. Written in the form Cₓ(H₂O)ᵧ: C₆(H₂O)₆, so x = 6 and y = 6. The value of x is 6.",
     "examtype": "utme",
     "examyear": "2025"
   },
