@@ -3504,6 +3504,22 @@
     "examyear": "2008"
   },
   {
+    "id": 237,
+    "question": "The coordinating section of the central processing unit that manages the flow of data is the ",
+    "option": {
+      "a": "arithmetic logic unit",
+      "b": "control unit",
+      "c": "magnetic unit",
+      "d": "register"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 238,
     "question": "An agreement between two parties which is enforceable by law is a ",
     "option": {
@@ -6368,6 +6384,22 @@
     "examyear": "2012"
   },
   {
+    "id": 433,
+    "question": "Yahaya bought a piece of furniture on a credit sale agreement from Ahmed and resold it to Ali before all installments were made. The court upheld that Ahmed could not recover possession of the items from Ali. The reason for the judement was because ",
+    "option": {
+      "a": "ownership was transferred on completion of installment ",
+      "b": "ownership was transferred on delivery ",
+      "c": "Yahaya could not pass title to a third party ",
+      "d": "Ali was still indebted to Yahaya"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 435,
     "question": "The process of decoding data in a computer is known as ",
     "option": {
@@ -7168,6 +7200,22 @@
     "examyear": "2013"
   },
   {
+    "id": 487,
+    "question": "A major factor that affects business operations is ",
+    "option": {
+      "a": "technology ",
+      "b": "supply ",
+      "c": "product ",
+      "d": "rivalry "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 488,
     "question": "The environmental hazard that is most difficult to control is ",
     "option": {
@@ -7307,6 +7355,22 @@
     "section": "Use the following equation to answer question  Gross Profit=(Closing stock + P) less (Opening stock + G)",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 497,
+    "question": "Which of the following is true about cumulative preference shares?",
+    "option": {
+      "a": "Unpaid dividends are carried forward",
+      "b": "Shareholders can secure capital refund on demand",
+      "c": "Shareholders are entitled to further share of profit",
+      "d": "Dividends are paid into a special account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
