@@ -128,6 +128,22 @@
     "examyear": "2010"
   },
   {
+    "id": 21,
+    "question": "Partnership    is    a    business    owned and controlled by ",
+    "option": {
+      "a": "Two members ",
+      "b": "two to ten members ",
+      "c": "Two to twenty person  ",
+      "d": "Two to five persons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 25,
     "question": "The diary or events in which all financial transactions    are    recorded    for    easy reference and to assist in the double entry system is ",
     "option": {
@@ -1296,6 +1312,22 @@
     "examyear": "1997"
   },
   {
+    "id": 182,
+    "question": "The net book value at the time of sale was",
+    "option": {
+      "a": "N=  16,000",
+      "b": "N=  14,000",
+      "c": "N=  12,000",
+      "d": "N= 6,000."
+    },
+    "section": "An asset was bought on 1st January, 1992 for N= 20,000. Depreciation was provided for annually at 20% on cost. It was sold for N= 7,000 on 1st July, 1995.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 183,
     "question": "Accumulated depreciation at the time of sale was",
     "option": {
@@ -1355,6 +1387,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 188,
+    "question": "A financial plan of action expressed in monetary terms is known as",
+    "option": {
+      "a": "imprest",
+      "b": "consolidated fund",
+      "c": "warrant",
+      "d": "budget"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -1755,6 +1803,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 234,
+    "question": "Revenue is recognized in the profit and loss account as soon as a",
+    "option": {
+      "a": "debtor pays what is due from him",
+      "b": "sale of goods takes place and money is received",
+      "c": "sale of goods takes place whether or not money is received",
+      "d": "sale of a fixed asset takes place."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -3088,6 +3152,22 @@
     "examyear": "2004"
   },
   {
+    "id": 429,
+    "question": "Debentures can be redeemed out of",
+    "option": {
+      "a": "existing share capital reserve",
+      "b": "existing general reserve",
+      "c": "proceeds from new issue of shares",
+      "d": "withholding tax."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 432,
     "question": "The budget statement presented to the legislature by the Chief Executive is called",
     "option": {
@@ -3632,6 +3712,22 @@
     "examyear": "2009"
   },
   {
+    "id": 502,
+    "question": "I.  Space occupied by each department    II. Average value of stock held by each department III. \tDepartmental turnover  IV. Number of articles sold by each department. From the information given, the two most logical bases for apportioning expenses that are common to departments are",
+    "option": {
+      "a": "I and II",
+      "b": "I and III",
+      "c": "II and III",
+      "d": "Ill and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 505,
     "question": "Sule and Ahmad are in partnership sharing profits and losses equally. If  Khadija is admitted as a new partner to take 1/5 th as her share, what is the new profit or loss sharing ratio?",
     "option": {
@@ -3788,6 +3884,22 @@
     "image": "",
     "answer": "b",
     "solution": "Dishonoured cheques are those which are refused payment by the bank because they are not in order or there is insufficient fund in the drawer's account.  They are added to uncredited cheques just like standing order and bank charges.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 532,
+    "question": "Which of the following is a debit entry in debtors control account?",
+    "option": {
+      "a": "discount allowed",
+      "b": "return inwards",
+      "c": "credit sales",
+      "d": "cash from debtors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In the Debtors Control Account, increases in what customers owe you are recorded on the debit side. Of the choices:\n\nCredit sales increase debtors (they owe you more), so they’re debited.\n\nDiscount allowed, returns inwards, and cash received from debtors all reduce debtors and are therefore credited.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -4336,6 +4448,22 @@
     "examyear": "2016"
   },
   {
+    "id": 599,
+    "question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled ₦800,000. A provision for bad and doubtful debts.\nFind the amount for sundry debtors after provision.",
+    "option": {
+      "a": "₦744,800",
+      "b": " ₦760,000",
+      "c": "₦784,000",
+      "d": "₦744,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Assuming the provision for bad and doubtful debts is set at 7% of sundry debtors (a common rate):\n\nGross debtors = ₦800,000\n\nProvision = 7% of ₦800,000 = ₦56,000\n\nNet debtors = ₦800,000 – ₦56,000 = ₦744,000",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 601,
     "question": "When the purchase consideration is lower ttan the net asset, the buyer has gained the advantage of",
     "option": {
@@ -4604,6 +4732,22 @@
     "image": "",
     "answer": "c",
     "solution": "Ordinary shares: This type of source of income is only used in profit oriented organization to generate fund the pubic so as to enable the organization make more profit at the end of a specified period",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 631,
+    "question": "A business has the following information for a trading period: Stock Jan 1 ₦2600, Purchases ₦4000, Carriage inwards ₦500, Sales ₦9000, Carriage outwards ₦500. Determine the net profit.",
+    "option": {
+      "a": " ₦4,000",
+      "b": "₦4,500",
+      "c": ". ₦5,000",
+      "d": "₦1,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cost of goods sold = Opening stock + Purchases + Carriage inwards\n= ₦2,600 + ₦4,000 + ₦500\n= ₦7,100\n\nGross profit = Sales − Cost of goods sold\n= ₦9,000 − ₦7,100\n= ₦1,900\n\nNet profit = Gross profit − Carriage outwards\n= ₦1,900 − ₦500\n= ₦1,400.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -5740,6 +5884,22 @@
     "image": "",
     "answer": "c",
     "solution": "Departmental accounts help create healthy competition between departments by making each department's performance visible and comparable. This motivates department managers to improve efficiency and profitability.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 797,
+    "question": "The value of the sales ledger control account is derived from the summation of the",
+    "option": {
+      "a": "total creditors control account",
+      "b": "total debtors control account",
+      "c": "all day books",
+      "d": "both the debtors and creditors accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The sales ledger control account (also known as the debtors control account) represents the total amount owed by all customers who have purchased goods on credit. Its value is derived from the summation of all individual debtor balances in the sales ledger.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -7168,6 +7328,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1014,
+    "question": "<b>Use the information below to answer question 49 to 50.</b>\n\nGoods worth ₦300 was transferred from department Q to P Similarly, P's total expenses for the period was ₦200\n\nDepartment P's net profit was",
+    "option": {
+      "a": "₦5 200",
+      "b": "₦3000",
+      "c": "₦2800",
+      "d": "₦2 500"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756660755/ALOC-Questions/Accounting/UTME/2008/Accounting_JAMB_2008_Q49-50_IMAGES_fkpuzh.jpg",
+    "answer": "c",
+    "solution": "Given (Dept P):\n  Opening stock    = ₦2,000\n  Purchases        = ₦2,500\n  Closing stock    = ₦1,500\n  Sales            = ₦6,000\n  Expenses (P)     = ₦200\n  (Transfer from Q to P is irrelevant to P's net profit here)\n\nStep 1: Cost of goods sold (COGS)\n  COGS = Opening + Purchases − Closing\n       = 2,000 + 2,500 − 1,500\n       = ₦3,000\n\nStep 2: Gross profit\n  Gross profit = Sales − COGS\n               = 6,000 − 3,000\n               = ₦3,000\n\nStep 3: Net profit (after expenses)\n  Net profit = Gross profit − Expenses\n             = 3,000 − 200\n             = ₦2,800",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1015,
     "question": "The double principle of accounting was developed by?",
     "option": {
@@ -7614,6 +7790,22 @@
     "solution": "Current Assets:\n\nStock = ₦10,000\nDebtors = ₦15,000\nCash = ₦5,000\nTotal Current Assets = ₦30,000\n\nCurrent Liabilities:\n\nCreditors = ₦8,000\nWages owed = ₦4,000\nRent owed = ₦3,000\nTotal Current Liabilities = ₦15,000\n\nCurrent Ratio:\nCurrent Ratio = Current Assets ÷ Current Liabilities\nCurrent Ratio = ₦30,000 ÷ ₦15,000 = 2:1\nTherefore, the current ratio is 2:1",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 1072,
+    "question": "The receipt whose name appears on a cheque is called a?",
+    "option": {
+      "a": "payer",
+      "b": "drawer",
+      "c": "drawee",
+      "d": "payee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The drawer writes the cheque, the drawee is the bank, and the payee is the person or entity whose name appears on the cheque — i.e., the recipient.",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 1073,
@@ -10000,6 +10192,22 @@
     "examyear": ""
   },
   {
+    "id": 1386,
+    "question": "Mini Enterprises Sales Ledger as at 31/12/94\nread:\n₦\nBalance b/f 12750\nTotal credit sales 28185\nPayments by debtors 12112\nDiscount allowed 638\nSales returns 1500\n\nPrepare the sales ledger control account and determine the balance due from debtors.",
+    "option": {
+      "a": "₦40,935",
+      "b": "₦27,961",
+      "c": "₦26,685",
+      "d": "₦1,185"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Opening Debtors: ₦12 750\n\nAdd Credit Sales: ₦28 185\n\nLess: Payments ₦12 112, Discounts ₦638, Returns ₦1 500 (total ₦14 250)\n\nClosing Debtors: ₦12 750 + ₦28 185 − ₦14 250 = ₦26 685",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1387,
     "question": "Determine the year''s purchase from the following information relating to a firm.\n\n\nTotal creditor''s b/f ₦ 7,200\nTotal cash payment to suppliers ₦ 98,800\nTotal creditors c/f ₦ 8,400",
     "option": {
@@ -10205,6 +10413,22 @@
     "answer": "a",
     "solution": "The primary purpose of accounting is to generate financial information that helps users (managers, investors, creditors, etc.) make better economic decisions",
     "examtype": "UTME",
+    "examyear": "1997"
+  },
+  {
+    "id": 1417,
+    "question": "Creditors use Accounting information for the purpose of",
+    "option": {
+      "a": " planning sales to a company",
+      "b": "controlling a company's affairs",
+      "c": " investing in a company",
+      "d": " assessing a company's liquidity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Creditors need accounting information, especially on current assets and current liabilities, to evaluate whether the business can meet its short‑term obligations and thus repay loans on time.",
+    "examtype": "utme",
     "examyear": "1997"
   },
   {
