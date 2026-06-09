@@ -6528,6 +6528,22 @@
     "examyear": "2022"
   },
   {
+    "id": 473,
+    "question": "A person standing waist-deep in a swimming pool appears to have short legs because of light?",
+    "option": {
+      "a": "diffraction",
+      "b": "refraction",
+      "c": "reflection",
+      "d": "interference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Light rays from the submerged legs bend (refract) as they pass from water to air due to the change in medium. This makes the legs appear shorter and closer to the surface than they actually are.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 475,
     "question": "When the plate area of a capacitor increases?",
     "option": {
