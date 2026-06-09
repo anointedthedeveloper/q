@@ -1904,6 +1904,22 @@
     "examyear": "2012"
   },
   {
+    "id": 158,
+    "question": "Which of the following scales should show the greatest amount of detail on a map? ",
+    "option": {
+      "a": "1:50,000  ",
+      "b": "1:500,000  ",
+      "c": "1:20,000  ",
+      "d": "1:200,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 159,
     "question": "Sandstone is metamorphosed into  ",
     "option": {
@@ -3040,6 +3056,22 @@
     "examyear": "2016"
   },
   {
+    "id": 258,
+    "question": "The leading wheat producing region of the world is the",
+    "option": {
+      "a": "Veldt of South Africa",
+      "b": "Downs of Australia",
+      "c": "Priairie of North America",
+      "d": "Pampas of Argentina"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 259,
     "question": "From a point, the whole circle bearing of a line is 135°. A clockwise angle from the line was measured to be 260° to another line. What is the whole circle bearing of the later line?",
     "option": {
@@ -3979,6 +4011,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 339,
+    "question": "One basic mineral that is common to Sokoto, Ewekoro, Calabar, and Nkalagu is ",
+    "option": {
+      "a": "Gypsum",
+      "b": "Coal ",
+      "c": "Marble",
+      "d": "Iron-ore"
+    },
+    "section": "",
+    "image": "",
+    "answer": "e",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
@@ -5115,6 +5163,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 435,
+    "question": "The feature utilized by a road to cross a flood plain is called",
+    "option": {
+      "a": "Terrace",
+      "b": "A spur",
+      "c": "An embayment",
+      "d": "An embankment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
