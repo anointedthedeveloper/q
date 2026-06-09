@@ -5536,6 +5536,22 @@
     "examyear": "2020"
   },
   {
+    "id": 411,
+    "question": "A 2kg block is pulled along a horizontal frictionless surface by a constant horizontal force of 10N. If the block starts from rest, what is its velocity after 5 seconds?\n",
+    "option": {
+      "a": "5 m/s",
+      "b": " 10 m/s",
+      "c": "15 m/s",
+      "d": "25 m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 2 kg\nApplied force (F) = 10 N\nInitial velocity (u) = 0 m/s (starts from rest)\nTime (t) = 5 seconds\nFinal velocity (v) = ?\n\nStep 1: Calculate acceleration using Newton's Second Law\nF = ma\na = F/m\nSubstituting values:\na = 10/2\na = 5 m/s²\nStep 2: Calculate final velocity using equation of motion\nv = u + at\nSubstituting values:\nv = 0 + (5 × 5)\nv = 0 + 25\nv = 25 m/s",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 412,
     "question": "The figure above represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40%, then the value of W is",
     "option": {
@@ -7196,6 +7212,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nObject distance, u = 35 cm\nFocal length magnitude = 15 cm\nFor convex mirror, f = +15 cm (positive by sign convention)\nImage distance, v = ?\n\nSolution:\nStep 1: Apply sign convention for convex mirror\nFor a convex mirror:\n\nObject distance, u = -35 cm (object is in front, negative)\nFocal length, f = +15 cm (focal point is behind mirror, positive)\n\nStep 2: Apply mirror formula\n1/f = 1/v + 1/u\n1/v = 1/f - 1/u\nStep 3: Substitute values\n1/v = 1/(+15) - 1/(-35)\n1/v = 1/15 + 1/35\nStep 4: Find common denominator and solve\n1/v = 7/105 + 3/105\n1/v = 10/105\n1/v = 2/21\nv = 21/2\nv = 10.5 cm",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 535,
+    "question": "A relative density bottle has a mass of 19 g when empty. When it is completely filled with water, its mass is 66 g. What will be its mass if completely filled with alcohol of relative density 0.8?",
+    "option": {
+      "a": "47 g",
+      "b": "52.8 g",
+      "c": " 37.6 g",
+      "d": "56.6 g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass of empty bottle, m₀ = 19 g\nMass of bottle + water, m₁ = 66 g\nRelative density of alcohol, RD = 0.8\nMass of bottle + alcohol = ?\n\nSolution:\nStep 1: Calculate mass of water\nMass of water = m₁ - m₀\nMass of water = 66 - 19\nMass of water = 47 g\nStep 2: Understand relative density\nRelative density (RD) = Density of substance / Density of water\nFor the same volume:\nRD = Mass of alcohol / Mass of water\nStep 3: Calculate mass of alcohol\n0.8 = Mass of alcohol / 47\nMass of alcohol = 0.8 × 47\nMass of alcohol = 37.6 g\nStep 4: Calculate total mass with alcohol\nMass of bottle + alcohol = m₀ + Mass of alcohol\nMass of bottle + alcohol = 19 + 37.6\nMass of bottle + alcohol = 56.6 g",
     "examtype": "utme",
     "examyear": "2023"
   },
