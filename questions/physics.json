@@ -208,6 +208,22 @@
     "examyear": "2007"
   },
   {
+    "id": 42,
+    "question": "A capacity of 2.0 x 10-11F and an inductor are joined in series. The value of the inductance that will give the circuit a resonant frequency of 200KHz is ",
+    "option": {
+      "a": "1/16H ",
+      "b": "1/8H ",
+      "c": "1/64H ",
+      "d": "1/32H"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 46,
     "question": "A machine has a velocity ratio of 5, if it requires a 50kg weight to overcome 200kg weight, the efficiency is? ",
     "option": {
@@ -494,6 +510,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 150,
+    "question": "Convert 45°C to kelvin",
+    "option": {
+      "a": "318K",
+      "b": "250K",
+      "c": "184K",
+      "d": "120K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Note: T = 273 + θ\n\nθ = 45°\n\nT = 273 + 45\n\n= 318K",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 155,
@@ -892,6 +924,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nTime elapsed (t) = 120 years\nFraction remaining = 1/64\nHalf-life (T½) = ?\n\nUnderstanding radioactive decay:\nAfter each half-life, half of the material remains.\nStep 1: Determine number of half-lives\nFraction remaining = (1/2)ⁿ\nwhere n = number of half-lives\n1/64 = (1/2)ⁿ\nFinding n:\n64 = 2ⁿ\n2⁶ = 2ⁿ\nn = 6\nSo 6 half-lives have passed.\nStep 2: Calculate half-life\nn × T½ = total time\n6 × T½ = 120 years\nT½ = 120/6\nT½ = 20 years",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 314,
+    "question": "In the diagram shown, If the south-poles of two magnets stroke a steel bar, the polarities at T and V will respectively be",
+    "option": {
+      "a": "north and south",
+      "b": "south and south",
+      "c": "north and north",
+      "d": "south and north"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611723/ALOC-Questions/Physics/2018/2018_Q_35_asprjk.jpg",
+    "answer": "c",
+    "solution": "Understanding magnetic induction by stroking:\nWhen a steel bar is magnetized by stroking with a magnet:\n\nThe pole that is stroked attracts the stroking pole\nTherefore, it becomes the opposite polarity\n\nFrom the diagram:\n\nTwo magnets with south poles (S) stroke the steel bar\nLeft magnet strokes from center (U) toward left end (T)\nRight magnet strokes from center (U) toward right end (V)\n\nApplying the rule:\n\nAt T: Stroked by south pole → becomes north pole\nAt V: Stroked by south pole → becomes north pole\nThe center (U) becomes a south pole (or weak point)\n\nResult:\nBoth ends (T and V) become north poles because both were stroked by south poles.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1664,6 +1712,22 @@
     "examyear": "2024"
   },
   {
+    "id": 585,
+    "question": "A load of 300N is to be lifted by a machine with a velocity ratio of 2 and an efficiency of 60%. What effort will be applied to lift the load?\n",
+    "option": {
+      "a": "100N",
+      "b": "150N",
+      "c": "250N",
+      "d": "400N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nLoad (L) = 300 N\nVelocity Ratio (V.R) = 2\nEfficiency = 60% = 0.60\nEffort (E) = ?\n\nStep 1: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A / V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.60 × 2\nM.A = 1.2\nStep 2: Calculate Effort using M.A\nM.A = Load / Effort\nRearranging:\nEffort = Load / M.A\nEffort = 300 / 1.2\nEffort = 250 N",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 588,
     "question": "A cell of internal resistance of 2Ω supplies current through a resistor, X. If the efficiency of the cell is 75%, find the value of X.",
     "option": {
@@ -1788,6 +1852,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nWe need to identify which properties are typically used to describe or characterize waves.\n\nStep 1: Define wave characteristics\nWave characteristics are intrinsic properties that describe the wave itself, such as its spatial and temporal periodicity, speed, and intensity.\n\nStep 2: Evaluate each item\n\nI. Wavelength: Describes the spatial period of the wave → characteristic.\n\nII. Medium of propagation: Describes the material through which the wave travels; not an intrinsic property of the wave (e.g., electromagnetic waves require no medium) → not a characteristic.\n\nIII. Wave velocity: Speed at which the wave propagates → characteristic.\n\nIV. Frequency: Describes the temporal period of the wave → characteristic.\n\nV. Energy: Related to amplitude/intensity; describes the wave's strength → characteristic.\n\nStep 3: Conclusion\nThe properties used to characterize waves are wavelength, wave velocity, frequency, and energy.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 645,
+    "question": "Transverse waves can be distinguished from longitudinal waves using the characteristic of",
+    "option": {
+      "a": "diffraction",
+      "b": "refraction",
+      "c": "polarization",
+      "d": "reflection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Polarization distinguishes transverse from longitudinal waves.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -2092,6 +2172,22 @@
     "image": "",
     "answer": "b",
     "solution": "\nStep 1: Understanding p‑n junction behavior\nA p‑n junction allows significant current to flow when the p‑side is connected to the positive terminal of a battery and the n‑side to the negative terminal. This connection reduces the depletion region and lowers the barrier for charge carriers.\n\nStep 2: Identifying the correct term\nThis configuration is known as forward bias. The opposite connection (reverse bias) blocks current flow under normal conditions.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 737,
+    "question": "A person can focus objects when they lie beyond 75 cm from his eyes. The focal length of the lens required to reduce his least distance of distinct vision to 25 cm is?",
+    "option": {
+      "a": " 37.50 cm",
+      "b": "75.00 cm",
+      "c": "18.75 cm",
+      "d": " 25.00 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nObject distance (u) = -25 cm (at normal near point)\nImage distance (v) = -75 cm (at person's actual near point, virtual image)\nFocal length (f) = ?\nUsing lens formula:\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-75) - 1/(-25)\n1/f = -1/75 + 1/25\n1/f = -1/75 + 3/75\n1/f = 2/75\nf = 75/2\nf = 37.5 cm\nType of lens:\nPositive focal length → Converging (convex) lens",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -2560,6 +2656,22 @@
     "examyear": "2009"
   },
   {
+    "id": 895,
+    "question": "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80V, 110V, 40V respectively, the effective potential difference is?",
+    "option": {
+      "a": "116.3 V",
+      "b": "50.0 V",
+      "c": " 230.0 V",
+      "d": "106.3 V"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433379/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_46_exvpt2.png",
+    "answer": "d",
+    "solution": "Formula for total voltage in series RLC:\nV_total = √[V_R² + (V_L - V_C)²]\nStep 1: Calculate net reactive voltage\nNet reactive voltage = V_L - V_C = 40 - 110 = -70 V\n(Negative indicates capacitive reactance dominates)\nTaking magnitude: |V_L - V_C| = 70 V\nStep 2: Calculate effective voltage\nV_eff = √[V_R² + (V_L - V_C)²]\nV_eff = √[80² + 70²]\nV_eff = √[6400 + 4900]\nV_eff = √11,300\nV_eff = 106.3 V",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 904,
     "question": "A machine of velocity ratio 6 requires an effort of 400 N to raise a load of 800 N through 1 m. Find the efficiency of the machine",
     "option": {
@@ -2752,6 +2864,22 @@
     "examyear": "2011"
   },
   {
+    "id": 962,
+    "question": "Which of the following could be effectively used to reduce friction?",
+    "option": {
+      "a": "kerosene",
+      "b": "grease",
+      "c": "water",
+      "d": "petrol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "grease is more viscous than the rest of the liquids",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 963,
     "question": "Which of the following types of waves needs a medium for propagation?",
     "option": {
@@ -2924,6 +3052,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774439348/ALOC-Questions/Physics/2011/PHYSICS_2011_Q_41_p3q4wh.png",
     "answer": "a",
     "solution": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 992,
+    "question": "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?",
+    "option": {
+      "a": "10 cm",
+      "b": "25 cm",
+      "c": " 16 cm",
+      "d": "14 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nFocal length, f = 15 cm (positive for convex lens)\nMagnification, m = +3 (upright image means positive magnification)\nImage is virtual and on the same side as object.\n\nSolution:\n\nStep 1: Sign convention\nUsing Cartesian sign convention (real-is-positive for distances is not used here; we adopt the standard where object distance u is negative for real object, image distance v is negative for virtual image).\nLet the magnitude of object distance be u (positive). Then u = –u (in sign convention).\nSimilarly, v = –v (since image is virtual).\nMagnification m = v / u = (+3). In magnitudes: v / u = 3, so v = 3u.\n\nStep 2: Lens formula\nLens formula: 1/f = 1/v – 1/u.\nSubstituting with signs:\n1/f = 1/(–v) – 1/(–u) = –1/v + 1/u = 1/u – 1/v.\nNow replace v = 3u:\n1/f = 1/u – 1/(3u) = (3 – 1)/(3u) = 2/(3u).\n\nStep 3: Solve for u\nu = (2f) / 3 = (2 × 15) / 3 = 30 / 3 = 10 cm.",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -3372,6 +3516,22 @@
     "image": "",
     "answer": "b",
     "solution": "Color depends on frequency (I is true), but green is deviated more than yellow in a prism (II is false), and rainbows don't specifically require heavy rain - they just need sunlight and water droplets (III is false or misleading).",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1137,
+    "question": "The volume of a 1 cm³ metal ball increases by 0.0018 cm³ when heated through temperature θ. If the linear expansivity of the ball is 2.0 × 10⁻⁵ K⁻¹, find θ.",
+    "option": {
+      "a": " 20 °C",
+      "b": "50 °C",
+      "c": "30 °C",
+      "d": "25 °C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nInitial volume, V₀ = 1 cm³\nChange in volume, ΔV = 0.0018 cm³\nLinear expansivity, α = 2.0 × 10⁻⁵ K⁻¹\n\nSolution:\n\nStep 1: Relate volume expansivity to linear expansivity\nFor isotropic materials, volume expansivity γ = 3α.\nγ = 3 × (2.0 × 10⁻⁵) = 6.0 × 10⁻⁵ K⁻¹\n\nStep 2: Volume expansion formula\nΔV = γ × V₀ × Δθ\nwhere Δθ is the temperature change θ.\n\nStep 3: Rearrange and substitute\nθ = ΔV / (γ × V₀) = 0.0018 / (6.0 × 10⁻⁵ × 1)\n\nStep 4: Calculate\nθ = 0.0018 / 6.0 × 10⁻⁵ = (1.8 × 10⁻³) / (6.0 × 10⁻⁵) = 30 K",
     "examtype": "utme",
     "examyear": "2025"
   },
