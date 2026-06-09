@@ -208,6 +208,22 @@
     "examyear": "2012"
   },
   {
+    "id": 53,
+    "question": "A debit may signify: ",
+    "option": {
+      "a": "an increase in the owner's capital amount",
+      "b": "an increase in a liability account",
+      "c": "a decrease in an asset account",
+      "d": "an increase in an asset account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 58,
     "question": "If a business shows a debit balance in its own record of its bank balance, this indicates.",
     "option": {
@@ -1120,6 +1136,22 @@
     "examyear": "1997"
   },
   {
+    "id": 194,
+    "question": "An item is fictitious because it",
+    "option": {
+      "a": "does not exist",
+      "b": "is too costly",
+      "c": "is worthless",
+      "d": "cannot be sold for cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 195,
     "question": "Which of the following is not a personal account?",
     "option": {
@@ -1680,6 +1712,22 @@
     "examyear": "2012"
   },
   {
+    "id": 285,
+    "question": "The Sales Ledger Control Account is also referred to as",
+    "option": {
+      "a": "Bought Ledger Control Account.",
+      "b": "Purchases Account.",
+      "c": "Total Debtors Account.",
+      "d": "Total Creditors Account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 287,
     "question": "The amount of recurrent expenditure was",
     "option": {
@@ -2032,6 +2080,22 @@
     "examyear": "2014"
   },
   {
+    "id": 361,
+    "question": "Which of the following accounts would appear in the nominal ledger?  (I)  Sanison’s account (a debtor)  ( II) Motor vehicle account (III) Sales account  (IV)  Rent and rates account",
+    "option": {
+      "a": "I, II and III only",
+      "b": "I, III and IV only",
+      "c": "II, III and IV only",
+      "d": "Ill and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 362,
     "question": "The sum of direct cost in a manufacturing account is",
     "option": {
@@ -2123,6 +2187,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 390,
+    "question": "A collection of fields relating to one logically definable unit of business information is known as",
+    "option": {
+      "a": "data",
+      "b": "character",
+      "c": "byte",
+      "d": "record"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -2368,6 +2448,22 @@
     "examyear": "2004"
   },
   {
+    "id": 428,
+    "question": "The expenses incurred in promoting a company are",
+    "option": {
+      "a": "promoters’ expenses",
+      "b": "floating expenses",
+      "c": "preliminary expenses",
+      "d": "the Board’s expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 432,
     "question": "The budget statement presented to the legislature by the Chief Executive is called",
     "option": {
@@ -2592,6 +2688,22 @@
     "examyear": "2007"
   },
   {
+    "id": 460,
+    "question": "The drawings for the period stand at",
+    "option": {
+      "a": "N  2 750",
+      "b": "N  3 750",
+      "c": "N  2 500",
+      "d": "N 2 570."
+    },
+    "section": "Given: Opening capital [N7, 000 ]; Additional capital [N3, 500 ]; Net profit [N2 500 ]; Closing capital [N10, 250]",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 464,
     "question": "The amount to be charged to the profit and loss account is",
     "option": {
@@ -2784,6 +2896,22 @@
     "examyear": "2009"
   },
   {
+    "id": 508,
+    "question": "The second and final call account was debited with",
+    "option": {
+      "a": "ordinary share capital account  N 187,500",
+      "b": "12% preference share capital  N  375,000",
+      "c": "bank account  N 187,500",
+      "d": "12% preference share capital account  N 187,500"
+    },
+    "section": "Use the information below to answer questions 43 and 44\t A company advertised and issued 750,000,12% preference shares of  N 1 each to be issued at  N 1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on pro-rata basis.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 516,
     "question": "The income and expenditure account of a club is the same as",
     "option": {
@@ -2876,6 +3004,22 @@
     "image": "",
     "answer": "b",
     "solution": "Dishonoured cheques are those which are refused payment by the bank because they are not in order or there is insufficient fund in the drawer's account.  They are added to uncredited cheques just like standing order and bank charges.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 534,
+    "question": "The accounting convention that state that, stock should be value that the lower of cost and net realized value is --------------- convention",
+    "option": {
+      "a": "marching",
+      "b": "consistency",
+      "c": "realization",
+      "d": "prudency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Prudence Concept or Conservatism principle is a key accounting principle which makes sure that assets and income are not overstated and provision is made for all known expenses and losses whether the amount is known for certain or just an estimation i.e expenses and liabilities are not understated in the books of account",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3456,6 +3600,22 @@
     "examyear": "2017"
   },
   {
+    "id": 625,
+    "question": "A double entry for a transaction that offsets one amount against another on both sides of the cashbook is a",
+    "option": {
+      "a": "original entry",
+      "b": " contra entry",
+      "c": " prime entry",
+      "d": " contract entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "contra entry is used to offset amount or same transaction against another on both side of the cashbook",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 628,
     "question": "Changes can occur in partnership when:\ni. partnership is dissolved\nii. There is amalgamation of partnership\niii.There is a change in the profit or loss sharing ratio\nIv. Intangible asset increase",
     "option": {
@@ -3756,6 +3916,22 @@
     "image": "",
     "answer": "d",
     "solution": "fixed asset are brought forward in closing balance sheet",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 696,
+    "question": "Tea and Cup are into a partnership business. Interests on drawings made by partners are at 10% per annum. Tea’s capital is ₦70000 and current balance is ₦50000. He withdrew the following amounts during the year : 3000 on 31st January ,2000 on 31st March, 4000 on 1st July, 1500 on the 30th September, 2500 on 1st November. Cup’s capital is ₦100000 and current balance is ₦40000. He made no drawings during the period. What is the interest on the drawings of Tea?",
+    "option": {
+      "a": " ₦705",
+      "b": "₦500",
+      "c": "₦1000",
+      "d": "₦10000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Interest on Tea’s drawings is calculated as the sum of each drawing × 10% × (months outstanding ÷ 12):\n\n₦3 000 on 31 Jan: 3 000 × 10% × (11/12) = ₦275.00\n\n₦2 000 on 31 Mar: 2 000 × 10% × (9/12) = ₦150.00\n\n₦4 000 on 1 Jul: 4 000 × 10% × (6/12) = ₦200.00\n\n₦1 500 on 30 Sep: 1 500 × 10% × (3/12) = ₦37.50\n\n₦2 500 on 1 Nov: 2 500 × 10% × (2/12) = ₦41.67\n\nTotal interest = ₦275 + ₦150 + ₦200 + ₦37.50 + ₦41.67 = ₦704.17  ≈ ₦705..",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -4272,6 +4448,22 @@
     "examyear": "2020"
   },
   {
+    "id": 786,
+    "question": "Use the information below to answer this question\n\nA machine bought for ₦35,000 was estimated to have a life span of 5 years with a scrap value of ₦9000.\n \n\nThe yearly depreciation using the straight-line method would be\n",
+    "option": {
+      "a": "₦5200",
+      "b": "₦800",
+      "c": "₦6500",
+      "d": "₦4400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "COGS = Cost – Scrap Value = 35,000 – 9,000 = ₦26,000\nAnnual Depreciation = COGS ÷ Useful Life = 26,000 ÷ 5 = ₦5,200",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 788,
     "question": "Fiyinfoluwa Motors bought three Toyota Hilux vans on cash at the cost of ₦6,000,000 on debiting the vehicle account, the corresponding credit for the purchase will appear in the",
     "option": {
@@ -4428,6 +4620,22 @@
     "image": "",
     "answer": "d",
     "solution": "To find Department A's net profit, allocate the electricity expense using the 60:40 ratio:\nElectricity allocation:\n\nDepartment A: 60% of ₦2,000 = ₦1,200\nDepartment B: 40% of ₦2,000 = ₦800\n\nDepartment A's calculation:\n\nGross profit: ₦6,000\nLess: Salaries and wages: ₦1,800\nLess: Electricity: ₦1,200\nLess: Depreciation: ₦600\nNet profit for Department A = ₦6,000 - ₦1,800 - ₦1,200 - ₦600 = ₦2,400",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 816,
+    "question": "Stationery which will be used over a long period of time is usually recorded as an expense instead of an asset. This concept is called",
+    "option": {
+      "a": "entity",
+      "b": "accrual",
+      "c": "realization",
+      "d": "materiality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Under the materiality concept, only items large enough to influence decisions are capitalized as assets; small, immaterial expenditures—such as low‑cost stationery—even if lasting beyond one period are expensed immediately.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -4896,6 +5104,22 @@
     "examyear": "2023"
   },
   {
+    "id": 899,
+    "question": "Changes in the profit sharing ratio may occur as a result of\n\nI. skill contributed by partners\nII. health status\nIII. old age\nIV. Intangible asset increase",
+    "option": {
+      "a": " I, III and IV",
+      "b": " I and III",
+      "c": "I, II and III",
+      "d": " I, II and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Changes in the profit‐sharing ratio typically arise from partners contributing additional resources or from partners leaving the firm.\n\nI. Skill contributed by partners can justify a larger share of profits if one partner brings specialized expertise.\n\nIII. Old age may lead a partner to retire or reduce involvement, prompting a reallocation of profit shares.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 900,
     "question": "Given:\nI. Cash refunds\nII. Debit note issued\nIII. Dishnoured cheque\nIV. Purchases\n\nThe item on the credit side of purchase ledger control account includes",
     "option": {
@@ -4908,6 +5132,22 @@
     "image": "",
     "answer": "b",
     "solution": "The item on the credit side of the purchase control account or total creditor control account are: purchase (credit), cash refunds, discount withdrawn, debit note received.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 901,
+    "question": "Given:\n\nI. It records subscription in arrears\nII. Payments of liabilities is effected\nIII. The account does not show if cash payment is revenue or capital expenditure\nIV. It performs the same function as cash book\n\nThe features of receipts and payment account includes:",
+    "option": {
+      "a": "III and IV",
+      "b": "I, II and IV",
+      "c": " II, III and IV",
+      "d": "I, II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The features are:\n- include capital and revenue items\n- accruals and prepayments are not included\n- it is a real account\n- only actual receipts and payments are recorded\n- balance represent cash in hand",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -5824,6 +6064,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1056,
+    "question": "A company paid cash in redemption of ₦10,000 debenture.\nThe accounting entry to record this will be to debit?",
+    "option": {
+      "a": "cash and credit debenture",
+      "b": "debenture and credit cash",
+      "c": " cash and credit capital",
+      "d": "capital and debit cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a company redeems (pays back) a debenture:\n\nThe debenture account (a liability) is reduced → Debit debenture account\n\nCash is paid out → Credit cash account\n\nDouble entry:\n\nDr Debenture ........ ₦10,000\n    Cr Cash ................ ₦10,000",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1062,
     "question": "Calculate the closing stock under FIFO method",
     "option": {
@@ -6400,6 +6656,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1183,
+    "question": "<b>Use the information below to answer questions 18 and 19.</b>\n\nStock of raw materials (1st January) ₦3000\n\nDirect wages ₦2500\n\nDirect expenses ₦1000\n\nFactory overheads ₦2000\n\nCost of raw materials used ₦5500\n\nStock of finished goods (31st December) ₦2000\n\nThe cost of goods manufactured is?",
+    "option": {
+      "a": "₦11000",
+      "b": "₦12000",
+      "c": "₦14000",
+      "d": "₦9000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Formula for Cost of Goods Manufactured:\nCost of Goods Manufactured = Direct Materials Used + Direct Labor + Direct Expenses + Factory Overheads\nCalculation:\n\nDirect materials used: ₦5,500 (given)\nDirect labor (wages): ₦2,500\nDirect expenses: ₦1,000\nFactory overheads: ₦2,000\n\nCost of Goods Manufactured = ₦5,500 + ₦2,500 + ₦1,000 + ₦2,000\nCost of Goods Manufactured = ₦11,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1184,
     "question": "(i) Orientation \n(ii) Entity \n(iii) Legal status\n(iv) Finance.\n\nWhich of the characteristics above distinguishes a profit-making from a not-for-profit-making organizations?",
     "option": {
@@ -6560,6 +6832,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1199,
+    "question": "Given:\n\nCash purchases ..............................₦25000\nTrading creditors............................₦45000\nOpening balance of trade creditors...........₦35000\n\nCalculate the purchases for the period?",
+    "option": {
+      "a": "₦80,000",
+      "b": "₦35,000",
+      "c": "₦105,000",
+      "d": "₦70,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Increase in trade creditors = ₦45,000 − ₦35,000\n45,000 − 35,000 = 10,000\n\nPurchases = Cash purchases + Increase in creditors (i.e. net credit purchases)\n= ₦25,000 + ₦10,000\n= ₦35,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1201,
     "question": "Given:\n\nCapital at start.......................₦3250\n\nCapital at close ......................₦6250\n\nAdditional capital during the period...₦1000\n\n\n\nCalculate the profit or loss?",
     "option": {
@@ -6652,6 +6940,22 @@
     "image": "",
     "answer": "b",
     "solution": "Interest on capitals (5%):\nAbba = ₦5,000 × 5% = ₦250\nBada = ₦4,000 × 5% = ₦200\nKaka = ₦3,000 × 5% = ₦150\nTotal interest = ₦600\n\nSalaries (per agreement):\nAbba ₦300, Bada ₦300, Kaka ₦0 → Total salaries = ₦600\n\nAppropriations before sharing profit:\nTotal interest + salaries = ₦600 + ₦600 = ₦1,200\n\nProfit remaining for distribution:\nNet profit ₦2,250 − ₦1,200 = ₦1,050\n\nShare this ₦1,050 in ratio 3:2:1 (total 6 parts):\nAbba’s share = 3/6 × ₦1,050 = ₦525\n\nAbba’s total credit from profit appropriations = interest + salary + share\n= ₦250 + ₦300 + ₦525 = ₦1,075\n\nNow adjust Abba’s accounts (starting with given balances):\nOpening capital = ₦5,000\nOpening current = ₦250\nAdd profit appropriations to current: +₦1,075\nLess drawings: −₦600\n\nSo closing combined capital (i.e., capital + closing current) =\n₦5,000 + (₦250 + ₦1,075 − ₦600) = ₦5,000 + ₦725 = ₦5,725",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1214,
+    "question": "In the public sector, the method of accounting that reports revenues and expenditures in the period in which they are received and paid is called?",
+    "option": {
+      "a": "fund accounting",
+      "b": "commitment accounting",
+      "c": "cash accounting",
+      "d": "accrual accounting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Reason: In public sector cash accounting, revenue is recorded when received and expenditure when paid, without regard to the period the transactions actually relate to.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -7214,6 +7518,22 @@
     "solution": "The primary benefit of reconciling branch and head office records is to ensure that all inter‐company transfers, stock movements, and adjustments have been correctly recorded, allowing the head office to determine the true profit or loss generated by the branch.",
     "examtype": "utme",
     "examyear": "2000"
+  },
+  {
+    "id": 1315,
+    "question": "Accrual concept stipulates that?",
+    "option": {
+      "a": "revenue should be recognized when it is earned",
+      "b": "costs should be recognized when the expenditure is paid",
+      "c": "revenue should be recognized only when cash is paid",
+      "d": "costs should be recognized when the are incurred"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The accrual concept requires that revenue is recognized when it is earned, regardless of when cash is received.",
+    "examtype": "utme",
+    "examyear": "1999"
   },
   {
     "id": 1317,
