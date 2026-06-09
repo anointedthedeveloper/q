@@ -14972,6 +14972,25 @@
     "category": "others"
   },
   {
+    "id": 990,
+    "question": "suggestible?",
+    "option": {
+      "a": "suggeSTIble",
+      "b": "Suggestible",
+      "c": "suGGEstible",
+      "d": "suggestiBLE"
+    },
+    "section": "<b>In each of the questions 93 to 98 choose the appropriate stress pattern from the options. The syllables are written in capital letters.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "su-gge-STi-ble",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 95,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 991,
     "question": "Uche LOVES Toyota cars?",
     "option": {
@@ -20729,6 +20748,25 @@
     "category": "others"
   },
   {
+    "id": 1412,
+    "question": "Jide couldn't have said that. This means that Jide",
+    "option": {
+      "a": "ought not say that",
+      "b": "will not say that",
+      "c": " it's not likely jide said it",
+      "d": "Jide didn't say it"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\"Couldn't have\" here indicates the impossibility that Jide said it at all i.e it is rather unlikely for Jide to have said it.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 39,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1413,
     "question": "Bolu shall be the M.C. This means that",
     "option": {
@@ -21181,6 +21219,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 79,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1453,
+    "question": "Aliya's sixteenth birthday is special because",
+    "option": {
+      "a": "she receives birthday cards from her father every year since age twelve",
+      "b": "she was already matured to fully understand the realities of life stories told by her father",
+      "c": " her father gave her a birthday card and a digital camera",
+      "d": "of her father's sixteen-page letter detailing her life journey thus far"
+    },
+    "section": "<b>Questions below are based on Bolaji Abdullahi's \"Sweet Sixteen\"</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "The specialty in Aliya's sixteenth birthday is a result of the sixteen-page letter which her father wrote to her, dedicating each page to each year of her life.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 80,
     "hasPassage": 0,
     "category": "others"
   },
