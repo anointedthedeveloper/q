@@ -4066,6 +4066,25 @@
     "category": "others"
   },
   {
+    "id": 257,
+    "question": "1 owe you far less than you owe me",
+    "option": {
+      "a": "My debt to you is greater than yours to me",
+      "b": "Your debt is not much greater than mine",
+      "c": "What we owe each other Is approximately the same",
+      "d": "I owe you something, but you owe me much more"
+    },
+    "section": "the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 258,
     "question": "The dispute over land acquisition has now come a head",
     "option": {
