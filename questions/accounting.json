@@ -14752,6 +14752,22 @@
     "examyear": "2024"
   },
   {
+    "id": 941,
+    "question": "Which of the following is an example of a device that can be used for input, storage, and output in a computer system?",
+    "option": {
+      "a": "Central processing unit (CPU)",
+      "b": "Keyboard",
+      "c": " USB flash drive",
+      "d": "Monitor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A USB flash drive is unique because it can function as an input device (when you read data from it), a storage device (it stores files), and an output device (when you write/save data to it).",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 942,
     "question": "Shares issued free of charge to existing shareholders based on their previous holdings is __ issue",
     "option": {
