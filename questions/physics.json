@@ -10464,6 +10464,22 @@
     "examyear": "2005"
   },
   {
+    "id": 695,
+    "question": "If two inductors of inductances 3H and 6H are arranged in series, the total inductance is",
+    "option": {
+      "a": " 9.0H",
+      "b": "18.0H",
+      "c": " 0.5H",
+      "d": "2.0H"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "l =l1 + l2 = 3 + 6 = 9H",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 696,
     "question": "An elastic material has a length of 36 cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is",
     "option": {
@@ -12236,6 +12252,22 @@
     "image": "",
     "answer": "b",
     "solution": "Temperature difference between hot and cold junctions of thermocouple is proportional to the emf. Generated",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 813,
+    "question": "During summer, the balance wheel of a clock expands.what effect does this have on the accuracy of the clock?",
+    "option": {
+      "a": " the clock gians time",
+      "b": "the accuracy of the clock is not affected",
+      "c": "the clock losses time",
+      "d": "the clock stops working"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The elastic potential energy of the balance wheel reduces as the wheel expands, therefore the clock will loose time.",
     "examtype": "utme",
     "examyear": "2008"
   },
