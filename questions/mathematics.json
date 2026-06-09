@@ -14048,6 +14048,22 @@
     "examyear": "2019"
   },
   {
+    "id": 970,
+    "question": "The angle of elevation of the top of a tree from a point on the ground 60m away from the foot of the tree is 78°. Find the height of the tree correct to the nearest whole number.",
+    "option": {
+      "a": "148 m",
+      "b": "382 m",
+      "c": "282 m",
+      "d": "248 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "tan78 = h/60\nh = 60tan78\nh = 60 × 4.705 = 282.27m  ≊\n282m to the nearest whole number.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 971,
     "question": "A binary operation ⊗\n is defined by m ⊗ n = mn + m − n on the set of real numbers, for all m, n ∈\n R. Find the value of 3 ⊗ (2⊗ 4).",
     "option": {
