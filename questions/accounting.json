@@ -224,6 +224,22 @@
     "examyear": "2010"
   },
   {
+    "id": 16,
+    "question": "Prepaid expenses  is an  item  in ",
+    "option": {
+      "a": "Fixed Asset  ",
+      "b": "  Current    Asset   ",
+      "c": "Liabilities ",
+      "d": "Long term liabilities "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 17,
     "question": "Final accounts of (i) Cash book (ii) trading account  (iii) Profit and  loss account  (iv)Balance sheet  ",
     "option": {
@@ -12480,6 +12496,22 @@
     "examyear": "2021"
   },
   {
+    "id": 834,
+    "question": "If goods are sent to branch at 25% on cost, what will be the cost of goods sent to the branch at a selling price of ₦100,000?\n",
+    "option": {
+      "a": "₦130,000",
+      "b": " ₦75,000",
+      "c": " ₦80,000",
+      "d": " ₦125,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A 25% markup on cost means\n\n\nSelling Price=Cost×(1+0.25)=1.25×Cost.\nSo if the selling price is ₦100,000, the cost is\n\n100,000/1.25 = ₦80,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 835,
     "question": "The purchase consideration that is lower than the net asset implies that, the buyer has gained the advantage of",
     "option": {
@@ -12636,6 +12668,22 @@
     "image": "",
     "answer": "c",
     "solution": "In double entry bookkeeping, when there is an increase in assets and capital simultaneously:\n\nDebit assets (because asset increases are debited)\nCredit capital (because capital increases are credited)\n\nThis follows the fundamental accounting equation: Assets = Capital + Liabilities",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 846,
+    "question": "The simplest form of single entry procedure consists of keeping a ___?",
+    "option": {
+      "a": "day book or general journal",
+      "b": "cash book and ledger accounts showing debtors and creditors balances",
+      "c": "cash journal, sales journal and purchases journal",
+      "d": "day book in which transactions are described in chronological order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The simplest form of single-entry procedure consists of keeping a 'day book' in which transactions are described in chronological order. ",
     "examtype": "utme",
     "examyear": "2022"
   },
