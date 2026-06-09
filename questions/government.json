@@ -112,6 +112,22 @@
     "examyear": "2006"
   },
   {
+    "id": 22,
+    "question": "Which of these men introduced indirect rule in Nigeria? ",
+    "option": {
+      "a": "Mungo Park ",
+      "b": "Dr. Nnamdi Azikiwe ",
+      "c": "Lord Lugard ",
+      "d": "Sir James Robertson."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 24,
     "question": "Which of these countries has the highest population in West Africa? ",
     "option": {
@@ -368,6 +384,22 @@
     "examyear": "2010"
   },
   {
+    "id": 115,
+    "question": "In the process of implementing laws, the executive sometimes performs: ",
+    "option": {
+      "a": "judicial function ",
+      "b": "bureaucratic function ",
+      "c": "oversight function ",
+      "d": "legislative function"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 116,
     "question": "Which of the these was the main organ of the defunct OAU? ",
     "option": {
@@ -491,6 +523,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 161,
+    "question": "The Universal Negro Improvement Association was founded by  ",
+    "option": {
+      "a": "Casely Hayford  ",
+      "b": "Herber Macauly  ",
+      "c": "Marcus Garvey  ",
+      "d": "W.E.B. Du Bois"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1024,6 +1072,22 @@
     "examyear": "1999"
   },
   {
+    "id": 335,
+    "question": "Which of the following parties formed the opposition in the House of Representatives during Nigeria’s First Republic?",
+    "option": {
+      "a": "AG and UMBC",
+      "b": "NCNC AND NEPU",
+      "c": "NPC and NNDP",
+      "d": "NCNC and AG"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 337,
     "question": "A feature common to the 1963, 1979 and 1989 constitutions of Nigeria was that they provided for a",
     "option": {
@@ -1051,6 +1115,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 354,
+    "question": "One of the underlying principles of Nigerian foreign policy is",
+    "option": {
+      "a": "encouragement of peace-keeping operations in Africa",
+      "b": "interference in the internal activities of other countries",
+      "c": "non-commitment towards Africa unity",
+      "d": "respect for sovereign equality of all states."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -1120,6 +1200,22 @@
     "examyear": "2016"
   },
   {
+    "id": 382,
+    "question": "Islam was introduced in Northern Nigeria",
+    "option": {
+      "a": "before the 13th century",
+      "b": "in the 17th century",
+      "c": "after the jihad of Uthman Dan Fodio",
+      "d": "by the British in the early 20th century"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 396,
     "question": "The head of state in the first republic of Nigeria was",
     "option": {
@@ -1147,6 +1243,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 403,
+    "question": "A state with a hegemonic political party is one in which",
+    "option": {
+      "a": "there is one dominant party",
+      "b": "there is no opposition party",
+      "c": "there is only one party",
+      "d": "other parties are officially recognized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 404,
+    "question": "Nigeria commitment to the liberation of Africa could best be seen in her policy towards",
+    "option": {
+      "a": "Namibia and Mozambique",
+      "b": "the Congo and Zimbabwe",
+      "c": "Sierra Leone and Chad",
+      "d": "South Africa and Angola"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -1648,6 +1776,22 @@
     "examyear": "2013"
   },
   {
+    "id": 554,
+    "question": "OPEC has strong influence with the",
+    "option": {
+      "a": "IMF",
+      "b": "EU",
+      "c": "ADB",
+      "d": "AU."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 558,
     "question": "In a democratic political system, the political sovereign is usually the",
     "option": {
@@ -1675,6 +1819,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 561,
+    "question": "The court that has ultimate power to interprets the constitution is the",
+    "option": {
+      "a": "Supreme Court",
+      "b": "Magistrate Court",
+      "c": "High Court",
+      "d": "Court of Appeal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -1771,6 +1931,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 586,
+    "question": "The NCNC and the NPC facilitated the creation of the",
+    "option": {
+      "a": "Mid-West Region",
+      "b": "Northern Region",
+      "c": "Western Region",
+      "d": "Eastern Region"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -2096,6 +2272,22 @@
     "examyear": "1989"
   },
   {
+    "id": 687,
+    "question": "Representative democracy is characterized by",
+    "option": {
+      "a": "free election and proper register of voters",
+      "b": "unlimited expenditure of political parties",
+      "c": "a politically educated electorate",
+      "d": "representation of the poor only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 688,
     "question": "The ratification of the appointment and dismissal of an Emir in the pre-colonial Fulani Empire was done by the",
     "option": {
@@ -2396,6 +2588,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Economic Community of West African States (ECOWAS) is a regional organisation of 15 West African countries established on 28 May 1975. Its main goal is the promotion of the economic integration among its members. Indeed, ECOWASis one the five regional pillars of the African Economic Community (AEC).",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 767,
+    "question": "The characteristics of the Civil Servants which prevent its officers from addressing the press unless directed is known as ________\n",
+    "option": {
+      "a": "impartiality",
+      "b": "neutrality",
+      "c": "anonymity",
+      "d": "impersonality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "This is used to describe situations where the acting person's name is unknown",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -3168,6 +3376,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1031,
+    "question": "The electoral system used in Nigeria is primarily based on __________",
+    "option": {
+      "a": "mixed-member proportional",
+      "b": " preferential voting",
+      "c": "first-past-the-post",
+      "d": "proportional representation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The electoral system used in Nigeria is primarily based on the first-past-the-post system. This means that the candidate with the most votes in an election wins, regardless of whether they have a majority of the total votes. This system is used in Nigeria's presidential, gubernatorial, and legislative elections.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1033,
     "question": "Which Nigerian leader advocated for the New Partnership for Africa's Development(NEPAD)?",
     "option": {
@@ -3392,6 +3616,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1118,
+    "question": "When Nigeria achieved independence in 1960, the head of state was the",
+    "option": {
+      "a": "president",
+      "b": "prime minister",
+      "c": "Governor-General",
+      "d": "Queen of England."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When Nigeria achieved independence in 1960, the Head of state was the Governor-General, representing the queen of England.\nOne of the main provisions of the constitution of 1960 was that the governor general was made the constitutional ceremonial Head of state and a representative of the Queen of England.\n\nThis means the queen was the head of state but appointed a representative in the person of the governor-general to stand in for her, in her absence.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1119,
     "question": "The central legislature of Nigeria became bicameral in",
     "option": {
@@ -3600,6 +3840,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1179,
+    "question": "One major factor that differentiates the presidential from the parliamentary system is",
+    "option": {
+      "a": "separation of powers",
+      "b": "judicial independence",
+      "c": "passage of bills",
+      "d": "party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Separation of powers is one major factor that differentiates the presidential from the parliamentary system.\n\nIn a Presidential system, there is strict separation of powers as the President and the ministers are not members of Parliament while on the Parliamentary System, there is much fusion of powers. Here the Prime Minister and the Cabinet members are members of the Parliament.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1182,
     "question": "The United Nations charter is an instrument that",
     "option": {
@@ -3676,6 +3932,22 @@
     "image": "",
     "answer": "a",
     "solution": "Independence of the judiciary has to do with the idea that courts should be separated from the Executive and Legislative arm of government. This independence is important to aid the judges to remain impartial to serve the constitution, act fairly, reasonably, free of any fear or favor. \n\nOne way to ensure the independence of the judiciary is by not politicizing the appointments of judges. Judges should be non partisan and their appointments shouldn't be based off political affiliations. ",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1209,
+    "question": "Socialism is a mode of production based on",
+    "option": {
+      "a": " state state ownership of the means of production",
+      "b": "collective ownership of the means of production",
+      "c": "national ownership of the means of productions",
+      "d": "mixed ownership of means of production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Socialism is primarily defined by the principle that the means of production—such as factories, resources, and infrastructure—are owned collectively by the community rather than by private individuals. This collective or communal ownership is intended to ensure that production and the benefits derived from it serve the common good, rather than generating profit for private owners. While many socialist states have implemented state ownership as a means of achieving collective control, the core concept remains the collective (or community) ownership of production resources.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -3774,6 +4046,22 @@
     "solution": "The President of the United Nations Security Council serves a tenure of one month, with the position rotating among the 15 member states (5 permanent and 10 non-permanent) in alphabetical order (based on English country names). This monthly rotation ensures equitable representation and shared leadership.",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 1251,
+    "question": "The leaders who spearheaded the transformation of the Organization of African Unity into the African Union are from",
+    "option": {
+      "a": " Nigeria, Libya and Kenya",
+      "b": "Algeria, Libya and Zambia",
+      "c": "South Africa, Libya and Zambia",
+      "d": "Nigeria, Libya and South Africa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The leaders who spearheaded the transformation of the Organization of African Unity (OAU)into the African Union are from Nigeria,Libya and South Africa.\n\nThe inauguration of the new union took place in Durban, South Africa. Mummer Gadhafi of Libya first proposed it as full blown (United States of Africa)",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 1255,
@@ -4064,6 +4352,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1337,
+    "question": "An elected legislator in a presidential system can loose his seat by",
+    "option": {
+      "a": " a vote of no confidence",
+      "b": "impeachment",
+      "c": "cross-carpeting",
+      "d": "recall"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An elected legislator in a presidential system can loose his seat by recall.\n\nThe word ''Recall'' was defined by G.A.I. Ofoegbu (1999) as a device by which elected officials in the legislature or government could be called back even before their tenure expires.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1340,
     "question": "The first successful disengagement of the military from politics in Nigeria was carried out by the government of",
     "option": {
@@ -4124,6 +4428,22 @@
     "image": "",
     "answer": "c",
     "solution": "A fundamental characteristic of a professional civil service is that it is based on a merit system. This means that appointments, promotions, and other personnel decisions are made based on qualifications, competence, and performance rather than on political connections, favoritism, or quotas. This merit-based approach helps ensure that the civil service is efficient, impartial, and able to deliver quality public services.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1353,
+    "question": "A characteristic of a fascist state is the existence of a",
+    "option": {
+      "a": " zero-party system",
+      "b": "two-party system",
+      "c": " one-party system",
+      "d": "multi-party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A characteristic of a fascist state is the existence of a zero-party system.\n\nIf party were to exist, it must be only one party and there must be no political opposition",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -4192,6 +4512,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1363,
+    "question": "An advantage of delegated legislation is",
+    "option": {
+      "a": "supremacy",
+      "b": "convenience",
+      "c": "effectiveness",
+      "d": "efficiency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Efficiency is an advantage of delegated legislation.\n\nDelegated Legislation makes for efficiency and precision. It helps to deal with issues that require some technicalities. When a subject is highly technical and requires some expert knowledge, the parliament may delegate to the Ministers, the powers to make laws or the issue, so to be able to achieve efficiency.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1366,
     "question": "An economic system that encourages even distribution of wealth in the society is",
     "option": {
@@ -4256,6 +4592,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1409,
+    "question": "The party that did not control any state in the Second Republic was",
+    "option": {
+      "a": "NAP",
+      "b": "PRP",
+      "c": "NPP",
+      "d": "GNPP"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "NAP was the party that did not control any state in the Second Republic. Nigeria Advanced Party (NAP) was not recognized for the 1979 election. The reason was that it was unable to establish branches in 13 states of the federation as stipulated by FEDECO. In the 1983 general elections, which the party contested, it did not win a single seat in all the constituencies.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1414,
     "question": "Which of the following is a major threat to OPEC?",
     "option": {
@@ -4284,6 +4636,22 @@
     "image": "",
     "answer": "a",
     "solution": "The AU's right to intervene in a member country in crisis portrays it as an international organization.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1420,
+    "question": "The right of all eligible citizens to vote and be voted for is referred to as",
+    "option": {
+      "a": "gender equality",
+      "b": " political mandate",
+      "c": "restricted franchise",
+      "d": "universal suffrage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The right of all eligible citizens to vote and be voted for is referred to as universal suffrage.\n\nUniversal suffrage gives voting right to all qualified citizens. But restricted suffrage or restricted franchise restricts voting rights to specified citizens based on age, sex, property, wealth, race or education.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -4398,6 +4766,22 @@
     "solution": "A State with a hegemonic political party is one in which there is only one dominant party. In this system, one party is firmly established in office. The party has hegemony, that is, it enjoys unchallenged authority. The law does not operate formally against any opposition, but clearly the state concerned is effectively single-party for longer period of many years. For example, South Africa was an example of a hegemonic party. There, the National party came into power in 1948, and it only left when Dr. Nelson Mandela was elected president in 1994.",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 1449,
+    "question": "A major function of Warrant Chiefs was to",
+    "option": {
+      "a": "take charge of local administration",
+      "b": "stop ritual killings",
+      "c": "prevent tribal wars",
+      "d": "supervise native courts and markets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Under the colonial system of indirect rule in Nigeria, warrant chiefs were appointed by the British colonial authorities to serve as intermediaries between the colonial government and the indigenous communities. Their primary function was to manage local administration, including tax collection, maintenance of order, and implementation of colonial policies, thus ensuring that the colonial government’s interests were maintained at the local level.",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 1452,
