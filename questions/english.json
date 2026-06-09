@@ -22686,6 +22686,25 @@
     "category": "others"
   },
   {
+    "id": 1494,
+    "question": "Choose the option that best completes the gap, I'll find time for my _________ when I get _________with this difficult assignment.",
+    "option": {
+      "a": "past-time/over",
+      "b": "pass-time/over",
+      "c": "passtime/through",
+      "d": "pastime/through"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Pastime implies an activity that someone does regularly for enjoyment rather than work , while get through implies to pass a difficult experience",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 11,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1495,
     "question": "After so many trials, the experiment __________",
     "option": {
@@ -26121,6 +26140,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 7,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1695,
+    "question": "This question is from the novel The Last Days at Forcados High school.\n\nWhat is the name of Efua’s Aunt?",
+    "option": {
+      "a": "funmi",
+      "b": "Moni",
+      "c": "Mrs solade",
+      "d": " Nene ekpo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 8,
     "hasPassage": 0,
     "category": "others"
   },
