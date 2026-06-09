@@ -256,6 +256,22 @@
     "examyear": "2003"
   },
   {
+    "id": 121,
+    "question": "Which of the following is found in cotton",
+    "option": {
+      "a": "Starch",
+      "b": "Cellulose",
+      "c": "fat",
+      "d": "oil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 125,
     "question": "If a solution contains 4.8g of Tetraoxosulphate (VI) acid. Calculate the amount of copper(II) oxide that will react with it  [CU = 64, O = 16, S = 32, H = 1]",
     "option": {
@@ -295,6 +311,22 @@
       "b": "25",
       "c": "60",
       "d": "75"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 135,
+    "question": "Hardness of water is caused by the presence of the ions of",
+    "option": {
+      "a": "Magnesium and silver",
+      "b": "Calcium and magnesium",
+      "c": "Sodium and potassium",
+      "d": "Calcium and sodium"
     },
     "section": "",
     "image": "",
@@ -432,6 +464,38 @@
     "examyear": "2004"
   },
   {
+    "id": 179,
+    "question": "NH4CI(g) ⇌   NH3(g)  +  HCI(g)   The reaction above can only attain equilibrium if",
+    "option": {
+      "a": "It is in a closed system",
+      "b": "It is in an open system",
+      "c": "One of the products is removed",
+      "d": "A gaseous reactant is added"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 181,
+    "question": "The most abundant element on the earth’s crust is",
+    "option": {
+      "a": "Oxygen",
+      "b": "Fluorine",
+      "c": "hydrogen",
+      "d": "nitrogen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 198,
     "question": "Which of the following are structural isomers",
     "option": {
@@ -491,6 +555,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 235,
+    "question": "The idea of planetary electrons was that of",
+    "option": {
+      "a": "Bohr",
+      "b": "Thompson",
+      "c": "Rutherford",
+      "d": "Dalton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -688,6 +768,22 @@
     "examyear": "2010"
   },
   {
+    "id": 285,
+    "question": "If a reaction is exothermic and thee is a great disorder, it means that",
+    "option": {
+      "a": "The reaction is in a state of equilibrium",
+      "b": "There will be a large increase in free energy",
+      "c": "There will be a large decrease in free energy",
+      "d": "The reaction is static"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 286,
     "question": "In the preparation of oxygen by heating KCIO3 in the presence of MnC2, only moderate hear is needed because the catalyst acts by",
     "option": {
@@ -695,6 +791,22 @@
       "b": "Increasing the rate of the reaction",
       "c": "Lowering the energy barrier of the reaction",
       "d": "Lowering the pressure of the reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 288,
+    "question": "To a solution of an unknown compound, a little dilute Tetraoxosulphate (IV) acid was added with some freshly prepared (II) Tetraoxosulphate (VI) Solution. The brown ring observed after the addition of a stream of concentrated  Tetraoxosulphate (VI) acid confirmed the presence of",
+    "option": {
+      "a": "CI",
+      "b": "SO",
+      "c": "NO",
+      "d": "CO"
     },
     "section": "",
     "image": "",
@@ -780,6 +892,22 @@
     "image": "",
     "answer": "a",
     "solution": "Drug making requires crystallization most because pharmaceuticals must be highly purified, and crystallization is the primary method to achieve the purity levels required for safe and effective medications.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 320,
+    "question": "A suitable reagent for distinguish between ethanoic and ethanol is",
+    "option": {
+      "a": "bromine water",
+      "b": " Fehling’s solution",
+      "c": "sodium hydrogen trioxocarbonate (iv)",
+      "d": "Ammoniacal silver trioxonitrate(V)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Ethanoic acid reacts with sodium hydrogen trioxocarbonate(IV) (sodium hydrogen carbonate, NaHCO₃) to produce carbon dioxide gas, which effervesces.\nEthanol does not react with NaHCO₃.\n\n\nSodium hydrogen trioxocarbonate(IV) is suitable for distinguishing between ethanoic acid and ethanol.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -896,6 +1024,22 @@
     "examyear": "2016"
   },
   {
+    "id": 365,
+    "question": "The colour of litmus in an alkaline medium is",
+    "option": {
+      "a": "Red",
+      "b": "Yellow",
+      "c": "Pink",
+      "d": "Blue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Litmus is a pH indicator that turns blue in alkaline (basic) solutions and red in acidic solutions. In a neutral solution, it remains purple. Therefore, in an alkaline medium, litmus turns blue.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 378,
     "question": "Which of the following is not an alkali?",
     "option": {
@@ -976,6 +1120,22 @@
     "examyear": "2016"
   },
   {
+    "id": 387,
+    "question": "The arrangement of particles in crystal lattices can be studied using",
+    "option": {
+      "a": "X-rays",
+      "b": "β-rays",
+      "c": "α-rays",
+      "d": "γ-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "X-ray crystallography is the technique used to study the arrangement of particles in crystal lattices. X-rays have wavelengths comparable to the spacing between atoms in crystals, causing diffraction patterns that reveal the three-dimensional structure of the crystal.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 390,
     "question": "An example of a solid emulsion is",
     "option": {
@@ -1020,6 +1180,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636239/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q45_px9hlb.png",
     "answer": "d",
     "solution": "In the energy profile diagram, X is the arrow showing the difference in energy level between the reactants and the products. This energy difference is the enthalpy change (ΔH) of the reaction. Since products are lower in energy than reactants, ΔH is negative (exothermic). The activation energy would be measured from reactants to the peak, not between reactants and products.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 401,
+    "question": "The curve depicts titration between",
+    "option": {
+      "a": "Strong acid and strong base",
+      "b": "Strong acid and weak base",
+      "c": "Weak acid and weak base",
+      "d": "Weak acid and strong base"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636437/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q47_sodvoa.png",
+    "answer": "b",
+    "solution": "The curve starts at a low pH (~3), indicating a strong acid. The equivalence point and the final pH (~5) are both in the acidic range, which is characteristic of a strong acid-weak base titration (the salt formed is acidic). A strong acid-strong base titration would end at pH 7, and a weak acid-strong base would end above pH 7.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1232,6 +1408,22 @@
     "examyear": "2018"
   },
   {
+    "id": 486,
+    "question": "How many atoms are present in 6.0 g of magnesium? [Mg = 24, Nₐ = 6.02 × 10²³ mol⁻¹]",
+    "option": {
+      "a": "1.20 × 10²²",
+      "b": "2.4 × 10²²",
+      "c": "1.51 × 10²³",
+      "d": "3.02 × 10²²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Moles of Mg = 6.0/24 = 0.25 mol. Number of atoms = 0.25 × 6.02 × 10²³ = 1.505 × 10²³ ≈ 1.51 × 10²³ atoms.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 490,
     "question": "(I) 3CuO(s) + 2NH₃(g) → 3Cu(s) + 3H₂O(l) + N₂(g)\n(II) 2NH₃(g) + 3Cl₂(g) → 6HCl(g) + N₂(g)\n(III) 4NH₃(g) + 3O₂(g) → 6H₂O(l) + N₂(g)\nThe reactions represented by the equations above demonstrate the",
     "option": {
@@ -1356,6 +1548,22 @@
     "image": "",
     "answer": "b",
     "solution": "In Cr₂O₇²⁻: 2x + 7(−2) = −2 → 2x = 12 → x = +6. In the product Cr³⁺, the oxidation number is +3. Chromium is reduced from +6 to +3. Answer: B.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 549,
+    "question": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180. Find the molecular formula. [H = 1, C = 12, O = 16]",
+    "option": {
+      "a": "C₃H₆O₃",
+      "b": "C₆H₆O₃",
+      "c": "C₆H₁₂O₆",
+      "d": "CH₂O"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mole ratio — C: 40.0/12 = 3.33; H: 6.7/1 = 6.7; O: 53.3/16 = 3.33. Divide by smallest (3.33): C:H:O = 1:2:1. Empirical formula = CH₂O. Empirical formula mass = 12 + 2 + 16 = 30. n = 180 ÷ 30 = 6. Molecular formula = C₆H₁₂O₆.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1520,6 +1728,22 @@
     "examyear": "2020"
   },
   {
+    "id": 596,
+    "question": "The enzyme that converts glucose to ethyl alcohol is?",
+    "option": {
+      "a": "Maltase",
+      "b": "Zymase",
+      "c": "Diatase",
+      "d": "Invertase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Zymase is the enzyme complex found in yeast that converts glucose directly into ethanol (ethyl alcohol) and carbon dioxide during fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Maltase converts maltose to glucose, invertase converts sucrose to glucose and fructose, and diastase converts starch to maltose.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 599,
     "question": "What is the chemical name for the compound CuCO₃?",
     "option": {
@@ -1532,6 +1756,22 @@
     "image": "",
     "answer": "b",
     "solution": "In CuCO₃, the carbonate ion CO₃²⁻ has a charge of 2−. For the compound to be electrically neutral, copper must have a charge of 2+. A copper ion with a 2+ charge is designated copper(II). The correct chemical name is therefore copper(II) carbonate.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 600,
+    "question": "A breath test used by traffic police to check drunken driving uses?",
+    "option": {
+      "a": "Tumeric on filter paper",
+      "b": "Silica gel coated with saliva nitrate",
+      "c": "Potassium permanganate-sulphuric acid",
+      "d": "Potassium dichromate-sulphuric acid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The breathalyser test for alcohol uses acidified potassium dichromate (K₂Cr₂O₇ in H₂SO₄). Ethanol in the breath reduces the orange dichromate ions (Cr₂O₇²⁻) to green chromium(III) ions (Cr³⁺). The colour change from orange to green confirms the presence of alcohol and indicates intoxication.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -1712,6 +1952,38 @@
     "examyear": "2022"
   },
   {
+    "id": 667,
+    "question": "Wrought iron is obtained by heating cast iron in a furnace with?",
+    "option": {
+      "a": "magnetite",
+      "b": "haematite",
+      "c": "carbon(ii)oxide",
+      "d": "calcium trioxosilicate(iv)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Wrought iron is produced by heating cast iron (pig iron) with haematite (Fe₂O₃) in a puddling furnace. The haematite oxidises the excess carbon and impurities in cast iron: Fe₂O₃ + 3C → 2Fe + 3CO. This removes most of the carbon content, producing wrought iron which is purer, more malleable, and more ductile than cast iron.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 668,
+    "question": "In the extraction of iron, hot air is introduced into the blast furnace through?",
+    "option": {
+      "a": "valves",
+      "b": "open-hearths",
+      "c": "arcs",
+      "d": "tuyeres"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Tuyeres are nozzles or openings located near the base of the blast furnace through which preheated air (blast) is blown at high pressure. The hot air reacts with coke at the base to produce carbon dioxide, which then reacts further with coke to form carbon monoxide, the main reducing agent in iron extraction.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 676,
     "question": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium?",
     "option": {
@@ -1788,6 +2060,22 @@
     "image": "",
     "answer": "a",
     "solution": "In the electrolysis of concentrated aqueous NaCl: at the cathode, H⁺ ions from water are preferentially discharged over Na⁺ ions, producing hydrogen gas (2H⁺ + 2e⁻ → H₂). At the anode, Cl⁻ ions are preferentially discharged over OH⁻ ions (in concentrated solution), producing chlorine gas (2Cl⁻ → Cl₂ + 2e⁻). The remaining solution becomes sodium hydroxide.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 699,
+    "question": "When an acidic solution is diluted, what happens to its pH?",
+    "option": {
+      "a": "It depends on the specific acid",
+      "b": "It decreases",
+      "c": "It remains the same",
+      "d": "It increases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Diluting an acidic solution adds more water, which decreases the concentration of H⁺ ions. Since pH = −log[H⁺], a decrease in H⁺ concentration causes the pH to increase (move closer to 7). The solution becomes less acidic but remains acidic — the pH rises toward 7 but does not exceed it on dilution alone.",
     "examtype": "utme",
     "examyear": "2023"
   },
