@@ -1,5 +1,21 @@
 [
   {
+    "id": 7,
+    "question": "Politics is an act for ",
+    "option": {
+      "a": "man to govern himself ",
+      "b": "man to create governments ",
+      "c": "states to control its destiny ",
+      "d": "man to dominant others"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 8,
     "question": "A major issue that distinguishes pressure groups from political parties is ",
     "option": {
@@ -160,6 +176,22 @@
     "examyear": "2008"
   },
   {
+    "id": 71,
+    "question": "Laws made by local governments are called ",
+    "option": {
+      "a": "Acts of Parliament ",
+      "b": "Local Government Acts ",
+      "c": "Bye-laws ",
+      "d": "Local Government Decrees"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 80,
     "question": "Which of these constitutions recognized local government is the third tier of government? ",
     "option": {
@@ -187,6 +219,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 88,
+    "question": "Bicameral legislature exists ",
+    "option": {
+      "a": "where two cameras are used to monitor court proceedings ",
+      "b": "To prevent the concentration of power on legislative house ",
+      "c": "To provide jobs for more politicians ",
+      "d": "to ensure that just laws are passed."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -288,6 +336,22 @@
     "examyear": "2012"
   },
   {
+    "id": 177,
+    "question": "Manipulation of electoral boundaries for electoral purposes is known as  ",
+    "option": {
+      "a": "delimitation   ",
+      "b": "gerrymandering",
+      "c": "devolution   ",
+      "d": "deconcentration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 182,
     "question": "Which of these is not an instrument of foreign policy",
     "option": {
@@ -379,6 +443,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 232,
+    "question": "Delegated legislation has the advantage of",
+    "option": {
+      "a": "enlightening the public about law making procedure",
+      "b": "saving parliamentary time",
+      "c": "reducing the expenses of the legislature",
+      "d": "preventing the executive from becoming too powerful."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -1136,6 +1216,22 @@
     "examyear": "2014"
   },
   {
+    "id": 572,
+    "question": "Which of the following is not a dimension of public opinion?",
+    "option": {
+      "a": "Polling",
+      "b": "Orientation",
+      "c": "intensity",
+      "d": "Substance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 583,
     "question": "The President of Nigeria was indirectly elected through secret ballot for a period of five years by the senate in",
     "option": {
@@ -1367,6 +1463,22 @@
       "b": "payment of taxes",
       "c": "voting during elections",
       "d": "freedom of conscience and religion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 680,
+    "question": "The predominant influence of Northern Nigeria in the First Republic violated the federal principle of",
+    "option": {
+      "a": "effective co-operation among the constituent units",
+      "b": "geographical contiguity",
+      "c": "unity",
+      "d": "absence of marked inequalities among the component units"
     },
     "section": "",
     "image": "",
@@ -2096,6 +2208,22 @@
     "examyear": "2022"
   },
   {
+    "id": 993,
+    "question": "Which one of these served as secretary general of the League of nations?",
+    "option": {
+      "a": "Joseph Avenol",
+      "b": "Trygve Lie",
+      "c": " Javier Perez de Cuellar",
+      "d": "Kurt Waldheims"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Joseph Avenol (1879--1952) was a French diplomat who served as the secretary-general of the League of Nations in the years leading up to World War II. He succeeded British diplomat, Eric Drummond.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1005,
     "question": "Which of the following is a limitation of pressure groups?",
     "option": {
@@ -2124,6 +2252,22 @@
     "image": "",
     "answer": "b",
     "solution": "Ethiopia is the African country that successfully resisted European imperialism and maintained its independence. Ethiopia was able to maintain its independence after defeating Italy at the Battle of Adwa in 1896.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1015,
+    "question": "Nigeria is a founding member of which regional organization?",
+    "option": {
+      "a": "ECOWAS",
+      "b": "Non-aligned Movement",
+      "c": "OPEC",
+      "d": "IMF"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Nigeria is a founding member of the Economic Community of West African States (ECOWAS). ECOWAS is a regional political and economic union of fifteen countries located in West Africa. It was established on May 28, 1975, and Nigeria is one of the founding members.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -2576,6 +2720,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1263,
+    "question": "The process of nationalism was accelerated by",
+    "option": {
+      "a": "the signing of the Atlantic Charter",
+      "b": " improvement in warfare tactics",
+      "c": "rapid economic development",
+      "d": "the coming of Christian missionaries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Atlantic Charter (signed in 1941 by Winston Churchill and Franklin D. Roosevelt) accelerated nationalism in colonized territories by explicitly endorsing the principle of self-determination. After World War II, nationalist leaders in Africa and Asia (e.g., Kwame Nkrumah, Jomo Kenyatta) cited the Charter to demand independence, arguing that colonial rule violated the Allies' proclaimed commitment to freedom and equality.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1264,
     "question": "Under the 1999 Constitution, the power to declare war is vested in the",
     "option": {
@@ -2912,6 +3072,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1415,
+    "question": "The AU's right to intervene in a member country in crisis portrays it as",
+    "option": {
+      "a": "an international organization",
+      "b": "a regional organization",
+      "c": "a supranational organization",
+      "d": "a continental organization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The AU's right to intervene in a member country in crisis portrays it as an international organization.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1428,
     "question": "A political entity that possesses independence is a",
     "option": {
@@ -3036,6 +3212,22 @@
     "image": "",
     "answer": "c",
     "solution": "When the executive branch vetoes a bill passed by the legislature, it exemplifies the principle of checks and balances. This system ensures that no single branch of government becomes too powerful by granting each branch specific powers to limit the actions of the others. In this case, the executive's veto power serves as a check on the legislative branch, preventing the enactment of legislation without executive approval. Conversely, the legislative branch can override a presidential veto with a two-thirds majority in both houses, maintaining a balance of power between the branches",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1472,
+    "question": "In the Oyo traditional political system, the Alafin of Oyo was elected or chosen by a group known as",
+    "option": {
+      "a": "Oyo Mesi",
+      "b": "Bales",
+      "c": "Obas",
+      "d": "Ogboni"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In the Oyo Empire’s traditional political system, the Oyo Mesi (a council of seven high-ranking chiefs) held the authority to elect or depose the Alafin. This council ensured checks and balances by selecting a new Alafin from the royal lineage and overseeing his governance.",
     "examtype": "utme",
     "examyear": "2015"
   },
