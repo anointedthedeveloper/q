@@ -16640,6 +16640,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1142,
+    "question": "The interior angle of a regular polygon is five times the size of its exterior angle. Identify the polygon.",
+    "option": {
+      "a": " dodecagon",
+      "b": "enneadecagon",
+      "c": " icosagon",
+      "d": "hendecagon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An interior angle of a regular polygon = ((2n−4)×90)/n\n\n\nAn exterior angle of a regular polygon = 360/n\n\n\n((2n−4)×90)/n = 5 ×  360/n (Given)\n= (2n-4) x 90 = 5 x 360\n= 180n - 360 = 1800\n= 180n = 1800 + 360\n= 180n = 2160\n= n = 2160/180 = 12\nThe polygon has 12 sides which is dodecagon",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1143,
     "question": "The area A of a circle is increasing at a constant rate of 1.5 cm <sup>2</sup>s<sup>−1</sup>\n. Find, to 3 significant figures, the rate at which the radius r of the circle is increasing when the area of the circle is 2 cm<sup>2</sup>\n.",
     "option": {
