@@ -13264,6 +13264,22 @@
     "examyear": "2017"
   },
   {
+    "id": 902,
+    "question": "Find ∫(x<sup>2</sup>  + 3x − 5)dx",
+    "option": {
+      "a": "x3/3  - 3x2/2 - 5x + k",
+      "b": "x3/3 - 3x2/2\n + 5x + k",
+      "c": "x3/3  + 3x2/2 - 5x + k",
+      "d": "x3/3  + 3x2/2\n + 5x + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫x<sup>n</sup>dx = x<sub>n+1</sub>/n+1\n\n\n∫dx = x + k\n\nwhere k is constant\n\n∫(x<sup>2</sup>  + 3x − 5)dx\n\n∫x<sup>2</sup>  dx + ∫3xdx − ∫5dx\n\n(2<sub>2</sub> + 1)/(2 + 1)\n + 3x<sup>1+1</sup>/(1+1)\n − 5x + k\n\nx<sub>3</sub>/3 + 3x<sub>2</sub>/2 − 5x + k",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 903,
     "question": "In the diagram above MN is a chord of a circle KMN centre O and radius 10cm. If < MON = 140°, find, to the nearest cm, the length of the chord MN.",
     "option": {
