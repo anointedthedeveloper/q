@@ -208,6 +208,22 @@
     "examyear": "2012"
   },
   {
+    "id": 45,
+    "question": "A complete set of financial statements for Hartman Company, at December 31, 1999, would include each of the following except:",
+    "option": {
+      "a": "Balance sheet as of December 31,1999 ",
+      "b": "Income   statement   for   the   year   ended December 31, 1999.",
+      "c": "Statement of projected cash flows for 2000  ",
+      "d": "Notes containing additional information that is useful interpreting the financial statements."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 53,
     "question": "A debit may signify: ",
     "option": {
@@ -315,6 +331,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 74,
+    "question": "The    main    objective   of   the   financial statements is to ",
+    "option": {
+      "a": "provide a true and fair- view of the financial position of the business ",
+      "b": "help managers take correct decisions ",
+      "c": "show every transaction affects two items in the  balance sheet ",
+      "d": "help owners of a business to plan for the future."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -1232,6 +1264,22 @@
     "examyear": "1997"
   },
   {
+    "id": 204,
+    "question": "Which of the following best describes the path of a transaction?",
+    "option": {
+      "a": "Source documents to Journal to Ledger",
+      "b": "Source documents to Ledger to Journal",
+      "c": "Journal to Ledger to source documents",
+      "d": "Journal to source documents to Ledger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 207,
     "question": "Which of the following is a factory overhead?",
     "option": {
@@ -1339,6 +1387,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 222,
+    "question": "Which of the following is not a revenue account?",
+    "option": {
+      "a": "Sales",
+      "b": "Purchases",
+      "c": "Discount received",
+      "d": "Interest received"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -1616,6 +1680,22 @@
     "examyear": "2012"
   },
   {
+    "id": 270,
+    "question": "Osa started business with Le40,000 cash. The accounting entry is debit",
+    "option": {
+      "a": "Cash Account; credit Capital Account.",
+      "b": "Capital Account; credit Cash Account.",
+      "c": "Purchases Account; credit Cash Account.",
+      "d": "Expenses Account; credit Capital Account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 275,
     "question": "Which of the following is component of prime cost?",
     "option": {
@@ -1815,6 +1895,38 @@
       "b": "Appointment of directors",
       "c": "Object of the business",
       "d": "Payment of dividend"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 297,
+    "question": "Administrative, selling and distribution expenses in a \tmanufacturing firm are recorded in",
+    "option": {
+      "a": "Trading Account.",
+      "b": "Manufacturing Account.",
+      "c": "Profit and Loss Account.",
+      "d": "Balance Sheet."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 298,
+    "question": "Which of the following is not a revenue to a local government?",
+    "option": {
+      "a": "Fines",
+      "b": "Licenses",
+      "c": "Personal income tax",
+      "d": "Tenement rates"
     },
     "section": "",
     "image": "",
@@ -3088,6 +3200,22 @@
     "examyear": "2015"
   },
   {
+    "id": 541,
+    "question": "The following account are prepared when goods are sent to branch except",
+    "option": {
+      "a": "Branch stock",
+      "b": "Goods set to branch account",
+      "c": "Branch adjustment account",
+      "d": "Branch debtors account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Branch debtors account is used to exercise control over branch debtors. It is maintained when the branch is allowed to sell goods on credit. This account records transactions with the branch debtors and is prepared like sundry debtors account",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 542,
     "question": "The basis of accounting for public sector is",
     "option": {
@@ -3100,6 +3228,22 @@
     "image": "",
     "answer": "d",
     "solution": "This is the basis for recording in government accounting where revenue are recorded when cash is received.\n ",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 543,
+    "question": "If the partnership agreement does not specify how net profit is to be divided, the profit should be divided",
+    "option": {
+      "a": "equally",
+      "b": "n accordance with an established",
+      "c": "in proportion of current account balances",
+      "d": "in proportion of weighted average of capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "profit or loss are expected to be share equally in the absence of any agreement",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3276,6 +3420,22 @@
     "image": "",
     "answer": "c",
     "solution": "Debit note is usually issued by the purchaser andcredit note is usually issued by the seller. But debit note can be issued by the seller when the buyer erroneously records more and credit note can also be issued by the buyer when the seller undercharges the buyer.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 580,
+    "question": "An organization which has records of only personal accounts is said to be operating on the basis of",
+    "option": {
+      "a": "single entry",
+      "b": "real accounts",
+      "c": "nominal accounts",
+      "d": "double entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A single entry system records a transaction with a single entry and only maintains one side of every transaction.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3980,6 +4140,22 @@
     "image": "",
     "answer": "a",
     "solution": "Interest on Tea’s drawings is calculated as the sum of each drawing × 10% × (months outstanding ÷ 12):\n\n₦3 000 on 31 Jan: 3 000 × 10% × (11/12) = ₦275.00\n\n₦2 000 on 31 Mar: 2 000 × 10% × (9/12) = ₦150.00\n\n₦4 000 on 1 Jul: 4 000 × 10% × (6/12) = ₦200.00\n\n₦1 500 on 30 Sep: 1 500 × 10% × (3/12) = ₦37.50\n\n₦2 500 on 1 Nov: 2 500 × 10% × (2/12) = ₦41.67\n\nTotal interest = ₦275 + ₦150 + ₦200 + ₦37.50 + ₦41.67 = ₦704.17  ≈ ₦705..",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 699,
+    "question": "In the absence of a partnership deed, the act stipulates that____________",
+    "option": {
+      "a": "An amount should be fixed as salaries for partners",
+      "b": "Profits and losses should not be shared equally",
+      "c": "Interest on partner’s loan should be 25%",
+      "d": "Interest should not be allowed on partners drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Under the Partnership Act, the following rules will be applied in the absence of an agreement among partners:\n\n  i. Profit or losses of the firm will be shared equally by the partners\n\n  ii. Interest on capital will not be allowed to any partner.\n\n  iii. No interest will be charged on drawings\n\n  iv. Interest on loan will be 6% on the loan\n\n  v. No salary or remuneration will be allowed to any of the partners\n\n  vi. Every partner must take part in the management of the partnership business\n\n  vii. The partnership books are kept at the place of business of the partnership and every partner may have access to and inspect and copy any of them.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5168,6 +5344,22 @@
     "examyear": "2023"
   },
   {
+    "id": 898,
+    "question": "When goods are received from head office, head office will be credited while",
+    "option": {
+      "a": "sales will be debited",
+      "b": "requisition will be debited",
+      "c": " issue will be debited",
+      "d": "purchases will be debited"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Goods received from head office\nAccounting entries:\nDr: Purchase account\nCr: Head office current account",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 899,
     "question": "Changes in the profit sharing ratio may occur as a result of\n\nI. skill contributed by partners\nII. health status\nIII. old age\nIV. Intangible asset increase",
     "option": {
@@ -5328,6 +5520,22 @@
     "examyear": "2024"
   },
   {
+    "id": 931,
+    "question": "An amount paid in cash to John is Dr to John and Cr to",
+    "option": {
+      "a": "bank",
+      "b": "debtors",
+      "c": "cash",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When an amount is paid in cash to John, the journal entry is:\n\nDebit: John's account (the person receiving the payment)\nCredit: Cash account (since cash is going out)\n\nSince cash is being paid out, the Cash account must be credited to show the reduction in cash.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 932,
     "question": "A commission of ₦5000 to a sales manager was debited to debtors account. This is an error of",
     "option": {
@@ -5388,6 +5596,22 @@
     "image": "",
     "answer": "b",
     "solution": "This refers to a single journal entry that records a transaction affecting two accounts with opposite balances. In control accounts, a \"set off\" achieves this by using a contra entry to reconcile the balances between a control account and its corresponding subsidiary ledger (e.g., sales ledger control account vs. individual customer accounts).",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 938,
+    "question": "Rent accrued at the end of an accounting period is a",
+    "option": {
+      "a": "current asset",
+      "b": "fixed asset",
+      "c": "current liability",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Rent accrued at the end of an accounting period represents rent expense that has been incurred but not yet paid. This creates an obligation for the business to pay this amount in the near future.\nSince it's an amount owed by the business that will typically be settled within one year (or the normal operating cycle), it is classified as a current liability.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -5888,6 +6112,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1022,
+    "question": "Yahya,s bank account shows a credit balance of ₦1500,000. He paid ₦1700,000 into the bank.\nWhat is his expected balance?",
+    "option": {
+      "a": "Credit balance of ₦ 200,000",
+      "b": "Debit balance of ₦ 200,000",
+      "c": "credit balance of ₦ 3 200,000",
+      "d": "Debit balance of ₦3 200,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Opening balance = Credit ₦1,500,000 (means the bank owes Yahya this amount — positive balance)\n\nHe paid in (deposited) = ₦1,700,000\n\nExpected balance = ₦1,500,000 + ₦1,700,000 = ₦3,200,000 (still a credit balance)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1025,
     "question": "In a three-column cash book,the discount allowed is shown on the?",
     "option": {
@@ -6144,6 +6384,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1061,
+    "question": "Determine the closing stock under LOFO method",
+    "option": {
+      "a": "₦575",
+      "b": "₦500",
+      "c": "₦375",
+      "d": "₦275"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661640/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q46_epm0o4.jpg",
+    "answer": "a",
+    "solution": "Using LIFO (Last-In, First-Out) Method:\nMarch Issue (80 units):\nIssue from most recent stock (Feb receipt):\n\n80 units from Feb @ ₦2.50\nRemaining after March: Feb = 110 - 80 = 30 units @ ₦2.50\n\nStock after March:\n\nJan: 100 units @ ₦2.00\nFeb: 30 units @ ₦2.50\n\nApril Receipt:\n\nReceived 200 units @ ₦3.00\n\nStock after April:\n\nJan: 100 units @ ₦2.00\nFeb: 30 units @ ₦2.50\nApril: 200 units @ ₦3.00\n\nMay Issue (100 units):\nIssue from most recent stock (April receipt):\n\n100 units from April @ ₦3.00\n\nClosing Stock:\n\nJan: 100 units @ ₦2.00 = ₦200\nFeb: 30 units @ ₦2.50 = ₦75\nApril: 200 - 100 = 100 units @ ₦3.00 = ₦300\n\nTotal Closing Stock Value = ₦200 + ₦75 + ₦300 = ₦575",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1062,
     "question": "Calculate the closing stock under FIFO method",
     "option": {
@@ -6380,6 +6636,22 @@
     "image": "",
     "answer": "c",
     "solution": "Explanation: Debentures can be redeemed out of the proceeds of a fresh issue of shares (and alternatively from profits/reserves available for distribution). They cannot be redeemed out of withholding tax, and \"existing share capital reserve\" as worded is not a correct source.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1111,
+    "question": "Share premium is an example of?",
+    "option": {
+      "a": "revenue reserve",
+      "b": "capital reserve",
+      "c": "general reserve",
+      "d": "loan capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation: Share premium arises from issuing shares above their nominal value and is treated as a capital reserve, not available for distribution as dividend like revenue/general reserves.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -6800,6 +7072,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1189,
+    "question": "<b>Use the information below to answer questions 24 and 25.</b>\n\n<b>Subscriptions received are always put at 125% of the total donations received and refreshment sales.</b>\n\nCompute the subscriptions received.",
+    "option": {
+      "a": "₦30000",
+      "b": "₦28000",
+      "c": "₦24000",
+      "d": "₦20000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665455/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q24-Q25_r3qjao.jpg",
+    "answer": "d",
+    "solution": "Subscriptions = 125% × (Donations + Refreshment sales)\n= 1.25 × (₦6,000 + ₦10,000) = 1.25 × ₦16,000 = ₦20,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1190,
     "question": "<b>Use the information below to answer questions 26 and 27</b>\n\nTotal Sales: ₦10,000 (Dept P: ₦6,000, Dept Q: ₦4,000)\nTotal Purchases: ₦4,000 (Dept P: ₦1,000, Dept Q: ₦3,000)\nTotal Discount received: ₦1,000\nTotal Discounts allowed: ₦2,000\n\n<b>Discount(allowed and received) are apportioned to the two departments on the basis of departmental sales and purchases.</b>\n\nDepartment P’s share of discount received is?",
     "option": {
@@ -6908,6 +7196,22 @@
     "image": "",
     "answer": "b",
     "solution": "Increase in trade creditors = ₦45,000 − ₦35,000\n45,000 − 35,000 = 10,000\n\nPurchases = Cash purchases + Increase in creditors (i.e. net credit purchases)\n= ₦25,000 + ₦10,000\n= ₦35,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1200,
+    "question": "Which method of pricing can be used satisfactorily in either a rising or falling price situation?",
+    "option": {
+      "a": "Standard price",
+      "b": " Marketing price",
+      "c": "FIFO",
+      "d": "Average method"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: the average (weighted average) pricing method smooths out price fluctuations and gives consistent, reasonable inventory and cost figures whether prices are rising or falling.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -7100,6 +7404,22 @@
     "image": "",
     "answer": "d",
     "solution": "Opening Balance + Cash Received - Cash Paid = Closing Balance\nRearranging to find Cash Paid:\nCash Paid = Opening Balance + Cash Received - Closing Balance\nSubstituting the values:\nCash Paid = ₦15,200 + ₦36,000 - ₦18,400\nCash Paid = ₦51,200 - ₦18,400 = ₦32,800",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1225,
+    "question": "When a bill is negotiated to a bank, it is said be?",
+    "option": {
+      "a": "surrendered",
+      "b": "cashed",
+      "c": "discounted",
+      "d": "accepted"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When you discount a bill with a bank:\n\nYou receive cash immediately instead of waiting for the maturity date\nThe bank pays you less than the face value of the bill\nThe difference between the face value and the amount paid is called the \"discount\"\nThis discount compensates the bank for the risk and the time value of money\nThe bank then collects the full amount from the debtor on the maturity date",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -7488,6 +7808,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1299,
+    "question": "The Partnership Deed normally specifies?",
+    "option": {
+      "a": "how profit or losses are to be shared",
+      "b": " the capital to be contributed annually",
+      "c": " how salaries are paid to employees",
+      "d": "the profit that should be earned annually"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Partnership Deed typically sets out the partners’ profit-and-loss sharing ratio",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1300,
     "question": "The accumulation fund of a non-trading concern can equally be referred to as?",
     "option": {
@@ -7872,6 +8208,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1364,
+    "question": "Which of the following account is kept by local governments in Nigeria?",
+    "option": {
+      "a": "Balance sheet",
+      "b": " Advances account",
+      "c": "Debtors account",
+      "d": "Profit account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Local governments in Nigeria maintain Advances Accounts (for tracking loans and advances made to staff and other parties). They do not operate for profit (so no profit account), nor do they typically prepare a commercial-style debtors ledger. While they do prepare statements of assets and liabilities, it isn’t called a “Balance Sheet” in the corporate sense.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1365,
     "question": "The Act establishing the institute of Chartered Accountants of Nigeria (ICAN) came into force on?",
     "option": {
@@ -8204,6 +8556,22 @@
     "image": "",
     "answer": "d",
     "solution": "When goods are transferred to a department at the selling price, the department must separate the cost and the markup. The markup portion is removed from the stock valuation by debiting the Mark-up Account.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1414,
+    "question": "If a monthly insurance premium is remitted to a company by the state government, the initial deductions from employees are recorded in?",
+    "option": {
+      "a": "the general fund",
+      "b": "agency fund",
+      "c": "special fund",
+      "d": "general long-term fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a government entity (like the state) collects and remits insurance premiums on behalf of employees, it’s acting as an agent, not as the principal. These collections are recorded in an agency fund, which tracks resources held temporarily for others and ensures they’re remitted properly without affecting the government’s own operating results.",
     "examtype": "utme",
     "examyear": "199"
   },
