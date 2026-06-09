@@ -64,6 +64,22 @@
     "examyear": "2012"
   },
   {
+    "id": 5,
+    "question": "Suratul-Kawthar was revealed following the _____ of the Mecca  ",
+    "option": {
+      "a": "uproar  ",
+      "b": "insinuation  ",
+      "c": "intolerance  ",
+      "d": "resistance  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2012"
+  },
+  {
     "id": 6,
     "question": "Zakat is paid on the following except____  ",
     "option": {
@@ -91,6 +107,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2012"
+  },
+  {
+    "id": 8,
+    "question": "One importance of wearing the Ihram during Hajj is_____  ",
+    "option": {
+      "a": "it directs the mind of all Muslims towards Allah  ",
+      "b": "it purifies the Muslims  ",
+      "c": "it makes all Muslims equal  ",
+      "d": "it distinguishes pilgrims by country of origin  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2012"
+  },
+  {
+    "id": 9,
+    "question": "The reason for the declaration of Jihad against the Islamic state of Borno by Muhammad Bello wasbecause of the people",
+    "option": {
+      "a": "rebellion  ",
+      "b": "extremism ",
+      "c": "syncretism  ",
+      "d": "fundamentalism "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme-aaua",
     "examyear": "2012"
