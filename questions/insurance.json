@@ -192,6 +192,22 @@
     "examyear": "2014"
   },
   {
+    "id": 38,
+    "question": "Effective supervision and licensing of insurance firms in Nigeria is the function of",
+    "option": {
+      "a": "National Insurance Commission",
+      "b": "Institute of Loss Adjusters of Nigeria",
+      "c": "Chartered Insurance Institute of Nigeria",
+      "d": "Nigerian Corporation of Registered Insurance Brokers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 39,
     "question": "The payment made when the insured is  not  entitled to claim under a policy is",
     "option": {
@@ -231,6 +247,22 @@
       "b": "N= 771.00",
       "c": "N= 514.00",
       "d": "N= 180.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 45,
+    "question": "The consideration paid for insurance contract is",
+    "option": {
+      "a": "money",
+      "b": "commission",
+      "c": "premium",
+      "d": "fee"
     },
     "section": "",
     "image": "",
@@ -336,6 +368,54 @@
     "examyear": "1"
   },
   {
+    "id": 74,
+    "question": "Risk of loss resulting from change in culture and taste is called",
+    "option": {
+      "a": "static risk",
+      "b": "pure risk",
+      "c": "dynamic risk",
+      "d": "speculative risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 77,
+    "question": "The following are non-insurable except",
+    "option": {
+      "a": "Lose of profit as a result of change in fashion",
+      "b": "Speculation",
+      "c": "Lose of profit as a result of maladministration",
+      "d": "Fire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 80,
+    "question": "Hazard that relates to the subject matter of insurance is called",
+    "option": {
+      "a": "moral",
+      "b": "physical",
+      "c": "peril",
+      "d": "Good peril"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 81,
     "question": "The following are examples of bad moral hazard except",
     "option": {
@@ -411,6 +491,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 87,
+    "question": "The principle of insurance which states that the insure should be truthful and disclose all material fact is",
+    "option": {
+      "a": "subrogation",
+      "b": "utmost good faith",
+      "c": "indemnity",
+      "d": "insurable interest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "1"
@@ -592,6 +688,22 @@
     "examyear": "2"
   },
   {
+    "id": 124,
+    "question": "Cover note usually run for about",
+    "option": {
+      "a": "One month",
+      "b": "Two days",
+      "c": "5 years",
+      "d": "3 days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 125,
     "question": "A card used by motorist in the West African sub-region is called",
     "option": {
@@ -672,6 +784,22 @@
     "examyear": "2"
   },
   {
+    "id": 134,
+    "question": "A house worth N=60,000 insured against fire for N=40,000.  Fire destroyed and cause damage worth N=30,000. On the house under which insurance principle will the owner be entitled to compensation of N=30,000.",
+    "option": {
+      "a": "Contribution",
+      "b": "Subrogation",
+      "c": "indemnity",
+      "d": "Uberrimae fidei"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 137,
     "question": "The sum paid for transporting the goods or for the hire of a ship is called",
     "option": {
@@ -715,6 +843,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 145,
+    "question": "Factor that causes an exposure to injury, loss or damage is",
+    "option": {
+      "a": "Risk",
+      "b": "Hazard",
+      "c": "Peril",
+      "d": "Accident"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -875,6 +1019,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 169,
+    "question": "A customer that suffers loss or sustain injury while using a business outfit that belongs to another perosn, can sue the property owner under -------------- insurance",
+    "option": {
+      "a": "Professional indemnity",
+      "b": "Public liability",
+      "c": "Employers’ liability",
+      "d": "Personal accident"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 170,
+    "question": "The type of questionnaire drawn up by   insurers, requesting certain information to assess risk is --------- form",
+    "option": {
+      "a": "Acceptance",
+      "b": "Compensation",
+      "c": "Credit",
+      "d": "Proposal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -1067,6 +1243,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 200,
+    "question": "Another name for an insured in a life insurance contract is",
+    "option": {
+      "a": "Insurer",
+      "b": "Assured",
+      "c": "Assurer",
+      "d": "Agent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -1344,6 +1536,22 @@
     "examyear": "5"
   },
   {
+    "id": 255,
+    "question": "Re-insurance means",
+    "option": {
+      "a": "accumulation of risk",
+      "b": "multiplication of risk",
+      "c": "transfer of risk",
+      "d": "adding of risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 257,
     "question": "One of the following is legally used by the insured while the policy is being processed",
     "option": {
@@ -1419,6 +1627,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 267,
+    "question": "One of this is the consideration paid for insurance contract",
+    "option": {
+      "a": "fee",
+      "b": "cheque",
+      "c": "commission",
+      "d": "premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
@@ -1504,6 +1728,22 @@
     "examyear": "5"
   },
   {
+    "id": 289,
+    "question": "The division of total loss are",
+    "option": {
+      "a": "average loss and partial loss",
+      "b": "partial loss and full loss",
+      "c": "total loss and actual loss",
+      "d": "actual total loss and constructive total loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 290,
     "question": "Marine insurance policy which covers all the ship or vessels belonging to one owner is",
     "option": {
@@ -1531,6 +1771,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 298,
+    "question": "The cause of a loss is",
+    "option": {
+      "a": "peril",
+      "b": "hazard",
+      "c": "risk",
+      "d": "loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
@@ -1680,6 +1936,22 @@
     "examyear": "2015"
   },
   {
+    "id": 314,
+    "question": "In which of the following policies is <em>certificate of insurance</em>  used?",
+    "option": {
+      "a": "Burglary insurance",
+      "b": "Product liability insurance",
+      "c": "Employer’s liability insurance",
+      "d": "Money insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 317,
     "question": "A clause in an insurance policy that makes a claim jointly payable to the policyholder and the third party is",
     "option": {
@@ -1703,6 +1975,22 @@
       "b": "Sum insured",
       "c": "Franchise",
       "d": "Excess"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 327,
+    "question": "Which of the following is not a function of an insurance underwriter?",
+    "option": {
+      "a": "Determining rates and coverage for the risk",
+      "b": "Deciding whether to take the risk",
+      "c": "Looking for an insurer to take the risk",
+      "d": "Deciding whether to reject the risk"
     },
     "section": "",
     "image": "",
@@ -1739,6 +2027,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 332,
+    "question": "One of the benefits payable under personal accident insurance policy is",
+    "option": {
+      "a": "retirement benefit",
+      "b": "surrender benefit",
+      "c": "death benefit",
+      "d": "transfer benefit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 333,
+    "question": "A  trade  group for insurance  companies in  Nigeria is called",
+    "option": {
+      "a": "Chartered Insurance Institute of Nigeria",
+      "b": "National Insurance Commission",
+      "c": "Nigerian Corporation of Registered Insurance Brokers",
+      "d": "Nigerian Insurers Association"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -1863,6 +2183,22 @@
       "b": "determined by the indemnity doctrine",
       "c": "determined at the inception of the policy",
       "d": "assessed by the extent of the loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 346,
+    "question": "The saving element in a permanent life assurance policy which represent the policyholder’s interest in the policy is",
+    "option": {
+      "a": "surrender value",
+      "b": "cash value",
+      "c": "sum assured",
+      "d": "residual value"
     },
     "section": "",
     "image": "",
