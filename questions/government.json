@@ -368,6 +368,22 @@
     "examyear": "2007"
   },
   {
+    "id": 26,
+    "question": "The following countries are settler colonies except  ",
+    "option": {
+      "a": "Nigeria ",
+      "b": "south Africa ",
+      "c": "Angola ",
+      "d": "Mozambique."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 27,
     "question": "Nigeria gained independence from colonial rule on ",
     "option": {
@@ -2798,6 +2814,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
+  },
+  {
+    "id": 199,
+    "question": "Government as an institution of a state can best be defined as a body that",
+    "option": {
+      "a": "recruits and trains political leaders",
+      "b": "settles disputes and interprets laws for the state.",
+      "c": "Legislates, executes and interprets laws for the state.",
+      "d": "conducts elections for the state."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
   },
   {
     "id": 200,
@@ -16940,6 +16972,22 @@
     "image": "",
     "answer": "b",
     "solution": "The best form of government for a heterogeneous society is a federal system.\n\nIt should also be noted that heterogeneity, different languages, customs and levels of political economic and social developments among the tribes play a prominent role in forcing confederal system of government on the people.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1203,
+    "question": "Capitalism is a system of economic organization based on",
+    "option": {
+      "a": "a mixed economy that takes all ineterests into consideration",
+      "b": "individual ownership of the means of production",
+      "c": "very fair distribution of the means of production",
+      "d": "trading among people who own and control their items of trade"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Capitalism is a system of economic organization based on individual ownership of means of production.\n\nIt is an economic and political ideology which allows individual ownership and control of the means of production and to produce what they like. The guiding principle is profit maximization.",
     "examtype": "utme",
     "examyear": "2003"
   },
