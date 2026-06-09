@@ -1,0 +1,15 @@
+# credentials — never commit
+.env
+accounts.json
+
+# runtime junk
+*.corrupt
+*.tmp
+
+# python
+*.pyc
+__pycache__/
+
+# misc
+*.exe
+*.html
