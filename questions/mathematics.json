@@ -6512,6 +6512,22 @@
     "examyear": "2006"
   },
   {
+    "id": 422,
+    "question": "If 5, 8, 6 and 2 occur with frequencies 3, 2, 4 and 1 respectively. Find the product of the modal and the median number",
+    "option": {
+      "a": "36",
+      "b": "48",
+      "c": "30",
+      "d": "40"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715544785/ALOC-Questions/Mathematics/2007/JAMB_2007_Q1_SOLUTION_aujivz.jpg",
+    "answer": "a",
+    "solution": " Arrange in ascending order\n2, 5, 5, 6, 6, ,6, 6, 8, 8\nPosition of median = N/2 = 8/2 = 4th and 5th\nâˆ´Median = (6+6) / 2 = 12/2 = 6\nMode the item that repeat itself most = 6\nâˆ´Product of modal and median number = 6 x 6 = 36",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 423,
     "question": "In a basket, there are 6 grapes, 11 bananas and 13 oranges. If one fruit is chosen at random. What is the probability that the fruit is either a grape or a banana",
     "option": {
@@ -9868,6 +9884,22 @@
     "image": "",
     "answer": "d",
     "solution": "x α√y\n\n\nx = k√y\n\n\n81 = k√9\n\n\nk = 81/3\n\n\n= 27\n\ntherefore, x = 27√y\n\n\ny = 1(7/9) = 16/9\n\n\nx = 27 x √(16/9)\n\n\n= 27 x 4/3\n\n\ndividing 27 by 3\n\n= 9 x 4\n\n= 36",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 636,
+    "question": "T varies inversely as the cube of R. When R = 3, T = 2/81\n, find T when R = 2",
+    "option": {
+      "a": "1/18",
+      "b": "1/12",
+      "c": "1/24",
+      "d": "1/6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "T α1/R<sup>3</sup>\n\n\nT = k/R<sup>3</sup>\n\n\nk = T/R<sup>3</sup>\n\n= 2/81 x 3<sup>3</sup>\n\n= 2/81 x 27\n\ndividing 81 by 27\n\nk = 2/2\n\n\ntherefore, T = 2/3\n x 1/R<sup>3</sup>\n\n\nWhen R = 2\n\nT = 2/3 x 1/23 = 2/3 x 1/8\n\n\n= 1/12",
     "examtype": "utme",
     "examyear": "2011"
   },
