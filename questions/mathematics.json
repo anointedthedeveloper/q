@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 4,
+    "question": "In how many different ways can the letters of the word GEOLOGY be arranged in order? ",
+    "option": {
+      "a": "720",
+      "b": "1260",
+      "c": "2520",
+      "d": "5040"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 5,
     "question": "A cyclist rode for 30minutes at xhkm/hr. if the total distance covered is less than 60km, what is the range of values for x? ",
     "option": {
@@ -464,6 +480,38 @@
     "examyear": "2000"
   },
   {
+    "id": 116,
+    "question": "The cumulative frequency curve represents the ages of ages of students in a school. What age group do 70% of the students belongs?",
+    "option": {
+      "a": "17.5 - 20.5",
+      "b": "16.5 - 19.5",
+      "c": "15.5 - 19.5",
+      "d": "15.5 - 18.5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710692151/ALOC-Questions/Mathematics/2000/question-45_mtcmhm.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 120,
+    "question": "A ship sails a distance of 50km in the direction S50°E \nand then sails a distance of 50km in the direction \nN40°E. find the bearing of the ship from its original \nposition",
+    "option": {
+      "a": "S90°E",
+      "b": "N40°E",
+      "c": "S95°E",
+      "d": "N85°E"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 124,
     "question": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p<sup>2</sup> - q<sup>2</sup> /2pq)",
     "option": {
@@ -556,6 +604,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given: 4x<sup>2</sup> - 9y<sup>2</sup> + 20x + 25\nCollect like terms: 4x<sup>2</sup> + 20x + 25 - 9y<sup>2</sup> (2x + 5)(2x + 5) - 9y<sup>2</sup> \n(2x + 5)<sup>2</sup> - (3y)<sup>2</sup>                            (2x - 3y +5)(2x + 3y + 5)",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 136,
+    "question": "a sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone?",
+    "option": {
+      "a": "8cm",
+      "b": "6cm",
+      "c": "9cm",
+      "d": "7cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(r/L) = (θ/360°)\nGiven θ = 300, and L = 7.2cm,\n\n=> r = (300 x 7.2)/360\nr = 6cm",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -716,6 +780,22 @@
     "image": "",
     "answer": "b",
     "solution": "52.4 - 5.7 - 3.45 - 1.75\n\n= 52.4 - (5.7 + 3.45 + 1.75)\n\n= 52.4 - 10.90\n\n= 41.5",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 178,
+    "question": "If dy/dx = 2x - 3 and y = 3 when x = 0, find y in terms of x.",
+    "option": {
+      "a": " 2x<sup>2</sup> - 3x",
+      "b": " x<sup>2</sup> - 3x",
+      "c": " 2x<sup>2</sup> - 3x - 3",
+      "d": " 2x<sup>2</sup> - 3x + 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "dy/dx = 2x - 3\ny = ∫2x - 3 dx => y = xx<sup>2</sup> - 3x + c\n3 = (0)2 - 3(0) + c\n=> c = 3\n\nThus y = x2 - 3x + 3",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -944,6 +1024,22 @@
     "examyear": "2003"
   },
   {
+    "id": 235,
+    "question": "The graph of the function y = x<sup>2</sup> + 4 and a straight line PQ are drawn to solve the equation x<sup>2</sup>\n - 3x + 2 = 0. What is the equation of PQ?",
+    "option": {
+      "a": "y = 3x - 2",
+      "b": "y = 3x + 2",
+      "c": " y = 3x - 4",
+      "d": "y = 3x + 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x<sup>2</sup> + 4 = x<sup>2</sup>\n - 3x + 2\n3x + 2 = y",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 241,
     "question": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
     "option": {
@@ -956,6 +1052,38 @@
     "image": "",
     "answer": "d",
     "solution": "S<sub>n</sub> =252, a = −16 and l =72 S<sub>n</sub> =n/2 (−16 +72 ). 252 = n/2 (−16 + 72). N = 504/56. n=9",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 243,
+    "question": "The locus of a point P which moves on one side only of a straight line XY so that ∠XPY = 90° is",
+    "option": {
+      "a": "a circle",
+      "b": "a semicircle",
+      "c": "an arc of a circle through X, Y",
+      "d": " the perpendicular bisector of XY"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 244,
+    "question": "Find the slope of the curve y = 2x2\n + 5x - 3 at (1, 4).",
+    "option": {
+      "a": " 4",
+      "b": "6",
+      "c": "7",
+      "d": "9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = 2x2\n + 5x - 3\ndy/dx = 4x + 5\n= 4 + 5\n= 9",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -1072,6 +1200,22 @@
     "examyear": "2004"
   },
   {
+    "id": 284,
+    "question": "Find the derivatives of the function y = 2x2(2x - 1) at the point x = -1",
+    "option": {
+      "a": "18",
+      "b": "16",
+      "c": "-4",
+      "d": "-6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "y = 2x<sup>2</sup>(2x - 1)\ny = 4x<sup>3</sup> - 2x<sup>2</sup>\ndy/dx = 12x<sup>2</sup> - 4x\nat x = -1\ndy/dx = 12(-1)<sup>2</sup> - 4(-1)\n= 12 + 4\n= 16",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 291,
     "question": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group",
     "option": {
@@ -1148,6 +1292,22 @@
     "image": "",
     "answer": "c",
     "solution": "a=1/2 r=(1/6)/(1/2)=1/6×2/1=1/3 S_∞=a/(1-r) S_∞=(1/2)/(1-1/3)=(1/2)/(3/2)=1/2×3/2=3/4",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 304,
+    "question": "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec",
+    "option": {
+      "a": "96 cm",
+      "b": "324 cm",
+      "c": " 36 cm",
+      "d": "144 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "L∝T <sup>2</sup>\nL=kT <sup>2</sup>\nk=L/T <sup>2</sup>\nwhen T = 4, L = 64.\n\nk=64/4 <sup>2</sup>=4\nL=4T <sup>2</sup>\nwhen T = 9,\n\nL=4×9 <sup>2</sup>=324cm",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -1552,6 +1712,22 @@
     "examyear": "2006"
   },
   {
+    "id": 398,
+    "question": "PQ and RS are two parallel lines. If the coordinates of P, Q, R, S are (1,q), (3,2), (3,4), (5,2q) respectively, find the value of q",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "1",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gradient PQ,P(1,q) and Q(3,2=((2-q))/((3-1) )=((2-q))/2.\nGradient of RS∶ R(3,4)and S(5,2q)\n=((2q-4))/((5-3) )=((2q-4))/2=2(q-2)/2  = q-2 \n Since PQ and RS are parallel,\ntheir generation are equal ∴((2-q))/2=q-2. 2-q = 2(q-2)\n2-q = 2q-4\n2+4 = 2q+q\n6 = 3q\nq = 2 \n   \n\n \n    \n",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 399,
     "question": "In triangle XYZ, ∠XYZ = 15o, ∠XZY = 45o and lXYl = 7 cm. Find lYZl.",
     "option": {
@@ -1632,6 +1808,22 @@
     "examyear": "2007"
   },
   {
+    "id": 427,
+    "question": "The table above shows the number of pupils in each age group in a class. What is the probability that a pupil chosen at random is at least 11 years old?",
+    "option": {
+      "a": "27/40",
+      "b": "17/20",
+      "c": "3/30",
+      "d": "33/40"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715544932/ALOC-Questions/Mathematics/2007/JAMB_2007_Q6_e3isnq.jpg",
+    "answer": "b",
+    "solution": "P(At least 11 yrs) = P(11yrs) + P(12yrs)\n= 27/40 + 7/40\n= 34/40\n= 17/20",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 436,
     "question": "The graph above is represented by",
     "option": {
@@ -1680,6 +1872,22 @@
     "examyear": "2007"
   },
   {
+    "id": 444,
+    "question": "Find the sum to infinity of the series 2+3/2+9/8+27/32+......",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "8",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "a=2r=3/4 S=a/(1-r) S=2/(1-3/4)=2/(1/4) S=2/1×4/1=8",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 448,
     "question": "Find the value of x for which 2(3<sup>2x-1</sup>) = 162",
     "option": {
@@ -1708,6 +1916,22 @@
     "image": "",
     "answer": "d",
     "solution": "All the perfect squares < 40\nX = {1, 4, 9, 16, 25, 36}\nAll the odd numbers from 1 to 15\nY = {1, 3, 5, 7, 9, 11, 13, 15}\nX ∩ Y = {1, 9}",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 456,
+    "question": "If the lines 3y = 4x - 1 and qy = x + 3 are parallel to each other, the value of q is",
+    "option": {
+      "a": " -4/3",
+      "b": "-3/4",
+      "c": "4/3",
+      "d": "3/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "If the line 3y = 4x – 1 is parallel t[ line qy = x + 3\nImplies gradient of 3y = 4x – 1\nY = 4/3x - 1/3\n∴Gradient = 4/3\nGradient of line qy = x + 3\nY = 1/qx + 3/q\n∴ Gradient = 1/q\n4/3 = 1/q\n4q = 3\nQ = 3/4",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -1790,6 +2014,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 476,
+    "question": "calculate the simple interest on N7,500 for 8 years at 5% per annum.",
+    "option": {
+      "a": "N3,000",
+      "b": "N600",
+      "c": "N300",
+      "d": "N150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "I=(P×T×R)/100 = (7500 × 8 × 5)/100 = N3000",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 482,
+    "question": "A book seller sells Mathematics and English books. If 30 customers buy Mathematics books, 20 customers buy English books and 10 customers buy the two books. How many customers has he altogether?",
+    "option": {
+      "a": "30",
+      "b": "40",
+      "c": "50",
+      "d": "60"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545810/ALOC-Questions/Mathematics/2008/MATH_2008_Q11_SOLUTION_bkcegq.jpg",
+    "answer": "b",
+    "solution": "n(M) only = 30-10 = 20\n\nn(E) only = 20-10 = 10\n\nn(Mâˆ©E) = 10\n\nâˆ´MâˆªE = 20+10+10\n\n= 40",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 486,
@@ -2016,6 +2272,22 @@
     "examyear": "2009"
   },
   {
+    "id": 541,
+    "question": "If Q is, []  then |Q| is?",
+    "option": {
+      "a": " -50",
+      "b": " -22",
+      "c": "22",
+      "d": "50"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547056/ALOC-Questions/Mathematics/2009/MATH_2009_Q20_ctcnp3.jpg",
+    "answer": "c",
+    "solution": "|Q| = 9x4 - (-2x7)\n= 36 - 14\n= 22",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 542,
     "question": "If P = []  evaluate x if |P| = -10",
     "option": {
@@ -2140,6 +2412,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547460/ALOC-Questions/Mathematics/2009/JAMB_MATH_2009_Q48_t3m8fb.jpg",
     "answer": "b",
     "solution": " the 36th percentile i.e. 36% of the total frequency of 50.\n\n36/100 × 50 = 18\n\n= From the graph, 18 on the vertical axis corresponds to28 on the horizontal axis.\n\n∴ P<sub>36</sub> = 28%",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 570,
+    "question": "Subtract 16418<sub>9</sub> from 18630<sub>9</sub>.",
+    "option": {
+      "a": "1121<sub>9</sub>",
+      "b": "2112<sub>9</sub>",
+      "c": "2113<sub>9</sub>",
+      "d": "2211<sub>9</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "18630<sub>9</sub> - 16418<sub>9</sub> = 2211<sub>9</sub>",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -2428,6 +2716,38 @@
     "image": "",
     "answer": "d",
     "solution": "The first poster has 7 ways to be arranges, the second poster can be arranged in 6 ways and the third poster in 5 ways.\n\n= 7 x 6 x 5\n\n= 210 ways\n\nor 7/P<sub>3</sub>\n = 7!/(7−3)!\n = 7!/4!\n\n\n= 7×6×5×4!/4!\n\n\n= 210 ways",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 642,
+    "question": "If ∣∣∣2533x∣∣∣ = ∣∣∣4312x∣∣∣\n, find the value of x. ",
+    "option": {
+      "a": "-6",
+      "b": "6",
+      "c": "-12",
+      "d": "12"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>|</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mn>3</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mn>5</mn>\n        </mtd>\n        <mtd>\n          <mn>3</mn>\n          <mi>x</mi>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>|</mo>\n  </mrow>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129575/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q21_mrjaiw.jpg",
+    "answer": "a",
+    "solution": "(2 x 3x) - (5 x 3) = (4 x 2x) - (3 x 1)\n\n6x - 15 = 8x - 3\n\n6x - 8x = 15 - 3\n\n-2x = 12\n\nx = 12/−2\n\n\n= -6\n",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 653,
+    "question": "The derivatives of (2x + 1)(3x + 1) is",
+    "option": {
+      "a": " 12x + 1",
+      "b": "6x + 5",
+      "c": "6x + 1",
+      "d": "12x + 5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "2x + 1 d(3x+1)/dx\n + (3x + 1) d(2x+1)/dx\n\n\n2x + 1 (3) + (3x + 1) (2)\n\n6x + 3 + 6x + 2 = 12x + 5",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -2816,6 +3136,38 @@
     "examyear": "2013"
   },
   {
+    "id": 809,
+    "question": "A chord of a circle subtends an angle of 120° at the centre of a circle of diameter 4√3cm\n. Calculate the area of the major sector.",
+    "option": {
+      "a": "32πcm<sup>2</sup>",
+      "b": "4π cm<sup>2</sup>",
+      "c": "8π cm<sup>2</sup>",
+      "d": "16π cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Angle of major sector = 360° - 120° = 240°\n\nArea of major sector : θ/360 × πr<sup>2</sup>\nr = 4√3/2 = 2√3cm\nArea : 240/360× π × (2√3)<sup>2</sup>\n= 8πcm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 811,
+    "question": "If the midpoint of the line PQ is (2,3) and the point P is (-2, 1), find the coordinate of the point Q.",
+    "option": {
+      "a": " (8,6)",
+      "b": "(5,6)",
+      "c": "(0,4)",
+      "d": "(6,5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Midpoint of a line PQ where P has coordinates (x<sub>1</sub>, y<sub>1</sub>) and Q has coordinates (x<sub>2</sub>,y<sub>2</sub>) is given as \n\n(x1<sub>1</sub> + x<sub>2</sub>/2, y<sub>1</sub> + y<sub>2</sub>/2).\n\n∴ If Q has coordinates (r, s), then\n\n−2+r/2 = 2 and 1+s/2 = 3\n−2 + r = 4 ⟹ r = 6\n1 + s = 6 ⟹ s = 5\nQ = (6, 5)",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 813,
     "question": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = 1/12 Calculate the value of",
     "option": {
@@ -2846,6 +3198,22 @@
     "solution": "3(x + 2) > 6(x + 3)\n\n3x + 6 > 6x + 18\n\n3x - 6x > 18 - 6\n\n-3x > 12\n\nx < -4",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 819,
+    "question": "Integrate (2x<sup>3</sup>+2x)/x\n with respect to x",
+    "option": {
+      "a": "2x<sup>3</sup>/3 - 2x + k",
+      "b": "x<sup>3</sup> + 2x + k",
+      "c": "2x<sup>3</sup>/3 + 2x + k",
+      "d": " x<sup>3</sup> - 2x + k"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>&#x222B;<!-- ∫ --></mo>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "∫ (2x<sup>3</sup>+2x)/x\n = ∫2x<sup>3</sup>/x + 2x/x = ∫ (2x<sup>3</sup> + 2)dx\n\n(2x<sup>2</sup>+1)/(2+1) + 2x + k\n\n= 2x<sup>3</sup>/3+ 2x + k",
+    "examtype": "utme",
+    "examyear": "2016"
   },
   {
     "id": 825,
@@ -2972,6 +3340,22 @@
     "image": "",
     "answer": "d",
     "solution": "3x - 5y = 9 ------x2\n6x - 4y = 12 -----x1\n6x - 10y = 18\n-6x - 4y = 12\n____________\n6y/−6 = 6/6\n\n\ny = -1\nin eq (1) 3x - 5y = 9\n3x - 5(-1) = 9\n3x + 5 = 9\n3x = 4\nx = 4/3",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 859,
+    "question": "If Q is a factor of 18 and T is prime numbers between 2 and 18. What is Q∩T?",
+    "option": {
+      "a": "(2,3)",
+      "b": "(2,3,18)",
+      "c": "(2,3,9)",
+      "d": " (2,3,6)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Q = {1,2,3,6,9,18}, T ={2,3,5,7,11,13,17}\nQ∩T = {2,3}",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3184,6 +3568,22 @@
     "examyear": "2017"
   },
   {
+    "id": 914,
+    "question": "A card is picked at random from a pack of 52 well shuffled playing cards. Find the probability of NOT picking a red cards in the pack. If there are 13 red card in the pack",
+    "option": {
+      "a": "3/4",
+      "b": "2/3",
+      "c": "1/3",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "There are 52 cards in a pack of cards. The probability of NOT picking red card is the probability of picking other cards. Which is Prob(R1)=1−13/52 = 1 − 1/4 = 3/4",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 917,
     "question": "From the diagram above, find the value of x",
     "option": {
@@ -3260,6 +3660,22 @@
     "image": "",
     "answer": "a",
     "solution": "Since it depreciates by 10% At the end of first year, its value = 90% of 20000\n\n= 90/100\n x 20000 =18000\n\n  At the end of second year, its value = 90% of 18000\n\n  = 90/100\n x 18000 = ₦16,200",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 944,
+    "question": "Two sisters, Taiwo and Kehinde, own a store. The ratio of Taiwo's share to Kehinde's is 11:9. Later Kehinde sells \\(\\frac{2}{3}\\) of her share to Taiwo for N720.00. Find the value of the store",
+    "option": {
+      "a": "N1,080.00",
+      "b": "N2,400.00",
+      "c": "N3,000.00",
+      "d": "N3,600.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3920,6 +4336,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1104,
+    "question": "Simplify 1/(3−√2)\n in the form of p + q√2",
+    "option": {
+      "a": "7/(3 - 1/7√2)",
+      "b": "7/(3 + 1/7√2)",
+      "c": " 3/(7 - 1/7√2)",
+      "d": "3/(7 + √2/7)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Rationalization with conjugate 3+√2\n 1/3−√2\n→ 1∗[3+√2]/[3−√2][3+√2]\n=  3+√2/(9−3√2+3√2+√4)\n=  3+√2/9−2\n →  3+√2/7\n= 3/7\n +  √2/7",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1106,
     "question": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gift+B10s(g), savings(s) and some B28miscellaneous (m) as indicate in the table below:                 If the above information is represented on a pie chart. What angle represents his spending on food?",
     "option": {
@@ -4080,6 +4512,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1140,
+    "question": "Evaluate ∫<sup>1</sup> <sub>0</sub> 4x−6<sup>3</sup>√x<sup>2</sup>−dx",
+    "option": {
+      "a": "- 5/8",
+      "b": "-8/5",
+      "c": "8/5",
+      "d": "5/8"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mn>0</mn>\n    <mn>1</mn>\n  </msubsup>\n  <mn>4</mn>\n  <mi>x</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>6</mn>\n  <mroot>\n    <msup>\n      <mi>x</mi>\n      <mn>2</mn>\n    </msup>\n    <mn>3</mn>\n  </mroot>\n  <mi>d</mi>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "∫<sup>1</sup> <sub>0</sub> 4x − 6<sup>3</sup>√x<sup>2</sup>  dx\n=∫<sup>1</sup> <sub>0</sub> 4x − 6x<sup>(2/3)</sup>\n  dx\n=(2x<sup>2</sup>−(8x<sup>5/3</sup>)/5)<sup>1</sup> <sub>0</sub>\n\n=(2(1)<sup>2</sup>−(18(1)<sup>5/3<s/sup>)/5)−(2(0)<sup>2</sup> − (18(0)<sup>5/3</sup>)/5\n\n= - 8/5 - 0\n    - 8/5",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1152,
     "question": "Evaluate the following limit: lim <sub>(x→2)</sub> (x<sup>2</sup> + 4x − 12)/(x<sup>2</sup> − 2x)",
     "option": {
@@ -4124,6 +4572,22 @@
     "image": "",
     "answer": "b",
     "solution": "Let the third number = x\nThen the first number = 100% x + 35%x = 135x/100 = 1.35x (Note: 100% x=x)\n\nThe second number = 180% x = 180x/100 = 1.80x\n∴ The ratio of the first number to the second number = 1.35x:1.80x=3:4",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1177,
+    "question": "The angle of elevation and depression of the top and bottom of another building, measured from the top of a 24 m tall building, is 30° and 60°, respectively. Determine the second building's height.",
+    "option": {
+      "a": "24 m",
+      "b": "32√3m",
+      "c": "24√3",
+      "d": " 32 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The height of the second building H = h + 24\n\ntan θ = opp/adj\ntan 30° = h/x\n⟹3√3 = h/x\n⟹x = √3 = 3h\n⟹x = 3h/√3 ....(i)\n\ntan 60° = 24/x\n⟹√3 = 24x\n⟹x√3 = 24\n⟹x = 24/√3 ....(ii)\n\nEquate equation (i) and (ii)\n\n⟹3h/√3 = 24/√3\n⟹ 3h = 24\n\n⟹h = 24/3 = 8m\n\n∴The height of the second building = 8 + 24 = 32m",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4444,6 +4908,22 @@
     "image": "",
     "answer": "b",
     "solution": "Cost Price:\n\nSelling price = 100 : (100 + 15)\n\n= 100 : 115\n\nCost Price\n\n= 100 ÷ 115 of selling price (i.e N420,000)\n\n= 100 ÷ 115 × N420,000\n\n= N365,217.4\n\n∴ Cost Price = N365, 217",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1268,
+    "question": "If (159.75)10 = (x)6. Find x",
+    "option": {
+      "a": "x<sub>6</sub> = 123.34<sub>6</sub>",
+      "b": "x<sub>6</sub> = 424.5<sub>6</sub>",
+      "c": " x6<sub>6</sub> = 122.43<sub>6</sub>",
+      "d": "x<sub>6</sub> = 124.456<sub>6</sub>"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid none\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>159</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>26</mn>\n        <mtext>&#xA0;rem 3</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n        <mtext>&#xA0;rem 2</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mn>0</mn>\n        <mtext>&#xA0;rem 4</mtext>\n      </mtd>\n    </mtr>\n  </mtable>\n  <mo stretchy=\"false\">&#x2191;<!-- ↑ --></mo>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(159.75)10 = (y)6\n\n\n\n15910 = 4236\n\nThen Convert 0.75 to base 6\n\n0.75 x 6 =4.5 i.e 4.5 - 3.00 = 1.5\n0.5 x 6 = 3.00 423 + 1.5 =424.5\n\n159.75 = (424.5)6\n\n(159)10 = (424.5)6",
     "examtype": "utme",
     "examyear": "2015"
   },
