@@ -64,6 +64,54 @@
     "examyear": "2007"
   },
   {
+    "id": 35,
+    "question": "A cyclist rode for 30minutes at xkm/hr and due to a breakdown, he had to push the bike for 2hrs at (x – 5) km/hr. if the total distance covered is less than 60km, what is the range of values for x? ",
+    "option": {
+      "a": "x<14",
+      "b": "x<29",
+      "c": "x<28",
+      "d": "x<20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 37,
+    "question": "Dividing 2x3 – x2 – 5x + 1 by x  + 3 gives the remainder ",
+    "option": {
+      "a": ".-3",
+      "b": "47",
+      "c": "61",
+      "d": "-47"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 42,
+    "question": "If the distance covered by a body in time t seconds is s = t2 - 6t2  - 5t, what is its initial velocity?  ",
+    "option": {
+      "a": "0ms-1    ",
+      "b": "-4 ms-1 ",
+      "c": "(13t2  - 12t + 5) ms-1   ",
+      "d": "5ms-1 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 46,
     "question": "The fair coins are tossed simultaneously. What is the probability of obtaining at least 1 tail turns up? ",
     "option": {
@@ -128,6 +176,22 @@
     "examyear": "2009"
   },
   {
+    "id": 60,
+    "question": "Factorize 6x2 – 14x – 12 ",
+    "option": {
+      "a": "2(x + 3)(3x – 2) ",
+      "b": "6(x – 2)(x + 1) ",
+      "c": "2(x – 3)(3x + 2) ",
+      "d": "6(x + 2)(x – 1) "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 65,
     "question": "A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared? ",
     "option": {
@@ -142,6 +206,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 76,
+    "question": "Evaluate (2.813×10<sup>−3</sup>×1.063)/(5.637×10<sup>−2</sup>) reducing each number to two significant figures and leaving your answer in two significant figures.\u000b\n",
+    "option": {
+      "a": "0.056",
+      "b": "0.055",
+      "c": "0.054",
+      "d": "0.54"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>2.813</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <msup>\n        <mn>10</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>3</mn>\n        </mrow>\n      </msup>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1.063</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>5.637</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <msup>\n        <mn>10</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(2.813×10<sup>(−3)</sup>)×1.063)/(5.637×10<sup>(−2)</sup> ) = (0.002813×1.063)/0.05637 ≊(0.0028×1.1)/0.056=0.055\n\n\n\n",
+    "examtype": "utme",
+    "examyear": "2000"
   },
   {
     "id": 90,
@@ -558,6 +638,22 @@
     "solution": "∠PQR = 180 - 128 (∠s on a straight line)\n= 52°\n∠QPR + 76 + 52 = 180(extr ∠ = sum of intr. opp ∠s)\n∠QPR + 128 = 180\n∠QPR = 180 - 128\n= 52°\n∴ΔPQR is an isosceles triangle",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 241,
+    "question": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
+    "option": {
+      "a": "6",
+      "b": "7",
+      "c": "8",
+      "d": "9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "S<sub>n</sub> =252, a = −16 and l =72 S<sub>n</sub> =n/2 (−16 +72 ). 252 = n/2 (−16 + 72). N = 504/56. n=9",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 250,
@@ -1040,6 +1136,22 @@
     "examyear": "2008"
   },
   {
+    "id": 507,
+    "question": "On a pie chart there are six sectors of which four angles are 30°, 45°, 60°, 90° and the remaining two angles are in the ratio 2:1. Find the smallest angles of the remaining two angles.",
+    "option": {
+      "a": "15°",
+      "b": "30°",
+      "c": "45°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "30 + 45 + 60 + 90 + 2x + x = 360°\n225 + 3x = 360\n3x = 360 - 225\n3x = 135\nx = 45°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 525,
     "question": "A man bought a second-hand photocopying machine for N34,000. He serviced it at a cost of N2,000 and then sold it at a profit of 15%. What was the selling price?",
     "option": {
@@ -1296,6 +1408,22 @@
     "examyear": "2010"
   },
   {
+    "id": 627,
+    "question": "If log<sub>3</sub>18 + log<sub>3</sub>3 - log<sub>3</sub>x = 3, Find x.",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "0",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "log<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = 3\n\nlog<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = 3log<sub>3</sub>3\n\nlog<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = log<sub>3</sub>3<sup>3</sup>\n\nlog<sub>3</sub>(18×3/X\n) = log<sub>3</sub>3<sup>3</sup>\n\n18×3/X\n = 3<sup>3</sup>\n\n18 x 3 = 27 x X\n\nx = 18×3/27\n\n\n= 2",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 628,
     "question": "Rationalize 2−√5/3−√5",
     "option": {
@@ -1532,6 +1660,38 @@
     "image": "",
     "answer": "d",
     "solution": "(n−2)180/180\n = 1080/180\n\n\n(n - 2) = 6\nn = 6 + 2 = 8",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 830,
+    "question": "Evaluate ∫\n(cos4x + sin3x)dx",
+    "option": {
+      "a": "sin4x - cos3x + k",
+      "b": "sin4x + cos3x + k",
+      "c": "1/4 sin4x - 1/3cos3x + k",
+      "d": "1/4sin4x + 1/3 cos3x + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫(cos4x+sin3x)dx\n= 1/4sin4x − 1/3cos3x+k",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 842,
+    "question": "Evaluate (〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2)",
+    "option": {
+      "a": "23/5",
+      "b": "-(23/5)",
+      "c": "=B27-(1/8)",
+      "d": "21/7"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msup>\n        <mn>27</mn>\n        <mfrac>\n          <mn>1</mn>\n          <mn>3</mn>\n        </mfrac>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <msup>\n        <mn>8</mn>\n        <mfrac>\n          <mn>2</mn>\n          <mn>3</mn>\n        </mfrac>\n      </msup>\n    </mrow>\n    <mrow>\n      <msup>\n        <mn>16</mn>\n        <mfrac>\n          <mn>2</mn>\n          <mn>4</mn>\n        </mfrac>\n      </msup>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2)\n\n\n(〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗<sup>(2/4)</sup>×2)\n = 3√(27) −3√8<sup>2</sup>/√16 × 2\n\n\n(3−4)/(4×2)\n\n= −1/8",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -2032,6 +2192,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1051,
+    "question": "The acres for rice, pineapple, cassava, cocoa and palm oil in a certain district are given respectively as 2, 5, 3, 11 and 9. What is the angle of the sector of cassava in a pie chart? ",
+    "option": {
+      "a": "180°",
+      "b": "36°",
+      "c": "60°",
+      "d": "108°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Total number of acres = 2 + 5 + 3 + 11 + 9 = 30\n\nThe angle of acres = 2 + 5 + 3 + 11 + 9 = 30\n\nThe angle of the sector for cassava in a pie chart = 3/30 × 360° = 36°\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1065,
     "question": "Find the derivative of the function y = 2x<sup>2</sup>(2x - 1) at the point x = -1?",
     "option": {
@@ -2108,6 +2284,22 @@
     "image": "",
     "answer": "c",
     "solution": "W α (1/uv)/(u + v)\n\n\n∴ w = (k/uv)/(u + v)\n\n\n= k(u+v)/(uv)\n\n\nw = k(u+v)/uv\n\n\nw = 8, u = 2 and v = 6\n\n8 = k(2+6)/2(6)\n\n\n= k(8)/12\n\n\nk = 12\n\ni.e 12 ( u + v) = uwv",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1092,
+    "question": "Factorize completely 81a<sup>4</sup> - 16b<sup>4</sup>",
+    "option": {
+      "a": " (3a + 2b)(2a - 3b)(9a<sup>2</sup> + 4b<sup>2</sup>)",
+      "b": "(3a - 2b)(2a - 3b)(4a<sup>2</sup> - 9b<sup>2</sup>)",
+      "c": "(3a - 2b)(3a + 2b)(9a<sup>2</sup> + 4b<sup>2</sup>)",
+      "d": " (6a - 2b)(8a - 3b)(4a<sup>3</sup> - 9b<sup>2</sup>)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "81a<sup>4</sup> - 16b<sup>4</sup> = (9a<sup>2</sup>)<sup>2</sup> - (4b<sup>2</sup>)<sup>2</sup>\n\n\n= (9a<sup>2</sup> + 4b<sup>2</sup>)(9a<sup>2</sup> - 4b<sup>2</sup>)\n\nN:B 9a<sup>2</sup> - 4b<sup>2</sup> = (3a - 2b)(3a+ 2b)",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2288,6 +2480,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1187,
+    "question": "Find the value of 110111<sub>2</sub>  + 10100<sub>2</sub> ",
+    "option": {
+      "a": "1101011<sub>2</sub> ",
+      "b": "1001001<sub>2</sub> ",
+      "c": "1001011<sub>2</sub> ",
+      "d": "1001111<sub>2</sub> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1188,
     "question": "A woman bought a grinder for N60,000. She sold it at a loss of 15%. How much did she sell it?",
     "option": {
@@ -2316,6 +2524,22 @@
     "image": "",
     "answer": "a",
     "solution": "x/2 + 3/4 ≤ 5x/6 −7/12\n\n\n12(x/2) + 12(3/4) ≤ 12(5x/6) −12(7/12)\n\n\n6x + 9 ≤ 10x - 7\n\n6x - 10x ≤ - 7 - 9\n\n-4x ≤ -16\n\n-4x/-4 ≥ -16/-4\n\nx ≥ 4",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1205,
+    "question": "A binary operation * is defined by x * y = xy. If x * 2 = 12 - x, find the possible values of x",
+    "option": {
+      "a": "3,4",
+      "b": "3,-4",
+      "c": "-3,4",
+      "d": "-3,-4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x * y = xy\nx * 2 = 12 - x\n\nThus by comparison,\n\nx = x, y = 2\n\nBut x * y = x * 2\n\nxy = 12 - x\n\nx2 = 12 - x\n\nx2 + x - 12 = 0\n\nx2 + 4x - 3x - 12 = 0\n\nx(x + 4) - 3(x + 4) = 0\n\n(x - 3)(x + 4) = 0\n\nx - 3 = 0 or x + 4 = 0\n\nSo x = 3 or x = -4",
     "examtype": "utme",
     "examyear": "2014"
   },
