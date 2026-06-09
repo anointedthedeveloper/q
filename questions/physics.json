@@ -1792,6 +1792,22 @@
     "examyear": "2015"
   },
   {
+    "id": 133,
+    "question": "What is the inductance (L) of an inductor whose reactance is 1Ω at 50/ π hertz (H)?",
+    "option": {
+      "a": " 100 H",
+      "b": "0.01H",
+      "c": "10H",
+      "d": "1H"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInductive reactance (Xₗ) = 1Ω\nFrequency (f) = 50/π Hz\nInductance (L) = ?\n\nFormula for Inductive Reactance:\nXₗ = 2πfL\nRearranging to find L:\nL = Xₗ/(2πf)\nSubstituting values:\nL = 1/(2π × 50/π)\nL = 1/(2 × 50)\nL = 1/100\nL = 0.01 H\nAnswer: B. 0.01H",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 134,
     "question": "A stroboscope can be used to make the wave appear …………..",
     "option": {
@@ -3008,6 +3024,22 @@
     "examyear": "2016"
   },
   {
+    "id": 226,
+    "question": "Which of the following statements is Not true about atoms?",
+    "option": {
+      "a": "Atom of different elements have different atomic weights",
+      "b": "The mass of an atom is concentrated in the nucleus",
+      "c": "An atom is made up of a nucleus and number of electrons",
+      "d": "Atoms of all elements are identical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "This statement is NOT true. Atoms of different elements have different structures and properties, making them unique.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 227,
     "question": "The frequency of beats produced when two tunning forks of frequencies 258Hz and 270Hz are sounded close to each other",
     "option": {
@@ -3260,6 +3292,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nSame heat supplied: Qₚ = Q_Q = Q\nTemperature change: ΔTₚ = 2ΔT_Q\nMass: mₚ = ½m_Q\nRatio Cₚ:C_Q = ?\n\nFormula:\nQ = mcΔT\nFor object P:\nQ = mₚCₚΔTₚ\nQ = (½m_Q)Cₚ(2ΔT_Q)\nQ = m_QCₚΔT_Q\nFor object Q:\nQ = m_QC_QΔT_Q\nSince both receive the same heat:\nm_QCₚΔT_Q = m_QC_QΔT_Q\nCanceling m_Q and ΔT_Q:\nCₚ = C_Q\nTherefore:\nCₚ/C_Q = 1/1 = 1:1",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 247,
+    "question": "When the r.m.s value of a source of electricity supply is given as 240v, it means that the peak value of the supply is",
+    "option": {
+      "a": "240v",
+      "b": "340v",
+      "c": " 480v",
+      "d": "57600v"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nr.m.s voltage (Vᵣₘₛ) = 240V\nPeak voltage (V₀) = ?\n\nRelationship between r.m.s and peak voltage:\nVᵣₘₛ = V₀/√2\nRearranging to find peak voltage:\nV₀ = Vᵣₘₛ × √2\nSubstituting values:\nV₀ = 240 × √2\nV₀ = 240 × 1.414\nV₀ = 339.4V\nV₀ ≈ 340V\nExplanation:\nThe r.m.s (root mean square) value is the effective value of an alternating voltage. The peak value is always √2 (approximately 1.414) times the r.m.s value.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3836,6 +3884,22 @@
     "image": "",
     "answer": "d",
     "solution": "Shadows and eclipses result from the rectilinear propagation of light (light traveling in straight lines).",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 294,
+    "question": "Which of the following obeys Ohm's law?",
+    "option": {
+      "a": " all metals",
+      "b": "diode only",
+      "c": "all electrolytes",
+      "d": "glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "All metals (at constant temperature) obey Ohm's law, acting as ohmic conductors with constant resistance.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -4508,6 +4572,22 @@
     "image": "",
     "answer": "a",
     "solution": "During the transformation of the matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because all the heat is used to break the bonds holding the molecules of the solid together",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 339,
+    "question": "In a slide wire bridge, the balance is obtained at a point 25cm from one end of wire 1m long. The resistance to be tested is connected to that end and a standard resistance of 3.6Ω\n is connected to the other end of the wire. Determine the value of the unknown resistance",
+    "option": {
+      "a": "3.2Ω",
+      "b": "1.4Ω",
+      "c": " 3.21Ω",
+      "d": "1.2Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nTotal wire length = 1m = 100cm\nBalance point = 25cm from one end (where unknown resistance R is connected)\nStandard resistance (S) = 3.6Ω\nUnknown resistance (R) = ?\n\nUnderstanding slide wire bridge (meter bridge):\nAt balance:\nR/S = L₁/L₂\nwhere:\n\nL₁ = length on side of unknown resistance = 25cm\nL₂ = length on side of standard resistance = 100 - 25 = 75cm\n\nCalculating unknown resistance:\nR/3.6 = 25/75\nR/3.6 = 1/3\nR = 3.6 × (1/3)\nR = 3.6/3\nR = 1.2Ω",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -6796,6 +6876,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nRadius, r = 0.2 mm = 0.2 × 10⁻³ m = 2 × 10⁻⁴ m\nExtension = 0.5% of original length\nStrain, ε = 0.5/100 = 0.005\nMass, m = 1.5 kg\nAcceleration due to gravity, g = 10 m/s²\nYoung's modulus, E = ?\n\nSolution:\nUsing Young's modulus formula:\nE = Stress/Strain = (F/A)/ε\nStep 1: Calculate the force (weight)\nF = mg\nF = 1.5 × 10\nF = 15 N\nStep 2: Calculate cross-sectional area\nA = πr²\nA = π × (2 × 10⁻⁴)²\nA = π × 4 × 10⁻⁸\nA = 3.142 × 4 × 10⁻⁸\nA = 1.257 × 10⁻⁷ m²\nStep 3: Calculate stress\nStress = F/A\nStress = 15/(1.257 × 10⁻⁷)\nStress = 1.193 × 10⁸ N/m²\nStep 4: Calculate Young's modulus\nE = Stress/Strain\nE = (1.193 × 10⁸)/0.005\nE = 2.386 × 10¹⁰ N/m²\nE ≈ 2.4 × 10¹⁰ N/m²",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 517,
+    "question": "A 200 kg load is raised using a 110 m long lever as shown in the diagram above. The load is 10m from the pivot P. If the efficiency of the lever is 80%, find the effort E required to lift the load. [Take g = 10ms⁻²]",
+    "option": {
+      "a": " 250 N",
+      "b": "300 N",
+      "c": "450 N",
+      "d": "200 N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614819/ALOC-Questions/Physics/2023/physics_2023-Q18_fexzla.jpg",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of load, m = 200 kg\nTotal lever length = 110 m\nLoad distance from pivot, d_load = 10 m\nEffort distance from pivot, d_effort = 110 - 10 = 100 m\nEfficiency, η = 80% = 0.8\nAcceleration due to gravity, g = 10 m/s²\nEffort required, E = ?\n\nSolution:\nStep 1: Calculate the load force (weight)\nLoad = mg\nLoad = 200 × 10\nLoad = 2000 N\nStep 2: Apply the principle of moments for ideal lever\nFor an ideal lever (100% efficiency):\nLoad × d_load = Effort × d_effort\n2000 × 10 = E_ideal × 100\n20,000 = E_ideal × 100\nE_ideal = 200 N\nStep 3: Account for efficiency\nSince efficiency = 80%, more effort is needed:\nEfficiency = (Ideal Effort/Actual Effort) × 100%\n0.8 = 200/E_actual\nE_actual = 200/0.8\nE_actual = 250 N",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -10812,6 +10908,22 @@
     "image": "",
     "answer": "d",
     "solution": "The basic function of microscope is magnification",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 826,
+    "question": "Short sightedness can be corrected by what type of lens?",
+    "option": {
+      "a": " Concave lens",
+      "b": "Convex lens",
+      "c": " Converging lens",
+      "d": "Mirrors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Shortsightedness is corrected using a concave (curved inwards) lens which is placed in front of a myopic eye",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -14892,6 +15004,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nForce on smaller piston, F₁ = 200 N\nForce on larger piston, F₂ = 3200 N\n\nSolution:\n\nStep 1: Pascal's principle for hydraulic press\nPressure is transmitted equally throughout the fluid:\nP₁ = P₂\nF₁ / A₁ = F₂ / A₂\n\nStep 2: Express area in terms of radius\nArea A = πr², so\nF₁ / πr₁² = F₂ / πr₂²\nF₁ / r₁² = F₂ / r₂²\n\nStep 3: Rearrange to find ratio r₁ / r₂\nr₁² / r₂² = F₁ / F₂\nr₁ / r₂ = √(F₁ / F₂)\n\nStep 4: Substitute values\nr₁ / r₂ = √(200 / 3200) = √(1/16) = 1/4",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1136,
+    "question": "The gravitational pull between two bodies is 20N. Find the gravitational pull when their distance of separation is doubled.",
+    "option": {
+      "a": "10N",
+      "b": "5N",
+      "c": "13N",
+      "d": "20N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nInitial gravitational force, F₁ = 20 N\nInitial distance, r₁ = r\nFinal distance, r₂ = 2r\n\nSolution:\n\nStep 1: Newton's law of universal gravitation\nF ∝ 1 / r²\nTherefore, F₂ / F₁ = (r₁ / r₂)²\n\nStep 2: Substitute values\nF₂ / 20 = (r / 2r)² = (½)² = ¼\n\nStep 3: Solve for F₂\nF₂ = 20 × ¼ = 5 N",
     "examtype": "utme",
     "examyear": "2025"
   },
