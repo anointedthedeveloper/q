@@ -11058,6 +11058,25 @@
     "category": "others"
   },
   {
+    "id": 774,
+    "question": "The family discussed the crime committed and resolved to <u>nail the lie to the counter</u>?",
+    "option": {
+      "a": "expose it publicly",
+      "b": "bury it in a coffin",
+      "c": "defer action on it",
+      "d": "seek more advice"
+    },
+    "section": "<b>In each of questions 68 to 84, choose from the option nearest in meaning to the word underlined.</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 78,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 775,
     "question": "My father was at the <u>apogee</u> of his career when he was retired? ",
     "option": {
@@ -16678,6 +16697,25 @@
     "examtype": "utme",
     "examyear": "2021",
     "questionNub": 40,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1234,
+    "question": "choose the option with the correct spelling from the options lettered A-E",
+    "option": {
+      "a": "Interprete",
+      "b": "Interpret",
+      "c": "Inteprete",
+      "d": "Interprette"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 41,
     "hasPassage": 0,
     "category": "others"
   },
@@ -22340,6 +22378,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 24,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1637,
+    "question": "The students were nosing around.",
+    "option": {
+      "a": "They were roaming about",
+      "b": "They were searching for information",
+      "c": " They were playing around",
+      "d": "They were disseminating information"
+    },
+    "section": "For this question, select the option that best explains the information conveyed in the question.",
+    "image": "",
+    "answer": "b",
+    "solution": "Nose around/about something means to try to find out information about someone or something. \n\nExample: A few kids were nosing around.",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 25,
     "hasPassage": 0,
     "category": "others"
   },
