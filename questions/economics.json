@@ -112,6 +112,22 @@
     "examyear": "2006"
   },
   {
+    "id": 25,
+    "question": "The capitalist system is characterized by all the following except: ",
+    "option": {
+      "a": "private ownership of the means of production ",
+      "b": "Equitable distribution of income and wealth  ",
+      "c": "capital accumulation  ",
+      "d": "markets and  prices coordinate economic activities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 28,
     "question": "The demand curve for the pure monopolists is ",
     "option": {
@@ -171,6 +187,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following are direct taxes? ",
+    "option": {
+      "a": "Income and company taxes ",
+      "b": "Sale taxes ",
+      "c": "commodity taxes ",
+      "d": "Excise Duties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
@@ -368,6 +400,22 @@
     "examyear": "2009"
   },
   {
+    "id": 98,
+    "question": "In Economics human wants are usually described as  ",
+    "option": {
+      "a": "many",
+      "b": "insatiable ",
+      "c": "limited",
+      "d": "numerous"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 129,
     "question": "Normal profit means;  ",
     "option": {
@@ -414,6 +462,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 140,
+    "question": "Demand for money is: ",
+    "option": {
+      "a": "Composite demand  ",
+      "b": "Derive demand  ",
+      "c": "Joint demand  ",
+      "d": "C and B "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
   },
   {
     "id": 146,
@@ -576,6 +640,22 @@
     "examyear": "2010"
   },
   {
+    "id": 180,
+    "question": "Assume a household would consume N100 worth of goods and services per week if its weekly income were zero and would spend an additional N80 per week for each 100 of additional income, if C represents consumption and Y income the equation that summarizes this relationship is",
+    "option": {
+      "a": "C =8+100Y ",
+      "b": "C=100+8Y ",
+      "c": "C = 100+80Y ",
+      "d": "C=80+1Y"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 189,
     "question": "The reward for entrepreneurship is",
     "option": {
@@ -624,6 +704,22 @@
     "examyear": "2001"
   },
   {
+    "id": 195,
+    "question": "Population growth can be controlled by all the following except",
+    "option": {
+      "a": "legalizing abortion",
+      "b": "incentives on immigration",
+      "c": "family planning",
+      "d": "limiting number of children per family"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 196,
     "question": "Performance of one task in a production process is known as",
     "option": {
@@ -651,6 +747,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
+    "id": 215,
+    "question": "In a public corporation, the risks of business are borne by the",
+    "option": {
+      "a": "workers",
+      "b": "tax payers",
+      "c": "board members",
+      "d": "treasury"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2001"
@@ -784,6 +896,38 @@
     "examyear": "2010"
   },
   {
+    "id": 258,
+    "question": "The following are all factors determining the location of industry except",
+    "option": {
+      "a": "minimum wage rate",
+      "b": "availability of labour",
+      "c": "nearness to raw materials",
+      "d": "proximity to market"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 260,
+    "question": "Which of the following equations is appropriate for determining the Net Domestic Product (NDP)?",
+    "option": {
+      "a": "NDP = GNP – depreciation",
+      "b": "NDP = GDP + Net Income from abroad",
+      "c": "NDP = GDP – depreciation",
+      "d": "NDP = GDP x Net Income from abroad"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 261,
     "question": "Which of the following over estimates the value of national income?",
     "option": {
@@ -791,6 +935,22 @@
       "b": "Wrong timing of computation",
       "c": "Changes in prices of goods within the year",
       "d": "Double counting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 262,
+    "question": "The total stock of money available for use in an economy is",
+    "option": {
+      "a": "a function of money",
+      "b": "a characteristic of money",
+      "c": "the demand for money",
+      "d": "the supply of money"
     },
     "section": "",
     "image": "",
@@ -816,6 +976,22 @@
     "examyear": "2010"
   },
   {
+    "id": 266,
+    "question": "Which of the following is a legal tender?",
+    "option": {
+      "a": "Bank notes",
+      "b": "Bank overdrafts",
+      "c": "Bills of exchange",
+      "d": "Money order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 269,
     "question": "The function of the Central Bank as a lender of last resort means that when all other sources fail",
     "option": {
@@ -830,6 +1006,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
+  },
+  {
+    "id": 275,
+    "question": "A normal demand curve slopes",
+    "option": {
+      "a": "downwards from left to right",
+      "b": "upwards from right to left",
+      "c": "downwards from right to left",
+      "d": "upwards from left to right"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
   },
   {
     "id": 276,
@@ -848,6 +1040,22 @@
     "examyear": "2012"
   },
   {
+    "id": 279,
+    "question": "A supply curve which is vertical has an elasticity co-efficient of",
+    "option": {
+      "a": "0",
+      "b": "0.5",
+      "c": "1.5",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 281,
     "question": "Price fixed above the equilibrium is to",
     "option": {
@@ -855,6 +1063,22 @@
       "b": "discourage agricultural producers",
       "c": "lower the prices of agricultural produce",
       "d": "favour consumers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 284,
+    "question": "A rational consumer is one who",
+    "option": {
+      "a": "spends his income to maximize satisfaction",
+      "b": "is not influenced by advertisement",
+      "c": "behaves in a particular way all the time",
+      "d": "knows the prices of all goods and buys the cheapest"
     },
     "section": "",
     "image": "",
@@ -1104,6 +1328,22 @@
     "examyear": "2009"
   },
   {
+    "id": 365,
+    "question": "When workers have a union, the supply of labour is said to be",
+    "option": {
+      "a": "Monopolistic",
+      "b": "oligopolistic",
+      "c": "Monoposonistic",
+      "d": "competitive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 369,
     "question": "If  X = 6 and N = 6, determine the value of   Efx.",
     "option": {
@@ -1232,6 +1472,22 @@
     "examyear": "2010"
   },
   {
+    "id": 397,
+    "question": "The velocity of money is represented as",
+    "option": {
+      "a": "money supply /real GDP",
+      "b": "real GDPmoney supply",
+      "c": "nominal GDP/real GDP",
+      "d": "money supply/nominal GDP"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 404,
     "question": "Localization of industries refers to the",
     "option": {
@@ -1291,6 +1547,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 413,
+    "question": "The amount of labour hired depends on the",
+    "option": {
+      "a": "number of skilled labour available",
+      "b": "marginal productivity of labour",
+      "c": "skill of labour",
+      "d": "price of other inputs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1392,6 +1664,38 @@
     "examyear": "2003"
   },
   {
+    "id": 436,
+    "question": "Price elasticity of supply measures the responsiveness of",
+    "option": {
+      "a": "quantity supplied to   changes in suppliers’ income",
+      "b": "changes in prices of other commodities",
+      "c": "a change in the prices of the commodity",
+      "d": "a change in the demand for the product"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 437,
+    "question": "The most common type of business in West African countries is",
+    "option": {
+      "a": "joint stock companies",
+      "b": "sole proprietorships",
+      "c": "partnerships",
+      "d": "public enterprises"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 443,
     "question": "Efficient distribution of goods in West Africa will be \n\tfacilitated by",
     "option": {
@@ -1415,6 +1719,22 @@
       "b": "Lending to the commercial bank",
       "c": "Discounting bills of exchange",
       "d": "Agent of payment for individuals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 452,
+    "question": "When the demand for foreign exchange exceeds its supply, the value of the domestic currency",
+    "option": {
+      "a": "appreciates",
+      "b": "depreciates",
+      "c": "inflates",
+      "d": "expands"
     },
     "section": "",
     "image": "",
@@ -1504,6 +1824,22 @@
     "examyear": "2004"
   },
   {
+    "id": 470,
+    "question": "An economic good is described as a good which",
+    "option": {
+      "a": "yield utility and commands a price",
+      "b": "is useful and occupies a space",
+      "c": "is in high demand and transferable",
+      "d": "has unlimited supply"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
     "id": 482,
     "question": "For both the monopolist and the perfectly competitive firm, profit maximizing output occurs at the point where the",
     "option": {
@@ -1531,6 +1867,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 488,
+    "question": "Government can control inflation by",
+    "option": {
+      "a": "printing more money",
+      "b": "reducing the rate of taxes",
+      "c": "reducing the level of expenditure",
+      "d": "establishing more banks"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 490,
+    "question": "Open Market Operation (OMO) means the",
+    "option": {
+      "a": "provision of credit facilities by commercial banks",
+      "b": "provision of credit facilities by the mortgage banks",
+      "c": "buying and selling of government securities by the central bank",
+      "d": "procedure for the establishment of commercial banks"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
@@ -1607,6 +1975,22 @@
       "b": "inwards",
       "c": "downwards",
       "d": "upwards"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 520,
+    "question": "A group of firms producing similar commodities for the same market constitute",
+    "option": {
+      "a": "a cartel",
+      "b": "an industry",
+      "c": "a co-operative",
+      "d": "wholesalers"
     },
     "section": "",
     "image": "",
@@ -1707,6 +2091,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 550,
+    "question": "The Economic Community of West African State (ECOWAS) is an example of",
+    "option": {
+      "a": "bilateral trade",
+      "b": "economic integration",
+      "c": "regional marketing board",
+      "d": "international competition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -1872,6 +2272,22 @@
     "examyear": "2007"
   },
   {
+    "id": 617,
+    "question": "Given that TR is total revenue, then TRn - TR(n-1) can be used to find the",
+    "option": {
+      "a": "marginal revenue",
+      "b": "marginal cost",
+      "c": "average cost",
+      "d": "average revenue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
     "id": 621,
     "question": "Use the following  demand schedule to answer question Price (N=) [15, 13]\tQuantity Demanded[60, 70] The percentage change in quantity demanded is",
     "option": {
@@ -1963,6 +2379,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 633,
+    "question": "The most important quality of money is that it must be",
+    "option": {
+      "a": "relatively scarce",
+      "b": "generally acceptable",
+      "c": "portable",
+      "d": "durable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
