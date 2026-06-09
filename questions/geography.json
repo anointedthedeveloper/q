@@ -384,6 +384,22 @@
     "examyear": "2007"
   },
   {
+    "id": 34,
+    "question": "If the temperature at sea level in a particular place is 200C, place 3500m above sea level in the same area will have a temperature of  ",
+    "option": {
+      "a": "- 2.750C   ",
+      "b": "2.250C  ",
+      "c": "22750C  ",
+      "d": "22.750C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 36,
     "question": "Which of the following pressure belts does not experienced descending air?  ",
     "option": {
@@ -1664,6 +1680,38 @@
     "examyear": "2011"
   },
   {
+    "id": 141,
+    "question": "Environmental lapse rate is  ",
+    "option": {
+      "a": "The rate of temperature changes of an air parcel undergoing vertical displacement  ",
+      "b": "The rate of temperature decrease of an air parcel undergoing horizontal displacement  ",
+      "c": "The actual rate decrease of temperature with increase in altitude at a given place at a given moment  ",
+      "d": "The rate of horizontal temperature gradient of an air parcel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 143,
+    "question": "Which of the following States in Nigeria would a person NOT pass over by crow fly (direct distance) from Ibadan to Makurdi? ",
+    "option": {
+      "a": "Osun  ",
+      "b": "Ondo ",
+      "c": "Kogi  ",
+      "d": "Enugu"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 144,
     "question": "The Latitude which marks the limits of the overhead sun’s apparent movement is  ",
     "option": {
@@ -1952,6 +2000,22 @@
     "examyear": "2013"
   },
   {
+    "id": 166,
+    "question": "The world’s longest river is  ",
+    "option": {
+      "a": "River Amazon    ",
+      "b": "River-Mississippi   ",
+      "c": "River Nile  ",
+      "d": "River Chang Jiang"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 169,
     "question": "Which of the following is not a form of condensation?  ",
     "option": {
@@ -2142,6 +2206,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
+  },
+  {
+    "id": 187,
+    "question": "Climate is the: ",
+    "option": {
+      "a": "Prevailing weather conditions of a region for 10 years ",
+      "b": "Prevailing weather conditions of a region for 15 years  ",
+      "c": "Prevailing weather conditions of a region for 35 years  ",
+      "d": "Prevailing weather conditions of a region for 20 years  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
   },
   {
     "id": 189,
@@ -2768,6 +2848,22 @@
     "examyear": "2016"
   },
   {
+    "id": 241,
+    "question": "What is the approximate height of the location marked x?",
+    "option": {
+      "a": "375 meters",
+      "b": "395 meters",
+      "c": "360 meters",
+      "d": "380 meters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 243,
     "question": "Name the features crossed by the footpath between points Y and Z",
     "option": {
@@ -3312,6 +3408,22 @@
     "examyear": "2017"
   },
   {
+    "id": 295,
+    "question": "The world's richest fishing grounds are to be found",
+    "option": {
+      "a": "On the deep sea platforms",
+      "b": "In coral seas",
+      "c": "On the continental shelves",
+      "d": "In fjord coastlines"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 296,
     "question": "Which of the following is the main export from Uganda?",
     "option": {
@@ -3744,6 +3856,22 @@
     "examyear": "2018"
   },
   {
+    "id": 331,
+    "question": "Which of the following countries has the least potential for the production of steel?",
+    "option": {
+      "a": "India",
+      "b": "Cuba",
+      "c": "Japan",
+      "d": "Germany"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 332,
     "question": "In which of the following countries is cotton growing under irrigation the mainstay of the agricultural economy?",
     "option": {
@@ -3904,6 +4032,22 @@
     "examyear": "2018"
   },
   {
+    "id": 345,
+    "question": "The oldest system of agriculture in Nigeria which now survives only in very remote areas is",
+    "option": {
+      "a": "Bush fallowing",
+      "b": "Mixed farming",
+      "c": "Shifting cultivation",
+      "d": "Market gardening"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 346,
     "question": "Which of these hazards would likely result directly from deforestation?",
     "option": {
@@ -3947,6 +4091,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 350,
+    "question": "A desert country which has a high population density supported by irrigation is",
+    "option": {
+      "a": "Niger",
+      "b": "Egypt",
+      "c": "Sudan",
+      "d": "Kuwait"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
@@ -4544,6 +4704,22 @@
     "examyear": "2020"
   },
   {
+    "id": 403,
+    "question": "Which of the following countries has a large number if people if African descent?",
+    "option": {
+      "a": "Brazil",
+      "b": "Spain",
+      "c": "Canada",
+      "d": "Chile"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 404,
     "question": "When it is 12.00 noon on longitude 30°W, local time on longitude 75°E is",
     "option": {
@@ -4704,6 +4880,22 @@
     "examyear": "2020"
   },
   {
+    "id": 415,
+    "question": "The process by which materials are physically transferred from one soil layer to another is called?",
+    "option": {
+      "a": "Eluviation",
+      "b": "Illuviation",
+      "c": "Leaching",
+      "d": "Physical weathering"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 416,
     "question": "In Nigeria, geographical location poses the greatest hindrance to economic development in the",
     "option": {
@@ -4715,6 +4907,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 417,
+    "question": "The main use of the Abney level in surveying is to determine",
+    "option": {
+      "a": "Relative location",
+      "b": "Spot height",
+      "c": "Angle of inclination",
+      "d": "Area coverage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
