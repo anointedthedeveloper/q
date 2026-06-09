@@ -96,6 +96,22 @@
     "examyear": "2006"
   },
   {
+    "id": 10,
+    "question": "A totalitarian state is based on  ",
+    "option": {
+      "a": "multi-party system ",
+      "b": "total protection of civic rights ",
+      "c": "the totality of the state processes ",
+      "d": "coercion as the instrument of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 11,
     "question": "A political concept that defines  the beliefs, attitudes and values of a society is called ",
     "option": {
@@ -635,6 +651,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 76,
+    "question": "A system in which no single person serves as the chief executive  is know as ",
+    "option": {
+      "a": "republican ",
+      "b": "Revolutionary  ",
+      "c": "Collegial  ",
+      "d": "Parliamentary "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 78,
+    "question": "“Rule of law” refers to situations in which ",
+    "option": {
+      "a": "Lawyers are the rulers  ",
+      "b": "Laws are supreme ",
+      "c": "the judiciary is independent ",
+      "d": "parliament makes laws "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -1435,6 +1483,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 195,
+    "question": "How does the president relieve a minister of his appointment in a presidential system of government?",
+    "option": {
+      "a": "In consultation with the legislature",
+      "b": "In consultation with the judiciary  ",
+      "c": "by executive action",
+      "d": "after serving a full tenure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -2528,6 +2592,22 @@
     "examyear": "1999"
   },
   {
+    "id": 358,
+    "question": "The Land Use Decree of 1978 vested the ownership of land in Nigeria in the",
+    "option": {
+      "a": "State Governments",
+      "b": "Federal Government",
+      "c": "Local Governments",
+      "d": "Local Chiefs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 362,
     "question": "The Mid-Western Region was created in Nigeria in",
     "option": {
@@ -3264,6 +3344,22 @@
     "examyear": "2012"
   },
   {
+    "id": 463,
+    "question": "A political system which empowers the leader with the ultimate responsibility to execute laws is",
+    "option": {
+      "a": "parliamentarianism",
+      "b": "presidentialism",
+      "c": "dictatorship",
+      "d": "autocracy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 465,
     "question": "The private ownership of the means of production is a feature of",
     "option": {
@@ -3675,6 +3771,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 524,
+    "question": "One of the functions of pressure groups is to",
+    "option": {
+      "a": "contest elections to serve the people",
+      "b": "nominate the president",
+      "c": "prepare the budget",
+      "d": "articulate the opinion of their members."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 526,
+    "question": "The class that oversees the implementation of government decisions and policies is the",
+    "option": {
+      "a": "Administrative",
+      "b": "Executive",
+      "c": "Clerical",
+      "d": "Technical."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -5040,6 +5168,22 @@
     "examyear": "1989"
   },
   {
+    "id": 724,
+    "question": "Which of the following is a foremost right of a citizen?",
+    "option": {
+      "a": "Religious right",
+      "b": "Academic right",
+      "c": "Right to life",
+      "d": "Private life."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The right to life is a fundamental human right that all citizens are entitled to.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 725,
     "question": "Which of the following is a merit of aristocracy?",
     "option": {
@@ -5580,6 +5724,22 @@
     "image": "",
     "answer": "a",
     "solution": "While other events caused political crises, Abuja’s adoption did not.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 798,
+    "question": "A system of government where political powers are inherited is called",
+    "option": {
+      "a": "monarchy",
+      "b": "diarchy",
+      "c": "democracy",
+      "d": "aristocracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A monarchy is a system where political power is inherited.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -6784,6 +6944,22 @@
     "examyear": "2022"
   },
   {
+    "id": 977,
+    "question": "The absence of an independent judiciary is a feature of",
+    "option": {
+      "a": "limited monarchy",
+      "b": "capitalıst system",
+      "c": "republican system",
+      "d": "oligarchy system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In an oligarchy, power is concentrated in the hands of a few, and there is often a lack of an independent judiciary to check the power of the ruling group.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 982,
     "question": "The operations of a pressure group can be hindered by",
     "option": {
@@ -7120,6 +7296,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1030,
+    "question": "Nigeria shares its longest border with which West African country?",
+    "option": {
+      "a": "Niger",
+      "b": "Chad",
+      "c": "Ghana",
+      "d": "Benin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Nigeria shares its longest border with Niger. The border between Nigeria and Niger is approximately 1,497 kilometers long, making it Nigeria's longest international border.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1031,
     "question": "The electoral system used in Nigeria is primarily based on __________",
     "option": {
@@ -7264,6 +7456,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1048,
+    "question": "The collective views of the citizens on a specific national matter is",
+    "option": {
+      "a": "group opinions",
+      "b": " electoral opinion",
+      "c": " public opinion",
+      "d": "collective responsibility"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Public opinion is the belief, values and attitudes which are commonly held and expressed by the majority of the people on a given public issue. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1049,
     "question": "The productivity of public corporations is believed to be enhanced when there is ",
     "option": {
@@ -7372,6 +7580,22 @@
     "image": "",
     "answer": "a",
     "solution": "Lawyers belong to the professional class because they provide certain expertise to the civil service (in this case, the provision of legal counsel). Other members of the professional class includes: doctors, engineers, accountants, etc. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1059,
+    "question": "A naturalised citizen can lose his citizenship if found guilty of ",
+    "option": {
+      "a": " treason",
+      "b": " evading of taxes",
+      "c": "electoral violence",
+      "d": "loitering"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Treason is the crime of betraying one's own country. A naturalised citizen found guilty of treason will lose his/ her citizenship. ",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -7580,6 +7804,22 @@
     "image": "",
     "answer": "c",
     "solution": "Power differs from influence in that it is coercive while influence is persuasive.\n\nInfluence can be defined as the ability to create an impact on the beliefs and actions of an individual. Influence evokes respect. Those under the influence keep working in the desired manner even in the absence of the influential person. \n\npower is the ability of a person or a group of persons to enforce his or their decisions on other people by use of sanctions, punishment, or penalties against disobedience. On the other hand, through persuasion and conviction, an individual could be made to accept and obey the views of other persons.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1096,
+    "question": "Where the constitution is supreme, unconstitutional acts of the executive and the legislature can be checked by the courts through",
+    "option": {
+      "a": "recall",
+      "b": "judicial review",
+      "c": "vote of no confidence",
+      "d": "impeachment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Judicial review is the power of the courts to examine actions of the executive and legislature and declare them unconstitutional if they violate the constitution. This ensures that the constitution remains the supreme law of the land.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -8848,6 +9088,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1260,
+    "question": "A distinguishing feature of the 1979 Constitution was the",
+    "option": {
+      "a": "introduction of federal structure",
+      "b": "introduction of unicameralism into Nigeria",
+      "c": "departure from the parliamentary to the presidential system of government",
+      "d": "preservation and entrenchment of republicanism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Departure from the parliamentary to the presidential system of government is the distinguishing feature of the 1979 Constitution . Nigeria practised parliamentary system of government during the first Republic. But the 1979 constitution introduced the presidential system.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1263,
     "question": "The process of nationalism was accelerated by",
     "option": {
@@ -9068,6 +9324,22 @@
     "image": "",
     "answer": "a",
     "solution": "The body responsible for running the personal affairs of senior local government staff in Nigeria is the Local Government Service Commission",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1290,
+    "question": "The 1976 Local Government Reforms in Nigeria transformed the relationship between states and local governments into one of",
+    "option": {
+      "a": "equality",
+      "b": "master and servant",
+      "c": "subordination",
+      "d": "partnership and cooperation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The 1976 Local Government Reforms in Nigeria transformed the relationship between states and local governments into one of partnership and co-operation",
     "examtype": "utme",
     "examyear": "2004"
   },
