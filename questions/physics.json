@@ -416,6 +416,22 @@
     "examyear": "2011"
   },
   {
+    "id": 102,
+    "question": "A wheel and axle is used to raise a weight of 600n with an effort of 300n. if the radii of the wheel and axle are 50 cm and 10 cm respectively, what is the efficiency of the system      ",
+    "option": {
+      "a": "40%",
+      "b": "50%",
+      "c": "20%",
+      "d": "10%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 103,
     "question": "The  term “Viscosity” is used to describe  ",
     "option": {
@@ -560,6 +576,22 @@
     "examyear": "2015"
   },
   {
+    "id": 156,
+    "question": "Heat transfer in the surrounding without a material medium is possible through?  ",
+    "option": {
+      "a": "Conduction",
+      "b": "Convection",
+      "c": "Radiation",
+      "d": "Expansion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Conduction, convection of heat or electricity through a material medium is required but radiation requires no material medium for heat transfer ",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 157,
     "question": "Quantities of heat Q can be measured using a container called",
     "option": {
@@ -604,6 +636,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nHeight (h) = 20 meters\nInitial velocity (u) = 0 m/s (ball is released, not thrown)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing the equation of motion:\nh = ut + ½gt²\nSince u = 0 (released from rest):\nh = ½gt²\nRearranging to find t:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 20/10)\nt = √(40/10)\nt = √4\nt = 2 seconds\nAnswer: A. 2 sec",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 175,
+    "question": "Neutron were discovered by",
+    "option": {
+      "a": "J.J. Thompson",
+      "b": " James Chadwick",
+      "c": " Michael faraday",
+      "d": "Dalton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Neutron were discovered by James Chadwick in 1931",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -960,6 +1008,22 @@
     "examyear": "2018"
   },
   {
+    "id": 303,
+    "question": "A lead bullet of mass 0.05 kg is fired with a velocity of 200 m/s into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is",
+    "option": {
+      "a": "100J",
+      "b": "150J",
+      "c": "50J",
+      "d": "200J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass of bullet (m₁) = 0.05 kg\nInitial velocity of bullet (u₁) = 200 m/s\nMass of block (m₂) = 0.95 kg\nInitial velocity of block (u₂) = 0 m/s (at rest)\nFinal kinetic energy = ?\n\nThis is an inelastic collision (bullet embeds in block)\nStep 1: Find final velocity using conservation of momentum\nm₁u₁ + m₂u₂ = (m₁ + m₂)v\n0.05 × 200 + 0.95 × 0 = (0.05 + 0.95)v\n10 + 0 = 1.0v\nv = 10 m/s\nStep 2: Calculate final kinetic energy\nKE_final = ½(m₁ + m₂)v²\nKE_final = ½ × 1.0 × (10)²\nKE_final = ½ × 1.0 × 100\nKE_final = 50 J",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 305,
     "question": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
     "option": {
@@ -1038,6 +1102,22 @@
     "solution": "Given information:\n\nMass (m) = 800g = 0.8 kg\nInitial velocity (u) = +5 m/s (toward wall)\nFinal velocity (v) = -5 m/s (away from wall, opposite direction)\nImpulse = ?\n\nFormula for impulse:\nImpulse = Change in momentum\nImpulse = m(v - u)\nNote: Since the ball reverses direction, we must consider the sign change.\nCalculating:\nImpulse = 0.8 × (-5 - 5)\nImpulse = 0.8 × (-10)\nImpulse = -8 kgm/s\nMagnitude of impulse:\n|Impulse| = 8 kgm/s\nExplanation:\nThe negative sign indicates direction (force acts opposite to initial motion). The magnitude of impulse is 8 kgm/s.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 334,
+    "question": "According to kinetic molecular model, in gases",
+    "option": {
+      "a": "The molecule are very fast apart & occupy all the space made available",
+      "b": "The particles occur in clusters with molecules slightly farther apart",
+      "c": "The particles vibrate about fixed positions and are held together by the strong intermolecular bond between them",
+      "d": "The particles are closely packed together, they occupy minimum space & are usually arranged in a regular pattern"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "According to the kinetic molecular model, gas molecules are very far apart relative to their size and occupy all available space in their container.",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 351,
@@ -1180,6 +1260,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nRefractive index (n) = 1.5\nVelocity of light in vacuum (c) = 3.0 × 10⁸ m/s\nVelocity of light in liquid (v) = ?\n\nFormula for refractive index:\nn = c/v\nwhere:\n\nn = refractive index\nc = speed of light in vacuum\nv = speed of light in the medium\n\nRearranging to find v:\nv = c/n\nSubstituting values:\nv = (3.0 × 10⁸)/1.5\nv = 2.0 × 10⁸ m/s",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 407,
+    "question": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 10cm³ at 0°C, what will be its volume at 100°C?",
+    "option": {
+      "a": "10.06 cm³",
+      "b": "10.04 cm³",
+      "c": "10.02 cm³",
+      "d": "10.20 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\nInitial volume (V₀) = 10 cm³\nInitial temperature (T₀) = 0°C\nFinal temperature (T) = 100°C\nTemperature change (ΔT) = 100°C\nFinal volume (V) = ?\n\nStep 1: Find volume expansivity\nVolume expansivity (γ) = 3α (for isotropic materials)\nγ = 3 × 2 × 10⁻⁵ = 6 × 10⁻⁵ °C⁻¹\nStep 2: Calculate final volume\nV = V₀(1 + γΔT)\nSubstituting values:\nV = 10(1 + 6 × 10⁻⁵ × 100)\nV = 10(1 + 0.006)\nV = 10(1.006)\nV = 10.06 cm³",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -1648,6 +1744,22 @@
     "examyear": "2023"
   },
   {
+    "id": 529,
+    "question": "The pinhole camera works on",
+    "option": {
+      "a": "the principle of the reversibility of light",
+      "b": "the principle of the rectilinear propagation of light",
+      "c": "Huygen’s principle",
+      "d": "the principle of total internal reflection of light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A pinhole camera operates on the principle that light travels in straight lines (rectilinear propagation). Light from each point on the object passes through the small hole in a straight line to form an inverted image on the screen opposite the pinhole.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 531,
     "question": "A block of mass 0.5 kg is suspended at the 40 cm mark of a light metre rule AB that is pivoted at point E, the 90 cm mark, and is kept at equilibrium by a string attached at point D, the 60 cm mark, as shown in the figure above. Find the tension T in the string. [Take g = 10ms⁻²]",
     "option": {
@@ -1968,6 +2080,22 @@
     "examyear": "2004"
   },
   {
+    "id": 643,
+    "question": "A 50W electric heater is used to heat a metal block of mass 5kg. If in 10 minutes a temperature rise of 12°C is achieved, the specific heat capacity of the metal is",
+    "option": {
+      "a": " 400 J kg⁻¹K⁻¹",
+      "b": "500 J kg⁻¹K⁻¹",
+      "c": "390 J kg⁻¹K⁻¹",
+      "d": "130 J kg⁻¹K⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPower of heater, P = 50 W\nMass of metal block, m = 5 kg\nTime, t = 10 minutes = 10 × 60 = 600 s\nTemperature rise, ΔT = 12°C = 12 K\nSpecific heat capacity, c = ?\n\nSolution:\nStep 1: Calculate total energy supplied\nFormula: Energy = Power × Time\nE = P × t\nE = 50 × 600\nE = 30,000 J\nStep 2: Apply heat equation\nFormula: Q = mcΔT\nWhere:\n\nQ = heat energy absorbed\nm = mass\nc = specific heat capacity\nΔT = temperature change\n\nStep 3: Substitute values\n30,000 = 5 × c × 12\n30,000 = 60c\nStep 4: Solve for specific heat capacity\nc = 30,000/60\nc = 500 J kg⁻¹K⁻¹",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 645,
     "question": "Transverse waves can be distinguished from longitudinal waves using the characteristic of",
     "option": {
@@ -2028,6 +2156,22 @@
     "image": "",
     "answer": "c",
     "solution": "Displacement: Has magnitude and direction (e.g., 5m north)\nTorque: Has magnitude and direction (clockwise/counterclockwise, follows right-hand rule)\n\nBoth displacement and torque are vectors.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 659,
+    "question": "A proton moving with a speed of 1.0 × 10⁶ ms⁻¹ through a magnetic field of 1.0T experiences a magnetic force of magnitude 8.0 × 10⁻¹⁴ N. The angle between the proton's velocity and the field is [1.6 × 10⁻¹⁹ C]",
+    "option": {
+      "a": "60°",
+      "b": "90°",
+      "c": " 30°",
+      "d": "45°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nSpeed of proton, v = 1.0 × 10⁶ ms⁻¹\nMagnetic field, B = 1.0 T\nMagnetic force, F = 8.0 × 10⁻¹⁴ N\nCharge of proton, q = 1.6 × 10⁻¹⁹ C\nAngle between velocity and field, θ = ?\n\nSolution:\nStep 1: Formula for magnetic force\nFormula: F = qvB sin θ\nWhere:\n\nF = magnetic force\nq = charge\nv = velocity\nB = magnetic field\nθ = angle between velocity and field\n\nStep 2: Rearrange for sin θ\nsin θ = F/(qvB)\nStep 3: Substitute values\nsin θ = (8.0 × 10⁻¹⁴)/[(1.6 × 10⁻¹⁹) × (1.0 × 10⁶) × (1.0)]\nsin θ = (8.0 × 10⁻¹⁴)/(1.6 × 10⁻¹³)\nsin θ = 8.0/16\nsin θ = 0.5\nStep 4: Find angle\nθ = sin⁻¹(0.5)\nθ = 30°",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -2284,6 +2428,22 @@
     "image": "",
     "answer": "b",
     "solution": "\nStep 1: Understanding p‑n junction behavior\nA p‑n junction allows significant current to flow when the p‑side is connected to the positive terminal of a battery and the n‑side to the negative terminal. This connection reduces the depletion region and lowers the barrier for charge carriers.\n\nStep 2: Identifying the correct term\nThis configuration is known as forward bias. The opposite connection (reverse bias) blocks current flow under normal conditions.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 736,
+    "question": "The wavelength of the first overtone of a note in a closed pipe of length 33 cm is?",
+    "option": {
+      "a": "33 cm",
+      "b": "44 cm",
+      "c": "22 cm",
+      "d": "17 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nLength of closed pipe, L = 33 cm\n\nSolution:\n\nStep 1: Harmonics in a closed pipe\nA pipe closed at one end supports only odd harmonics. The resonant wavelengths are given by:\nλₙ = 4L / n, where n = 1, 3, 5, …\n\nStep 2: Identify the first overtone\nThe fundamental corresponds to n = 1. The first overtone is the next higher resonance, which occurs at n = 3.\n\nStep 3: Compute the wavelength\nλ = 4L / 3 = (4 × 33 cm) / 3 = 132 cm / 3 = 44 cm",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -2560,6 +2720,22 @@
     "examyear": "2008"
   },
   {
+    "id": 816,
+    "question": "If the partial pressure of water vapour at 27°C is 18 mm Hg and the saturated vapour pressure of the atmosphere at the same temperature is 24 mm Hg, the relative humidity at this temperature is?",
+    "option": {
+      "a": "25%",
+      "b": "33%",
+      "c": "75%",
+      "d": "82%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nPartial pressure of water vapour (P) = 18 mm Hg\nSaturated vapour pressure (P_s) = 24 mm Hg\nRelative humidity (R.H) = ?\n\nFormula for relative humidity:\nRelative Humidity = (Partial pressure of water vapour / Saturated vapour pressure) × 100%\nR.H = (P/P_s) × 100%\nSubstituting values:\nR.H = (18/24) × 100%\nR.H = 0.75 × 100%\nR.H = 75%",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 817,
     "question": "In a good thermos flask, heat loss is reduced through the following features EXCEPT?",
     "option": {
@@ -2800,6 +2976,22 @@
     "examyear": "2009"
   },
   {
+    "id": 889,
+    "question": "The terminal velocity of a ball-bearing falling through a viscous fluid is reached when the?",
+    "option": {
+      "a": "upthrust is equal to the weight of the ball",
+      "b": "ball accelerate uniformly",
+      "c": "upthrust is equal to the velocity of the ball",
+      "d": "velocity is uniform"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Terminal velocity is reached when the velocity is uniform.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 893,
     "question": "If a light wave has a wavelength of 500nm in air, what is the frequency of the wave? [c = 3 × 10⁸ ms⁻¹]",
     "option": {
@@ -3006,6 +3198,38 @@
     "solution": "Given information:\nInitial temperature, T₁ = 16°C = 16 + 273 = 289 K\nInitial velocity, v₁ = 340 m s⁻¹\nFinal temperature, T₂ = 127°C = 127 + 273 = 400 K\nPressure is doubled (does not affect velocity of sound in air for an ideal gas)\n\nSolution:\n\nStep 1: Formula for velocity of sound in an ideal gas\nVelocity v is proportional to the square root of absolute temperature: v ∝ √T\nTherefore, v₂ / v₁ = √(T₂ / T₁)\n\nStep 2: Substitute values\nv₂ / 340 = √(400 / 289) = 20 / 17\n\nStep 3: Solve for v₂\nv₂ = 340 × (20 / 17) = 20 × 20 = 400 m s⁻¹",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 950,
+    "question": "A man standing on a lift that is descending does not feel any weight because",
+    "option": {
+      "a": "the inside of the lift is air tight",
+      "b": " the lift is in vacuum",
+      "c": "the lift's acceleration is same as acceleration due to gravity",
+      "d": "there is no gravitational pull on the man in the lift"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nA man in a descending lift experiences apparent weightlessness.\nAcceleration due to gravity = g\nLift is descending with acceleration a.\n\nSolution:\n\nStep 1: Apparent weight in a descending lift\nThe apparent weight of a man in a lift is given by:\nApparent weight = m(g – a)\nwhere a is the acceleration of the lift (downward positive).\n\nStep 2: Condition for feeling no weight\nFeeling no weight means apparent weight = 0.\nTherefore: m(g – a) = 0\ng – a = 0\na = g\n\nStep 3: Interpretation\nWhen the lift descends with acceleration equal to g (free fall), the man and the lift fall together with the same acceleration. The normal reaction from the floor becomes zero, so he feels weightless.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 953,
+    "question": "An object of mass 2 kg moves with a velocity of 10 ms⁻¹ round a circle of radius 4 m. Calculate the centripetal force on the object",
+    "option": {
+      "a": " 25 N",
+      "b": " 100 N",
+      "c": " 50 N",
+      "d": "40 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass (m) = 2 kg\nVelocity (v) = 10 m/s\nRadius (r) = 4 m\nCentripetal force (F) = ?\n\nFormula for centripetal force:\nF = mv²/r\nSubstituting values:\nF = (2 × 10²)/4\nF = (2 × 100)/4\nF = 200/4\nF = 50 N.  This centripetal force of 50 N is directed towards the center of the circular path and is necessary to keep the 2 kg object moving in a circle at 10 m/s. This force must be provided by friction, tension, gravity, or some other physical force depending on the situation (e.g., tension in a string, friction on a road, etc.).",
+    "examtype": "utme",
+    "examyear": "2011"
   },
   {
     "id": 955,
@@ -3376,6 +3600,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1031,
+    "question": "A newly charged 12V accumulator can easily start a car whereas eight new dry cells in series with a effective e.m.f. of 12V cannot start the same car because",
+    "option": {
+      "a": "The current capacity is high",
+      "b": "The current capacity is low",
+      "c": "it cannot be re-charged",
+      "d": " it cannot easily be connected to a car"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Eight dry cells in series cannot start a car because their current capacity is low. Due to high internal resistance, dry cells cannot deliver the very high currents (100-400A) required by a car's starter motor, even though they provide the same 12V as the accumulator.\nPractical demonstration:\nIf you measure the voltage of dry cells while trying to start a car, you'd see the voltage drop dramatically (maybe to 2-3V) due to the huge internal resistance, whereas the accumulator voltage drops only slightly (to ~10-11V).",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1034,
     "question": "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is",
     "option": {
@@ -3420,6 +3660,22 @@
     "image": "",
     "answer": "c",
     "solution": "\nGiven information:\n\nInitial length (L₁) = 0.4 m\nInitial period (T₁) = 2 s\nNew length (L₂) = 0.8 m\nNew period (T₂) = ?\nSame location (same g)\n\nFormula for period of simple pendulum:\nT = 2π√(L/g)\nKey relationship:\nT ∝ √L (period is proportional to square root of length)\nMethod 1: Using ratio\nT₁/T₂ = √(L₁/L₂)\nRearranging:\nT₂ = T₁ × √(L₂/L₁)\nSubstituting values:\nT₂ = 2 × √(0.8/0.4)\nT₂ = 2 × √2\nT₂ = 2√2 s",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1047,
+    "question": "An object is moving with a velocity of 5 ms⁻¹. At what height must a similar body be situated to have a potential energy equal in value with kinetic energy of the moving body?",
+    "option": {
+      "a": "25.0 m",
+      "b": "20.0 m",
+      "c": " 1.3 m",
+      "d": " 1.0 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nVelocity of moving object (v) = 5 m/s\ng = 10 m/s² (assumed standard)\nHeight where PE = KE = ?\nBoth objects have same mass (similar body)\n\nStep 1: Write energy equations\nKinetic energy of moving body:\nKE = ½mv²\nPotential energy of stationary body at height h:\nPE = mgh\nStep 2: Set energies equal\nFor PE to equal KE:\nmgh = ½mv²\nStep 3: Simplify (mass m cancels)\ngh = ½v²\nStep 4: Solve for height\nh = v²/(2g)\nSubstituting values:\nh = (5)²/(2 × 10)\nh = 25/20\nh = 1.25 m\nh ≈ 1.3 m",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -3728,6 +3984,22 @@
     "examyear": "2025"
   },
   {
+    "id": 1133,
+    "question": "A force of 18 N pulls a 40 kg mass on a horizontal floor at 0.3 m s⁻². Find the coefficient of friction.",
+    "option": {
+      "a": "0.003",
+      "b": "0.015",
+      "c": "0.3",
+      "d": "0.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nApplied force, F = 18 N\nMass, m = 40 kg\nAcceleration, a = 0.3 m s⁻²\ng = 10 m s⁻² (assumed)\n\nSolution:\n\nStep 1: Calculate frictional force\nNet force = Applied force – Frictional force\nF_net = m × a = 40 × 0.3 = 12 N\nTherefore, F – F_f = 12\nF_f = 18 – 12 = 6 N\n\nStep 2: Calculate normal reaction\nNormal reaction, R = mg = 40 × 10 = 400 N\n\nStep 3: Calculate coefficient of friction\nμ = F_f / R = 6 / 400 = 0.015",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 1137,
     "question": "The volume of a 1 cm³ metal ball increases by 0.0018 cm³ when heated through temperature θ. If the linear expansivity of the ball is 2.0 × 10⁻⁵ K⁻¹, find θ.",
     "option": {
@@ -3740,6 +4012,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nInitial volume, V₀ = 1 cm³\nChange in volume, ΔV = 0.0018 cm³\nLinear expansivity, α = 2.0 × 10⁻⁵ K⁻¹\n\nSolution:\n\nStep 1: Relate volume expansivity to linear expansivity\nFor isotropic materials, volume expansivity γ = 3α.\nγ = 3 × (2.0 × 10⁻⁵) = 6.0 × 10⁻⁵ K⁻¹\n\nStep 2: Volume expansion formula\nΔV = γ × V₀ × Δθ\nwhere Δθ is the temperature change θ.\n\nStep 3: Rearrange and substitute\nθ = ΔV / (γ × V₀) = 0.0018 / (6.0 × 10⁻⁵ × 1)\n\nStep 4: Calculate\nθ = 0.0018 / 6.0 × 10⁻⁵ = (1.8 × 10⁻³) / (6.0 × 10⁻⁵) = 30 K",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1139,
+    "question": "A boy uses a single string pulley system to lift a mass of 20 kg moving with a velocity of 5 m s⁻¹. What is the power developed by the boy if g = 10 m s⁻²?",
+    "option": {
+      "a": "100 W",
+      "b": "1000 W",
+      "c": "250 W",
+      "d": "40 W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nMass, m = 20 kg\nVelocity, v = 5 m s⁻¹\ng = 10 m s⁻²\n\nSolution:\n\nStep 1: Determine the force required\nTo lift the mass at constant speed, the boy must exert a force equal to the weight:\nF = mg = 20 × 10 = 200 N\n\nStep 2: Power formula\nPower = Force × velocity\nP = F × v = 200 × 5 = 1000 W",
     "examtype": "utme",
     "examyear": "2025"
   },
