@@ -2256,6 +2256,22 @@
     "examyear": "2"
   },
   {
+    "id": 142,
+    "question": "Amount paid to the beneficiary upon the death of the insured is",
+    "option": {
+      "a": "Premium",
+      "b": "Compensation",
+      "c": "Declaration",
+      "d": "Death benefit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 143,
     "question": "The clauses in the policy which make alterations or additions to the information stated in the policy is known as",
     "option": {
