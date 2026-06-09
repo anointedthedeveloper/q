@@ -3216,6 +3216,22 @@
     "examyear": "2016"
   },
   {
+    "id": 363,
+    "question": "A major contentious issues confronting Nigerian Federalism is",
+    "option": {
+      "a": "poverty",
+      "b": "education",
+      "c": "health care delivery",
+      "d": "revenue allocation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 364,
     "question": "A constitution of any country is basically",
     "option": {
@@ -5280,6 +5296,22 @@
     "examyear": "2014"
   },
   {
+    "id": 599,
+    "question": "Commonwealth nations are represented in other member nations by",
+    "option": {
+      "a": "charge d’ affaires",
+      "b": "ambassadors",
+      "c": "high commissioners",
+      "d": "attaches"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 600,
     "question": "The UN succeeded the",
     "option": {
@@ -5659,6 +5691,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 647,
+    "question": "Which of the following is not an aim of the Organization of African Unity (O.A.U)",
+    "option": {
+      "a": "Promotion of unity and solidarity among African states",
+      "b": "Co-operation of efforts to achieve a better life for the African people",
+      "c": "Defense of the sovereignty and independence of African state",
+      "d": "Enthronement of democratic governments in Africa."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -7600,6 +7648,22 @@
     "examyear": "2019"
   },
   {
+    "id": 851,
+    "question": "Implementations of the target programmes of the government is the primary duty of the _____ a part of the _____",
+    "option": {
+      "a": "Courts; Judiciary",
+      "b": " Public Service; Civil Service",
+      "c": " Civil Service; Public Service",
+      "d": "Ministers; Ministry of Works"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Civil Service is an integral branch of the public service which primarily functions to implement the policies of the government.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 852,
     "question": "The most recent target plans and agenda of the United Nations are known as the______",
     "option": {
@@ -7740,6 +7804,22 @@
     "image": "",
     "answer": "c",
     "solution": "Gerrymandering is the process of creating political constituencies in order to favour the electoral scores of a political party.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 866,
+    "question": "A predominant feature of the Precolonial governance system was that_________",
+    "option": {
+      "a": "the British Indirect rule system penetrated it largely",
+      "b": " the governance structures were largely undefined",
+      "c": "the customary laws were prevalent",
+      "d": "theocratic system was widely embraced"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Throughout the precolonial era in Nigeria, the native laws of the people governed them. They were largely unwritten and enforced by distinct units set in place for those purposes.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -10400,6 +10480,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1172,
+    "question": "The constitution that introduced restricted franchise into Nigerian politics was the",
+    "option": {
+      "a": "Independence Constitution",
+      "b": "Lyttelton Constitution",
+      "c": "Richards Constitution",
+      "d": "Clifford Constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Clifford Constitution was the constitution that introduced restricted franchise into Nigerian politics.\n\nThe elective principle was restricted to Lagos and Calabar only. Secondly, it was based on limited franchise of 12 months residential permit and $100.00 per annum.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1173,
     "question": "In Nigeria, the Council of State was first created by",
     "option": {
@@ -11164,6 +11260,22 @@
     "image": "",
     "answer": "c",
     "solution": "The pre-colonial Yoruba political system as a whole can best be described as confederation of monarchs and chiefdoms",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1259,
+    "question": "A common feature of the earlier political parties in Nigeria was that they",
+    "option": {
+      "a": "were formed by the government",
+      "b": "started as a social-cultural organizations",
+      "c": "were backed by the colonialists",
+      "d": "were non-elitist in nature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A common feature of the earlier political parties in Nigeria was that they started as a social-cultural organizations.\n\nFor instance the defunct action Group originated from Yoruba cultural organisation known as Egbe Omo Oduduwa.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -12112,6 +12224,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1369,
+    "question": "In the monarchical system of government, sovereignty is vested in the",
+    "option": {
+      "a": "people",
+      "b": "royalty",
+      "c": "legislature",
+      "d": "military"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a monarchical system, the ultimate authority or sovereignty is traditionally vested in the royal family—specifically, the monarch. Although modern constitutional monarchies often have democratic elements, the traditional principle of monarchy holds that the crown is the source of sovereign power, rather than the people, a legislature, or the military.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1371,
     "question": "A human community that is usually cohesive and homogeneous is a",
     "option": {
@@ -12428,6 +12556,22 @@
     "image": "",
     "answer": "a",
     "solution": "Incessant interference by government militates against the efficiency and productivity of public corporations in Nigeria. Sometimes government make them to do things which may not be in the good interest of the corporation.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1405,
+    "question": "The power to nominate members of the judiciary at the federal level under the 1999 Constitution is vested in the",
+    "option": {
+      "a": "Federal Judicial Service Commission",
+      "b": "Supreme Court",
+      "c": "National Judicial Council",
+      "d": "National Bar Association"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Under Nigeria’s 1999 Constitution, the National Judicial Council (NJC) is vested with the authority to nominate members of the federal judiciary for appointment by the President. This process ensures judicial independence and adherence to constitutional standards.",
     "examtype": "utme",
     "examyear": "2009"
   },
