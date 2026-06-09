@@ -1824,6 +1824,22 @@
     "examyear": "2004"
   },
   {
+    "id": 124,
+    "question": "A chemical reaction is always associated with",
+    "option": {
+      "a": "An increase in the composition of one of the substances",
+      "b": "A change in the volume of the reactants",
+      "c": "A change in the nature of the reactants",
+      "d": "The formation of new substances"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 125,
     "question": "If a solution contains 4.8g of Tetraoxosulphate (VI) acid. Calculate the amount of copper(II) oxide that will react with it  [CU = 64, O = 16, S = 32, H = 1]",
     "option": {
@@ -5728,6 +5744,22 @@
     "examyear": "2016"
   },
   {
+    "id": 394,
+    "question": "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as",
+    "option": {
+      "a": "A reversible reaction",
+      "b": "A spontaneous reaction",
+      "c": "An endothermic reaction",
+      "d": "An exothermic reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When hydration energy exceeds lattice energy, more energy is released during hydration than is absorbed in breaking the lattice. The net result is a release of energy to the surroundings, making the dissolution process exothermic. Examples include dissolving NaOH or H₂SO₄ in water.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 395,
     "question": "MnO₄⁻(aq) + Y + 5Fe²⁺(aq) → Mn²⁺(aq) + 5Fe³⁺(aq) + 4H₂O(l). In the equation above, Y is",
     "option": {
@@ -6288,6 +6320,22 @@
     "examyear": "2017"
   },
   {
+    "id": 430,
+    "question": "The reaction of halogens with alkanes in the presence of sunlight is an example of",
+    "option": {
+      "a": "oxidation reaction",
+      "b": "addition reaction",
+      "c": "hydrogenation reaction",
+      "d": "substitution reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When halogens react with alkanes in the presence of sunlight (UV light), a hydrogen atom in the alkane is replaced (substituted) by a halogen atom via a free radical mechanism. This is free radical substitution. For example: CH₄ + Cl₂ → CH₃Cl + HCl. Addition reactions occur with alkenes, not alkanes.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 431,
     "question": "The enzyme used in the hydrolysis of starch to dextrin and maltose is",
     "option": {
@@ -6380,6 +6428,22 @@
     "image": "",
     "answer": "d",
     "solution": "Charge = I × t = 0.5 × (45 × 60) = 1350 C. Cu²⁺ + 2e⁻ → Cu, so n = 2. Mass of Cu = (I × t × M)/(n × F) = (0.5 × 2700 × 64)/(2 × 96500) = 86400/193000 = 0.4477 g ≈ 0.448 g.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 437,
+    "question": "The IUPAC nomenclature of the structure shown (CH₂=C(CH₃)-CH₂-CH₃) is",
+    "option": {
+      "a": "3-methylbut-3-ene",
+      "b": "2-methylbut-1-ene",
+      "c": "2-ethylprop-1-ene",
+      "d": "2-methylbut-2-ene"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777637404/ALOC-Questions/Chemistry/UTME/2017/Chemistry_2017_Q33_gwm5ho.jpg",
+    "answer": "b",
+    "solution": "The structure shows a 4-carbon chain with a double bond at C1 (CH₂=C-) and a methyl group at C2. The longest chain containing the double bond has 4 carbons (but-), the double bond starts at C1 (-1-ene), and there is a methyl substituent at C2 (2-methyl-). IUPAC name: 2-methylbut-1-ene.",
     "examtype": "utme",
     "examyear": "2017"
   },
