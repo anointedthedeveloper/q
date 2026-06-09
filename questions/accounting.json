@@ -15568,6 +15568,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1074,
+    "question": "The three-column cash book differs from the two-column cash book in",
+    "option": {
+      "a": "Cash column,",
+      "b": "Discount column",
+      "c": "Bank column,",
+      "d": "Folio column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The three-column cash book differs from the two-column cash book by having an additional discount column.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1075,
     "question": "Zakari started a business in January 2000. He bought a shop costing ₦54,000 and stock worth ₦7,600. Profit for the year amounted to 22,100. His closing capital was ₦73,800.\nZakari's personal drawings amounted to?",
     "option": {
@@ -20956,6 +20972,22 @@
     "image": "",
     "answer": "a",
     "solution": "To find Adamu's profit, calculate the interest on capital first, then distribute the remaining profit according to the profit-sharing ratio.\nGiven information:\n\nProfit-sharing ratio: Adamu:Babaji:Chukwu = 3:2:1\nCapitals: Adamu ₦20,000, Babaji ₦15,000, Chukwu ₦5,000\nInterest on capital: 5% per annum\nProfit before interest on capital: ₦5,500\n\nStep 1: Calculate interest on capital\n\nAdamu's interest: ₦20,000 × 5% = ₦1,000\nBabaji's interest: ₦15,000 × 5% = ₦750\nChukwu's interest: ₦5,000 × 5% = ₦250\nTotal interest on capital: ₦2,000\n\nStep 2: Calculate profit available for distribution\nProfit after charging interest = ₦5,500 - ₦2,000 = ₦3,500\nStep 3: Distribute remaining profit in ratio 3:2:1\nTotal ratio = 3 + 2 + 1 = 6\nAdamu's share = (3/6) × ₦3,500 = ₦1,750\nStep 4: Calculate Adamu's total profit\nAdamu's total profit = Interest on capital + Share of profit\n= ₦1,000 + ₦1,750 = ₦2,750",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1445,
+    "question": "Faruk and Osawe are in partnership sharing profits and losses in the ratio of 3:7. Faruk is to receive a salary of ₦9 000. In one accounting period, the business recorded a loss of ₦1 500 (before deduction of Faruk's salary). The appropriate distribution of the net loss would be?",
+    "option": {
+      "a": "Faruk, (₦450); Osawe, (₦1 050)",
+      "b": "Faruk, (₦3 150); Osawe, (₦7350)",
+      "c": "Faruk, (2 250); Osawe, (₦7 350)",
+      "d": "Faruk, (₦450); Osawe, (₦1 050)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nProfit-sharing ratio: Faruk:Osawe = 3:7\nFaruk's salary: ₦9,000\nLoss before salary deduction: ₦1,500\n\nStep 1: Calculate net loss after salary\nNet loss = Loss before salary + Faruk's salary\nNet loss = ₦1,500 + ₦9,000 = ₦10,500\nStep 2: Distribute net loss in ratio 3:7\nTotal ratio = 3 + 7 = 10\nFaruk's share of loss = (3/10) × ₦10,500 = ₦3,150\nOsawe's share of loss = (7/10) × ₦10,500 = ₦7,350\nStep 3: Calculate final position\n\nFaruk: Gets salary ₦9,000 but bears loss of ₦3,150\nNet effect: ₦9,000 - ₦3,150 = ₦5,850 (credit)\nOsawe: Bears loss of ₦7,350 (debit)",
     "examtype": "utme",
     "examyear": "1997"
   },
