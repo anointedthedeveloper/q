@@ -5016,6 +5016,25 @@
     "category": "others"
   },
   {
+    "id": 290,
+    "question": "The action was <i>premeditated</i>",
+    "option": {
+      "a": "unnecessary ",
+      "b": "catastrophic ",
+      "c": "unplanned ",
+      "d": "uncoordinated"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 291,
     "question": "A <i>tentative</i> solution was provided",
     "option": {
@@ -22644,6 +22663,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 107,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1481,
+    "question": "H[ei]r",
+    "option": {
+      "a": "Care",
+      "b": "Near",
+      "c": "mere",
+      "d": "weird"
+    },
+    "section": "Choose the word that has the same vowel sound as the one in bracket, from questions below",
+    "image": "",
+    "answer": "a",
+    "solution": "The vowel sound here is /e∂/ which perceivable in 'Care', 'air'.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 108,
     "hasPassage": 0,
     "category": "others"
   },
