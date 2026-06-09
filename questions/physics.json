@@ -2160,6 +2160,22 @@
     "examyear": "2015"
   },
   {
+    "id": 163,
+    "question": "If the velocity ratio of a machine is 5. What is its ratio of x and y?",
+    "option": {
+      "a": "2:05",
+      "b": "1:05",
+      "c": " 5 : 1",
+      "d": "3:01"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Velocity Ratio (V.R) = distance moved by the effort (x)÷ distance moved by the load (y)\n\ni.e. V.R = x/y\n\nv. R = 5, x/y = ?\n\ni.e x/y = 5/1; , where x = 5, y = 1\n\nx : y = 5 : 1",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 164,
     "question": "If the mechanical advantage of a machine is 4. What is its ratio for LOAD to EFFORT?",
     "option": {
@@ -6432,6 +6448,22 @@
     "examyear": "2022"
   },
   {
+    "id": 497,
+    "question": "One of the following is a scalar quantity?",
+    "option": {
+      "a": "weight",
+      "b": "momentum",
+      "c": " potential energy",
+      "d": "displacement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Potential energy is a scalar quantity as it only has magnitude and no directional component. Weight, momentum, and displacement are all vector quantities because they require both magnitude and direction for complete description.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 498,
     "question": "The mercury column in the barometer at notational  atmospheric pressure has a height of?",
     "option": {
@@ -7196,6 +7228,22 @@
     "image": "",
     "answer": "a",
     "solution": "Streaming refers to the streamlined shape of an object, which helps minimize air resistance (drag) as it moves through the air. This is often applied in aerodynamics to improve the efficiency of vehicles and objects moving through air.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 557,
+    "question": "Which of the following operates based on magnetic effect of electric current?",
+    "option": {
+      "a": "electric heater",
+      "b": "photocell",
+      "c": "Dynamo",
+      "d": "Cold cathode"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A dynamo (generator) operates based on electromagnetic induction, which is a magnetic effect. When a conductor moves through a magnetic field or when magnetic flux through a coil changes, an electric current is induced. This conversion of mechanical energy to electrical energy relies on the interaction between motion and magnetic fields.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -8108,6 +8156,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296034/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_29_hfrs8z.png",
     "answer": "a",
     "solution": "Given information:\n\nForce 1: 4N (horizontal, pointing left)\nForce 2: 10N (horizontal, pointing right)\nForce 3: 8N (at 60° above horizontal, pointing right-upward)\nForce 4: 6N (at 60° below horizontal, pointing right-downward)\n\nSolution:\nStep 1: Resolve forces into horizontal components\nTaking rightward as positive direction:\n4N force (horizontal left):\nHorizontal component = -4 N\n10N force (horizontal right):\nHorizontal component = +10 N\n8N force (at 60° above horizontal):\nHorizontal component = 8 cos(60°) = 8 × 0.5 = 4 N\n6N force (at 60° below horizontal):\nHorizontal component = 6 cos(60°) = 6 × 0.5 = 3 N\nStep 2: Calculate net horizontal force\nNet horizontal force = -4 + 10 + 4 + 3\nNet horizontal force = 13 N (rightward)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 630,
+    "question": "In which of the following material media will sound travel fastest?",
+    "option": {
+      "a": "oil",
+      "b": "metal",
+      "c": "gas",
+      "d": "water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Sound travels fastest in solids (especially metals) because:\n\nStrong intermolecular bonds\nParticles are tightly packed\nEfficient transmission of vibrations",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -10252,6 +10316,22 @@
     "image": "",
     "answer": "c",
     "solution": "A moving iron ammeter can measure both alternating current (AC) and direct current (DC) due to its design, which allows it to respond to the magnetic field created by both types of current.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 796,
+    "question": "Lenz's law is a law of conservation of",
+    "option": {
+      "a": "electric charge",
+      "b": "electric current",
+      "c": "Energy",
+      "d": "Momentum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Lenz's lew of electrical magnetic induction is usefully referred to as the law of conservation of energy",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -13982,6 +14062,22 @@
     "solution": "The number of photo-electrons ejected per second depends on the intensity of the beam.",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 1080,
+    "question": "What is the least possible error encountered when taking measurement with a meter rule?",
+    "option": {
+      "a": "0.1mm",
+      "b": "1.0mm",
+      "c": " 0.5mm",
+      "d": "0.2mm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A meter rule is typically calibrated in millimeters (mm), with the smallest division being 1 mm.\n\nSolution:\n\nStep 1: Understand least possible error\nThe least possible error (or absolute uncertainty) in a measurement is usually taken as half the smallest division of the measuring instrument.\n\nStep 2: Apply to a meter rule\nSmallest division on a standard meter rule = 1 mm\nLeast possible error = ½ × 1 mm = 0.5 mm",
+    "examtype": "utme",
+    "examyear": "2014"
   },
   {
     "id": 1081,
