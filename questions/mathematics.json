@@ -4224,6 +4224,22 @@
     "examyear": "2004"
   },
   {
+    "id": 310,
+    "question": "The shaded region in the Venn diagram above is",
+    "option": {
+      "a": " Pc ∪ (Q ∩ R)",
+      "b": " Pc ∩ (Q ∪ R)",
+      "c": " P ∩ Q",
+      "d": "Pc ∩ (Q ∩ R)"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700796/ALOC-Questions/Mathematics/2004/math_2004_q39_uuly9k.jpg",
+    "answer": "d",
+    "solution": "The shaded portion shows the elements in Q and R, but not in P, Q n R n P'",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 311,
     "question": "Simplify 1/√3+2\n in the form a+b√3",
     "option": {
@@ -4684,6 +4700,22 @@
     "image": "",
     "answer": "d",
     "solution": "Gradient of the line y + 2x = 5 = -2\nGradient of the line perpendicular to\ny + 2x + 5 = 1/2\nequation of a line perpendicular to\ny + 2x = 5 at the point (4, 3)\ny - y1 = m(x - x1)\ny - 3 = 1/2(x - 4)\n2y - 6 = x -4\n2y - x = 2",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 348,
+    "question": "A chord of a circle subtends an angle of 60° at the length of a circle of radius 14 cm. Find the length of the chord",
+    "option": {
+      "a": " 7 cm",
+      "b": " 14 cm",
+      "c": "21 cm",
+      "d": "28 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Chord Length (L) = 2×Radius×(sin(angle/2))\n= 2×14×(sin60/2)\n= 28×(sin30)\n= 28×1/2\n= 14cm\n ",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -7360,6 +7392,22 @@
     "examyear": "2009"
   },
   {
+    "id": 546,
+    "question": "If the hypotenuse of a right-angled isosceles triangle is 2cm. What is the area of the triangle?",
+    "option": {
+      "a": " 1/√2 cm<sup>2</sup>",
+      "b": "1 cm<sup>2</sup>",
+      "c": "√2 cm<sup>2</sup>",
+      "d": "2√2 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547147/ALOC-Questions/Mathematics/2009/MATH_2009_Q25_jzxmbo.jpg",
+    "answer": "b",
+    "solution": "X<sup>2</sup> + x<sup>2</sup> = 2<sup>2</sup>\n2x<sup>2</sup> = 4\nx<sup>2</sup> = 4/2\nx<sup>2</sup> = 2\nx = +/-√2\nArea of Δ = 1/2bh\n= 1/2 x √2 x √2\n= 2/2\n= 1 cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 547,
     "question": "A chord drawn 5 cm away from the center of a circle of radius 13 cm. Calculate the length of the chord?",
     "option": {
@@ -9552,6 +9600,22 @@
     "examyear": "2012"
   },
   {
+    "id": 751,
+    "question": "Evaluate ∫<sup>π/4</sup>, <sub>0</sub>sec<sup>2</sup>θdθ",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": " ∫<sup>π/4</sup>, <sub>0</sub>sec<sup>2</sup>θdθ\n \n= [tanθ]<sup>π/4</sup>, <sub>0</sub>\n= tanπ/4−tan0\n= 1 − 0\n= 1.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 752,
     "question": "The mean of seven numbers is 96. If an eighth number is added, the mean becomes 112. Find the eighth number.",
     "option": {
@@ -9628,6 +9692,22 @@
     "image": "",
     "answer": "a",
     "solution": "8!/3!\n \n\n8×7×6×5×4×3×2×1/3×2×1\n\n\n==> 8 x 7 x 6 x 5 x 4 = 6720",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 758,
+    "question": "The probability that a student passes a physics test is 2/3. If he takes three physics tests, what is the probability that he passes two of the tests?",
+    "option": {
+      "a": "2/27",
+      "b": "3/27",
+      "c": "4/27",
+      "d": "5/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Pass(P) = 2/3\n, Fail(F) = 1/3\n\n\nT = P.P.F ==> 2/3 × 2/3 × 1/3\n = 4/27",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -13776,6 +13856,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1060,
+    "question": "What is the rate of change of the volume V of a hemisphere with respect to its radius r when r = 2?\n",
+    "option": {
+      "a": "8π",
+      "b": "16π",
+      "c": "2π",
+      "d": "4π"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "V=2/3 πr<sup>3</sup>\ndV/dr = 2πr<sup>2</sup>\ndV/dr(r = 2) = 2π(2)<sup>2</sup>\n= 8π",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1061,
     "question": "determine the maximum value of y=3x<sup>2</sup> + 5x - 3",
     "option": {
@@ -14862,6 +14958,22 @@
     "solution": "It is given that the cost of the item reduces to #3800.00 after the discount on the item.\n\nLet original price = x\n\nx – (20% of x) = 100\n\n⇒ x – 0.2x = 100\n\n⇒ 0.8x = #3800\n\n⇒ x = 3800/0.8\n⇒ x = 4,750",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 1138,
+    "question": "Evaluate: 16<sup>(0.16)</sup>\n × 16<sup>(0.04)</sup>(0.04) × 2<sup>(0.2)</sup>",
+    "option": {
+      "a": " 2",
+      "b": " 0",
+      "c": "2<sup>0</sup>",
+      "d": " 1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "16<sup>0.16</sup> × 16<sup>0.04</sup> × 2<sup>0.2/sup>\n\n= 2<sup>4(0.16)</sup> × 2<sup>4(0.04)</sup> ×2<sup>0.2</sup>\n\n= 2<sup>0.64</sup> × 2<sup>0.16</sup> × 2<sup>0.2</sup>\n\n=2<sup>(0.64 × 0.16 × 0.2)</sup>\n\n=2<sup>1</sup>\n\n  = 2",
+    "examtype": "utme",
+    "examyear": "2023"
   },
   {
     "id": 1139,
