@@ -1136,6 +1136,22 @@
     "examyear": "2011"
   },
   {
+    "id": 108,
+    "question": "Which of the following is not true about a chemical cell?   ",
+    "option": {
+      "a": "in primary cells the process through which current is generated is irreversible  ",
+      "b": "secondary cells can be recharged after they run down by passing a current into the cell in the  reverse direction ",
+      "c": "positive ions are attracted to the positive electrode where they become neutralized by acquiring electrons  ",
+      "d": "primary cells  can be recharged"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 109,
     "question": "A cigarette lighter in a car is a resistor that, when activated, is connected across the 12 – V battery. If the lighter dissipates 33 W of power, find the current it delivers  to the lighter.  ",
     "option": {
@@ -1644,6 +1660,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nHeight (h) = 20 meters\nInitial velocity (u) = 0 m/s (ball is released, not thrown)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing the equation of motion:\nh = ut + ½gt²\nSince u = 0 (released from rest):\nh = ½gt²\nRearranging to find t:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 20/10)\nt = √(40/10)\nt = √4\nt = 2 seconds\nAnswer: A. 2 sec",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 164,
+    "question": "If the mechanical advantage of a machine is 4. What is its ratio for LOAD to EFFORT?",
+    "option": {
+      "a": "4:01",
+      "b": "1:04",
+      "c": "5:01",
+      "d": "2:01"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Mechanical advantage (M.A) of a machine is the ratio of its load to effort\n\nMathematically\n\nMechanical advantage (M.A) = Load (L) ÷ Effort (E)\n\nIn symbol M.A = L/E\n\nNote:Mechanical (advantages has no S.I unit)\n\nIf M.A = 4 then,\n\nL/E = 4/1\n\nThe ratio of load to effort = 4 : 1 respectively",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2512,6 +2544,22 @@
     "examyear": "2017"
   },
   {
+    "id": 250,
+    "question": "The instrument used to measure the pressure of a gas is",
+    "option": {
+      "a": "barometer",
+      "b": "thermometer",
+      "c": "hydrometer",
+      "d": "manometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Barometer is used to measure atmosphere pressure\nThermometer is used to measure temperature\nHydrometer is used to measure relative density of a liquid\nManometer is used to measure the pressure of a gas",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 251,
     "question": "A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10ms⁻², the power expended is",
     "option": {
@@ -2976,6 +3024,22 @@
     "examyear": "2018"
   },
   {
+    "id": 296,
+    "question": "In the diagram given the hanging mass m2 is adjusted until m1 is on the verge of sliding. The coefficient of static",
+    "option": {
+      "a": "m₁/m₂",
+      "b": "m₁g/m₂",
+      "c": " m₂/m₁",
+      "d": "m₂g/m₁"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611541/ALOC-Questions/Physics/2018/2018_Q_17_z9ue8y.jpg",
+    "answer": "c",
+    "solution": "From the diagram:\n\nMass m₁ is on a horizontal surface\nMass m₂ hangs vertically over a pulley\nString connects m₁ and m₂\nSystem is on verge of sliding (limiting friction)\n\nAt the verge of sliding:\nFor m₁ (horizontal forces):\n\nTension in string (T) = Friction force (F)\nF = μN (limiting friction)\nNormal force: N = m₁g\nTherefore: T = μm₁g ... (1)\n\nFor m₂ (vertical forces):\n\nWeight of m₂ = Tension\nm₂g = T ... (2)\n\nEquating equations (1) and (2):\nμm₁g = m₂g\nSolving for coefficient of static friction (μ):\nμ = m₂g/(m₁g)\nμ = m₂/m₁",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 297,
     "question": "Which of the following may be used to explain a mirage?\nI. Layers of air near the road surface have varying refractive indices in hot weather\nII. Road surfaces sometimes becomes invisible in hot weather\nIII. Light from the sky can be refracted upwards after coming close to the road surface.",
     "option": {
@@ -3164,6 +3228,22 @@
     "image": "",
     "answer": "b",
     "solution": "Evaporation is the process whereby a liquid turns spontaneously into vapor at temperatures below the boiling point, occurring naturally at the liquid's surface.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 311,
+    "question": "The differences observed in solids, liquids and gases may be accounted for by",
+    "option": {
+      "a": "their relative masses",
+      "b": "their melting points",
+      "c": " the spacing and forces acting between the molecules",
+      "d": "the different molecules in each of them"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The differences between solids, liquids, and gases are accounted for by the spacing between molecules and the strength of intermolecular forces.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3838,6 +3918,22 @@
     "solution": "Given information:\n\nCurrent (I) = 1A (r.m.s value)\nFrequency (f) = 800 Hz\nInductance (L) = 2.5mH = 2.5 × 10⁻³ H\nResistance (R) = 5Ω\nPower absorbed = ?\n\nKey principle:\nIn an AC circuit with resistance and inductance:\n\nPower is dissipated only in the resistance\nInductance stores and returns energy (no net power dissipation)\n\nFormula for power absorbed:\nP = I²R\nNote: The inductance affects impedance and phase angle but doesn't dissipate power.\nCalculating power:\nP = I²R\nP = (1)² × 5\nP = 1 × 5\nP = 5W",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 382,
+    "question": "\nA machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms⁻¹. The recoil speed of the machine gun is",
+    "option": {
+      "a": "0.5 ms⁻¹",
+      "b": "1.5 ms⁻¹",
+      "c": "1 ms⁻¹",
+      "d": "2 ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass of gun (M) = 5 kg\nMass of bullet (m) = 50g = 0.05 kg\nVelocity of bullet (v) = 100 m/s\nRecoil velocity of gun (V) = ?\n\nUsing Conservation of Momentum:\nInitial momentum = Final momentum\nBefore firing (both at rest):\nInitial momentum = 0\nAfter firing:\nFinal momentum = momentum of bullet + momentum of gun\n0 = mv + MV\nNote: Gun recoils in opposite direction, so velocities have opposite signs.\nSolving for recoil velocity:\n0 = mv - MV (taking bullet forward as positive, gun backward as negative)\nMV = mv\nV = mv/M\nSubstituting values:\nV = (0.05 × 100)/5\nV = 5/5\nV = 1 m/s",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 384,
@@ -6016,6 +6112,22 @@
     "examyear": "2024"
   },
   {
+    "id": 594,
+    "question": "In electrolysis, when same quantity of electricity is passed through different electrolytes, mass of substances deposited is proportional to ",
+    "option": {
+      "a": "Molecular weight",
+      "b": "Chemical equivalent",
+      "c": "Atomic number",
+      "d": "Chemical equivalent per valency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Faraday's second law states that the masses of different substances deposited or liberated by the same quantity of electricity are directly proportional to the chemical equivalents of the substances.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 598,
     "question": "The property by which a material returns to its original shape after the removal of force is called ",
     "option": {
@@ -7056,6 +7168,22 @@
     "examyear": "2006"
   },
   {
+    "id": 707,
+    "question": "A drop of petrol makes a finger colder than a drop of water would because?",
+    "option": {
+      "a": "petrol takes its latent heat of veporization from the finger",
+      "b": "petrol takes its latent heat of fusion from the finger",
+      "c": " water is more viscious than petrol",
+      "d": "water has higher surface tension dan petrol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This process occurs as the petrol evaporates, drawing heat away from the skin and causing a cooling sensation.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 708,
     "question": "A cell of internal resistance r is connected to an external resistor R. The condition for maximum power transfer is?",
     "option": {
@@ -7856,6 +7984,22 @@
     "examyear": "2007"
   },
   {
+    "id": 791,
+    "question": "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600µc across the field is",
+    "option": {
+      "a": "0.8j",
+      "b": "1.8j",
+      "c": "9.0j",
+      "d": "18.0j"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPotential difference (V) = 3 kV = 3 × 10³ V = 3000 V\nCharge (Q) = 600 µC = 600 × 10⁻⁶ C = 6 × 10⁻⁴ C\nWork done (W) = ?\n\nFormula:\nWork done in moving a charge through a potential difference:\nW = QV\nSubstituting values:\nW = 6 × 10⁻⁴ × 3 × 10³\nW = 6 × 3 × 10⁻⁴⁺³\nW = 18 × 10⁻¹\nW = 1.8 J",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 792,
     "question": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1Ω, the resistivity is",
     "option": {
@@ -8028,6 +8172,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nWeight of empty bottle = 2 N\nWeight of bottle + water = 5 N\nWeight of bottle + olive oil = 4 N\n\nSolution:\n\nStep 1: Find weight of water and oil\nWeight of water = 5 N – 2 N = 3 N\nWeight of oil = 4 N – 2 N = 2 N\n\nStep 2: Relative density definition\nRelative density of oil = (mass of oil) / (mass of water) for the same volume. Since weight is proportional to mass (g constant),\nRelative density = (weight of oil) / (weight of water) = 2 N / 3 N = 2/3",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 812,
+    "question": "The thermometric properties of a thermocouple is the change in?",
+    "option": {
+      "a": " equivalent resistance",
+      "b": "electromotive force",
+      "c": "colour",
+      "d": "pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Temperature difference between hot and cold junctions of thermocouple is proportional to the emf. Generated",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -9104,6 +9264,22 @@
     "examyear": "2010"
   },
   {
+    "id": 917,
+    "question": "The wavelength of a wave traveling with a velocity of 420 ms⁻¹ is 42 m. What is its period?",
+    "option": {
+      "a": "1.2 s",
+      "b": "1.0 s",
+      "c": "0.5 s",
+      "d": "0.1 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nWave velocity (v) = 420 m/s\nWavelength (λ) = 42 m\nPeriod (T) = ?\n\nStep 1: Calculate frequency using wave equation\nv = fλ\nRearranging for frequency:\nf = v/λ\nSubstituting values:\nf = 420/42\nf = 10 Hz\nStep 2: Calculate period\nPeriod is the reciprocal of frequency:\nT = 1/f\nSubstituting:\nT = 1/10\nT = 0.1 s\nAlternative direct method:\nT = λ/v\nT = 42/420\nT = 0.1 s",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 918,
     "question": "The sound of an electricity bell dies down slowly when air is slowly pumped out from a bottle because",
     "option": {
@@ -9356,6 +9532,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nA man in a descending lift experiences apparent weightlessness.\nAcceleration due to gravity = g\nLift is descending with acceleration a.\n\nSolution:\n\nStep 1: Apparent weight in a descending lift\nThe apparent weight of a man in a lift is given by:\nApparent weight = m(g – a)\nwhere a is the acceleration of the lift (downward positive).\n\nStep 2: Condition for feeling no weight\nFeeling no weight means apparent weight = 0.\nTherefore: m(g – a) = 0\ng – a = 0\na = g\n\nStep 3: Interpretation\nWhen the lift descends with acceleration equal to g (free fall), the man and the lift fall together with the same acceleration. The normal reaction from the floor becomes zero, so he feels weightless.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 951,
+    "question": "Two balls X and Y weighing 5 g and 50 kg respectively were thrown up vertically at the same time with a velocity of 100 ms⁻¹. How will their positions be one second later?",
+    "option": {
+      "a": " X and Y will be 500 m from each other",
+      "b": "Y will be 500 m ahead of X",
+      "c": " X will be 500 m ahead of Y",
+      "d": " X and Y both be 500 m from the point of throw"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using v² = u² - 2gs at maximum height (v = 0):\n\n0 = 100² - 2(10)s\ns = 10,000/20 = 500 m",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -10044,6 +10236,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nWave equation: y = 15 sin (2π/5)(60t - x)\n\nSolution:\n\nStep 1: Rewrite the equation in standard form\nThe argument of the sine function is (2π/5)(60t - x).\nExpanding: (2π/5)(60t - x) = (2π × 60 / 5)t - (2π/5)x = (120π/5)t - (2π/5)x = 24π t - (2π/5)x\n\nStep 2: Identify the wave number k\nThe standard form is y = A sin(ωt - kx), where k = 2π/λ.\nFrom the equation, k = 2π/5.\n\nStep 3: Calculate wavelength λ\nλ = 2π / k = 2π / (2π/5) = 5 m",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1021,
+    "question": "Which of the following factors will affect the velocity of sound?",
+    "option": {
+      "a": " An increase in the pitch of the sound",
+      "b": " An increase in the loudness of the sound",
+      "c": " Wind travelling in the same direction of the sound",
+      "d": " A change in the atmospheric pressure at constant temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Pitch, loudness, and atmospheric pressure do not affect sound velocity. Wind traveling in the same direction of sound affects its velocity. wind can slow down or accelerate the speed of sound, depending on whether it is blowing in the same direction or in the opposite direction to the sound signal.",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -10848,6 +11056,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1108,
+    "question": "What charge is stored in a 0.1 F capacitor when a 10 V supply is connected across it?",
+    "option": {
+      "a": "1 C",
+      "b": "5 C",
+      "c": "4 C",
+      "d": "2 C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nCapacitance, C = 0.1 F\nVoltage, V = 10 V\n\nSolution:\n\nStep 1: Formula for charge stored in a capacitor\nThe charge Q stored in a capacitor is given by:\nQ = C × V\n\nStep 2: Substitute the values\nQ = 0.1 F × 10 V = 1 C",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1111,
     "question": "PHCN measures its electrical energy in",
     "option": {
@@ -11212,6 +11436,22 @@
     "image": "",
     "answer": "d",
     "solution": "Food stores energy in chemical bonds, released during metabolism.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1152,
+    "question": "A machine has an efficiency of 80%. If the input work is 200J, the output work is?",
+    "option": {
+      "a": " 250J",
+      "b": "160J",
+      "c": "120J",
+      "d": "100J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nEfficiency η = 80% = 0.8\nInput work, W_in = 200 J\n\nSolution:\n\nStep 1: Efficiency formula\nEfficiency = (Output work) / (Input work)\n\nStep 2: Rearrange for output work\nOutput work = Efficiency × Input work\n\nStep 3: Substitute values\nOutput work = 0.8 × 200 J = 160 J",
     "examtype": "utme",
     "examyear": "2025"
   },
