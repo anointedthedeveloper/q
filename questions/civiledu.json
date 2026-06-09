@@ -848,6 +848,22 @@
     "examyear": "2014"
   },
   {
+    "id": 75,
+    "question": "The International Court of Justice is located in",
+    "option": {
+      "a": "Britain.",
+      "b": "Netherlands.",
+      "c": "Nigeria.",
+      "d": "Norway."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 76,
     "question": "The headquarters of United Nations is located in",
     "option": {
@@ -871,6 +887,22 @@
       "b": "is the only system available.",
       "c": "prevents arbitrary law making",
       "d": "projects party manifestoes."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 78,
+    "question": "Public Complaints Commission in Nigeria is also known as",
+    "option": {
+      "a": "elder’s forum.",
+      "b": "judiciary.",
+      "c": "ombudsman.",
+      "d": "people’s court."
     },
     "section": "",
     "image": "",
@@ -2112,6 +2144,22 @@
     "examyear": "2012"
   },
   {
+    "id": 177,
+    "question": "A government is said to be legitimate if it",
+    "option": {
+      "a": "has the people’s mandate to rule",
+      "b": "is not oppressive",
+      "c": "provide social services for the people",
+      "d": "accepts people’s criticism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
     "id": 178,
     "question": "All type of government perform all the following functions except",
     "option": {
@@ -2640,6 +2688,22 @@
     "examyear": "2013"
   },
   {
+    "id": 222,
+    "question": "The ideology which emphasizes a classless society is",
+    "option": {
+      "a": "Communism",
+      "b": "Capitalism",
+      "c": "Totalitarianism",
+      "d": "Feudalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 224,
     "question": "The power to legislate is usually exercised by",
     "option": {
@@ -2816,6 +2880,22 @@
     "examyear": "2013"
   },
   {
+    "id": 240,
+    "question": "Drug abuse can be curbed by",
+    "option": {
+      "a": "encouraging the use of enhancement drugs in sports",
+      "b": "teaching youths moral and religious principles",
+      "c": "encouraging rural urban migration",
+      "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 241,
     "question": "A problem commonly faced by most people living with HIV/AIDs is of",
     "option": {
@@ -2987,6 +3067,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 256,
+    "question": "Malaria fever can be transmitted through",
+    "option": {
+      "a": "hand shaking",
+      "b": "eating of unbalanced diet",
+      "c": "mosquito bite",
+      "d": "eating of bush meat such as bat and monkey"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
