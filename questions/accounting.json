@@ -16208,6 +16208,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1031,
+    "question": "A piece of equipment costing ₦120,000 was purchased on 1/1/1996. Depreciation was provided at 20% per annum on a straight-line basis. it was sold on 30/6/1999 for ₦31,500.\n\nThe net book value of the piece of equipment at the time of sale was?",
+    "option": {
+      "a": "₦96 000",
+      "b": " ₦48 000",
+      "c": "₦36 000",
+      "d": "₦24 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Cost                     120,000\nLess: Accumulated depr.   84,000\n-------------------------------\nNet book value            36,000",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1032,
     "question": "The item that are contained in the bought ledger control account are?",
     "option": {
