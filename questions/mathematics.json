@@ -17168,6 +17168,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1172,
+    "question": "Let a binary operation '*' be defined on a set A. The operation will be commutative if",
+    "option": {
+      "a": "a*b = b*a",
+      "b": " (a*b)*c = a*(b*c)",
+      "c": "(b ο c)*a = (b*a) ο (c*a)",
+      "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A binary operation '*' defined on a set A is said to be commutative only if a*b=b*a, ∀a, b∈A.\n\nIf (a*b)*c=a*(b*c), then the operation is said to associative ∀ a, b∈ A.\n\nIf (b ο c)*a=(b*a) ο (c*a), then the operation is said to be distributive ∀ a, b, c ∈ A.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1173,
     "question": "Solve the following quadratic inequality: x<sup>2</sup> − x - 4 ≤ 2",
     "option": {
