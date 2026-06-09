@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 8,
+    "question": "Solve for p in the following  equation given in base two  11(p+ 110) = 1001p   ",
+    "option": {
+      "a": "10",
+      "b": "11",
+      "c": "110",
+      "d": "111"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 11,
     "question": "Z is partly constant and partly varies inversely as the square of d. when d = 1, z = 11 and when d = 2, z = 5. Find the value of z when d = 4.  ",
     "option": {
@@ -135,6 +151,22 @@
       "b": "115o  ",
       "c": "50o  ",
       "d": "65o"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 20,
+    "question": "The volume of a certain sphere is numerically equal to twice its surface area. The diameter of the sphere is: ",
+    "option": {
+      "a": "6",
+      "b": "9",
+      "c": "12",
+      "d": ""
     },
     "section": "",
     "image": "",
@@ -350,6 +382,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
+  },
+  {
+    "id": 49,
+    "question": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?. ",
+    "option": {
+      "a": "6cm ",
+      "b": "7cm ",
+      "c": "8cm    ",
+      "d": "9cm      "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   },
   {
     "id": 52,
@@ -1472,6 +1520,22 @@
     "examyear": "2002"
   },
   {
+    "id": 202,
+    "question": "A solid hemisphere has a radius of 7 cm. Find the total surface area.",
+    "option": {
+      "a": "400 cm<sup>2</sup>",
+      "b": "462 cm<sup>2</sup>",
+      "c": "66 cm<sup>2</sup>",
+      "d": "308 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Total surface area of hemisphere = half of TSA of sphere + circumference of circle\n\n= 2πr<sup>2</sup> + πr<sup>2</sup> = 3πr<sup>2</sup>\n= 3 × (22)/7 × 7<sup>2</sup> = 462cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 204,
     "question": "The locus of a point P which is equidistant from two given points S and T is",
     "option": {
@@ -2144,6 +2208,22 @@
     "examyear": "2004"
   },
   {
+    "id": 287,
+    "question": "find the mean deviation of 1, 2, 3 and 4",
+    "option": {
+      "a": "2.5",
+      "b": "2.0",
+      "c": "1.0",
+      "d": "1.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "X = 1, 2, 3, 4; ∑X = 10\nx = ∑X/n = 10/4 = 2.5\nX - x = -1.5, -0.5, 0.5, 1.5\nlX - xl = 1.5, 0.5, 0.5, 1.5; ∑lX - xl = 4.0\nmean deviation = (∑lX - xl)/n\n= 4.0/4\n= 1.0",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 289,
     "question": "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested",
     "option": {
@@ -2220,6 +2300,22 @@
     "image": "",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 298,
+    "question": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression",
+    "option": {
+      "a": "27",
+      "b": "8",
+      "c": "78",
+      "d": "48"
+    },
+    "section": "SOLUTION : <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>a</mi>\n  <mo>=</mo>\n  <mn>6</mn>\n  <mo>,</mo>\n  <msub>\n    <mi>U</mi>\n    <mn>4</mn>\n  </msub>\n  <mo>=</mo>\n  <mn>162</mn>\n  <mspace linebreak=\"newline\" />\n  <msub>\n    <mi>U</mi>\n    <mn>4</mn>\n  </msub>\n  <mo>=</mo>\n  <mi>a</mi>\n  <msup>\n    <mi>r</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>4</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <msub>\n    <mi>U</mi>\n    <mn>4</mn>\n  </msub>\n  <mo>=</mo>\n  <mi>a</mi>\n  <msup>\n    <mi>r</mi>\n    <mn>3</mn>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <mn>162</mn>\n  <mo>=</mo>\n  <mn>6</mn>\n  <mo stretchy=\"false\">(</mo>\n  <mi>r</mi>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mn>3</mn>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <msup>\n    <mi>r</mi>\n    <mn>3</mn>\n  </msup>\n  <mo>=</mo>\n  <mn>27</mn>\n  <mspace linebreak=\"newline\" />\n  <mi>r</mi>\n  <mo>=</mo>\n  <mroot>\n    <mn>27</mn>\n    <mn>3</mn>\n  </mroot>\n  <mspace linebreak=\"newline\" />\n  <mi>r</mi>\n  <mo>=</mo>\n  <mn>3</mn>\n  <mspace linebreak=\"newline\" />\n  <msub>\n    <mi>S</mi>\n    <mn>4</mn>\n  </msub>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mi>a</mi>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mi>r</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi>n</mi>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mi>r</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>6</mn>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mn>3</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>6</mn>\n      <mo stretchy=\"false\">(</mo>\n      <mn>27</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>3</mn>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mn>26</mn>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>78</mn>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "a=6,U<sub>4</sub> =162. U<sub>4</sub>=ar<sup>(4-1)</sup> UU<sub>4</sub> = ar<sup>3</sup> 162=6(r)<sup>3</sup>. r<sup>3</sup>=27. r=∛27.  r=3.  S<sub>4</sub>=(a(r<sup>n</sup>-1))/(r-1)=(6(3<sup>3</sup>-1))/(3-1)=(6(27-1))/2=3×26=78",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -6128,6 +6224,22 @@
     "examyear": "2017"
   },
   {
+    "id": 875,
+    "question": "If y = x Sin x, find dy/dx when x = π/2",
+    "option": {
+      "a": "−π/2",
+      "b": "-1",
+      "c": "1",
+      "d": "π/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = xsinx\n\ndy/dx = 1 sin x + x cos x\n\n\n= sin x + x cos x\n\n\nAt  x = π/2\n\n\n= sin π/2 + π/2 cos π/2\n\n\n= 1 + π/2 × 0\n\n= 1",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 876,
     "question": "If temperature t is directly proportional to heat h, and when t = 20oC, h = 50 J, find t when h = 60J",
     "option": {
@@ -6556,6 +6668,22 @@
     "image": "",
     "answer": "b",
     "solution": "y = 23<sub>five</sub> + 101<sub>three</sub>\n23<sub>five</sub> = 2 × 5<sup>1</sup> + 3 × 5<sup>0</sup>\n= 13<sub>ten</sub>\n101<sub>three</sub>\n = 1×3<sup>2</sup> + 0 × 3<sup>1</sup> + 1 × 3<sup>0</sup>\n= 10<sub>ten</sub>\ny<sub>ten</sub> = 13<sub>ten</sub> + 10<sub>ten</sub>\n= 23<sub>ten</sub>\n= 10111<sub>two</sub>",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 925,
+    "question": "Solve for t in the equation 3/4\nt + 13\n(21 - t) = 11",
+    "option": {
+      "a": "9/13",
+      "b": "7/13",
+      "c": "5",
+      "d": "9(3/5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "3/4 t + 1/3 (21 - t) = 11\n\nMultiply through by the LCM of 4 and 3 which is 12\n\n12 x(3/4 t) + 12 x (1/3 (21 - t)) = (11 x 12)\n\n9t + 4(21 - t) = 132\n\n9t + 84 - 4t = 132\n\n5t + 84 = 132\n\n5t = 132 - 84 = 48\n\nt = 48/5\nt = 9(3/5)",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -8144,6 +8272,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1128,
+    "question": "Let (*) be a binary operation on a natural number defined by a * b = a - b + (ab)<sup>2</sup>, then find 3 * 5",
+    "option": {
+      "a": "223",
+      "b": "232",
+      "c": "32",
+      "d": "-232"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "3 * 5 = 3 - 5 + (3 x 5)<sup>2</sup>\n-2 + (15)<sup>2</sup>\n-2 + 225 \n= 223",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1129,
     "question": "If y varies inversely as x and x = 3 when y =4. Find the value of x when y = 12",
     "option": {
@@ -9180,6 +9324,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given: x + y=90°...(1)\n(sinx + siny)<sup>2</sup> −2sinxsiny = sin<sup>2</sup> x  + sin<sup>2</sup> y + 2sinxsiny − 2sinxsiny\n= sin<sup>2</sup> x + sin<sup>2</sup> y...(2)\nRecall: sinx = cos(90−x)...(a)\nFrom (1), y = 90−x...(b)\nPutting (a) and (b) in (2), we have\n\nsin<sup>2</sup> x + sin<sup>2</sup> y ≡ cos<sup>2</sup> (90−x) + sin<sup>2</sup> (90−x)\n= 1",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1245,
+    "question": "A man with an annual salary of N2000, has allowances of N600. If Income Tax is 5%. How much income tax expenses does he pay each year?",
+    "option": {
+      "a": "15",
+      "b": "50",
+      "c": "70",
+      "d": "25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "His annual salary = N2000\n\nHis allowances = N600\n\nSo his taxable income = Annual salary − allowance\n\n= N2000 − N600\n\n= N1400\n\nHe pay at 5%\n\nThen, his allowance income tax 5/100 × 1400 = N70",
     "examtype": "utme",
     "examyear": "2015"
   },
