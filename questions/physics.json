@@ -7968,6 +7968,22 @@
     "examyear": "2023"
   },
   {
+    "id": 527,
+    "question": "The near point of a patient's eye is 50.0 cm. What power (in diopters) must a corrective lens have to enable the eye to see clearly an object 25.0 cm away?",
+    "option": {
+      "a": "2 diopters",
+      "b": "2.5 diopters",
+      "c": "0.5 diopters",
+      "d": "3 diopters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nNear point (without correction) = 50.0 cm\nDesired object distance, u = 25.0 cm\nImage distance (where eye can see clearly), v = -50.0 cm (virtual image)\nPower, P = ?\n\nSolution:\nStep 1: Understand the requirement\nThe lens must form a virtual image at 50 cm (the eye's near point) when the object is at 25 cm. This allows the eye to see the object clearly.\nStep 2: Apply lens formula\n1/f = 1/v - 1/u\nSign convention:\n\nObject distance, u = -25.0 cm (object is on the left)\nImage distance, v = -50.0 cm (virtual image on the same side)\n\nStep 3: Calculate focal length\n1/f = 1/(-50) - 1/(-25)\n1/f = -1/50 + 1/25\n1/f = -1/50 + 2/50\n1/f = 1/50\nf = 50 cm = 0.50 m\nStep 4: Calculate power\nPower, P = 1/f (in meters)\nP = 1/0.50\nP = 2 diopters",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 528,
     "question": "Which of the following is/are not true about the heat capacity of a substance? (i) It is an intensive property (ii) Its S.I unit is jK⁻¹ (iii) It is an extensive property (iv) Its S.I unit is jkg⁻¹",
     "option": {
@@ -12476,6 +12492,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nGiven information:\nOutput power = 50 W\nEfficiency = 80% = 0.8\nPrimary voltage = 200 V\n\nSolution:\n\nStep 1: Efficiency formula\nEfficiency = Output power / Input power\n0.8 = 50 W / Input power\n\nStep 2: Solve for input power\nInput power = 50 W / 0.8 = 62.5 W\n\nStep 3: Relationship between input power, primary voltage, and primary current\nInput power = Primary voltage × Primary current\n62.5 W = 200 V × Primary current\n\nStep 4: Solve for primary current\nPrimary current = 62.5 W / 200 V = 0.3125 A ≈ 0.31 A",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 832,
+    "question": "Caesium has a work function of 3 x 10⁻¹⁹ J. The maximum energy of liberated electrons when it is illuminated by light of frequency 6.7 x 10¹⁴ Hz is? [h = 6.6 x 10⁻³⁴ Js]",
+    "option": {
+      "a": "1.42 x 10⁻¹⁹ J",
+      "b": "3.00 x 10⁻¹⁹ J",
+      "c": "4.42 x 10⁻¹⁹ J",
+      "d": "7.42 x 10⁻¹⁹ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Max kinetic energy = Energy of incident electron - work function. EK = hf - w\n= 6.6 x 10-34 x 6.7 x 1014 - 3 x 10-19\n= 4.422 x 10-19 - 3 x 10-19\n= 1.422 x 10-19J",
     "examtype": "utme",
     "examyear": "2008"
   },
