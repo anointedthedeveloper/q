@@ -2928,6 +2928,22 @@
     "examyear": "2001"
   },
   {
+    "id": 199,
+    "question": "The average product of the variable factor when four units are employed is",
+    "option": {
+      "a": "6",
+      "b": "8",
+      "c": "12",
+      "d": "48"
+    },
+    "section": "Use the value to answer question: Units  of Variable factor [1,2,3,4,5,]  Total Product [25,31,40,48,55]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 200,
     "question": "The cost incurred by using both fixed and variable factors in production is called",
     "option": {
@@ -5008,6 +5024,22 @@
     "examyear": "2009"
   },
   {
+    "id": 336,
+    "question": "The shape of the long-run average cost curve is best explained by the",
+    "option": {
+      "a": "law of diminishing returns",
+      "b": "law of returns to scale",
+      "c": "cost of fixed inputs",
+      "d": "cost of variable inputs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 337,
     "question": "The supply curve of a perfectly competitive firm is identical to its",
     "option": {
@@ -6235,6 +6267,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 419,
+    "question": "Which of the following factors of production consists of man made goods?",
+    "option": {
+      "a": "Land",
+      "b": "Labour",
+      "c": "Capital",
+      "d": "Entrepreneur"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2003"
