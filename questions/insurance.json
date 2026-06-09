@@ -928,6 +928,22 @@
     "examyear": "1"
   },
   {
+    "id": 78,
+    "question": "Factors which may influence the occurrence of a loss is",
+    "option": {
+      "a": "Risk",
+      "b": "Loss",
+      "c": "Peril",
+      "d": "Hazard"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 79,
     "question": "Hazard that relates to the attitude of the insured is known as",
     "option": {
@@ -1243,6 +1259,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 108,
+    "question": "Which of the following is not a function of insurance?",
+    "option": {
+      "a": "Serves as collateral",
+      "b": "Encouraging saving",
+      "c": "Provides insecurity",
+      "d": "Reduces risks"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -1831,6 +1863,22 @@
       "b": "Risk",
       "c": "Loss",
       "d": "Accident"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 154,
+    "question": "---------- is the evidence cover of the risk given to the insured by the insurer",
+    "option": {
+      "a": "Cover",
+      "b": "Policy",
+      "c": "Claim",
+      "d": "Compensation"
     },
     "section": "",
     "image": "",
@@ -2464,6 +2512,22 @@
     "examyear": "4"
   },
   {
+    "id": 204,
+    "question": "The insured is also known as",
+    "option": {
+      "a": "the client",
+      "b": "the consumer",
+      "c": "the policy holder",
+      "d": "agent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 205,
     "question": "The coming together of minds of  the two parties to the insurance contract is called",
     "option": {
@@ -2896,6 +2960,22 @@
     "examyear": "4"
   },
   {
+    "id": 244,
+    "question": "The process of transferring risk from one insurer to another is called",
+    "option": {
+      "a": "contribution",
+      "b": "re-insurance",
+      "c": "re-processing",
+      "d": "re-activating"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 245,
     "question": "A reminder to the insured that this existing contract is due to expire is",
     "option": {
@@ -3031,6 +3111,22 @@
       "b": "capital",
       "c": "borrowing",
       "d": "insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 259,
+    "question": "When an insured person admits that he has been indemnified, he means that",
+    "option": {
+      "a": "the insurance company has accepted his claims",
+      "b": "the damaged property has been recovered",
+      "c": "He has paid his premium",
+      "d": "the insurance company has restored him to his former position"
     },
     "section": "",
     "image": "",
@@ -3339,6 +3435,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 286,
+    "question": "The amount given to the insured if he does not want the contract to continue is called",
+    "option": {
+      "a": "premium",
+      "b": "price",
+      "c": "consideration",
+      "d": "surrender value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
