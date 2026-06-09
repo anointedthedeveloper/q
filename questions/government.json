@@ -1616,6 +1616,22 @@
     "examyear": "2010"
   },
   {
+    "id": 110,
+    "question": "In the First Republic, Politics in Northern Nigeria was dominated by: ",
+    "option": {
+      "a": "NEPU ",
+      "b": "UMBC ",
+      "c": "NCNC ",
+      "d": "NPC"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 111,
     "question": "The creation of classless society is the ultimate aim of ",
     "option": {
@@ -11500,6 +11516,22 @@
     "image": "",
     "answer": "a",
     "solution": "Under Yakubu Gowon, the Supreme Military Council was the highest governing body.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 744,
+    "question": "One of the problems of the Commonwealth of Nations is lack of __",
+    "option": {
+      "a": "finance",
+      "b": " administrative structures",
+      "c": " cultural heterogeneity",
+      "d": "capacity to enforce decisions."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Commonwealth lacks the power to enforce its decisions.",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -22796,6 +22828,22 @@
     "image": "",
     "answer": "c",
     "solution": "A rigid constitution requires a special procedure (e.g., a plebiscite, referendum, or supermajority legislative vote) for amendment, distinguishing it from ordinary laws. This design protects fundamental principles from frequent or hasty changes.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1485,
+    "question": "The following are international organisations except",
+    "option": {
+      "a": "pressure group",
+      "b": "O.A.U",
+      "c": "U.N.O.",
+      "d": "Commonwealth of nations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "International organizations are typically formal institutions where multiple countries cooperate to achieve common goals. Examples include the Organization of African Unity (now the African Union), the United Nations Organization (UNO), and the Commonwealth of Nations, which involve governments coming together to coordinate policies and address global or regional issues. In contrast, a pressure group is an interest group that seeks to influence government policy and decision-making but is not an international organization in the formal, intergovernmental sense.",
     "examtype": "utme",
     "examyear": "2015"
   },
