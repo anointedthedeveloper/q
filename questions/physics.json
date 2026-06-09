@@ -272,6 +272,22 @@
     "examyear": "2009"
   },
   {
+    "id": 55,
+    "question": "A simple pendulum 0.6 long has a period of 1.55, what is the period of a similar pendulum 0.4 long in the same direction ",
+    "option": {
+      "a": "1.4 √1/3s ",
+      "b": "1.5 √1/3s ",
+      "c": "2.25s ",
+      "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 57,
     "question": "A house hold refrigerator is rated 200 watts. If electricity cost 5k per Kwh, what is the cost of operating it for 20 days ",
     "option": {
@@ -299,6 +315,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 61,
+    "question": "The product PV where P is pressure and V is a volume has the same unit as ",
+    "option": {
+      "a": "force ",
+      "b": "power ",
+      "c": "energy ",
+      "d": "acceleration "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -1120,6 +1152,22 @@
     "examyear": "2019"
   },
   {
+    "id": 343,
+    "question": "Ripple in a power supply unit is caused by",
+    "option": {
+      "a": "using an alternating current source",
+      "b": "forward voltage drop",
+      "c": "heavy load",
+      "d": " using a zener diode"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ripple in a power supply is fundamentally caused by using an alternating current source, which produces a pulsating DC output after rectification that retains some AC variation.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 351,
     "question": "Aluminium is sometimes used as the leaf of an electroscope because it",
     "option": {
@@ -1660,6 +1708,22 @@
     "image": "",
     "answer": "a",
     "solution": "Specific latent heat of fusion is the energy required per kilogram to change a substance from solid to liquid at its melting point without temperature change. For ice, this value is approximately 334 kJ/kg or 3.34 × 10⁵ J/kg.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 493,
+    "question": "What quantity of heat is required to convert 20 g of ice at 0 ºC to water at the same temperature? (Specific latent heat of ice = 336 Jg⁻¹)",
+    "option": {
+      "a": "7.06 × 10³ J",
+      "b": " 5.38 × 10³ J",
+      "c": " 6.72 × 10³ J",
+      "d": "1.35 × 10³ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Since the phase change occurs at constant temperature (0°C), no energy goes into increasing temperature. All the heat energy is used to break the molecular bonds in ice, converting it from solid to liquid state at the melting point.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -2816,6 +2880,22 @@
     "examyear": "2008"
   },
   {
+    "id": 841,
+    "question": "The efficiency of the pulley system shown above is 80%. Find the effort E required to lift the load of 1200N",
+    "option": {
+      "a": "275N",
+      "b": "325N",
+      "c": "375N",
+      "d": "573N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432531/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_42_icabeo.png",
+    "answer": "c",
+    "solution": "Step 1: Determine Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings = 4\nStep 2: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A/V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.80 × 4\nM.A = 3.2\nStep 3: Calculate Effort\nM.A = Load/Effort\nRearranging:\nE = Load/M.A\nE = 1200/3.2\nE = 375N",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 853,
     "question": "I. The motion of the tyres of a moving car.\nII. The motion of a loaded test tube oscillated\nvertically.\nIII. The beating of the heart.\nIV. A stone tied to a string and whirled round.\nV. The motion of the pistons in a gasoline engine.\n\n\nWhich of the motions above is simple harmonic?",
     "option": {
@@ -3088,6 +3168,22 @@
     "examyear": "2010"
   },
   {
+    "id": 921,
+    "question": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is?",
+    "option": {
+      "a": "2 cm",
+      "b": " 3 cm",
+      "c": "4 cm",
+      "d": " 5 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nObject height, h₀ = 4 cm\nObject distance, u = 15 cm\nFocal length, f = 5 cm (positive for concave mirror in Cartesian sign convention)\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n1/5 = 1/15 + 1/v\n\nStep 2: Solve for image distance v\n1/v = 1/5 – 1/15 = 3/15 – 1/15 = 2/15\nv = 15/2 = 7.5 cm\n\nStep 3: Magnification formula\nMagnification m = v / u = 7.5 / 15 = 0.5\nAlso, m = image height / object height = hᵢ / h₀\n\nStep 4: Find image height\nhᵢ = m × h₀ = 0.5 × 4 cm = 2 cm",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 922,
     "question": "An object is embedded in a block of ice, 10 cm below the plane surface. if the refractive index of the ice is 1.50, the apparent depth below the surface is?",
     "option": {
@@ -3100,6 +3196,22 @@
     "image": "",
     "answer": "b",
     "solution": "Refraction index, n = (real depth)/apparent depth\n1.5 = (10)/X\nX = (10)/1.5 = 6.67 cm",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 923,
+    "question": "Which of the following is used for the correction of short sightedness?",
+    "option": {
+      "a": "convex lens",
+      "b": "concave lens",
+      "c": " convex mirror",
+      "d": "concave mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Concave lens diverges parallel rays of light. A short sighted person has the image formed before the retina,and the rays have to be diverged so that they intersect to form image onto the retina",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -3568,6 +3680,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1026,
+    "question": "After reflection from the concave mirror, rays of light from the sun converges",
+    "option": {
+      "a": "at the radius of curvature",
+      "b": " at the focus",
+      "c": "beyond the radius of curvature",
+      "d": " between the focus and radius of curvature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "After reflection from a concave mirror, rays of light from the sun (which are parallel rays) converge at the focus. This is the fundamental property that defines the focal point of a concave mirror.\nPractical example: If you hold a concave mirror in sunlight and place paper at the focal point, the concentrated solar energy can ignite the paper, demonstrating how all the parallel sun rays converge at this single point.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1028,
     "question": "I. Rays of light travel from a less dense medium to a denser medium.\nII. The angle of incidence is greater than critical angle.\nIII. Rays of light travel from a denser medium to a less dense medium.\n\nWhich of the statements above are conditions for total internal reflection to occur?",
     "option": {
@@ -3948,6 +4076,22 @@
     "image": "",
     "answer": "c",
     "solution": "open circuit (EMF is maximum PD with no current drawn.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1129,
+    "question": "Some of the features of the human eye that greatly help to refract light entering the eyes are",
+    "option": {
+      "a": "cornea and lens",
+      "b": "cornea and aqueous humor",
+      "c": "lens and vitreous humor",
+      "d": " aqueous humor and lens"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "cornea and lens (Main refractive structures.)",
     "examtype": "utme",
     "examyear": "2025"
   },
