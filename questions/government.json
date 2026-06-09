@@ -336,6 +336,22 @@
     "examyear": "2007"
   },
   {
+    "id": 27,
+    "question": "Nigeria gained independence from colonial rule on ",
+    "option": {
+      "a": "1-Oct-60",
+      "b": "November, 1963 ",
+      "c": "29-May-99",
+      "d": "1-Nov-60"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 28,
     "question": "All but one of the following is not a symbol of political culture ",
     "option": {
@@ -619,6 +635,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 53,
+    "question": "What was the name of the highest ruling body during General Babangida’s rule?  ",
+    "option": {
+      "a": "The presidency  ",
+      "b": "Armed Forces Ruling Council ",
+      "c": "The National Council of states  ",
+      "d": " The Federal  Executive Council"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -2256,6 +2288,22 @@
     "examyear": "2000"
   },
   {
+    "id": 204,
+    "question": "The extent to which the citizens regard the institutions, officials and activities of government as right and acceptable is known as",
+    "option": {
+      "a": "power",
+      "b": "legitimacy",
+      "c": "influence",
+      "d": "authority."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 206,
     "question": "A federal state is always expensive to run because",
     "option": {
@@ -2379,6 +2427,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 215,
+    "question": "The system of voting on behalf of another person is known as",
+    "option": {
+      "a": "voting by lot",
+      "b": "casting votes.",
+      "c": "voting by proxy",
+      "d": "preference voting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -5552,6 +5616,22 @@
     "examyear": "2013"
   },
   {
+    "id": 513,
+    "question": "Rule adjudication is a primary function of the",
+    "option": {
+      "a": "legislature",
+      "b": "judiciary",
+      "c": "executive",
+      "d": "government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 514,
     "question": "The judiciary controls the executive in federal states through",
     "option": {
@@ -6107,6 +6187,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 562,
+    "question": "Unitary system of government is more suitable to a country",
+    "option": {
+      "a": "that is sparsely populated",
+      "b": "that possesses a strong and modern army",
+      "c": "with a robust and dynamic economy",
+      "d": "with a relatively small area and a homogenous population"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -7339,6 +7435,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 683,
+    "question": "The principle of separation of powers implies that the three main organs of government work",
+    "option": {
+      "a": "separately",
+      "b": "independently but co-operatively",
+      "c": "against one another",
+      "d": "reluctantly and gradually for the executive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
@@ -9552,6 +9664,22 @@
     "examyear": "2020"
   },
   {
+    "id": 875,
+    "question": "A government in which control of ultimate power is by a few who rule in their selfish interest is classified as _________",
+    "option": {
+      "a": " an oligarchy",
+      "b": "a dictatorship",
+      "c": "an aristocracy",
+      "d": "a monarchy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An oligarchy is a form of government that places power in the hands of a few people.s",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 877,
     "question": "Which of the following was not established by the 1979 Nigerian constitution?",
     "option": {
@@ -9788,6 +9916,22 @@
     "image": "",
     "answer": "c",
     "solution": "Judicial Committee of Privy Council is the highest court of appeal for British Territories established on 13th, August 1833. The Privy Council served as the final court of appeal for Nigeria during the colonial period and up until the Nigerian Constitution of 1963, when Nigeria established its own Supreme Court as the highest judicial authority in the country.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 901,
+    "question": "A feature unique to General Murtala Muhammed's Supreme Military Council as compared to that of General Yakubu Gowon was the _________",
+    "option": {
+      "a": " inclusion of the civilians as members",
+      "b": "exclusion of military governors from the council",
+      "c": " inclusion of the chief justice as a member",
+      "d": " the exclusion of the Inspector General of police from the council"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A feature unique to General Murtala Muhammed's Supreme Military Council, compared to that of General Yakubu Gowon, was the exclusion of military governors from the council. General Murtala Muhammed's regime, which came to power in 1975, restructured the Supreme Military Council (SMC) to exclude military governors from its membership. New appointed military governors were not given seats on the supreme military council, but instead were expected to administer federal policies handed by Murtala Muhammed.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -10400,6 +10544,22 @@
     "examyear": "2022"
   },
   {
+    "id": 968,
+    "question": "A system of government in which a single person or a group who governs has unlimited power is a",
+    "option": {
+      "a": "oligarchy",
+      "b": "republican",
+      "c": "aristocracy",
+      "d": "autocracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Autocracy a system of government by one person with absolute power.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 969,
     "question": "The Judicial Service Commission is vested with the power to recommend suitable persons for appointment of the _____",
     "option": {
@@ -10752,6 +10912,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1001,
+    "question": "Which of the following documents granted Nigeria its independence?",
+    "option": {
+      "a": "The Lancaster House Agreement",
+      "b": "The Atlantic Charter",
+      "c": "The Nigerian Independence Act",
+      "d": "The United Nations Declaration on Decolonization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nigeria gained its independence through the Nigerian Independence Act. The Nigerian Independence Act 1960 was an Act of the Parliament of the United Kingdom that conferred independence on Nigeria with effect from 1 October 1960.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1003,
     "question": "In a parliamentary system of government, the executive branch is",
     "option": {
@@ -11004,6 +11180,38 @@
     "image": "",
     "answer": "a",
     "solution": "The People's Redemption Party was known for its socialist ideology and populist policies in the 1980s. The party was founded by Mallam Aminu Kano and was known for its commitment to representing the interests of the common people.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1027,
+    "question": "Which of the following is the basic unit of a local government in Nigeria?",
+    "option": {
+      "a": "State assembly",
+      "b": "Ward",
+      "c": " Local Council Development Area(LCDA)",
+      "d": " Ministry of Local government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The basic unit of a local government in Nigeria is the Ward. A local government area is divided into wards, each of which is represented by a councillor. Local Council Development Areas (LCDAs), state assemblies, and the Ministry of Local government are not the basic units of local government",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1029,
+    "question": "The Commonwealth of Nations was initially known as",
+    "option": {
+      "a": "British Commonwealth",
+      "b": "Imperial Commonwealth",
+      "c": "Commonwealth Realm",
+      "d": " League of Nations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Commonwealth of Nations was initially known as the British Commonwealth. It was created as a way for countries that were formerly part of the British Empire to maintain political, economic, and social connections.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -13456,6 +13664,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1249,
+    "question": "Nigeria's relation with black political communities outside Africa is built on",
+    "option": {
+      "a": "shared political aspirations",
+      "b": "expectations of political support from them",
+      "c": "economic considerations",
+      "d": "percieved cultural affinities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "This reflects the idea that Nigeria's diplomatic and political connections with black communities outside of Africa are often based on a sense of shared cultural heritage, history, and identity.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1251,
     "question": "The leaders who spearheaded the transformation of the Organization of African Unity into the African Union are from",
     "option": {
@@ -14972,6 +15196,22 @@
     "image": "",
     "answer": "b",
     "solution": "Privatization and commercialization programs in Nigeria were initiated to reduce the government's direct involvement in business enterprises. By transferring ownership and management of public enterprises to private entities, these programs aimed to enhance efficiency, stimulate economic growth, and alleviate the financial burden on the government. This strategic shift marked a significant move away from extensive government ownership toward a more market-driven economy.​\n\nWhile these programs have had varied impacts, including debates on their influence on government revenue and concerns about corruption, their primary characteristic has been the reduction of government ownership in favor of private sector participation.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1399,
+    "question": "The fear of domination in the public service led to the",
+    "option": {
+      "a": "adoption of population as a formula for revenue allocation",
+      "b": "establishment of the Civil Service Commission",
+      "c": " introduction of rotational presidency",
+      "d": "establishment of the Federal Character Commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In Nigeria, there was a significant concern that one group or region might dominate the public service, leading to imbalances in representation and access to government appointments. To counteract this, the government established the Federal Character Commission. This commission was created to ensure that public offices are distributed equitably among the various ethnic, regional, and social groups in the country. Its purpose is to promote fairness and prevent any single group from dominating the public service.",
     "examtype": "utme",
     "examyear": "2009"
   },
