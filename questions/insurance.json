@@ -2320,6 +2320,22 @@
     "examyear": "2"
   },
   {
+    "id": 150,
+    "question": "The legal right to insure a subject matter is",
+    "option": {
+      "a": "Indemnity",
+      "b": "Subject Matter",
+      "c": "Subrogation",
+      "d": "Insurable interest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 151,
     "question": "--------- shows what the insured should do or not do to maintain the existence of the policy",
     "option": {
