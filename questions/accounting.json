@@ -48,6 +48,22 @@
     "examyear": "2010"
   },
   {
+    "id": 9,
+    "question": "Which of the following is not an asset ",
+    "option": {
+      "a": "Goodwill ",
+      "b": "General reserves ",
+      "c": "Debtors ",
+      "d": "Prepayments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 11,
     "question": "The journal is a book ",
     "option": {
@@ -240,6 +256,22 @@
     "examyear": "2011"
   },
   {
+    "id": 36,
+    "question": "Which   accounting  concept  states; that revenues and expenses are recognized as they are earned or incurred and not when  money is received?",
+    "option": {
+      "a": "Entity   ",
+      "b": "Realization",
+      "c": "Accrual  ",
+      "d": "Periodicity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 37,
     "question": "Which of the following is not a business asset?",
     "option": {
@@ -315,6 +347,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following entries classes the  owner's drawing account at the end of the period?",
+    "option": {
+      "a": "Debit the drawing account, credit the owner's capital account",
+      "b": "Debit the income summary account credit the drawing account",
+      "c": "Debit   the   drawing account credit income summary accounting",
+      "d": "Debit the owner's capital account, credit the drawing account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -832,6 +880,22 @@
     "examyear": "2013"
   },
   {
+    "id": 122,
+    "question": "Stock account is a type of",
+    "option": {
+      "a": "nominal account.",
+      "b": "personal account.",
+      "c": "real account.",
+      "d": "fixed assets account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 127,
     "question": "A trading account is prepared to disclose the",
     "option": {
@@ -1136,6 +1200,22 @@
     "examyear": "2016"
   },
   {
+    "id": 158,
+    "question": "Purchases can be ascertained through the preparation of a",
+    "option": {
+      "a": "stock account",
+      "b": "sales account",
+      "c": "total debtors’ control account",
+      "d": "total creditors, control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 160,
     "question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled N800,000. A provision of 2% was made for discount and 5% provision for bad and doubtful debts.  Find the amount for sundry debtors after provision.",
     "option": {
@@ -1195,6 +1275,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 166,
+    "question": "Which of the following expenses relate to the profit and loss account of a manufacturing firm?",
+    "option": {
+      "a": "Administrative overhead.",
+      "b": "Direct labour",
+      "c": "Direct materials.",
+      "d": "Work-in-progress."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -2608,6 +2704,22 @@
     "examyear": "2015"
   },
   {
+    "id": 333,
+    "question": "How much was paid for goodwill?",
+    "option": {
+      "a": "GHc/ 350,000",
+      "b": "GHc/ 260,000",
+      "c": "GHc/  90,000",
+      "d": "GHc/ 60,000"
+    },
+    "section": "Use the following information to answer questions: Mr. White acquired Mr. Black’s business for GHc/ 410,000. The total assets were GHc/ 670,000 and liabilities amounted to GHc/ 320,000",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 336,
     "question": "A person who has applied to purchase shares in a company is referred to as",
     "option": {
@@ -3440,6 +3552,22 @@
     "examyear": "2007"
   },
   {
+    "id": 462,
+    "question": "Determine the amount provided for discount allowed on debtors.",
+    "option": {
+      "a": "N 1 000",
+      "b": "N 3000",
+      "c": "N 900",
+      "d": "N1500."
+    },
+    "section": "Use the information below to answer question: Debtors [N20 000]; Provision for bad debts 10%; Provision for discount on debtors 5%.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 464,
     "question": "The amount to be charged to the profit and loss account is",
     "option": {
@@ -3758,6 +3886,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 515,
+    "question": "Use the information below to answer this question\n\nSegunOjo, didn’t keep her books on double principle. On 1st Jan, 2014, cash in hand was ₦850, bank overdraft ₦3,500, debtor ₦15,500,stock ₦18,000, fittings 9,000 and creditors ₦12,700. As at Dec, 2014, cash in hand was ₦1,200, cash at bank ₦2,500, debtors ₦10,000, stock ₦20,500, furnishing ₦4,000 and creditors ₦17,000\n\nDetermine the closing capital 31/12/2014",
+    "option": {
+      "a": "₦17,500",
+      "b": "₦38,200",
+      "c": "₦20,700",
+      "d": "₦21,200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To find SegunOjo’s closing capital at 31 Dec 2014, we simply take all closing assets less all closing liabilities:\nSum of closing assets\nCash in hand: ₦1,200\nCash at bank: ₦2,500\nDebtors: ₦10,000\nStock: ₦20,500\nFurnishings: ₦4,000\nTotal assets = 1,200 + 2,500 + 10,000 + 20,500 + 4,000 = ₦38,200\nSum of closing liabilities\nCreditors: ₦17,000\nClosing capital Closing capital=Total assets−Total liabilities=38200−17,000=₦21,200.",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 516,
@@ -4268,6 +4412,22 @@
     "image": "",
     "answer": "c",
     "solution": "The shares were paid up in three instalments totaling ₦1.50 each (₦0.45 on application & allotment, ₦0.50 on 1st call, ₦0.55 on 2nd/final call).\nThus for the final call you simply multiply the number of shares (450 000) by the final call amount per share (₦0.55), giving ₦247 500.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 583,
+    "question": "When goods are sent to the branch at cost plus mark-up, it means that the branch should sell at",
+    "option": {
+      "a": "a price above or below the stipulated price",
+      "b": " any price but not below the transfer price",
+      "c": "cost price",
+      "d": "a price that is equal to the mark-up"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Cost-plus pricing is a pricing strategy in which the selling price is determined by adding a specific amount markup to a product's unit cost.\n\nCost plus pricing involves adding a markup to the cost of goods and services to arrive at a selling price. Under this approach, you add together the direct materialcost, direct labor cost, and overhead costs for a product, and add to it a markuppercentage in order to derive the price of the product.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -5872,6 +6032,22 @@
     "examyear": "2020"
   },
   {
+    "id": 793,
+    "question": "Four broad classifications of overheads are",
+    "option": {
+      "a": "production, selling, distribution and administration",
+      "b": "production, selling, distribution and material",
+      "c": "selling, distribution and material",
+      "d": " distribution, selling, administration and materials"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "These are the four standard classifications of overheads in cost accounting:\n\nProduction - factory-related indirect costs\nSelling - costs to promote and secure sales\nDistribution - costs to deliver goods to customers\nAdministration - general management and office expenses\n\nMaterial is not an overhead classification since materials are typically direct costs, not indirect overheads.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 794,
     "question": "Which of the following are advantages of departmental accounts?",
     "option": {
@@ -6352,6 +6528,22 @@
     "examyear": "2022"
   },
   {
+    "id": 865,
+    "question": "Gross profit in the branch adjustment account is transferred to the branch?",
+    "option": {
+      "a": "trading account",
+      "b": "receipts and payments account",
+      "c": "profit and loss account",
+      "d": "income and expenditure account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In branch accounting the Branch Adjustment Account captures inter‑branch transactions and any gross profit on those adjustments. That gross profit is then transferred into the Branch Trading Account to complete the calculation of the branch’s trading results.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 868,
     "question": "Given:\n\nCapital ...........₦1000\nLiabilities........₦500\nAssets.............₦1500\nThe accounting equation can be expressed as?",
     "option": {
@@ -6524,6 +6716,22 @@
     "image": "",
     "answer": "d",
     "solution": "A pay-in-slip is a bank deposit that is used to deposit money into a bank account. It includes information such as date, account number, amount to be paid etc.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 895,
+    "question": "From the following information: Stock on Jan 1 is ₦2,600, Purchases amount to ₦4,000, Carriage inwards is ₦500, Sales total ₦9,000, and Carriage outwards is ₦500. Determine the net profit.",
+    "option": {
+      "a": "₦4,000",
+      "b": "₦4,500",
+      "c": " ₦5,000",
+      "d": "₦1,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "COGS = Opening Stock + Purchases + Carriage Inwards\n= ₦2,600 + ₦4,000 + ₦500\n= ₦7,100\n\nGross Profit = Sales – COGS\n= ₦9,000 – ₦7,100\n= ₦1,900\n\nNet Profit = Gross Profit – Carriage Outwards\n= ₦1,900 – ₦500\n= ₦1,400",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7376,6 +7584,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1017,
+    "question": "The journal entries for the purchase of stock on credit are to debit?",
+    "option": {
+      "a": "stock account and credit cash account",
+      "b": "stock account and credit liability account",
+      "c": "ourchase account and credit liability account",
+      "d": " suspense account and credit cash account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation: buying stock on credit increases inventory (debit Stock) and creates a liability (credit Accounts Payable).",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1020,
     "question": "What are the appropriate recording procedures for entries in the trial balance?",
     "option": {
@@ -7852,6 +8076,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662538/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q14-15_u5ld3i.png",
     "answer": "c",
     "solution": "Using FIFO (First-In, First-Out) method:\nMay 17 Issue (20 units):\n\nIssue from oldest stock first (May 2 receipt)\n20 units @ ₦3.00 = ₦60.00\n\nMay 25 Issue (60 units):\n\nRemaining from May 2: 80 - 20 = 60 units @ ₦3.00 = ₦180.00\nSince we need 60 units and have exactly 60 remaining from May 2, we use all of them\n\nTotal cost of raw materials issued:\nMay 17 issue: ₦60.00\nMay 25 issue: ₦180.00\nTotal: ₦240.00",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1083,
+    "question": "In a sales ledger, contra entry is found on the?",
+    "option": {
+      "a": "debit side of the debtors' control account",
+      "b": "debit side of the crebtors' control account",
+      "c": "creadit side of the debtors' control account",
+      "d": " creadit side of the credtors' control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A contra entry in the sales ledger reduces the amount owed by a debtor because it’s offset against an amount the business owes the same person as a creditor.\n\nIn the debtors’ control account, this appears on the credit side (because it reduces debtors).",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -8912,6 +9152,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1219,
+    "question": "<b>Use the information below to answer questions 5 and 6.\nGiven:</b>\n\nFixed assets ₦85,600\nSales ₦197,000\nStock ₦34,300\nSalaries ₦37,000\nPurchases ₦127,700\nShare capital ₦120,000\nCreditors ₦16, 050\nMotor expenses ₦10,500\nDebtors ₦25,000\n\nWhat is the cash balance?",
+    "option": {
+      "a": "₦12,095",
+      "b": "₦12,590",
+      "c": " ₦12,905",
+      "d": " ₦12,950"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using the accounting equation: Assets = Liabilities + Equity\nStep 1: Identify Balance Sheet items\nAssets:\n\nFixed assets: ₦85,600\nStock: ₦34,300\nDebtors: ₦25,000\nCash: ? (to be found)\n\nLiabilities:\n\nCreditors: ₦16,050\n\nEquity:\n\nShare capital: ₦120,000\nRetained earnings: Sales - Purchases - Salaries - Motor expenses\nRetained earnings: ₦197,000 - ₦127,700 - ₦37,000 - ₦10,500 = ₦21,800\n\nStep 2: Apply the accounting equation\nTotal Assets = Liabilities + Equity\n₦85,600 + ₦34,300 + ₦25,000 + Cash = ₦16,050 + ₦120,000 + ₦21,800\n₦144,900 + Cash = ₦157,850\nCash = ₦157,850 - ₦144,900 = ₦12,950",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1221,
     "question": "The accuracy of journalist is checked by?",
     "option": {
@@ -9420,6 +9676,22 @@
     "image": "",
     "answer": "a",
     "solution": "A key shortcoming of single‐entry systems is that no trial balance can be prepared, since transactions aren’t recorded in full double‐entry form.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1290,
+    "question": "When a customer's cheque is returned unpaid in a debtor's control accounting system, the treatment will be?",
+    "option": {
+      "a": " debit bank, credit custmer and credit conyrol account",
+      "b": "credit bank, debit customer, and credit control account",
+      "c": "debit customer, debit control accountand credit bank",
+      "d": " credit control account, debit bank and debit customer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a customer's cheque is returned unpaid (dishonored), Reverse the original entry that was made when the cheque was first received.\nOriginally when the cheque was received:\n\nDebit: Bank\nCredit: Customer's account\nCredit: Sales Ledger Control Account\n\nNow that the cheque is returned unpaid, reverse this entry:\n\nDebit: Customer's account (restore the debt)\nDebit: Sales Ledger Control Account (restore the control balance)\nCredit: Bank (remove the cash that was never actually received)",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -9996,6 +10268,22 @@
     "image": "",
     "answer": "c",
     "solution": "The Institute of Chartered Accountants of Nigeria (ICAN) was established by Act of Parliament No. 15 of 1965, but it came into force on 1st October, 1963. This is the date recognized as ICAN's founding or commencement date.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1366,
+    "question": "Cost reports for the intention of management should reflect?",
+    "option": {
+      "a": "as much details as possible",
+      "b": "summary figures only",
+      "c": "details of non-controllable expenses",
+      "d": " cost and comparable data useful in decision-making"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cost reports meant for management use are not just about detailed figures or summaries, but rather about providing relevant, actionable information that helps in planning, controlling, and decision-making. This includes comparing actual costs with budgets, identifying variances, and understanding cost behavior.\n\nThus, the best kind of report:\n\nIs tailored to the decision at hand.\n\nIncludes comparable data (like actual vs. budgeted costs).\n\nEmphasizes usefulness over volume of data.",
     "examtype": "utme",
     "examyear": "1998"
   },
