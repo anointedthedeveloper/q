@@ -1440,6 +1440,22 @@
     "examyear": "2006"
   },
   {
+    "id": 220,
+    "question": "Trioxonitrate(V) acid is not used for preparing hydrogen gas from metals because it",
+    "option": {
+      "a": "Renders the metal passive",
+      "b": "Is strongly oxidizing",
+      "c": "Is volatile",
+      "d": ""
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 222,
     "question": "In the electrolysis of CuSO4(aq) using platinum electrodes, the reaction at the anode is",
     "option": {
@@ -2752,6 +2768,22 @@
     "examyear": "2017"
   },
   {
+    "id": 407,
+    "question": "The shape of the S-orbital is",
+    "option": {
+      "a": "elliptical",
+      "b": "spiral",
+      "c": "circular",
+      "d": "spherical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The s-orbital is spherically symmetrical — it has equal electron density in all directions around the nucleus. This is a fundamental property of all s-orbitals (1s, 2s, 3s, etc.) regardless of the energy level.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 409,
     "question": "The tincture of iodine means iodine dissolved in",
     "option": {
@@ -3568,6 +3600,22 @@
     "examyear": "2019"
   },
   {
+    "id": 534,
+    "question": "What technique is suitable for separating a binary solution of potassium chloride and potassium trioxochlorate (V)?",
+    "option": {
+      "a": "Fractional crystallization",
+      "b": "Fractional distillation",
+      "c": "Filtration",
+      "d": "Evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "KCl and KClO₃ (potassium trioxochlorate V) are both soluble salts with different solubilities at different temperatures. Fractional crystallization exploits these differences in solubility — on cooling a hot concentrated solution, the less soluble salt crystallizes first. This allows the two salts to be separated selectively. Distillation, filtration, and evaporation are not appropriate for separating two dissolved solids.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 536,
     "question": "Which of the following properties increases from left to right along the period but decreases down the group in the Periodic Table? i. Atomic Number  ii. Ionization energy  iii. Metallic character  iv. Electron affinity",
     "option": {
@@ -4064,6 +4112,22 @@
     "examyear": "2021"
   },
   {
+    "id": 610,
+    "question": "Which of the following is a form of calcium carbonate? I. limestone  II. marble  III. chalk  IV. egg-shells",
+    "option": {
+      "a": "I only",
+      "b": "I, II and IV",
+      "c": "I and II only",
+      "d": "I, II, III, and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Calcium carbonate (CaCO₃) exists in several natural forms. Limestone, marble, chalk, and egg-shells are all composed primarily of calcium carbonate. Limestone is sedimentary, marble is metamorphic limestone, chalk is a soft porous form of CaCO₃, and egg-shells are made of calcite (crystalline CaCO₃). All four are correct.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 611,
     "question": "Soaps clean surfaces on the principle based on?",
     "option": {
@@ -4240,6 +4304,22 @@
     "examyear": "2021"
   },
   {
+    "id": 632,
+    "question": "The molar enthalpy change accompanying the removal of an electron from a gas phase atom or ion in its ground state is called?",
+    "option": {
+      "a": "Electron gain enthalpy",
+      "b": "Ionization enthalpy",
+      "c": "Enthalpy change",
+      "d": "Enthalpic gas removal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Ionization enthalpy (ionization energy) is the energy required to remove one mole of electrons from one mole of gaseous atoms or ions in their ground state. The first ionization enthalpy removes the outermost electron. Electron gain enthalpy is the opposite process, involving the addition of an electron to a gaseous atom.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 634,
     "question": "The process by which salt and water react in a limited way to form an acid or a base is?",
     "option": {
@@ -4320,6 +4400,22 @@
     "examyear": "2022"
   },
   {
+    "id": 645,
+    "question": "On the basis of the electrochemical series, which of these ions will show the greater tendency to be discharged at the cathode in an electrolytic cell?",
+    "option": {
+      "a": "Cu²⁺",
+      "b": "Sn²⁺",
+      "c": "Fe²⁺",
+      "d": "Zn²⁺"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "At the cathode, reduction occurs and ions are discharged. Ions lower in the electrochemical series (closer to the bottom/more noble) are discharged preferentially. In the electrochemical series: Cu²⁺ > Fe²⁺ > Sn²⁺ > Zn²⁺ in terms of ease of discharge. Cu²⁺ has the highest reduction potential among the options and is therefore discharged most readily at the cathode.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 646,
     "question": "Addition of charcoal to the filter bed of sand during water treatment for township supply is to?",
     "option": {
@@ -4384,6 +4480,22 @@
     "examyear": "2022"
   },
   {
+    "id": 655,
+    "question": "Crude petroleum is converted to useful products by the process of?",
+    "option": {
+      "a": "fractional crystallization",
+      "b": "fractional distillation",
+      "c": "filtration",
+      "d": "chromatography"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Crude petroleum is a complex mixture of hydrocarbons with different boiling points. Fractional distillation separates these hydrocarbons by heating crude oil and condensing the vapours at different temperatures in a fractionating column, yielding fractions such as petrol, kerosene, diesel, and lubricating oil.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 656,
     "question": "An organic compound contains 69% carbon, 15.3% hydrogen and 30.7% oxygen. Calculate the empirical formula [C=12, H=1, O=16]",
     "option": {
@@ -4444,6 +4556,22 @@
     "image": "",
     "answer": "d",
     "solution": "Using Charles's Law: V₁/T₁ = V₂/T₂ at constant pressure. T₁ = 0°C = 273 K; V₁ = 29.5 cm³; T₂ = 15°C = 288 K. V₂ = 29.5 × 288 ÷ 273 = 31.12 ≈ 31.1 cm³.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 660,
+    "question": "The reactions below represent neutralization reactions. In which of them is the value of ΔH highest? A. CH₃CH₂COOH + KOH → CH₃CH₂COOK + H₂O  B. NH₄OH + HCl → NH₄Cl + H₂O  C. NaOH + HCl → NaCl + H₂O  D. CH₃COOH + NaOH → CH₃COONa + H₂O",
+    "option": {
+      "a": "CH₃CH₂COOH + KOH → CH₃CH₂COOK + H₂O",
+      "b": "NH₄OH + HCl → NH₄Cl + H₂O",
+      "c": "NaOH + HCl → NaCl + H₂O",
+      "d": "CH₃COOH + NaOH → CH₃COONa + H₂O"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The enthalpy of neutralization is highest when both the acid and base are strong. The neutralization of a strong acid (HCl) with a strong base (NaOH) involves the simple combination of H⁺ and OH⁻ ions: H⁺ + OH⁻ → H₂O, releasing approximately −57.3 kJ/mol. Reactions involving weak acids or weak bases release less energy because energy is partly used to ionise the weak electrolyte. NaOH + HCl gives the highest ΔH in magnitude.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -4556,6 +4684,22 @@
     "image": "",
     "answer": "d",
     "solution": "Tuyeres are nozzles or openings located near the base of the blast furnace through which preheated air (blast) is blown at high pressure. The hot air reacts with coke at the base to produce carbon dioxide, which then reacts further with coke to form carbon monoxide, the main reducing agent in iron extraction.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 671,
+    "question": "Alkanes are used mainly?",
+    "option": {
+      "a": "in the textile industry",
+      "b": "in the hydrogenation of oils",
+      "c": "as domestic and industrial fuels",
+      "d": "as fine chemicals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Alkanes are saturated hydrocarbons that burn readily in oxygen to release large amounts of heat. Their primary use is as fuels, methane (natural gas) for domestic heating and cooking, butane for camping gas, petrol for vehicles, and diesel for industrial engines. Hydrogenation of oils uses hydrogen gas with a nickel catalyst, not alkanes.",
     "examtype": "utme",
     "examyear": "2022"
   },
