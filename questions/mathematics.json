@@ -5488,6 +5488,22 @@
     "examyear": "2005"
   },
   {
+    "id": 358,
+    "question": "The table above shows that the scores of a group of students in a test. If the average score is 3.5, find the value of x",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702412/ALOC-Questions/Mathematics/2005/math_2005_q37_qthxpu.jpg",
+    "answer": "b",
+    "solution": "mean = (60+5x)/(18+x).  3.5 =(60+5)/(x18+x). 7/2 = (60+5x)/(18+x)\n\n7(18+x) = 2(60+5x)\n126 + 7x = 120 + 10x\n10x - 7x = 126 - 120\n3x = 6\nx = 2",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 359,
     "question": "The model height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r respectively. Find m+2r.",
     "option": {
