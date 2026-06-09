@@ -6256,6 +6256,22 @@
     "examyear": "2006"
   },
   {
+    "id": 423,
+    "question": "In a basket, there are 6 grapes, 11 bananas and 13 oranges. If one fruit is chosen at random. What is the probability that the fruit is either a grape or a banana",
+    "option": {
+      "a": "6/30",
+      "b": "5/30",
+      "c": " 17/30",
+      "d": "11/30"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Number of grapes = 6\nNumber of banana = 11\nNumber of oranges = 13\nTotal = 30\nP(Grape) = 6/30, P(Banana) = 11/30\nP(Orange) = 13/30\n∴P(Either grape or banana) = 6/30 + 11/30\n= 17/30",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 424,
     "question": "The histogram above represents the weights of students who travelled out to their school for an examination. How many people made the trip?",
     "option": {
