@@ -2603,6 +2603,25 @@
     "category": "others"
   },
   {
+    "id": 165,
+    "question": "The officer was given an <i>invidious</i> task",
+    "option": {
+      "a": "vivid",
+      "b": "cruel",
+      "c": "pleasant",
+      "d": "sinister"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 166,
     "question": "The views of the plateau are in stark contrast to the <i>workaday</i> cottages below",
     "option": {
@@ -9006,6 +9025,25 @@
     "category": "others"
   },
   {
+    "id": 596,
+    "question": "My bag is made of LEATHER ",
+    "option": {
+      "a": "Whose bag is made of leather? ",
+      "b": "Is my bag made of polythene? ",
+      "c": "Is Abu's bag made of leather? ",
+      "d": "Is my bag made of leather"
+    },
+    "section": "the word in capital letters has the <i>emphatic stress.</i> Choose the option to which the given sentence relates",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 628,
     "question": "I do not think any sane person would have acted in such a ....... manner?",
     "option": {
@@ -10009,6 +10047,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 30,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 727,
+    "question": "<u>Th</u>ought? ",
+    "option": {
+      "a": "theatre",
+      "b": "taught",
+      "c": "weather",
+      "d": "fate"
+    },
+    "section": "<b>In each of the questions 31 to 32 choose from the options the word that has the same consonant sound as the one represented by the underlined?</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "Both thought and theater are pronounced alike with the tip of the tongue in between the front teeth. Hence we have;\n\nthought1; /θɔːt/\n\ntheatre;​​​​​​​ /ˈθɪətə/",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 31,
     "hasPassage": 0,
     "category": "others"
   },
