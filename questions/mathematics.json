@@ -176,6 +176,22 @@
     "examyear": "2008"
   },
   {
+    "id": 39,
+    "question": "The average age of x pupils in a class is 14 years 2 months. A pupils of 15years 2 months joins the class and  the average age is increased  by one month. Find x.      ",
+    "option": {
+      "a": "12, ",
+      "b": " 6, ",
+      "c": "11,",
+      "d": "14,"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 42,
     "question": "If the distance covered by a body in time t seconds is s = t2 - 6t2  - 5t, what is its initial velocity?  ",
     "option": {
@@ -203,6 +219,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 47,
+    "question": "A regular polygon has each of it angles as 1600. What is the number of sides of the polygon?  ",
+    "option": {
+      "a": "18,    ",
+      "b": "36,       ",
+      "c": "9,     ",
+      "d": "20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -828,6 +860,22 @@
     "image": "",
     "answer": "a",
     "solution": "(343)<sup>(1/3)</sup> × (0.14)<sup>-1</sup> × (25)<sup>-1/2</sup>\n \n= 3√343×(14/100)<sup>−1</sup>×(√25)<sup>−1</sup>\n= 7×100/14×1/5\n= 10.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 173,
+    "question": "In a school, 220 students offer Biology or Mathematics or both. 125 offer Biology and 110 mathematics. How many offer Biology but not Mathematics?",
+    "option": {
+      "a": "95",
+      "b": "80",
+      "c": "125",
+      "d": "110"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Hint: Represent the question in a venn diagram, such that\nn(B ∩ M) = x\nn(B) only = 125-x\nn(M) only = 110-x\n=> 125-x + 110-x + x = 220\n=> x = 15.\n\nn(B) only = 125 - 15 = 110",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1984,6 +2032,22 @@
     "examyear": "2006"
   },
   {
+    "id": 400,
+    "question": "In the diagram above, find the value of x",
+    "option": {
+      "a": "55°",
+      "b": "50°",
+      "c": "45°",
+      "d": "40°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542717/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q29_as5nyb.jpg",
+    "answer": "c",
+    "solution": "y = 55 (alternate angles)\nx = x (same reason)\n260 + y + x = 360 (∠s at a point)\n260 + 55 + x = 360\n315 + x = 360\nx = 360 - 315\nx = 45°",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 403,
     "question": "PQRSTW is a regular hexagon and QS intersects RT at V. Calculate ∠TVS",
     "option": {
@@ -2940,6 +3004,22 @@
     "image": "",
     "answer": "d",
     "solution": "Let (x1, y1) = (1, 1) and (x2, y2)= (2, 5)\n\nthen gradient m of PQ¯ is\n\nm = y<sub>2</sub>−y<sub>1</sub>/x2−x1 = 5−1/2−1\n\n= 4/1\n\n= 4",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 616,
+    "question": "In how many ways can a committee of 2 women and 3 men be chosen from 6 men and 5 women?",
+    "option": {
+      "a": "100",
+      "b": "200",
+      "c": "30",
+      "d": "50"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A committee of 2 women and 3 men can be chosen from 6 men and 5 women, in <sup>5</sup>C<sub>2</sub> x <sup>6</sup>C<sub>3</sub> ways\n\n= 5!/(5−2)!2! × 6!/(6−3)!3!\n\n= 5!/3!2! × 6!/3×3!\n\n= 5×4×3!/3!×2! × 6×5×4×3!/3!×3!\n\n= 5×4/1×2 × 6×5×4/1×2×3\n\n= 10 x (6×20)/6\n\n= 200",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -4624,6 +4704,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1018,
+    "question": "Evaluate (212)<sub>3</sub>  - (121)<sub>3</sub>  + (222)<sub>3</sub> ",
+    "option": {
+      "a": "(313)<sub>3</sub> ",
+      "b": " (1000)<sub>3</sub> ",
+      "c": " (1020)<sub>3</sub> ",
+      "d": "(1222)<sub>3</sub> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Evaluate (212)<sub>3</sub>  - (121)<sub>3</sub>  + (222)<sub>3</sub> \n(212)<sub>3</sub>   + (222)<sub>3</sub>  = 1211<sub>3</sub> \n→ 1211<sub>3</sub>  - 121<sub>3</sub>  = 1020<sub>3</sub> ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1023,
     "question": "Four boys and ten girls can cut a field first in 5 hours. If the boys work at 5/4\n the rate at which the girls work, how many boys will be needed to cut the field in 3 hours? ",
     "option": {
@@ -4636,6 +4732,38 @@
     "image": "",
     "answer": "d",
     "solution": "Let x rep. numbers of boys that can work at 5/4 the rate at\n\nwhich the 10 girls work \n\nFor 1 hrs, x boys will work for ((1/5) × 10)/4\n \n\nx = 5/4 x 10 \n\n= 8 boys \n\n8 boys will do the work of ten girls at the same rate \n\n4 + 8 = 12 bous cut the field in 5 hrs for 3 hrs, \n\n(12×5)/3 boys will be needed = 20 boys.",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1025,
+    "question": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room ",
+    "option": {
+      "a": "15/17",
+      "b": "8/17",
+      "c": "8/15",
+      "d": "12/17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "ABCD is the floor. By pathagoras \n\nAC<sup>2</sup> = 144 + 81 =√225\n \n\nAC = 15cm\n\nHeight of room 8m, diagonal of floor is 15m\n\nTherefore, the cosine of the angle which a diagonal of the room makes with the floor is \n\nEC<sup>2</sup> = 15<sup>2</sup> + 8<sup>2</sup>\n cosine\n\nadj/Hyp = 15/17\n \n\nEC<sup>2</sup> = √(225+64)\nEC = √289\n= 17 ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1028,
+    "question": "If log<sub>10</sub> 2 = 0.3010 and log<sub>10</sub> 3 = 0.4771, eventually without using the logarithm tables, log<sub>10</sub> 4.5",
+    "option": {
+      "a": "0.3010",
+      "b": "0.4771",
+      "c": "0.6532",
+      "d": "0.9542"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "log<sub>10</sub> 2 = 0.3010 and log<sub>10</sub> 3 = 04771\n\nlog<sub>10</sub> 4.5 = log<sub>10</sub>  ((3 × 3)/2)\n\nlog<sub>10</sub>  3 + log<sub>10</sub>  3 - log<sub>10</sub> 2 = 0.4471 + 0.771 - 0.3010\n= 0.6532",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -4944,6 +5072,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1096,
+    "question": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+    "option": {
+      "a": "25",
+      "b": "19",
+      "c": "18",
+      "d": "17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Let the three items be M, Y and P.\nn{M ∩ Y} only = 4-3 = 1\nn{M ∩ P) only = 5-3 = 2\nn{ Y ∩ P} only = 2\nn{M} only = 12-(1+3+2) = 6\nn{Y} only = 10-(1+2+3) = 4\nn{P} only = 14-(2+3+2) = 7\nn{M∩P∩Y} = 3\nNumber of women in the group = 6+4+7+(1+2+2+3) as above =25 women.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1100,
     "question": "The shaded portion in the venn diagram above represents?",
     "option": {
@@ -5052,6 +5196,22 @@
     "image": "",
     "answer": "a",
     "solution": "x<sup>3</sup>+6x−7/(x−1):\n\nWhen numerator is differentiated → 3x<sup>2</sup> + 6  \n\nWhen denominator is differentiated → 1\n\n: 3x<sup>2</sup>+6/1\nsubstitute x for 1\n\n 3∗1<sup>2</sup>+6/1 =  (3+6)/1\n \n\n=  9/1\n= 9",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1120,
+    "question": "Find the equation of a straight line parallel to the line 2x - y = 5 and having intercept of 5",
+    "option": {
+      "a": "2x + y = 5",
+      "b": " 2x + y = -5",
+      "c": "2x - y = -5",
+      "d": " 2x - y = 5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Condition for Parallelism means that their gradient value is same\n\nline 2x - y = 5 is rearranged\n\nAs y = 2x - 5 from y = mx + c\n\n: line 2x - y = 5 has the gradient of 2\n\nA parallel line with gradient of 2 and intercept of 5\n\n→ 2x - y = -5\n\nRearranged as y = 2x + 5",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -5196,6 +5356,22 @@
     "image": "",
     "answer": "c",
     "solution": "Let the given points be:\n\nP(-3, -14) = (x<sub>1</sub> , y<sub>1</sub>)\n\nQ(t, -5) = (x<sub>2</sub>, y<sub>2</sub>)\n\nPQ = 9 units (given)\n\nUsing the distance formula,\n\nd = √ [ (x<sub>2</sub> − x<sub>1</sub> )<sup>2</sup> + (y<sub>2</sub> − y<sub>1</sub>)<sup>2</sup>]\n\nPQ = √ [ (t − (−3))<sup>2</sup> + (−5 + 14)<sup>2</sup>]\n\n⟹ √ [ ( t + 3)<sup>2</sup> + 81] = 9\n\nSquaring on both sides,\n\n⇒ (t + 3)<sup>2</sup> + 81 = 81\n\n⇒ (t + 3)<sup>2</sup>  = 0\n\n⇒ t + 3 = 0\n\n∴ t = -3",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1151,
+    "question": "At simple interest, a man made a deposit of some money in the bank. The amount in his bank account after 10 years is three times the money deposited. If the interest rate stays the same, after how many years will the amount be five times the money deposited?\n",
+    "option": {
+      "a": "15 years",
+      "b": "25 years",
+      "c": "20 years",
+      "d": "30 years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Amount (A) = Principal (P) + Interest (I) i.e. A = P + I\n\n1 = PTR/100\nA = 3P; T = 10 years (Given)\n\nSince A = P + I\n\n⟹3P=P+P×10×R/100\n⟹3P=P+10PR/100\n⟹3P=P+PR/10\n⟹3P−P=PR/10\n⟹2P=PR/10\n⟹2P/1=PR/10\n⟹ PR = 20P\n\n∴ R = 20%\n\nSince the rate stays the same\n\nA = 5P; R = 20%;T =?; A  =P + I\n\n⟹5P = P + (p × T × 20)/100\n⟹5P − P = (2PT)/10\n⟹4P = (2PT)/10\n⟹2P = PT/10\n⟹ PT = 20P\n\n∴ T = 20 years",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -5568,6 +5744,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1232,
+    "question": "in the figure above, what is the equation of the line that passes the y-axis at (0,5) and passes the x-axis at (5,0)?",
+    "option": {
+      "a": " y = x + 5",
+      "b": "y = -x + 5",
+      "c": "y = x - 5",
+      "d": "y = -x - 5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206937/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q47_stzvpo.jpg",
+    "answer": "b",
+    "solution": "(x<sub>1</sub> , y<sub>1</sub> ) = (0,5)\n\n(x<sub>2</sub> , y<sub>2</sub> ) = (5, 0)\n\nUsing (y − y<sub>1</sub) /(y<sub>2</sub>  − y<sub>1</sub>)  = (x − x<sub>1</sub>)/(x<sub>2</sub>  − x<sub>1</sub>) \n\n\n(y−5)/(0−5) = (x−0)/(5−0)\n\n\n(y−5)/−5 = x/5\n\n\n5(y - 5) = -5x\n\ny - 5 = -x\n\nx + y = 5\n\ny = -x + 5",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1234,
     "question": "If the angle of a sector of a circle with radius 10.5 cm is 120°, find the perimeter of the sector. [Take π=22/7]",
     "option": {
@@ -5598,6 +5790,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 1236,
+    "question": "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate",
+    "option": {
+      "a": "3%",
+      "b": "1.0%",
+      "c": "2.5%",
+      "d": "5.40%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Percentage birthrate = 62/6250 × 100\n= 6200/6250\n= 0.992% ≈ 1.0%.",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 1238,
@@ -5696,6 +5904,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1255,
+    "question": "Factorize x<sup>2</sup> −2x−15",
+    "option": {
+      "a": "(x + 3)<sup>2</sup> ",
+      "b": " (x + 5)(x − 3)",
+      "c": " (x − 5)<sup>2</sup> ",
+      "d": " (x − 5)(x + 3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x2<sup>2</sup>  − 2x − 15\n\n(x<sup>2</sup>  − 5x) + (3x − 15)\n\nx(x − 5)+ 3(x − 5)\n\n(x − 5)(x + 3)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1262,
     "question": "Find x if 132<sub>x</sub>  = 70 <sub>eight</sub> .",
     "option": {
@@ -5772,6 +5996,22 @@
     "image": "",
     "answer": "b",
     "solution": "∫(5x<sup>3</sup> + 7x<sup>2</sup> −2x + 5)dx\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − 2x<sup>2</sup>/2 + 5x + c\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − x<sup>2</sup> + 5x + c",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1282,
+    "question": "The area of an ellipse is 132cm2.The length of its major axis is 14cm.Find the length of it minor axis",
+    "option": {
+      "a": "10.5cm",
+      "b": "5cm",
+      "c": "10cm",
+      "d": "3cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2015"
   }
