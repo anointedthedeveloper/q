@@ -32,6 +32,22 @@
     "examyear": "2006"
   },
   {
+    "id": 5,
+    "question": "The agony of Jesus in the Garden of Gethsemane is a ",
+    "option": {
+      "a": "sign of abandonment ",
+      "b": "manifestation of human weakness ",
+      "c": "punishment ",
+      "d": "preparation for his death"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 8,
     "question": "What did God create on the fifth day? ",
     "option": {
@@ -283,6 +299,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 35,
+    "question": "The prophet who was with the exiles of 597 BC in Babylon was ",
+    "option": {
+      "a": "Moses ",
+      "b": "Hosea ",
+      "c": "Micah ",
+      "d": "Ezekiel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
@@ -1536,6 +1568,22 @@
     "examyear": "2012"
   },
   {
+    "id": 162,
+    "question": "The three sons of Saul who lost their live on Mount Gilboa were  ",
+    "option": {
+      "a": "Jonathan, Ishbosheth and Abinadab  ",
+      "b": "Abinadab, Jonathan and Ishbosheth  ",
+      "c": "Jonathan, Abinadab and Malchisua  ",
+      "d": "Ishbosheth, Malchishau and Abinadab"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 164,
     "question": "The person who was invited to nurse Moses was ",
     "option": {
@@ -2064,6 +2112,22 @@
     "examyear": "2005"
   },
   {
+    "id": 238,
+    "question": "The Philippians’ gifts to Paul were for",
+    "option": {
+      "a": "the growth of the church",
+      "b": "his sustenance",
+      "c": "distribution to the saints",
+      "d": "other Christian prisoners"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 240,
     "question": "Paul taught the Colossians that the relationship between wives and their husbands should be as",
     "option": {
@@ -2203,6 +2267,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 257,
+    "question": "“...but should write to them to abstain from the pollutions of idols and from unchastity and from what is strangled and from blood...” The statement above was made at the Council of Jerusalem by",
+    "option": {
+      "a": "Philip",
+      "b": "Simon",
+      "c": "James",
+      "d": "Peter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -3120,6 +3200,22 @@
     "examyear": "2008"
   },
   {
+    "id": 351,
+    "question": "God led the Israelites in the wilderness during the day in form of",
+    "option": {
+      "a": "fire",
+      "b": "light",
+      "c": "cloud",
+      "d": "rainbow."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
     "id": 353,
     "question": "God provided water for the Israelites by asking Moses to strike the rock at trice wilderness of",
     "option": {
@@ -3179,6 +3275,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
+    "id": 361,
+    "question": "Ahab was condemned for allowing Jericho to be rebuilt although that city had been",
+    "option": {
+      "a": "under Joshua’s curse",
+      "b": "devastated by an earthquake",
+      "c": "the scene of unexplained fatal accidents",
+      "d": "the site for Canaanite human sacrifice."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2008"
@@ -3296,6 +3408,22 @@
     "examyear": "2008"
   },
   {
+    "id": 376,
+    "question": "When Peter was in prison the Church",
+    "option": {
+      "a": "appealed to the authorities",
+      "b": "lived in fear",
+      "c": "prayed ceaselessly",
+      "d": "fought for his release."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
     "id": 379,
     "question": "The miracles of Jesus recorded in John’s gospel are called",
     "option": {
@@ -3323,6 +3451,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
+    "id": 384,
+    "question": "Paul says that only the heathen who are led astray by dumb idols could say",
+    "option": {
+      "a": "“Jesus is Lord!”",
+      "b": "“Praise ye the Lord!”",
+      "c": "“Hail the messiah!”",
+      "d": "“Jesus be cursed!”"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2008"
@@ -3607,6 +3751,22 @@
       "b": "set a trap for the Babylonians and destroy them",
       "c": "restore the people of Judah and their leaders to the true worship of God",
       "d": "punish the people of Judah and their leaders for their sins."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 414,
+    "question": "When the three Hebrew men refused to worship the King’s image, he commanded that they be",
+    "option": {
+      "a": "thrown into a furnace",
+      "b": "stoned",
+      "c": "beheaded",
+      "d": "thrown into the lion’s den."
     },
     "section": "",
     "image": "",
@@ -4832,6 +4992,22 @@
     "examyear": "2010"
   },
   {
+    "id": 560,
+    "question": "Who was the prophet responsible for the re-building of the Temple during the exile?",
+    "option": {
+      "a": "Ezra",
+      "b": "Isaiah",
+      "c": "Jeremiah",
+      "d": "Ezekiel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 561,
     "question": "Which of the following prophets taught that Yahweh was merciful?",
     "option": {
@@ -5111,6 +5287,22 @@
       "b": "adoption as son of God.",
       "c": "exaltation as Lord.",
       "d": "eternal life in the kingdom."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 593,
+    "question": "James teaches that the man who shall be blessed is he who",
+    "option": {
+      "a": "hears the word of God.",
+      "b": "knows the law perfectly.",
+      "c": "does the word he hears.",
+      "d": "teaches the word of God well."
     },
     "section": "",
     "image": "",
@@ -5472,6 +5664,22 @@
     "examyear": "2010"
   },
   {
+    "id": 643,
+    "question": "Paul in Thessalonians told believers that the coming of the Lord would be accompanied by",
+    "option": {
+      "a": "songs of praise",
+      "b": "the sound of the trumpet",
+      "c": "signs and wonders",
+      "d": "wailing and mourning"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 644,
     "question": "James stated in his epistle that when believers meet various trials, their faith produces",
     "option": {
@@ -5611,6 +5819,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 664,
+    "question": "King Jehoshaphat was commended for adopting his father’s policies which included",
+    "option": {
+      "a": "removing Maacah, his grandmother from being queen.",
+      "b": "waging wars with the king of Israel.",
+      "c": "allowing the cult prostitutes to operate.",
+      "d": "burning of incense at the high places."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -6096,6 +6320,22 @@
     "examyear": "2019"
   },
   {
+    "id": 720,
+    "question": "Jesus healed the lame man who had been sick for thirty-eight years at?",
+    "option": {
+      "a": "Capernaum",
+      "b": "Samaria",
+      "c": "Galilee",
+      "d": "Betsheba"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 723,
     "question": "According to Luke, Jesus was standing by the......He thereafter entered into the boat preaching and later 'calling' Simon Peter __________",
     "option": {
@@ -6167,6 +6407,22 @@
       "b": "Pray for the Grace of God",
       "c": "Forsake only adultery and murder",
       "d": "Dwell richly in the word of God"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 732,
+    "question": "The core of St Paul's advice on dignity of Labour is that",
+    "option": {
+      "a": "Christians must work hard to actively support the Church and themselves",
+      "b": "The lazy people must be made to learn in the hardest way possible",
+      "c": "Everyone should actively contribute to social progress",
+      "d": "Christians must be productive"
     },
     "section": "",
     "image": "",
@@ -6279,6 +6535,22 @@
       "b": "Genuine forgiveness only comes from God",
       "c": "Christians must not institute a 'Master-Servant' relationship contract",
       "d": "Philemon had unilaterally decided not to accept Onesimus back"
+    },
+    "section": "",
+    "image": "",
+    "answer": " a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 747,
+    "question": "The core of Saul's disobedience was that___________",
+    "option": {
+      "a": "He didn't perform the task of smiting the Amalekites to the letter",
+      "b": "He preserved the booty for himself",
+      "c": "He freed the Kenites",
+      "d": "He refused to carry out God's assignment on eliminating the Amalekites"
     },
     "section": "",
     "image": "",
@@ -6443,6 +6715,22 @@
     "section": "",
     "image": "",
     "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 772,
+    "question": "\"Who do men say that the Son of man is?\" Jesus asked this question",
+    "option": {
+      "a": "to show that popular opinion matters the most in His recognition as Messiah",
+      "b": "to indicate that the Jews and Pharisees need to reckon with His Messiahship",
+      "c": "at the scene of His Transfiguration",
+      "d": "in the context of the Great Confession"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -7003,6 +7291,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 829,
+    "question": "In the Epistle to the Romans, justification is received through ",
+    "option": {
+      "a": "faith in Jesus",
+      "b": "moral uprightness ",
+      "c": "observance of the law.   ",
+      "d": "giving of alms  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -7936,6 +8240,22 @@
     "examyear": "2011"
   },
   {
+    "id": 945,
+    "question": "The twelve s the type of the fertilifortification of the availability of grapes in the land.citiesty of the landpeople in the lanpies that were sent by Moses to the promised land were to confirm all the following except ",
+    "option": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 947,
     "question": "The purpose of Joshua’s add ",
     "option": {
@@ -8288,6 +8608,22 @@
     "examyear": "2011"
   },
   {
+    "id": 988,
+    "question": "The meaning of Reconciliation in Paul’s thought is how to",
+    "option": {
+      "a": "pay back your debt",
+      "b": "have peace with God and man",
+      "c": "give alms to the needy",
+      "d": "please God with your prayers."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 989,
     "question": "Which of Paul’s epistle was written to an individual?",
     "option": {
@@ -8539,6 +8875,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1022,
+    "question": "“Go up and join this chariot”.   This statement was made to ",
+    "option": {
+      "a": "John.                              ",
+      "b": "  Paul.",
+      "c": "  James. ",
+      "d": "   Philip."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
