@@ -4608,6 +4608,22 @@
     "examyear": "2015"
   },
   {
+    "id": 317,
+    "question": "When the invoice of a customer is overcast, the supplier will send to him a",
+    "option": {
+      "a": "cheque",
+      "b": "payment voucher",
+      "c": "debit note",
+      "d": "credit note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 320,
     "question": "Which of the following is not a method of depreciating fixed assets?",
     "option": {
@@ -6027,6 +6043,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 423,
+    "question": "On dissolution, the final distribution of cash to partners is based on",
+    "option": {
+      "a": "partnership agreement",
+      "b": "Articles of Association",
+      "c": "goodwill",
+      "d": "capital balances."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
