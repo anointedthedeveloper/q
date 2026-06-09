@@ -800,6 +800,22 @@
     "examyear": "2015"
   },
   {
+    "id": 154,
+    "question": "At what respective value of a, b, and c would the unit of work, the joule, be dimensionally similar to Mᵃ Lᵇ Tᶜ?",
+    "option": {
+      "a": "1, – 2, 1",
+      "b": "1, 2, – 2",
+      "c": "1, 1, –2",
+      "d": "2, 2, 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Determine the dimensional formula for Work (Joule)\nWork = Force × Distance\nForce = Mass × Acceleration = Mass × (Distance/Time²)\nTherefore:\nWork = Mass × (Distance/Time²) × Distance\nWork = Mass × Distance²/Time²\nDimensional formula for Work:\n[Work] = [M¹L²T⁻²]\nStep 2: Match with Mᵃ Lᵇ Tᶜ\nWe need to find a, b, and c such that:\nMᵃ Lᵇ Tᶜ = M¹L²T⁻²\nComparing the powers:\n\nFor Mass (M): a = 1\nFor Length (L): b = 2\nFor Time (T): c = -2\n\nTherefore:\na = 1, b = 2, c = -2\nAnswer: B. 1, 2, –2",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 155,
     "question": "The device in which one circuit controls another, especially if the current in the second circuit is large or dangerous is known as",
     "option": {
@@ -844,6 +860,22 @@
     "image": "",
     "answer": "c",
     "solution": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 158,
+    "question": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change",
+    "option": {
+      "a": "N – W when suspended freely",
+      "b": "N–S when suspended freely",
+      "c": "S – E when suspended freely",
+      "d": "S–W when suspended freely"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Lodestone is a natural magnet it points approximate at N – S when suspended freely",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1872,6 +1904,22 @@
     "examyear": "2020"
   },
   {
+    "id": 405,
+    "question": "Which of the following statements about defects of vision is/are CORRECT? \n\nI. For a long sighted person, close objects appear blurred\n\nII. For a short sighted person, distant objects appear blurred \n\nIII. Short sight is corrected by using a pair of converging lenses ",
+    "option": {
+      "a": " I only",
+      "b": "II only",
+      "c": "I and II only",
+      "d": " II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Statements I and II are correct. Statement III is incorrect because short sight is corrected with diverging (concave) lenses, not converging lenses.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 407,
     "question": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 10cm³ at 0°C, what will be its volume at 100°C?",
     "option": {
@@ -2124,6 +2172,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nWeight in air (W_air) = 10.00 N\nWeight in water (W_water) = 6.0 N\nWeight in liquid X (W_X) = 7.0 N\nRelative density of liquid X = ?\n\nStep 1: Calculate upthrust in water\nUpthrust in water = W_air - W_water\nUpthrust in water = 10.00 - 6.0 = 4.0 N\nStep 2: Calculate upthrust in liquid X\nUpthrust in liquid X = W_air - W_X\nUpthrust in liquid X = 10.00 - 7.0 = 3.0 N\nStep 3: Use relationship between upthrust and density\nSince upthrust = Volume × Density × g, and volume is constant:\nUpthrust in liquid X / Upthrust in water = Density of X / Density of water\nRelative density of X = Upthrust in X / Upthrust in water\nCalculating:\nRelative density of X = 3.0 / 4.0 = 3/4 = 0.75",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 447,
+    "question": "A gas at a volume of V₀ in a container at pressure P₀ is compressed to one-fifth of its volume. What will be its pressure if the magnitude of its original temperature T is constant?",
+    "option": {
+      "a": "P₀/5",
+      "b": "4P₀/5",
+      "c": "P₀",
+      "d": "5P₀"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial volume = V₀\nInitial pressure = P₀\nFinal volume = V₀/5 (compressed to one-fifth)\nTemperature = constant\nFinal pressure = ?\n\nUsing Boyle's Law (at constant temperature):\nP₁V₁ = P₂V₂\nSubstituting values:\nP₀ × V₀ = P₂ × (V₀/5)\nSolving for P₂:\nP₀ × V₀ = P₂ × V₀/5\nMultiply both sides by 5:\n5P₀ × V₀ = P₂ × V₀\nDivide both sides by V₀:\nP₂ = 5P₀",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -3520,6 +3584,22 @@
     "examyear": "2007"
   },
   {
+    "id": 751,
+    "question": "A gramophone record takes 5s to reach its constant angular velocity of 4π rads⁻¹ from rest. Find its constant angular acceleration.",
+    "option": {
+      "a": " 0.4π rads⁻²",
+      "b": " 0.8π rads⁻²",
+      "c": "1.3π rads⁻²",
+      "d": " 20.0π rads⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial angular velocity (ω₀) = 0 rad/s (starts from rest)\nFinal angular velocity (ω) = 4π rad/s\nTime (t) = 5 s\nAngular acceleration (α) = ?\n\nUsing angular motion equation:\nω = ω₀ + αt\nSince ω₀ = 0:\nω = αt\nRearranging to find α:\nα = ω/t\nSubstituting values:\nα = 4π/5\nα = 0.8π rad/s²",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 761,
     "question": "I. Mass\nII. Density\nIII. Temperature\nIV. Nature of substance\n\n\nwhich of the above affect diffusion?",
     "option": {
@@ -3948,6 +4028,22 @@
     "image": "",
     "answer": "b",
     "solution": "\nGiven information:\n\nFocal length (f) = +12 cm (positive for convex lens)\nMagnification (m) = -4 (negative because real images are inverted)\nObject distance (u) = ?\n\nStep 1: Use magnification formula\nm = v/u\n-4 = v/u\nv = -4u\n(Note: v is negative for real images in sign convention where object distance is negative)\nActually, using the proper sign convention where object is on left:\n\nu = -|u| (negative, object on left)\nv = +|v| (positive, real image on right)\nm = -v/u = -4\n\nSo: -v/u = -4\nv = 4u (in magnitude)\nStep 2: Use lens formula\n1/f = 1/v - 1/u\nUsing sign convention (u negative, v positive, f positive):\n1/12 = 1/v - 1/(-u)\n1/12 = 1/v + 1/u\nSince v = 4u:\n1/12 = 1/(4u) + 1/u\n1/12 = 1/(4u) + 4/(4u)\n1/12 = 5/(4u)\n4u = 60\nu = 15 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 846,
+    "question": "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is",
+    "option": {
+      "a": "0.35mH",
+      "b": "3.50mH",
+      "c": "2.90mH",
+      "d": "35.0mH"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432660/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_47_pcogvt.png",
+    "answer": "d",
+    "solution": "Left = L1 + L2 + L3\n= 5mH + 10mH + 20mH = 35mH",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -5072,6 +5168,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1058,
+    "question": "The mechanism of heat transfer from one point to another through the vibration of the molecules of the medium is",
+    "option": {
+      "a": "covection",
+      "b": "conduction",
+      "c": "radiation",
+      "d": "diffusion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The mechanism of heat transfer from one point to another through the vibration of molecules of the medium is conduction. In this process, energetic molecules vibrate and collide with neighboring molecules, transferring kinetic energy without the molecules themselves moving from their positions. This is the dominant heat transfer mechanism in solids, especially metals.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1059,
     "question": "A wave that travels through stretched strings is known as",
     "option": {
@@ -5212,6 +5324,22 @@
     "image": "",
     "answer": "b",
     "solution": "The vector sum of the forces must be zero.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1089,
+    "question": "An object of mass 20kg is released from a height of 10m above the ground level. The kinetic energy of the object just before it hits the ground is",
+    "option": {
+      "a": "200J",
+      "b": "4000J",
+      "c": " 2000J",
+      "d": "500J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass, m = 20 kg\nHeight, h = 10 m\nAcceleration due to gravity, g = 10 m s⁻² (assumed)\n\nSolution:\n\nStep 1: Energy conservation principle\nWhen the object falls from rest, its initial potential energy is converted entirely into kinetic energy just before hitting the ground (ignoring air resistance).\n\nStep 2: Calculate potential energy at the top\nPotential energy, PE = m × g × h = 20 kg × 10 m s⁻² × 10 m = 2000 J\n\nStep 3: Kinetic energy just before impact\nBy conservation of energy, KE just before impact = PE at top = 2000 J",
     "examtype": "utme",
     "examyear": "2014"
   },
