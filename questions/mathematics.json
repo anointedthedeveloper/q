@@ -640,6 +640,22 @@
     "examyear": "2009"
   },
   {
+    "id": 62,
+    "question": "What is the product of 27/5 ¸(3)3 and (1/5) ",
+    "option": {
+      "a": "5",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 64,
     "question": "If the length of the sides of a right angled triangle are (3x + 1)cm, (3x – 1)cm and xcm, what is x ? ",
     "option": {
@@ -4000,6 +4016,22 @@
     "examyear": "2006"
   },
   {
+    "id": 391,
+    "question": "Find the tax on an income of N20,000 if no tax is paid on the first N10,000 and tax is paid at N50 in N1000 on the next N5000 and at N55 in N1000 on the remainder",
+    "option": {
+      "a": " N500",
+      "b": " N552",
+      "c": "N255",
+      "d": "N525"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "N20,000 - N10,000 = N10,000\n1st tax on N5000 at N50 per N1000\n= 5*50 = N250\n2nd tax on the remaining N5000 at N55 per N1000 = 5*55 = N275\nTotal tax paid = N250 + N275\n= N525",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 393,
     "question": "Compute 110011<sub>2</sub> + 11111<sub>2</sub>",
     "option": {
@@ -4764,6 +4796,22 @@
     "image": "",
     "answer": "d",
     "solution": "M + L = 28,\n\nM : L = 600 : 800\n\n= 3 : 4\n\nM/L = 34 → M = 3/4L\n\n3/4L + L = 28\n\n7L/4 = 28\n\nL = 4×28/7\n\n\n= 16",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 470,
+    "question": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus off P",
+    "option": {
+      "a": "It is a semi circle with ST as diameter",
+      "b": "It is a perpendicular bisector of St",
+      "c": "It is a quadrant of a circle with ST as diameter",
+      "d": "It is a straight line perpendicular to ST"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -5776,6 +5824,22 @@
     "examyear": "2010"
   },
   {
+    "id": 576,
+    "question": " Factorize completely (x<sup>3</sup>+3x<sup>2</sup>-10x)/(2x<sup>2</sup>-8)",
+    "option": {
+      "a": "\nx(x-5)/2(x+2)",
+      "b": "\nx(x-5)/2(x-2)",
+      "c": "\nx(x+5)/2(x+2)",
+      "d": "\nx2+5/2x+4"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msup>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n      <mo>+</mo>\n      <mn>3</mn>\n      <msup>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>10</mn>\n      <mi>x</mi>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <msup>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>8</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "x<sup>3</sup> + 3x<sup>2</sup> − 10x/2x<sup>2</sup> − 8 = x(x<sup>2</sup> + 3x − 10)/2(x<sup>2</sup> − 4)\n= x(x<sup>2</sup> − 2x +5x − 10)/2(x − 2)(x + 2)\n= x(x − 2)(x + 5)/2(x − 2)(x + 2)\n= x(x + 5)/2(x + 2)",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 579,
     "question": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
     "option": {
@@ -5788,6 +5852,22 @@
     "image": "",
     "answer": "a",
     "solution": "If 18(p + q) = (18 + p)q\n\nthen 18p + 18q = 18q + pq\n\n18p = pq ⟹ q = 18.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 580,
+    "question": "If ∣∣∣x237∣∣∣ = 15, find the value of x",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128199/ALOC-Questions/Mathematics/2010/MATH_2010_Q9_eaggil.jpg",
+    "answer": "a",
+    "solution": "x x 7 - 2 x 3 = 15\n7x - 6 = 15\n7x = 15+6\n7x = 21\nx = 21/7\nx = 3",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -6688,6 +6768,22 @@
     "examyear": "2011"
   },
   {
+    "id": 670,
+    "question": "In a class of 60 students, 30 offers physics and 40 offers chemistry. If a students is picked at random from the class, what is the probability that the student offer both physics and Chemistry?",
+    "option": {
+      "a": "1/2",
+      "b": "1/6",
+      "c": "1/4",
+      "d": "1/3"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129944/ALOC-Questions/Mathematics/2011/JAMB_MATH_2011_Q49_SOLUTION_dbv0wq.png",
+    "answer": "b",
+    "solution": "60 = 30 – x + x + 40 – x\n\n60 = 70 – x\n\nx = 10\n\nn(P∩C)=10\nProb(P∩C)=10/60=1/6",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 721,
     "question": "Convert 112<sub>6</sub>  to a number in base three",
     "option": {
@@ -6896,6 +6992,22 @@
     "examyear": "2012"
   },
   {
+    "id": 738,
+    "question": "The sum to infinity of a geometric progression is −1/10\n and the first term is −1/8\n. Find the common ratio of the progression.",
+    "option": {
+      "a": "−1/5",
+      "b": "−1/4",
+      "c": "−1/3",
+      "d": "−1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "S<sub>r</sub> = a/(1−r)\n\n\n−1/10 = 1/8 × 1/(1−r)\n\n\n−1/10 = 1/8(1−r)\n\n\n−1/10 = 18−8r\n\n\ncross multiply...\n\n-1(8 - 8r) = -10\n\n-8 + 8r = -10\n\n8r = -2\n\nr = -1/4",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 739,
     "question": "The binary operation * is defined on the set of integers such that p * q = pq + p - q. Find 2 * (3 * 4)",
     "option": {
@@ -7052,6 +7164,22 @@
     "image": "",
     "answer": "b",
     "solution": "Range = Highest Number - Lowest Number\n\nRange = 11 - 2 = 9",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 755,
+    "question": "Find the standard deviation of 2,3,8,10 and 12",
+    "option": {
+      "a": "3.9",
+      "b": "4.9",
+      "c": "5.9",
+      "d": "6.9"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid solid solid solid solid solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>x</mi>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mi>x</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mi>&#x03F0;<!-- ϰ --></mi>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mi>x</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mi>&#x03F0;<!-- ϰ --></mi>\n        <msup>\n          <mo stretchy=\"false\">)</mo>\n          <mn>2</mn>\n        </msup>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>25</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mn>16</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>8</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>10</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>9</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>12</mn>\n      </mtd>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>25</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd />\n      <mtd>\n        <mn>76</mn>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "S.D = √(x−ϰ)<sup>2</sup>/n\n\n\nS.D = √76/5\n\nS.D = 3.9",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -8480,6 +8608,22 @@
     "examyear": "2017"
   },
   {
+    "id": 893,
+    "question": "Find the number of ways that the letters of the word EXCELLENCE be arranged",
+    "option": {
+      "a": "(10!2!2!)/2!",
+      "b": "(10!4!)/2! ",
+      "c": " 10!/4!2!2!",
+      "d": "10!/2!2!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "EXCELLENCE\n\nIt is a ten letter word = 10!\n\nSince we have repeating letters, we have to divide to remove the duplicates accordingly. There are 4 Es, 2 Cs, 2 Ls\n\n∴ there are\n10!/4!2!2!\n ways to arrange",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 894,
     "question": "Evaluate 0.00000231/0.007\n and leave the answer in standard form",
     "option": {
@@ -9100,6 +9244,22 @@
     "image": "",
     "answer": "a",
     "solution": "The gradient to the curve is found by differentiating the curve equation with respect to x\n\nSo dy/dx 2x - 2\n\nThe gradient of the curve is the same with that of the tangent.\n\n At point (2, 0) dy/dx = 2(2) - 2\n\n  = 4 – 2 = 2\n\n The equation of the tangent is given by (y - y1) dy/dx\n (x – x1)\n\n At point (x1, y1) = (2, 0)\n\n  y - 0 = 2(x - 2)\n\n  y = 2x - 4",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 956,
+    "question": "Use the quadratic equation curve to answer this questions\nWhat is the minimum value of the graph?",
+    "option": {
+      "a": "-5.3",
+      "b": "0.5",
+      "c": "3",
+      "d": "8"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006473/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q38_mx7r71.jpg",
+    "answer": "a",
+    "solution": "The minimum value is the lowest value of the curve on y axis which gives a value of -5.3",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -10460,6 +10620,22 @@
     "image": "",
     "answer": "d",
     "solution": "(m<sup>2</sup> + 2) (m -1)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1090,
+    "question": "What is the n-th term of the sequence 2, 6, 12, 20...?",
+    "option": {
+      "a": "4n - 2",
+      "b": "2(3<sup>(n - 1)</sup>)",
+      "c": "n<sup>2</sup> + n",
+      "d": "n<sup>2</sup> + 3n + 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given that 2, 6, 12, 20...? the nth term = n<sup>2</sup> + n\n\ncheck: n = 1, u1 = 2\n\nn = 2, u2 = 4 + 2 = 6\n\nn = 3, u3 = 9 + 3 = 12\n\n∴ n = 4, u4 = 16 + 4 = 20",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -12268,6 +12444,22 @@
     "image": "",
     "answer": "d",
     "solution": "x2<sup>2</sup>  − 2x − 15\n\n(x<sup>2</sup>  − 5x) + (3x − 15)\n\nx(x − 5)+ 3(x − 5)\n\n(x − 5)(x + 3)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1256,
+    "question": "If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point",
+    "option": {
+      "a": "2, ½",
+      "b": "½ , 2",
+      "c": "1, ½",
+      "d": " 0, 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The coordinate of the midpoint is ((−3+4)/2 ,(5+(−1))/2)\n= (1/2,2)",
     "examtype": "utme",
     "examyear": "2015"
   },
