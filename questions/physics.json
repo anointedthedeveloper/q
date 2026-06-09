@@ -2720,6 +2720,22 @@
     "examyear": "2016"
   },
   {
+    "id": 196,
+    "question": "Which of the following statements is NOT correct?",
+    "option": {
+      "a": " Brownian motion is an evidence of the particle nature of matter",
+      "b": "Atoms combine to form molecules",
+      "c": "The molecules of matter are not in constant motion",
+      "d": " matter is made up of molecules"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": " This statement is NOT correct because molecules are always in constant motion according to the kinetic theory of matter.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 197,
     "question": "A dynamo primarily converts",
     "option": {
@@ -5200,6 +5216,22 @@
     "examyear": "2019"
   },
   {
+    "id": 377,
+    "question": "Three resistors with resistance 200Ω, 500Ω and 1kΩ are connected in series. A 6v battery is connected to either end of the combination. Calculate the potential difference between the ends of 200Ω resistance.",
+    "option": {
+      "a": "0.71V",
+      "b": "0.7V",
+      "c": " 0.82V",
+      "d": "0.8V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nR₁ = 200Ω\nR₂ = 500Ω\nR₃ = 1kΩ = 1000Ω\nVoltage (V) = 6V\nIn series connection\nPotential difference across 200Ω = ?\n\nStep 1: Calculate total resistance\nFor series: R_total = R₁ + R₂ + R₃\nR_total = 200 + 500 + 1000\nR_total = 1700Ω\nStep 2: Calculate current through circuit\nUsing Ohm's law: I = V/R_total\nI = 6/1700\nI = 0.00353 A (approximately)\nStep 3: Calculate voltage across 200Ω resistor\nIn series, same current flows through all resistors\nV₁ = I × R₁\nV₁ = (6/1700) × 200\nV₁ = 1200/1700\nV₁ = 0.706V ≈ 0.71V\nAlternative method (voltage divider):\nV₁ = (R₁/R_total) × V_total\nV₁ = (200/1700) × 6\nV₁ = 1200/1700 = 0.706V ≈ 0.71V",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 378,
     "question": "An a.c of 1A at a frequency of 800 cycles per second flows through a coil, the inductance of which is 2.5mH and the resistance of which is 5Ω. What is the power absorbed in the Coil?\n",
     "option": {
@@ -6252,6 +6284,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a sound wave goes from a cold air region to a hot air region, its wavelength will increase because sound travels faster in hot air while the frequency remains constant.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 456,
+    "question": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a?",
+    "option": {
+      "a": " concave mirror of focal length 5cm",
+      "b": "concave mirror of focal length 10cm",
+      "c": " convex mirror of focal length 5cm",
+      "d": "convex mirror of focal length 10cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Understanding the setup:\n\nHollow metal sphere with diameter = 20cm\nInside portion is polished (reflective surface)\nThis means the reflecting surface curves inward\n\nType of mirror:\nWhen the inside of a spherical surface is polished:\n\nThe reflecting surface curves inward\nThis forms a concave mirror\n\n(If the outside were polished, it would be a convex mirror)\nCalculating focal length:\nGiven:\n\nDiameter = 20 cm\nRadius of curvature (R) = 20/2 = 10 cm\n\nFormula:\nFor spherical mirrors: f = R/2\nCalculating:\nf = 10/2 = 5 cm\nTherefore:\n\nType: Concave mirror (inside surface polished)\nFocal length: 5 cm",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -10544,6 +10592,22 @@
     "examyear": "2007"
   },
   {
+    "id": 768,
+    "question": "When an object is placed between the principal focus and the optical center of a convex lens, it could be used as a?",
+    "option": {
+      "a": "Simple microscope",
+      "b": "refecting lens",
+      "c": "compound microscope",
+      "d": "projector"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Simple microscope: A single convex lens used to magnify small objects. It allows the viewer to see details that are not visible to the naked eye.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 769,
     "question": "The production of pure spectrum could easily be achieved using a?",
     "option": {
@@ -12704,6 +12768,22 @@
     "examyear": "2010"
   },
   {
+    "id": 925,
+    "question": "When a positively charged rod is brought nearer the cap of a positively charged electroscope, the leaves divergence will?",
+    "option": {
+      "a": "be induced",
+      "b": "converge",
+      "c": "diverge",
+      "d": "remain constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "ince the charged rod is not in contact with the electroscope, the leaves divergence will diverge.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 926,
     "question": "Power supply is transmitted at a very high voltage and low current in order to?",
     "option": {
@@ -14844,6 +14924,22 @@
     "image": "",
     "answer": "a",
     "solution": "The vector quantities are II and IV.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1083,
+    "question": "Which type of motion do the wheels of a moving car undergo?",
+    "option": {
+      "a": " Vibratory and translational motion",
+      "b": "Random and translational motion",
+      "c": " Rotational mand oscillatory motion",
+      "d": "Translational and rotational motion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The tyre in motion makes a rotation and it translates in a straight line alongside. if the wheels is turned it continued further in a translational straight line through rotational motion.",
     "examtype": "utme",
     "examyear": "2014"
   },
