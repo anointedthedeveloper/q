@@ -1,5 +1,133 @@
 [
   {
+    "id": 19,
+    "question": "The electorate is generally  understood to refer to ",
+    "option": {
+      "a": "elected members of the National- Assembly ",
+      "b": "elected members of the state house of assembly  ",
+      "c": "candidates who can contest elections ",
+      "d": "those citizens qualified to vote at elections"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 64,
+    "question": "In many countries, citizenship can be acquired through the following processes except ",
+    "option": {
+      "a": "nationalization ",
+      "b": "naturalization ",
+      "c": "registration ",
+      "d": "birth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 107,
+    "question": "Proportional representation favours a ",
+    "option": {
+      "a": "multi-party system ",
+      "b": "three party system ",
+      "c": "two-party system ",
+      "d": "one party system "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 182,
+    "question": "Which of these is not an instrument of foreign policy",
+    "option": {
+      "a": "war    ",
+      "b": "diplomacy  ",
+      "c": "subversion   ",
+      "d": "foreign aid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 190,
+    "question": "A major flaw in a liberal democracy is",
+    "option": {
+      "a": "that it promotes political instability",
+      "b": "the limitation of the freedom of expression",
+      "c": "its emphasis on political rights over economic rights",
+      "d": "its emphasis on collection ownership"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 334,
+    "question": "The Independence constitution can be described as",
+    "option": {
+      "a": "monarchical and presidential",
+      "b": "republican and parliamentary",
+      "c": "monarchical and parliamentary",
+      "d": "federal and republican"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 337,
+    "question": "A feature common to the 1963, 1979 and 1989 constitutions of Nigeria was that they provided for a",
+    "option": {
+      "a": "republican system",
+      "b": "prime minister",
+      "c": "ceremonial head of state",
+      "d": "president as head of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 376,
+    "question": "Before Nigeria became a republic, the highest body charged with the administration of justice was the",
+    "option": {
+      "a": "Supreme Court",
+      "b": "Court of Appeal",
+      "c": "Privy court",
+      "d": "High Court"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 380,
     "question": "The Queen can do no wrong means",
     "option": {
@@ -64,6 +192,38 @@
     "examyear": "2010"
   },
   {
+    "id": 510,
+    "question": "According to Aristotle, a form of government in which the few rule for the benefit of all is",
+    "option": {
+      "a": "polyarchy",
+      "b": "diarchy",
+      "c": "aristocracy",
+      "d": "autocracy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 583,
+    "question": "The President of Nigeria was indirectly elected through secret ballot for a period of five years by the senate in",
+    "option": {
+      "a": "1983",
+      "b": "1960",
+      "c": "1963",
+      "d": "1979"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 615,
     "question": "The United Nations Organization [UNO] has its headquarters in",
     "option": {
@@ -78,6 +238,118 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
+  },
+  {
+    "id": 633,
+    "question": "Which of the following is not a specialized agency of the United Nations Organization?",
+    "option": {
+      "a": "World Health Organization",
+      "b": "The Food and Agriculture Organization",
+      "c": "The international Labour Organization",
+      "d": "General Assembly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 684,
+    "question": "The emergency powers conferred on the Federal Government under the independence constitution was first exercised in the",
+    "option": {
+      "a": "Western Region",
+      "b": "Mid-Western Region",
+      "c": "Eastern Region",
+      "d": "Northern Region"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 730,
+    "question": " The right of a state is known as ___",
+    "option": {
+      "a": "authority",
+      "b": "power",
+      "c": "sovereignty",
+      "d": "legitimacy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": " Sovereignty refers to the supreme authority of a state.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 731,
+    "question": "The popularity of a political party in given democracy rests on its __",
+    "option": {
+      "a": "constitution",
+      "b": "manifesto",
+      "c": "ideology",
+      "d": " number of branches."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A political party's popularity depends largely on its manifesto, which outlines its vision and policies.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 747,
+    "question": "Which of the following is a major feature of democracy?",
+    "option": {
+      "a": "Capacity to influence people",
+      "b": " Existence of political office holders",
+      "c": " Decision making",
+      "d": "Consent of the people."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Democracy is based on the consent of the governed.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 752,
+    "question": "In the pre-colonial Emirate system, the emir of Gwandu controlled the __",
+    "option": {
+      "a": "Central section",
+      "b": "Southern section",
+      "c": "Eastern section",
+      "d": " Western section."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": " In the Emirate system, the Emir of Gwandu controlled the western section.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 832,
+    "question": "A party can be said to have national outlook if________",
+    "option": {
+      "a": " it is ethnic based but has branches all over the state",
+      "b": "its membership cut across ethnic boundaries",
+      "c": "it is registered by the electoral commission as a national party",
+      "d": "it is headed by individuals who are famous within and without the country"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A political party has a national outlook when it represents diverse ethnic, religious, and regional groups rather than being limited to a specific ethnic or regional interest.",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 855,
@@ -112,6 +384,70 @@
     "examyear": "2019"
   },
   {
+    "id": 878,
+    "question": "Rates are generally collected in Nigeria by ________",
+    "option": {
+      "a": " the State Ministry of Finance",
+      "b": "the Department of inland Revenue",
+      "c": "the Emirate of Traditional Council",
+      "d": "the Local Government Councils"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Local government generates revenue through the collection of rates on radio and television, market shops, motor parks etc ",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 893,
+    "question": "Southern Nigeria was divided into Eastern and Western provinces for administrative purposes in _________",
+    "option": {
+      "a": "1935",
+      "b": "1937",
+      "c": "1939",
+      "d": "1941"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In 1939, Southern Nigeria was officially divided into the Eastern and Western Provinces by Governor Bernard Bourdillon for administrative convenience.\n\nBefore this, Southern Nigeria was administered as a single entity after the 1914 amalgamation of the Northern and Southern Protectorates.\nThe division allowed for better governance and set the foundation for the later creation of Nigeria’s regions in 1954.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 900,
+    "question": "The highest court in Nigeria before 1963 was the _________",
+    "option": {
+      "a": " Supreme Court",
+      "b": "High Court",
+      "c": "Judicial Committees of the Privy Council",
+      "d": "Court of Appeal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Judicial Committee of Privy Council is the highest court of appeal for British Territories established on 13th, August 1833. The Privy Council served as the final court of appeal for Nigeria during the colonial period and up until the Nigerian Constitution of 1963, when Nigeria established its own Supreme Court as the highest judicial authority in the country.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 907,
+    "question": "The charter of the United Nations was drawn up in ________",
+    "option": {
+      "a": " New York",
+      "b": "San Franciso",
+      "c": "Washington DC",
+      "d": "Los Angeles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The charter of the United Nations was signed on 26th June 1945 in San Francisco",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 964,
     "question": "A group of people with different natures, opinions, and goals with complicated networks of social relation",
     "option": {
@@ -126,6 +462,38 @@
     "solution": "A group of people with different natures, opinions, and goals with complicated networks of social relation is referred to as a society. ",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 1055,
+    "question": "Formation of political parties in Nigeria is one of the features of ",
+    "option": {
+      "a": " Lyttleton Constitution",
+      "b": " Macpherson Constitution",
+      "c": " Richards Constitution",
+      "d": "Clifford Consitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Clifford Constitution of 1922 is the constitution that officially granted Nigerians the right to create political parties and form political associations, The first political party formed in Nigeria was the Nigerian National Democratic Party (NNDP) formed by Herbert Macauley in 1923. \n",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1058,
+    "question": "Lawyers recruited into the civil service belong to the ",
+    "option": {
+      "a": " professional class",
+      "b": " administrative class",
+      "c": " executive class",
+      "d": " clerical class"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Lawyers belong to the professional class because they provide certain expertise to the civil service (in this case, the provision of legal counsel). Other members of the professional class includes: doctors, engineers, accountants, etc. ",
+    "examtype": "utme",
+    "examyear": "2024"
   },
   {
     "id": 1170,
@@ -158,5 +526,37 @@
     "solution": "The headquarters of the International Court of Justice is at Hague in the Court of Justice is at Hague in the Netherlands.\n\nThe court is composed of fifteen judges. The judges are elected independently by the security council and the general assembly. It elects its own president and vice president, a registrar and other officers. Only nations and not individuals can bring cases to the court.",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 1361,
+    "question": "A major characteristic of a confederal state is that",
+    "option": {
+      "a": "there is supremacy of the constitution",
+      "b": "the citizens often owe allegiance to the centre",
+      "c": " political stability is usually low",
+      "d": "the centre overides the regions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A confederal state is characterized by a weak central government with most authority vested in constituent regions or states. This decentralization often leads to political instability due to:\n\nLack of Cohesion: Competing regional interests and priorities can cause disputes, making collective decision-making difficult.\n\nLimited Central Enforcement: The central authority lacks power to enforce laws or resolve conflicts between states, fostering uncertainty.\n\nHistorical Examples: The U.S. under the Articles of Confederation (1781–1789) faced instability (e.g., Shays' Rebellion, economic disarray) until replaced by a federal system.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1366,
+    "question": "An economic system that encourages even distribution of wealth in the society is",
+    "option": {
+      "a": "liberalism",
+      "b": "socialism",
+      "c": "mercantilism",
+      "d": "capitalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "socialism an economic system that encourages even distribution of wealth in the society.\n\nSocialism is the system of government in which there is a public ownership of production and the establishment of a society in which every person is equal.",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]
