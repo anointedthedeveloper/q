@@ -1200,6 +1200,22 @@
     "examyear": "2010"
   },
   {
+    "id": 77,
+    "question": "  A gas at constant pressure of 4.0 x 105 Pa is cooled so that its volume decreases from 1.6m3 to 1.2m3. What work is performed by the gas? ",
+    "option": {
+      "a": "6.4 x 105 J ",
+      "b": "3.2 x 105 J  ",
+      "c": "1.6 x 105 J ",
+      "d": "0.4 x 105 J  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 78,
     "question": "Highly polished silvery  surfaces are: ",
     "option": {
@@ -4012,6 +4028,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nPower (P) = 5.0 dioptres (D)\nFocal length (f) = ?\n\nFormula:\nP = 1/f\nwhere:\n\nP is in dioptres (D)\nf is in meters (m)\n\nRearranging to find focal length:\nf = 1/P\nSubstituting values:\nf = 1/5.0\nf = 0.2 m",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 255,
+    "question": "A string of length 5cm is extended by 0.04m when a load of 0.8kg is suspended at the end. How far will it extend if a force of 16N is applied? [g = 10ms⁻²]",
+    "option": {
+      "a": "0.04m",
+      "b": "0.12m",
+      "c": " 0.01m",
+      "d": " 0.08m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nOriginal length = 5 cm (not needed for calculation)\nExtension₁ (e₁) = 0.04 m\nMass = 0.8 kg\nForce₂ (F₂) = 16 N\ng = 10 m/s²\nExtension₂ (e₂) = ?\n\nStep 1: Calculate initial force\nF₁ = mg = 0.8 × 10 = 8 N\nStep 2: Apply Hooke's Law\nFor elastic materials: F ∝ e (Force is proportional to extension)\nF₁/e₁ = F₂/e₂\nStep 3: Calculate new extension\n8/0.04 = 16/e₂\ne₂ = (16 × 0.04)/8\ne₂ = 0.64/8\ne₂ = 0.08 m",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -13900,6 +13932,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nDecay constant, λ = 0.231 s⁻¹\n\nSolution:\n\nStep 1: Relationship between half-life and decay constant\nHalf-life T₁/₂ = ln 2 / λ\n\nStep 2: Substitute the value of ln 2\nln 2 ≈ 0.693\n\nStep 3: Calculate half-life\nT₁/₂ = 0.693 / 0.231 = 3.00 s",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 881,
+    "question": "A piece of radioactive material contains 10²⁰ atoms. If the half‑life of the material is 20 seconds, the number of disintegrations in the first second is?",
+    "option": {
+      "a": "3.47 × 10¹⁸",
+      "b": "6.93 × 10²⁰",
+      "c": "3.47 × 10²⁰",
+      "d": "6.93 × 10¹⁸"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial number of atoms, N₀ = 10²⁰\nHalf‑life, T = 20 s\n\nSolution:\n\nStep 1: Calculate decay constant\nλ = ln 2 / T = 0.693 / 20 = 0.03465 s⁻¹\n\nStep 2: Initial activity\nActivity A₀ = λ N₀ = 0.03465 × 10²⁰ = 3.465 × 10¹⁸ s⁻¹\n\nStep 3: Number of disintegrations in first second\nSince the time interval (1 s) is much smaller than the half‑life, the activity remains nearly constant. Thus, the number of disintegrations ≈ A₀ × 1 s = 3.465 × 10¹⁸.",
     "examtype": "utme",
     "examyear": "2009"
   },
