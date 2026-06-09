@@ -3456,6 +3456,22 @@
     "examyear": "2006"
   },
   {
+    "id": 220,
+    "question": "The amount set aside out of profits earned by a company which are not meant for liability or contingency are",
+    "option": {
+      "a": "dividends",
+      "b": "provisions",
+      "c": "retained profits",
+      "d": "reserves"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 221,
     "question": "The basis of accounting which eliminates debtors and creditors is",
     "option": {
@@ -5883,6 +5899,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 380,
+    "question": "The accounting concept which states that expenditure involving insignificant amounts should be regarded as expenses and not assets is",
+    "option": {
+      "a": "business entity",
+      "b": "materiality",
+      "c": "dual aspect",
+      "d": "realization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -21324,6 +21356,22 @@
     "image": "",
     "answer": "a",
     "solution": "When the bank collects a note on your behalf, the bank statement balance will include that collection even though your books haven’t yet. On the reconciliation, you would add that amount to the book balance to bring your records up to date.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1378,
+    "question": "Mayana Corporation uses special journals to record its transactions. If one of Mayana's customers returns merchandize purchased with cash (for a refund), it makes an entry in the?",
+    "option": {
+      "a": " cash receipts journal",
+      "b": "sales journal",
+      "c": "general journal",
+      "d": "cash disbursement journal."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The refund of cash for a customer’s return is recorded as an outflow of cash, so it would be entered in the cash disbursements journal.",
     "examtype": "utme",
     "examyear": "1998"
   },
