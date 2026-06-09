@@ -1,5 +1,21 @@
 [
   {
+    "id": 10,
+    "question": "Victims of human trafficking are usually compelled to engage in",
+    "option": {
+      "a": "lucrative employment",
+      "b": "visiting tourist sites",
+      "c": "part - time studies",
+      "d": "forced labour."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 12,
     "question": "Youth empowerment is best described as the",
     "option": {
@@ -27,6 +43,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 17,
+    "question": "In Nigeria, public servants are expected to be",
+    "option": {
+      "a": "non - partisan",
+      "b": "political",
+      "c": "ambitious",
+      "d": "apolitical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -144,6 +176,22 @@
     "examyear": "2014"
   },
   {
+    "id": 54,
+    "question": "Most African countries owed their creation to",
+    "option": {
+      "a": "African Union (AU).",
+      "b": "Commonwealth of Nations.",
+      "c": "Ethnic and tribal leaders.",
+      "d": "European Colonialists"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 58,
     "question": "One of the aims of citizenship education is to produce students with",
     "option": {
@@ -192,6 +240,22 @@
     "examyear": "2014"
   },
   {
+    "id": 64,
+    "question": "How many senators are elected from each state in Nigeria?",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 66,
     "question": "Which of the following system of government advocates equitable distribution of wealth?",
     "option": {
@@ -222,6 +286,22 @@
     "solution": "",
     "examtype": "neco",
     "examyear": "2014"
+  },
+  {
+    "id": 101,
+    "question": "............ is obtained from the Nigerian immigration services as a requirement to travel out of the country",
+    "option": {
+      "a": "ticket",
+      "b": "yellow card",
+      "c": "passport",
+      "d": "national ID card"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
   },
   {
     "id": 103,
@@ -320,6 +400,22 @@
     "examyear": "2012"
   },
   {
+    "id": 133,
+    "question": "............... is the prejudicial treatment of fellow human being",
+    "option": {
+      "a": "god fatherism",
+      "b": "independence",
+      "c": "justice",
+      "d": "discrimination"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 138,
     "question": "Traffic lights are also known and referred to as",
     "option": {
@@ -384,6 +480,22 @@
     "examyear": "2012"
   },
   {
+    "id": 161,
+    "question": "Law made by military governments are called",
+    "option": {
+      "a": "decrees",
+      "b": "Bye-laws",
+      "c": "Edicts",
+      "d": "acts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
     "id": 164,
     "question": "Public servants in Nigeria belong to the ............. arm of government",
     "option": {
@@ -411,6 +523,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
+    "id": 174,
+    "question": "One judicial function performed by the executive is",
+    "option": {
+      "a": "granting of amnesty",
+      "b": "implementing judicial order",
+      "c": "ensuring obedience to the law",
+      "d": "appointing judges"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "neco",
     "examyear": "2012"
@@ -576,6 +704,22 @@
     "examyear": "2013"
   },
   {
+    "id": 235,
+    "question": "The illegal sales and transportation of human beings for economic and some other selfish purpose is termed",
+    "option": {
+      "a": "Slave Trade",
+      "b": "Survival of the Fittest",
+      "c": "Gross Human Right Abuse",
+      "d": "Human Trafficking"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 237,
     "question": "Popular participation refers to",
     "option": {
@@ -647,6 +791,22 @@
       "b": "friendliness",
       "c": "hospitality",
       "d": "political apathy"
+    },
+    "section": "A certain man came to visit his friend at Shomolu one early morning. Unexpectedly the man fainted and slumped. He lay on the floor for several hours and looking lifeless. The crowd and even the friend he came to visit kept a reasonable distance from him. No one came to his rescue or even attempted to touch him. As luck would have it he regained his strength after about five hours and managed to go back to his house",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 275,
+    "question": "If the crowd insisted on keeping their distance what appropriate action could they have taken",
+    "option": {
+      "a": "call the appropriate health department to intervene",
+      "b": "left him to his fate",
+      "c": "stone him to death",
+      "d": "desert him"
     },
     "section": "A certain man came to visit his friend at Shomolu one early morning. Unexpectedly the man fainted and slumped. He lay on the floor for several hours and looking lifeless. The crowd and even the friend he came to visit kept a reasonable distance from him. No one came to his rescue or even attempted to touch him. As luck would have it he regained his strength after about five hours and managed to go back to his house",
     "image": "",
@@ -752,6 +912,22 @@
     "examyear": "2011"
   },
   {
+    "id": 320,
+    "question": "The former National anthem begins with.......................",
+    "option": {
+      "a": "Nigeria We Hail Thee",
+      "b": "Arise O Compatriots",
+      "c": "I pledge to Nigeria my Country",
+      "d": "So help me God"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 332,
     "question": "The age limit for the service is ..............",
     "option": {
@@ -811,6 +987,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
+    "id": 361,
+    "question": "Drug abuse can be prevented by",
+    "option": {
+      "a": "fighting drug addicts",
+      "b": "poverty reduction",
+      "c": "reducing drugs in circulation",
+      "d": "legal sanction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2016"
