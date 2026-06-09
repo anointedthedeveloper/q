@@ -5552,6 +5552,22 @@
     "examyear": "2014"
   },
   {
+    "id": 388,
+    "question": "A manufacturing account is drawn up by",
+    "option": {
+      "a": "firms providing personal services",
+      "b": "firms engaged solely in buying and selling of goods",
+      "c": "firms which make and sell articles",
+      "d": "non - trading organization."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 389,
     "question": "Which of the following is not a factory overhead cost?",
     "option": {
@@ -5947,6 +5963,22 @@
     "section": "Materials consumed \t[N 16,600 ]; Direct cost  [N 5,400 ]; Factory rent  [N 2,300 ]; Factory lighting \t[N 1,200]. Cost of production to be transferred at cost plus 20% mark-up.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 415,
+    "question": "The accumulated fund is",
+    "option": {
+      "a": "N 9,400",
+      "b": "N 9,300",
+      "c": "N 9,200",
+      "d": "N 9,100"
+    },
+    "section": "On January 1, 2000, a club’s assets and liabilities were as follows: Club house [ N8,000 ]; Subscription in arrears [ N300]; Cash [N1,000]; Wages owed [N100]. The club has 50 members and annual subscription is N 100 per member. Subscription received is N 4,000 and this includes 1999 arrears of  N 200.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -11360,6 +11392,22 @@
     "examyear": "2020"
   },
   {
+    "id": 791,
+    "question": "The major distinguishing element between the final accounts of a partnership and a sole trader is the",
+    "option": {
+      "a": "drawings account",
+      "b": "appropriation account",
+      "c": "capital account",
+      "d": "creditors account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a sole trader’s final accounts, after the Trading and Profit & Loss Account, the net profit is simply transferred to the proprietor’s capital account. A partnership, however, requires an additional Appropriation Account to show how the net profit is distributed among partners (interest on capital, salaries, profit shares, etc.). This “profit distribution” step is unique to partnerships.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 792,
     "question": "Advertising expenses incurred on a product in a business organization should be charged to",
     "option": {
@@ -15232,6 +15280,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1067,
+    "question": "A source document is used for verifying the?",
+    "option": {
+      "a": "amount due to creditors",
+      "b": "actual cost of an asset",
+      "c": "selling price of goods",
+      "d": " amount due from debtors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Reason: A source document (e.g., supplier’s invoice) provides the original evidence of a transaction and is used to verify the cost at which an asset was acquired before it’s recorded in the books.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1068,
     "question": "The rule of accounting equation requires that account payable should be placed under?",
     "option": {
@@ -15708,6 +15772,22 @@
     "image": "",
     "answer": "b",
     "solution": "The capital balances represent what each partner is entitled to after all partnership affairs are settled.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1103,
+    "question": "<b>Use the information below to answer questions 39 and 40</b>\n\nJumoke and Kunle have an original investment of ₦25,000 and ₦15,000 respectively in a partnership. The articles of partnership provides 3% interest on capital and salaries of ₦1,500 and ₦1,000 respectively for the partners. The profits and losses are to be shared in the ratio 3:2.\nMiscellaneous expenses of ₦2,500 were incurred with gross profit of ₦6,500 during the financial year.\n\nThe balance of profit and loss account will be?",
+    "option": {
+      "a": "₦4,000",
+      "b": "₦2,800",
+      "c": "₦1,500",
+      "d": "₦300"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate ₦et Profit\n₦et Profit = Gross Profit - Miscellaneous Expenses\n₦et Profit = ₦6,500 - ₦2,500 = ₦4,000\nStep 2: Calculate Interest on Capital\nJumoke's interest = 3% × ₦25,000 = ₦750\nKunle's interest = 3% × ₦15,000 = ₦450\nTotal interest on capital = ₦750 + ₦450 = ₦1,200\nStep 3: Calculate Total Appropriations\nTotal appropriations = Interest on capital + Salaries\nTotal appropriations = ₦1,200 + ₦1,500 + ₦1,000 = ₦3,700\nStep 4: Calculate Balance of Profit and Loss Account\nBalance = ₦et Profit - Total Appropriations\nBalance = ₦4,000 - ₦3,700 = ₦300\nTherefore, the balance of profit and loss account is ₦300",
     "examtype": "utme",
     "examyear": "2004"
   },
