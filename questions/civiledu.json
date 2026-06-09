@@ -16,6 +16,22 @@
     "examyear": "2014"
   },
   {
+    "id": 5,
+    "question": "Human Rights are basic natural rights which people enjoy primarily because they are",
+    "option": {
+      "a": "members of a political party",
+      "b": "international citizens",
+      "c": "members of a community",
+      "d": "human beings."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 7,
     "question": "Cultism can be described to be",
     "option": {
@@ -635,6 +651,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 76,
+    "question": "The headquarters of United Nations is located in",
+    "option": {
+      "a": "Abuja.",
+      "b": "England",
+      "c": "Hague.",
+      "d": "New York."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2014"
@@ -1584,6 +1616,22 @@
     "examyear": "2012"
   },
   {
+    "id": 185,
+    "question": "An agreed set of rules prescribing the governance of a country can be called the",
+    "option": {
+      "a": "constitution",
+      "b": "charter",
+      "c": "manifesto",
+      "d": "programme"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
     "id": 187,
     "question": "The following are ways to prevent drug addiction except",
     "option": {
@@ -1943,6 +1991,22 @@
       "b": "totalitarianism",
       "c": "capitalism",
       "d": "socialism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 229,
+    "question": "The individual rights would be better protected if enshrined in the ..................",
+    "option": {
+      "a": "Courts",
+      "b": "Constitutions",
+      "c": "Bible and Quran",
+      "d": "National Newspapers"
     },
     "section": "",
     "image": "",
