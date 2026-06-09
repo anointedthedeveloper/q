@@ -8528,6 +8528,22 @@
     "examyear": "2020"
   },
   {
+    "id": 570,
+    "question": "How many valence electrons are contained in the element ³¹₁₅P?",
+    "option": {
+      "a": "5",
+      "b": "4",
+      "c": "15",
+      "d": "31"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Phosphorus (atomic number 15) has the electron configuration 1s² 2s² 2p⁶ 3s² 3p³. The outermost shell (n=3) contains 2 + 3 = 5 electrons. .",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 571,
     "question": "The number of molecules of Carbon(iv)Oxide produced when 10.0g of CaCO₃ is treated with 0.2dm³ of 1 Mole of HCl in the equation CaCO₃ + 2HCl ⇒ CaCl₂ + H₂O + CO₂ is?",
     "option": {
