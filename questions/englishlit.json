@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "The play Hamlet may be described as a tragedy of: ",
+    "option": {
+      "a": "belief in ghosts ",
+      "b": "marital infidelity ",
+      "c": "indecision and procrastination ",
+      "d": "inordinate love of father by son"
+    },
+    "section": "question is on William Shakespeare's hamlet",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 2,
     "question": "Prince Hamlet refrains from killing King Claudius while the latter is praying because ",
     "option": {
@@ -288,6 +304,38 @@
     "examyear": "2007"
   },
   {
+    "id": 27,
+    "question": "\"That that is why we must acc-c-cept the universal d-d-dome, b-b-because there is no d-d-d-direction, The b-b-bridge is the d-d-dome of religion and b-b- bridges d-don't just g-g-go from here to the there; a bridge also face backwards\". Wole Soyinka, The Interpreters. The idiolectical feature of the character's speech is the ",
+    "option": {
+      "a": "repetition of consonant sounds ",
+      "b": "repetition of initial consonant sounds ",
+      "c": "duplication of consonant sound clusters ",
+      "d": "multiplication of diphthongs."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 29,
+    "question": "I am alone, And the murmur of my lips carry song and tears homewards from a plain a way from home. Okogbule Wonodi. \"Lament for Shola\". The poet-persona here expresses a feeling of ",
+    "option": {
+      "a": "love ",
+      "b": "anger ",
+      "c": "nostalgia ",
+      "d": "sorrow "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 30,
     "question": "One rhyme scheme typical of the English sonnet is ",
     "option": {
@@ -311,6 +359,22 @@
       "b": "promotion ",
       "c": "absurdity ",
       "d": "incidents."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 32,
+    "question": "A short witty statement is an ",
+    "option": {
+      "a": "epistle ",
+      "b": "eulogy",
+      "c": "epigram ",
+      "d": "anecdote"
     },
     "section": "",
     "image": "",
@@ -672,6 +736,22 @@
     "examyear": "2008"
   },
   {
+    "id": 74,
+    "question": "Literary device that creates a mental picture of   a situation is ",
+    "option": {
+      "a": "imagery ",
+      "b": "symbolism ",
+      "c": "flashback ",
+      "d": "epilogue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 75,
     "question": "To whom does her in line 5 refers to?  ",
     "option": {
@@ -919,6 +999,22 @@
       "b": "inevitability ",
       "c": "progress ",
       "d": "contradiction."
+    },
+    "section": "Question is based on selected poems",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 99,
+    "question": "In Kunene’s Heritage of Liberation, freedom is to be achieved through the efforts of ",
+    "option": {
+      "a": "the new generation  ",
+      "b": "the old generation ",
+      "c": "present generation ",
+      "d": "successive generations."
     },
     "section": "Question is based on selected poems",
     "image": "",
@@ -1255,6 +1351,22 @@
       "b": "pride  ",
       "c": "poverty  ",
       "d": "deceit "
+    },
+    "section": "(Extract for question )\nBlessed Nigerians,\nWho eat pestilence to sleep\nBlessed the poor \nWho inherit thorns. . . . . . \n",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 135,
+    "question": "The extract is an example of  ",
+    "option": {
+      "a": "pun  ",
+      "b": "hyperbole  ",
+      "c": "Irony  ",
+      "d": "parody"
     },
     "section": "(Extract for question )\nBlessed Nigerians,\nWho eat pestilence to sleep\nBlessed the poor \nWho inherit thorns. . . . . . \n",
     "image": "",
@@ -2000,6 +2112,22 @@
     "examyear": "2015"
   },
   {
+    "id": 209,
+    "question": "The speaker is",
+    "option": {
+      "a": "Gonzalo",
+      "b": "Antonio",
+      "c": "Sebastian",
+      "d": "Alonso"
+    },
+    "section": "WILLIAM SHAKESPEARE: The Tempest<br><br> \t\tYou cram these words into mine ears against<br> \t\tThe stomach of my sense. Would l had never<br> \t\tMarried my daughter there! For, coming thence,<br> \t\tMy son is lost, and, in my rate, she too,<br> \t\t\t\t(Act II, Scene One, lines 99 - 102)<br>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 210,
     "question": "“these words” refer to",
     "option": {
@@ -2087,6 +2215,22 @@
       "b": "Prospero has put Miranda to sleep",
       "c": "Caliban had been swearing at Prospero",
       "d": "Trinculo had discovered Caliban’s cloak"
+    },
+    "section": "WILLIAM SHAKESPEARE: The Tempest<br><br>  \t\tAriel:\tAll hail, great master! Grave sir, hail! I come<br> \t\t\tTo answer thy best pleasure; be’t to fly, <br> \t\t\tTo swim, to dive into the fire, to ride<br> \t\t\tOn the curled clouds, to thy strong bidding task<br> \t\t\tAriel and all his quality. <br> \t\t\t(Act I, Scene  Two, lines 189 - 193)\t",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 218,
+    "question": "Soon after, Ariel",
+    "option": {
+      "a": "files off to do his duty",
+      "b": "recounts the confusion on board the ship",
+      "c": "kneels down to worship Prospero",
+      "d": "calls Ceres and another spirit"
     },
     "section": "WILLIAM SHAKESPEARE: The Tempest<br><br>  \t\tAriel:\tAll hail, great master! Grave sir, hail! I come<br> \t\t\tTo answer thy best pleasure; be’t to fly, <br> \t\t\tTo swim, to dive into the fire, to ride<br> \t\t\tOn the curled clouds, to thy strong bidding task<br> \t\t\tAriel and all his quality. <br> \t\t\t(Act I, Scene  Two, lines 189 - 193)\t",
     "image": "",
@@ -2203,6 +2347,22 @@
     "section": "Based on William Shakespeare’s  \tRomeo and Juliet.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 232,
+    "question": "Romeo is banished to Mantua because he",
+    "option": {
+      "a": "kills Tybalt in a street duel",
+      "b": "marries Juliet without parental consent",
+      "c": "attends Capulet’s party uninvited",
+      "d": "attempts to kill Paris his rival"
+    },
+    "section": "Based on William Shakespeare’s  \tRomeo and Juliet.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -2784,6 +2944,22 @@
     "examyear": "2008"
   },
   {
+    "id": 293,
+    "question": "An epic is a heroic story which includes",
+    "option": {
+      "a": "ballad",
+      "b": "lyric",
+      "c": "myth",
+      "d": "dialogue."
+    },
+    "section": "Based on General Literary Principles.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 295,
     "question": "A long story narrating a series of complicated events is called a",
     "option": {
@@ -2864,6 +3040,22 @@
     "examyear": "2008"
   },
   {
+    "id": 300,
+    "question": "A figurative device in which a statement is made and then withdrawn is referred to as",
+    "option": {
+      "a": "metanoia",
+      "b": "metaphysical",
+      "c": "metalanguage",
+      "d": "metalepsis."
+    },
+    "section": "Based on General Literary Principles.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 301,
     "question": "A literary work which imitates another in a distorted form is called",
     "option": {
@@ -2875,6 +3067,22 @@
     "section": "Based on General Literary Principles.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 303,
+    "question": "‘But the towering earth was tired of sitting in one position. She moved, suddenly, and the houses crumbled, the mountains heaved horribly, and the work of million years was lost.’ The subject matter of the passage is",
+    "option": {
+      "a": "earthquake",
+      "b": "Demolition",
+      "c": "flood",
+      "d": "storm."
+    },
+    "section": "based on Literary Appreciation.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -2971,6 +3179,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 313,
+    "question": "James Ofosu’s desire is to see Maanan trained as",
+    "option": {
+      "a": "a choreographer",
+      "b": "an attorney",
+      "c": "an accountant",
+      "d": "a surgeon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -3312,6 +3536,22 @@
     "examyear": "2009"
   },
   {
+    "id": 346,
+    "question": "A short and witty remark is",
+    "option": {
+      "a": "a limerick",
+      "b": "a tercel",
+      "c": "an epigram",
+      "d": "a litotes"
+    },
+    "section": "based on General Literary Principles.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 349,
     "question": "The pride that contributes to the fall of a tragic character in a play is known as",
     "option": {
@@ -3584,6 +3824,22 @@
     "examyear": "2016"
   },
   {
+    "id": 372,
+    "question": "In literary work, verbal irony refers to a",
+    "option": {
+      "a": "Situation in which a character speaks or acts against the trend of events",
+      "b": "Difficult situation which defies a logical or rational resolution",
+      "c": "Device in which the speakers means the opposite of what he says",
+      "d": "Device in which the actor on stage means exactly what he says"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 373,
     "question": "The juxtaposition of the contrasting ideas in a line of poetry  is",
     "option": {
@@ -3838,6 +4094,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 404,
+    "question": "The setting is",
+    "option": {
+      "a": "A council chamber",
+      "b": "Venice, a street",
+      "c": "Another street outsode the sagitary",
+      "d": "The citadel of Cyprus"
+    },
+    "section": "Let me speak like yourself and Lay a sentence which, aas a grise or step may help these lovers when remedies are past, the griefs are ended, by seeing the worst which late on nopes depends. (Act I scene III)",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 407,
@@ -4192,6 +4464,22 @@
     "examyear": "2017"
   },
   {
+    "id": 442,
+    "question": "Constance Neville, an orphan is the niece and ward of",
+    "option": {
+      "a": "Mr. Hastings",
+      "b": "Mr. Hardcastle",
+      "c": "Mrs. Hardcastle",
+      "d": ""
+    },
+    "section": "Questions 1 to 2 are based on an Oliver Goldsmith's \"She Stoops to Conquer\"",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 443,
     "question": "Young Charles Marlow is extremely shy around",
     "option": {
@@ -4347,6 +4635,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 467,
+    "question": "Alfred Tennyson's Crossing the Bar. The use of imagery in the poem occurs in two broad, which are",
+    "option": {
+      "a": "Broad and straight",
+      "b": "Visual and audio",
+      "c": "Feelings and happiness",
+      "d": "Symbolism and imagery"
+    },
+    "section": "Questions 26 to 30 are based on the John Hayward. The Golden Treasury of longer poema, selected and edited by Ernest. English Romantic Verse edited by Wright, Penguin books. A Pageant of longer poems edited by E,W Parker, Longman",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
@@ -4640,6 +4944,22 @@
     "examyear": "2019"
   },
   {
+    "id": 502,
+    "question": "Who made the above speech?",
+    "option": {
+      "a": "Othello",
+      "b": "Lago",
+      "c": "Bianca",
+      "d": "Cassio"
+    },
+    "section": "Questions 21 to 25 are based on William Shakespeare's \"Othello\". Let the devil and his dam haunt you! What did you mean by that same handkerchief, yon gave me even now?",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 505,
     "question": "The handkerchief the speaker mentioned belongs to",
     "option": {
@@ -4864,6 +5184,22 @@
     "examyear": "2020"
   },
   {
+    "id": 524,
+    "question": "Maya Angelou's \"Caged Bird\" is referred to as an allegory because",
+    "option": {
+      "a": "It teaches moral",
+      "b": "It is a fable",
+      "c": "It is metaphorical",
+      "d": "It is a short poem"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 525,
     "question": "Why did Nii in Unexpected Joy at Dawn decide to come back to Nigeria?",
     "option": {
@@ -4992,6 +5328,22 @@
     "examyear": "2020"
   },
   {
+    "id": 540,
+    "question": "Whose words \"keep the Nigger boy running\"?",
+    "option": {
+      "a": "Tatlock",
+      "b": "His father",
+      "c": "His grandfather",
+      "d": "Mr. Norton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 542,
     "question": "The author's thematic concern is",
     "option": {
@@ -5067,6 +5419,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 548,
+    "question": "In Augustino Neto's \"The Grieved Land's dramatic and emotive intensity is derived from the employment of\"",
+    "option": {
+      "a": "Reception",
+      "b": "Double rhymes",
+      "c": "Assonance",
+      "d": "End rhymes"
+    },
+    "section": "Questions 27 to 33 are based on selected poems from the list of approved African and Non-African poems",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 549,
+    "question": "What is the central theme in Niyi Osadare's \"The Leader and the Led\"?",
+    "option": {
+      "a": "Power tussle",
+      "b": "Hypocrisy",
+      "c": "Leadership",
+      "d": "Followership"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
