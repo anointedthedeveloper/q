@@ -1,5 +1,21 @@
 [
   {
+    "id": 3,
+    "question": "Which of these best describes setting in a novel? ",
+    "option": {
+      "a": "the place where an event takes place ",
+      "b": "the time when an event takes place ",
+      "c": "the place and time of an event ",
+      "d": "the back ground of an event "
+    },
+    "section": "question is on William Shakespeare's hamlet",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 15,
     "question": "Which of these best defined exposition in drama? ",
     "option": {
@@ -48,6 +64,38 @@
     "examyear": "2008"
   },
   {
+    "id": 58,
+    "question": "A realistic novel is one in which the characters are:  ",
+    "option": {
+      "a": "real   ",
+      "b": "historical ",
+      "c": "just of above average intelligence  ",
+      "d": "the types that we meet in everyday life."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 62,
+    "question": "The following line from a poem:  Western wind, when will thou blow? Is an example of: ",
+    "option": {
+      "a": "rhetorical question  ",
+      "b": "caesura  ",
+      "c": "alliteration  ",
+      "d": "nature imagery."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 66,
     "question": "\"The man dies in him who keeps silent in the face of tyranny.\" This statement can be described as: ",
     "option": {
@@ -80,6 +128,38 @@
     "examyear": "2008"
   },
   {
+    "id": 105,
+    "question": "The medal in Oyono’s The Old man and the  two sons and his: ",
+    "option": {
+      "a": "house ",
+      "b": "horse  ",
+      "c": "land ",
+      "d": "Job"
+    },
+    "section": "Question is  based on Oyono’s Old man hand the medal",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 110,
+    "question": "In Gbemisola Adeoti’s Naked Soles”, the expression red milk of grief’ refers to: ",
+    "option": {
+      "a": "wine  ",
+      "b": "Ink ",
+      "c": "blood ",
+      "d": "palm-oil"
+    },
+    "section": "Question is are based on selected African poems.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 113,
     "question": "The tone in Gbemisola Adeoti’s Naked soles” is that of ",
     "option": {
@@ -94,6 +174,54 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
+  },
+  {
+    "id": 115,
+    "question": "In China, according to D.H. Lawrence, bats are symbols of: ",
+    "option": {
+      "a": "death  ",
+      "b": "birth ",
+      "c": "caution ",
+      "d": "joy"
+    },
+    "section": "Questions is based on Non-African Poetry",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 118,
+    "question": "But the pigs were so clever that they could think of a way around every difficulty. As for the horses, they know every inch of the field and in fact understood the business of mowing and raking”. The dominant literary device in the excerpt above is ",
+    "option": {
+      "a": "repetition ",
+      "b": "mimesis ",
+      "c": "ellipsis ",
+      "d": "personification."
+    },
+    "section": "Question is  based on literary appreciation",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 126,
+    "question": "The exclusive right given to authors to protect their works from unlawful production or reproduction is   ",
+    "option": {
+      "a": "A copyright  ",
+      "b": "an authority to write  ",
+      "c": "an author’s right   ",
+      "d": "a constitutional provision "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 129,
@@ -128,6 +256,102 @@
     "examyear": "2012"
   },
   {
+    "id": 144,
+    "question": "Another Suitor of Juliet in the play is  ",
+    "option": {
+      "a": "Mercutio  ",
+      "b": "Gregory  ",
+      "c": "Duke  ",
+      "d": "Paris"
+    },
+    "section": "Question is drawn from William Shakespeare’s ROMEO and JULIET",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 156,
+    "question": "Mazisi Kunene is an African poet from  ",
+    "option": {
+      "a": "Ghana ",
+      "b": "Nigeria  ",
+      "c": "Malawi  ",
+      "d": "South Africa"
+    },
+    "section": "Question is based on African and Non-African Poetry  ",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 162,
+    "question": "In the Joys of Motherhood, the joy of a mother is predicated on having ",
+    "option": {
+      "a": "husband    ",
+      "b": "sons ",
+      "c": "daughters   ",
+      "d": "wealth "
+    },
+    "section": "Question is based on Buchi Emecheta’s The Joys of Motherhood.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 184,
+    "question": "The first four lines of the Shakespearean sonnet rhyme",
+    "option": {
+      "a": "abcd",
+      "b": "abba",
+      "c": "abab",
+      "d": "cdcd"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 186,
+    "question": "The use of imagery in prose or verse",
+    "option": {
+      "a": "appeals to the senses",
+      "b": "develop the plot",
+      "c": "create confusion",
+      "d": "obscures meaning"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 190,
+    "question": "A dirge is a poem sung",
+    "option": {
+      "a": "to send a child to sleep",
+      "b": "to make workers happy",
+      "c": "at a birthday party",
+      "d": "at a funeral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 198,
     "question": "The setting is",
     "option": {
@@ -144,6 +368,70 @@
     "examyear": "2015"
   },
   {
+    "id": 223,
+    "question": "The “two” later plot to",
+    "option": {
+      "a": "kill all the other characters",
+      "b": "escape from the island",
+      "c": "kill Prospero and Miranda",
+      "d": "kill Alonso and Gonzalo"
+    },
+    "section": "WILLIAM SHAKESPEARE: The Tempest<br><br> \t\t<strong>X:</strong> We two, my lord,<br> \t\t\tWill guard your person while you take your rest, <br> \t\t\tAnd watch your safety. <br> \t\t\t<br> \t\t<strong>Y:</strong> Thank you. - Wondrous heavy. <br> \t\t\t(Act II, Scene One, lines 184 - 187)",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 224,
+    "question": "‘I simply don’t understand what the matter with everybody is today. Everybody let me down, and ...’ The speaker above is referring to",
+    "option": {
+      "a": "Fosuwa and Maidservant",
+      "b": "Hannah and George",
+      "c": "Aaron and Maanan",
+      "d": "Lawyer B and Mrs B"
+    },
+    "section": "Based on J.C. De Graft’s  \tSons and Daughter. ",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 225,
+    "question": "Maanan expresses dislike for Lawyer B because of",
+    "option": {
+      "a": "his condemnation of  her choice career",
+      "b": "his recent advances towards her",
+      "c": "the betrayal of her father’s trust",
+      "d": "the betrayal of his wife’s trust"
+    },
+    "section": "Based on J.C. De Graft’s  \tSons and Daughter. ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 244,
+    "question": "A formal dignified speech or writing praising a person or a thing for past or present deeds is",
+    "option": {
+      "a": "premiere",
+      "b": "eulogy",
+      "c": "anthology",
+      "d": "lampoon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 268,
     "question": "Romeo’s death becomes inevitable because",
     "option": {
@@ -153,6 +441,22 @@
       "d": "Juliet has committed suicide."
     },
     "section": "Based on William Shakespeare’s Romeo and Juliet.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 289,
+    "question": "The attitude of the poet-persona to bats, in Lawrence’s Baf is one of",
+    "option": {
+      "a": "satisfaction",
+      "b": "reverence",
+      "c": "hatred",
+      "d": "repulsion."
+    },
+    "section": "Based on selected poems from Johnson, \tR. et al (eds.): New Poetry from Africa; Soyirvka, W. (ed.): Poems of Black Africa; Senanu, K.E. and Vincent, T. (eds.): A Selection of African Poetry; Maduka, C.T. et al: Exam Focus: Literature in English; Eruvbetine, A. E. et al (eds.): Longman Examination Guides; Nwoga, D. I. (ed.): West African Verse and Adeoti G.: Naked Soles.",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -176,6 +480,150 @@
     "examyear": "2008"
   },
   {
+    "id": 310,
+    "question": "The technique employed in narrating the excerpt above is",
+    "option": {
+      "a": "flashback",
+      "b": "stream of consciousness",
+      "c": "foreshadowing",
+      "d": "play-within-the-play."
+    },
+    "section": "based on Literary Appreciation.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 312,
+    "question": "In the play, the character of Lawyer B is represented through the use of",
+    "option": {
+      "a": "flashback",
+      "b": "dialogue",
+      "c": "play-within-the-play",
+      "d": "irony"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 314,
+    "question": "The plot of the play is,",
+    "option": {
+      "a": "linear",
+      "b": "cyclical",
+      "c": "complicated",
+      "d": "episodic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 324,
+    "question": "Newspeak, the official language of Oceania, is devised to",
+    "option": {
+      "a": "meet the ideological needs of Ingsoc",
+      "b": "help devoted party men and women",
+      "c": "provide a medium of expression for world-view only",
+      "d": "assist by cutting the choice of words for party members."
+    },
+    "section": "based on George Orwell’s  \tNineteen Eighty-Four",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 327,
+    "question": "The only two sons of Meka die fighting for",
+    "option": {
+      "a": "independence",
+      "b": "the colonialists",
+      "c": "the church",
+      "d": "the in people."
+    },
+    "section": "based on Ferdinand Oyono’s,  \tThe Old Man and the Medal.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 335,
+    "question": "‘The silence of the battlefield heralds the widow’s anguish’ The widow in the lines above in Launko’s “Endof the War” is in anguish because of the",
+    "option": {
+      "a": "confirmation of her husband’s death",
+      "b": "uncertainty over her husband returning alive",
+      "c": "delay in the husband’s return from the battlefield",
+      "d": "death of all the soldiers in the battlefield"
+    },
+    "section": "based on selected poems from Ker, D. et al (eds.) New poetry from Africa; Soyinka W. (ed.): Poems of Black Africa: Senanu, K E and Vincent, T. (eds.): A Selection of African poetry; Umukoro, M et al (eels.): Exam Focus: Lit-erature in English; Eruvbetine, A. E. et al (eds.): Longman Examination guides; Nwoga, D.I (ed.): West African Verse andAdeoti G: Naked Soles.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 339,
+    "question": "In Lawrence’s Bat, the poet’s attitude to bat is one of",
+    "option": {
+      "a": "fear",
+      "b": "sarcasm",
+      "c": "contempt",
+      "d": "flattering"
+    },
+    "section": "based on selected poems from Ker, D. et al (eds.) New poetry from Africa; Soyinka W. (ed.): Poems of Black Africa: Senanu, K E and Vincent, T. (eds.): A Selection of African poetry; Umukoro, M et al (eels.): Exam Focus: Lit¬erature in English; Eruvbetine, A. E. et al (eds.): Longman Examination guides; Nwoga, D.I (ed.): West African Verse andAdeoti G: Naked Soles.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 367,
+    "question": "A literary work which imitates another in a distorted form is called",
+    "option": {
+      "a": "Metonumy",
+      "b": "Burlesque",
+      "c": "Exodium",
+      "d": "Isocohen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 373,
+    "question": "The juxtaposition of the contrasting ideas in a line of poetry  is",
+    "option": {
+      "a": "Oxymoron",
+      "b": "Euphemism",
+      "c": "Synecdoche",
+      "d": "Catharsis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 396,
     "question": "Youths are known for harboring a revolutionary mind, they pull down imagined structures and think they can do better illustrates",
     "option": {
@@ -192,6 +640,54 @@
     "examyear": "2016"
   },
   {
+    "id": 415,
+    "question": "The mission of the white man is revealed and Soko is enlisted into the",
+    "option": {
+      "a": "Plan of work",
+      "b": "Game plan",
+      "c": "Mission act",
+      "d": "Music game"
+    },
+    "section": "Question 14 and 15 are based on Dele Charley's \"The Blood of a stranger\"",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 420,
+    "question": "On a Friday night a few weeks later, packing boxes filled the younger apartment in prepartion for the move to their new house in a",
+    "option": {
+      "a": "White neighbourhood",
+      "b": "Black neighbourhood",
+      "c": "Outskirt of the neighbourhood",
+      "d": "City"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 438,
+    "question": "In \"The Executioner's Dream,\" the first line dream saw an eye, a pretty eye",
+    "option": {
+      "a": "Ironical",
+      "b": "Complimentary",
+      "c": "Exclamatory",
+      "d": "Rhetorical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 441,
     "question": "In literay criticism, a casual refrence to a figure is ",
     "option": {
@@ -206,6 +702,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 444,
+    "question": "Beneatha's spraying of the apartments seems symbolic of her dissatisfaction with her surroundings, she wants to rid herself and her family of what she later refers to as",
+    "option": {
+      "a": "Graphic terrors",
+      "b": "Acute ghetto it is",
+      "c": "Ocomogoslay",
+      "d": "Claybourne"
+    },
+    "section": "Questions 3 to 4 are based on Lorraine Hansberry's \"A Raisin in the sun\"",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 449,
@@ -256,6 +768,54 @@
     "examyear": "2019"
   },
   {
+    "id": 498,
+    "question": "Chief Ade Haladu's crimes are made known to him in a",
+    "option": {
+      "a": "Police station",
+      "b": "Public place",
+      "c": "Court of law",
+      "d": "Hotel environment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 499,
+    "question": "Dele Charley's \"The Blood of a Stranger\". The key characters involved in the theme of greed and ambition are",
+    "option": {
+      "a": "Kindo and soko",
+      "b": "Whitehead Malign and Soko",
+      "c": "Wara, Soko, Kindo",
+      "d": "King Santigi. Whitehead and Soko"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 511,
+    "question": "\"I am not merry, but I do beguile the thing I am, by seeming otherwise\"",
+    "option": {
+      "a": "Lago",
+      "b": "Desdemona",
+      "c": "Othello",
+      "d": "Cassio"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 513,
     "question": "Characterization in a novel refers to the",
     "option": {
@@ -270,6 +830,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 521,
+    "question": "The main aim of caricature is to",
+    "option": {
+      "a": "Describe",
+      "b": "Expose",
+      "c": "Emphasize",
+      "d": "Ridicule"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 535,
+    "question": "The use of first person singular in the book indicates",
+    "option": {
+      "a": "Omniscient point of view",
+      "b": "Flash back narrative technique",
+      "c": "Foreshadowing narrative technique",
+      "d": "Participant point of view"
+    },
+    "section": "Ralph Ellison's \"Invisible Man\"",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 536,
