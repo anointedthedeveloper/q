@@ -288,6 +288,22 @@
     "examyear": "2009"
   },
   {
+    "id": 60,
+    "question": "Four lenses are being considered for use as a microscope object. Which of the following focal length is most suitable ",
+    "option": {
+      "a": "-5mm ",
+      "b": "+5mm ",
+      "c": "5cm ",
+      "d": "+5cm "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 66,
     "question": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of ",
     "option": {
@@ -592,6 +608,22 @@
     "examyear": "2015"
   },
   {
+    "id": 177,
+    "question": "What is the S.I unit of relative density?",
+    "option": {
+      "a": " kg m-2",
+      "b": "kg m2",
+      "c": " kg cm³",
+      "d": "has no S.I unit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Relative Density (Specific Gravity) is defined as:\nRelative Density = Density of substance / Density of water\nKey point:\n\nIt's a ratio of two densities\nBoth have the same units (kg/m³)\nWhen you divide, the units cancel out\n\nExample:\nRelative Density = (1000 kg/m³) / (1000 kg/m³) = 1 (no units)\nTherefore, relative density is dimensionless - it's just a number with no units.\nAnswer: D. has no S.I unit",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 178,
     "question": "For a best result using temperature to achieve an accurate measurement, it is best to use",
     "option": {
@@ -668,6 +700,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nInitial velocity (u) = 20 m/s\nFinal velocity (v) = 0 m/s (complete halt)\nDeceleration (a) = -2 m/s² (negative because it's deceleration)\nTime (t) = ?\n\nUsing the equation of motion:\nv = u + at\nSubstituting values:\n0 = 20 + (-2)t\n0 = 20 - 2t\nSolving for t:\n2t = 20\nt = 20/2\nt = 10 seconds",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 203,
+    "question": "Which of the following electromagnetic waves has the shortest wavelength?",
+    "option": {
+      "a": " Visible Light",
+      "b": " Ultraviolet rays",
+      "c": "Infrared rays",
+      "d": "Gamma rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gamma rays have the shortest wavelength among all electromagnetic waves.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1312,6 +1360,22 @@
     "examyear": "2021"
   },
   {
+    "id": 445,
+    "question": "A solid weighs 10.00N in air, 6N when fully immersed in water, and 7.0N when fully immersed in a liquid X. Calculate the relative density of the liquid X.",
+    "option": {
+      "a": "5/3",
+      "b": "4/3",
+      "c": "3/4",
+      "d": "7/10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nWeight in air (W_air) = 10.00 N\nWeight in water (W_water) = 6.0 N\nWeight in liquid X (W_X) = 7.0 N\nRelative density of liquid X = ?\n\nStep 1: Calculate upthrust in water\nUpthrust in water = W_air - W_water\nUpthrust in water = 10.00 - 6.0 = 4.0 N\nStep 2: Calculate upthrust in liquid X\nUpthrust in liquid X = W_air - W_X\nUpthrust in liquid X = 10.00 - 7.0 = 3.0 N\nStep 3: Use relationship between upthrust and density\nSince upthrust = Volume × Density × g, and volume is constant:\nUpthrust in liquid X / Upthrust in water = Density of X / Density of water\nRelative density of X = Upthrust in X / Upthrust in water\nCalculating:\nRelative density of X = 3.0 / 4.0 = 3/4 = 0.75",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 448,
     "question": "A piece of substance of specific heat capacity 450 Jkg⁻¹K⁻¹ falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms⁻²]",
     "option": {
@@ -1568,6 +1632,38 @@
     "examyear": "2023"
   },
   {
+    "id": 524,
+    "question": "A simple pendulum, has a period of 5.77 seconds. When the pendulum is shortened by 3 m, the period is 4.60 seconds. Calculate the new length of the pendulum",
+    "option": {
+      "a": " 5.23 m",
+      "b": "6.42 m",
+      "c": "4.87 m",
+      "d": "7.26 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInitial period, T₁ = 5.77 s\nFinal period, T₂ = 4.60 s\nChange in length = 3 m (shortened)\nInitial length, L₁ = ?\nFinal length, L₂ = L₁ - 3\ng = 10 m/s² (or 9.8 m/s²)\n\nSolution:\nStep 1: Write period formula for both cases\nFor a simple pendulum:\nT = 2π√(L/g)\nInitial pendulum:\nT₁ = 2π√(L₁/g)  -----(1)\nShortened pendulum:\nT₂ = 2π√(L₂/g) = 2π√[(L₁-3)/g]  -----(2)\nStep 2: Form ratio to eliminate constants\nDividing equation (1) by equation (2):\nT₁/T₂ = √(L₁/(L₁-3))\n5.77/4.60 = √(L₁/(L₁-3))\n1.254 = √(L₁/(L₁-3))\nStep 3: Square both sides\n(1.254)² = L₁/(L₁-3)\n1.573 = L₁/(L₁-3)\nStep 4: Solve for L₁\n1.573(L₁-3) = L₁\n1.573L₁ - 4.719 = L₁\n1.573L₁ - L₁ = 4.719\n0.573L₁ = 4.719\nL₁ = 8.23 m\nStep 5: Calculate new length\nL₂ = L₁ - 3\nL₂ = 8.23 - 3\nL₂ = 5.23 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 531,
+    "question": "A block of mass 0.5 kg is suspended at the 40 cm mark of a light metre rule AB that is pivoted at point E, the 90 cm mark, and is kept at equilibrium by a string attached at point D, the 60 cm mark, as shown in the figure above. Find the tension T in the string. [Take g = 10ms⁻²]",
+    "option": {
+      "a": "16.67N",
+      "b": "15.67N",
+      "c": "14.67N",
+      "d": "18.67N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614955/ALOC-Questions/Physics/2023/physics_2023-Q32_awom7h.png",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of block, m = 0.5 kg\nPosition of block (C) = 40 cm mark\nPosition of pivot (E) = 90 cm mark\nPosition of string (D) = 60 cm mark\nAngle of string = 30° to the horizontal\ng = 10 m/s²\n\nSolution:\nStep 1: Calculate weight of block\nW = mg\nW = 0.5 × 10\nW = 5 N (acting downward at C)\nStep 2: Determine perpendicular distances from pivot E\nDistance from E to C:\ndC = 90 - 40 = 50 cm = 0.50 m\nDistance from E to D:\ndD = 90 - 60 = 30 cm = 0.30 m\nStep 3: Resolve tension into vertical component\nThe vertical component of tension creates the moment:\nTvertical = T sin 30° = T × 0.5 = 0.5T\nStep 4: Apply principle of moments (about pivot E)\nFor equilibrium, clockwise moment = anticlockwise moment\nMoment due to weight = Moment due to tension\nW × dC = Tvertical × dD\n5 × 0.50 = 0.5T × 0.30\n2.5 = 0.15T\nStep 5: Solve for tension\nT = 2.5/0.15\nT = 16.67 N",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 533,
     "question": "A piano wire 50 cm long has a total mass of 10 g and its stretched with a tension of 800 N. Find the frequency of the wire when it sounds its third overtone note.",
     "option": {
@@ -1580,6 +1676,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nLength of wire, L = 50 cm = 0.50 m\nTotal mass, m = 10 g = 0.01 kg\nTension, T = 800 N\nThird overtone frequency = ?\n\nSolution:\nStep 1: Calculate mass per unit length (linear density)\nμ = m/L\nμ = 0.01/0.50\nμ = 0.02 kg/m\nStep 2: Calculate wave velocity in the wire\nv = √(T/μ)\nv = √(800/0.02)\nv = √40000\nv = 200 m/s\nStep 3: Understand harmonics and overtones\nFor a string fixed at both ends:\n\nFundamental frequency (1st harmonic) = f₀\n1st overtone (2nd harmonic) = 2f₀\n2nd overtone (3rd harmonic) = 3f₀\n3rd overtone (4th harmonic) = 4f₀\n\nStep 4: Calculate fundamental frequency\nFundamental frequency:\nf₀ = v/(2L)\nf₀ = 200/(2 × 0.50)\nf₀ = 200/1\nf₀ = 200 Hz\nStep 5: Calculate third overtone frequency\nThird overtone = 4th harmonic = 4f₀\nf = 4 × 200\nf = 800 Hz",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 541,
+    "question": "An explosion occurs at an altitude of 312 m above the ground. If the air temperature is -10.00°C, how long does it take the sound to reach the ground? [velocity of sound at 0°C = 331 ms⁻¹]",
+    "option": {
+      "a": "0.94s",
+      "b": " 0.96s",
+      "c": " 0.93s",
+      "d": "0.95s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nHeight (distance), d = 312 m\nAir temperature, T = -10.00°C\nVelocity of sound at 0°C, v₀ = 331 m/s\nTime, t = ?\n\nSolution:\nStep 1: Calculate velocity of sound at -10°C\nThe velocity of sound in air varies with temperature:\nv = v₀ + 0.6T\nWhere T is in degrees Celsius.\nv = 331 + 0.6(-10)\nv = 331 - 6\nv = 325 m/s\nStep 2: Calculate time for sound to travel\nUsing the formula:\nt = d/v\nt = 312/325\nt = 0.96 s",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -2272,6 +2384,22 @@
     "examyear": "2007"
   },
   {
+    "id": 767,
+    "question": "A glass plate 0.9cm thick has a refractive index of 1.50. How long does it take for a pulse of light to pass through the plate? [c = 3.0 × 10⁸ ms⁻¹]",
+    "option": {
+      "a": "4.5 × 10⁻¹¹ s",
+      "b": "4.5 × 10⁻¹⁰ s",
+      "c": " 4.5 × 10⁻¹² s",
+      "d": "3.0 × 10⁻¹⁰ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nThickness of glass plate (d) = 0.9 cm = 0.009 m = 9 × 10⁻³ m\nRefractive index (n) = 1.50\nSpeed of light in vacuum (c) = 3.0 × 10⁸ m/s\nTime (t) = ?\n\nStep 1: Calculate speed of light in glass\nRefractive index = Speed of light in vacuum / Speed of light in medium\nn = c/v\nRearranging:\nv = c/n\nv = (3.0 × 10⁸)/1.50\nv = 2.0 × 10⁸ m/s\nStep 2: Calculate time taken\nTime = Distance / Speed\nt = d/v\nSubstituting values:\nt = (9 × 10⁻³)/(2.0 × 10⁸)\nt = 4.5 × 10⁻¹¹ s\nCalculation breakdown:\nt = 9 × 10⁻³ / 2.0 × 10⁸\nt = (9/2) × 10⁻³⁻⁸\nt = 4.5 × 10⁻¹¹ s",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 770,
     "question": "A charge 50 µC has electric field strength of 360 NC⁻¹ at a certain point. The electric field strength due to another charge 120 µC kept at the same distance apart and in the same medium is?",
     "option": {
@@ -2348,6 +2476,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nGiven information:\n\nSurface area (A) = 118.8 cm² = 118.8 × 10⁻⁴ m² = 0.01188 m²\nThickness (t) = 10⁻⁶ m\nDensity of copper (ρ) = 9 × 10³ kg/m³\nCurrent (I) = 10 A\nElectrochemical equivalent (Z) = 3.3 × 10⁻⁷ kg/C\nTime = ?\n\nStep 1: Calculate volume of copper to be deposited\nVolume = Area × Thickness\nV = 0.01188 × 10⁻⁶\nV = 1.188 × 10⁻⁸ m³\n\nStep 2: Calculate mass of copper required\nMass = Density × Volume\nm = ρV\nm = 9 × 10³ × 1.188 × 10⁻⁸\nm = 10.692 × 10⁻⁵\nm = 1.0692 × 10⁻⁴ kg\n\nStep 3: Use Faraday's law of electrolysis\nMass deposited: m = ZIt\nRearranging for time:\nt = m/(ZI)\nSubstituting values:\nt = (1.0692 × 10⁻⁴)/(3.3 × 10⁻⁷ × 10)\nt = (1.0692 × 10⁻⁴)/(3.3 × 10⁻⁶)\nt = 1.0692/3.3 × 10⁻⁴⁺⁶\nt = 0.324 × 10²\nt = 32.4 seconds\n\n\nConverting to minutes: 32.4/60 = 0.54 minutes",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 792,
+    "question": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1Ω, the resistivity is",
+    "option": {
+      "a": "2.55 × 10⁵ Ωm",
+      "b": "2.55 × 10³ Ωm",
+      "c": "3.93 × 10⁻⁶ Ωm",
+      "d": "3.93 × 10⁻⁸ Ωm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nDiameter (d) = 1.00 mm = 1.00 × 10⁻³ m\nLength (L) = 2.00 m\nResistance (R) = 0.1 Ω\nResistivity (ρ) = ?\n\nStep 1: Calculate cross-sectional area\nRadius (r) = d/2 = 0.5 × 10⁻³ m = 5 × 10⁻⁴ m\nArea (A) = πr²\nA = π × (5 × 10⁻⁴)²\nA = π × 25 × 10⁻⁸\nA = 3.14159 × 25 × 10⁻⁸\nA = 78.54 × 10⁻⁸\nA = 7.854 × 10⁻⁷ m²\nStep 2: Use resistance formula\nR = ρL/A\nRearranging for resistivity:\nρ = RA/L\nSubstituting values:\nρ = (0.1 × 7.854 × 10⁻⁷)/2.00\nρ = (0.7854 × 10⁻⁷)/2.00\nρ = 0.3927 × 10⁻⁷\nρ = 3.927 × 10⁻⁸ Ωm\nρ ≈ 3.93 × 10⁻⁸ Ωm",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -2560,6 +2704,22 @@
     "examyear": "2009"
   },
   {
+    "id": 864,
+    "question": "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. The time required to boil the water is?\n[Specific latent heat of vaporization of water = 2.3 × 10⁶ J kg⁻¹]",
+    "option": {
+      "a": "1.15 × 10⁴ s",
+      "b": "1.15 × 10³ s",
+      "c": "4.6 × 10⁴ s",
+      "d": "4.6 × 10³ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nPower of heating coil, P = 1000 W\nMass of water, m = 2 kg\nSpecific latent heat of vaporization, L = 2.3 × 10⁶ J kg⁻¹\nWater is already at boiling point, so only latent heat is required.\n\nSolution:\n\nStep 1: Calculate heat energy required to vaporize the water\nQ = m × L = 2 kg × 2.3 × 10⁶ J kg⁻¹ = 4.6 × 10⁶ J\n\nStep 2: Relate heat energy to electrical energy supplied\nElectrical energy E = P × t\nAssuming all electrical energy is converted to heat, E = Q.\nTherefore, P × t = Q\n\nStep 3: Solve for time t\nt = Q / P = (4.6 × 10⁶ J) / (1000 W) = 4.6 × 10³ s",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 865,
     "question": "It is observed that water will wet a clean glass because the?",
     "option": {
@@ -2670,6 +2830,22 @@
     "solution": "Formula for total voltage in series RLC:\nV_total = √[V_R² + (V_L - V_C)²]\nStep 1: Calculate net reactive voltage\nNet reactive voltage = V_L - V_C = 40 - 110 = -70 V\n(Negative indicates capacitive reactance dominates)\nTaking magnitude: |V_L - V_C| = 70 V\nStep 2: Calculate effective voltage\nV_eff = √[V_R² + (V_L - V_C)²]\nV_eff = √[80² + 70²]\nV_eff = √[6400 + 4900]\nV_eff = √11,300\nV_eff = 106.3 V",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 901,
+    "question": "A stone and a feather are dropped from the same height above the earth surface. Ignoring air resistance, which of the following is correct?",
+    "option": {
+      "a": "the feather will be blown away by the wind while stone will drop steadily",
+      "b": "the stone and the feather will both reach the ground at the same time",
+      "c": "the feather will reach the ground first",
+      "d": "the stone will reach the ground first"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The acceleration of free fall due to gravity is independent of mass of the body. Therefore, ignoring air resistance, which affects feather more than the stone, the stone and the feather will both reach the ground at the same time",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 904,
@@ -2812,6 +2988,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nRatio of linear expansivities, α₁ / α₂ = 2 / 3\nRatio of original lengths, l₁ / l₂ = 3 / 4\nTemperature change Δθ is the same for both.\n\nSolution:\n\nStep 1: Formula for increase in length\nIncrease in length Δl = α l Δθ\n\nStep 2: Ratio of increases\nΔl₁ / Δl₂ = (α₁ l₁ Δθ) / (α₂ l₂ Δθ) = (α₁ / α₂) × (l₁ / l₂)\n\nStep 3: Substitute given ratios\nΔl₁ / Δl₂ = (2/3) × (3/4) = 6 / 12 = 1 / 2\n\nFinal Answer:\nThe ratio of increase in length of P to Q is 1:2.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 938,
+    "question": "The velocity of sound in air at 16°C is 340 m s⁻¹. What will it be when the pressure is doubled and its temperature raised to 127°C?",
+    "option": {
+      "a": "400 m s⁻¹",
+      "b": "4,000 m s⁻¹",
+      "c": "8,000 m s⁻¹",
+      "d": "160,000 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial temperature, T₁ = 16°C = 16 + 273 = 289 K\nInitial velocity, v₁ = 340 m s⁻¹\nFinal temperature, T₂ = 127°C = 127 + 273 = 400 K\nPressure is doubled (does not affect velocity of sound in air for an ideal gas)\n\nSolution:\n\nStep 1: Formula for velocity of sound in an ideal gas\nVelocity v is proportional to the square root of absolute temperature: v ∝ √T\nTherefore, v₂ / v₁ = √(T₂ / T₁)\n\nStep 2: Substitute values\nv₂ / 340 = √(400 / 289) = 20 / 17\n\nStep 3: Solve for v₂\nv₂ = 340 × (20 / 17) = 20 × 20 = 400 m s⁻¹",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -3228,6 +3420,22 @@
     "image": "",
     "answer": "c",
     "solution": "\nGiven information:\n\nInitial length (L₁) = 0.4 m\nInitial period (T₁) = 2 s\nNew length (L₂) = 0.8 m\nNew period (T₂) = ?\nSame location (same g)\n\nFormula for period of simple pendulum:\nT = 2π√(L/g)\nKey relationship:\nT ∝ √L (period is proportional to square root of length)\nMethod 1: Using ratio\nT₁/T₂ = √(L₁/L₂)\nRearranging:\nT₂ = T₁ × √(L₂/L₁)\nSubstituting values:\nT₂ = 2 × √(0.8/0.4)\nT₂ = 2 × √2\nT₂ = 2√2 s",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1050,
+    "question": "What volume of alcohol will have same mass as 4.2 m³ of petrol? Density of alcohol = 8.4 × 10² kgm⁻³, density of petrol = 7.2 × 10² kgm⁻³",
+    "option": {
+      "a": " 0.8 m³",
+      "b": "1.4 m³",
+      "c": "3.6 m³",
+      "d": " 4.9 m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nVolume of petrol (V_petrol) = 4.2 m³\nDensity of alcohol (ρ_alcohol) = 8.4 × 10² kg/m³ = 840 kg/m³\nDensity of petrol (ρ_petrol) = 7.2 × 10² kg/m³ = 720 kg/m³\nVolume of alcohol (V_alcohol) = ?\n\nCondition: Same mass\nStep 1: Calculate mass of petrol\nMass = Density × Volume\nm_petrol = ρ_petrol × V_petrol\nm_petrol = 720 × 4.2\nm_petrol = 3024 kg\nStep 2: Calculate volume of alcohol with same mass\nm_alcohol = m_petrol = 3024 kg\nm_alcohol = ρ_alcohol × V_alcohol\nRearranging:\nV_alcohol = m_alcohol / ρ_alcohol\nV_alcohol = 3024 / 840\nV_alcohol = 3.6 m³",
     "examtype": "utme",
     "examyear": "2013"
   },
