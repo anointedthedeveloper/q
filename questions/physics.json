@@ -2576,6 +2576,22 @@
     "examyear": "2015"
   },
   {
+    "id": 172,
+    "question": "Which of the following will increase the boiling point of water?\n\nI. Taking it to a high altitude\nII. Dissolving a salt into it\nIII. Heating it in a sealed flask\nIV. Increasing the rate of heat supply",
+    "option": {
+      "a": " I only",
+      "b": " III & IV only",
+      "c": "II & III only",
+      "d": "II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The simplest way to change the boiling point of a liquid is to change the surrounding pressure. (a) Using a closed system to artificially increase that pressure will raise the boiling point of a liquid. (b)  Boiling point is dependent upon the strength of the bonds between its molecules. For this reason, adding a solute to the liquid will create stronger bonds between molecules, raising the solution’s boiling point without increasing pressure.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 173,
     "question": "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through which of these process?\n\nI. Using a soft iron ore\nII. Laminating the iron core to reduce energy loses due to eddy current\nIII. Designing an efficient iron core",
     "option": {
