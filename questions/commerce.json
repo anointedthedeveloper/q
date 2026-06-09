@@ -1,5 +1,21 @@
 [
   {
+    "id": 5,
+    "question": "Coverage against unexpected events is called",
+    "option": {
+      "a": " insurance ",
+      "b": "assurance   ",
+      "c": "warranty",
+      "d": "reinsurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 7,
     "question": "Communication enhances business activities by",
     "option": {
@@ -75,6 +91,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 26,
+    "question": "In international trade, documentary credit is also known as   ",
+    "option": {
+      "a": "credit note   ",
+      "b": "letters of credit",
+      "c": "bankers' draft       ",
+      "d": "letter of hypothecation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -167,6 +199,22 @@
       "b": " horizontal merger ",
       "c": "lateral merger",
       "d": " vertical merger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 34,
+    "question": "As the branches indicate, iv is",
+    "option": {
+      "a": "commerce",
+      "b": "exchange ",
+      "c": "finance      ",
+      "d": "construction"
     },
     "section": "",
     "image": "",
@@ -576,6 +624,22 @@
     "examyear": "2006"
   },
   {
+    "id": 116,
+    "question": "What is the capital employed?",
+    "option": {
+      "a": "N200 000",
+      "b": "N340 000",
+      "c": "N170 000",
+      "d": "N300 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 125,
     "question": "The development of commerce resulted from",
     "option": {
@@ -752,6 +816,22 @@
     "examyear": "2006"
   },
   {
+    "id": 144,
+    "question": "An objective of the farmers' association is to",
+    "option": {
+      "a": "ensure that the prices of goods are fair and reasonable  ",
+      "b": "correct the imbalance between consumers and producers ",
+      "c": "improve the methods of selling and advertising   ",
+      "d": "provide a stable market outlet for farm inputs,"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 145,
     "question": "The documents used in the purchase and sale of goods which contain other terms of trade are",
     "option": {
@@ -827,6 +907,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 159,
+    "question": "Public relations and advertising are similar in terms of",
+    "option": {
+      "a": "communicating product information",
+      "b": "customer education ",
+      "c": "the mode of operation",
+      "d": "creating a favourable attitude."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -944,6 +1040,22 @@
     "examyear": "2007"
   },
   {
+    "id": 177,
+    "question": "In the permanent storage device, DASD means",
+    "option": {
+      "a": "Data Access Storage Device",
+      "b": "Data Access Systems Device",
+      "c": "Direct Access Systems Device",
+      "d": "Direct Access Storage Device."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 178,
     "question": "The major determinant of fire insurance premium is the ",
     "option": {
@@ -987,6 +1099,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 186,
+    "question": "The sale of foreign investment and gold reserves can be used to ",
+    "option": {
+      "a": "correct adverse balance of trade",
+      "b": "increase invisible imports",
+      "c": "correct adverse balance of payments",
+      "d": "correct a budget deficit."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -1296,6 +1424,22 @@
     "examyear": "2009"
   },
   {
+    "id": 256,
+    "question": "The most commonly used commercial documents are ",
+    "option": {
+      "a": "order notes, debit notes, invoices and quotations ",
+      "b": "letters of enquiry, consignment notes, receipts and invoices ",
+      "c": "credit notes, statement of accounts, dispatch order and bills ",
+      "d": "balance sheet, receipts, invoices and manifests."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 257,
     "question": "The term free on board means that the price includes ",
     "option": {
@@ -1467,6 +1611,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 275,
+    "question": "The financial instrument that entitles the holder to receive dividend and capital gains is a ",
+    "option": {
+      "a": "share  ",
+      "b": "bond ",
+      "c": "bill of exchange ",
+      "d": "treasury bill "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -2208,6 +2368,22 @@
     "examyear": "2012"
   },
   {
+    "id": 402,
+    "question": "If a customer pays within nine days of receiving goods and takes advantage of 3% off the invoice price, this is stated as ",
+    "option": {
+      "a": "3/9; net 3. ",
+      "b": "9/27; net 30",
+      "c": "30; net 9/3",
+      "d": "9/30; net 3."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 404,
     "question": "A bill of exchange paid before its due date at an amount less than its face value is said to have been ",
     "option": {
@@ -2295,6 +2471,22 @@
       "b": "issued capital ",
       "c": "paid up capital ",
       "d": "reserved capital "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 421,
+    "question": "If the rate of turnover of a company in 1999 was 4 times while the average stock was N49, 600, determine the turnover.",
+    "option": {
+      "a": "N199, 400",
+      "b": "N198, 400",
+      "c": "N100, 200",
+      "d": "N99, 200"
     },
     "section": "",
     "image": "",
@@ -2395,6 +2587,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 448,
+    "question": "The document which must be endorsed by the ambassador of a country of destination before shipment of goods is a ",
+    "option": {
+      "a": "consular invoice ",
+      "b": "certificate of origin ",
+      "c": "bill of lading ",
+      "d": "closed indent "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -2864,6 +3072,22 @@
     "examyear": "2000"
   },
   {
+    "id": 522,
+    "question": "The information on terms of carriage of mails is found in",
+    "option": {
+      "a": "business journal",
+      "b": "post office guide",
+      "c": "trade directory",
+      "d": "service manual"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 525,
     "question": "The marketing activity that stimulates immediate demand for a product is",
     "option": {
@@ -2887,6 +3111,22 @@
       "b": "product differentiation",
       "c": "branding",
       "d": "advertising"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 533,
+    "question": "Which of the following is not a means of consumer protection?",
+    "option": {
+      "a": "Price control",
+      "b": "Sale of Goods Act",
+      "c": "Trade Description Act",
+      "d": "Tax laws"
     },
     "section": "",
     "image": "",
@@ -3056,6 +3296,22 @@
     "examyear": "2013"
   },
   {
+    "id": 555,
+    "question": "The method of shopping on the internet by using the computer to browse the website of the manufacturer is known as",
+    "option": {
+      "a": "e-banking",
+      "b": "e-commerce",
+      "c": "e-exchange",
+      "d": "e-trade"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 556,
     "question": "The development of a container and a graphic design for a product is known as",
     "option": {
@@ -3143,6 +3399,22 @@
       "b": "Interest",
       "c": "Poundage",
       "d": "Premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 569,
+    "question": "The money paid to savings account holders by banks after a period of transaction is called",
+    "option": {
+      "a": "dividend",
+      "b": "gain",
+      "c": "interest",
+      "d": "premium"
     },
     "section": "",
     "image": "",
@@ -3323,6 +3595,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 603,
+    "question": "Which of the following does not belong to the extractive industry?",
+    "option": {
+      "a": "Farming",
+      "b": "Insuring",
+      "c": "Mining",
+      "d": "Drilling"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1990"
@@ -3664,6 +3952,22 @@
     "examyear": "2016"
   },
   {
+    "id": 649,
+    "question": "The function of money that is mostly affected by inflation is",
+    "option": {
+      "a": "store of value",
+      "b": "medium of exchange",
+      "c": "measure of value",
+      "d": "unit of account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 650,
     "question": "Ordinary warehouse is usually owned and used by",
     "option": {
@@ -3947,6 +4251,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 703,
+    "question": "Bank overdraft as a short term source of fund is",
+    "option": {
+      "a": "an overdrawn account",
+      "b": "granted to a newly opened account",
+      "c": "repayable after more than a year",
+      "d": "a current liability."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2000"
@@ -4375,6 +4695,22 @@
       "b": "departments performing similar functions are grouped together",
       "c": "activities of similar nature are-grouped together",
       "d": "staff performing similar functions are grouped together."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 786,
+    "question": "In the line type of organizational structure",
+    "option": {
+      "a": "the lines of authority are vertical",
+      "b": "there is the application of division of labour",
+      "c": "specialization is carried to a maximum degree",
+      "d": "the lines of authority are horizontal."
     },
     "section": "",
     "image": "",
