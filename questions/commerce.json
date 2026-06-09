@@ -6496,6 +6496,22 @@
     "examyear": "2012"
   },
   {
+    "id": 422,
+    "question": "Given:  N\n Opening stock  1,800\n Purchases   2, 800\n Sales    8,000\n Closing stock    350\n Carriage on sales    500\n Calculate the value of the unused stock.\n",
+    "option": {
+      "a": "N 800",
+      "b": "N500",
+      "c": "N350",
+      "d": "N320"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 423,
     "question": "The main objective of a trade association is to ",
     "option": {
@@ -7696,6 +7712,22 @@
     "examyear": "2000"
   },
   {
+    "id": 501,
+    "question": "Which of the following is not contained in an advice note?",
+    "option": {
+      "a": "Type of goods",
+      "b": "Price of goods",
+      "c": "Date of dispatch",
+      "d": "Means of dispatch"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 503,
     "question": "When a country’s total visible and invisible exports are more than its visible and invisible imports, it has",
     "option": {
@@ -8875,6 +8907,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 581,
+    "question": "Products that have stayed long on themselves in a shop can be sold easily through",
+    "option": {
+      "a": "branding",
+      "b": "discounting",
+      "c": "doorstep selling",
+      "d": "franchising"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
