@@ -272,6 +272,22 @@
     "examyear": "2014"
   },
   {
+    "id": 23,
+    "question": "In property insurance, which of the following is not a direct loss?",
+    "option": {
+      "a": "Reinstating the property destroyed",
+      "b": "Replacing the property destroyed",
+      "c": "Repairing the property damaged",
+      "d": "Replacing third party property damaged"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 24,
     "question": "Ade insured his property for N= 350,000.00. The property is subject to average condition. He suffered a loss amounting to N= 30,000.00 with the value of the property at the time of loss to be N= 370,000.00. How much will the insurer pay?",
     "option": {
@@ -2288,6 +2304,22 @@
     "examyear": "3"
   },
   {
+    "id": 167,
+    "question": "Subrogation principle can be applied in the following insurance policies except in -------- policy",
+    "option": {
+      "a": "Life",
+      "b": "Motor",
+      "c": "Theft",
+      "d": "Burglary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 168,
     "question": "A place where the business of insurance is transacted is called a/an",
     "option": {
@@ -3067,6 +3099,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 225,
+    "question": "The process of evaluating and minimizing risk is",
+    "option": {
+      "a": "risk management",
+      "b": "risk certainty",
+      "c": "risk insurance",
+      "d": "risk re-grouping"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
