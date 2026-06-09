@@ -64,6 +64,22 @@
     "examyear": "2004"
   },
   {
+    "id": 8,
+    "question": "In business, the computer is very important  especially in  ",
+    "option": {
+      "a": "financial management",
+      "b": "marketing management   ",
+      "c": "educational  management    ",
+      "d": "information management"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 9,
     "question": "What is the most important use of promotion in marketing?     ",
     "option": {
@@ -551,6 +567,22 @@
       "b": "budget and control ",
       "c": "budget and industrial policy",
       "d": "environmental protection policy "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 49,
+    "question": "Discounts offered by firms to middlemen for bulk purchases are ",
+    "option": {
+      "a": "A   trade discounts",
+      "b": "sales  bonanza    ",
+      "c": "cash discounts ",
+      "d": "seasonal"
     },
     "section": "",
     "image": "",
@@ -2224,6 +2256,22 @@
     "examyear": "2008"
   },
   {
+    "id": 219,
+    "question": "Balance of payments is made up of ",
+    "option": {
+      "a": "visible  and current  items ",
+      "b": "invisible and capital items ",
+      "c": "current and capital items",
+      "d": "visible and invisible items"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 220,
     "question": "Most of the barriers to international trade have been eliminated through ",
     "option": {
@@ -3424,6 +3472,22 @@
     "examyear": "2010"
   },
   {
+    "id": 338,
+    "question": "A printed copy of processed information from the computer is the ",
+    "option": {
+      "a": "soft copy ",
+      "b": "file copy ",
+      "c": "scanned copy ",
+      "d": "hard copy "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 340,
     "question": "The major problem confronting Cyber Café operators is ",
     "option": {
@@ -3755,6 +3819,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 364,
+    "question": "Mr. Lawal insured his warehouse against burglary but it was later gutted buy fire. This implies that ",
+    "option": {
+      "a": "the loss should be borne by the insurer ",
+      "b": "Mr. Lawal is liable  only for half of the estimated loss ",
+      "c": "the insurer should make a consolation payment for the loss",
+      "d": "the loss should be borne by Mr. Lawal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -4096,6 +4176,22 @@
     "examyear": "2012"
   },
   {
+    "id": 396,
+    "question": "The sales of goods through a medium that accepts money and deliver the items to the customer is ",
+    "option": {
+      "a": "an automated teller machine ",
+      "b": "a vending machine",
+      "c": "a counting machine",
+      "d": "a branding machine"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 397,
     "question": "The main purpose of branding is to ",
     "option": {
@@ -4363,6 +4459,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 418,
+    "question": "A business organization can obtain long-term financing through ",
+    "option": {
+      "a": "bank overdraft ",
+      "b": "the sale of shares ",
+      "c": "credit purchases ",
+      "d": "bureau de change "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -4944,6 +5056,22 @@
     "examyear": "2013"
   },
   {
+    "id": 469,
+    "question": "The initial function of a manager is ",
+    "option": {
+      "a": "setting up an organization ",
+      "b": "coordinating ",
+      "c": "planning ",
+      "d": "provision of welfare package "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 472,
     "question": "Management of a business involves he development of ideas for the ",
     "option": {
@@ -5120,6 +5248,22 @@
     "examyear": "2013"
   },
   {
+    "id": 485,
+    "question": "The type of computer application software used mainly for management information is ",
+    "option": {
+      "a": "Corel draw ",
+      "b": "AutoCAD",
+      "c": "data base",
+      "d": "word perfect"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 489,
     "question": "Which of the following can be defined as trade and aids to trade?",
     "option": {
@@ -5161,6 +5305,22 @@
       "d": "Carriage outwards"
     },
     "section": "Use the following equation to answer question   Gross Profit=(Closing stock + P) less (Opening stock + G)",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 496,
+    "question": "What is G in the above equation?",
+    "option": {
+      "a": "Sales returns",
+      "b": "Carriage inwards",
+      "c": "Purchases",
+      "d": "Sales"
+    },
+    "section": "Use the following equation to answer question  Gross Profit=(Closing stock + P) less (Opening stock + G)",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -5504,6 +5664,22 @@
     "examyear": "2000"
   },
   {
+    "id": 535,
+    "question": "A counter-offer in a contract is regarded as",
+    "option": {
+      "a": "an acceptance",
+      "b": "an invitation to treat",
+      "c": "a rejection",
+      "d": "a consideration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 537,
     "question": "Which of the following is an agreement to transport goods but not a document of title?",
     "option": {
@@ -5803,6 +5979,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 562,
+    "question": "In trading, profit and loss account, carriage outward is",
+    "option": {
+      "a": "added to purchases",
+      "b": "deducted from purchases",
+      "c": "deducted from sales",
+      "d": "treated as expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -7115,6 +7307,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 687,
+    "question": "Where a manufacturer collects money from wholesalers in exchange for goods produced is referred to as",
+    "option": {
+      "a": "charge account.",
+      "b": "trading checks.",
+      "c": "trade credit.",
+      "d": "I owe you."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
