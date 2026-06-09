@@ -880,6 +880,22 @@
     "examyear": "2003"
   },
   {
+    "id": 81,
+    "question": "The noble gases owe their inactivity to",
+    "option": {
+      "a": "Octet configuration",
+      "b": "Cyclic shape",
+      "c": "Hexagonal shape",
+      "d": "Obtuse configuration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 82,
     "question": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to",
     "option": {
@@ -1664,6 +1680,22 @@
     "examyear": "2004"
   },
   {
+    "id": 160,
+    "question": "Oxyacetylene flame is used for iron-welding because it",
+    "option": {
+      "a": " makes the iron metal solidity very quickly",
+      "b": "Combines with oxygen to give a pop sound",
+      "c": "Evolves a lot of heat when burnt",
+      "d": "Dissociates to produce carbon (IV) oxide and oxygen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 161,
     "question": "The alkyl group can be represented by the general formula",
     "option": {
@@ -1675,6 +1707,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 163,
+    "question": "A characteristic of the alkane family is",
+    "option": {
+      "a": "Addition reaction",
+      "b": "Elimination reaction",
+      "c": "Substitution reaction",
+      "d": "Neutralization reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -2256,6 +2304,22 @@
     "examyear": "2006"
   },
   {
+    "id": 219,
+    "question": "Zinc and carbon rods are used as anode and cathode respectively in a",
+    "option": {
+      "a": "Voltaic cell",
+      "b": "Lead accumulator",
+      "c": "Leclanche cell",
+      "d": "Daniel cell"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 220,
     "question": "Trioxonitrate(V) acid is not used for preparing hydrogen gas from metals because it",
     "option": {
@@ -2800,6 +2864,22 @@
     "examyear": "2010"
   },
   {
+    "id": 268,
+    "question": "The maximum number of electrons in the L shell of an atom is",
+    "option": {
+      "a": "8",
+      "b": "18",
+      "c": "32",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 270,
     "question": "A noble gas with a high power of fog penetration used in aerodrome beacons is",
     "option": {
@@ -3067,6 +3147,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 292,
+    "question": "A compound gives an orange red colour to a non luminous flame. This compound is likely to contain",
+    "option": {
+      "a": "Ca2+",
+      "b": "Fe3+",
+      "c": "Fe2+",
+      "d": "Na+"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 295,
+    "question": "Which of the following is used as fuel in miners’ lamp",
+    "option": {
+      "a": "Ethyne",
+      "b": "Ethane",
+      "c": "Ethane",
+      "d": "Ethanol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -3920,6 +4032,22 @@
     "examyear": "2016"
   },
   {
+    "id": 379,
+    "question": "Which of the following statements is correct about the periodic table?",
+    "option": {
+      "a": "Elements in the same group have the same number of electron shells",
+      "b": "The non-metallic properties of the elements tend to decrease across each period",
+      "c": "Elements in the same period have the same number of valence electrons",
+      "d": "The valence electrons of the elements increase progressively across the period"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Across a period, the number of valence electrons increases progressively from left to right (e.g., Period 2: Li has 1, Be has 2, B has 3 … Ne has 8). Elements in the same group have the same number of valence electrons (not shells); elements in the same period have the same number of shells (not valence electrons); non-metallic properties increase across a period.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 380,
     "question": "The metal whose ore can be concentrated by passing it through a magnetic separator is",
     "option": {
@@ -4672,6 +4800,22 @@
     "examyear": "2017"
   },
   {
+    "id": 446,
+    "question": "Ethene is prepared industrially by",
+    "option": {
+      "a": "Reforming",
+      "b": "Polymerization",
+      "c": "Distillation",
+      "d": "Cracking"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ethene (CH₂=CH₂) is produced industrially by cracking — the thermal or catalytic decomposition of larger hydrocarbon molecules from petroleum into smaller, more useful ones. Steam cracking of naphtha or ethane is the main industrial route to ethene.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 450,
     "question": "The furring of kettles is caused by the presence in water of",
     "option": {
@@ -5328,6 +5472,22 @@
     "examyear": "2018"
   },
   {
+    "id": 505,
+    "question": "A secondary alkanol can be oxidized to give an?",
+    "option": {
+      "a": "alkanone",
+      "b": "alkyne",
+      "c": "alkanoic acid",
+      "d": "alkanal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Secondary alkanols have the -OH group on a carbon bonded to two other carbon atoms. On oxidation with acidified KMnO₄ or K₂Cr₂O₇, secondary alkanols are oxidized to alkanones (ketones), which have the C=O group flanked by two alkyl groups. They cannot be oxidized further to carboxylic acids under normal conditions.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 507,
     "question": "The IUPAC name for CH₃CH₂COOCH₂CH₃ is",
     "option": {
@@ -5740,6 +5900,22 @@
     "image": "",
     "answer": "c",
     "solution": "Mole ratio — C: 40.0/12 = 3.33; H: 6.7/1 = 6.7; O: 53.3/16 = 3.33. Divide by smallest (3.33): C:H:O = 1:2:1. Empirical formula = CH₂O. Empirical formula mass = 12 + 2 + 16 = 30. n = 180 ÷ 30 = 6. Molecular formula = C₆H₁₂O₆.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 551,
+    "question": "Which of the following gases contains the least number of atoms at s.t.p?",
+    "option": {
+      "a": "1 mole of butane",
+      "b": "4 moles of chlorine",
+      "c": "3 moles of ozone",
+      "d": "7 moles of argon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Total atoms = moles × atoms per molecule. Butane (C₄H₁₀): 1 × 14 = 14 mol atoms. Chlorine (Cl₂): 4 × 2 = 8 mol atoms. Ozone (O₃): 3 × 3 = 9 mol atoms. Argon (Ar): 7 × 1 = 7 mol atoms. Argon has the fewest total atoms at 7 mol atoms.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -6784,6 +6960,22 @@
     "examyear": "2022"
   },
   {
+    "id": 648,
+    "question": "An organic compound with fishy smell is likely to have a general formula?",
+    "option": {
+      "a": "RCONHR¹",
+      "b": "RCONH₂",
+      "c": "RNH₂",
+      "d": "RCOR¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Compounds with a fishy smell are amines, which contain the amino functional group (-NH₂). The general formula for a primary amine is RNH₂, where R is an alkyl group. Amines are produced during the decomposition of proteins in fish, which accounts for the characteristic fishy odour. RCONH₂ and RCONHR¹ are amides, and RCOR¹ is a ketone.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 649,
     "question": "N₂O₄ ⇌ 2NO₂ (Δ = -ve). From the reaction above, which of these conditions would produce the highest equilibrium yield for N₂O₄?",
     "option": {
@@ -7068,6 +7260,22 @@
     "image": "",
     "answer": "a",
     "solution": "Carbon(IV) oxide is CO₂, with the structure O=C=O. Each C=O double bond consists of 2 bonding pairs (one sigma bond and one pi bond). With two C=O double bonds, the total number of bonding pairs = 2 × 2 = 4. There are no lone pairs on carbon and 2 lone pairs on each oxygen, but these are not bonding pairs.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 670,
+    "question": "2-methylprop-1-ene is a structural isomer of?",
+    "option": {
+      "a": "But-1-yne",
+      "b": "2-methyl But-1-ene",
+      "c": "3-methyl prop-1-yne",
+      "d": "But-2-ene"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "2-methylprop-1-ene has the formula CH₂=C(CH₃)₂, molecular formula C₄H₈. Structural isomers have the same molecular formula but different structural arrangements. But-2-ene (CH₃CH=CHCH₃) also has the molecular formula C₄H₈. Both are C₄H₈ compounds making them structural isomers. But-1-yne (C₄H₆) and 3-methylprop-1-yne have different molecular formulas.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -7372,6 +7580,22 @@
     "image": "",
     "answer": "c",
     "solution": "Stainless steel is an alloy composed primarily of iron and chromium, typically containing at least 10.5% chromium by mass. The chromium forms a thin, invisible oxide layer on the surface that prevents corrosion and staining. Nickel is often also added. Copper and tin form bronze, iron and carbon form ordinary steel, and iron and zinc form galvanised iron.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 692,
+    "question": "What is the state of matter in which particles are widely spaced and move freely with high kinetic energy?",
+    "option": {
+      "a": "Liquid",
+      "b": "Solid",
+      "c": "Plasma",
+      "d": "Gas"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In the gaseous state, particles are widely spaced with negligible intermolecular forces. They move rapidly and randomly in all directions with high kinetic energy, filling any container they occupy. Solid particles are closely packed and vibrate in fixed positions. Liquid particles are close together but can flow past each other. Plasma is an ionised state distinct from the other three.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7852,6 +8076,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Gibbs free energy change (ΔG) determines spontaneity. A reaction is spontaneous when ΔG < 0 (negative). When ΔG > 0, the reaction is non-spontaneous. When ΔG = 0, the system is at equilibrium. The relationship is ΔG = ΔH − TΔS, where both enthalpy and entropy contributions determine spontaneity.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 741,
+    "question": "Which of these is the most preferred separation technique for the isolation of solutes where the purity of the constituent is of utmost importance?",
+    "option": {
+      "a": "sieving",
+      "b": "Distillation",
+      "c": "recrystallization",
+      "d": "Precipitation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Recrystallization is the preferred technique when purity is of utmost importance. The solute is dissolved in a hot solvent, then allowed to cool slowly. Pure crystals form as the solubility decreases, leaving impurities behind in solution. The crystals are then filtered off, yielding a highly pure product. Distillation separates liquids, sieving separates by particle size, and precipitation does not yield the same level of purity.",
     "examtype": "utme",
     "examyear": "2024"
   },
