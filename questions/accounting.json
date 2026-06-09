@@ -400,6 +400,22 @@
     "examyear": "2016"
   },
   {
+    "id": 148,
+    "question": "When the fixed capital method is used, the partners share of profits and remunerations are credited to the",
+    "option": {
+      "a": "current account.",
+      "b": "profit and Loss account.",
+      "c": "profit and loss appropriation account.",
+      "d": "capital account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 149,
     "question": "A discount that is allowed to encourage a debtor to pay off his debt within a period is the",
     "option": {
@@ -1056,6 +1072,22 @@
     "examyear": "2012"
   },
   {
+    "id": 295,
+    "question": "An underwriter for a company’s share is paid",
+    "option": {
+      "a": "Interest.",
+      "b": "commission.",
+      "c": "dividend.",
+      "d": "salary."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 296,
     "question": "Which of the following is found in a Memorandum of \tAssociation?",
     "option": {
@@ -1211,6 +1243,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 329,
+    "question": "The accounting concept that states that a firm’s financial affairs must be separated from that of the owner’s private transactions is",
+    "option": {
+      "a": "business entity",
+      "b": "going concern",
+      "c": "consistency",
+      "d": "duality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -1632,6 +1680,22 @@
     "examyear": "2007"
   },
   {
+    "id": 453,
+    "question": "The gross profit disclosed in the branch stock adjustment account represents",
+    "option": {
+      "a": "head office profit",
+      "b": "unrealized profit",
+      "c": "estimated profit",
+      "d": "branch profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 455,
     "question": "A pension granted to any past president or vice-president shall be charged to the",
     "option": {
@@ -1884,6 +1948,22 @@
     "image": "",
     "answer": "a",
     "solution": "agreement of trial balance does mean it is error free. Some errors might not be disclosed by mere agreement",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 558,
+    "question": "Use the following information to answer this question.\n\nClub building 400,000\n\nSubscription prepaid 3,000\n\nSport kits 150,000\n\nBar creditors 85,000\n\nSubscription owing 32,000\n\nWhat is the club’s total liabilities",
+    "option": {
+      "a": "₦11, 700",
+      "b": "₦26, 700",
+      "c": "₦88, 000",
+      "d": "₦85, 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Liabilities in this list are:\n\nSubscription prepaid (a liability): ₦ 3 000\n\nBar creditors: ₦ 85 000\n\nEverything else (building, sport kits, subscription owing) is an asset.\n\nSo total liabilities = 3 000 + 85 000 = ₦ 88 000",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2352,6 +2432,22 @@
     "examyear": "2018"
   },
   {
+    "id": 676,
+    "question": "If the purchase price exceeds the net assets of a company, the excess amount is debited to________________\n",
+    "option": {
+      "a": "Cash account",
+      "b": " purchase account",
+      "c": "goodwill account",
+      "d": "sales account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Goodwill is the excess of purchase consideration over the total value of the business",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 679,
     "question": "Calls in advance are treated in the balance sheet as_______",
     "option": {
@@ -2428,6 +2524,22 @@
     "image": "",
     "answer": "c",
     "solution": "Jewelry 3/10 x 3500 = 1050\n\nHairdressing 2/10 x 3500 = 700\n\nClothing 5/10 x 3500 = 1750",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 707,
+    "question": "Cost of rent as an expense can be apportioned to all department on the basis of:",
+    "option": {
+      "a": "No of employees",
+      "b": "stock value",
+      "c": "space occupied",
+      "d": "wages"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Indirect expenses are allocated among departments in order to ascertain the profits or loss made by each department",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2624,6 +2736,22 @@
     "examyear": "2019"
   },
   {
+    "id": 765,
+    "question": "Under which of the following conditions is a partnership dissolved?",
+    "option": {
+      "a": " change of the partnership's head office",
+      "b": " purchase of a large quantity of fixed assets",
+      "c": " admission of a new partner",
+      "d": "retirement of a manager who is not a partner"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Legally, the admission of a new partner brings about the dissolution of the existing partnership and the formation of a new one (even though the business may continue uninterrupted). None of the other events (moving the head office, buying fixed assets, or a manager’s retirement when they aren’t a partner) automatically dissolve the partnership.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 766,
     "question": "Which of the following accounting records are source documents?",
     "option": {
@@ -2668,6 +2796,22 @@
     "image": "",
     "answer": "d",
     "solution": "Debits: Bank ₦59,410 + Purchases ₦20,000 + Rent ₦2,500 + Stationery ₦90 + Typewriter ₦6,500 = ₦88,500\n\nCredits: Capital ₦50,000 + Sales ₦38,500 = ₦88,500",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 771,
+    "question": "Which of the following errors will affect the trial balance total?",
+    "option": {
+      "a": "omission of sales of ₦3000 and purchases of ₦2000",
+      "b": " Posting discount allowed to the debit side of discount allowed account",
+      "c": " omission of one account from the list when extracting the ledgers",
+      "d": "failure to post sales of ₦2000 and purchases of ₦2000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": " Omission of sales of ₦3,000 and purchases of ₦2,000:\n\nSales (credit) ₦3,000 missing and purchases (debit) ₦2,000 missing\nNet effect: Credit side short by ₦1,000\nThis affects the trial balance total",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -2864,6 +3008,22 @@
     "examyear": "2021"
   },
   {
+    "id": 818,
+    "question": "Use the information below to answer this question:\ni. cash at bank  ii. cash in hand  iii. premises  iv. land  v. creditors  vi. loan from friends/bank\n\nDetermine the fixed assets",
+    "option": {
+      "a": "iii and iv",
+      "b": "i and v",
+      "c": "ii and iv",
+      "d": " ii and vi"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Fixed assets are long‑term tangible assets used in the operation of a business. From the list, only premises and land qualify as fixed assets.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 823,
     "question": "The major objectives of departmental account is to ascertain the",
     "option": {
@@ -2940,6 +3100,22 @@
     "image": "",
     "answer": "a",
     "solution": "The net profit is understated by ₦22,000 (₦15,000 mis‐posted revenue → expense: −2×15,000 = −30,000; ₦4,000 mis‐posted expense → revenue: +2×4,000 = +8,000), so:\n\n\nAdjusted Net Profit = ₦180,000 + 22,000 = ₦202,000",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 838,
+    "question": "The principle of double entry system ensures",
+    "option": {
+      "a": " balances at the bank",
+      "b": "increase in the assets and liabilities",
+      "c": " balance of cashbook",
+      "d": "mathematical accuracy in trial balance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The double‐entry system mandates that every financial transaction is recorded with equal debits and credits. This built‑in check ensures that, when all ledger balances are extracted and totaled, the debit column equals the credit column—providing mathematical accuracy in the trial balance.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -3116,6 +3292,22 @@
     "image": "",
     "answer": "d",
     "solution": "A transaction file is used to hold data during transaction processing. The file is later used to update the master file and audit daily, weekly or monthly transactions.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 921,
+    "question": "The discount column on the left-hand side of cash book represents a discount",
+    "option": {
+      "a": "received from a debtor",
+      "b": " allowed to a creditor",
+      "c": "allowed to a debtor",
+      "d": "received from a creditor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The discount on the left hand side is known as discount allowed and it is given by a firm to its customers when they pay their accounts quickly or promptly.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3344,6 +3536,22 @@
     "examyear": "2008"
   },
   {
+    "id": 989,
+    "question": "The floor space occupied by manufacturing and administration departments in a company is 200 sqm and 300 sqm respectively. ₦20 000 rent incurred is shared using floor space occupied. How much is the rent chargeable to manufacturing?",
+    "option": {
+      "a": "₦8 000",
+      "b": "₦10 000",
+      "c": "₦12 000",
+      "d": " ₦18 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: Calculate total floor space\nTotal floor space = 200 sqm + 300 sqm = 500 sqm\nStep 2: Calculate manufacturing department's proportion\nManufacturing proportion = 200 sqm ÷ 500 sqm = 2/5 = 0.4 or 40%\nStep 3: Calculate rent chargeable to manufacturing\nRent for manufacturing = ₦20,000 × (200/500)\nRent for manufacturing = ₦20,000 × 0.4 = ₦8,000",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 995,
     "question": "Given:\n(i) Cost price \n(ii) Selling price \n(iii) Cost plus fixed percentage \n(iv) Price above cost and selling price\n\nFrom the information above, the prices used in charging goods to the branches are?",
     "option": {
@@ -3564,6 +3772,22 @@
     "image": "",
     "answer": "b",
     "solution": "Assets\n\nCash in hand = ₦50\n\nCash at bank = ₦1,250 → running total = ₦1,300\n\nStock = ₦4,880 → running total = ₦6,180\n\nFurniture = ₦960 → running total = ₦7,140\n\nBuilding = ₦5,500 → running total = ₦12,640\n\nDebtors = ₦1,750 → Total assets = ₦14,390\n\nLess: Liabilities\n\nCreditors = ₦2,150\n\nSubtotal (Assets − Liabilities) = ₦14,390 − ₦2,150 = ₦12,240\n\nLess: Drawings by shareholders = ₦125\n\nCapital = ₦12,240 − ₦125 = ₦12,115",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1040,
+    "question": "<b>Use the information below to answer questions 25 to 26</b>\n\nDirect labour...................₦50 000\nBeginning work-in-progress......₦4 000\nRaw materials used..............₦18 000\nIndirect labour.................₦4 000\nEnding finished goods...........₦16 000\nEnding work-in-progress.........₦9 000\nFactory supplies used...........₦7 000\nSelling expenses................₦25 000\nBeginning finished goods........₦21 000\nOther factory overheads.........₦19 000\n\nCalculate the prime cost?",
+    "option": {
+      "a": "₦50 000",
+      "b": "₦68 000",
+      "c": "₦70 000",
+      "d": "₦75 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Prime cost = Direct materials used + Direct labour\n\n\nPrime cost = ₦18,000 + ₦50,000 = ₦68,000",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -3980,6 +4204,22 @@
     "image": "",
     "answer": "a",
     "solution": "(i) Orientation - ✓ Distinguishes\n\nProfit-making: Profit-oriented (maximize returns for owners)\nNot-for-profit: Service-oriented (serve public/social causes)\n\n(ii) Entity - ✓ Distinguishes\n\nBoth are separate entities, but they differ in nature:\nProfit-making: Commercial entities\nNot-for-profit: Social/charitable entities\n\n(iii) Legal status - ✓ Distinguishes\n\nProfit-making: Registered as companies, partnerships, sole proprietorships\nNot-for-profit: Registered as charities, foundations, NGOs, with different legal frameworks and tax treatments\n\n(iv) Finance - ✓ Distinguishes\n\nProfit-making: Funded by investors expecting returns, revenue from sales\nNot-for-profit: Funded by donations, grants, government funding; surplus reinvested rather than distributed\n\nAll four characteristics distinguish between profit-making and not-for-profit organizations in meaningful ways.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1185,
+    "question": "<b>Use the information below to answer question 21 and 22.</b>\n\nAdex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch.\n\nStock at branch 1st January at cost............₦400\nGoods sent to branch at cost...................₦8000\nReturns to head ...............................₦340\nCash sales ....................................₦9160\nStock at branch 31st December at cost..........₦720\n\nWhat is the gross profit carried to the profit and loss account?",
+    "option": {
+      "a": "₦1820",
+      "b": "₦1640",
+      "c": "₦1530",
+      "d": "₦1870"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Gross profit = Sales − Cost of goods sold.\n\nCost of goods sold = Opening stock + Goods sent − Returns − Closing stock\n= ₦400 + ₦8,000 − ₦340 − ₦720 = ₦7,340\n\nGross profit = ₦9,160 − ₦7,340 = ₦1,820",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -4432,6 +4672,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1292,
+    "question": "<b>Use the information below to answer questions 28 and 29</b>\n\nMaro Merchant Bank Plc is to issue 500,000 ordinary\nshares of 50k each at ₦ 3,000 per share. Applications\nwere received for 1,550,000 shares fully paid, 1,250,000\nshares are to be issued on a pro rata basis and excess\nsubscriptions were dishonored and refunds made\n\nThe refund due to an application for 25,000 shares is",
+    "option": {
+      "a": "₦45,000",
+      "b": "₦30,000",
+      "c": "₦7,500",
+      "d": "₦5,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Applications were received for 1,550,000 shares, but only applications for 1,250,000 shares are considered for pro rata allotment. The applications for the remaining 300,000 shares are dishonored and fully refunded.\n\nThe 500,000 shares are issued on a pro rata basis to the considered applications (for 1,250,000 shares).\n\nThe allotment ratio is 500,000 / 1,250,000 = 0.4 (or 2/5), meaning each applicant receives 40% of the shares they applied for.\n\nFor an application of 25,000 shares (assumed to be part of the considered group):\n\nShares allotted = 0.4 × 25,000 = 10,000 shares.\n\nShares not allotted = 25,000 - 10,000 = 15,000 shares.\n\nThe issue price is ₦3.00 per share, so the amount paid for the application was 25,000 × ₦3.00 = ₦75,000.\n\nRefund for unallotted shares = 15,000 × ₦3.00 = ₦45,000.\n\nThus, the refund due is ₦45,000.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1295,
     "question": "An outright sale of a partnership amounts to the?",
     "option": {
@@ -4460,6 +4716,22 @@
     "image": "",
     "answer": "c",
     "solution": "The “Accumulated Fund” in a non‐trading concern is the same as its General Fund, representing the net assets built up over time.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1313,
+    "question": "A major benefit derived from the reconciliation of branch and head office books is to?",
+    "option": {
+      "a": "determine accurate returns by the branch",
+      "b": " ascertian the correct profit or loss on branch activities",
+      "c": "enable the branch to keep control over stock",
+      "d": "enable the branch to ascertain debtor's balance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The primary benefit of reconciling branch and head office records is to ensure that all inter‐company transfers, stock movements, and adjustments have been correctly recorded, allowing the head office to determine the true profit or loss generated by the branch.",
     "examtype": "utme",
     "examyear": "2000"
   },
