@@ -1808,6 +1808,22 @@
     "examyear": "2001"
   },
   {
+    "id": 231,
+    "question": "The following are examples of economic goods except",
+    "option": {
+      "a": "bottled water",
+      "b": "air",
+      "c": "household utensils",
+      "d": "shelter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 232,
     "question": "A tent-making factory offers",
     "option": {
@@ -2523,6 +2539,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 320,
+    "question": "If the  active  population  is 50  million and unemployed is 5 million, what is the unemployment rate?",
+    "option": {
+      "a": "10%",
+      "b": "45%",
+      "c": "55%",
+      "d": "90%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -3883,6 +3915,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 502,
+    "question": "A policy by which governments restrict the amount of \n\tforeign currencies bought and sold is known as",
+    "option": {
+      "a": "devaluation",
+      "b": "credit creation",
+      "c": "exchange control",
+      "d": "export promotion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
