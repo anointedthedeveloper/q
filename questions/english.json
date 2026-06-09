@@ -836,6 +836,25 @@
     "category": "others"
   },
   {
+    "id": 60,
+    "question": "The leader has the <i>unstinting</i> support of his party ",
+    "option": {
+      "a": "cautious ",
+      "b": "uninspiring ",
+      "c": "unsparing ",
+      "d": "laudable "
+    },
+    "section": "choose the option nearest in meaning to the word(s) or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 61,
     "question": "The <i>essence</i> of governance is to seek the good and well-being of the majority of the people ",
     "option": {
@@ -3287,6 +3306,25 @@
     "category": "others"
   },
   {
+    "id": 237,
+    "question": "Olu brought his clothes and those of his………..",
+    "option": {
+      "a": "Senior brother’s",
+      "b": "elder brothers",
+      "c": "elder brother’s ",
+      "d": "senior brother."
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 238,
     "question": "Our neigbour was attracted by the ………. from my mother’s cooking ",
     "option": {
@@ -4058,6 +4096,25 @@
     "section": "choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 296,
+    "question": "The man drew a sword as people <i>congregated round</i> him",
+    "option": {
+      "a": "praised",
+      "b": " gathered round ",
+      "c": " mobbed ",
+      "d": " fled from"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006",
@@ -4864,6 +4921,25 @@
     "category": "others"
   },
   {
+    "id": 357,
+    "question": "Making a phone call instead of paying a visit represents a …….  trend ",
+    "option": {
+      "a": " sudden new major social  ",
+      "b": " new social sudden major",
+      "c": " new sudden major social",
+      "d": "sudden social new major"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 359,
     "question": "My father has been away on a journey but my mother  says she …...he …… this Friday.",
     "option": {
@@ -5662,6 +5738,25 @@
     "category": "others"
   },
   {
+    "id": 413,
+    "question": "The chairman addressed the………… ",
+    "option": {
+      "a": "university French teacher",
+      "b": "university of French teachers ",
+      "c": "French one hundred university teachers ",
+      "d": "university French one hundred teacher "
+    },
+    "section": "choose the option  best completes the gap(s) .",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 414,
     "question": "Kanuri is a language.........",
     "option": {
@@ -6300,6 +6395,25 @@
     "section": "Choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 464,
+    "question": "Young people have a <i>penchant</i> for fast cats ",
+    "option": {
+      "a": "likeness",
+      "b": "passion ",
+      "c": "madness ",
+      "d": "dislike. "
+    },
+    "section": "Choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -9648,6 +9762,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 61,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 758,
+    "question": "Raffle draws like gambling often end in a ....... for me?",
+    "option": {
+      "a": "lost",
+      "b": "loss",
+      "c": "loose",
+      "d": "lose"
+    },
+    "section": "<b>In each of questions 41 to 62, fill the gap with the most appropriate option from the list provided.</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 62,
     "hasPassage": 0,
     "category": "others"
   },
@@ -15922,6 +16055,25 @@
     "category": "others"
   },
   {
+    "id": 1305,
+    "question": "We ought to stay away ______ the robbers come back",
+    "option": {
+      "a": "provided",
+      "b": "should in case",
+      "c": "although",
+      "d": "in case"
+    },
+    "section": "Fill in the gap with the option that best completes the sentence.",
+    "image": "",
+    "answer": "d",
+    "solution": "When you go to a meeting, or to your workplace you are on business, similarly if you go on an overseas trip for work you are on business.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 52,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1306,
     "question": "It was _____ who killed the goat.",
     "option": {
@@ -20288,6 +20440,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 53,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1666,
+    "question": "'terror''",
+    "option": {
+      "a": "tenor",
+      "b": "warrior",
+      "c": "error",
+      "d": "furrow"
+    },
+    "section": "For these questions, choose the option that rhyme with the given words.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "terror: /ˈtɛrə/\nerror: /ˈɛrə/",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 54,
     "hasPassage": 0,
     "category": "others"
   },
