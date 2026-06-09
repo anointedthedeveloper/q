@@ -272,6 +272,22 @@
     "examyear": "2002"
   },
   {
+    "id": 200,
+    "question": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8",
+    "option": {
+      "a": "(2, 0)",
+      "b": "(1, -2)",
+      "c": " (-1, -2)",
+      "d": " (1, 2)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2y = 4x - 8 ⟹\n y = 2x - 4.\n\nWhen x = 0, y = -4.\n\nWhen y = 0, x = 2.\n\nThe midpoint between (0, -4) and (2, 0) = ((0+2)/2,(−4+0)/2)\n= (1,−2)",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 205,
     "question": "Find the mean of the data: 7, -3, 4, -2, 5, -9, 4, 8, -6, 12",
     "option": {
@@ -284,6 +300,22 @@
     "image": "",
     "answer": "d",
     "solution": "Mean: [7+(−3)+4+(−2)+5+(−9)+4+8+(−6)+12]/(10) = 20/10\n \n= 2",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 207,
+    "question": "The probability of a student passing any exam is 2/3. If the student takes three exams, what is the probability that he will not pass any of them?",
+    "option": {
+      "a": "2/3",
+      "b": "4/9",
+      "c": "8/27",
+      "d": "1/27"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "P(not passing exam) = 1−2/3 = 1/3\nP(not passing any of the three exams) = 1/3 × 1/3 × 1/3\n= 1/27",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -480,6 +512,22 @@
     "examyear": "2006"
   },
   {
+    "id": 412,
+    "question": "THe cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room?",
+    "option": {
+      "a": "N1215",
+      "b": "N720",
+      "c": " N1620",
+      "d": "N810"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cost of removing a 6m2 room = N540\nCost of renovating a 1m2 room = 540 / 6\nCost of removing a 9m2 room\n= (540 / 6) * 9\n= N810",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 439,
     "question": "Factorize 2t<sup>2</sup> + t - 15",
     "option": {
@@ -652,6 +700,22 @@
     "image": "",
     "answer": "a",
     "solution": "(2√3 + √5)/(√5 - √3)  = ((2√3+√5)/(√5-√3))((√5+√3)/(√5+√3)) = (2√15+6+5+√15)/(5-3) = (3√15+11)/2",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 586,
+    "question": "If the area of ΔPQR above is 12√3 cm2, find the value of q?",
+    "option": {
+      "a": "6 cm",
+      "b": "7 cm",
+      "c": "8 cm",
+      "d": " 5 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128351/ALOC-Questions/Mathematics/2010/MATH_2010_Q15_ofvhf9.jpg",
+    "answer": "a",
+    "solution": "Area of a triangle = 1/2 ab Sinθ\n12√3 = 1/2 x 8 x q sin 60\n12√3 = 4 x q x √3/2\n12√3 = 2q√3\n\nq =12√3/2√3\n\nq = 6",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -1276,6 +1340,22 @@
     "image": "",
     "answer": "a",
     "solution": "Three times a certain number (x) = 3x\n\nminus 2 = -2\n\nis less than = <\n\nthe number minus 6 = x -6\n\nMathematically; 3x - 2 < x - 6\n\ncollect like terms\n\n3x - x < -6 + 2\n\n2x < -4\n\nx < -2 is  the possible values of x",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1135,
+    "question": "The number line represented by the inequality",
+    "option": {
+      "a": " x≤2",
+      "b": " x<2",
+      "c": " x≥2",
+      "d": " x>2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007628/ALOC-Questions/Mathematics/2022/JAMB_MATH_2022_Q39_tjnbuv.jpg",
+    "answer": "c",
+    "solution": "x ≥ 2 is represented by an arrow with an filled-in dot above the 2.\n\nThe arrow points in the direction of all the numbers that are greater than 2.",
     "examtype": "utme",
     "examyear": "2022"
   },
