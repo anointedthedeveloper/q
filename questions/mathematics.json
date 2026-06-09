@@ -352,6 +352,22 @@
     "examyear": "2007"
   },
   {
+    "id": 29,
+    "question": "If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure? ",
+    "option": {
+      "a": "0.01",
+      "b": "0.0051",
+      "c": "0.1",
+      "d": "0.005"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 30,
     "question": "In a survey of 100 students in an institution, 80 students speak Yoruba, 22 speak Igbo, while 6 speak neither Igbo nor Yoruba. How many students speak Yoruba and Igbo? ",
     "option": {
@@ -10384,6 +10400,22 @@
     "examyear": "2016"
   },
   {
+    "id": 821,
+    "question": "Find the derivative of y = (1/3X + 6)<sup>2</sup>",
+    "option": {
+      "a": "2( 1/3X + 6)",
+      "b": "2/3 ( 1/3x 6)",
+      "c": "2/3(1/3X + 6)<sup>2</sup>",
+      "d": "1/3(1/3X + 6)<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Y = ( 1/3X + 6)2\n\n\ndy/dx = 2( 1/3X + 6) 1/3\n\n= 2/3 ( 1/3X + 6)",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 823,
     "question": "If the 2nd term of a G.P is 8/9\n and the 6th term is 4(1/2)\n. Find the common ratio.",
     "option": {
@@ -11068,6 +11100,22 @@
     "image": "",
     "answer": "d",
     "solution": "T = {evenn numbers from 1 to 12}\nN = {common factors of 6,8 and 12}\nFind T ∩ N\nT = {2, 4, 6, 8, 10, 12}\nN = {2}\nT ∩ N = {2} i.e value common to T & N",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 870,
+    "question": "What is the next number in the series 2, 1, 1/2, 1/4 ...",
+    "option": {
+      "a": "1/3",
+      "b": "2/8",
+      "c": "3/7",
+      "d": "1/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "2, 1, 12\n, 14\n.....\n\nThere are 4 terms in the series\nTherefore the next number will be the 5th term\n\nT<sub>n</sub>  = ar<sup>(n−1)</sup>\n (formular for geometric series)\n\na = first term = 2\n\nr = common rate = next term/previous term\n = 1/2\n\n\nn = number of terms\n\nT<sub>5</sub>  = 5th term = ?\n\nT<sub>5</sub>  = ar<sup>(5−1>/sup>\n\n\n= ar<sup>4</sup>\n\n\n= 2 × (ar<sup>(n−1)</sup><sup>)<sup>4</sup>\n\n= 2 × 1/16\n\n\n= 1/8",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -12188,6 +12236,22 @@
     "image": "",
     "answer": "d",
     "solution": "log<sub>2</sub> 8 – log<sub>3</sub> 1/9\n  = log<sub>2</sub> 2<sup>3</sup> – log<sub>3</sub> 9<sup>−1</sup>\n= log<sub>2</sub>2<sup>3</sup>\n – log<sub>3</sub> 3<sup>−2</sup>\n  Based on law of logarithm\n\n  = 3 log<sub>2</sub> 2 – (-2 log<sub>3</sub> 3)\n\n  Butlog<sub>2</sub> 2 = 1,\n\nlog<sub>3</sub> 3= 1\n\n  So, = 3 + 2\n\n  = 5",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 959,
+    "question": "\nThe table above shows the frequency of children age x years in a hospital\nx\t1\t2\t3\t4\t5\t6\t7\t8\ny\t3\t4\t5\t6\t7\t6\t5\t4\nHow many children are in the hospital",
+    "option": {
+      "a": "36",
+      "b": "40",
+      "c": "44",
+      "d": "50"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006493/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q41_shvtnl.jpg",
+    "answer": "b",
+    "solution": "The total number of students is ∑ f = 3 + 4 + 5 + 6 + 7 + 6 + 5 + 4\n\n= 40",
     "examtype": "utme",
     "examyear": "2018"
   },
