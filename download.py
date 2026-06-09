@@ -1,11 +1,12 @@
 """
-ALOC Question Downloader + Auto GitHub Push
---------------------------------------------
-- Loads API keys from accounts.json (all of them), falls back to .env
-- Downloads all subjects in parallel until exhausted
-- After each subject completes, pushes to GitHub via Personal Access Token
-- Run:  python download.py
-- Env:  GITHUB_TOKEN, GITHUB_REPO (owner/repo), GITHUB_BRANCH in .env
+ALOC Question Downloader — commits to GitHub after every round
+--------------------------------------------------------------
+- Loads API keys from accounts.json, falls back to .env
+- Downloads all 24 subjects in parallel
+- Every round that finds new questions → git commit + push immediately
+- You will see 1000+ commits in the repo as it runs
+- Run locally:  python download.py
+- In CI:        triggered by GitHub Actions workflow
 """
 
 import requests
@@ -13,28 +14,23 @@ import json
 import os
 import time
 import threading
-import socket
+import subprocess
 import base64
 import ctypes
 from dotenv import dotenv_values
 
 # ── Windows sleep/shutdown prevention ────────────────────────────────────────
 
-ES_CONTINUOUS      = 0x80000000
-ES_SYSTEM_REQUIRED = 0x00000001
-ES_DISPLAY_REQUIRED = 0x00000002
-
 def prevent_sleep():
     try:
-        ctypes.windll.kernel32.SetThreadExecutionState(
-            ES_CONTINUOUS | ES_SYSTEM_REQUIRED | ES_DISPLAY_REQUIRED
-        )
+        ES = 0x80000000 | 0x00000001 | 0x00000002
+        ctypes.windll.kernel32.SetThreadExecutionState(ES)
     except Exception:
-        pass  # non-Windows — ignore
+        pass
 
 def allow_sleep():
     try:
-        ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS)
+        ctypes.windll.kernel32.SetThreadExecutionState(0x80000000)
     except Exception:
         pass
 
@@ -54,54 +50,46 @@ def allow_shutdown():
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-SCRIPT_DIR   = os.path.dirname(os.path.abspath(__file__))
+SCRIPT_DIR    = os.path.dirname(os.path.abspath(__file__))
 ACCOUNTS_FILE = os.path.join(SCRIPT_DIR, "accounts.json")
 ENV_FILE      = os.path.join(SCRIPT_DIR, ".env")
 
 _env = dotenv_values(ENV_FILE)
 
-# Load API keys: accounts.json is the primary source
+
 def load_api_keys():
-    keys = []
     if os.path.exists(ACCOUNTS_FILE):
         try:
             with open(ACCOUNTS_FILE, encoding="utf-8") as f:
                 accounts = json.load(f)
-            # deduplicate by api_key value
-            seen = set()
+            seen, keys = set(), []
             for acc in accounts:
                 k = acc.get("api_key", "").strip()
                 if k and k not in seen:
                     keys.append(k)
                     seen.add(k)
             if keys:
-                print(f"[config] loaded {len(keys)} API keys from accounts.json")
+                print(f"[config] {len(keys)} API keys from accounts.json")
                 return keys
         except Exception as e:
-            print(f"[config] accounts.json read error: {e} — falling back to .env")
-
-    # fallback: read API_KEY_* from .env
+            print(f"[config] accounts.json error: {e} — falling back to .env")
     keys = [v for k, v in sorted(_env.items()) if k.startswith("API_KEY_")]
-    print(f"[config] loaded {len(keys)} API keys from .env")
+    print(f"[config] {len(keys)} API keys from .env")
     return keys
+
 
 API_KEYS = load_api_keys()
 if not API_KEYS:
-    raise RuntimeError("No API keys found in accounts.json or .env — run signup_bot.py first")
+    raise RuntimeError("No API keys found — run signup_bot.py first")
 
 HEADERS_LIST = [{"Accept": "application/json", "AccessToken": k} for k in API_KEYS]
 
-# GitHub config — from .env when running locally, from environment in Actions
-GITHUB_TOKEN  = os.environ.get("GITHUB_TOKEN")  or _env.get("GITHUB_TOKEN", "")
-GITHUB_REPO   = os.environ.get("GITHUB_REPO")   or _env.get("GITHUB_REPO", "")
+# Git config
+IN_ACTIONS    = os.environ.get("GITHUB_ACTIONS") == "true"
 GITHUB_BRANCH = os.environ.get("GITHUB_BRANCH") or _env.get("GITHUB_BRANCH", "master")
 
-# When running inside GitHub Actions the workflow commit step handles pushing,
-# so skip the per-file API push to avoid hitting secondary rate limits.
-IN_ACTIONS = os.environ.get("GITHUB_ACTIONS") == "true"
-
-BASE_URL   = "https://questions.aloc.com.ng/api/v2/q/5"
-OUTPUT_DIR = os.path.join(SCRIPT_DIR, "questions")
+BASE_URL      = "https://questions.aloc.com.ng/api/v2/q/5"
+OUTPUT_DIR    = os.path.join(SCRIPT_DIR, "questions")
 PROGRESS_FILE = os.path.join(SCRIPT_DIR, "progress.json")
 
 SUBJECTS = [
@@ -113,12 +101,11 @@ SUBJECTS = [
     "currentaffairs", "history", "insurance",
 ]
 
-MAX_ROUNDS   = 500
-NO_NEW_LIMIT = 40   # consecutive empty rounds before declaring done
-RATE_LIMIT   = 58   # requests per key per minute
-DELAY        = 0.05 # seconds between rounds
+MAX_ROUNDS        = 500
+NO_NEW_LIMIT      = 40    # consecutive empty rounds before declaring done
+RATE_LIMIT        = 58    # requests per key per minute
+DELAY             = 0.05  # seconds between rounds
 
-# Parallel requests per round per subject — scale with key count, cap at 30
 REQUESTS_PER_ROUND = max(1, min(30, len(API_KEYS) // len(SUBJECTS)))
 
 print(f"[config] {REQUESTS_PER_ROUND} parallel req/round per subject "
@@ -133,7 +120,6 @@ key_reset   = [time.time()] * len(API_KEYS)
 
 
 def pick_key():
-    """Round-robin across all keys; waits if all are rate-limited."""
     global current_key
     with key_lock:
         now = time.time()
@@ -141,17 +127,14 @@ def pick_key():
             if now - key_reset[i] >= 60:
                 key_counts[i] = 0
                 key_reset[i] = now
-
         for i in range(len(API_KEYS)):
             idx = (current_key + i) % len(API_KEYS)
             if key_counts[idx] < RATE_LIMIT:
                 key_counts[idx] += 1
                 current_key = (idx + 1) % len(API_KEYS)
                 return idx, HEADERS_LIST[idx]
-
-        # all keys exhausted — wait for earliest reset
         wait = 60 - (time.time() - min(key_reset))
-        print(f"  [rate limit] all keys used — waiting {wait:.0f}s")
+        print(f"  [rate limit] waiting {wait:.0f}s")
         time.sleep(max(wait, 1))
         for i in range(len(API_KEYS)):
             key_counts[i] = 0
@@ -159,10 +142,9 @@ def pick_key():
         key_counts[0] += 1
         return 0, HEADERS_LIST[0]
 
-# ── HTTP helpers ──────────────────────────────────────────────────────────────
+# ── HTTP fetch ────────────────────────────────────────────────────────────────
 
 def single_request(subject):
-    """One API call for a subject; returns list of valid questions."""
     idx, headers = pick_key()
     for attempt in range(6):
         try:
@@ -182,13 +164,12 @@ def single_request(subject):
                 continue
         except Exception as e:
             wait = min(2 ** attempt, 60)
-            print(f"  [{subject}] request error attempt {attempt+1}/6: {e} — retry in {wait}s")
+            print(f"  [{subject}] error attempt {attempt+1}/6: {e} — retry in {wait}s")
             time.sleep(wait)
     return []
 
 
 def parallel_fetch(subject):
-    """Fire REQUESTS_PER_ROUND requests concurrently; merge by ID."""
     results = [[] for _ in range(REQUESTS_PER_ROUND)]
 
     def fetch(i):
@@ -219,32 +200,28 @@ def get_file_lock(subject):
 
 
 def load_subject(subject):
-    """Load existing questions; returns (dict[id->q], set[ids])."""
     path = os.path.join(OUTPUT_DIR, f"{subject}.json")
     if not os.path.exists(path):
         return {}, set()
     try:
         with open(path, encoding="utf-8") as f:
             data = json.load(f)
-        # filter corrupt entries
         valid = [q for q in data if q.get("id") and q.get("question", "").strip()]
         removed = len(data) - len(valid)
         if removed:
-            print(f"  [{subject}] removed {removed} corrupt entries on load")
+            print(f"  [{subject}] removed {removed} corrupt entries")
         seen = {q["id"]: q for q in valid}
         return seen, set(seen.keys())
     except Exception as e:
         print(f"  [{subject}] file corrupt: {e} — starting fresh")
-        corrupt = path + ".corrupt"
         try:
-            os.replace(path, corrupt)
+            os.replace(path, path + ".corrupt")
         except Exception:
             pass
         return {}, set()
 
 
 def save_subject(subject, seen_dict):
-    """Atomic write: sort by id, write to .tmp, then replace."""
     path = os.path.join(OUTPUT_DIR, f"{subject}.json")
     tmp  = path + ".tmp"
     merged = sorted(seen_dict.values(), key=lambda q: int(q.get("id", 0)))
@@ -274,127 +251,65 @@ def save_progress(progress):
         except Exception as e:
             print(f"  [progress] save failed: {e}")
 
-# ── GitHub push via API ───────────────────────────────────────────────────────
+# ── Git commit + push ─────────────────────────────────────────────────────────
 
-github_push_lock = threading.Lock()
+git_lock = threading.Lock()
 
 
-def github_push_file(subject):
+def git_run(args):
+    """Run a git command, return (stdout, stderr, returncode)."""
+    result = subprocess.run(
+        ["git"] + args,
+        cwd=SCRIPT_DIR,
+        capture_output=True,
+        text=True,
+    )
+    return result.stdout.strip(), result.stderr.strip(), result.returncode
+
+
+def git_commit_and_push(subject, new_count, total):
     """
-    Push questions/{subject}.json to GitHub using the REST API.
-    Requires GITHUB_TOKEN, GITHUB_REPO, GITHUB_BRANCH in .env.
+    Stage questions/{subject}.json + progress.json and push a commit.
+    Serialised with git_lock so parallel subject threads don't race.
     """
-    if not GITHUB_TOKEN or not GITHUB_REPO:
-        return  # not configured — skip silently
+    with git_lock:
+        # pull first to avoid diverged history
+        git_run(["pull", "--rebase", "--autostash", "origin", GITHUB_BRANCH])
 
-    filepath = os.path.join(OUTPUT_DIR, f"{subject}.json")
-    if not os.path.exists(filepath):
-        return
+        # stage the changed files
+        git_run(["add",
+                 os.path.join("questions", f"{subject}.json"),
+                 "progress.json"])
 
-    try:
-        with open(filepath, "rb") as f:
-            content = base64.b64encode(f.read()).decode("utf-8")
-    except Exception as e:
-        print(f"  [github] read error for {subject}: {e}")
-        return
+        # check there's actually something staged
+        _, _, rc = git_run(["diff", "--cached", "--quiet"])
+        if rc == 0:
+            return  # nothing changed — skip
 
-    api_path = f"questions/{subject}.json"
-    url      = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{api_path}"
-    headers  = {
-        "Authorization": f"token {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github.v3+json",
-    }
+        msg = f"[{subject}] +{new_count} questions (total {total})"
+        _, err, rc = git_run(["commit", "-m", msg])
+        if rc != 0:
+            print(f"  [git] commit failed: {err}")
+            return
 
-    with github_push_lock:
-        # get current SHA (needed for updates)
-        sha = None
-        try:
-            r = requests.get(url, headers=headers,
-                             params={"ref": GITHUB_BRANCH}, timeout=15)
-            if r.status_code == 200:
-                sha = r.json().get("sha")
-        except Exception as e:
-            print(f"  [github] SHA fetch error for {subject}: {e}")
+        # push with retry
+        for attempt in range(3):
+            _, err, rc = git_run(["push", "origin", GITHUB_BRANCH])
+            if rc == 0:
+                print(f"  [git] committed: {msg}")
+                return
+            # another thread may have pushed first — rebase and retry
+            git_run(["pull", "--rebase", "--autostash", "origin", GITHUB_BRANCH])
+            time.sleep(2 * (attempt + 1))
 
-        # count questions for commit message
-        try:
-            count = len(json.loads(base64.b64decode(content)))
-        except Exception:
-            count = "?"
-
-        payload = {
-            "message": f"[download] {subject}: {count} questions",
-            "content": content,
-            "branch":  GITHUB_BRANCH,
-        }
-        if sha:
-            payload["sha"] = sha
-
-        try:
-            r = requests.put(url, headers=headers,
-                             json=payload, timeout=60)
-            if r.status_code in (200, 201):
-                print(f"  [github] pushed {subject}.json ({count} questions)")
-            else:
-                print(f"  [github] push failed for {subject}: {r.status_code} {r.text[:200]}")
-        except Exception as e:
-            print(f"  [github] push exception for {subject}: {e}")
-
-
-def github_push_progress():
-    """Push progress.json to GitHub."""
-    if not GITHUB_TOKEN or not GITHUB_REPO:
-        return
-
-    if not os.path.exists(PROGRESS_FILE):
-        return
-
-    try:
-        with open(PROGRESS_FILE, "rb") as f:
-            content = base64.b64encode(f.read()).decode("utf-8")
-    except Exception:
-        return
-
-    url     = f"https://api.github.com/repos/{GITHUB_REPO}/contents/progress.json"
-    headers = {
-        "Authorization": f"token {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github.v3+json",
-    }
-
-    with github_push_lock:
-        sha = None
-        try:
-            r = requests.get(url, headers=headers,
-                             params={"ref": GITHUB_BRANCH}, timeout=15)
-            if r.status_code == 200:
-                sha = r.json().get("sha")
-        except Exception:
-            pass
-
-        payload = {
-            "message": f"[download] update progress.json",
-            "content": content,
-            "branch":  GITHUB_BRANCH,
-        }
-        if sha:
-            payload["sha"] = sha
-
-        try:
-            requests.put(url, headers=headers, json=payload, timeout=30)
-        except Exception:
-            pass
+        print(f"  [git] push failed after 3 attempts: {err}")
 
 # ── Verification pass ─────────────────────────────────────────────────────────
 
 def verify_complete(subject, seen_ids):
-    """
-    Fire 5 more rounds after declaring done.
-    Returns True if genuinely exhausted, False if more questions found.
-    """
     for _ in range(5):
         data = parallel_fetch(subject)
-        new  = [q for q in data if q["id"] not in seen_ids]
-        if new:
+        if any(q["id"] not in seen_ids for q in data):
             return False
     return True
 
@@ -412,7 +327,6 @@ def _run_subject(subject, progress):
     seen_dict, seen_ids = load_subject(subject)
     total = len(seen_dict)
 
-    # skip if already marked done and has data
     subj_prog = progress.get(subject, {})
     if subj_prog.get("done") and total > 0:
         print(f"[{subject}] already complete ({total} questions) — skipping")
@@ -431,57 +345,61 @@ def _run_subject(subject, progress):
             for q in new:
                 seen_ids.add(q["id"])
                 seen_dict[q["id"]] = q
-            total += len(new)
+            total        += len(new)
             no_new_streak = 0
+
+            # save to disk
             save_subject(subject, seen_dict)
+
+            # update progress
+            with progress_lock:
+                progress[subject] = {"done": False, "total": total}
+            save_progress(progress)
+
             print(f"[{subject}] round {round_num}: +{len(new)} (total {total})")
+
+            # commit every round that has new questions
+            git_commit_and_push(subject, len(new), total)
+
         else:
             no_new_streak += 1
             print(f"[{subject}] round {round_num}: no new ({no_new_streak}/{NO_NEW_LIMIT})")
             if no_new_streak >= NO_NEW_LIMIT:
                 break
 
-        with progress_lock:
-            progress[subject] = {"done": False, "total": total}
-        save_progress(progress)
         time.sleep(DELAY)
 
-    # verification pass
+    # verification pass — keep going if API still has more
     print(f"[{subject}] verifying...")
-    truly_done = verify_complete(subject, seen_ids)
-
-    if not truly_done:
-        # API still has questions — keep going
-        print(f"[{subject}] verification found more — continuing")
-        _run_subject(subject, progress)  # tail-recurse for one more pass
+    if not verify_complete(subject, seen_ids):
+        print(f"[{subject}] more found — running another pass")
+        _run_subject(subject, progress)
         return
 
+    # mark done
     with progress_lock:
         progress[subject] = {"done": True, "total": total}
     save_progress(progress)
 
-    print(f"[{subject}] COMPLETE: {total} questions — pushing to GitHub...")
-    if not IN_ACTIONS:
-        github_push_file(subject)
-        github_push_progress()
-    print(f"[{subject}] done.")
+    # final commit for this subject
+    git_commit_and_push(subject, 0, total)
+    print(f"[{subject}] COMPLETE: {total} questions")
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    if not GITHUB_TOKEN:
-        print("[warning] GITHUB_TOKEN not set in .env — questions will be saved locally only")
-    if not GITHUB_REPO:
-        print("[warning] GITHUB_REPO not set in .env — e.g. GITHUB_REPO=yourname/yourrepo")
+    # configure git identity (needed inside GitHub Actions)
+    git_run(["config", "user.name",  "github-actions[bot]"])
+    git_run(["config", "user.email", "github-actions[bot]@users.noreply.github.com"])
 
     progress = load_progress()
 
     prevent_sleep()
     prevent_shutdown()
 
-    print(f"\nDownloading {len(SUBJECTS)} subjects with {len(SUBJECTS)} parallel threads...\n")
+    print(f"\nDownloading {len(SUBJECTS)} subjects — committing every round...\n")
 
     threads = [
         threading.Thread(target=process_subject, args=(s, progress), daemon=True)
@@ -495,12 +413,11 @@ if __name__ == "__main__":
     allow_sleep()
     allow_shutdown()
 
-    # final summary
     print("\n" + "=" * 55)
     print("FINAL RESULTS")
     print("=" * 55)
     for s in SUBJECTS:
-        info = progress.get(s, {})
+        info   = progress.get(s, {})
         status = "COMPLETE" if info.get("done") else "INCOMPLETE"
         print(f"  {s:<25} {info.get('total', 0):>6} questions  [{status}]")
     print("=" * 55)
