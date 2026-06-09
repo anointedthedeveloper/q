@@ -240,6 +240,22 @@
     "examyear": "2006"
   },
   {
+    "id": 23,
+    "question": "What is meant by the Christian doctrine that God is Trinity? ",
+    "option": {
+      "a": "the idea started in Trinidad and Tobago ",
+      "b": "God is three persons in one ",
+      "c": "God is omnipotent ",
+      "d": "God is the Holy Spirit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 24,
     "question": "He shall save his people from their sins. Who is being referred to here? ",
     "option": {
@@ -1280,6 +1296,22 @@
     "examyear": "2010"
   },
   {
+    "id": 116,
+    "question": "To whom was the body of Jesus Christ given for burial after His death? ",
+    "option": {
+      "a": "Nicodemus the Pharisee ",
+      "b": "Simon of Cyrene ",
+      "c": "Simon the disciple ",
+      "d": "Joseph of Arimathea."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 117,
     "question": "Paul was accused of apparently being a preacher of foreign divinities in Athens because he preached Jesus and the ",
     "option": {
@@ -2215,6 +2247,22 @@
       "b": "surprise him",
       "c": "capture him alive",
       "d": "dialogue with him"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 204,
+    "question": "Naboth would not give the vineyard to Ahab because it was",
+    "option": {
+      "a": "under cultivation",
+      "b": "inherited from his father",
+      "c": "better than Ahab’s offer",
+      "d": "undervalued by the king"
     },
     "section": "",
     "image": "",
@@ -3223,6 +3271,22 @@
       "b": "being rowed on the waters",
       "c": "floating on the water",
       "d": "being anchored safely"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 299,
+    "question": "God visited the children of Israel on Mount Sinai during the giving of  the commandments through",
+    "option": {
+      "a": "a storm",
+      "b": "mist and dew",
+      "c": "smoke and fire",
+      "d": "a still small voice"
     },
     "section": "",
     "image": "",
@@ -5504,6 +5568,22 @@
     "examyear": "2015"
   },
   {
+    "id": 510,
+    "question": "“The very stone which the builders rejected has become the head of the corner” The statement above in Peter was directed to those who",
+    "option": {
+      "a": "did not believe in Jesus’ preciousness",
+      "b": "built the Temple of Jerusalem",
+      "c": "don’t offer spiritual sacrifice",
+      "d": "are hard hearted against Jesus Christ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 511,
     "question": "A good example of parental responsibility was demonstrated by",
     "option": {
@@ -5755,6 +5835,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 532,
+    "question": "According to Paul in Philippians, Jesus demonstrated humility when He",
+    "option": {
+      "a": "had pity on the possessed man",
+      "b": "likened Himself to God",
+      "c": "forgave those who crucified Him",
+      "d": "took the form of man"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2015"
@@ -6215,6 +6311,22 @@
       "b": "Joel.",
       "c": "David.",
       "d": "Ezekiel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 578,
+    "question": "When the apostles in Jerusalem heard that Samaria had received the gospel, they sent to them",
+    "option": {
+      "a": "Mark and Barnabas.",
+      "b": "Peter and John.",
+      "c": "Paul and John.",
+      "d": "Peter and Paul."
     },
     "section": "",
     "image": "",
@@ -6747,6 +6859,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 629,
+    "question": "‘Truly, I say to you, today you will be with me in paradise.....’ Jesus made the statement above to one of the \t\tcriminals because he (Luke 23:42-43)",
+    "option": {
+      "a": "respected Him",
+      "b": "praised Him",
+      "c": "rebuked his partner",
+      "d": "was repentant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -8976,6 +9104,22 @@
     "examyear": "2010"
   },
   {
+    "id": 836,
+    "question": "In Philippians, Paul taught that Jesus’humility and death on the cross earned Him ",
+    "option": {
+      "a": "salvation for Israel. ",
+      "b": "adoption as son of Go ",
+      "c": "exaltation as Lord",
+      "d": "eternal life in the kingdom"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 837,
     "question": "Why did Paul wish to retain Onesimus?   ",
     "option": {
@@ -9120,6 +9264,22 @@
     "examyear": "2012"
   },
   {
+    "id": 847,
+    "question": "Moses asked God for a new leader for Israel so that lsrael might",
+    "option": {
+      "a": "have a shepherd",
+      "b": "conquer the Cannanites",
+      "c": "own the Promised land",
+      "d": "become a greater nation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 850,
     "question": "“Give meat for the priest to roast for he will not accept boiled meat from you, but raw”This request was wrong because in a peace offering",
     "option": {
@@ -9147,6 +9307,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 854,
+    "question": "After Saul’s death on Mount Gilboa, the Philistines",
+    "option": {
+      "a": "burnt his body near the tamarisk tree",
+      "b": "sent his head to Dagon their god",
+      "c": "made a sport of him at Bethshan",
+      "d": "buried his sons in a mass grave"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -9275,6 +9451,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 865,
+    "question": " Hosea described the relationship between God and Israel as",
+    "option": {
+      "a": "a covenant contract",
+      "b": "a marriage bond",
+      "c": "a marriage reunion",
+      "d": "an agreement bond"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -9664,6 +9856,22 @@
     "examyear": "2013"
   },
   {
+    "id": 894,
+    "question": "Which of the following was the first directive given to man after He had created him? ",
+    "option": {
+      "a": "Be fruitful and multiply, fill the earth and subdue ",
+      "b": "Go ye into the world and exercise full authority over ",
+      "c": "Be you kind to all creatures of the earth ",
+      "d": "Behold I have given you every plant yielding seed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 895,
     "question": "Joseph named his first son “Manasseh” because God made him ",
     "option": {
@@ -9753,6 +9961,22 @@
       "d": "alert and strengthen Nehemiah"
     },
     "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 907,
+    "question": "Jeremiah viewed the relationship between God and Israel in her youth to be that of ",
+    "option": {
+      "a": "compassion, sincerity and hope",
+      "b": "",
+      "c": "obedience, tolerance and mercy. ",
+      "d": "righteousness, kindness and zeal. "
+    },
+    "section": "loyalty, love and faithfulness",
     "image": "",
     "answer": "a",
     "solution": "",
@@ -10007,6 +10231,22 @@
       "b": "promote growth in diverse ways. ",
       "c": "lead to talent development. ",
       "d": "help the individual to be active"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 932,
+    "question": "The Philippians showed their solidarity with Paul while in prison by ",
+    "option": {
+      "a": "using Ephraphroditus to appeal for his release. ",
+      "b": "sending gifts to him through Ephaphroditus. ",
+      "c": "sending envoys from Corinth to defend him. ",
+      "d": "offering regular sacrifices on his behalf"
     },
     "section": "",
     "image": "",
@@ -11067,6 +11307,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1028,
+    "question": "Paul in Romans declared “for as by one man’s disobedience many were made sinners, so by one man’s obedience many  will be made...” ",
+    "option": {
+      "a": "innocent.                 ",
+      "b": "righteous.",
+      "c": "faithful.",
+      "d": "Christians"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
