@@ -2432,6 +2432,22 @@
     "examyear": "2005"
   },
   {
+    "id": 223,
+    "question": "According to Jesus, a good shepherd lays down his life for the sheep but a hireling",
+    "option": {
+      "a": "sells them off for personal profit",
+      "b": "abandons the sheep in the face of danger",
+      "c": "protects some of the sheep leaving others to danger",
+      "d": "asks for better pay before doing his work."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 224,
     "question": "The arrest of Jesus by his enemies was",
     "option": {
@@ -3856,6 +3872,22 @@
     "examyear": "2008"
   },
   {
+    "id": 356,
+    "question": "Solomon first applied wisdom granted to him by God at Gibeon by the",
+    "option": {
+      "a": "establishment of high places in Judah",
+      "b": "utterances of proverbs and parables",
+      "c": "marriage alliances with foreign nations",
+      "d": "judgment between the two harlots."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
     "id": 358,
     "question": "A good example of parental responsibility was demonstrated by",
     "option": {
@@ -4235,6 +4267,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
+    "id": 394,
+    "question": "In his letter to Philemon Paul did not ask him to",
+    "option": {
+      "a": "grant freedom to his slave Onesimus",
+      "b": "allow Onesimus become a servant of God",
+      "c": "forgive Onesimus for his earlier misbehaviour",
+      "d": "prepare a feast for him."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2008"
@@ -5392,6 +5440,22 @@
     "examyear": "2015"
   },
   {
+    "id": 506,
+    "question": "Paul in Thessalonians declared that at the second coming \tof the Lord, those who are alive will not precede those that are",
+    "option": {
+      "a": "ignorant",
+      "b": "condemned",
+      "c": "asleep",
+      "d": "faithful"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 507,
     "question": "When Ezekiel ate the scroll that was given to him his call. it signified that",
     "option": {
@@ -5435,6 +5499,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 511,
+    "question": "A good example of parental responsibility was demonstrated by",
+    "option": {
+      "a": "Samuel",
+      "b": "Eli",
+      "c": "Asa",
+      "d": "David"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2015"
@@ -6912,6 +6992,22 @@
     "examyear": "2011"
   },
   {
+    "id": 659,
+    "question": "One of the main features of Solomon’s prayer at the dedication of the Temple was the",
+    "option": {
+      "a": "celebration of God who is faithful to his covenant",
+      "b": "recognition that God loves sacrifices.",
+      "c": "assertion that God dwells in man-made houses.",
+      "d": "proclamation that no prayers be henceforth made outside the temple."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 660,
     "question": "In spite of Solomon’s apostasy, his empire remained intact until his death because",
     "option": {
@@ -7227,6 +7323,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 692,
+    "question": "James strongly condemned partiality in the Church for all the following reasons except that it",
+    "option": {
+      "a": "is contrary to Christ’s example of humility",
+      "b": "accords due respect to the rich who merit it.",
+      "c": "is a transgression of the commandment of God.",
+      "d": "does not harmonize with the Christian virtue of love."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -7664,6 +7776,22 @@
     "examyear": "2019"
   },
   {
+    "id": 734,
+    "question": "The accusation of blasphemy against Moses, the law and God was levied against _______",
+    "option": {
+      "a": "Stephen",
+      "b": "Peter and John",
+      "c": "Paul",
+      "d": "Philip"
+    },
+    "section": "",
+    "image": "",
+    "answer": " a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 735,
     "question": "St. James in the teaching on faith and work gave the analogy of ________",
     "option": {
@@ -7915,6 +8043,22 @@
     "section": "",
     "image": "",
     "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 755,
+    "question": "St James teaching on impartiality centers on_________",
+    "option": {
+      "a": "A Giving the place of the rich to the poor and in the church",
+      "b": "Loving our neighbours as ourselves in all situation",
+      "c": "The rich spending their wealth on the poor for social equity",
+      "d": "Christians not being partial to idle people"
+    },
+    "section": "",
+    "image": "",
+    "answer": " b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -9408,6 +9552,22 @@
     "examyear": "2012"
   },
   {
+    "id": 887,
+    "question": "\n Which of the following, accordings to James is an important\n factor for effective prayer?\n",
+    "option": {
+      "a": "Love",
+      "b": "Faith",
+      "c": "Hope",
+      "d": "Mercy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 888,
     "question": "Partially according to James is manifested in the Church through",
     "option": {
@@ -9547,6 +9707,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 901,
+    "question": "When Elijah’s sacrifice was consumed by fire at mount carmel the people reacted by saying",
+    "option": {
+      "a": "“Give God the glory",
+      "b": "“The Lord is God”.",
+      "c": "“Give thanks to the gods”.",
+      "d": "“The Lord is to be worshipped”."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -11051,6 +11227,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1046,
+    "question": "The names of the sons of Jacob listed in the book of Exodus excluded Joseph because ",
+    "option": {
+      "a": "Joseph was represented by his two sons ",
+      "b": "the Israelites thought Joseph had died ",
+      "c": "the list covered only those who came to Egypt with Jaco",
+      "d": "it was an oversight on the part of the writers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
