@@ -592,6 +592,22 @@
     "examyear": "2008"
   },
   {
+    "id": 59,
+    "question": "Theme is best defined as:  ",
+    "option": {
+      "a": "the subject – matter of a novel or play ",
+      "b": "the central idea in a play or novel  ",
+      "c": "the point of view in that novel  ",
+      "d": "the sum-total of all the characters’ experiences"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 62,
     "question": "The following line from a poem:  Western wind, when will thou blow? Is an example of: ",
     "option": {
@@ -912,6 +928,22 @@
     "examyear": "2009"
   },
   {
+    "id": 84,
+    "question": "Characterization is a novel means the ",
+    "option": {
+      "a": "list of characters featuring in it ",
+      "b": "peculiar materialisms of the narrator ",
+      "c": "mode of presenting the fictional individuals ",
+      "d": "list of those that act the novel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 85,
     "question": "Caricature is used to ",
     "option": {
@@ -1070,6 +1102,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 103,
+    "question": "The central  conflict in de Graft’s Sons and Daughter is primarily: ",
+    "option": {
+      "a": "political ",
+      "b": "generational ",
+      "c": "racial",
+      "d": "communal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
   },
   {
     "id": 104,
@@ -1856,6 +1904,22 @@
     "examyear": "2013"
   },
   {
+    "id": 178,
+    "question": "The stanza is an example of",
+    "option": {
+      "a": "appellation",
+      "b": "apostrophe",
+      "c": "euphemism",
+      "d": "elegy"
+    },
+    "section": "Pan, O great Pan, to thee'<br> \t\tThus do we sing!<br> \t\tThou who keep’st chaste and free<br> \t\tAs the young spring<br> \t\tEver be thy honour spake<br> \t\tFrom that place the morn is broke<br> \t\tTo the place day doth unyoke",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 180,
     "question": "The rhyme scheme of the stanza is",
     "option": {
@@ -2400,6 +2464,22 @@
     "examyear": "2010"
   },
   {
+    "id": 227,
+    "question": "Where does the play take place?",
+    "option": {
+      "a": "On the street",
+      "b": "In George’s place",
+      "c": "In Aunt’s house",
+      "d": "In Ofosu’s place"
+    },
+    "section": "Based on J.C. De Graft’s  \tSons and Daughter. ",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 229,
     "question": "The play is mostly written in",
     "option": {
@@ -2827,6 +2907,22 @@
     "section": "Based on William Shakespeare’s Romeo and Juliet.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 270,
+    "question": "The major reason for Juliet’s grief is",
+    "option": {
+      "a": "the death of her cousin",
+      "b": "her reluctant marriage to the County",
+      "c": "the banishment of her lover",
+      "d": "her imminent death."
+    },
+    "section": "Based on William Shakespeare’s Romeo and Juliet.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -4192,6 +4288,22 @@
     "examyear": "2016"
   },
   {
+    "id": 387,
+    "question": "In terms of physical location, Faceless is set in",
+    "option": {
+      "a": "Rumumasi",
+      "b": "Agbogbloshie",
+      "c": "Accra",
+      "d": "Kenya"
+    },
+    "section": "Question 26 is based on Amma Darko's Faceless",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 389,
     "question": "Walter says that he wants to partner up with his friends",
     "option": {
@@ -4331,6 +4443,22 @@
     "section": "Let me speak like yourself and Lay a sentence which, aas a grise or step may help these lovers when remedies are past, the griefs are ended, by seeing the worst which late on nopes depends. (Act I scene III)",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 406,
+    "question": "The expression \"Lay a sentence\" means",
+    "option": {
+      "a": "Decide who is guilty",
+      "b": "Offer criticism",
+      "c": "Give advice",
+      "d": "Speak politely"
+    },
+    "section": "Let me speak like yourself and Lay a sentence which, aas a grise or step may help these lovers when remedies are past, the griefs are ended, by seeing the worst which late on nopes depends. (Act I scene III)",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
@@ -4848,6 +4976,22 @@
     "examyear": "2018"
   },
   {
+    "id": 457,
+    "question": "He made the speech to ",
+    "option": {
+      "a": "Othello",
+      "b": "Lago",
+      "c": "Desdemona",
+      "d": "Cassion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 461,
     "question": "O my sweet implies",
     "option": {
@@ -5008,6 +5152,22 @@
     "examyear": "2018"
   },
   {
+    "id": 479,
+    "question": "Dramatis personae in a play refers to",
+    "option": {
+      "a": "List of characters",
+      "b": "Order of appearance",
+      "c": "Cast list",
+      "d": "Protagonist and antagonist"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 482,
     "question": "\"Dinner tonight comes with gun wounds. Our desert tongues lick the vegetable blood—the pepper\". The statement above implies.",
     "option": {
@@ -5131,6 +5291,38 @@
     "section": "Question 12 is based on Bayo Adewale's Lonely Days",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 495,
+    "question": "Richard Wright's \"Native son\". Bigger accuses Gus of being afraid to rob",
+    "option": {
+      "a": "Jack",
+      "b": "Dalton",
+      "c": "Blum",
+      "d": "Mary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 496,
+    "question": "Bigger kills and throws Mary Dalton's remains in the ",
+    "option": {
+      "a": "Lagoon",
+      "b": "Street",
+      "c": "Furnace",
+      "d": "Pit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
