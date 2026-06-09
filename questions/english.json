@@ -1729,6 +1729,25 @@
     "category": "others"
   },
   {
+    "id": 146,
+    "question": "b<u>ea</u>r",
+    "option": {
+      "a": "beer",
+      "b": "steer",
+      "c": "rare",
+      "d": "fear"
+    },
+    "section": "choose the option that has the same vowel sound as the one represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 153,
     "question": "The new Headmaster hoped that his men would pull together",
     "option": {
@@ -15637,6 +15656,25 @@
     "category": "others"
   },
   {
+    "id": 1646,
+    "question": "The nation is in a period of economic <i>flux</i>",
+    "option": {
+      "a": "modification",
+      "b": "change",
+      "c": "fluidity",
+      "d": "stability"
+    },
+    "section": "For this question, choose the option opposite in meaning to the word or phrase in italics ",
+    "image": "",
+    "answer": "d",
+    "solution": "<i>flux</i>; the action or process of flowing or flowing out.\n\nstability: the condition of being steady and not changing",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 34,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1647,
     "question": "Our son was highly active and <i>exuberant</i>",
     "option": {
@@ -16659,6 +16697,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1739,
+    "question": "<u>Z</u>oo",
+    "option": {
+      "a": "assault",
+      "b": "assist",
+      "c": "release",
+      "d": "please"
+    },
+    "section": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.",
+    "image": "",
+    "answer": "d",
+    "solution": "zoo; /zuː/\n\nplease; /pliːz/",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 52,
     "hasPassage": 0,
     "category": "others"
   },
