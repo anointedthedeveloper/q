@@ -5120,6 +5120,22 @@
     "examyear": "2005"
   },
   {
+    "id": 366,
+    "question": "The Venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only?",
+    "option": {
+      "a": "19",
+      "b": "6",
+      "c": "15",
+      "d": "4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702500/ALOC-Questions/Mathematics/2005/math_2005_q45_zzirbb.jpg",
+    "answer": "c",
+    "solution": "N (two games only) = 7 + 5 + 3 = 15",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 367,
     "question": "From the diagram given, find the bearing of R from S",
     "option": {
@@ -5468,6 +5484,22 @@
     "image": "",
     "answer": "d",
     "solution": " (K2)\n<sub>6</sub> * 3<sub>6</sub> = 3<sub>5</sub>(K4)<sub>5</sub>\nk*6<sup>1</sup>  + 2*6<sup>0</sup>  + 3*5<sup>0</sup>  = 3*5<sup>0</sup>  + K*5<sup>1</sup>  + 4*5<sup>0</sup> \n6K + 2 = 5K + 4\n6K - 5k = 4 - 2\nK = 2",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 390,
+    "question": "In a small village of 500 people, 350 speak the local language while 200 speak pidgin English. What percentage of the population speak both.",
+    "option": {
+      "a": "30%",
+      "b": "10%",
+      "c": " 50%",
+      "d": "14%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let n(L∩P) = x\nn(L) only = 350 - x\nn(P) only = 200 - x\n∴350 - x + x + 200 - x = 500\n550 - x = 500\nx = 550 - 500\nx = 50 speak both\n∴x% = (50/500) * (100/1)\n= 10%",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -14928,6 +14960,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1097,
+    "question": "If (x + 2) and (x - 1) are factors of the expression Lx+2kx<sup>2</sup>+24\n, find the values of L and k.",
+    "option": {
+      "a": "l = -12, k = -6",
+      "b": "l = -2 , k = 1",
+      "c": "l = -2 , k = -1",
+      "d": "l = 0, k = 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given (x + 2) and (x - 1), i.e. x = -2 or +1\n\nwhen x = -2\n\nL(-2) + 2k(-2)<sup>2</sup>  + 24 = 0\n\nf(-2) = -2L + 8k = -24...(i)\n\n\nAnd x = 1\nL(1) + 2k(1) + 24 = 0\n\n\nf(1):L + 2k = -24...(ii)\n\nSubst, L = -24 - 2k in eqn (i)\n\n-2(-24 - 2k) + 8k = -24\n\n+48 + 4k + 8k = -24\n\n12k = -24 - 48 = -72\n\nk = −72/12\nk = -6\n\nwhere L = -24 - 2k\n\nL = -24 - 2(-6)\n\nL = -24 + 12\n\nL = -12\n\nThat is; K = -6 and L = -12",
+    "examtype": " ",
+    "examyear": "2021"
+  },
+  {
     "id": 1099,
     "question": "Evaluate (101<sub>two</sub>)<sup>3</sup>",
     "option": {
@@ -16380,6 +16428,22 @@
     "image": "",
     "answer": "a",
     "solution": "gt<sup>2</sup> - k - w = 0\n\ngt<sup>2</sup> = k + w\n\ng = k + w/t<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1197,
+    "question": "Factorize 2y<sup>2</sup> - 15xy + 18x<sup>2</sup>",
+    "option": {
+      "a": " (2y - 3x) (y + 6x)",
+      "b": "(2y - 3x) (y - 6x)",
+      "c": "(2y + 3x) (y - 6x)",
+      "d": "(3y + 2x) (y - 6x)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2y<sup>2</sup> - 15xy + 18x<sup>2</sup>\n\n2y<sup>2</sup> - 12xy - 3xy + 18x<sup>2</sup>\n\n2y(y - 6x) - 3x(y - 6x)\n\n(2y - 3x) (y - 6x)",
     "examtype": "utme",
     "examyear": "2014"
   },
