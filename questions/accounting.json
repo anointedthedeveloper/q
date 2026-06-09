@@ -176,6 +176,22 @@
     "examyear": "2010"
   },
   {
+    "id": 18,
+    "question": "Trading account is prepared to ascertain ",
+    "option": {
+      "a": "Gross profit ",
+      "b": "Net profit ",
+      "c": "Gross profit or Gross loss ",
+      "d": " Net profit or net loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 20,
     "question": "  Prepaid wages is an item in the (i)Balance Sheet (ii) Profit and loss account (iii)Trading  account (iv) Cash account ",
     "option": {
@@ -283,6 +299,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 28,
+    "question": "Errors   revealed   by   the   trial   balance include error of:  ",
+    "option": {
+      "a": "Principle  ",
+      "b": "Single entry ",
+      "c": "Omission  ",
+      "d": "commission "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -1307,6 +1339,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 123,
+    "question": "At the end of a trading period, cost of goods sold is debited to the trading account while cost of services is        debited to the",
+    "option": {
+      "a": "balance sheet.",
+      "b": "manufacturing account.",
+      "c": "trading account.",
+      "d": "profit and loss account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -3776,6 +3824,22 @@
     "examyear": "2015"
   },
   {
+    "id": 320,
+    "question": "Which of the following is not a method of depreciating fixed assets?",
+    "option": {
+      "a": "Revaluation",
+      "b": "Straight line",
+      "c": "Diminishing balance",
+      "d": "Obsolescence"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 323,
     "question": "The process of using sales ledger balance to cancel off purchases ledger balance is",
     "option": {
@@ -5932,6 +5996,22 @@
     "image": "",
     "answer": "a",
     "solution": "Materiality states that only items of material values are recorded e.g. the cost of a stapler should not be capitalized but expensed just as kitchen cutlery.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 529,
+    "question": "When the invoice of a customer is overcast, the supplier will send to him a",
+    "option": {
+      "a": "debit note",
+      "b": "cheque",
+      "c": "credit note",
+      "d": "payment voucher"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A credit note is a letter sent by the supplier to the customer notifying the customer that he or she has been credited a certain amount due to an error in the original invoice or other reasons.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -14320,6 +14400,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1297,
+    "question": "<b>Use the information below to answer question 33 and 34</b>\n\nMaimalari Ltd had (i) Earning per share 47k\n(ii) Dividend per share 30k\n(iii) Par value of each share ₦1.20\n(iv) Market price per share ₦1.50\n\nThe company's earning yield is?",
+    "option": {
+      "a": "20.00%",
+      "b": "25.00%",
+      "c": "31.33%",
+      "d": "39.17%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The earnings yield is calculated as:\n\nEarnings Yield = Earnings per Share/Market Price per Share × 100%\n\nGiven:\n\nEarnings per share (EPS) = ₦0.47\n\nMarket price per share = ₦1.50\n\nEarnings Yield = 0.47/1.50 × 100% ≈ 31.33%",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1298,
     "question": "<b>Use the information below to answer question 33 and 34</b>\n\nMaimalari Ltd had (i) Earning per share 47k\n(ii) Dividend per share 30k\n(iii) Par value of each share ₦1.20\n(iv) Market price per share ₦1.50\n\nWhat will be the price earnings ratio of the company?",
     "option": {
@@ -14444,6 +14540,22 @@
     "image": "",
     "answer": "b",
     "solution": "Companies typically establish branches to support strategic objectives such as expanding operations, targeting new customer segments, or meeting legal/regulatory requirements, not simply to boost employee earnings.\n\nThat means they consider:\n\nMeet growth and diversification needs\n\nReach out to particular customers or markets\n\nComply with some regulatory directives\n\nThey do not set up branches primarily to increase employees’ income.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1310,
+    "question": "The channel through which all government borrowing and domestic lending transactions pass is called?",
+    "option": {
+      "a": "special trust fund",
+      "b": "agency fund",
+      "c": "national loan fund",
+      "d": "contingency fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The National Loan Fund serves as the central channel for all government borrowing and domestic lending transactions, ensuring that loans raised and lent by the government are properly accounted for in one consolidated fund.",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -14604,6 +14716,22 @@
     "image": "",
     "answer": "a",
     "solution": "The fundamental accounting equation is:\n\nAssets = Liabilities (Creditors’ claims) + Owners’ Equity\nA direct implication of this “unifying concept” is that if there are no creditors (liabilities = 0), then assets must equal owners’ equity.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1321,
+    "question": "A source document for the sales day book is?",
+    "option": {
+      "a": "a requisition form",
+      "b": "an invoice",
+      "c": "a customer advice",
+      "d": "a credit advice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Sales invoices provide the details of goods sold on credit and are the primary source for recording entries in the sales day book.",
     "examtype": "utme",
     "examyear": "1999"
   },
@@ -15676,6 +15804,22 @@
     "image": "",
     "answer": "c",
     "solution": "The key distinction is that a branch does not maintain its own retained earnings account; instead, its revenue and expense accounts are closed into the Branch Current Account with the head office.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1411,
+    "question": "The term fiscal compliance means?",
+    "option": {
+      "a": "all financial and related laws and regulations are adhered to",
+      "b": "only the budget fir the current period is complied with and no deficits allowed",
+      "c": "all physical assets requirements have been met",
+      "d": "fiscal planning is necessary for proper accountabilit in the public sector"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Fiscal compliance refers to the requirement that government entities (or any public-sector body) follow all applicable financial statutes, regulations, and procedural rules in their budgeting, spending, and reporting.",
     "examtype": "utme",
     "examyear": "199"
   },
