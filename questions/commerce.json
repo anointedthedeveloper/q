@@ -5856,6 +5856,22 @@
     "examyear": "2011"
   },
   {
+    "id": 386,
+    "question": "An example of a computer operating system is ",
+    "option": {
+      "a": "the pagemaker ",
+      "b": "the Word Perfect ",
+      "c": "Microsoft Word 2000",
+      "d": "Windows 2000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 387,
     "question": "Intranet differs from extranet in that the former ",
     "option": {
@@ -11547,6 +11563,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 769,
+    "question": "The temporary working area of the central processing unit is called the",
+    "option": {
+      "a": "C-D ROM",
+      "b": "C-D RAM",
+      "c": "ROM",
+      "d": "RAM."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
