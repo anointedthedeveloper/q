@@ -496,6 +496,22 @@
     "examyear": "2007"
   },
   {
+    "id": 45,
+    "question": "Which of the following equations is the correct one about Net National Product (NNP)? ",
+    "option": {
+      "a": "NNP= Gross National Product (GNP) - Depreciation ",
+      "b": "NNP=  Gross National product (GNP Net incomes from abroad ",
+      "c": "NNP= Gross Domestic product (GDP) – Deprecation ",
+      "d": "NNP = Gross Domestic product (GDP) – Net incomes from aboard"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 46,
     "question": "Middlemen in a economy perform the function of ",
     "option": {
@@ -1632,6 +1648,22 @@
     "examyear": "2013"
   },
   {
+    "id": 139,
+    "question": "For a perfectly competitive market, the shape of the --------- is horizontal while the ----------- is downward slopping  ",
+    "option": {
+      "a": "industry’s demand curve/industry’s supply curve  ",
+      "b": "firm’s supply curve/industry’s demand curve  ",
+      "c": "firm’s demand curve/industry’s demand curve  ",
+      "d": "industry’s demand curve/firm’s demand curve"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 140,
     "question": "Demand for money is: ",
     "option": {
@@ -1703,6 +1735,22 @@
       "b": "Decrease quantity demanded  ",
       "c": "Allowing price to fall towards equilibrium  ",
       "d": "Allowing price to rise towards equilibrium "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 145,
+    "question": "Identify one among the following which is NOT part of the objectives or functions of the African Development Bank (ADB). ",
+    "option": {
+      "a": "Provision of technical assistance for development projects   ",
+      "b": "Provision of funds for the supply and demand of infrastructural facilities  ",
+      "c": "Adoption of a common tariff policy for trade and development  ",
+      "d": "Provision of fund for agricultural development"
     },
     "section": "",
     "image": "",
@@ -3120,6 +3168,22 @@
     "examyear": "2010"
   },
   {
+    "id": 263,
+    "question": "Which of the following is not a reason for holding money?",
+    "option": {
+      "a": "Ostentation",
+      "b": "Speculation",
+      "c": "Transactions",
+      "d": "Precautionary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 264,
     "question": "The best way of combating demand-pull inflation is to",
     "option": {
@@ -3483,6 +3547,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 295,
+    "question": "The increase in population growth in big cities is referred to as",
+    "option": {
+      "a": "settlement",
+      "b": "migration",
+      "c": "industrialization",
+      "d": "Urbanization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -4240,6 +4320,22 @@
     "examyear": "2009"
   },
   {
+    "id": 363,
+    "question": "Occupational distribution of population determines the",
+    "option": {
+      "a": "size of a population available and willing to work",
+      "b": "population density of a place",
+      "c": "dependency ratio of a country",
+      "d": "size and categories of the labour force"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 365,
     "question": "When workers have a union, the supply of labour is said to be",
     "option": {
@@ -4704,6 +4800,22 @@
     "examyear": "2010"
   },
   {
+    "id": 406,
+    "question": "A disadvantage of Nigeria’s dependence on imported petroleum products is the",
+    "option": {
+      "a": "instability in the demand to the  products",
+      "b": "instability in the supply for the products",
+      "c": "dominance of multinational firms",
+      "d": "poor maintenance of the refineries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 407,
     "question": "The maximum number of shareholders  for a limited liability company is",
     "option": {
@@ -5131,6 +5243,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 440,
+    "question": "The shares which do not carry any fixed rate of dividend are known as",
+    "option": {
+      "a": "debentures",
+      "b": "cumulative preference shares",
+      "c": "ordinary shares",
+      "d": "participating preference shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2003"
@@ -6016,6 +6144,22 @@
     "examyear": "2005"
   },
   {
+    "id": 524,
+    "question": "The desire for goods without the ability to pay is called",
+    "option": {
+      "a": "choice",
+      "b": "effective demand",
+      "c": "joint demand",
+      "d": "wants"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 525,
     "question": "Amount of goods offered to the market at respective prices and presented in a table is called",
     "option": {
@@ -6480,6 +6624,22 @@
     "examyear": "2006"
   },
   {
+    "id": 560,
+    "question": "Most of the problems of economies arise as a result of",
+    "option": {
+      "a": "demands for scarce resource",
+      "b": "increase in  the demand for more goods and services.",
+      "c": "the desire of producers to supply more goods and services.",
+      "d": "the need to reduce the level of poverty."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 561,
     "question": "Which of the following tools of economic analysis is used when data contains more than one category?",
     "option": {
@@ -6535,6 +6695,22 @@
       "b": "an entrepreneur",
       "c": "an employer",
       "d": "a chairman"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 565,
+    "question": "If the fixed cost of a firm is 800 Naira and its variable cost is \t2,700 Naira while its total output is 100 units, what is the average cost of the firm?",
+    "option": {
+      "a": "25 Naira",
+      "b": "35 Naira",
+      "c": "45 Naira",
+      "d": "50 Naira"
     },
     "section": "",
     "image": "",
@@ -6859,6 +7035,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 597,
+    "question": "A mixed economy combines the characteristics of both",
+    "option": {
+      "a": "planned  and capitalist economics",
+      "b": "exchange subsistence economies",
+      "c": "subsistence and planned economies",
+      "d": "capitalist and exchange economics"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -7456,6 +7648,22 @@
     "examyear": "2007"
   },
   {
+    "id": 645,
+    "question": "A country whose economy is buoyant is likely to have",
+    "option": {
+      "a": "a weak currency",
+      "b": "devaluation from time to time",
+      "c": "a strong currency",
+      "d": "balance of payment problem"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
     "id": 646,
     "question": "The Net National Product (NNP) is Gross National Product (GNP) less",
     "option": {
@@ -7531,6 +7739,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 651,
+    "question": "International trade depends on the concept of",
+    "option": {
+      "a": "marginal cost advantage",
+      "b": "comparative cost disadvantage",
+      "c": "Comparative cost advantage",
+      "d": "absolute cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
