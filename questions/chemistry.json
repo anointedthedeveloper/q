@@ -256,6 +256,22 @@
     "examyear": "2001"
   },
   {
+    "id": 19,
+    "question": "A metal M displaces zinc from zinc chloride solution. This shows that",
+    "option": {
+      "a": "M is more electronegative than zinc",
+      "b": "Zinc is above hydrogen in the series",
+      "c": "M is more electropositive than zinc",
+      "d": "Electrons flow from zinc to M"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 20,
     "question": "Which of the following best explains the increase in the rate of a chemical reaction as the temperature rises",
     "option": {
@@ -4071,6 +4087,22 @@
       "b": "SO",
       "c": "NO",
       "d": "CO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 290,
+    "question": "A constituent common to moist air, it gradually rusts. This is due to the formation of",
+    "option": {
+      "a": "Silver",
+      "b": "Copper",
+      "c": "Tin",
+      "d": "Lead"
     },
     "section": "",
     "image": "",
