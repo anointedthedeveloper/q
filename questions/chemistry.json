@@ -1,0 +1,162 @@
+[
+  {
+    "id": 137,
+    "question": "A carcinogenic substance is",
+    "option": {
+      "a": "Asbestos dust",
+      "b": "Sawdust",
+      "c": "Nitrogen(II) oxide",
+      "d": "Carbon (II) oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 232,
+    "question": "The element with the electron configuration 1s22s22p3 is",
+    "option": {
+      "a": "Oxygen",
+      "b": "Chlorine",
+      "c": "Nitrogen",
+      "d": "Calcium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 351,
+    "question": "Which of the following gives a precipitation when treated with NaOH solution?",
+    "option": {
+      "a": "AlCl₃",
+      "b": "NH₄Cl",
+      "c": "Na₂CO₃",
+      "d": "CH₃COONa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "AlCl₃ reacts with NaOH to form aluminium hydroxide, Al(OH)₃, a white gelatinous precipitate: AlCl₃ + 3NaOH → Al(OH)₃↓ + 3NaCl. NH₄Cl produces ammonia gas (not a precipitate), while Na₂CO₃ and CH₃COONa are fully soluble in NaOH.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 456,
+    "question": "According to Charles' law, the volume of a gas becomes zero at",
+    "option": {
+      "a": "0°C",
+      "b": "-100°C",
+      "c": "-273°C",
+      "d": "-373°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Charles' Law states V ∝ T (in Kelvin). Extrapolating the V-T graph to V = 0 gives T = 0 K, which corresponds to -273°C (absolute zero). At this theoretical temperature, an ideal gas would have zero volume.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 637,
+    "question": "SO₂ + O₂ → 2SO₃. In the reaction above, the most suitable catalyst is?",
+    "option": {
+      "a": "chromium(vi)oxide",
+      "b": "iron(iii)oxide",
+      "c": "copper(i)oxide",
+      "d": "vanadium(v)oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The conversion of SO₂ to SO₃ is the key step in the Contact Process for manufacturing sulphuric acid. The catalyst used in this reaction is vanadium(V) oxide (V₂O₅). It operates at approximately 450°C and increases the rate of oxidation of SO₂ to SO₃ without being consumed in the overall reaction.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 733,
+    "question": "The quantity of electricity required to deposit 180g of Ag from a molten silver trioxonitrate(V) is [Ag = 108]",
+    "option": {
+      "a": "1.08F",
+      "b": "3.30F",
+      "c": "1.67F",
+      "d": "1.80F"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Ag⁺ + e⁻ → Ag. One Faraday deposits 1 mole (108g) of Ag. Moles of Ag = 180 ÷ 108 = 1.667 mol. Faradays required = 1.667 × 1 = 1.67F.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 743,
+    "question": "The ions responsible for permanent hardness in water are sulphates of",
+    "option": {
+      "a": "Fe³⁺ and Mg²⁺",
+      "b": "Ca²⁺ and Mg²⁺",
+      "c": "Fe²⁺ and Fe³⁺",
+      "d": "Na⁺ and Ca²⁺"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Permanent hardness in water is caused by dissolved calcium sulphate (CaSO₄) and magnesium sulphate (MgSO₄) — the sulphate salts of Ca²⁺ and Mg²⁺. Unlike temporary hardness caused by bicarbonates, permanent hardness cannot be removed by boiling. It requires treatment with washing soda (Na₂CO₃) or ion exchange to remove the Ca²⁺ and Mg²⁺ ions.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 749,
+    "question": "The group VIII elements are the inert gases because they",
+    "option": {
+      "a": "have lone pair of electrons on their valence shells",
+      "b": "all have completely filled valence shells",
+      "c": "are all solids",
+      "d": "are all polyatomic molecules"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Noble gases (Group VIII/Group 18) are chemically inert because their outermost electron shells are completely filled. Helium has 2 electrons (full 1s²), and the rest have 8 electrons in their outermost shell (ns²np⁶), achieving stable octet configurations. This complete filling leaves no tendency to gain, lose, or share electrons, making them unreactive. They are not solids at room temperature and exist as monoatomic gases.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 763,
+    "question": "The acid used in making baking soda and soft drink is",
+    "option": {
+      "a": "tartaric acid",
+      "b": "fatty acid",
+      "c": "boric acid",
+      "d": "citric acid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Citric acid is used as a flavoring and preservative in soft drinks, and reacts with sodium bicarbonate in baking powder to produce CO₂ for leavening. It is the common acid in both applications.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 770,
+    "question": "2X + 2HCl → 2XCl + H₂. In the equation above, X is",
+    "option": {
+      "a": "K",
+      "b": "Mg",
+      "c": "Ca",
+      "d": "Ba"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The product XCl shows X forms a monovalent chloride, meaning X has a valency of 1. Among the options, only K (potassium) is monovalent. Mg, Ca, and Ba are divalent and would form XCl₂, not XCl.",
+    "examtype": "utme",
+    "examyear": "2025"
+  }
+]
