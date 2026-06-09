@@ -1264,6 +1264,22 @@
     "examyear": "2013"
   },
   {
+    "id": 87,
+    "question": "A petty cashier received a float of GHc 120 and spent GHc 84. The imprest is",
+    "option": {
+      "a": "GHc 204.",
+      "b": "GHc 120.",
+      "c": "GHc 84.",
+      "d": "GHc 36."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 88,
     "question": "Which of the following is not a book of original entry?",
     "option": {
@@ -7291,6 +7307,22 @@
     "section": "Given: Balance as per cash book [N20,000 ]; Unpresented cheques [N 5,200 ]; Direct credit to the bank [\t  N 1,000 ]; \tDirect debit from the bank [N 1,000 ]; Credit in the cash book [N 500 ]",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 488,
+    "question": "Determine the capital of the business",
+    "option": {
+      "a": "N 9,400",
+      "b": "N 6,000",
+      "c": "N 3,400",
+      "d": "N 3,000"
+    },
+    "section": "Use the information to answer question: Total current assets [N2,000 ]; Total fixed assets [N 4,000 ]; Current liabilities [N 1,200 ]; Drawings [N 200 ]; Long-term loan \t[N 2,000 ]",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -15708,6 +15740,22 @@
     "image": "",
     "answer": "c",
     "solution": "The Financial Memorandum is a guideline or manual used mainly by local governments in Nigeria to regulate their financial management, accounting procedures, and internal controls. It ensures uniformity and accountability in the handling of public funds at the local government level.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1059,
+    "question": "Musa merchants Trading and profit and Loss Account for the year ended Dec.31st, 2003\n\nDetermine the closing stock",
+    "option": {
+      "a": "₦20 000",
+      "b": "₦30, 000",
+      "c": "₦40 000",
+      "d": "₦50,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661614/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q45_g8xt1v.jpg",
+    "answer": "b",
+    "solution": "Given information:\n\nOpening stock (1/1/2003) = ₦60,000\nPurchases = ₦80,000\nGoods available for sale = ₦150,000\nSales = ₦290,000\nGross profit = ₦180,000\nCost of goods sold = ?\n\nStep 1: Calculate Cost of Goods Sold\nGross Profit = Sales - Cost of goods sold\n₦180,000 = ₦290,000 - Cost of goods sold\nCost of goods sold = ₦290,000 - ₦180,000 = ₦110,000\nStep 2: Calculate Closing Stock\nCost of goods sold = Opening stock + Purchases - Closing stock\n₦110,000 = ₦60,000 + ₦80,000 - Closing stock\n₦110,000 = ₦140,000 - Closing stock\nClosing stock = ₦140,000 - ₦110,000 = ₦30,000",
     "examtype": "utme",
     "examyear": "2005"
   },
