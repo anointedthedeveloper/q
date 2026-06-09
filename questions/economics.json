@@ -704,6 +704,22 @@
     "examyear": "2009"
   },
   {
+    "id": 96,
+    "question": "The most popularly adopted industrialization strategy in West African ",
+    "option": {
+      "a": "import substitution ",
+      "b": "Export promotion ",
+      "c": "parts development ",
+      "d": "infant industries potation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 97,
     "question": "The basic concepts of Economics are ",
     "option": {
@@ -1856,6 +1872,22 @@
     "examyear": "2001"
   },
   {
+    "id": 216,
+    "question": "One of the functions of money is",
+    "option": {
+      "a": "double coincidence of wants",
+      "b": "unit of account",
+      "c": "indivisibility",
+      "d": "making payments through banks only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 220,
     "question": "The situation in which there is a persistent fall in the general price level is referred to as",
     "option": {
@@ -2215,6 +2247,22 @@
       "b": "collective bargaining",
       "c": "display of placards",
       "d": "legal action"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 255,
+    "question": "Which of the following does not explain why a school principal earns more salary than a school messenger?",
+    "option": {
+      "a": "Length of training",
+      "b": "Demand and Supply",
+      "c": "Cost of training",
+      "d": "The messenger is a non-teaching staff"
     },
     "section": "",
     "image": "",
@@ -2832,6 +2880,22 @@
     "examyear": "2009"
   },
   {
+    "id": 326,
+    "question": "A supply curve is positively sloped because",
+    "option": {
+      "a": "supply always exceeds demand",
+      "b": "demand always exceeds supply",
+      "c": "price is an incentive to consumers",
+      "d": "price is an incentive to producers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 327,
     "question": "The short-run supply curve for medical doctors is more  likely to be",
     "option": {
@@ -2891,6 +2955,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 334,
+    "question": "Which of the following can be deduced from law of variable proportions when total output is rising?",
+    "option": {
+      "a": "MP is greater than AP",
+      "b": "MP is less than AP",
+      "c": "MP is equal to AP",
+      "d": "MP is equal to zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 337,
+    "question": "The supply curve of a perfectly competitive firm is identical to its",
+    "option": {
+      "a": "total cost",
+      "b": "marginal cost",
+      "c": "fixed cost",
+      "d": "variable cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -3159,6 +3255,22 @@
       "b": "N = 1.00",
       "c": "N = 0.40",
       "d": "N = 2.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 380,
+    "question": "A set of  factors that can shift the supply curve are changes in",
+    "option": {
+      "a": "weather, price and technology",
+      "b": "technology, price and taste",
+      "c": "technology, weather and population",
+      "d": "population, price and taste"
     },
     "section": "",
     "image": "",
@@ -4240,6 +4352,22 @@
     "examyear": "2004"
   },
   {
+    "id": 498,
+    "question": "Taxes levied on commodities are",
+    "option": {
+      "a": "direct taxes",
+      "b": "indirect taxes",
+      "c": "poll taxes",
+      "d": "investment taxes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
     "id": 500,
     "question": "International trade is an application of the principle of",
     "option": {
@@ -4624,6 +4752,22 @@
     "examyear": "2005"
   },
   {
+    "id": 548,
+    "question": "When the value of a nation’s exports is greater than its imports",
+    "option": {
+      "a": "a favourable balance of trade exists",
+      "b": "an unfavourable balance of payment exists",
+      "c": "the net foreign trade is zero",
+      "d": "inflation occurs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 549,
     "question": "To improve the balance of payments position of West African countries, there must be",
     "option": {
@@ -4768,6 +4912,22 @@
     "examyear": "2006"
   },
   {
+    "id": 563,
+    "question": "Mining is an example of",
+    "option": {
+      "a": "tertiary production",
+      "b": "primary production",
+      "c": "secondary production",
+      "d": "advanced production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 567,
     "question": "A movement along the same demand curve either upwards \tor downwards as a result of changes in price implies",
     "option": {
@@ -4859,6 +5019,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 574,
+    "question": "In the normal market situation, when the price of a commodity rises, the",
+    "option": {
+      "a": "demand for the commodity will rise",
+      "b": "demand for the commodity will fall",
+      "c": "supply of the commodity will be constant",
+      "d": "Supply of the commodity will fall."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -5483,6 +5659,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 653,
+    "question": "The practice of selling goods overseas and often below the cost of production is known as",
+    "option": {
+      "a": "retailing",
+      "b": "dumping",
+      "c": "internal trade",
+      "d": "advertising"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"
