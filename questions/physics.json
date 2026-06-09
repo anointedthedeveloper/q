@@ -4448,6 +4448,22 @@
     "examyear": "2018"
   },
   {
+    "id": 286,
+    "question": "Which of the following best describes the energy changes which take place when a steam engine drives a generator which lights a lamp?",
+    "option": {
+      "a": "heat ----> Light----> Sound ----> Kinetic",
+      "b": "Kinetic ----> Light ----> Heat ----> Electricity",
+      "c": "heat ----> Kinetic ----> Electricity ----> Heat and Light",
+      "d": "electricity ----> Kinetic ----> Heat ----> Light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The steam engine uses the Heat supplied from steam to supply kinetic energy into the generator which converts it to electricity to light the lamp, the lamp gives out light and heat as it works",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 287,
     "question": "Cathode rays are",
     "option": {
