@@ -160,6 +160,22 @@
     "examyear": "2006"
   },
   {
+    "id": 15,
+    "question": "If a map has a scale of 1:50,000 and a cocoa plantation is represented on the map by a rectangle 4cm by 3cm, what is the area of the plantation?  ",
+    "option": {
+      "a": "3 sq. km  ",
+      "b": "30 sq. km  ",
+      "c": "12 sq. km  ",
+      "d": "20 sq. km"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 16,
     "question": "The gap between two ranges within which transportation is usually possible in a mountainous regions is called  ",
     "option": {
@@ -167,6 +183,22 @@
       "b": "Col  ",
       "c": "ridge  ",
       "d": "Spur"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 17,
+    "question": "What are greenhouse gasses?  ",
+    "option": {
+      "a": "Gases found around green houses in botanical gardens  ",
+      "b": "Gases which are able to trap heat on the earth surface  ",
+      "c": "Gases which help global circulation of winds and plants it growths  ",
+      "d": "Gases which help farmers grow certain crops during the dry seasons"
     },
     "section": "",
     "image": "",
@@ -928,6 +960,22 @@
     "examyear": "2009"
   },
   {
+    "id": 77,
+    "question": "Which of the following basins has the highest population concentration? the ",
+    "option": {
+      "a": "Indus  ",
+      "b": "Niger  ",
+      "c": "Nile  ",
+      "d": "Mississippi "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 78,
     "question": "Which of these economic activities is LEAST characteristics of typical urban centres?  ",
     "option": {
@@ -1248,6 +1296,38 @@
     "examyear": "2010"
   },
   {
+    "id": 99,
+    "question": "The cloud which is closely associated with thunderstorms is  ",
+    "option": {
+      "a": "strato-cumulus  ",
+      "b": "Cirrocumulus  ",
+      "c": "Cumulus-nimbus  ",
+      "d": "Alto-stratus "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 100,
+    "question": "Drought-tolerant plants are  ",
+    "option": {
+      "a": "Epiphytes  ",
+      "b": "Hydrophytes  ",
+      "c": "Droughytes  ",
+      "d": "Xerophytes "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 101,
     "question": "Campos is the name for the grassland in  ",
     "option": {
@@ -1371,6 +1451,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 110,
+    "question": "Which of the following continents is crossed by both the Tropic of Cancer and Tropic of Capricorn?  ",
+    "option": {
+      "a": "Asia  ",
+      "b": "South America ",
+      "c": "North America  ",
+      "d": "Africa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -1678,6 +1774,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 140,
+    "question": "The earth’s atmosphere is said to be stable  ",
+    "option": {
+      "a": "when the environmental laps rate is greater than the adiabatic lapse rate  ",
+      "b": "When the adiabatic lapse rate is greater than the environmental lapse rate  ",
+      "c": "When the environmental lapse rate is equal to the adiabatic lapse rate  ",
+      "d": "When the environmental lapse rate is not equal to the adiabatic lapse rate."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 141,
@@ -4683,6 +4795,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 392,
+    "question": "Weber's theory of industrial location was based on ",
+    "option": {
+      "a": "Nearness to source of power",
+      "b": "Least transportation cost",
+      "c": "Nearness to raw materials",
+      "d": "Nearness to market"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
