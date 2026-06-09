@@ -5376,6 +5376,22 @@
     "examyear": "2019"
   },
   {
+    "id": 342,
+    "question": "Which of the following equations is the correct definition of the reactance of an indicator L?",
+    "option": {
+      "a": "Reactance = (Amplitude of voltage) ÷\n (Amplitude of current)",
+      "b": "Reactance = (Amplitude of voltage) × (Amplitude of current)",
+      "c": "Reactance = (Amplitude of current)² ÷ (Amplitude of voltage)",
+      "d": "Reactance = (Amplitude of current)² ÷ (Amplitude of voltage)½"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reactance = (Amplitude of voltage) ÷ (Amplitude of current)\nThe reactance of an inductor is defined as the ratio of the amplitude of voltage to the amplitude of current.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 343,
     "question": "Ripple in a power supply unit is caused by",
     "option": {
