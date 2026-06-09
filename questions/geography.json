@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "The earth rotates through 150 of longitude once in  ",
+    "option": {
+      "a": "a minute  ",
+      "b": "an hour  ",
+      "c": "24 hours  ",
+      "d": "a day"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 2,
     "question": "Aeolian erosion refers to the work of ",
     "option": {
@@ -592,6 +608,22 @@
     "examyear": "2008"
   },
   {
+    "id": 49,
+    "question": "The Stevenson’s screen is used to keep  ",
+    "option": {
+      "a": "barometer   ",
+      "b": "thermometers  ",
+      "c": "hygrometers  ",
+      "d": "evapori meters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 50,
     "question": "Global Positioning Systems (GPS) help in  ",
     "option": {
@@ -1099,6 +1131,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 83,
+    "question": "Blantyre, Rio Janeiro, New York and Lagos are similar in that they all serves as their countries ",
+    "option": {
+      "a": "major seaport  ",
+      "b": "political headquarter ",
+      "c": "commercial centres ",
+      "d": "cultural centres"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -1696,6 +1744,22 @@
     "examyear": "2011"
   },
   {
+    "id": 124,
+    "question": "A degree of latitudinal distance is approximately  ",
+    "option": {
+      "a": "111km  ",
+      "b": "221KM ",
+      "c": " 121km  ",
+      "d": "212km  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 125,
     "question": "Which of the following places in Nigeria has the highest mean annual rainfall amount ",
     "option": {
@@ -2283,6 +2347,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 174,
+    "question": "The major disadvantage of the River Nile as a trade route is that  ",
+    "option": {
+      "a": "it is too long   ",
+      "b": "it is too shallow   ",
+      "c": "it flows during the wet season only   ",
+      "d": "it has several cataracts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -3456,6 +3536,38 @@
     "examyear": "2016"
   },
   {
+    "id": 267,
+    "question": "The rock of the basement complex are generally referred to as",
+    "option": {
+      "a": "Sedimentary formation",
+      "b": "Volcanic rocks",
+      "c": "Younger granites",
+      "d": "Older granites"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 268,
+    "question": "The rock with least carbon content is",
+    "option": {
+      "a": "Lignite",
+      "b": "Coal",
+      "c": "Marble",
+      "d": "Bitumen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 269,
     "question": "One of the steel rolling mills in Nigeria is located at",
     "option": {
@@ -3595,6 +3707,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 281,
+    "question": "Tourists are attracted to the East African countries of Kenya and Tanzania mainly by the",
+    "option": {
+      "a": "Famous political leaders",
+      "b": "Rich wildlife of the park grasslands",
+      "c": "Numerous cultural and the great rift valley",
+      "d": "Beautiful mountains and the great rift valley"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
@@ -3787,6 +3915,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 297,
+    "question": "In terms of both the area of land cultivated and the volume of production, the most important cereal crop in Nigeria is",
+    "option": {
+      "a": "Guinea Corn",
+      "b": "Rice",
+      "c": "Maize",
+      "d": "Millet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
@@ -4827,6 +4971,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 374,
+    "question": "Urban settlements in West Africa function mainly as",
+    "option": {
+      "a": "Cultural and religious centres",
+      "b": "Market towns and commercial centres",
+      "c": "Administrative capitals",
+      "d": " Industrial centres"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
