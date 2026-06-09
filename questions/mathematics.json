@@ -2816,6 +2816,22 @@
     "examyear": "2002"
   },
   {
+    "id": 193,
+    "question": "The sum to infinity of the series: 1 + (1/3) + (1/9) + (1/27) + ... Is",
+    "option": {
+      "a": "11/3",
+      "b": "10/3",
+      "c": "5/2",
+      "d": " 3/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "S<sub>∞</sub> = a/1−r\n \n= 1/(1−1/3)\n= 1/(2/3)\n= 3/2",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 194,
     "question": "If x varies directly as √n and x = 9 when n = 9, find x when n = (17/9)",
     "option": {
@@ -6268,6 +6284,22 @@
     "image": "",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 418,
+    "question": "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals",
+    "option": {
+      "a": "2NQ",
+      "b": "NQ",
+      "c": "1/4NQ",
+      "d": "1/2NQ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "PN = NQ",
     "examtype": "utme",
     "examyear": "2006"
   },
