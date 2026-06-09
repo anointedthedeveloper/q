@@ -4624,6 +4624,22 @@
     "examyear": "2015"
   },
   {
+    "id": 330,
+    "question": "Which of the following types of alkanols undergo oxidation to produce alkanoic acids?",
+    "option": {
+      "a": "I, II and III",
+      "b": "I and II only",
+      "c": "III only",
+      "d": "I only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Only primary alkanols (I) are oxidized to produce alkanoic acids. Primary alkanols oxidize first to aldehydes, then to carboxylic (alkanoic) acids. Secondary alkanols oxidize to ketones (not acids), and tertiary alkanols resist oxidation.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 331,
     "question": "Rare gases are stable because they",
     "option": {
@@ -5584,6 +5600,22 @@
     "examyear": "2016"
   },
   {
+    "id": 402,
+    "question": "From the diagram above, an ideal gas can be represented by",
+    "option": {
+      "a": "K",
+      "b": "M",
+      "c": "L",
+      "d": "N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636456/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q48_bczgfu.png",
+    "answer": "d",
+    "solution": "An ideal gas obeys Boyle's Law perfectly: PV = constant, meaning V is inversely proportional to P, giving a straight horizontal line when plotted as PV vs P. Curve N is the flat horizontal line in the diagram, representing a gas that shows no deviation from ideal behaviour across all pressures. Real gases (K, L, M) show deviations — dipping below or rising above the ideal line.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 403,
     "question": "CH₄(g) + Cl₂(g) → CH₂Cl(s) + HCl(g). The major factor that influences the rate of the reaction above is",
     "option": {
@@ -6476,6 +6508,22 @@
     "image": "",
     "answer": "d",
     "solution": "Sulphur is used in the production of matches. The match head contains sulphur (along with potassium chlorate, KClO₃, and other compounds) which ignites when struck due to the friction-induced oxidation of sulphur. Red phosphorus is also used in the striking surface of safety matches.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 465,
+    "question": "Which of the following gases may not be dried with concentrated sulphuric acid?",
+    "option": {
+      "a": "HCl(g)",
+      "b": "NH₃",
+      "c": "Cl₂",
+      "d": "SO₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Concentrated H₂SO₄ is an acidic drying agent. NH₃ is an alkaline gas and reacts with concentrated H₂SO₄ to form ammonium sulphate: 2NH₃ + H₂SO₄ → (NH₄)₂SO₄. It therefore cannot be dried with it. HCl, Cl₂, and SO₂ are acidic or neutral gases that do not react with concentrated H₂SO₄ and can be dried by it.",
     "examtype": "utme",
     "examyear": "2018"
   },
