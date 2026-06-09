@@ -128,6 +128,22 @@
     "examyear": "2008"
   },
   {
+    "id": 70,
+    "question": "Josiah’s reign was popular because of his ",
+    "option": {
+      "a": "Allies ",
+      "b": "victory ",
+      "c": "violence ",
+      "d": "reforms"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 71,
     "question": "Where did Paul cure a slave girl who had a spirit of divination? ",
     "option": {
@@ -142,6 +158,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
+  },
+  {
+    "id": 76,
+    "question": "Before Moses died. God appointed ………. to succeed him ",
+    "option": {
+      "a": "Aaron ",
+      "b": "Balaam",
+      "c": "Joshua ",
+      "d": "Manasseh "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   },
   {
     "id": 85,
@@ -256,6 +288,22 @@
     "examyear": "2010"
   },
   {
+    "id": 119,
+    "question": "“It is not the sound of shouting for victory, or the sound of the cry of defeat, but the sound of singing that I hear” When was this statement made? ",
+    "option": {
+      "a": "at the consecration of the Israelites ",
+      "b": "at the crossing of the Red Sea ",
+      "c": "during the fall of Jericho ",
+      "d": "in a strange worship of a god"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 125,
     "question": "True religion, according to Amos’ submission, is the one in which  ",
     "option": {
@@ -267,6 +315,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 129,
+    "question": "One of the following  is not correct about the order of creation in the Creation Stories ",
+    "option": {
+      "a": "the evening came before the morning ",
+      "b": "darkness came before light",
+      "c": "animals were created before man ",
+      "d": "the morning came before the evening"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -315,6 +379,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 157,
+    "question": "One of the following was not among the decisions reached at the Council of Jerusalem concerning the Gentiles who became Christians:  ",
+    "option": {
+      "a": "That Gentiles should obtain from what has been sacrificed to idols  ",
+      "b": "The Gentiles should abstain from blood  ",
+      "c": "That Gentiles should abstain from what is strangled ",
+      "d": "That Gentiles should abstain from love of the world "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 158,
+    "question": "“Thy glory, O Israel upon thy high places! How are the mighty fallen! Tell it not in the streets of Ashkelon… How  are the mighty fallen in the midst of the battle!” The above dirge was written by David when  ",
+    "option": {
+      "a": "He killed Goliath  ",
+      "b": "Uriah the Hittite died  ",
+      "c": "Saul and Jonathan died  ",
+      "d": "Abner was killed by Joab"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -416,6 +512,86 @@
     "examyear": "2005"
   },
   {
+    "id": 208,
+    "question": "Nebuchadnezzar punished those who refused to worship the golden image by throwing them into",
+    "option": {
+      "a": "the River Nile",
+      "b": "the rivers of  Babylon",
+      "c": "a furnace",
+      "d": "a lion’s den"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 213,
+    "question": "The message of Amos was mainly about",
+    "option": {
+      "a": "the love of God",
+      "b": "man’s response to God’s love.",
+      "c": "the holiness of God",
+      "d": "social justice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 240,
+    "question": "Paul taught the Colossians that the relationship between wives and their husbands should be as",
+    "option": {
+      "a": "is fitting in the Lord",
+      "b": "the culture demands",
+      "c": "is written in the law",
+      "d": "the husband commands"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 248,
+    "question": "According to Galatians, one of the benefits of being a joint heir with Christ is having His Spirit in",
+    "option": {
+      "a": "worship",
+      "b": "the heart",
+      "c": "the body",
+      "d": "prayers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 261,
+    "question": "The baptism of Jesus by John in River Jordan was to",
+    "option": {
+      "a": "convince others that John was His forerunner",
+      "b": "ensure that proper baptism must be in a river",
+      "c": "service as an example",
+      "d": "fulfil all righteousness."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 264,
     "question": "“Unbind him, and let him go.” The statement was made by Jesus when",
     "option": {
@@ -459,6 +635,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 279,
+    "question": "David was anointed king over Judah at",
+    "option": {
+      "a": "Zuph",
+      "b": "Bethlehem",
+      "c": "Hebron",
+      "d": "Gibeon."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 292,
+    "question": "In addition to the declaration of freedom to the exiles in Babylon, King Cyrus ordered for",
+    "option": {
+      "a": "free will offering for the house of God in Jerusalem",
+      "b": "the release of Jewish, slaves in the empire",
+      "c": "security check on the Jews before departure",
+      "d": "support from craftsmen in Babylon."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -512,6 +720,22 @@
     "examyear": "2011"
   },
   {
+    "id": 328,
+    "question": "‘Blessed are you, Simon Bar-Jona ! For flesh and blood has not revealed this to you...’ As exemplified by the statement above, for believers to be able to identify with Jesus, they must",
+    "option": {
+      "a": "offer their lives",
+      "b": "be led by the Spirit",
+      "c": "keep all the commandments",
+      "d": "vow not to deny Him."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 330,
     "question": "The tearing of the curtain of the Temple into two at the death of Jesus signifies",
     "option": {
@@ -560,6 +784,22 @@
     "examyear": "2011"
   },
   {
+    "id": 347,
+    "question": "The land, the sea and vegetation were created on the",
+    "option": {
+      "a": "first day",
+      "b": "second day",
+      "c": "third day",
+      "d": "fifth day."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
     "id": 364,
     "question": "In spite of Israel’s faithlessness, Jeremiah saw a ray of hope for them if only they should",
     "option": {
@@ -571,6 +811,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
+    "id": 365,
+    "question": "Jesus came to John at River Jordan to",
+    "option": {
+      "a": "proclaim himself as Messiah",
+      "b": "disclose himself to John",
+      "c": "call some of John’s disciples",
+      "d": "receive baptism like others."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2008"
@@ -631,6 +887,38 @@
       "b": "inspiration, tambourines and prophets",
       "c": "dreams, urim and prophets",
       "d": "lyre, urim and prophets."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 411,
+    "question": "The book of the law was found in the house of the LORD during the reign of king",
+    "option": {
+      "a": "Josiah",
+      "b": "Ahab",
+      "c": "Omri",
+      "d": "Hezekiah."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 412,
+    "question": "King Josiah was killed by Pharaoh Neco in a battle at",
+    "option": {
+      "a": "Syria",
+      "b": "Meggiddo",
+      "c": "Megiddo",
+      "d": "Egypt."
     },
     "section": "",
     "image": "",
@@ -736,6 +1024,38 @@
     "examyear": "2009"
   },
   {
+    "id": 483,
+    "question": "Paul wished to retain Onesimus with him but did not do so because",
+    "option": {
+      "a": "Onesimus was unwilling to stay with him.",
+      "b": "he was afraid of Philemon’s reaction.",
+      "c": "he did not like such a favour to be imposed on Philemon.",
+      "d": "Onesimus would soon be released from jail."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 495,
+    "question": "During the election to replace Judas among the twelve, Peter quoted from the book of",
+    "option": {
+      "a": "Joel.",
+      "b": "Psalms.",
+      "c": "Isaiah.",
+      "d": "Ezekiel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
     "id": 496,
     "question": "What was Herod’s reaction when he heard the news about Jesus’ birth?",
     "option": {
@@ -784,6 +1104,22 @@
     "examyear": "2015"
   },
   {
+    "id": 550,
+    "question": "How old was Joshua before he died?",
+    "option": {
+      "a": "95 years",
+      "b": "98 years",
+      "c": "110 years",
+      "d": "111 years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 566,
     "question": "From Luke’s account of the baptism of Jesus, which of the following happened before the voice was heard?",
     "option": {
@@ -795,6 +1131,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 567,
+    "question": "Before their first encounter with Jesus, Peter and Andrew were",
+    "option": {
+      "a": "preachers.",
+      "b": "tax collectors.",
+      "c": "fishermen.",
+      "d": "tent makers."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -843,6 +1195,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 606,
+    "question": "David’s behaviour after Prophet Nathan accused him of murder and adultery showed his",
+    "option": {
+      "a": "justification",
+      "b": "repentance",
+      "c": "greed",
+      "d": "righteousness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 613,
+    "question": "After the dedication of the Temple, Ezra studied the law of the LORD in order to",
+    "option": {
+      "a": "defend the Jews against the Babylonians",
+      "b": "become the first judge in Jerusalem",
+      "c": "enhance his prophetic status",
+      "d": "teach His statutes and ordinances in Israel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -903,6 +1287,22 @@
       "b": "Solomon",
       "c": ".         \nDavid",
       "d": "Ahijah."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 670,
+    "question": "Peter called for the construction of three booths for Jesus, Moses and Elijah, respectively during",
+    "option": {
+      "a": "the transfiguration.",
+      "b": "the Ascension.",
+      "c": "Jesus’ arrest.",
+      "d": "the Passover feast."
     },
     "section": "",
     "image": "",
@@ -976,6 +1376,22 @@
     "examyear": "2019"
   },
   {
+    "id": 719,
+    "question": "Jeremiah prophesied God's punishment of the Israelites because they had_______",
+    "option": {
+      "a": "Compromised his worship",
+      "b": "Committed atrocities with their neighbors' wives",
+      "c": "Trampled on the needy",
+      "d": "No belief in his message"
+    },
+    "section": "",
+    "image": "",
+    "answer": " a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 725,
     "question": "Jesus charged Christians to express love just as________",
     "option": {
@@ -1003,6 +1419,54 @@
     "section": "",
     "image": "",
     "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 739,
+    "question": "St. Paul showed commitment as a means upon which forgiveness can effectively thrive by_______",
+    "option": {
+      "a": "Appealing to Philemon to forgive Onesimus and accept him back as brother",
+      "b": "Asking that Philemon to Charge to his account whatever Onesimus owed",
+      "c": "Converting Onesimus",
+      "d": "Instructing Philemon to write off all the debts of Onesimus, if any compassionately"
+    },
+    "section": "",
+    "image": "",
+    "answer": " b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 740,
+    "question": "The triumphal entry was in fulfilment of the prophecy of_______",
+    "option": {
+      "a": "Isaiah",
+      "b": "Amos",
+      "c": "Zechariah",
+      "d": "Elijah"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 741,
+    "question": "\"I gave you cleanness of teeth in all your cities\". By this statement, God gave them ______",
+    "option": {
+      "a": "New set of teeth",
+      "b": "No food to eat",
+      "c": "No water to drink",
+      "d": "No teeth at all"
+    },
+    "section": "",
+    "image": "",
+    "answer": " b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -1054,6 +1518,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 802,
+    "question": "Solomon told Hiram, King of Tyre, that he had decided to ",
+    "option": {
+      "a": "the Lord had given him peace and all good things. ",
+      "b": "his father, David, never intended to build one",
+      "c": "C he wanted to force Hiram to come to his ai",
+      "d": "C he wanted to force Hiram to come to his ai"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
   },
   {
     "id": 804,
@@ -1131,6 +1611,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 857,
+    "question": "Ahab revealed his disregard for the law when he",
+    "option": {
+      "a": "got married to Jezebel",
+      "b": "persecuted the prophets of lsrael",
+      "c": "appropriated the vineyard of Naboth",
+      "d": "refused to listen to Naboth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -1264,6 +1760,22 @@
     "examyear": "2011"
   },
   {
+    "id": 950,
+    "question": "What reasons were put forward by the Israelites in asking for a king? ",
+    "option": {
+      "a": "The age of Samuel and the conduct of his sons",
+      "b": "The conduct of Samuel and the strength of the Philistines",
+      "c": "The age of Samuel and the conduct of Eli",
+      "d": "The conduct of Samuel and the age of his sons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 962,
     "question": "All the following took place at the transfiguration of Jesus except that",
     "option": {
@@ -1371,6 +1883,22 @@
     "section": "      ",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1086,
+    "question": "As they were sharing Christ’s sufferings, Peter advised Christians to",
+    "option": {
+      "a": "be prayerful       ",
+      "b": "rejoice       ",
+      "c": "be trustful ",
+      "d": "persevere"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
