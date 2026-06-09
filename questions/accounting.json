@@ -3648,6 +3648,22 @@
     "examyear": "2015"
   },
   {
+    "id": 307,
+    "question": "Assets acquired is recorded by debiting",
+    "option": {
+      "a": "Asset Account, crediting Cash Account",
+      "b": "Cash Account, crediting Asset Account",
+      "c": "Purchase of Business Account, crediting Sale of Business Account",
+      "d": "Asset Account, crediting Purchase of business Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 308,
     "question": "Goods returned to a supplier is",
     "option": {
@@ -4187,6 +4203,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 379,
+    "question": "An example of input device of a computer is",
+    "option": {
+      "a": "an optical character reader",
+      "b": "a graph plotter",
+      "c": "a visual display unit",
+      "d": "printer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -7872,6 +7904,22 @@
     "examyear": "2018"
   },
   {
+    "id": 705,
+    "question": "Why should a new partner contribute towards goodwill on his admission?",
+    "option": {
+      "a": "It is a norm",
+      "b": "to ensure new partner also have a stake in the business",
+      "c": "the firm into which he is entering already has some goodwill in the market",
+      "d": "to purchase the business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Goodwill is being paid by a new partner because the partnership he is entering into already has goodwill in the market as well as to pay for the portion sacrificed by existing partners in form to their profit to admit the new partner.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 706,
     "question": "The rent expense for Trendy store is ₦3500. Trendy store has three departments; jewelry, hair dressing, and clothing. The floor spaces occupied by the departments are 3:2:5 respectively. What is the rent allocated to clothing department?",
     "option": {
@@ -8080,6 +8128,22 @@
     "examyear": "2019"
   },
   {
+    "id": 735,
+    "question": "Given the following manufacturing information: stock of finished goods on January 1st was ₦50,640 and on December 31st was ₦71,380; stock of raw materials on January 1st was ₦32,160 and on December 31st was ₦29,640; purchase of raw materials was ₦145,000; manufacturing wages were ₦52,000; depreciation on factory equipment was ₦16,500; direct expenses were ₦12,500; factory fuel cost ₦7,000; and carriage inwards on raw materials was ₦7,000, what is the cost of raw materials consumed?",
+    "option": {
+      "a": "₦154,520.",
+      "b": "₦53,000",
+      "c": "₦150,000",
+      "d": "₦152,120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To calculate the cost of raw materials consumed, use the formula:\nCost of Raw Materials Consumed = Opening Stock of Raw Materials + Purchases + Carriage Inwards - Closing Stock of Raw Materials\nCalculation:\nCost of Raw Materials Consumed = ₦32,160 + ₦145,000 + ₦7,000 - ₦29,640\nCost of Raw Materials Consumed = ₦184,160 - ₦29,640 = ₦154,520\nTherefore, the cost of raw materials consumed is ₦154,520.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 737,
     "question": "A fall or decrease in the economic service potential of an asset as a result of wear, tear and obsolescence is referred to as",
     "option": {
@@ -8284,6 +8348,22 @@
     "image": "",
     "answer": "d",
     "solution": "The profit and loss account also known as Income statement is prepared to ascertain the net profit. The net profit is ascertain when the expenses is deducted from the Gross Profit.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 759,
+    "question": "Discount received is charge to",
+    "option": {
+      "a": "current account",
+      "b": "profit and loss",
+      "c": "rading account",
+      "d": "balance sheet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Discount received is treated as income to the business hence it is credited to the profit and loss.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -9632,6 +9712,22 @@
     "examyear": "2022"
   },
   {
+    "id": 878,
+    "question": "The major distinguishing element between the final account of a partnership and that of a sole trader is the",
+    "option": {
+      "a": "drawing A/C",
+      "b": "capital A/C",
+      "c": "Creditor A/C",
+      "d": "Appropriation A/C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The major distinguishing element between partnership and sole trader final accounts is the Appropriation Account.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 881,
     "question": "The medium that enables the ATM to read the account details and process transaction directly with the account held in the bank is the?",
     "option": {
@@ -10110,6 +10206,22 @@
     "solution": "Contigency fund is established by the constitution of 1979 to take care of any nation disaster or unforeseen circumstances.",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 925,
+    "question": "The amount by which assets exceeds liabilities is",
+    "option": {
+      "a": "capital",
+      "b": "premium",
+      "c": "bonus",
+      "d": "provision"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Owner's equity (also known as shareholder's equity or capital) represents the remaining value that belongs to the company's owners after all liabilities are settled. It essentially reflects the net worth of the business from th owners' perspective.",
+    "examtype": "utme",
+    "examyear": "2024"
   },
   {
     "id": 926,
@@ -13484,6 +13596,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665949/ALOC-Questions/Accounting/UTME/2001/Accounting_JAMB_2001_Q17-18_tvdlto.png",
     "answer": "a",
     "solution": "(1) Stock valuation method used:\nLooking at the pattern of unit prices and amounts:\n\nJan. 1: 100 units at ₦5.00 each = ₦500.00\nJan. 5: 50 units at ₦6.00 each = ₦300.00\nJan. 7: Issue of 40 units at ₦6.00 each = ₦240.00 (using the most recent purchase price)\nJan. 10: 50 units at ₦4.00 each = ₦200.00\nJan. 15: Issue of 50 units at ₦4.00 each = ₦200.00 (using the most recent purchase price)\n\nThe stock valuation method used is LIFO (Last In, First Out) because the issues are priced at the most recent purchase prices.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1232,
+    "question": "<b>Use the information below to answer questions 17 and 18.</b> \n\nThe value of x is",
+    "option": {
+      "a": "₦560.00",
+      "b": "₦5.00",
+      "c": "₦5.50",
+      "d": "₦6.00"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665949/ALOC-Questions/Accounting/UTME/2001/Accounting_JAMB_2001_Q17-18_tvdlto.png",
+    "answer": "a",
+    "solution": "To find x, Calculate the balance after Jan. 15:\nStock movements:\n\nJan. 1: 100 units (₦500.00)\nJan. 5: +50 units (₦300.00) = 150 units total\nJan. 7: -40 units (₦240.00) = 110 units remaining\nJan. 10: +50 units (₦200.00) = 160 units total\nJan. 15: -50 units (₦200.00) = 110 units remaining\n\nRemaining stock composition:\n\n100 units at ₦5.00 = ₦500.00\n10 units at ₦6.00 = ₦60.00\nTotal = 110 units worth ₦560.00\n\nTherefore, x = ₦560.00",
     "examtype": "utme",
     "examyear": "2001"
   },
