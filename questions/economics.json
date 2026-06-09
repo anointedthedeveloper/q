@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 22,
+    "question": "Economic freedom is brought about by the existence of ",
+    "option": {
+      "a": "Government ",
+      "b": "Money ",
+      "c": "Availability of Credit ",
+      "d": "choice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 23,
     "question": "The only essential attribute of the good currency is ",
     "option": {
@@ -256,6 +272,22 @@
     "examyear": "2009"
   },
   {
+    "id": 87,
+    "question": "Economics of scale operates only when ",
+    "option": {
+      "a": "Marginal cost is falling with output fixed cost is variable ",
+      "b": "fixed cost is variable ",
+      "c": "variable cost is less than fixed cost ",
+      "d": "variable cost is equal to cost of output."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 92,
     "question": "A major factor affecting the value of money is the: ",
     "option": {
@@ -379,6 +411,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 168,
+    "question": "If the production possibilities, curve were a straight down sloping line, this would suggest that: ",
+    "option": {
+      "a": "it is possible to produce  more of both products ",
+      "b": "resources are perfectly shift able between the production  of these two goods ",
+      "c": "both products are equally capable of satisfying consumer wants ",
+      "d": "the two products have identical price."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -1168,6 +1216,22 @@
     "examyear": "2005"
   },
   {
+    "id": 543,
+    "question": "The central bank controls credit in the economy through the use of",
+    "option": {
+      "a": "legal tender",
+      "b": "travelers cheque",
+      "c": "foreign exchange instruments",
+      "d": "open market operations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 552,
     "question": "Mono-product economies are those that",
     "option": {
@@ -1179,6 +1243,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 558,
+    "question": "Which of the following is not an objective of the \n\tOrganization of Petroleum Exporting Countries (OPEC)?",
+    "option": {
+      "a": "Stabilization of oil prices",
+      "b": "Co-ordinating oil prices",
+      "c": "Harmonizing oil prices",
+      "d": "Stagnation of developed economies."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
