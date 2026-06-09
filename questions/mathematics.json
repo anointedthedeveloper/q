@@ -3984,6 +3984,22 @@
     "examyear": "2003"
   },
   {
+    "id": 269,
+    "question": "The result of tossing a fair die 120 times is \nsummarized above. Find the value of x",
+    "option": {
+      "a": "21",
+      "b": "19",
+      "c": "22",
+      "d": "20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 270,
     "question": "If π/≤ 2π, find the maximum value of f(θ) = 4/6 + 2 \ncos θ",
     "option": {
@@ -12428,6 +12444,22 @@
     "image": "",
     "answer": "d",
     "solution": "The locus of points at a fixed distance from the point P is a circle with the given P at its centre.\n\nThe locus of points at a fixed distance from the point Q is a circle with the given point Q at its centre\n\nThe locus of points equidistant from two points P and Q i.e line PQ is the perpendicular bisector of the segment determined by the points\n\nHence, The locus of a point which is equidistant from the line PQ forms a perpendicular line to PQ",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 881,
+    "question": "Given the quadrilateral RSTO inscribed in the circle with O as centre. Find the size angle x and given RST = 60°",
+    "option": {
+      "a": "100o",
+      "b": "140°",
+      "c": "120°",
+      "d": "10°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005763/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q13_ynoyk0.jpg",
+    "answer": "c",
+    "solution": "If RST = 60°\n\nRXT = 2 × RST\n\n(angle at the centre twice angle at the circumference)\n\nRXT = 2 × 60\n\n= 120°",
     "examtype": "utme",
     "examyear": "2017"
   },
