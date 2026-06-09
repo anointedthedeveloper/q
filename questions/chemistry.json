@@ -12144,6 +12144,22 @@
     "examyear": "2025"
   },
   {
+    "id": 764,
+    "question": "NH₃(g) + HCl(g) → NH₄Cl(g). In the reaction above, increase in pressure will",
+    "option": {
+      "a": "lower the equilibrium constant",
+      "b": "favour the product",
+      "c": "favour the reactant",
+      "d": "increase the equilibrium constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "By Le Chatelier's principle, increased pressure favours the side with fewer moles of gas. Reactants have 2 moles of gas (NH₃ + HCl) while the product has 1 mole (NH₄Cl). Increased pressure therefore shifts equilibrium to the right, favouring the product. The equilibrium constant is unaffected by pressure.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 765,
     "question": "The compound CH₃CH(NH₂)CH₂CH₂CH₃ is an example of a",
     "option": {
