@@ -240,6 +240,22 @@
     "examyear": "2006"
   },
   {
+    "id": 17,
+    "question": "The interior angles of a pentagon are: 180o, 118o, 78o, 84o and  x. The value of x is: ",
+    "option": {
+      "a": "80o ",
+      "b": "108o  ",
+      "c": "120o  ",
+      "d": "134o"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 18,
     "question": "All the vertices of an isosceles triangle lie on a circle and each of the base angles  of the triangle is 65o. The angle subtended at the centre of the circle by the base of the triangle is: ",
     "option": {
@@ -10524,6 +10540,22 @@
     "image": "",
     "answer": "c",
     "solution": "PQ = y<sub>1</sub> − y<sub>0</sub>/(x<sub>1</sub> − x<sub>0</sub>)\n = −3−(−7)/−2−5\n = −3 + 7/−2−5\n = 4/−7",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 746,
+    "question": "The distance between the point (4, 3) and the intersection of y = 2x + 4 and y = 7 - x is",
+    "option": {
+      "a": "√13",
+      "b": "3√2",
+      "c": "√26",
+      "d": "10√5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "P<sub>1</sub> (4, 3), P<sub>2</sub> (x, y)\n\ny = 2x + 4 .....(1)\n\ny = 7 - x .....(2)\n\nSubstitute (2) in (1)\n\n7 - x = 2x + 4\n\n7 - 4 = 2x + x\n\n3 = 3x\n\nx = 1\n\nSubstitute in eqn (2)\n\ny = 7 - x\n\ny = 7 - 1\n\ny = 6\n\nP<sub>2</sub> (1, 6)\n\nDistance between 2 points is given as\n\nD =√ (x<sub>2</sub>−x<sub>1</sub>)<sup>2</sup>+(y<sub>2</sub> − y<sub>1</sub>)\n\n\nD = √(1−4)<sup>2</sup>+(6−3)<sup>2</sup>\n\n\nD = √(−3)<sup>2</sup>+(3)<sup>2</sup>\n\n\nD = √9+9\n\n\nD = √18\n\n\nD = √9×2\n\n\nD = 3√2",
     "examtype": "utme",
     "examyear": "2012"
   },
