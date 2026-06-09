@@ -1440,6 +1440,22 @@
     "examyear": "2010"
   },
   {
+    "id": 100,
+    "question": "Deborah was a judge when Israel was under the yoke of ",
+    "option": {
+      "a": "Moab ",
+      "b": "Midian ",
+      "c": "Canaan ",
+      "d": "Philistine"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 101,
     "question": "The treatment of those  bitten by fiery serpent was to ",
     "option": {
@@ -8736,6 +8752,22 @@
     "examyear": "2010"
   },
   {
+    "id": 622,
+    "question": "‘Depart from me, for l am a sinful man, oh Lord.’ This statement was uttered by Peter at the",
+    "option": {
+      "a": "last supper",
+      "b": "garden of Gethsemane",
+      "c": "call of the disciples",
+      "d": "transfiguration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 623,
     "question": "The impact of Jesus’ miracle of turning water into wine was that the",
     "option": {
@@ -10160,6 +10192,22 @@
     "examyear": "2019"
   },
   {
+    "id": 733,
+    "question": "Peter advised Christians to _______as they were sharing Christ's sufferings",
+    "option": {
+      "a": "Be Prayerful",
+      "b": "Rejoice",
+      "c": "Persevere",
+      "d": "Be Steadfast"
+    },
+    "section": "",
+    "image": "",
+    "answer": " b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 734,
     "question": "The accusation of blasphemy against Moses, the law and God was levied against _______",
     "option": {
@@ -10496,6 +10544,22 @@
     "examyear": "2019"
   },
   {
+    "id": 756,
+    "question": "The name \"Jezreel\" is a representation of ______",
+    "option": {
+      "a": "Hosea's discontent with his wife",
+      "b": "Victory upon the enemies of Israel",
+      "c": "The Punishment to come unto the royal house",
+      "d": "The broken covenant between God and Israel"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 758,
     "question": "Abraham's faith was reckoned to him as righteousness'. This underscores St Paul's admonition that ______",
     "option": {
@@ -10587,6 +10651,22 @@
     "section": "",
     "image": "",
     "answer": " a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 764,
+    "question": "Cleopas' heart burnt within him on the road to Emmaus when Jesus ________",
+    "option": {
+      "a": "Appeared to them",
+      "b": "Broke bread with them",
+      "c": "Taught them the scriptures",
+      "d": "Walked with them"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -12795,6 +12875,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 917,
+    "question": "In his Transfiguration, Jesus took with him ",
+    "option": {
+      "a": "Peter, James and Andrew. ",
+      "b": "Andrew, Peter and John. ",
+      "c": "Matthew, James and Peter. ",
+      "d": "James, John and Peter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
