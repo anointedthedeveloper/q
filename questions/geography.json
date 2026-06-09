@@ -32,6 +32,22 @@
     "examyear": "2006"
   },
   {
+    "id": 5,
+    "question": "Which of the following statements is not true for lines of latitude?  ",
+    "option": {
+      "a": "they form parallel circles   ",
+      "b": "they range from 00 to 1800 N and S  ",
+      "c": "only one line is also a Great Circle ",
+      "d": "They form parallel circles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 8,
     "question": " Which of these does not lie in the principal earthquake region of the world? ",
     "option": {
@@ -672,6 +688,22 @@
     "examyear": "2008"
   },
   {
+    "id": 62,
+    "question": "Which of the following rivers does NOT drain into Atlantic Ocean? ",
+    "option": {
+      "a": "The Niger  ",
+      "b": "The Indus  ",
+      "c": "The Amazon  ",
+      "d": "The Volta"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 64,
     "question": "The greatest challenge to future use of automobiles is  ",
     "option": {
@@ -1056,6 +1088,22 @@
     "examyear": "2010"
   },
   {
+    "id": 91,
+    "question": "The world’s longest river is ",
+    "option": {
+      "a": "Amazon  ",
+      "b": "Mississippi  ",
+      "c": "Nile  ",
+      "d": "Chang Jiang"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 92,
     "question": "One of these is a features of rejuvenated river: ",
     "option": {
@@ -1191,6 +1239,22 @@
       "b": "Lunar eclipse ",
       "c": "solar eclipse  ",
       "d": "eclipse of the earth "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 103,
+    "question": "The earth rotates ",
+    "option": {
+      "a": "South East-South West  ",
+      "b": "South West South West  ",
+      "c": "West East  ",
+      "d": "East West"
     },
     "section": "",
     "image": "",
@@ -2752,6 +2816,22 @@
     "examyear": "2016"
   },
   {
+    "id": 252,
+    "question": "The appropriate geographical term for that narrow feature east of Ela Lagoon along which a footpath runs is",
+    "option": {
+      "a": "Lake",
+      "b": "Isthmus",
+      "c": "Sandbar",
+      "d": "Ocean "
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2016_13_to_17_iprrih.jpg",
+    "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 253,
     "question": "What is the approximate height of Manko above the sea level?",
     "option": {
@@ -3019,6 +3099,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 282,
+    "question": "The length of the main road from Robo junction to Oseb junction is approximately",
+    "option": {
+      "a": "8.5km",
+      "b": "6.5km",
+      "c": "7.5km",
+      "d": "9.5km"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2017_6_and_7_y30z7q.jpg",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
@@ -3440,6 +3536,22 @@
     "examyear": "2018"
   },
   {
+    "id": 320,
+    "question": "The bearing of Jata from Adaba is approximately",
+    "option": {
+      "a": "29°",
+      "b": "17°",
+      "c": "21°",
+      "d": "25°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_03_and_07_byo7zc.jpg",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 321,
     "question": "Intervisibility is possibility between the points marked X and Y because the intervening slope is",
     "option": {
@@ -3739,6 +3851,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 347,
+    "question": "The dominant foreign exchange earner of Senegal is ",
+    "option": {
+      "a": "Tourism",
+      "b": "Groundnut",
+      "c": "Fish",
+      "d": "Iron-ore"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
@@ -4352,6 +4480,22 @@
     "examyear": "2020"
   },
   {
+    "id": 405,
+    "question": "Large scale migration of people from one country to another may be explained by all of the following except",
+    "option": {
+      "a": "Civil war",
+      "b": "Drought",
+      "c": " Higher standard of living in the host country",
+      "d": "Oppressive home government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 406,
     "question": "Urban centres originate mainly as a zone of ",
     "option": {
@@ -4538,6 +4682,22 @@
     },
     "section": "",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582572/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2020_26_jnguwo.jpg",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 423,
+    "question": "The total area covered by the map is approximately",
+    "option": {
+      "a": "268sqkm",
+      "b": "258sqkm",
+      "c": "288sqkm",
+      "d": "278sqkm"
+    },
+    "section": "",
+    "image": "",
     "answer": "c",
     "solution": "",
     "examtype": "utme",
