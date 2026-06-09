@@ -736,6 +736,22 @@
     "examyear": "2000"
   },
   {
+    "id": 78,
+    "question": "If 314<sub>10</sub> - 256<sub>7</sub> = 340<sub>x</sub>, find x.\n",
+    "option": {
+      "a": "7",
+      "b": "8",
+      "c": "9",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "31410 - 2567 = 340x,\nConvert 2567 and 340x to base 10, such that:\n314 - 139 = 3x2 + 4x\n=> 3x2 + 4x - 175 = 0 (quadratic)\nFactorising, (x - 7) (3x + 25) = 0, either x = 7 or x = -25/3 ( but x cannot be negative)\nTherefore, x = 7.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 83,
     "question": "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity\n",
     "option": {
@@ -1296,6 +1312,22 @@
     "examyear": "2001"
   },
   {
+    "id": 138,
+    "question": "A straight line makes an angle of 30° with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line.",
+    "option": {
+      "a": "y = (x/10) + 5",
+      "b": " y = x + 5",
+      "c": "√3y = - x + 5√3",
+      "d": "√3y = x + 5√3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cos 30 = 5/x\nx cos 30 = 5, => x = 5√3\n\nCoordinates of P = -5, 3, 0\nCoordinates of Q = 0, 5\nGradient of PQ = (y<sub>2</sub>  - y<sub>1</sub> ) (X<sub>2</sub>  - X<sub>1</sub> ) = (5 - 0)/(0 -5√3)\n= 5/5√3 = 1/√3\n\nEquation of PQ = y - y<sub>1</sub>  = m (x -x<sub>1</sub> )\ny - 0 = 1/√3 (x -(-5√3))\n\nThus: √3y = x + 5√3",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 139,
     "question": "Given an isosceles triangle with length of 2 equal sides t units and opposite side √3t units with angle θ. Find the value of the angle θ opposite to the √3t units.",
     "option": {
@@ -1792,6 +1824,22 @@
     "examyear": "2002"
   },
   {
+    "id": 188,
+    "question": "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d.",
+    "option": {
+      "a": "2a + 2 = 0",
+      "b": "3a + 5d = 0",
+      "c": "a + 3d = 0",
+      "d": " a + 2d = 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "T<sub>n</sub> = a + (n−1)d\n  (nth term of an AP).\n\nT<sub>9</sub>=5T<sub>5</sub>\na + 8d = 5(a+4d) ⟹a + 8d = 5a + 20d\n5a − a + 20d − 8d = 0 ⟹ 4a + 12d = 0\na + 3d = 0",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 190,
     "question": "The inverse function f(x) = 3x + 4 is",
     "option": {
@@ -2028,6 +2076,22 @@
     "image": "",
     "answer": "d",
     "solution": "Let the sum of the first five numbers and the sixth number be x and t respectively.\n\n(x+t)/6 = 60 ⟹ x + t = 360\nx/5 = 50 ⟹ x = 250\n∴ t = 360 − 250 = 110",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 211,
+    "question": "Calculate the mean deviation of the set of numbers 7, 3, 14, 9, 7, and 8.",
+    "option": {
+      "a": "13/6",
+      "b": "5/2",
+      "c": "7/6",
+      "d": "7/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Mean : (7+3+14+9+7+8)/6 = 48/6 = 8\nMean deviation : (∑|x−x¯)n = 14/6 = 7/3",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -2748,6 +2812,22 @@
     "image": "",
     "answer": "d",
     "solution": "∫<sub>1</sub><sup>3</sup>(X<sup>2</sup>-1)dx =〖[1/3 x<sup>2</sup>-x]〗<sub>1</sub><sup>3</sup>=(9-3)-(1/3-1)=6-(-2/3)=6+2/3 = 6 (2/3)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 286,
+    "question": "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white balls from the baskets is 3/7, how many white balls were introduced?",
+    "option": {
+      "a": " 12",
+      "b": "21",
+      "c": "28",
+      "d": "32"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Number of white balls = x\nNumber of red balls = 12\nNumber of black balls = 16\nTotal number of balls        = 28 + x\nP(white balls) = 3/7\nBut P(white balls)               = x/(28+x)=3/7=x/(28+x) 3(28+x)=7x84+3x=7x7x-3x=844x=84x=21",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4192,6 +4272,22 @@
     "examyear": "2007"
   },
   {
+    "id": 425,
+    "question": "A senatorial candidate had planned to visit seven cities prior to a primary election. However, he could only visit four of the cities. How many different itineraries could be considered?",
+    "option": {
+      "a": "640",
+      "b": " 840",
+      "c": " 520",
+      "d": " 920"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Number of itineraries = <sup>7</sup>P<sub>4</sub>. 7!/((7-4)!)=7!/3!=(7×6×5×4×3!)/3!=840",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 427,
     "question": "The table above shows the number of pupils in each age group in a class. What is the probability that a pupil chosen at random is at least 11 years old?",
     "option": {
@@ -4606,6 +4702,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 472,
+    "question": "Add 1101<sub>2</sub> ,10111<sub>2</sub>  and 111<sub>2</sub> ",
+    "option": {
+      "a": "111011<sub>2</sub> ",
+      "b": "110110<sub>2</sub> ",
+      "c": "101011<sub>2</sub> ",
+      "d": "101010<sub>2</sub> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": " 1101<sub>2</sub> + 10111<sub>2</sub>  +  111<sub>2</sub>  = 101011",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 476,
@@ -5500,6 +5612,22 @@
     "image": "",
     "answer": "b",
     "solution": "0.21 x 0.34 = 0.0714\n= 7.14 x 10<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 575,
+    "question": "In a survey of 50 newspaper readers, 40 read Champion and 30 read Guardian, how many read both papers?",
+    "option": {
+      "a": "10",
+      "b": "5",
+      "c": "15",
+      "d": "20"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128158/ALOC-Questions/Mathematics/2010/MATH_2010_Q4_SOLUTION_ufwdkl.jpg",
+    "answer": "d",
+    "solution": "Let C n G = X\nn C only = 40 - x\nn G only = 30 - x\n40 - X + 30 - X + X  = 50\n70 - X = 50\nX = 70 - 50\nX = 20",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -6784,6 +6912,22 @@
     "examyear": "2012"
   },
   {
+    "id": 757,
+    "question": "In how many ways can the letters of the word TOTALITY be arranged?",
+    "option": {
+      "a": "6720",
+      "b": "6270",
+      "c": "6207",
+      "d": " 6027"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "8!/3!\n \n\n8×7×6×5×4×3×2×1/3×2×1\n\n\n==> 8 x 7 x 6 x 5 x 4 = 6720",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 759,
     "question": "The probabilities that a man and his wife live for 80 years are 2/3 and 3/5 respectively. Find the probability that at least one of them will live up to 80 years",
     "option": {
@@ -7548,6 +7692,38 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724002943/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q8_r1aiyw.jpg",
     "answer": "a",
     "solution": "< MPT = 180° - 118° = 62°\n\n< PML = 62° ( Alternative angle)\n\ny + 2y + 10° + 62° = 180° (Angles on a straight line)\n\n3y = 180 - 72\n3y/3 = 108/3\n\ny = 36°\n\n< PMT = 2y + 10 = 2(36) + 10 = 82°",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 827,
+    "question": "From the diagram above, Find the value of < ROP",
+    "option": {
+      "a": "110°",
+      "b": "70°",
+      "c": "95°",
+      "d": "85°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724002970/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q9_blukmd.jpg",
+    "answer": "c",
+    "solution": "< ROP = 95° (Exterior angle of cyclic quadrilateral)",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 828,
+    "question": "The venn diagram shows a class of 50 students with the games they play. How many students play only two games?",
+    "option": {
+      "a": "15",
+      "b": "16",
+      "c": "20",
+      "d": "18"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724002995/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q10_igfh5i.jpg",
+    "answer": "a",
+    "solution": "Number of students that plays only two games = 4 + 8 + 3 = 15",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -9456,6 +9632,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1034,
+    "question": "In this fiqure, PQ = PR = PS and SRT = 68°. Find QPS ",
+    "option": {
+      "a": " 136°",
+      "b": "124°",
+      "c": "112°",
+      "d": "68°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007135/ALOC-Questions/Mathematics/2020/JAMB_MATH_2020_Q17_pderks.jpg",
+    "answer": "a",
+    "solution": "Since PQRS is quadrilateral\n\n2y + 2x + QPS = 360o\ni.e. (y + x) + QPS = 360o\n \n\nQPS = 360° - 2 (y + x)\n\nBut x + y + 68° = 180°\nThere; x + y = 180° - 68° = 112°\nQPS = 360 - 2(112°)\n\n= 360° - 224° = 136°",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1035,
     "question": "Find the gradient of the line passing through the points (-2, 0) and (0, -4) ",
     "option": {
@@ -9856,6 +10048,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1074,
+    "question": "The angle of a sector of a circle, radius 10.5 cm, is 48°, Calculate the perimeter of the sector",
+    "option": {
+      "a": "8.8 cm",
+      "b": "25.4 cm",
+      "c": "25.6 cm",
+      "d": "29.8 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Length of Arc AB = θ/360 2πr\n\n= 48/360 x 2(22/7) x 21/2\n\n\n= (4 × 22 × 3)/30 =  88/10\n = 8.8 cm\n\nPerimeter = 8.8 + 2r\n\n= 8.8 + 2(10.5)\n\n= 8.8 + 21\n\n= 29.8 cm",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1075,
     "question": "Find the length of a side of a rhombus whose diagonals are 6 cm and 8 cm",
     "option": {
@@ -9868,6 +10076,22 @@
     "image": "",
     "answer": "b",
     "solution": "The diagonal of a rhombus is a line segment that joins any two non-adjacent vertices.\n\nA rhombus has two diagonals that bisect each other at right angles.\n\ni.e this splits 6 cm into 3 cm each AND 8 cm to 4 cm\n\nUsing Hyp<sup>2</sup> = adj<sup>2</sup>  + opp<sup>2</sup> .\nHyp<sup>2</sup>  = 3<sup>2</sup>  + 4<sup>2</sup> \nHyp<sup>2</sup>  = 25\n\nHyp = 5\n\n∴ Length (L) is 5 cm because a rhombus is a quadrilateral with 4 equal lengths",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1076,
+    "question": "Each of the interior angles of a regular polygon is 140°. How many sides has the polygon?",
+    "option": {
+      "a": "9",
+      "b": "8",
+      "c": "7",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Each interior angle = ((n−2)180)/n\n140 = ((n−2)180)/n\nCross multiply:\n\n140n = 180n - 360\n\n40n = 360\n\nn = 9 sides ( A Nonagon)",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -9948,6 +10172,22 @@
     "image": "",
     "answer": "b",
     "solution": "sample space = 16\n\nsum of nos. removed are (2), 3, (4), 5\n\n3, (4), 5, (6)\n\n(4), 5, (6), 7\n\n(5), 6, 7, (8)\n\nEven nos. = 8 of them\n\nPr(even sum) = 8/16\n\n\n= 1/2",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1083,
+    "question": "Musa borrows N10.00 at 2% per month simple interest and repays N8.00 after 4 months. How much does he still owe?",
+    "option": {
+      "a": "N10.80",
+      "b": "N10.67",
+      "c": "N2.80",
+      "d": "N2.67"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "I = (PRT)/100\n\n\n= (10 × 2 × 4)/100\n\n\n= 4/5\n\n\n= 0.8\n\nTotal amount = N10.80\n\nHe pays N8.00\n\nRemainder = 10.80 - 8.00\n\n= N2.80",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -10588,6 +10828,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007804/ALOC-Questions/Mathematics/2023/Screenshot_2024-08-18_at_8.03.15_PM_e3llyp.png",
     "answer": "a",
     "solution": "From ∆PSR\n\n|PS| = |SR| (If two tangents are drawn from an external point of the circle, then they are of equal lengths)\n\n∴ ∆PSR is isosceles\n\n∠PSR + ∠SRP + ∠SPR = 180\n <sup>o</sup> (sum of angles in a triangle)\n\nSince |PS| = |SR|; ∠SRP = ∠SPR\n\n⇒ ∠PSR + ∠SRP + ∠SRP = 180<sup>o</sup>\n\n\n∠PSR + 2∠SRP = 180<sup>o</sup>\n\n\n36<sup>o</sup>\n + 2∠SRP = 180<sup>o</sup>\n\n\n2∠SRP = 180<sup>o</sup>\n - 36<sup>o</sup>\n\n\n2∠SRP = 144<sup>o</sup>\n∠SRP = 144<sup>o</sup>/2=72<sup>o</sup>\n∠SRP = ∠PQR (angle formed by a tangent and chord is equal to the angle in the alternate segment)\n\n∴ ∠PQR = 72<sup>o</sup>",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1147,
+    "question": "If a car runs at a constant speed and takes 4.5 hrs to run a distance of 225 km, what time will it take to run 150 km?",
+    "option": {
+      "a": " 2 hrs",
+      "b": " 4 hrs",
+      "c": "3 hrs",
+      "d": "1 hr"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let T be the time taken and D is the distance\n\nFor the case given in the problem, the distance covered is directly proportional to the time taken i.e D α T\n\n⇒ D = ST where S is the constant speed\n\nD = 225 km and T = 4.5 hrs\n\n∴ 225 = S x 4.5\n\nS = 225/4.5 = 50 km/hr\n\nWhen D = 150 km\n\nD = ST\n\n150 = 50 × T\n\nT = 150/50 = 3 hrs\n\nSo it will take 3 hrs",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -11776,6 +12032,38 @@
     "examyear": "2015"
   },
   {
+    "id": 1259,
+    "question": "Simplify [1÷(x<sup>2</sup> + 3x + 2)]+[1 ÷ (x<sup>2</sup> + 5x + 6)]",
+    "option": {
+      "a": " 2/(x+1)<sup>2</sup>",
+      "b": "2/(x+1)(x+2)",
+      "c": "2(x+1)(x+2)",
+      "d": "2(x+1)(x+3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "[1÷(x<sup>2</sup> + 3x +2)] + [1 ÷ (x<sup>2</sup> + 5x + 6)]\n \n\n= 1 ÷ (x<sup>2</sup> + 3x + 2) + [1 ÷ (x<sup>2</sup> + 5x + 6)]\n\n\n= [1 ÷ ((x<sup>2</sup> + x) + (2x + 2))] + [1 ÷ ((x<sup>2</sup> + 3x) + (2x + 6))]\n\n\n= [1 ÷ (x(x + 2) + 2(x +1))] + [1 ÷ (x(x + 3) +2(x + 3) )]\n\n= [1 ÷ (x + 1)(x + 2)] + [1 ÷ ((x + 3) + (x + 2))]\n\n=((x + 3) + (x + 1)) ÷ (x + 1)(x + 2)(x + 3)\n\nUsing the L.C.M\n\n=((x + x + 3 + 1)) ÷ (x + 1)(x + 2)(x + 3)\n\n=(2x+4)/(x+1)(x+2)(x+3) =2(x+2)/(x+1)(x+2)(x+3)\n\n= 2/(x+1)(x+3)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1261,
+    "question": "Given that A = {3, 4, 1, 10, ⅓ }\n\nB = {4, 3,⅓, ⅓, 7}.\n\nFind A∩B",
+    "option": {
+      "a": "{}",
+      "b": "{⅓, 1, 2}",
+      "c": "{3, 4, ⅓}",
+      "d": "{1, 3, ⅓}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A ∩ B = {3, 4, ⅓}",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1262,
     "question": "Find x if 132<sub>x</sub>  = 70 <sub>eight</sub> .",
     "option": {
@@ -11856,6 +12144,38 @@
     "examyear": "2015"
   },
   {
+    "id": 1270,
+    "question": "Simplify 6(1/12) − 2¾ + 1½",
+    "option": {
+      "a": "3(5/6)",
+      "b": "4(5/6)",
+      "c": "2(1/6)",
+      "d": "1/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "6½ − 2¾ + 1½\n\n73/12 − 11/4 + 3/2\n\n[(73 − 33 + 18) ÷ (12)]\n\n58/12\n\n29/6\n\n4(5/6)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1272,
+    "question": "Determine the third term of a geometrical progression whose first and second term are 2 and 54 respectively",
+    "option": {
+      "a": "1458",
+      "b": "1485",
+      "c": "1345",
+      "d": "1258"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "1st G.P. = a =2\n\n2nd G.P. = ar<sup>2-1</sup>\n = 54\n\n2(r) = 54\n\nr = 54/2 = 27\n\nr = 27\n\n3rd term = ar<sup>2</sup>\n = (2) (27)<sup>2</sup>\n\n\n2 × 27 × 27\n\n= 1458",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1273,
     "question": "Given that S and T are sets of real numbers such that S = {x : 0 ≤\n x ≤ 5} and T = {x : − 2 < x < 3} Find S ∪ T",
     "option": {
@@ -11900,6 +12220,38 @@
     "image": "",
     "answer": "b",
     "solution": "∫(5x<sup>3</sup> + 7x<sup>2</sup> −2x + 5)dx\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − 2x<sup>2</sup>/2 + 5x + c\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − x<sup>2</sup> + 5x + c",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1279,
+    "question": "Find the area of the curved surface of a cone whose base radius is 3cm and whose height is 4cm (π = 3.14)",
+    "option": {
+      "a": "17.1 cm<sup>2</sup>",
+      "b": "27.2 cm<sup>2</sup>",
+      "c": "47.1 cm<sup>2</sup>",
+      "d": "37.3 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Find the slant height\n\nl<sup>2</sup> = h<sup>2</sup> + r<sup>2</sup>(h = 4 cm, r = 3 cm)\n\n\nl<sup>2</sup> = 4<sup>2</sup> + 3<sup>2</sup> = 16 + 9 =25\n\n\nl<sup>2</sup> = √25\n\n\nSquaring both sides\n\nl = 5cm\n\nThe area of curved surface (s) =π(3)(5)\n\n15π = 15 × 3.14\n\n= 47.1 cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1280,
+    "question": "Simplify 1/(x+1) + 1/(x−1)",
+    "option": {
+      "a": "2x/(x + 1)(x−3)",
+      "b": "2x/(x + 1)(x−1)",
+      "c": "2x/(x + 1)2",
+      "d": "2x(x+1)2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mn>1</mn>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>x</mi>\n      <mo>+</mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n  <mo>+</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>x</mi>\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "[1 ÷ (x+1)] + [1 ÷ (x − 1)]\n\n= ((x − 1) + [(x + 1)) ÷ (x+1)(x − 1)]\n\nUsing the L.C.M.\n\n= (x − 1 + x + 1) ÷ (x + 1)(x − 1)\n\n= (x + 2 − 1 + 1) ÷ (x + 1)(x − 1)\n\n= 2x ÷ (x + 1)(x − 1) =2x ÷ (x + 1)(x − 1)",
     "examtype": "utme",
     "examyear": "2015"
   },
