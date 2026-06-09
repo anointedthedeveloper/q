@@ -912,6 +912,38 @@
     "examyear": "2012"
   },
   {
+    "id": 131,
+    "question": "The following may not inflate the National Income figure ",
+    "option": {
+      "a": "Student’s bursary  ",
+      "b": "Owners occupied houses  ",
+      "c": "Office Inducement  ",
+      "d": "Intermediate goods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 132,
+    "question": "Legal Entity means  ",
+    "option": {
+      "a": "A company is owned by large number of people  ",
+      "b": "A company is owned by small number of people  ",
+      "c": "A company is insulated against litigation  ",
+      "d": "A company is not insulated against litigation "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 133,
     "question": "In the ownership structure of joint stock company the following is correct;  ",
     "option": {
@@ -3072,6 +3104,22 @@
     "examyear": "2010"
   },
   {
+    "id": 398,
+    "question": "One of the functions of commercial banks is",
+    "option": {
+      "a": "maintaining stable price in the economy",
+      "b": "granting loans to customers",
+      "c": "regulating monetary policies",
+      "d": "issuing bank notes and coins"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 399,
     "question": "A strategy for curbing unemployment is to",
     "option": {
@@ -3456,6 +3504,22 @@
     "examyear": "2003"
   },
   {
+    "id": 439,
+    "question": "One advantage of the sole proprietorship is that",
+    "option": {
+      "a": "control and supervision is under one man",
+      "b": "accounts must be publicized",
+      "c": "it is always successful",
+      "d": "funds are easy to obtain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 443,
     "question": "Efficient distribution of goods in West Africa will be \n\tfacilitated by",
     "option": {
@@ -3671,6 +3735,22 @@
       "b": "primary, tertiary and direct",
       "c": "primary, secondary and tertiary",
       "d": "secondary, primary and indirect"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
+    "id": 468,
+    "question": "In a capitalist system, the means of production is owned and controlled by",
+    "option": {
+      "a": "the government",
+      "b": "politicians",
+      "c": "private individuals",
+      "d": "the workers"
     },
     "section": "",
     "image": "",
@@ -4139,6 +4219,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 536,
+    "question": "The direct exchange of one good for another without the use of money is known as",
+    "option": {
+      "a": "foreign exchange",
+      "b": "exchange rate",
+      "c": "expenditure",
+      "d": "barter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -4631,6 +4727,22 @@
       "b": "direction of international trade",
       "c": "commodity terms of trade",
       "d": "volume of imports"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 603,
+    "question": "Which of the following is an invisible item?",
+    "option": {
+      "a": "Banking services",
+      "b": "Petroleum products",
+      "c": "Processed rice",
+      "d": "Processed milk"
     },
     "section": "",
     "image": "",
