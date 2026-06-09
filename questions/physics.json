@@ -3360,6 +3360,22 @@
     "examyear": "2023"
   },
   {
+    "id": 538,
+    "question": "An open-tube mercury manometer is used to measure the pressure in a gas tank. When the atmospheric pressure is 101,325 Pa, what is the absolute pressure in Pa in the tank if the height of the mercury in the open tube is 25 cm higher. density of mercury = 13600kg/m³, g=9.8m/s²",
+    "option": {
+      "a": "108,986 Pa",
+      "b": "165,238 Pa",
+      "c": "122,364 Pa",
+      "d": "134,645 Pa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nAtmospheric pressure, P₀ = 101,325 Pa\nHeight difference, h = 25 cm = 0.25 m\nDensity of mercury, ρ = 13,600 kg/m³\nAcceleration due to gravity, g = 9.8 m/s²\nAbsolute pressure in tank, P = ?\n\nSolution:\nStep 1: Understand manometer reading\nWhen the mercury in the open tube is higher than in the tank side, the gas pressure in the tank is greater than atmospheric pressure.\nStep 2: Calculate pressure difference\nPressure difference due to mercury column:\nΔP = ρgh\nΔP = 13,600 × 9.8 × 0.25\nΔP = 33,320 Pa\nStep 3: Calculate absolute pressure in tank\nAbsolute pressure = Atmospheric pressure + Pressure difference\nP = P₀ + ΔP\nP = 101,325 + 33,320\nP = 134,645 Pa",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 541,
     "question": "An explosion occurs at an altitude of 312 m above the ground. If the air temperature is -10.00°C, how long does it take the sound to reach the ground? [velocity of sound at 0°C = 331 ms⁻¹]",
     "option": {
@@ -4176,6 +4192,22 @@
     "examyear": "2005"
   },
   {
+    "id": 678,
+    "question": "A car battery rated 45 A H is charged with a charger whose rating is 2.5A.How long will it take to charge the battery full?",
+    "option": {
+      "a": "10 hrs",
+      "b": "18 hrs",
+      "c": "20 hrs",
+      "d": "25 hrs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nBattery capacity = 45 ampere‑hours (A H)\nCharger current = 2.5 A\n\nStep 1: Relate capacity, current, and time\nFor a constant current charge, the charging time (in hours) is given by:\nTime = Battery capacity / Charging current\n\nStep 2: Substitute values\nTime = 45 A H / 2.5 A = 18 hours",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 681,
     "question": "The resistance of a piece of wire of length 20 m and cross‑sectional area 8 × 10⁻⁶ m² is?\n[Resistivity of the wire = 4 × 10⁻⁷ Ω·m]",
     "option": {
@@ -4560,6 +4592,22 @@
     "examyear": "2006"
   },
   {
+    "id": 740,
+    "question": "In the diagram above, the pressure of the gas is",
+    "option": {
+      "a": " 86 cm of mercury",
+      "b": "66 cm of mercury",
+      "c": "96 cm of mercury",
+      "d": "76 cm mercury"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430637/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_41_t4sf0o.png",
+    "answer": "a",
+    "solution": "Pressure of the Gas, P = A + h\n= 76 + 10\n86 cm Hg",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 745,
     "question": "A progressive wave equation is represented by y = a sin(150πt - (π/4)x). If the phase difference of the wave is 45°, the value of x in the equation is?",
     "option": {
@@ -4940,6 +4988,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nObject height = 4 cm\nImage height = 2 cm\nImage distance (camera size) = 6 cm\n\nSolution:\n\nStep 1: Magnification formula for pinhole camera\nMagnification = Image height / Object height = Image distance / Object distance\n\nStep 2: Substitute known values\n2/4 = 6 / u\n1/2 = 6 / u\n\nStep 3: Solve for object distance u\nu = 6 × 2 = 12 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 823,
+    "question": "Convex mirror are used as driving mirrors because images formed are?",
+    "option": {
+      "a": "erect, virtual and diminished",
+      "b": "erect, real and diminished",
+      "c": "erect, virtual and magnified",
+      "d": " inverted virtual and diminished"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Image formed by convex mirror is always erect, virtual and diminished",
     "examtype": "utme",
     "examyear": "2008"
   },
