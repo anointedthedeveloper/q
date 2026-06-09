@@ -96,6 +96,22 @@
     "examyear": "2006"
   },
   {
+    "id": 18,
+    "question": "All the vertices of an isosceles triangle lie on a circle and each of the base angles  of the triangle is 65o. The angle subtended at the centre of the circle by the base of the triangle is: ",
+    "option": {
+      "a": "130o  ",
+      "b": "115o  ",
+      "c": "50o  ",
+      "d": "65o"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 27,
     "question": "The journey from Lagos to Ibadan usually takes a motorist 1 hour 30 minutes. By increasing his average speed by 20km/hr, the motorist saves 15 minutes. His usual speed, in Km/hr is ",
     "option": {
@@ -576,6 +592,22 @@
     "examyear": "2000"
   },
   {
+    "id": 122,
+    "question": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places",
+    "option": {
+      "a": "20.98",
+      "b": "20.351",
+      "c": "20.981",
+      "d": "20.352"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Hint: Use BODMAS, in other words, do multiplication of the second and the last first before subtracting value obtained from the first.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 124,
     "question": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p<sup>2</sup> - q<sup>2</sup> /2pq)",
     "option": {
@@ -896,6 +928,22 @@
     "examyear": "2001"
   },
   {
+    "id": 169,
+    "question": "The bar chart shows different colours of cars passing a particular point of a certain street in two minutes. What fraction of the cars is yellow",
+    "option": {
+      "a": "1/5",
+      "b": "2/25",
+      "c": "4/15",
+      "d": "3/25"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696908/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_48_bsnyk3.jpg",
+    "answer": "d",
+    "solution": "yellow (Color of Cars) = 3 (Number (frequency). white (Color of Cars) = 4 (Number (frequency). Red (Color of Cars) = 8 (Number (frequency). Green (Color of Cars) = 2 (Number (frequency). Blue (Color of Cars) = 6 (Number (frequency). Black (Color of Cars) = 2 (Number (frequency). TOTAL  = 25                                                           Thus, the fraction of the total numbers that are yellow is 3/25",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 172,
     "question": "Without using tables, evaluate (343)<sup>(1/3)</sup> × (0.14)<sup>−1</sup> × (25)<sup>(−1/2)</sup>",
     "option": {
@@ -940,6 +988,22 @@
     "image": "",
     "answer": "b",
     "solution": "52.4 - 5.7 - 3.45 - 1.75\n\n= 52.4 - (5.7 + 3.45 + 1.75)\n\n= 52.4 - 10.90\n\n= 41.5",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 177,
+    "question": "A trader bought goats for N4000 each. He sold them for N180,000 at a loss of 25%. How many goats did he buy?",
+    "option": {
+      "a": "60",
+      "b": "50",
+      "c": "45",
+      "d": "36"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Let the number of goats be X\nC.P of X goats = N4000X\nS.P of X goats = (75/100) x 4000X = N3000X\n\n3000X = 180,000\n\n=> X = 180000/3000 = 60.\nX = 60 goats",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1068,6 +1132,22 @@
     "image": "",
     "answer": "b",
     "solution": "tan 45 = x/10.4\n = 10.4m\n\nheight of the tree is equal to 1.6m + 10.4m = 12m",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 204,
+    "question": "The locus of a point P which is equidistant from two given points S and T is",
+    "option": {
+      "a": "the perpendicular bisector of ST",
+      "b": "the angle bisector of PS and ST",
+      "c": "a perpendicular to ST",
+      "d": " a line parallel to ST"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1296,6 +1376,22 @@
     "examyear": "2003"
   },
   {
+    "id": 242,
+    "question": "A trapezium has two parallel sides of length 5cm and 9cm. If the area is 21cm2, find the distance between the parallel sides",
+    "option": {
+      "a": "3 cm",
+      "b": "4 cm",
+      "c": "6 cm",
+      "d": " 7 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Area of Trapezium = 1/2(sum of parralel sides) * ht\n21 = 1/2(5 + 9)h\n42 = 14h\nh = 42/14\nh = 3cm",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 243,
     "question": "The locus of a point P which moves on one side only of a straight line XY so that ∠XPY = 90° is",
     "option": {
@@ -1404,6 +1500,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699712/ALOC-Questions/Mathematics/2003/math_2003_q43_vwszv6.jpg",
     "answer": "a",
     "solution": "R = P (base ∠s of isc Δ, ps = RS)\n∴R = 40o\n∠PSQ = R (∠s in alternate segment)\n∴∠PSQ = 40°",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 265,
+    "question": "Find the number of committees of three that can be formed \nconsisting of two men and one woman from four men \nand three women.",
+    "option": {
+      "a": "24",
+      "b": "18",
+      "c": "3",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -1728,6 +1840,22 @@
     "examyear": "2005"
   },
   {
+    "id": 342,
+    "question": "The sum of the interior angle of a regular polygon is 1800o. Calculate the size of one exterior angle of the polygon",
+    "option": {
+      "a": "30°",
+      "b": "24°",
+      "c": "18°",
+      "d": "12°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sum of interior ∠s = 1800°\n∴(n - 2) 180° = 1800°\n180n -360° = 1800°\n180n = 1800° + 360°\n180n = 2160°\nn = 2160°/180°\nn = 12 sides\nEach exterior ∠ = 360°/n\n= 360°/12\n= 30°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 343,
     "question": "In the diagram above, O is the center of the circle,\n\n∠UOT = 70° and ∠RST = 100°. Calculate ∠RUO.",
     "option": {
@@ -1968,6 +2096,22 @@
     "examyear": "2006"
   },
   {
+    "id": 380,
+    "question": "The gradient of a curve is 2x + 7 and the curve passes through point (2, 0). find the equation of the curve.",
+    "option": {
+      "a": " y = x<sup>2</sup> + 7x + 9",
+      "b": " y = x<sup>2</sup> + 7x - 18",
+      "c": " y = x<sup>2</sup> + 7x + 18",
+      "d": "y = x<sup>2</sup> + 14x + 11"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "dy/dx = 2x + 7\ny = ∫2x + 7\ny = x2 + 7x + C at (2,0)\n0 = 22 + 7(2) + C\n0 = 4 + 14 + C\n0 = 18 + C\nC = -18\n∴ The equation is y = x<sup>2</sup> + 7x - 18",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 382,
     "question": "Find the value of x for which the function 3x<sup>3</sup> - 9x is minimum",
     "option": {
@@ -2060,6 +2204,22 @@
     "image": "",
     "answer": "a",
     "solution": "1st convert to base 10\n2232<sup>4</sup> = 2x4<sup>3</sup> + 2x4<sup>2</sup> + 3x4<sup>1</sup> + 2x4<sup>0</sup>\n= 2x64 + 2x16 + 3x4 + 2x1\n= 128 + 32 + 12 + 2\n= 174 convert to base 6\n6/174\n6/29 R 0\n6/4 R 5\n6/0 R 5\n= 450<sub>6</sub>",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 396,
+    "question": "In the diagram above, QR is in the diameter of the semicircle QR. Find the areas of the figure to the nearest whole number.",
+    "option": {
+      "a": "89 cm<sup>2</sup>",
+      "b": "70 cm<sup>2</sup>",
+      "c": "90 cm<sup>2</sup>",
+      "d": "80 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542656/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q25_vybvn4.jpg",
+    "answer": "c",
+    "solution": "Area of rectangle PQRS\n= 10 x 7 = 70 cm2\nArea of semi circle\nQR = Dπ = 7 x 22/7 = 22cm2\n∴Area of the figure = 70 + 22\n= 92cm<sup>2</sup>\n= 90cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -2284,6 +2444,22 @@
     "image": "",
     "answer": "b",
     "solution": "3/5÷(2/7×4/3÷4/9)=3/5÷(2/7×4/3×9/4)=3/5÷6/7=3/5×7/6=7/10",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 451,
+    "question": "A man made a profit of 5% when he sold an article for N60,000.00. How much would he have sell the article to make a profit of 26%",
+    "option": {
+      "a": "N68,000",
+      "b": " N72,000",
+      "c": " N65,000",
+      "d": " N70,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "5% profit = 100 + 5 = 105%\n26% profit = 100 + 26 = 126%\n∴ 105% → N60,000\n1% → 60000/15\n126% = 1000/105 x 126/1\n=N72,000",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -2800,6 +2976,22 @@
     "examyear": "2009"
   },
   {
+    "id": 553,
+    "question": "If y = 3 cos 4x, dy/dx equals?",
+    "option": {
+      "a": " 6 sin 8x",
+      "b": "-24 sin 4x",
+      "c": "12 sin 4x",
+      "d": "-12 sin 4x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = 3 cos 4x\n\nApplying product rule:\n\ndy/dx = udv/dx + vdu/dx\nWhere u = 3 and v = cos 4x\n\ndu/dx of 3 = 0 and \n\ndv/dx of cos 4x = -4sin 4x\n\n\ndy/dx = 3 × -4 sin 4x  +   cos 4x × 0\n\ndy/dx = -12 sin 4x",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 558,
     "question": "Evaluate ∫sec<sup>2</sup>θ dθ?",
     "option": {
@@ -2828,6 +3020,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547266/ALOC-Questions/Mathematics/2009/MATH_2009_Q38_ehu03j.jpg",
     "answer": "b",
     "solution": "20 + 2x + 60 + 40 + x + 50 = 260\n170 + 3x = 260\n3x = 260 - 170\n3x = 90\nx = 90/3 = 30\nAt least 4 days\n4 days = 40\n5 days = 30\n6 days = 50\nTotal = 120",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 564,
+    "question": "In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included?",
+    "option": {
+      "a": "15",
+      "b": "28",
+      "c": "30",
+      "d": "45"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "= (<sup>5</sup>C<sub>2</sub> × <sup>3</sup>C<sub>1</sub>) + (<sup>5</sup> C<sub>1</sub> × <sup>3</sup>C<sub>2</sub>)\n= (10×3) + G44(5×3)\n= 45.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -2956,6 +3164,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128286/ALOC-Questions/Mathematics/2010/MATH_2010_Q12_SOLUTION_sixqeq.jpg",
     "answer": "a",
     "solution": "Area of a triangle = 1/2 base x height\n= 1/2 x 4 x 5\n= 10 cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 584,
+    "question": "An arc subtends an angle of 50o at the center of circle of radius 6cm. Calculate the area of the sector formed",
+    "option": {
+      "a": " 100/7",
+      "b": " 80/7",
+      "c": "110/7",
+      "d": "90/7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nArea of a sector = θ/360 x πr<sup>2</sup>\n\n\n= 50/360 x 22/7 x 36/1\n= 110/7",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -3680,6 +3904,22 @@
     "examyear": "2013"
   },
   {
+    "id": 772,
+    "question": "Evaluate 1.25×0.025/0.05\n, correct to 1 decimal place",
+    "option": {
+      "a": "0.6",
+      "b": "6.2",
+      "c": "6.3",
+      "d": "0.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "1.25 × 0.025/0.05\n\n\n=125×10<sup>−2</sup> × 25 × 10<sup>−3</sup>/5× 10<sup>−2</sup>\n\n\n= 125 x 5 x 10<sup>−3</sup>\n\n= 625 x 0.001\n\n= 0.625\n\n= 0.6 Approx to 1 d.p.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 774,
     "question": "Simplify 3<sup>(-5n)</sup>/9<sup>(1-n)</sup> ×〖27<sup>(n+1)</sup>",
     "option": {
@@ -3932,6 +4172,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724002943/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q8_r1aiyw.jpg",
     "answer": "a",
     "solution": "< MPT = 180° - 118° = 62°\n\n< PML = 62° ( Alternative angle)\n\ny + 2y + 10° + 62° = 180° (Angles on a straight line)\n\n3y = 180 - 72\n3y/3 = 108/3\n\ny = 36°\n\n< PMT = 2y + 10 = 2(36) + 10 = 82°",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 829,
+    "question": "If line p = 5x + 3 is parallel to line p = wx + 5. Find the value of w.",
+    "option": {
+      "a": "7",
+      "b": "3",
+      "c": "6",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "P = 5x + 3, P = wx + 5\nM1 = 5, M2 = w\nM1 = M2 (parallel lines)\nw = 5",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -4224,6 +4480,22 @@
     "examyear": "2017"
   },
   {
+    "id": 896,
+    "question": "Find the principal which amounts to ₦ 5,500 at a simple interest in 5 years at 2% per annum",
+    "option": {
+      "a": " ₦ 4,900",
+      "b": "₦ 5,000",
+      "c": "₦ 4,700",
+      "d": "₦ 4,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Principal = P, Simple Interest = I, Amount = A\n\nAmount = Principal + Simple Interest\n\nI = PRT/100\n\n\nR = rate, T = time\n\nI = (P×5×2)/100\n\n\nI = 10P/100\n\n\nI = P/10\n\n\nAmount A = P + I\n\n5500 = P + P/10\n\n\nMultiply through by 100\n\n5500 = 10P + P\n\n5500 = 11P\n\np = 5500/11\n\n\np = ₦5000",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 898,
     "question": "In how many ways can the word MATHEMATICS be arranged?",
     "option": {
@@ -4284,6 +4556,22 @@
     "image": "",
     "answer": "a",
     "solution": "p = s + sm<sup>2</sup> /nr\n\n\np = s + ( 1 + m<sup>2</sup> nr)\n\np = s (1 + nr+m<sup>2</sup>/ nr)\n\nnr × p = s (nr + m<sup>2</sup> )\n\ns = nrp/nr+m<sup>2</sup> ",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 906,
+    "question": "The operation * on the set R of real number is defined by x * y = 3x + 2y − 1, find 3* − 1",
+    "option": {
+      "a": "9",
+      "b": "-9",
+      "c": "6",
+      "d": "-6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "x * y is an operation on 3x + 2y − 1\n\nFind 3A − 1\n\nx = 3, y = −1\n\n3 * − 1 on 3x + 2y − 1\n\n3(3) + 2(−1) −1\n\n= 9 − 2 − 1\n\n= 6",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -5200,6 +5488,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1071,
+    "question": "Simplify √27 + 3/√3",
+    "option": {
+      "a": "4√3",
+      "b": "4/√3",
+      "c": "3√3",
+      "d": "√3/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "√27 + 3√3\n= √(9×3) + (3×√3/(√3 ×√3)\n= 3√3 + √3\n= 4√3",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1075,
     "question": "Find the length of a side of a rhombus whose diagonals are 6 cm and 8 cm",
     "option": {
@@ -5392,6 +5696,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1109,
+    "question": "In the diagram above angle LNM and angle YNZ are represented by g and h respectively. Find ∠MNY",
+    "option": {
+      "a": "180° - g° - h°",
+      "b": " 360° - (g-h)°",
+      "c": "180° - (g-h)°",
+      "d": "360° - g° - h°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007482/ALOC-Questions/Mathematics/2022/JAMB_MATH_2022_Q12_fkakkc.jpg",
+    "answer": "a",
+    "solution": "Using line LZ with angles sum = 180º\n\n: ∠MNY = 180° - (g + h)° or 180° - g° - h°",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1110,
     "question": "In how many ways can the letter of ZOOLOGY be arranged?",
     "option": {
@@ -5408,6 +5728,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1112,
+    "question": "Given that r = √(3v/πh), make v the subject of the formula",
+    "option": {
+      "a": " v = 3 πr<sup>2</sup>\n h",
+      "b": "v = πrh/3",
+      "c": "v =  πr<sup>2</sup>h/3",
+      "d": " v = 3πrh"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "square both sides to remove the big square root\n\n→ r<sup>2</sup>\n = 3v/πh\ncross multiply\n\n3v = r<sup>2</sup>\n * πh\n\nv = πr<sup>2</sup>h/3",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1116,
     "question": "What will be the result obtained when the numerator of 96/50\n is decreased by 37.5% and its denominator decreased by 20%.",
     "option": {
@@ -5420,6 +5756,22 @@
     "image": "",
     "answer": "a",
     "solution": "Numerator: 96 → 37.5% of 96 = 36\n\nDecreased by 36 → 96 - 36\n\nNew numerator = 60\n\n \n\nDenominator: 50 → 20% of 50 = 10\n\nDecreased by 10 → 50 - 10 = 40\n\nNew Denominator = 40\n\n \n\nNew fraction = 60/40\n or 1.5",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1117,
+    "question": "A poultry farmer realized 200 eggs from his birds and sold 5(1/2) crates of eggs. What percentages of eggs are left?",
+    "option": {
+      "a": "82.5%",
+      "b": "15%",
+      "c": "17.5%",
+      "d": "85%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "5 crates = 30 eggs * 5 = 150eggs\n\n1/2 crate = 15 eggs\n\nTotal sold = 165\n\nremainder = 200 - 165 = 35\n\nAnd 35 is equivalent 17.5% of the realized eggs ",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -5680,6 +6032,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1167,
+    "question": "A bag contains 8 red balls and some white balls. If the probability of drawing a white ball is half of the probability of drawing a red ball then find the probability of drawing a red ball and a white ball if the balls are drawn without replacement.",
+    "option": {
+      "a": "1/3",
+      "b": "2/9",
+      "c": "2/3",
+      "d": "8/33"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let the number of white balls be n\n\nThe number of red balls = 8\n\nNow, the probability of drawing a white ball = n/n+8\nThe probability of drawing a red ball = 8/n+8\nSince Pr(White ball) = 1/2\n x Pr(Red ball)\n\n∴n/(n + 8)= 1/2 × 8/(n + 8)\n= n/(n + 8) = 4/(n + 8)\n∴n = 4\nNumber of white balls = 4\n\nThe possible number of outcomes = n + 8 = 4 + 8 = 12\n\nPr(Red ball and White ball) = Pr(Red ball) x Pr(White ball)\n\nPr(Red ball) = 8/12\nPr(Red ball) = 4/11\nPr(Red ball and white ball) = 8/12 × 4/11\n∴ Pr(Red ball and white ball) = 8/33",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1168,
     "question": "The ages of students in a small primary school were recorded in the table below.                                                                               Estimate the median.",
     "option": {
@@ -5920,6 +6288,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1216,
+    "question": "If y = cos 3x, find δy/δx",
+    "option": {
+      "a": "1/3sin3x",
+      "b": "−1/3sin3x",
+      "c": "3 sin 3x",
+      "d": "-3 sin 3x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = cos 3x\n\nLet u = 3x so that y = cos u\n\nNow, δy/δx = 3,\n\nδy/δx = −sinu\n\n\nBy the chain rule,\n\nδy/δx=δy/δu × δu/δx\n\n\nδy/δx = (−sinu)(3)\n\n\nδy/δx = −3sinu\n\n\nδy/δx= −3sin3x",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1219,
     "question": "Evaluate ∫(2x+3)<sup>(1/2)</sup> δx",
     "option": {
@@ -5964,6 +6348,22 @@
     "image": "",
     "answer": "C",
     "solution": "A team of 2 girls can be selected from 7 girls in <sup>7/sup>C<sub>3</sub>\n\n\n=7!/(7−3)!3!\n\n\n=7!/4!3!ways",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1226,
+    "question": "The table above represents the outcome of throwing a die 100 times. What is the probability of obtaining at least a 4?",
+    "option": {
+      "a": "1/5",
+      "b": "1/2",
+      "c": "2/5",
+      "d": "3/4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206703/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q41_robr9k.jpg",
+    "answer": "c",
+    "solution": "Let E demote the event of obtaining at least a 4\nThen n(E) = 16 + 10 + 14 = 40\n\nHence, prob (E) = n€/n(S)\n\n\n=40/100\n\n\n= 2/5",
     "examtype": "utme",
     "examyear": "2014"
   },
