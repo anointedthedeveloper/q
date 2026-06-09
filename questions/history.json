@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "Islam was introduced in Northern Nigeria  ",
+    "option": {
+      "a": "before the 13th century  ",
+      "b": "in the 17th century  ",
+      "c": "in the 19th century  ",
+      "d": "in the 18th century "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "posr-utme-aaua",
+    "examyear": "2013"
+  },
+  {
     "id": 2,
     "question": "Lagos became the crown colony in  ",
     "option": {
@@ -71,6 +87,22 @@
       "b": "1906",
       "c": "1910",
       "d": "1914"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "posr-utme-aaua",
+    "examyear": "2013"
+  },
+  {
+    "id": 13,
+    "question": "In the Oyo traditional political system, the Alaafin of Oyo was elected or chosen by a group known ",
+    "option": {
+      "a": "Ogbon",
+      "b": "Oyo Mesi ",
+      "c": "Baale",
+      "d": "Ohanaeze"
     },
     "section": "",
     "image": "",
@@ -320,6 +352,22 @@
     "examyear": "2013"
   },
   {
+    "id": 39,
+    "question": "Oron and Ekoi people of the Cross River Basin might have migrated to Nigeria through the  ",
+    "option": {
+      "a": "sea  ",
+      "b": "mountain  ",
+      "c": "sky  ",
+      "d": "none "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "posr-utme-aaua",
+    "examyear": "2013"
+  },
+  {
     "id": 40,
     "question": "The Portuguese first visited Benin around  ",
     "option": {
@@ -327,6 +375,22 @@
       "b": "1484",
       "c": "1486",
       "d": "1483"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "posr-utme-aaua",
+    "examyear": "2013"
+  },
+  {
+    "id": 41,
+    "question": "Songhai Empire fell in... ",
+    "option": {
+      "a": "1591",
+      "b": "1691",
+      "c": "1791",
+      "d": "1891"
     },
     "section": "",
     "image": "",
