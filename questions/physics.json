@@ -288,6 +288,22 @@
     "examyear": "2009"
   },
   {
+    "id": 49,
+    "question": "Which of these is not contained in a dry cell? ",
+    "option": {
+      "a": "carbon rod ",
+      "b": "paste of magnesium dioxide ",
+      "c": "paste of ammonium chloride ",
+      "d": "zinc case "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 50,
     "question": "When a yellow card is observed through a blue glass, the card would appear as ",
     "option": {
@@ -638,6 +654,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 134,
+    "question": "A stroboscope can be used to make the wave appear …………..",
+    "option": {
+      "a": "Stationary",
+      "b": "In motion",
+      "c": "Dipper",
+      "d": "Ripple"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Stroboscope is a scientific instrument used to make a wave appears stationary when used",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 144,
@@ -992,6 +1024,22 @@
     "examyear": "2016"
   },
   {
+    "id": 223,
+    "question": "In the diagram above, the neutral point is at",
+    "option": {
+      "a": "R",
+      "b": "X",
+      "c": "Sound waves",
+      "d": "P"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610399/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_44_dw0oc9.jpg",
+    "answer": "b",
+    "solution": "Understanding neutral points in magnetism:\nA neutral point is a location where the magnetic field strength is zero because two opposing magnetic fields cancel each other out.\nFrom the diagram:\nThe diagram shows what appears to be magnetic field lines from two bar magnets placed with like poles facing each other (N-N or S-S arrangement based on the concentric circles pattern).\nCharacteristics of neutral point:\n\nLocated between two like poles\nMagnetic fields are equal in magnitude but opposite in direction\nNet magnetic field = zero\n\nAnalysis:\n\nPoint X appears to be positioned between the two magnetic sources where the fields would oppose and cancel each other\nPoints R, S, and P are at other locations where fields wouldn't completely cancel\n\n\nThe neutral point is at X, where the opposing magnetic fields from the two sources cancel each other out, resulting in zero net magnetic field.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 224,
     "question": "From the diagram above, the measuring accuracy of the micrometer screw gauge is",
     "option": {
@@ -1200,6 +1248,22 @@
     "examyear": "2018"
   },
   {
+    "id": 293,
+    "question": "Shadows and eclipses result from the",
+    "option": {
+      "a": "refraction of light",
+      "b": "reflection of light",
+      "c": " defraction of light",
+      "d": "rectilinear propagation of light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Shadows and eclipses result from the rectilinear propagation of light (light traveling in straight lines).",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 303,
     "question": "A lead bullet of mass 0.05 kg is fired with a velocity of 200 m/s into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is",
     "option": {
@@ -1312,6 +1376,22 @@
     "examyear": "2019"
   },
   {
+    "id": 336,
+    "question": "A train has an initial velocity of 44 m/s and an acceleration of -4 m/s². Calculate its velocity after 10 seconds.",
+    "option": {
+      "a": "10 m/s",
+      "b": "6 m/s",
+      "c": "8 m/s",
+      "d": "4 m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Initial velocity, u = 44 m/s\nAcceleration, a = -4 m/s²\nTime, t = 10 s\n\nFormula:\nv = u + a * t\n\nCalculation:\nv = 44 + (-4) * 10\nv = 44 - 40\nv = 4 m/s",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 343,
     "question": "Ripple in a power supply unit is caused by",
     "option": {
@@ -1324,6 +1404,22 @@
     "image": "",
     "answer": "a",
     "solution": "Ripple in a power supply is fundamentally caused by using an alternating current source, which produces a pulsating DC output after rectification that retains some AC variation.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 347,
+    "question": "The pin-hole camera produces a less sharply defined image when the",
+    "option": {
+      "a": "pin-hole is larger",
+      "b": "illumination is less",
+      "c": "screen is further from the pin-hole",
+      "d": "object is further from the pin-hole"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The pin-hole camera produces a less sharply defined (blurred) image when the pin-hole is larger because multiple light rays from each object point can pass through, creating overlapping light circles on the screen.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1376,6 +1472,22 @@
     "examyear": "2019"
   },
   {
+    "id": 358,
+    "question": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because",
+    "option": {
+      "a": "the heat energy is quickly conducted away",
+      "b": "the heat capacity has become very large as the substance melts",
+      "c": "the heat gained is equal to the heat lost by the substance",
+      "d": "all the heat is used to break the bonds holding the molecules of the solid together"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because all the heat is used to break the bonds holding the molecules of the solid together",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 364,
     "question": "The following are parts of the eye\nI. Retina\nII. Pupil\nIII. Iris\nThe correct equivalent in the camera in the same order are",
     "option": {
@@ -1420,6 +1532,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nForce (F) = 6 N\nMass (m) = 2 kg\nTime (t) = 4 s\nInitial velocity (u) = 0 (stationary)\nKinetic energy gained = ?\n\nStep 1: Calculate acceleration\nF = ma\n6 = 2 × a\na = 3 m/s²\nStep 2: Calculate final velocity\nv = u + at\nv = 0 + 3 × 4\nv = 12 m/s\nStep 3: Calculate kinetic energy gained\nKE = ½mv²\nKE = ½ × 2 × (12)²\nKE = 1 × 144\nKE = 144 J",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 369,
+    "question": "The lead-acid accumulator consists of",
+    "option": {
+      "a": " lead as the positive electrode",
+      "b": "lead acid as the negative electrode",
+      "c": "hydrochloric acid as the electrolyte",
+      "d": "tetraoxosulphate (vi) acid as the electrolyte"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The lead-acid accumulator uses tetraoxosulphate (VI) acid (sulfuric acid, H₂SO₄) as the electrolyte.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1516,6 +1644,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612725/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_34_giruq4.jpg",
     "answer": "c",
     "solution": "Understanding the cooling curve:\nFrom the graph:\n\nTemperature starts at ~100°C\nDrops rapidly to ~80°C\nRemains constant at 80°C for several minutes (flat horizontal section)\nThen continues dropping below 80°C\n\nWhat happens at the flat section:\nThe horizontal plateau at 80°C indicates a phase change is occurring:\n\nTemperature remains constant while naphthalene changes from liquid to solid\nDuring solidification, latent heat is released\nThis heat release keeps temperature constant until all liquid has solidified\n\nIdentifying the temperature:\nThe temperature at which a substance changes from liquid to solid (or solid to liquid) is called the melting point (or freezing point - same temperature).\nFor naphthalene: 80°C is the temperature where:\n\nLiquid naphthalene solidifies (when cooling)\nSolid naphthalene melts (when heating)",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 416,
+    "question": "In which of the following diagrams is the length of the tube equal to one wavelength? ",
+    "option": {
+      "a": "a",
+      "b": "b",
+      "c": "c",
+      "d": "d"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612949/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_37_tzrwtk.jpg",
+    "answer": "c",
+    "solution": "Diagram C shows a tube length equal to one wavelength, displaying one complete wave cycle with a full crest and trough.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -1804,6 +1948,22 @@
     "image": "",
     "answer": "b",
     "solution": "Tyres are treaded to increase friction (grip/traction) between the tyre and the road surface, especially in wet or slippery conditions, which is crucial for vehicle safety and control.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 477,
+    "question": "According to kinetic molecular model in gases,",
+    "option": {
+      "a": "the particles are closely packed together; they occupy minimum space are usually arranged in a regular pattern",
+      "b": "the particles vibrate about fixed positions and are held together by the strong intermolecular bonds between them",
+      "c": "the molecules are very far apart and occupy all the spaces made available to them",
+      "d": "the particles occur in clusters with molecules slightly further apart"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The model, called the kinetic theory of gases, assumes that the molecules are very small relative to the distance between molecules.\n\nThe molecules are in constant, random motion and frequently collide with each other and with the walls of any container.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -2156,6 +2316,22 @@
     "image": "",
     "answer": "c",
     "solution": "A rainbow is formed by the DISPERSION of sunlight by spherical raindrops floating in the air.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 554,
+    "question": "Find the value of a capacitor with voltage 5V and 30C.",
+    "option": {
+      "a": "7f",
+      "b": " 6f",
+      "c": "15f",
+      "d": "0.17f"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nVoltage, V = 5 V\nCharge, Q = 30 C\nCapacitance, C = ?\n\nSolution:\nStep 1: Apply capacitance formula\nThe capacitance of a capacitor is defined as:\nC = Q/V\nStep 2: Substitute the known values\nC = 30/5\nStep 3: Calculate capacitance\nC = 6 F",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -2816,6 +2992,22 @@
     "examyear": "2006"
   },
   {
+    "id": 728,
+    "question": "A radioactive element has a half life of 4 days. The fraction that has decayed in 16 days is?",
+    "option": {
+      "a": " 15/16",
+      "b": " 1/16",
+      "c": " 3/4",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHalf-life, T₁/₂ = 4 days\nTime elapsed, t = 16 days\nFraction decayed = ?\n\nSolution:\nStep 1: Calculate number of half-lives\nNumber of half-lives, n = t/T₁/₂\nn = 16/4 = 4 half-lives\nStep 2: Calculate fraction remaining\nAfter each half-life, half of the substance remains.\nFraction remaining = (1/2)ⁿ\nFraction remaining = (1/2)⁴\nFraction remaining = 1/16\nStep 3: Calculate fraction decayed\nFraction decayed = 1 - Fraction remaining\nFraction decayed = 1 - 1/16\nFraction decayed = 15/16",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 736,
     "question": "The wavelength of the first overtone of a note in a closed pipe of length 33 cm is?",
     "option": {
@@ -2924,6 +3116,22 @@
     "image": "",
     "answer": "c",
     "solution": "The metal blade transfers heat away from your skin more effectively than the wooden handle. When you touch the blade, it rapidly absorbs heat from your hand, causing it to feel colder. In contrast, the wooden handle, which is a less effective conductor of heat, doesn't draw heat away as quickly, making it feel warmer in comparison.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 765,
+    "question": "The phenomenon of light bending round an obstacle is?",
+    "option": {
+      "a": "diffraction",
+      "b": "refraction",
+      "c": "reflection",
+      "d": "polarization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The phenomenon of light bending around an obstacle is:  diffraction",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -3184,6 +3392,22 @@
     "examyear": "2008"
   },
   {
+    "id": 830,
+    "question": "The d.c generator has essentially the same components as the a.c generator except the presence of?",
+    "option": {
+      "a": " slip-ring",
+      "b": "carbon brushes",
+      "c": " split ring",
+      "d": "armature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A d.c. generator uses a split ring (commutator) to convert alternating current (a.c.) to direct current (d.c.), while an a.c. generator uses slip rings.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 833,
     "question": "zener diode is used for?",
     "option": {
@@ -3196,6 +3420,38 @@
     "image": "",
     "answer": "c",
     "solution": "Zener diode is useful in stabilized power supply i.e to keep steady the voltage of a power supply.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 834,
+    "question": "When a pure semiconductor is heated, its resistance?",
+    "option": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remains the same",
+      "d": "increases and then decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Heating a pure semiconductor increases the mobility of electrons and holes and hence the conductivity. thus, the resistance decreases on heating",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 835,
+    "question": "I. for current amplification.\n\nII. for voltage stabilization.\n\nIII. for power amplification.\n\nIV. as a switch.\n\nwhich of the above are the uses of transistor?",
+    "option": {
+      "a": "I, II, III and IV",
+      "b": " I, III and IV only",
+      "c": "I, II and III only",
+      "d": " I, II and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The uses of a transistor are current amplification, power amplification, and as a switch.\n",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -3230,6 +3486,38 @@
     "solution": "Step 1: Determine Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings = 4\nStep 2: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A/V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.80 × 4\nM.A = 3.2\nStep 3: Calculate Effort\nM.A = Load/Effort\nRearranging:\nE = Load/M.A\nE = 1200/3.2\nE = 375N",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 844,
+    "question": "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?",
+    "option": {
+      "a": "10 cm",
+      "b": "15 cm",
+      "c": "20 cm",
+      "d": "25 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nFocal length (f) = +12 cm (positive for convex lens)\nMagnification (m) = -4 (negative because real images are inverted)\nObject distance (u) = ?\n\nStep 1: Use magnification formula\nm = v/u\n-4 = v/u\nv = -4u\n(Note: v is negative for real images in sign convention where object distance is negative)\nActually, using the proper sign convention where object is on left:\n\nu = -|u| (negative, object on left)\nv = +|v| (positive, real image on right)\nm = -v/u = -4\n\nSo: -v/u = -4\nv = 4u (in magnitude)\nStep 2: Use lens formula\n1/f = 1/v - 1/u\nUsing sign convention (u negative, v positive, f positive):\n1/12 = 1/v - 1/(-u)\n1/12 = 1/v + 1/u\nSince v = 4u:\n1/12 = 1/(4u) + 1/u\n1/12 = 1/(4u) + 4/(4u)\n1/12 = 5/(4u)\n4u = 60\nu = 15 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 850,
+    "question": "I. Diameter of a small ball bearing.\nII. Thickness of a pieces of paper.\nIII. Diameter of a measuring cylinder.\nIV. Length of a piece of wire.\n\n\nWhich of the above can be measured using a micrometer screw gauge?",
+    "option": {
+      "a": "I, II and IV only",
+      "b": "I and II only",
+      "c": " II and III only",
+      "d": "III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A micrometer screw gauge is designed to measure small thicknesses, diameters of thin wires, and small spherical objects. It is not suitable for measuring large dimensions or lengths.",
+    "examtype": "utme",
+    "examyear": "2009"
   },
   {
     "id": 853,
@@ -3344,6 +3632,22 @@
     "examyear": "2009"
   },
   {
+    "id": 866,
+    "question": "A man standing 2 m from a charcoal fire is warmed mainly by?",
+    "option": {
+      "a": "convection",
+      "b": "radiation",
+      "c": "refraction",
+      "d": "conduction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Radiation is the method of heat transfer with or without a material medium. It can be through space or through a material medium.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 867,
     "question": "Metal cables are used as telephone wires because?",
     "option": {
@@ -3436,6 +3740,22 @@
     "image": "",
     "answer": "d",
     "solution": "Terminal velocity is reached when the velocity is uniform.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 890,
+    "question": "The pressure of two moles of an ideal gas at a temperature of 27 °C and volume 10⁻² m³ is?\n[R = 8.313 J mol⁻¹ K⁻¹]",
+    "option": {
+      "a": "4.99 × 10⁵ N m⁻²",
+      "b": "9.80 × 10³ N m⁻²",
+      "c": "4.98 × 10³ N m⁻²",
+      "d": "9.80 × 10⁵ N m⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nNumber of moles, n = 2 mol\nTemperature, T = 27 °C = 27 + 273 = 300 K\nVolume, V = 10⁻² m³\nGas constant, R = 8.313 J mol⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Ideal gas equation\nPV = nRT\n\nStep 2: Rearrange for pressure P\nP = nRT / V\n\nStep 3: Substitute values\nP = (2 × 8.313 × 300) / 10⁻²\n\nStep 4: Calculate numerator\n2 × 8.313 = 16.626\n16.626 × 300 = 4987.8\n\nStep 5: Divide by volume\n4987.8 / 10⁻² = 4987.8 × 100 = 498780 N m⁻²\n\nStep 6: Express in scientific notation\n498780 = 4.9878 × 10⁵ ≈ 4.99 × 10⁵ N m⁻²",
     "examtype": "utme",
     "examyear": "2009"
   },
