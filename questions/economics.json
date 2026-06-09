@@ -2256,6 +2256,22 @@
     "examyear": "2013"
   },
   {
+    "id": 150,
+    "question": "A country’s aggregate consumption was N20 million when its GDP was N100million. Following an increase in GDP to N120 million, consumption increased to N25 million. The marginal propensity to consume is given as",
+    "option": {
+      "a": "0.25",
+      "b": "0.5",
+      "c": "0.75",
+      "d": "0.8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 151,
     "question": "Which of the following is not a measure for controlling inflation by the central bank?  ",
     "option": {
@@ -8923,6 +8939,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 593,
+    "question": "The difference between the Gross National Product (GNP) and the Gross Domestic Product(GDP) is",
+    "option": {
+      "a": "total interest payment",
+      "b": "net income generated internally",
+      "c": "total national savings",
+      "d": "net income from abroad."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
