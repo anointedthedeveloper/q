@@ -80,6 +80,22 @@
     "examyear": "2006"
   },
   {
+    "id": 14,
+    "question": "Which of the following best describes French colonial policy in Africa? ",
+    "option": {
+      "a": "policy of association ",
+      "b": "policy of Casus Belli ",
+      "c": "policy hostility ",
+      "d": "policy of assimilation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 15,
     "question": "What was the primary purpose of the Sir Henry Willink Commission of Inquiry? ",
     "option": {
@@ -123,6 +139,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 18,
+    "question": "Alhaji Shehu Shagari was sworn in as President of the Federal Republic of Nigeria in 1979 by ",
+    "option": {
+      "a": " Justice Fata Williams ",
+      "b": "Justice Adetokunbo Ademola ",
+      "c": "Justice Salihu Modibbo  Alfa Belgore ",
+      "d": "Justice Isa Mohammed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
@@ -240,6 +272,22 @@
     "examyear": "2007"
   },
   {
+    "id": 39,
+    "question": "Every political system performs the following basic functions except ",
+    "option": {
+      "a": "rule making ",
+      "b": "rule transformation ",
+      "c": "rule enforcement ",
+      "d": "rule adjudication ."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 47,
     "question": "The French colonial policy of Assimilation  was intended to ",
     "option": {
@@ -267,6 +315,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 52,
+    "question": "The European Union (EU) is an ",
+    "option": {
+      "a": "Economic organization ",
+      "b": "Association of former British colonies  ",
+      "c": "Organization of European states ",
+      "d": "Union  of European  organization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -359,6 +423,22 @@
       "b": "To prevent the concentration of power on legislative house ",
       "c": "To provide jobs for more politicians ",
       "d": "to ensure that just laws are passed."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 90,
+    "question": "One of the functions of the ministry of External Affairs is the ",
+    "option": {
+      "a": "Deportation of illegal aliens ",
+      "b": "Issuance of passports ",
+      "c": "Defense of the country’s boarders ",
+      "d": "Promotion of national interest"
     },
     "section": "",
     "image": "",
@@ -590,6 +670,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 151,
+    "question": "The commission established to handle the electoral activities in the Second Republic of Nigeria was ",
+    "option": {
+      "a": "National Electoral Commission  ",
+      "b": "National Electoral Commission of Nigeria  ",
+      "c": "Federal Electoral Commission  ",
+      "d": "Independent National Electoral Commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 153,
@@ -864,6 +960,22 @@
     "examyear": "2000"
   },
   {
+    "id": 212,
+    "question": "An order directing a detainee to be brought before the court is called",
+    "option": {
+      "a": "habeas corpus",
+      "b": "an appearance",
+      "c": "an injunction",
+      "d": "a referendum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 227,
     "question": "The grant of the right to vote is called",
     "option": {
@@ -939,6 +1051,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 240,
+    "question": "In the federation of Nigeria, states are equally represented in the",
+    "option": {
+      "a": "Senate",
+      "b": "House of Representatives",
+      "c": "Judiciary",
+      "d": "National Population Commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 244,
+    "question": "In the pre-colonial Hausa/Fulani system, the appointment of an Emir in the Caliphate was approved by the",
+    "option": {
+      "a": "Sardauna of Sokoto and the Alkali",
+      "b": "Galadima and the Waziri",
+      "c": "Shehu of Bomo and the Galadima",
+      "d": "Sultan of Sokoto and the Emir of Gwandu"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -1312,6 +1456,22 @@
     "examyear": "1999"
   },
   {
+    "id": 343,
+    "question": "The highest ruling body under the Murtala Obasanjo regime differed remarkably from that of the Gowon",
+    "option": {
+      "a": "administration because of the",
+      "b": "inclusion of civilians as members",
+      "c": "exclusion of military governors from the council",
+      "d": "inclusion of the Chief justice as member"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 346,
     "question": "Rate are usually collected in Nigeria by",
     "option": {
@@ -1403,6 +1563,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 374,
+    "question": "The system of indirect rule failed in the former Eastern Nigeria primarily because",
+    "option": {
+      "a": "of the fragmented political structures",
+      "b": "the chief refused to cooperate with colonial officer",
+      "c": "the high incidence of taxation chief refused to cooperate with colonial officers",
+      "d": "the colonial officers imposed warrant chiefs on the people"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -1904,6 +2080,22 @@
     "examyear": "2012"
   },
   {
+    "id": 499,
+    "question": "A major drawback to the NEPAD initiative is its",
+    "option": {
+      "a": "articulation by few African leaders",
+      "b": "affiliation to the African union",
+      "c": "inability to empower the youth",
+      "d": "reliance on Western donors for funds."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 500,
     "question": "The structure of the African Union includes",
     "option": {
@@ -2007,6 +2199,22 @@
       "b": "rigid",
       "c": "written",
       "d": "unwritten."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 521,
+    "question": "Which of the following types of citizenship cannot be withdrawn?",
+    "option": {
+      "a": "Citizenship by naturalization.",
+      "b": "Citizenship by conquest.",
+      "c": "Citizenship by birth.",
+      "d": "Honorary citizenship."
     },
     "section": "",
     "image": "",
@@ -3280,6 +3488,22 @@
     "examyear": "2019"
   },
   {
+    "id": 850,
+    "question": "In the all-Nigerian constitutional conference of 1950_______",
+    "option": {
+      "a": " all official members of the legislative council participated",
+      "b": "it was resolved that the Nigerians federation be organized on ethnic basis",
+      "c": " it was concluded that a quasi-federal structure should be developed for colonial Nigeria",
+      "d": " all unofficial members of the legislative council participated"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Recognizing and acknowledging the relative importance of direct participation and contribution by people in their own affairs, the All-Nigerian Constitutional Conference marked an unprecendented attendance of all previously relegated unofficial members of the local legislature.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 854,
     "question": "Under the 1999 constitution, the Chief Law Officer and the Supreme Court Judge respectively are the_______ ",
     "option": {
@@ -3356,6 +3580,22 @@
     "image": "",
     "answer": "d",
     "solution": "A collegiate system refers to a system where leadership is shared or rotated among members rather than being permanently held by one entity.\n\nIn ECOWAS (Economic Community of West African States), the Chairmanship is rotational among member states, meaning no single country or leader permanently dominates the organization.\nThis makes ECOWAS a collegiate body, where power is collectively exercised and shared.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 864,
+    "question": "The newspaper established by Dr. Nnamdi Azikiwe to project the interest of nationalists was__________",
+    "option": {
+      "a": " West African Pilot",
+      "b": "Lagos Weekly Record",
+      "c": "Daily Times",
+      "d": "The Comet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The West African Pilot was the newspaper of Dr Azikiwe which served as a medium for propagating nationalist ideas and solidarity movements towards self-realization.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -3532,6 +3772,22 @@
     "image": "",
     "answer": "b",
     "solution": "The charter of the United Nations was signed on 26th June 1945 in San Francisco",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 908,
+    "question": "The idea of making the civil service permanent, neutral and anonymous is to _________",
+    "option": {
+      "a": "make civil servants a functional elite",
+      "b": "prevent opposition to government",
+      "c": "ensure loyalty and support",
+      "d": "enhance efficiency in administration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The idea of making the civil service permanent, neutral, and anonymous is to enhance efficiency in administration. Making the civil service permanent, neutral, and anonymous ensures that civil servants can perform their duties without political interference and this provides continuity and stability in administration which enhances overall efficiency.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -3808,6 +4064,22 @@
     "examyear": "2023"
   },
   {
+    "id": 996,
+    "question": "In a parliamentary system of government, the head of government is typically ___________.",
+    "option": {
+      "a": "elected directly by the people",
+      "b": "the leader of the majority party in the legislature",
+      "c": "appointed by the judiciary",
+      "d": "chosen by the head of state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a parliamentary system of government, the head of government is typically the leader of the majority party in the legislature. This is because the head of government, often called the prime minister, is usually the leader of the political party that has the most seats in the legislature.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 997,
     "question": "The policy of 'indigenization' was introduced under the regime of?",
     "option": {
@@ -3820,6 +4092,22 @@
     "image": "",
     "answer": "a",
     "solution": "The policy of 'indigenization' was introduced under the regime of General Yakubu Gowon. The Indigenization policy was a government initiative that aimed to increase the participation of Nigerians in the economy by restricting certain businesses to Nigerian citizens.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1004,
+    "question": "What is the main source of funding for public corporations in Nigeria?",
+    "option": {
+      "a": "Government budget allocations",
+      "b": "Foreign aid",
+      "c": " Revenues generated from their operations",
+      "d": "Donations from private companies"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The main source of funding for public corporations in Nigeria is Government budget allocations. Public corporations are owned and operated by the government, and their operations are funded through the government's budget. This is different from private corporations, which are funded through private investments and revenues generated from their operations.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4000,6 +4288,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1049,
+    "question": "The productivity of public corporations is believed to be enhanced when there is ",
+    "option": {
+      "a": " increase in employment rate",
+      "b": "redeployment of staff ",
+      "c": " increase in working hours",
+      "d": "less political interference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Public Corporation operates better when there is little to no political interference. This is because it allows the corporation to function like a business rather than a government body, reduce corruption and improve accountability. Measures such as privatisation, commercialisation and deregulation can be taken to reduce political interference\n\n ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1050,
     "question": "NEPAD stands for",
     "option": {
@@ -4176,6 +4480,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1112,
+    "question": "The idea of making the civil service permanent, neutral and anonymous is to",
+    "option": {
+      "a": "enhance efficiency in administration",
+      "b": " ensure loyalty and support",
+      "c": "prevent opposition to government",
+      "d": "make civil servants a founctional elite."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The idea of making the civil service permanent, neutral and anonymous is to enhance efficiency in administration.\n\nWhen a civil servant is made to enjoy secured appointment, he must definitely stand good chance to have good measure of expert knowledge and intelligence. When he is not neutral, his political views will definitely interfere with his official work. This will eventually create no conducive atmosphere for efficiency.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1115,
     "question": "The method used by the British to facilitate the administration of Southern Nigeria was",
     "option": {
@@ -4252,6 +4572,22 @@
     "image": "",
     "answer": "d",
     "solution": "The Nigerian Youth Movement collapsed as the result of the breakup of its leadership. The movement was in no distant time torn apart by leadership crisis. The crisis split the movement into factions. the two principal contestant were Ernest Ikoli and S.A Akorisanya",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1133,
+    "question": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalised in the late 1970's for transacting business with",
+    "option": {
+      "a": "France",
+      "b": " South Africa",
+      "c": "Portugal",
+      "d": "Libya"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Barclays Bank and the British Petroleum Company in Nigeria were nationalized in the late 1970s for transacting business with South Africa.\n\nIt was Obasanjo's Administration that chased Britain's arrogance over Zimbabwe's Independence.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -4432,6 +4768,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1178,
+    "question": "The abolition of the state ministries of local governments in 1989 entails that local governments",
+    "option": {
+      "a": "are equal to the states",
+      "b": "have more control over their funds",
+      "c": "no longer have anything to do with state governments",
+      "d": "are no longer surbodinates to state governments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The abolition of the state ministries of local governments in 1989 entails that local governments are no longer subordinate to state governments.\n\nPreviously local governments in Nigeria were under the ministry of government. This means that all their activities were controlled by the ministries of Local Government. With this new development the local government is now a full fledged third tier of government. They can now take actions on any issue without reference to the ministry of local government.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1179,
     "question": "One major factor that differentiates the presidential from the parliamentary system is",
     "option": {
@@ -4460,6 +4812,38 @@
     "image": "",
     "answer": "a",
     "solution": "The United Nations charter is an instrument that sets out the rights and obligations of member states.\n\nIt should be recalled that one of the aims and objectives of U.N.O is to promote respect for Fundamental Human Rights among Nations.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1184,
+    "question": "The group of states that conceived the idea of the United Nations Organization included",
+    "option": {
+      "a": "the USSR, Italy, the UK and China",
+      "b": " Italy, the UK, France and Japan",
+      "c": "the USA, the USSR, the UK and China",
+      "d": " France,the USA, Canada and Japan"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The draft of the U.N.O was prepared under the auspices of the United Kingdom, United States of America, Soviet Union and China.\n\nSo the group of states that conceived the idea of the United Nations Organization included the U.S.A, the USSR. the UK and China.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1186,
+    "question": "The greatest criticism of the Security Council of the UNO is that it",
+    "option": {
+      "a": "has no standing army",
+      "b": "is not representative enough",
+      "c": "undermines the General Assembly",
+      "d": "has exclusive veto power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "One of the most significant criticisms of the UN Security Council is that its structure gives the five permanent members (the United States, the United Kingdom, France, Russia, and China) the power to veto any substantive resolution. This \"exclusive veto power\" can block action even when there is broad international support for a measure, which many argue hampers the Council's ability to respond effectively to international crises and conflicts. Critics contend that this arrangement often leads to inaction and prevents the Security Council from reflecting the current global political landscape.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -4608,6 +4992,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1232,
+    "question": "The activities of Nigeria in the international community are primarily influenced by",
+    "option": {
+      "a": "propaganda",
+      "b": "national interest",
+      "c": "military power",
+      "d": "diplomacy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Nigeria’s actions in international relations are driven by national interest, protecting its economy, security, and regional influence. For example, partnerships for trade, peacekeeping in Africa, and counterterrorism efforts all aim to benefit Nigeria’s stability and growth",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1239,
     "question": "The major problem of the ECOWAS is lack of",
     "option": {
@@ -4654,6 +5054,22 @@
     "solution": "The President of the United Nations Security Council serves a tenure of one month, with the position rotating among the 15 member states (5 permanent and 10 non-permanent) in alphabetical order (based on English country names). This monthly rotation ensures equitable representation and shared leadership.",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 1248,
+    "question": "With the admission of Asian and African countries to the Commonwealth, the Queen of England became the",
+    "option": {
+      "a": "patron of the Commonwealth",
+      "b": "head of state of these countries",
+      "c": "chairperson of the Commonwealth",
+      "d": "head of government of these countries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Queen of England became the chairperson of the Commonwealth With the admission of Asian and African countries to the Commonwealth.",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 1251,
@@ -4960,6 +5376,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1328,
+    "question": "How does the president relieve a minister of his appointment in a presidential system of government",
+    "option": {
+      "a": "In consultation with the legislature",
+      "b": "After serving a full tenure",
+      "c": "In consultation with the judiciary",
+      "d": "By unilateral action"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a presidential system of government, the President relieves a Minister of his appointment by unilateral action.\n\nGoing through the powers and functions of the President, it should be observed that the President has the right to dismiss any member of his cabinet and can also reshuffle the cabinet.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1334,
     "question": "A major flaw in a liberal democracy is",
     "option": {
@@ -4972,6 +5404,22 @@
     "image": "",
     "answer": "c",
     "solution": "A major flaw in a liberal democracy is political instability.\n\nAristotle even maintained that the real democracy at time give rise to mob rule. It was also breeds constant disagreement in state matters. Such disagreements often result to instability in government.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1336,
+    "question": "The most important aspect of political participation in a democracy is",
+    "option": {
+      "a": "voting in elections",
+      "b": "attending political rallies",
+      "c": " the observance of electoral processes",
+      "d": "registration with a political party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "voting in elections is the most important aspect of political participation in a democracy.\n\nMembership of a political party makes one to see it as a must to vote at elections and also fights vigorously to see that others vote for his party.\n\nHe endeavors to attend many political rallies. A person with good conscience tries as much as possible to observe most electoral rules.\n\nThe person also stands the good chance of contesting at elections.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -5022,6 +5470,22 @@
     "solution": "The traditional rulers play advisory role in the present local government structure.\n\nSince the 1976 local government reform, the traditional rulers have maintained the position of advicers to local government councils. And this is mostly on traditional matters.",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 1346,
+    "question": "ECOWAS main achievement in recent years has been in the area of",
+    "option": {
+      "a": "infrastructural development",
+      "b": "cultural integration",
+      "c": "security and defence",
+      "d": "political unity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "ECOWAS main achievement in recent years has been in the area of Political Unity.\n\nThe fact that many countries with different colonial backgrounds came together and have remained together in the last sixteen years is a remarkable achievement. It is due to unity that the sub-region has been able to think of certain projects to link the 10,000km high way projects such to link the capital cities of the member states. Another is the establishment of ECOWAS Monitoring Group (ECOMOG) which has succeeded in bringing about peace in certain places such as Liberia and Sierra Leone in 1998 and 1999 respectively.",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 1349,
@@ -5232,6 +5696,38 @@
     "examyear": "2008"
   },
   {
+    "id": 1390,
+    "question": "The British colonial rule in Nigeria brought about",
+    "option": {
+      "a": "stagnationin social formations",
+      "b": "the pampering of traditional rulers",
+      "c": "a change in the mode of production",
+      "d": "stabilization in the price of raw materials"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "British colonial rule fundamentally altered Nigeria’s economic structure by replacing subsistence agriculture and local trade with a cash-crop and extractive economy geared toward global markets. Key changes included:\n\nIntroduction of Cash Crops: Palm oil, cocoa, and groundnuts were prioritized for export, disrupting traditional subsistence practices.\n\nMonetization and Wage Labor: Shifted from barter systems to wage-based labor, integrating Nigeria into global capitalism.\n\nResource Extraction: Exploitation of minerals (e.g., tin, coal) and infrastructure (railways) built to serve colonial economic interests.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1394,
+    "question": "The Inspector General of Police is appointed by the executive on the advice of the",
+    "option": {
+      "a": " Nigerian Police Council",
+      "b": "Police Service Commission",
+      "c": "House of Representatives",
+      "d": "Senate of the Federal Republic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Inspector General of Police (IGP) in Nigeria is appointed by the President (executive) on the advice of the Nigerian Police Council. This council, established under Section 153 of the 1999 Constitution (as amended), includes:\n\nThe President (Chairman)\n\nState Governors\n\nThe IGP\n\nThe Chairman of the Police Service Commission.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1396,
     "question": "The six African members of the Nigerian Council were nominated by the",
     "option": {
@@ -5296,6 +5792,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1417,
+    "question": "An advantage of flexible constitution is that it allows for",
+    "option": {
+      "a": "political awareness",
+      "b": "constitutional stability",
+      "c": "reduction of ambiguities",
+      "d": " ease of amendment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An advantage of flexible constitution is that it allows for ease of amendment. Changes can be made easily in order to accommodate changing situations in the society. Its amendment does not require or involve much time and financial cost.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1420,
     "question": "The right of all eligible citizens to vote and be voted for is referred to as",
     "option": {
@@ -5356,6 +5868,22 @@
     "image": "",
     "answer": "b",
     "solution": "One advantage of the unitary system over Federal System is cost effectiveness. It reduces the cost of running the country. This is because few hands are involved in government.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1435,
+    "question": "The executive checks the excesses of the legislature through",
+    "option": {
+      "a": "assent to bills",
+      "b": "the use of veto power",
+      "c": " the ratification of treaties",
+      "d": " issuance of orders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The executive checks the excesses of the legislature through the use of veto power. The power to veto certain acts of parliament granted to the Executive. President will always make the legislators to sit up.",
     "examtype": "utme",
     "examyear": "2009"
   },
