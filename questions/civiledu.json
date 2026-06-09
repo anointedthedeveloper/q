@@ -272,6 +272,22 @@
     "examyear": "2014"
   },
   {
+    "id": 37,
+    "question": "Which of the following may result from Wanja’s habit?",
+    "option": {
+      "a": "Humility for elders",
+      "b": "Criminality in the society",
+      "c": "Advocacy for hard drugs by NGOs",
+      "d": "Excellent performance in school"
+    },
+    "section": "Ada:      Wanja, where are you going to in this ungodly hour of the night? <br> \tWanja:   I am heading towards my usual joint to enjoy myself <br>\t \tAda:       Which joint?<br> \tWanja:   XYZ. Night Club, where I take marijuana and alcoholic beverages. I really want to be high \t\t\t      tonight so that when people see me tomorrow, they will fear and respect me.<br> \tAda:     Remember, people who work under the influence of hard drugs and alcoholic beverages are prone to either psychiatric problems or premature death. Softly young man, imbibe good - natured character, you have the world at your feet and a destiny to fulfil. Pray you will not be the architect of your own misfortune.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 39,
     "question": "From the above dialogue, Wanja’s behaviour could be curtailed by",
     "option": {
@@ -299,6 +315,22 @@
     "section": "Ada:      Wanja, where are you going to in this ungodly hour of the night? <br> \tWanja:   I am heading towards my usual joint to enjoy myself <br>\t \tAda:       Which joint?<br> \tWanja:   XYZ. Night Club, where I take marijuana and alcoholic beverages. I really want to be high \t\t\t      tonight so that when people see me tomorrow, they will fear and respect me.<br> \tAda:     Remember, people who work under the influence of hard drugs and alcoholic beverages are prone to either psychiatric problems or premature death. Softly young man, imbibe good - natured character, you have the world at your feet and a destiny to fulfil. Pray you will not be the architect of your own misfortune.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 41,
+    "question": "One of the major barriers to national development is the",
+    "option": {
+      "a": "low poverty level",
+      "b": "existence of multi - party system",
+      "c": "prevalence of corrupt practices",
+      "d": "persistent rural - urban migration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -608,6 +640,22 @@
     "examyear": "2014"
   },
   {
+    "id": 99,
+    "question": "................ is the apex body saddled by law to fight corruption and other related offences",
+    "option": {
+      "a": "IRS",
+      "b": "ICPC",
+      "c": "EFCC",
+      "d": "NPF"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 101,
     "question": "............ is obtained from the Nigerian immigration services as a requirement to travel out of the country",
     "option": {
@@ -848,6 +896,22 @@
     "examyear": "2012"
   },
   {
+    "id": 130,
+    "question": "One of the following is a social group",
+    "option": {
+      "a": "dangote group of companies",
+      "b": "rotary club",
+      "c": "Millan group",
+      "d": "human right Africa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 131,
     "question": "The organization with the motives and goals of helping people is called",
     "option": {
@@ -983,6 +1047,22 @@
       "b": "Navy",
       "c": "Civil  defense corps",
       "d": "Police"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
+    "id": 153,
+    "question": "The National Assembly in Nigeria is primarily responsible for",
+    "option": {
+      "a": "executing laws",
+      "b": "Interpreting laws",
+      "c": "ratifying appointment",
+      "d": "making laws"
     },
     "section": "",
     "image": "",
@@ -1600,6 +1680,22 @@
     "examyear": "2013"
   },
   {
+    "id": 246,
+    "question": "Juvenile delinquency and cultism are ......... and should be .........",
+    "option": {
+      "a": "undesirable - encouraged",
+      "b": "desirable - discouraged",
+      "c": "undesirable - discouraged",
+      "d": "desirable - discouraged"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 247,
     "question": "Those who consume fish and vegetable frequently stand the chance of contacting the",
     "option": {
@@ -2160,6 +2256,22 @@
     "examyear": "2016"
   },
   {
+    "id": 344,
+    "question": "The Traffic in Persons Prohibition and Administration Act was passed in Nigeria in",
+    "option": {
+      "a": "December 2001.",
+      "b": "October 2002",
+      "c": "August 2003",
+      "d": "April 2004."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
     "id": 346,
     "question": "Rates are collected in Nigeria by",
     "option": {
@@ -2272,6 +2384,22 @@
     "examyear": "2016"
   },
   {
+    "id": 370,
+    "question": "Rule of law is limited by the following except",
+    "option": {
+      "a": "state of emergency",
+      "b": "habeas corpus",
+      "c": "illiteracy",
+      "d": "immunity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
     "id": 371,
     "question": "Preventive measures of HIV/AIDS do not include",
     "option": {
@@ -2352,6 +2480,22 @@
     "examyear": "2016"
   },
   {
+    "id": 381,
+    "question": "Based on the monologue above, the best approach to curb moral decadence in the motherland is by",
+    "option": {
+      "a": "value re-orientation",
+      "b": "introducing war against corruption",
+      "c": "legalizing capital punishment",
+      "d": "sending corrupt officials on exile"
+    },
+    "section": "Oh Motherland, you were a precious country, a beacon of hope and aspiration as well as toga of pride of your citizens at independence. However, today you are bedeviled with evil, engulfed in darkness and to say the obvious, at the edge of total moral collapse. Corruption, fraud, deception and dishonesty are prevalent; drug peddlers are having a field day. In schools and colleges, radicalism, prostitution, cultism, examination malpractice among other social vices are order of the day.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
     "id": 383,
     "question": "Which of the following can not be easily abused?",
     "option": {
@@ -2395,6 +2539,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
+    "id": 388,
+    "question": "Citizen’s compliance with tenets of the Nigerian National Pledge will enable the country to",
+    "option": {
+      "a": "receive reciprocal assistance",
+      "b": "witness value clarification",
+      "c": "get international aid",
+      "d": "experience development"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2016"
