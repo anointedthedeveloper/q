@@ -1152,6 +1152,22 @@
     "examyear": "2000"
   },
   {
+    "id": 117,
+    "question": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places ",
+    "option": {
+      "a": "20.980",
+      "b": " 20.351",
+      "c": "20.981",
+      "d": "20.352"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Hint: Use BODMAS, in other words, do multiplication of the second and the last first before subtracting value obtained from the first.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 119,
     "question": "A matrix P is such that P<sup>T</sup>= p, where P<sup>T</sup> is the transpose of P, if b = 1, then P is",
     "option": {
@@ -1676,6 +1692,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696703/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_43_ohk92h.jpg",
     "answer": "b",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 165,
+    "question": "The bar chart above shows different colours of passing a particular point of a certain street in two minutes. What fraction of the total number of cars is yellow?",
+    "option": {
+      "a": " 3/25",
+      "b": "2/25",
+      "c": "1/5",
+      "d": " 4/15"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696737/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_44_vvchkb.jpg",
+    "answer": "a",
+    "solution": "Number of yellow cars = 3\nTotal number of cars = 3 + 4 + 8 + 2 + 6 + 2 = 25\nFraction of yellow cars = 3/25",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -2768,6 +2800,22 @@
     "examyear": "2003"
   },
   {
+    "id": 262,
+    "question": "XYZ is a circle enter o and a radius 7cm. Find the area of the shaded region. θ = 45 x 2 = 90",
+    "option": {
+      "a": "84cm<sup>2</sup>",
+      "b": "B 77cm<sup>2</sup>",
+      "c": "38cm<sup>2</sup>",
+      "d": "14cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699665/ALOC-Questions/Mathematics/2003/math_2003_q41_hvzhnt.jpg",
+    "answer": "d",
+    "solution": "θ = 45 x 2 (∠ at center twice ∠ at θ)\nθ = 90\nArea of sector = θ/360 x πr<sup>2</sup>\n= 90/360 x 22/7 x 7 x 7\n= 77/2cm<sup>2</sup>\nArea of triangle = 1/2 ab sin θ\n= 1/2 x 7 x 7 sin 90\n= 1/2 x 7 x 7 x 1\n= 49/2\nArea of shaded region = 77/2 - 49/2\n1\t1\n2\n\n= 28/2\n= 14cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 263,
     "question": "A triangle has vertices P(-1,6), Q(-3, -4) and R(1, -4).Find the midpoint of PQ and QR respectively.",
     "option": {
@@ -2848,6 +2896,22 @@
     "examyear": "2003"
   },
   {
+    "id": 270,
+    "question": "If π/≤ 2π, find the maximum value of f(θ) = 4/6 + 2 \ncos θ",
+    "option": {
+      "a": "1",
+      "b": "1/2",
+      "c": "4",
+      "d": "2/3"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699755/ALOC-Questions/Mathematics/2003/math_2003_q49_t4ucuu.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 272,
     "question": "An arc of a circle of length 22 cm subtends an angle of 3x° at the center of the circle. Find the value of x if the diameter of the circle is 14 cm",
     "option": {
@@ -2892,6 +2956,22 @@
     "image": "",
     "answer": "a",
     "solution": "Midpoint = (x<sub>1</sub>+x<sub>2</sub>)/2; (y<sub>1</sub>+y<sub>2</sub>)/2 = (−3+5)/2; (5−3)/2 = 2/2; 2/2 = (1, 1)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 278,
+    "question": "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR",
+    "option": {
+      "a": " The diagonal QS",
+      "b": "the perpendicular bisector of PQ",
+      "c": "The diagonal PR",
+      "d": "side SR"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The diagonal QS bisects the angle formed by PQ and QR\n∴ [A]",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3100,6 +3180,22 @@
     "image": "",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 296,
+    "question": "y = is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10.",
+    "option": {
+      "a": "2",
+      "b": "10",
+      "c": "1/5",
+      "d": "1/10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y ∝ 1/x\ny = K/x\nK = xy\nK = (1/2) * 4 ( when y = 4 and x = 1/2)\nK = 2\n∴y = 2/x\n10 = 2/x (when y = 10)\n10x = 2\nx = 2/10\nx = 1/5",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4160,6 +4256,22 @@
     "examyear": "2006"
   },
   {
+    "id": 389,
+    "question": "If (K2)\n<sub>6</sub> * 3<sub>6</sub> = 3<sub>5</sub>(K4)<sub>5</sub>, what is the value of k?",
+    "option": {
+      "a": "1",
+      "b": "4",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": " (K2)\n<sub>6</sub> * 3<sub>6</sub> = 3<sub>5</sub>(K4)<sub>5</sub>\nk*6<sup>1</sup>  + 2*6<sup>0</sup>  + 3*5<sup>0</sup>  = 3*5<sup>0</sup>  + K*5<sup>1</sup>  + 4*5<sup>0</sup> \n6K + 2 = 5K + 4\n6K - 5k = 4 - 2\nK = 2",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 391,
     "question": "Find the tax on an income of N20,000 if no tax is paid on the first N10,000 and tax is paid at N50 in N1000 on the next N5000 and at N55 in N1000 on the remainder",
     "option": {
@@ -4368,6 +4480,22 @@
     "examyear": "2006"
   },
   {
+    "id": 406,
+    "question": "The solution set of the shaded area above is",
+    "option": {
+      "a": "Y ≥ 0, y ≥ x and y + x ≤ 4",
+      "b": "Y ≤ x, y + x ≤ 4",
+      "c": "Y + x ≥ 4, y ≤ x",
+      "d": "Y ≤ x, y + x ≤ 4 and y ≥ 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Y = x implies y ≤ x\nY + x = 4 implies y = 4 – x\n∴y = 4 – x\n∴y ≤ x, y + x ≤ 4 and y ≥ 0",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 407,
     "question": "A binary operation θ defined on the set of real number is such that xθy = xy/6 for all x, y ∈ R. Find the inverse of 20 under this operation when the identity element is 6",
     "option": {
@@ -4380,6 +4508,22 @@
     "image": "",
     "answer": "d",
     "solution": "X ⊕ y = xy/6 = xe/6 = x\nXe = 6x\ne = 6\nX ⊕ y = xx<sup>1</sup>/6 where x<sup>1</sup> = 20\nXx20/6 = 6\nX = 36/20\nX = 9/5",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 409,
+    "question": "A binary operation * on the set of rational numbers is defined asx×y=(x^2-y^2)/2xy find-5×3",
+    "option": {
+      "a": "-8/15",
+      "b": "8/15",
+      "c": "17/15",
+      "d": "-17/15"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>x</mi>\n  <mo>&#xD7;</mo>\n  <mi>y</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <msup>\n        <mi>x</mi>\n        <mn>2</mn>\n      </msup>\n      <mo>&#x2212;</mo>\n      <msup>\n        <mi>y</mi>\n        <mn>2</mn>\n      </msup>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mi>x</mi>\n      <mi>y</mi>\n    </mrow>\n  </mfrac>\n  <mi>f</mi>\n  <mi>i</mi>\n  <mi>n</mi>\n  <mi>d</mi>\n  <mo>&#x2212;</mo>\n  <mn>5</mn>\n  <mo>&#xD7;</mo>\n  <mn>3</mn>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(x)×(y)=(x<sup>2</sup>-y<sup>2</sup>)/2xy find-5×3=((x+y)(x-y))/2xy=((-5+3)(-5-3))/(2(-5×3))=(-2×-8)/(2(-5×3))=(-8)/15",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -4624,6 +4768,22 @@
     "examyear": "2007"
   },
   {
+    "id": 434,
+    "question": "Determine the value of ∫<supb>0</sub><sup>(π/2)</sup>(-2cosx)dx",
+    "option": {
+      "a": "(π/2)",
+      "b": "-1/2",
+      "c": " -3",
+      "d": "-3/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": " ∫<sub>0</sub><sup>(π/2)</sup>(-2cosx)dx=[-2sinx+c]<sub>0</sub><sup>(π/2)</sup>=(-2sin π/2 + c + 2sin0 - c) = -2sin90 + c + 2sin0 - c.= -2(1) + 2(0) = -2",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 435,
     "question": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is",
     "option": {
@@ -4652,6 +4812,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545028/ALOC-Questions/Mathematics/2007/JAMB_2007_Q15_njbcs6.jpg",
     "answer": "b",
     "solution": "x = -2, x = -1 and x = 1\nthen the factors; x+2, x+1 and x-1\nProduct of the factors; (x+2)(x+1)(x-1)\n= y = (x + 2)(x<sup>2</sup> - x + x - 1)\n= y = (x+2)(x<sup>2</sup>-1)\nx<sup>3</sup> - x + 2x<sup>2</sup> - 2 = y\nx<sup>3</sup> + 2x<sup>2</sup> - x - 2 = y",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 437,
+    "question": "Make L the subjects of the formula if d=√(42w/5l)",
+    "option": {
+      "a": "√(42w/5d)",
+      "b": "42W/(5d<sup>2</sup> )",
+      "c": "42/5dW",
+      "d": "1/d √(42w/5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "d = √(42w/5l).   square both side of the equation    d<sup>2</sup>=〖(√(42W/5l))〗<sup>2</sup> d<sup>2</sup>=42W/5l 5ld<sup>2</sup>=42W.    l=42W/(5d<sup>2</sup> )",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -5148,6 +5324,22 @@
     "image": "",
     "answer": "b",
     "solution": "mΔn = m+n+mn\nLet e be the identity element\n∴mΔe = eΔm = m\nm+e+me = m\ne+me = m-m\ne+me = 0\ne(1+m) = 0\ne = 0 / (1+m)\ne = 0",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 493,
+    "question": "In the diagram above, PQ//RS. The size of the angle marked x is?",
+    "option": {
+      "a": "100°",
+      "b": "80°",
+      "c": "50°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546116/ALOC-Questions/Mathematics/2008/MATH_JAMB_2008_Q22_pfrgbn.jpg",
+    "answer": "b",
+    "solution": "Exterior angle = sum of two interior opposite angles\ny = 50° (vert. opp ∠s are equal)\nX = y + 30\nX = 50 + 30\nX = 80°\n",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -6384,6 +6576,22 @@
     "examyear": "2010"
   },
   {
+    "id": 604,
+    "question": "For what range of values of x is 1/2x + 1/4 > 1/3x + 1/2?",
+    "option": {
+      "a": "x < 3/2",
+      "b": "x > 3/2",
+      "c": "x < -3/2",
+      "d": "x > -3/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "1/2x + 1/4 > 1/3x + 1/2\n\nMultiply through by through by the LCM of 2, 3 and 4\n\n12 x 1/2x + 12 x 1/4 > 12 x 1/3x + 12 x 1/2\n\n6x + 3 > 4x + 6\n\n6x - 4x > 6 - 3\n\n2x > 3\n\n2x/2 > 3/2\n\nx > 3/2",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 609,
     "question": "The interior angles of a quadrilateral are (x + 15)°, (2x - 45)°, ( x - 30)° and (x + 10)°. Find the value of the least interior angle.",
     "option": {
@@ -6574,6 +6782,22 @@
     "solution": "Using S∞ = a/1−r\n\nr = 0.05/0.5 = 1/10\n\nS∞ = 0.5/(1/10)\n\n\n= 0.5/(9/10)\n\n= 0.5×10/9\n\n= 5/9",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 622,
+    "question": "If 2q3<sub>5</sub>  = 77<sub>8</sub> , find q",
+    "option": {
+      "a": "2",
+      "b": "1",
+      "c": "4",
+      "d": "0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": " 2q3<sub>5</sub>  = 77<sub>8</sub>\n\n2 x 5<sup>2</sup> + q x 5<sup>1</sup> + 3 x 5<sup>0</sup> = 7 x 8<sup>21</sup> + 7 x 8<sup>0</sup>\n\n2 x 25 + q x 5 + 3 x 1 = 7 x 8 + 7 x 1\n\n50 + 5q + 3 = 56 + 7\n\n5q = 63 - 53\n\nq = 10/5\n\n\nq = 2",
+    "examtype": "utme",
+    "examyear": "2011"
   },
   {
     "id": 624,
@@ -8512,6 +8736,22 @@
     "examyear": "2016"
   },
   {
+    "id": 838,
+    "question": "Given U = {x: x is a positive integer less than 15} and P = {x: x is even number from 1 to 14}. Find the compliment of P.",
+    "option": {
+      "a": "{1, 3, 5, 7, 9, 11, 13, 15}",
+      "b": "{2, 3, 5, 7, 9, 11, 13}",
+      "c": "{1, 3, 5, 7, 9, 11, 13}",
+      "d": "{2, 3, 5, 7, 11, 15}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "U = {1, 2, 3, 4, 5......14}\nP = {2, 4, 6, 8, 10, 12, 14}\nP' = {1, 3, 5, 7, 9, 11,13}",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 839,
     "question": "Simplify (0.026 × 0.36)/0.69\n. Leave your answer in standard form",
     "option": {
@@ -9804,6 +10044,22 @@
     "image": "",
     "answer": "d",
     "solution": "Prime numbers are numbers that has only two factors (i.e 1 and itself). They are numbers that are only divisible by 1 and their selves. First four Prime numbers greater than 10 are 11, 13, 17 and 19\n\n  Average = sum of numbers / number\n\n  = (11+13+17+19)4\n  = 60/4\n  = 15",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 964,
+    "question": "Using the table,What is the modal age?",
+    "option": {
+      "a": "4",
+      "b": "5",
+      "c": "5",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006540/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q46_ypiyhc.jpg",
+    "answer": "b",
+    "solution": "The modal age is the age with the highest frequency, and that is age 5 years with f of 7",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -11808,6 +12064,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1148,
+    "question": "Divide 1101001<sub>two</sub> by 101<sub>two</sub>",
+    "option": {
+      "a": "11101<sub>two</sub>",
+      "b": "111<sub>two</sub>",
+      "c": "10111<sub>two</sub>",
+      "d": "10101<sub>two</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1149,
     "question": "If (3−√3)/(2+√3) = a + b√3, what are the values a and b?",
     "option": {
@@ -12508,6 +12780,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206600/ALOC-Questions/Mathematics/2014/Screenshot_2024-09-01_at_5.03.09_PM_qxstzm.png",
     "answer": "a",
     "solution": "y - 4x + 3 = 0\n\nWhen y = 0, 0 - 4x + 3 = 0\n\nThen -4x = -3\n\nx = 3/4\n\nSo the line cuts the x-axis at point (3/4, 0).\n\nWhen x = 0, y - 4(0) + 3 = 0\n\nThen y + 3 = 0\n\ny = -3\n\nSo the line cuts the y-axis at the point (0, -3)\n\nHence the midpoint of the line y - 4x + 3 = 0, which lies between the x-axis and the y-axis is;\n\n[1/2(x<sub>1</sub> +x<sub>2</sub> ),1/2(y<sub>1</sub> +y<sub>2</sub> )]\n\n\n[1/2(3/4+0),1/2(0+−3)]\n\n\n[1/2(3/4),1/2(−3)]\n\n\n[3/8,−3/2]",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1215,
+    "question": "If y = 4x<sup>3</sup> - 2x<sup>2</sup> + x, find δy/δx",
+    "option": {
+      "a": " 8x<sup>2</sup> - 2x + 1",
+      "b": "8x<sup>2</sup> - 4x + 1",
+      "c": " 12x<sup>2</sup> - 2x + 1",
+      "d": "12x<sup>2</sup> - 4x + 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "If y = 4x<sup>3</sup> - 2x<sup>2</sup> + x, then;\n\nδy/δx\n = 3(4x<sup>2</sup>) - 2(2x) + 1\n\n= 12x<sup>2</sup> - 4x + 1",
     "examtype": "utme",
     "examyear": "2014"
   },
