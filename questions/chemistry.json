@@ -1888,6 +1888,22 @@
     "examyear": "2004"
   },
   {
+    "id": 158,
+    "question": "Transition metals posses variable oxidation states because they have",
+    "option": {
+      "a": "Electrons in the d orbitals",
+      "b": "Electrons in the s orbitals",
+      "c": "A variable number of electrons in the p orbitals",
+      "d": "Partially filled p orbitals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 159,
     "question": "Sodium metal is always kept under oil because it",
     "option": {
@@ -2014,6 +2030,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 170,
+    "question": "The property used in the industrial preparation of nitrogen and oxygen from air is",
+    "option": {
+      "a": "Rate of diffusion",
+      "b": "Solubility",
+      "c": "Density",
+      "d": "Boiling point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 171,
@@ -2747,6 +2779,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 228,
+    "question": "The volume of 2.5 moles of oxygen at s.t.p is",
+    "option": {
+      "a": "56.0dm3",
+      "b": "84.0dm3",
+      "c": "50.0dm3",
+      "d": "20.0dm3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -5792,6 +5840,22 @@
     "examyear": "2018"
   },
   {
+    "id": 469,
+    "question": "On which of the following is the solubility of a gaseous substance dependent?\nI. Nature of solvent\nII. Nature of solute\nIII. Temperature\nIV. Pressure",
+    "option": {
+      "a": "I, II, III and IV",
+      "b": "I and II only",
+      "c": "II only",
+      "d": "III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The solubility of a gas depends on all four factors: (I) Nature of solvent — polar solvents dissolve polar gases better; (II) Nature of solute — different gases have different solubilities; (III) Temperature — gas solubility decreases as temperature increases; (IV) Pressure — by Henry's Law, gas solubility increases with pressure. All four factors are relevant.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 470,
     "question": "Which of the following statements is correct about the periodic table?",
     "option": {
@@ -8512,6 +8576,22 @@
     "examyear": "2023"
   },
   {
+    "id": 680,
+    "question": "What is eutrophication?",
+    "option": {
+      "a": "The release of harmful chemicals into water bodies",
+      "b": "The excessive growth of algae due to nutrient enrichment",
+      "c": "The presence of heavy metals in water",
+      "d": "The formation of oil slicks on water surfaces"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Eutrophication is the process by which a water body becomes enriched with nutrients, particularly nitrates and phosphates from agricultural runoff and sewage. This triggers excessive growth of algae and aquatic plants (algal bloom). When the algae die and decompose, bacteria consume large amounts of oxygen, leading to oxygen depletion and the death of fish and other aquatic organisms.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 681,
     "question": "What is the name of the process by which ammonia is produced on an industrial scale?",
     "option": {
@@ -9184,6 +9264,22 @@
     "examyear": "2024"
   },
   {
+    "id": 732,
+    "question": "127g of sodium chloride was dissolved in 1.0dm³ of distilled water at 25°C. Determine the solubility in moldm⁻³ of sodium chloride at that temperature. [Na = 23, Cl = 35.5]",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "2.2",
+      "d": "4.1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Molar mass of NaCl = 23 + 35.5 = 58.5 g/mol. Moles of NaCl = 127 ÷ 58.5 = 2.17 mol. Volume = 1.0 dm³. Solubility = 2.17 ÷ 1.0 = 2.17 mol/dm³ ≈ 2.2 mol/dm³.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 733,
     "question": "The quantity of electricity required to deposit 180g of Ag from a molten silver trioxonitrate(V) is [Ag = 108]",
     "option": {
@@ -9596,6 +9692,22 @@
     "image": "",
     "answer": "d",
     "solution": "Citric acid is used as a flavoring and preservative in soft drinks, and reacts with sodium bicarbonate in baking powder to produce CO₂ for leavening. It is the common acid in both applications.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 766,
+    "question": "Nitrogen, a component of air is used for",
+    "option": {
+      "a": "production of cooling agent",
+      "b": "production of margarine",
+      "c": "production of HNO₃",
+      "d": "manufacturing of oil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nitrogen from air is used to produce ammonia (NH₃) via the Haber process, which is then oxidized to nitric acid (HNO₃) via the Ostwald process. Margarine production uses hydrogen, and cooling agents use other gases.",
     "examtype": "utme",
     "examyear": "2025"
   },
