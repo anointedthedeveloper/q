@@ -1888,6 +1888,22 @@
     "examyear": "2005"
   },
   {
+    "id": 189,
+    "question": "The shape of the hydrocarbon compound CH4 is",
+    "option": {
+      "a": "Square planar",
+      "b": "Tetrahedral",
+      "c": "Planar",
+      "d": "Linear"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 191,
     "question": "The component of an atom that contributes least to its mass is the",
     "option": {
@@ -2848,6 +2864,22 @@
     "examyear": "2010"
   },
   {
+    "id": 279,
+    "question": "Which of the following salts is slightly soluble in water",
+    "option": {
+      "a": "CaSO4",
+      "b": "Na2CO3",
+      "c": "PbCl2",
+      "d": "AgCl"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 280,
     "question": "6AgNO3(aq)  +  PH3(g) +    3H2O(l)      →    6Ag(s)+   H3PO3(aq)   +    6HNO3(aq)  In the reaction above, the reducing agent is",
     "option": {
@@ -3232,6 +3264,22 @@
     "examyear": "2015"
   },
   {
+    "id": 319,
+    "question": "Flow of current in electrolytes is due to the movement of",
+    "option": {
+      "a": "electrons",
+      "b": " Holes and electron",
+      "c": "Ions",
+      "d": "Charges"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In electrolytes, electric current is carried by positive and negative ions (cations and anions) moving toward the oppositely charged electrodes.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 320,
     "question": "A suitable reagent for distinguish between ethanoic and ethanol is",
     "option": {
@@ -3244,6 +3292,22 @@
     "image": "",
     "answer": "c",
     "solution": "Ethanoic acid reacts with sodium hydrogen trioxocarbonate(IV) (sodium hydrogen carbonate, NaHCO₃) to produce carbon dioxide gas, which effervesces.\nEthanol does not react with NaHCO₃.\n\n\nSodium hydrogen trioxocarbonate(IV) is suitable for distinguishing between ethanoic acid and ethanol.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 322,
+    "question": "Which of the following metals burns with brick red",
+    "option": {
+      "a": " Pb",
+      "b": "Ca",
+      "c": "Na",
+      "d": "Mg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The metal that burns with brick red is calcium.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3340,6 +3404,22 @@
     "image": "",
     "answer": "c",
     "solution": "The burning of fuel (particularly fossil fuels in vehicle engines and power plants) at high temperatures causes atmospheric N₂ and O₂ to combine, producing oxides of nitrogen (NOₓ) such as NO and NO₂. These are major contributors to air pollution and acid rain.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 333,
+    "question": "Which of these radioactive elements is commonly used as a nuclear fuel?",
+    "option": {
+      "a": "uranium",
+      "b": "palladium",
+      "c": "actium",
+      "d": "thorium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Uranium (specifically U-235) is the most commonly used nuclear fuel. Its nucleus undergoes fission when struck by a slow neutron, releasing enormous energy and additional neutrons that sustain a chain reaction in nuclear reactors.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3452,6 +3532,22 @@
     "image": "",
     "answer": "d",
     "solution": "The defining characteristic of a chemical change is that a new substance with different chemical properties is formed. Physical changes alter the form or state of matter without producing a new substance. Options A, B, and C can occur in both types of change.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 349,
+    "question": "According to the kinetic theory, an absence in temperature causes the kinetic energy of particles to",
+    "option": {
+      "a": "decrease",
+      "b": "increase",
+      "c": "remain constant",
+      "d": "be zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "According to the kinetic theory, the kinetic energy of particles is directly proportional to absolute temperature. At absolute zero (0 K), temperature is absent and particle motion theoretically ceases completely, so kinetic energy becomes zero.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3616,6 +3712,22 @@
     "examyear": "2016"
   },
   {
+    "id": 366,
+    "question": "The compounds CH₃CH₂CHO and CH₃COCH₃ can be distinguished from each other using",
+    "option": {
+      "a": "Dilute ammonia",
+      "b": "Benedict's solution",
+      "c": "Tollen's reagent",
+      "d": "Sodium hydroxide solution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Tollen's reagent (ammoniacal silver nitrate) distinguishes aldehydes from ketones. CH₃CH₂CHO is an aldehyde and reduces Tollen's reagent to produce a silver mirror, while CH₃COCH₃ (a ketone) does not react. Benedict's solution also works with reducing sugars but Tollen's reagent is the classic test here.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 368,
     "question": "The process that requires the use of hard water in its operation is",
     "option": {
@@ -3676,6 +3788,22 @@
     "image": "",
     "answer": "a",
     "solution": "Chlorofluorocarbons (CFCs) are the primary cause of ozone layer depletion. When CFCs reach the stratosphere, UV radiation breaks them down to release chlorine radicals, which catalytically destroy ozone molecules (O₃) in a chain reaction. SO₂ causes acid rain; CO is a respiratory poison; NO₂ contributes to smog.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 373,
+    "question": "Which of the following properties is not peculiar to matter?",
+    "option": {
+      "a": "Kinetic energy of particles increases from solid to gas",
+      "b": "Random motion of particles increases from gas to solid",
+      "c": "Orderliness of particles increases from gas to liquid",
+      "d": "Random motion of particles increases from liquid to gas"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Random motion of particles increases from solid to gas, not from gas to solid. Gas particles have the highest kinetic energy and random motion; solid particles have the least. Option B states the opposite of what is true, making it the incorrect (not peculiar to matter) statement.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3836,6 +3964,22 @@
     "image": "",
     "answer": "c",
     "solution": "In the blast furnace, hot air (containing N₂) is blasted in and coke reacts with oxygen and CO₂ to form CO. The waste gases leaving the furnace are therefore a mixture of N₂ (from the blast of air), CO (reducing agent), and CO₂ (product of reduction reactions).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 389,
+    "question": "In a neutralization reaction involving HCl and NaOH using litmus as indicator, the colour at the end point is",
+    "option": {
+      "a": "Blue",
+      "b": "Red",
+      "c": "Orange",
+      "d": "Purple"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "At the end point of neutralization between HCl and NaOH, the solution is neutral (pH 7). Litmus turns red in acid, blue in alkali, and purple (its natural colour) in a neutral solution. Therefore the colour at the equivalence point is purple.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -4832,6 +4976,22 @@
     "examyear": "2018"
   },
   {
+    "id": 485,
+    "question": "What is the concentration of a solution containing 2 g of NaOH in 100 cm³ of solution? [Na = 23, O = 16, H = 1]",
+    "option": {
+      "a": "0.40 mol dm⁻³",
+      "b": "0.50 mol dm⁻³",
+      "c": "0.05 mol dm⁻³",
+      "d": "0.30 mol dm⁻³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Molar mass of NaOH = 23 + 16 + 1 = 40 g mol⁻¹. Moles of NaOH = 2/40 = 0.05 mol. Volume = 100 cm³ = 0.1 dm³. Concentration = 0.05/0.1 = 0.50 mol dm⁻³.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 486,
     "question": "How many atoms are present in 6.0 g of magnesium? [Mg = 24, Nₐ = 6.02 × 10²³ mol⁻¹]",
     "option": {
@@ -5180,6 +5340,22 @@
     "image": "",
     "answer": "c",
     "solution": "X (1s²2s²2p⁴) is oxygen (6 valence electrons, forms O²⁻). Y (1s²2s²2p⁶3s²3p¹) is aluminium (3 valence electrons, forms Al³⁺). To balance charges: 2Al³⁺ + 3O²⁻ → Al₂O₃. In the formula Y₂X₃: Y = Al, X = O, giving Al₂O₃. The formula is Y₂X₃.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 528,
+    "question": "For the general equation of the nature xP + yQ ⇌ mR + nS, the expression for the equilibrium constant is",
+    "option": {
+      "a": "k[P]ˣ[Q]ʸ",
+      "b": "m[R][S] / x[P]y[Q]",
+      "c": "[P]ˣ[Q]ʸ / [R]ᵐ[S]ⁿ",
+      "d": "[R]ᵐ[S]ⁿ / [P]ˣ[Q]ʸ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The equilibrium constant Kc = [products]/[reactants], with each concentration raised to its stoichiometric coefficient. For xP + yQ ⇌ mR + nS: Kc = [R]ᵐ[S]ⁿ / [P]ˣ[Q]ʸ. Products appear in the numerator and reactants in the denominator, each raised to their respective coefficients.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -6672,6 +6848,22 @@
     "examyear": "2022"
   },
   {
+    "id": 672,
+    "question": "What volume (dm³) of water will be added to 10dm³ of 2.0 mol/dm³ HCl acid solution to give a final solution of 0.5 mol/dm³?",
+    "option": {
+      "a": "30",
+      "b": "40",
+      "c": "20",
+      "d": "50"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using the dilution formula: C₁V₁ = C₂V₂. C₁ = 2.0 mol/dm³; V₁ = 10 dm³; C₂ = 0.5 mol/dm³. V₂ = (2.0 × 10) ÷ 0.5 = 40 dm³. Volume of water added = V₂ − V₁ = 40 − 10 = 30 dm³.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 673,
     "question": "The table shows the compositions of the atmosphere of planet X: CO₂ = 4%, N₂ = 72%, O₂ = 24%. Which of these gases are present in higher percentages on earth?",
     "option": {
@@ -7132,6 +7324,22 @@
     "image": "",
     "answer": "b",
     "solution": "In urban areas, the primary source of carbon monoxide (CO) is vehicle emissions. CO is produced by the incomplete combustion of petrol and diesel in internal combustion engines when there is insufficient oxygen. High concentrations of CO in cities are directly linked to traffic density. Volcanic eruptions and forest fires contribute CO but are not the main urban sources.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 710,
+    "question": "Which separation technique is used to separate different pigments in a mixture based on their affinity for a stationary phase and a mobile phase?",
+    "option": {
+      "a": "Chromatography",
+      "b": "Filtration",
+      "c": "Decantation",
+      "d": "Distillation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Chromatography separates components of a mixture based on their different affinities for a stationary phase and a mobile phase. Components that interact more strongly with the stationary phase move more slowly, while those that interact more with the mobile phase move faster. This differential migration separates pigments and other mixture components. It is widely used in paper chromatography, thin-layer chromatography, and column chromatography.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7728,6 +7936,22 @@
     "examyear": "2025"
   },
   {
+    "id": 772,
+    "question": "Water drops are spherical in shape because of",
+    "option": {
+      "a": "polarity",
+      "b": "viscosity",
+      "c": "density",
+      "d": "surface tension"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Surface tension arises from the cohesive forces between water molecules at the surface. It causes the liquid to minimize its surface area, and the shape with the minimum surface area for a given volume is a sphere. This is why water droplets are spherical.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 773,
     "question": "In the electrolysis of brine using neutral electrodes, which ion is discharged at the anode?",
     "option": {
@@ -7964,6 +8188,22 @@
     "image": "",
     "answer": "b",
     "solution": "Hard water contains dissolved Ca²⁺ and Mg²⁺ ions which help build strong bones and teeth (A and D are true), and it does taste better than soft water (C is true). Statement B is false: hard water can be supplied in lead pipes because it deposits a protective scale of calcium carbonate inside the pipes, preventing lead from dissolving. It is soft water that is dangerous in lead pipes.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 791,
+    "question": "The empirical mass of C₆H₁₂O₆ is [H = 1, C = 12, O = 16]",
+    "option": {
+      "a": "90",
+      "b": "180",
+      "c": "45",
+      "d": "30"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The empirical formula is found by simplifying the ratio C:H:O = 6:12:6 = 1:2:1, giving CH₂O. Empirical mass = 12 + 2(1) + 16 = 30 g/mol.",
     "examtype": "utme",
     "examyear": "2025"
   },
