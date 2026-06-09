@@ -112,6 +112,22 @@
     "examyear": "2006"
   },
   {
+    "id": 9,
+    "question": "A nation consist of people with ",
+    "option": {
+      "a": "common history ",
+      "b": "common ancestry ",
+      "c": "a  shared set of values ",
+      "d": "A, B and C above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 10,
     "question": "A totalitarian state is based on  ",
     "option": {
@@ -1136,6 +1152,22 @@
     "examyear": "2009"
   },
   {
+    "id": 99,
+    "question": "The Arthur Richards Constitution was designed to last ",
+    "option": {
+      "a": "nine years  ",
+      "b": "five years ",
+      "c": "twelve years  ",
+      "d": "six year"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 100,
     "question": "Under the 1963 Republican constitution the president exercise ",
     "option": {
@@ -1239,6 +1271,22 @@
       "b": "judicial independence  ",
       "c": "passage of bills ",
       "d": "party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 109,
+    "question": "A state with a hegemonic party is one in which ",
+    "option": {
+      "a": "there is one dominant party ",
+      "b": "there is no opposition party  ",
+      "c": "there is only one party  ",
+      "d": "other parties are officially recognized."
     },
     "section": "",
     "image": "",
@@ -9200,6 +9248,22 @@
     "examyear": "2019"
   },
   {
+    "id": 835,
+    "question": "A cabinet reshuffle takes place......",
+    "option": {
+      "a": "only when a motion of no confidence is passed",
+      "b": "when dissolution is held",
+      "c": "when prorogation and collective responsibility have their way",
+      "d": "when the shadow cabinet fails in its effectiveness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A cabinet reshuffle takes place when dissolution is held. In parliamentary systems, a cabinet reshuffle may occur when there is a general election and the government is dissolved, leading to a need for reorganizing the cabinet with new ministers or changing existing ones. The membership of the Cabinet will be substituted or reshuffled, especially when there is the dissolution of the cabinet in its entirety in a Parliamentary/ Westminster system.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 836,
     "question": "Popular political participation means________",
     "option": {
@@ -12368,6 +12432,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1134,
+    "question": "South-South cooperation is a major policy plan on which Nigeria bases her relations with",
+    "option": {
+      "a": "developed countries",
+      "b": "countries of the southern hemisphere",
+      "c": "developing countries",
+      "d": "member countries of OAU"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "South-South cooperation refers to the collaboration between countries in the Global South, primarily focused on mutual development, technical exchange and sharing of resources and knowledge to address common challenges. Nigeria, as a developing country, engages in South-South cooperation with other developing nations, rather than with developed countries.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1135,
     "question": "Nigeria's recognition of the Popular Movement for the Liberation of Angola to lead that country was made under",
     "option": {
@@ -14192,6 +14272,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1300,
+    "question": "Which of the following served as the Secretary-General of the United Nations?",
+    "option": {
+      "a": "Ibrahim Gambari",
+      "b": "Ibrahim Gambari",
+      "c": " Joseph Garba",
+      "d": "Mohammed El-Baradai"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Javier Perez de Cuellar of Peru served as the Secretary-General of the United Nations Organization from 1982-1992.\n\nOthers were:\n\nTrygie Lie of Norway (1946-53), Dag Hammarskjold of Sweden (1953-61), U. Thant of Burma (1961-72), Kurt Waldeim of Austria (1972-82), Boutros Ghali of Egypt (1993-93). The current Secretary General of the Organization is Dr. Koffi Annan of Ghana.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1302,
     "question": "A Security Council resolution requires the concurrence of",
     "option": {
@@ -15552,6 +15648,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1431,
+    "question": "Which of the following is a duty of an electoral commission",
+    "option": {
+      "a": "Registeration of political parties",
+      "b": "Creation of political parties",
+      "c": " Establishment of electoral tribunals",
+      "d": "inauguration of the parliament"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A core duty of an electoral commission is the registration of political parties to ensure they meet legal criteria (e.g., membership size, ideological compliance) for participating in elections. This process validates parties as legitimate contenders and maintains electoral integrity.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1432,
     "question": "A form of government in which the nobles rule for the benefit of all is",
     "option": {
@@ -15932,6 +16044,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Igbo pre-colonial political system was fundamentally decentralized and based on kinship structures, with the Umunna serving as the primary unit of political organization. The Umunna refers to a patrilineal kinship group or extended family unit, consisting of individuals who share a common male ancestor. Each Umunna was led by the eldest male, known as the Diokpala, who, along with other elders, played a significant role in decision-making and governance within the community. This structure ensured that authority was distributed among various family heads, fostering a republican and egalitarian society",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1466,
+    "question": "One challenge associated with presidential system of Government",
+    "option": {
+      "a": "Aim of government",
+      "b": "separation of power",
+      "c": "The Senate president",
+      "d": " Fusion of power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A key challenge in a presidential system arises from the separation of powers between the executive and legislature. While designed to prevent tyranny, this separation can lead to gridlock when the president and legislature (controlled by opposing parties) clash over policy, budgets, or appointments. For example, in the U.S., frequent government shutdowns occur due to disagreements between the President and Congress.",
     "examtype": "utme",
     "examyear": "2015"
   },
