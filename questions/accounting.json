@@ -1200,6 +1200,22 @@
     "examyear": "2013"
   },
   {
+    "id": 91,
+    "question": "The returns on capital employed is",
+    "option": {
+      "a": "17.2%",
+      "b": "16.2%.",
+      "c": "15.2%.",
+      "d": "11.2%."
+    },
+    "section": "Use the following information to answer question. Net profit [ 60,000], Total Assets [ 520,000], Current liabilities [ 150,000], Current assets[ 280,000] ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 92,
     "question": "The double entry principle states that",
     "option": {
@@ -4672,6 +4688,22 @@
     "examyear": "2015"
   },
   {
+    "id": 339,
+    "question": "Which of the following is a source of revenue for a local government?",
+    "option": {
+      "a": "Personal income tax",
+      "b": "Company registration fees",
+      "c": "Royalties",
+      "d": "Market tolls"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 340,
     "question": "The instrument used to release fund which the minister of finance had earlier withheld is",
     "option": {
@@ -5259,6 +5291,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 386,
+    "question": "Which of the following items is not treated in the Profit and Loss Account?",
+    "option": {
+      "a": "Office expenses",
+      "b": "Salaries and allowances",
+      "c": "Carriage inwards",
+      "d": "Discounts allowed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -7520,6 +7568,22 @@
     "examyear": "2015"
   },
   {
+    "id": 551,
+    "question": "Which of the following is shown in the profit and loss appropriation account of a company",
+    "option": {
+      "a": "interest charges",
+      "b": "depreciation",
+      "c": "directors emoluments",
+      "d": "dividends"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In general accounting, appropriation accounts are mainly prepared by partnerships and limited liability companies (LLCs). They are an extension of theprofit and loss statement, showing how the profits of a firm are allocated to shareholders or to increase reserves indicated in the balance sheet. it usually contains dividends, retained earnings, goodwill etc\n",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 552,
     "question": "Use the information below to answer this question.\n\nDangote acquired Dantata’s business for ₦350,000. The total asset work were ₦820,000 and liabilities amounted to ₦ 640,000\n\nThe double entry to record the goodwill in the books is debt",
     "option": {
@@ -9552,6 +9616,22 @@
     "examyear": "2018"
   },
   {
+    "id": 700,
+    "question": "A partnership’s internal regulation are set out by________",
+    "option": {
+      "a": " A constitution",
+      "b": "A law",
+      "c": "A deed",
+      "d": ". An article"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A partnership deed is a written agreement among the partners specifying rules and regulations and is signed by all the partners and stamped as per stamp act with an aim to prevent possible disputes and disagreements among the partners at future dates",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 701,
     "question": "Sule and Ahmed are in partnership sharing profit and losses equally. If Khadija is admitted as a new partner to take 1/5 th as her share. What is the new profit or loss sharing?",
     "option": {
@@ -9772,6 +9852,22 @@
     "image": "",
     "answer": "d",
     "solution": "Accounts in accounting are primarily divided into:\n\nPersonal accounts, which relate to individuals, firms, and other organizations.\n\nImpersonal accounts, which are further subdivided into real accounts (assets) and nominal accounts (incomes and expenses).",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 723,
+    "question": "Based on the final accounts of Wazobi Ventures for the year ended 30th June, 1998, where sales were ₦233,000 and cost of goods sold was ₦170,000, with overhead expenses including admin expenses of ₦16,800, selling expenses of ₦15,000, and other overhead expenses of ₦6,200, resulting in a net profit of ₦25,000, Calculate the net profit on percentage of expenses.",
+    "option": {
+      "a": "60%",
+      "b": "25%",
+      "c": "13%",
+      "d": "65.70%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Total Expenses = Admin expenses + Selling expenses + Other overhead expenses\nTotal Expenses = ₦16,800 + ₦15,000 + ₦6,200 = ₦38,000\nNet Profit as % of Expenses = (Net Profit ÷ Total Expenses) × 100\nNet Profit as % of Expenses = (₦25,000 ÷ ₦38,000) × 100 = 65.7%",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -10172,6 +10268,22 @@
     "image": "",
     "answer": "b",
     "solution": "When a proprietor withdraw cash for private use, himself or owner's use, it is regarded as drawings.\nThe account involve is cash and drawings account. Therefore, the cash account gives while the drawings account receives.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 755,
+    "question": "The rules of double entry states that",
+    "option": {
+      "a": " for every debit entry, there must be a corresponding debit entry",
+      "b": " for every credit entry, there must be a corresponding credit entry",
+      "c": "all transactions must be recorded in two accounts, one account is debited and another is credited",
+      "d": "all transaction must be credited"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Double entry system is the entry of debit and credit for each transaction in the ledger. Hence the double entry rules states that \"debit the receivers, credit the giver\".",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -10844,6 +10956,22 @@
     "image": "",
     "answer": "d",
     "solution": "Step 1: Kemi is admitted with a 1/5 share\nStep 2: The remaining share for old partners = 1 - 1/5 = 4/5\nStep 3: Since Kola and Sunday were sharing equally before admission, they will continue to share the remaining 4/5 equally between themselves\nNew sharing ratio:\n\nKola: 4/5 ÷ 2 = 2/5\nSunday: 4/5 ÷ 2 = 2/5\nKemi: 1/5\n\nVerification: 2/5 + 2/5 + 1/5 = 5/5 = 1",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 803,
+    "question": "Which of the following accounting conventions suggests that accountants should use a method of valuation that understates rather than overstates results?",
+    "option": {
+      "a": "monetary",
+      "b": "cost",
+      "c": "conservatism",
+      "d": "historical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The conservatism convention (also known as prudence) suggests that accountants should use methods of valuation that understate rather than overstate results",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -13408,6 +13536,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1000,
+    "question": "Goodwill can be in the balance sheet as?",
+    "option": {
+      "a": " fixed tangible asset",
+      "b": "current asset",
+      "c": " fictitious asset",
+      "d": "liquid asset"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Goodwill is classified as a fictitious asset (also called an intangible asset) because:\n\nIt has no physical existence or substance\nIt cannot be seen or touched\nIt represents the value of reputation, customer loyalty, brand recognition, etc.\nIt appears on the assets side of the balance sheet but is not a tangible item",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1001,
     "question": "Cash received from the subscribed shares is recorded by debting?",
     "option": {
@@ -14656,6 +14800,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1099,
+    "question": "How are credit sales by a department treated?",
+    "option": {
+      "a": "the same way as normal debtors' transactions",
+      "b": "in a different way from normal debtors' transactions",
+      "c": "as an addition to the production manager's account",
+      "d": " as an addition to the production managers' account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In departmental accounting, when a department makes credit sales:\n\nThe customer still owes money to the business\nThis creates a debtor (accounts receivable)\nThe accounting treatment is exactly the same as any other credit sale in the business\nThe only difference is that the sale is recorded under that specific department for performance tracking\n\nThe departmental system tracks which department made the sale, but the debtor treatment remains standard.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1100,
     "question": "Discounts granted branch customers are treated as a debit to branch?",
     "option": {
@@ -15660,6 +15820,22 @@
     "image": "",
     "answer": "c",
     "solution": "Total assets = ₦46,000 + ₦20,000 + ₦120,000 + ₦70,000 + ₦25,000\n= ₦281,000\n\nTotal liabilities = ₦50,000 + ₦100,000 + ₦30,000\n= ₦180,000\n\nCapital = Assets − Liabilities = ₦281,000 − ₦180,000 = ₦101,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1174,
+    "question": "<b>Use the information below to answer questions 9 and 10</b>\n\nThe Assets and liabilities of Udo Co.ltd. as at 31st December, 2000.\n\nCreditors ₦50,000\n\nDebtors ₦46,000\n\nLoan ₦100,000\n\nStock ₦20,000\n\nMotor vehicle ₦120,000\n\nBuilding ₦70,000\n\nAccrued wages 30,000\n\nBank ₦25 ,000\n\nThe liabilities of Udo Co. Ltd is?",
+    "option": {
+      "a": "₦180,000",
+      "b": "₦181,000",
+      "c": "₦177,000",
+      "d": "₦110,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Calculation: Creditors ₦50,000 + Loan ₦100,000 + Accrued wages ₦30,000 = ₦180,000.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -17808,6 +17984,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1331,
+    "question": "Depreciation on a particular piece of machinery was ₦2,700 during the fifth year of its service life and ₦4,050 during the sixth year. The logical explanation for this is that?",
+    "option": {
+      "a": "an addition was made to the asset during the sixth year",
+      "b": " the estimate of salvage value on this equipment was decreased",
+      "c": " a unit-of-output method of depreciation was used during the sixth year",
+      "d": "the estimate remaining service life of the assets was increased at the beginning of the sixth year"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The increase in depreciation from ₦2,700 in year 5 to ₦4,050 in year 6 most logically reflects a usage-based depreciation method, where charges vary with units of output or activity. Under the units-of-output method, if the machine was used more heavily in its sixth year than in its fifth, the depreciation expense would rise accordingly.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1332,
     "question": "The main features of the single system are that?",
     "option": {
@@ -18652,6 +18844,22 @@
     "image": "",
     "answer": "d",
     "solution": "The best distinguishing feature of a non-profit-making organization is that its routine income sources are things like annual subscriptions and levies rather than trading profits.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1397,
+    "question": "Which of the following indicate that a partnership business is in place?\n(i) There is a business\n(ii)It is run commonly by partners\n(iii)It has profit-making in view\n(iv) Partners' liability is limited",
+    "option": {
+      "a": " i and ii only",
+      "b": "i, ii and iii only",
+      "c": " i, iii and iv only",
+      "d": " ii, iii and iv only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Essential characteristics of partnership:\n\nCarrying on a business\nJoint operation by partners\nWith a view to making profit\nUnlimited liability (not limited)\n\nThe correct indicators are (i), (ii), and (iii) only.",
     "examtype": "utme",
     "examyear": "199"
   },
