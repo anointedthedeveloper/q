@@ -1408,6 +1408,22 @@
     "examyear": "2006"
   },
   {
+    "id": 108,
+    "question": "A computer that can be used in weather forecast is ",
+    "option": {
+      "a": "  a hybrid computer ",
+      "b": " an analog computer",
+      "c": "a mainframe computer ",
+      "d": " a digital computer."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 111,
     "question": "The limit of functions, activities and personnel that a supervisor can effectively manage  in a business organization  is  ",
     "option": {
@@ -1527,6 +1543,22 @@
       "b": "skill ",
       "c": "interest",
       "d": "aptitude."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 123,
+    "question": "Capital to a business is technically  ",
+    "option": {
+      "a": "an expense",
+      "b": "a liability ",
+      "c": "  an asset ",
+      "d": "a profit."
     },
     "section": "",
     "image": "",
@@ -3760,6 +3792,22 @@
     "examyear": "2009"
   },
   {
+    "id": 291,
+    "question": "The primary memory component of a computer is the ",
+    "option": {
+      "a": "cache ",
+      "b": "console ",
+      "c": "assemblers",
+      "d": "compilers "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 292,
     "question": "A customer with XYZ Plc sent money through his account to his sister’s  account in another branch. This is an example of ",
     "option": {
@@ -4795,6 +4843,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 362,
+    "question": "The major source of income to commercial banks is ",
+    "option": {
+      "a": "loans ",
+      "b": "deposits ",
+      "c": "interests ",
+      "d": "overdrafts "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -6551,6 +6615,22 @@
       "b": "secured on the assets of a company",
       "c": "irredeemable",
       "d": "redeemable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 500,
+    "question": "A consignment note is used when",
+    "option": {
+      "a": "goods are wrapped and labeled for easy identification",
+      "b": "goods are dispatched to agents through transporters",
+      "c": "damaged goods are being returned",
+      "d": "there is over-invoicing"
     },
     "section": "",
     "image": "",
@@ -8779,6 +8859,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 665,
+    "question": "The buying and selling of goods and services is referred, to as",
+    "option": {
+      "a": "trading",
+      "b": "marketing",
+      "c": "insurance",
+      "d": "advertising"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
