@@ -240,6 +240,38 @@
     "examyear": "2001"
   },
   {
+    "id": 37,
+    "question": "Proteins in acid solution undergo",
+    "option": {
+      "a": "Polymerization",
+      "b": "Substitution",
+      "c": "Fermentation",
+      "d": "Hydrolysis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 39,
+    "question": "The pair of organic compounds that are isomers is",
+    "option": {
+      "a": "Benzene and methylbenzene",
+      "b": "Trichloromethane and Tetrachloromethane",
+      "c": "Ethanol and propanone",
+      "d": "But-1-ene and but-2-ene"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 41,
     "question": "The gas that can best be collected by downward displacement of air is",
     "option": {
@@ -448,6 +480,22 @@
     "examyear": "2002"
   },
   {
+    "id": 71,
+    "question": "Which of the following gives a precipitate when treated with NaOH solution",
+    "option": {
+      "a": "Na2CO3",
+      "b": "CH3COONa",
+      "c": "NH4Cl",
+      "d": "AlCl3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 72,
     "question": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate(VI) is",
     "option": {
@@ -576,6 +624,22 @@
     "examyear": "2003"
   },
   {
+    "id": 99,
+    "question": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant",
+    "option": {
+      "a": " 2SO3(g)  ⇌  2SO2(g)  +  O2(g)",
+      "b": " 2CO2(g)  ⇌ 2CO(g)  +  O2(g)",
+      "c": " 2H2(g)  +  O2(g) ⇌  2H2O(g)",
+      "d": " 2NO(g)   ⇌ N2(g)  +  O2(g)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 100,
     "question": "In the electrolysis of a concentrated solution of sodium chloride using inert electrodes, which of the following ions are discharged at the cathode and anode respectively",
     "option": {
@@ -619,6 +683,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 110,
+    "question": "Chlorine gas turns a damp starch-iodide paper",
+    "option": {
+      "a": "Pink",
+      "b": "Colourless",
+      "c": "Red",
+      "d": "Dark blue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -720,6 +800,22 @@
     "examyear": "2003"
   },
   {
+    "id": 122,
+    "question": "the principal constituent of natural gas is methane",
+    "option": {
+      "a": "ethane",
+      "b": "propane",
+      "c": "butane",
+      "d": "butane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 123,
     "question": "When a solid substance disappears completely as a gas on heating, the substance is said to have under gone",
     "option": {
@@ -795,6 +891,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 134,
+    "question": "Which of the following mixtures of gases is likely to burn in flame",
+    "option": {
+      "a": "Neon and hydrogen",
+      "b": "Nitrogen and helium",
+      "c": "Helium and neon",
+      "d": "Neon and nitrogen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -1147,6 +1259,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 185,
+    "question": "The density of a certain gas is 1.98g dm-3 at s.t.p. What is the molecular mass of the gas   [Molar volume of a gas at s.t.p = 22.4dm-3]",
+    "option": {
+      "a": "26.0g",
+      "b": "31.0g",
+      "c": "54.0g",
+      "d": "44.0g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -2032,6 +2160,22 @@
     "examyear": "2015"
   },
   {
+    "id": 315,
+    "question": "Which of the noble gases has the greatest ionization energy",
+    "option": {
+      "a": "He",
+      "b": "Xe",
+      "c": "Ar",
+      "d": "Rn"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Helium has the greatest ionization energy among noble gases because it has the smallest atomic radius and strongest nuclear attraction on its electrons.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 318,
     "question": "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays",
     "option": {
@@ -2064,6 +2208,38 @@
     "examyear": "2015"
   },
   {
+    "id": 323,
+    "question": "In the production of soap, concentrated sodium chloride solution is added to",
+    "option": {
+      "a": "increase the solubility of soap",
+      "b": "decrease the solubility of the soap",
+      "c": "saponify the soap",
+      "d": "emulsify the soap"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Concentrated NaCl solution is added during soap production to decrease the solubility of soap (salting out). The high ionic strength of NaCl reduces the solubility of soap in water, causing it to precipitate out and separate from the glycerol and excess reactants.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 325,
+    "question": "Tartaric acid is used industrially to",
+    "option": {
+      "a": "make baking powder",
+      "b": "make fruit juice",
+      "c": "remove rust",
+      "d": "dry substance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Tartaric acid is used industrially to make baking powder. It acts as the acid component in baking powder, reacting with sodium bicarbonate to release CO₂ gas, which causes dough to rise.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 326,
     "question": "P₁V₁ = P₂V₂ supports?",
     "option": {
@@ -2076,6 +2252,22 @@
     "image": "",
     "answer": "b",
     "solution": "P₁V₁ = P₂V₂ is the mathematical expression of Boyle's Law, which states that at constant temperature, the pressure of a fixed mass of gas is inversely proportional to its volume.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 328,
+    "question": "Which of the following ions requires the largest quantity of electricity for discharge at an electrode?",
+    "option": {
+      "a": "2.0 mole of Q³⁺",
+      "b": "2.5 mole of R²⁺",
+      "c": "3.0 mole of T⁻",
+      "d": "4.0 mole of Y⁻"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Charge required = moles × charge per ion × Faraday constant. A: 2.0 × 3 = 6F; B: 2.5 × 2 = 5F; C: 3.0 × 1 = 3F; D: 4.0 × 1 = 4F. Option A (6F) requires the largest quantity of electricity.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2544,6 +2736,38 @@
     "examyear": "2017"
   },
   {
+    "id": 406,
+    "question": "The constituent common to duralumin and alnico is",
+    "option": {
+      "a": "Co",
+      "b": "Mn",
+      "c": "Al",
+      "d": "Mg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Duralumin is an alloy of Al, Cu, Mg, and Mn. Alnico is an alloy of Al, Ni, and Co. The only element common to both is Aluminium (Al).",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 409,
+    "question": "The tincture of iodine means iodine dissolved in",
+    "option": {
+      "a": "ethanol",
+      "b": "bromine chloride",
+      "c": "chlorine water",
+      "d": "water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Tincture of iodine is a solution of iodine (and potassium iodide) dissolved in ethanol. The word \"tincture\" in pharmacy specifically refers to a solution of a medicinal substance in alcohol (ethanol). It is used as an antiseptic.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 410,
     "question": "Temporary hard water is formed when rain water containing dissolved carbon (IV) oxide flows over deposits of",
     "option": {
@@ -2960,6 +3184,22 @@
     "examyear": "2018"
   },
   {
+    "id": 474,
+    "question": "The boiling of fat and aqueous caustic soda is referred to as",
+    "option": {
+      "a": "hydrolysis",
+      "b": "esterification",
+      "c": "acidification",
+      "d": "saponification"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Saponification is the alkaline hydrolysis of fats (esters of glycerol and fatty acids) with caustic soda (NaOH) to produce soap (sodium salts of fatty acids) and glycerol. The term comes from \"sapo\" (Latin for soap). Esterification is the reverse reaction (forming esters from acids and alcohols).",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 476,
     "question": "In the preparation of oxygen by heating KClO₃ in the presence of MnO₂, only moderate heat is needed because the catalyst acts by",
     "option": {
@@ -3296,6 +3536,22 @@
     "examyear": "2019"
   },
   {
+    "id": 529,
+    "question": "Which of the following reactions is an oxidation process?",
+    "option": {
+      "a": "2H⁺ + 2e⁻ → H₂",
+      "b": "2O²⁻ + 4e⁻ → O₂",
+      "c": "OCl⁻ + H₂O + 2e⁻ → 2OH⁻ + Cl⁻",
+      "d": "Cl + e⁻ → Cl⁻"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Oxidation is the loss of electrons (increase in oxidation state). In option B: O²⁻ has oxidation state -2; in O₂, oxygen has oxidation state 0. Going from -2 to 0 means losing negative charge (electrons), which is oxidation. The correct oxidation half-equation is 2O²⁻ → O₂ + 4e⁻. Options A, C, and D all involve gaining electrons (reduction).",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 532,
     "question": "Which of the following statements about catalyst is false?",
     "option": {
@@ -3308,6 +3564,22 @@
     "image": "",
     "answer": "d",
     "solution": "Option D is false. Catalysts DO alter the mechanism of the reaction — they provide an alternative pathway with lower activation energy. They also CAN appear in the rate law (rate equation), especially homogeneous catalysts whose concentration affects the rate. Options A, B, and C are all true statements about catalysts.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 536,
+    "question": "Which of the following properties increases from left to right along the period but decreases down the group in the Periodic Table? i. Atomic Number  ii. Ionization energy  iii. Metallic character  iv. Electron affinity",
+    "option": {
+      "a": "ii and iii only",
+      "b": "ii and iv only",
+      "c": "iii and iv only",
+      "d": "i and ii only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Across a period (left to right): ionization energy increases, electron affinity increases, metallic character decreases, atomic number increases. Down a group: ionization energy decreases, electron affinity decreases. Properties that increase left to right AND decrease down the group are ionization energy (ii) and electron affinity (iv). Answer: B.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -3388,6 +3660,22 @@
     "image": "",
     "answer": "d",
     "solution": "Equation: 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O. Moles of H₂SO₄ = 1.25 × 10/1000 = 0.0125 mol. Moles of NaOH required = 2 × 0.0125 = 0.025 mol. Volume of NaOH = moles ÷ concentration = 0.025 ÷ 0.5 = 0.05 dm³ = 50 cm³.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 547,
+    "question": "Sulphur exists in six forms in the solid state. This property is known as",
+    "option": {
+      "a": "Isomerism",
+      "b": "Allotropy",
+      "c": "Isotopy",
+      "d": "Isomorphism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Allotropy is the existence of an element in two or more different physical forms in the same state. Sulphur exists in several allotropic forms including rhombic and monoclinic sulphur. Isomerism applies to compounds, isotopy refers to atoms of the same element with different mass numbers, and isomorphism refers to similar crystal structures in different substances.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -4688,6 +4976,22 @@
     "examyear": "2024"
   },
   {
+    "id": 721,
+    "question": "The constituent of petroleum fraction used in surfacing road is",
+    "option": {
+      "a": "petrol",
+      "b": "diesel",
+      "c": "lubricating oil",
+      "d": "bitumen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Bitumen (also called asphalt) is the heaviest fraction obtained from fractional distillation of crude oil. It is a thick, black, viscous material with a very high boiling point. Bitumen is widely used in road surfacing and roofing. The other fractions — petrol, diesel, and lubricating oil — are used as fuels or for lubrication, not for road construction.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 725,
     "question": "The empirical formula of an organic liquid hydrocarbon is XY. If the relative molar masses of X and Y are 72 and 6 respectively, its vapour density is likely to be",
     "option": {
@@ -4832,6 +5136,22 @@
     "examyear": "2024"
   },
   {
+    "id": 744,
+    "question": "One of the following is not a water pollutant?",
+    "option": {
+      "a": "Inorganic fertilizers",
+      "b": "Warm water affluent",
+      "c": "Oxygen gas",
+      "d": "Biodegradable waste"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Oxygen gas (O₂) is not a water pollutant. In fact, dissolved oxygen is essential for the survival of aquatic organisms. Inorganic fertilizers cause eutrophication, warm water effluent (thermal pollution) reduces dissolved oxygen levels and harms aquatic life, and biodegradable waste depletes oxygen as it decomposes. None of these are beneficial to water quality, whereas oxygen is necessary.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 745,
     "question": "CuO(s) + H₂(g) ⇌ Cu(s) + H₂O(g). In the equation above, the effect of increased pressure on the equilibrium position is that",
     "option": {
@@ -4972,6 +5292,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777640735/ALOC-Questions/Chemistry/UTME/2025/Chemistry_2025_Q34_sawho2.png",
     "answer": "a",
     "solution": "Compound V is an ester (RCOOR'). Esters are formed by acid-catalyzed esterification: RCOOH (carboxylic acid = IV) + ROH (alcohol = I) → RCOOR' + H₂O. Therefore compounds I and IV combine to produce compound V.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 759,
+    "question": "The dusty and sand particles present in the air is an example of",
+    "option": {
+      "a": "a suspension",
+      "b": "a dispersion",
+      "c": "an emulsion",
+      "d": "a saturated solution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Dust and sand particles in air form a suspension — solid particles dispersed in a gas that will eventually settle due to gravity. An emulsion involves liquid-in-liquid dispersion, and a saturated solution requires complete dissolution of solute.",
     "examtype": "utme",
     "examyear": "2025"
   },
