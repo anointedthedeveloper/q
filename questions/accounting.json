@@ -144,6 +144,22 @@
     "examyear": "2011"
   },
   {
+    "id": 37,
+    "question": "Which of the following is not a business asset?",
+    "option": {
+      "a": "Deposit account in bank",
+      "b": "Interest due on loan",
+      "c": "Five acres of land",
+      "d": "Library books owned by a lawyer "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 59,
     "question": "If a business pays for only 11 months rent during a financial year, what accounting term is given to the outstanding term is given to the outstanding one month's rent? Which of the following equations properly represents a derivation of the fundamental accounting equation?",
     "option": {
@@ -1019,6 +1035,22 @@
     "section": "A business whose assets consisted of stock  N 15,000 and debtors   N  8,000 was bought by issuing 20,000 ordinary shares of   N  1 each at a premium of  20 percent.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 211,
+    "question": "Which of the following serves the same purpose as a Trading Account?",
+    "option": {
+      "a": "Branch Adjustment Account",
+      "b": "Goods sent to Branch Account",
+      "c": "Branch Stock Account",
+      "d": "Branch Debtors Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -3200,6 +3232,22 @@
     "examyear": "2018"
   },
   {
+    "id": 710,
+    "question": "Tea and Cup are into a partnership business. Interests on drawings made by partners are at 10% per annum. Tea’s capital is ₦70000 and current balance is ₦50000. He withdrew the following amounts during the year : 3000 on 31st January , 2000 on 31st March, 4000 on 1st July, 1500 on the 30th September, 2500 on 1st November. Cup’s capital is ₦100000 and current balance is ₦40000. He made no drawings during the period. what is the closing balance in Tea’s current account",
+    "option": {
+      "a": "36,925Cr",
+      "b": " 40,000Cr",
+      "c": "50,000Dr",
+      "d": " 36,295Dr"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Starting with Tea’s opening credit balance of ₦50 000, we subtract his total drawings (₦3 000 + 2 000 + 4 000 + 1 500 + 2 500 = ₦13 000) and the interest on those drawings (₦3 000×10%×11/12 + ₦2 000×10%×9/12 + ₦4 000×10%×6/12 + ₦1 500×10%×3/12 + ₦2 500×10%×2/12 ≈ ₦705), giving:\n\nClosing current balance = ₦50000 − ₦13000 − ₦705 = ₦36295",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 716,
     "question": "Show how the following transaction will be recorded applying the double-entry principle:\nRent ₦50,000 was paid by Mr. Roi to his landlord on 1st July 2017 by cheque.",
     "option": {
@@ -4012,6 +4060,22 @@
     "image": "",
     "answer": "c",
     "solution": "Carriage outward is an expenses and it does not appear in the trading account but appears in the profit and loss account.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 889,
+    "question": "From the following information: Debtors opening balance is ₦4,000, Debtors closing balance is ₦1,500, Cash received from debtors amounts to ₦8,500, Bad debts written off total ₦350, Discount allowed is ₦500, and Discount received is ₦1,000. What is the amount of sales for the year?",
+    "option": {
+      "a": "₦6,850",
+      "b": "₦6,650",
+      "c": "₦3,850",
+      "d": "₦1,550"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sales = Closing Debtors + Cash Received + Bad Debts Written Off + Discount Allowed - Opening Debtors\nCalculation:\n\nClosing Debtors: ₦1,500\nAdd: Cash received from debtors: ₦8,500\nAdd: Bad debts written off: ₦350\nAdd: Discount allowed: ₦500\nLess: Opening Debtors: ₦4,000\n\nSales = ₦1,500 + ₦8,500 + ₦350 + ₦500 - ₦4,000 = ₦6,850",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -5676,6 +5740,22 @@
     "image": "",
     "answer": "d",
     "solution": "Opening Balance + Cash Received - Cash Paid = Closing Balance\nRearranging to find Cash Paid:\nCash Paid = Opening Balance + Cash Received - Closing Balance\nSubstituting the values:\nCash Paid = ₦15,200 + ₦36,000 - ₦18,400\nCash Paid = ₦51,200 - ₦18,400 = ₦32,800",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1226,
+    "question": "Given that the balance as per cash book after necessary adjustment was ₦4,315, unpresented cheques were ₦1,688 and the bank statement balance was ₦4,791, what was the balance of uncredited cheques?",
+    "option": {
+      "a": "₦1,223",
+      "b": "₦1,212",
+      "c": "₦1,202",
+      "d": "₦1,115"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find uncredited cheques, Use the bank reconciliation formula:\nBank Statement Balance + Uncredited Cheques - Unpresented Cheques = Adjusted Cash Book Balance\nRearranging to find Uncredited Cheques:\nUncredited Cheques = Adjusted Cash Book Balance + Unpresented Cheques - Bank Statement Balance\nSubstituting the values:\nUncredited Cheques = ₦4,315 + ₦1,688 - ₦4,791\nUncredited Cheques = ₦6,003 - ₦4,791 = ₦1,212",
     "examtype": "utme",
     "examyear": "2001"
   },
