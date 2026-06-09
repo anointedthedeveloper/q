@@ -2736,6 +2736,22 @@
     "examyear": "2002"
   },
   {
+    "id": 209,
+    "question": "How many three-digit numbers can be formed from 32564 without repeating any of the digits?",
+    "option": {
+      "a": " 120",
+      "b": "10",
+      "c": "20",
+      "d": "60"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To get the answer, we simply do\n\n5!/(5−3)!\n= 5×4×3×2×1/(2×1)\n= 60",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 210,
     "question": "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set.",
     "option": {
@@ -3324,6 +3340,38 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699473/ALOC-Questions/Mathematics/2003/math_2003_q30_fu5oyu.jpg",
     "answer": "b",
     "solution": "PS = SR\n\nPSR is an isosceles\n\n< P = < SPQ = 40°\n\n< R = < SRQ\n\n< PSQ = < SRQ (alternate segment)\n\n< PSQ = 40°",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 252,
+    "question": "The histogram above shows the ages of victims of a pollution. How many people were involved in the pollution?",
+    "option": {
+      "a": "20",
+      "b": "21",
+      "c": "15",
+      "d": "18"
+    },
+    "section": "solution: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" columnspacing=\"1em\" rowspacing=\"4pt\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mtext>Age in years</mtext>\n      </mtd>\n      <mtd>\n        <mn>10</mn>\n      </mtd>\n      <mtd>\n        <mn>20</mn>\n      </mtd>\n      <mtd>\n        <mn>30</mn>\n      </mtd>\n      <mtd>\n        <mn>40</mn>\n      </mtd>\n      <mtd>\n        <mn>50</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mi>h</mi>\n        <mi>l</mi>\n        <mi>i</mi>\n        <mi>n</mi>\n        <mi>e</mi>\n        <mtext>frequency</mtext>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699522/ALOC-Questions/Mathematics/2003/math_2003_q31_vishxn.jpg",
+    "answer": "a",
+    "solution": " Ef = number of people involved in the pollution\n\n Ef = 3 + 4 + 5 + 6 + 2 = 20",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 253,
+    "question": "On a pie chart, there are four sectors of which three angles are 45°, 90° and 135°. If the smallest sector represents N28.00, how much is the largest sector?",
+    "option": {
+      "a": " N96.00",
+      "b": "N84.00",
+      "c": " N48.00",
+      "d": " N42.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let the 4th angle be = x\n∴ x + 45 + 90 + 135 = 360\nx + 270 = 360\nx = 360 - 270\nx = 90\n∴ smallest angle = 45°\n45° = N28.00\n1° = 28.00/45\n135° = (28.00/45) * (135/1)\n= N84.00",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -6720,6 +6768,22 @@
     "examyear": "2008"
   },
   {
+    "id": 517,
+    "question": "Find the values of x and y respectively if",
+    "option": {
+      "a": "-3, -2",
+      "b": "-5, -3",
+      "c": "-2, -5",
+      "d": "-3, -5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546391/ALOC-Questions/Mathematics/2008/MATH_2008_Q46_qipup5.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 518,
     "question": "( −2 2 1 3 ) ( p r q s ) = ( 1 0 0 1 ) . What is the value of r?",
     "option": {
@@ -7728,6 +7792,22 @@
     "examyear": "2010"
   },
   {
+    "id": 589,
+    "question": "from the table above, if the pass mark is 5, how many students failed the test?",
+    "option": {
+      "a": "6",
+      "b": "2",
+      "c": "7",
+      "d": "9"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128453/ALOC-Questions/Mathematics/2010/MATH_2010_Q18_xbacd9.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 590,
     "question": "The table above show the marks obtained in a given test.\nHow many student took the test?",
     "option": {
@@ -8716,6 +8796,22 @@
     "image": "",
     "answer": "b",
     "solution": "ELATION\nSince there are 7 letters. The first letter can be arranged in 7 ways, , the second letter in 6 ways, the third letter in 5 ways, the 4th letter in four ways, the 3rd letter in three ways, the 2nd letter in 2 ways and the last in one way.\n\ntherefore, 7 x 6 x 5 x 4 x 3 x 2 x 1 = 7! ways",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 662,
+    "question": "In how many ways can five people sit round a circular table?",
+    "option": {
+      "a": "24",
+      "b": "60",
+      "c": "12",
+      "d": "120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The first person will sit down and the remaining will join.\n\ni.e. (n - 1)!\n\n= (5 - 1)! = 4!\n\n= 24 ways",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -10432,6 +10528,22 @@
     "examyear": "2016"
   },
   {
+    "id": 843,
+    "question": "From the table above, find the median",
+    "option": {
+      "a": "3",
+      "b": "5",
+      "c": "4",
+      "d": "6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003119/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q25_kwrqbw.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 844,
     "question": "Find dy/dx, if y = 2/3 x<sup>3</sup> - 4/x",
     "option": {
@@ -10524,6 +10636,22 @@
     "image": "",
     "answer": "a",
     "solution": "Mean = (2−t+4+t+3−2t+2+t+t−1)/5\n\n\n= 10/5\n = 2",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 850,
+    "question": "Evaluate (12.02×20.06)/(26.04×60.06)\n, correct to three significant figures.",
+    "option": {
+      "a": "0.157",
+      "b": "0.154",
+      "c": "0.155",
+      "d": "0.158"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>12.02</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>20.06</mn>\n    </mrow>\n    <mrow>\n      <mn>26.04</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>60.06</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(12.02 × 20.06)/(26.04 × 60.06)\n = (241.1212)/(15698.96)\n = 0.154",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -11276,6 +11404,22 @@
     "image": "",
     "answer": "b",
     "solution": "(2√3−√2)/(√3+2√2) = m + n √ 6\n\n(2√3 − √2)/(√3 + 2√2)\n x (√3 − 2√2)/(√3 − √2)\n\n\n\n[2√3(√3 − 2√2) − √2(√3 − 2√2)]/[√3(√3 − 2√2) + 2√2(√3 − 2√2)]\n\n\n(2 × 3 − 4√6 − 6 + 2 × 2)/(3−2√6 + 2√6 − 4 × )2\n\n\n= (6 − 4√6 − √6 + 4)/(3−8)\n\n\n=( 0−4√6 − 6)/5\n\n\n= (10−5√6)/5\n\n\n= − 2 + √6\n\n∴ m + n√6= − 2 + √6\n\nm = − 2, n = 1",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 910,
+    "question": "If α and β are the roots of the equation 3x<sup>2</sup + 5x - 2 = 0, find the value of 1/α + 1/β",
+    "option": {
+      "a": "-5/4",
+      "b": "-2/3",
+      "c": "1/2",
+      "d": "5/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "1/α + 1/β = β+α/αβ\n3x<sup>2</sup + 5x - 2 = 0\nx<sup>2</sup + 5x/3 - 2/3 = 0\nαβ = -2/3\nβ+α = -5/3\nThus; β+α/αβ = -2/3 -2/3 = -5/2",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -14512,6 +14656,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1154,
+    "question": "A committee of 5 people is to be chosen from a group of 6 men and 4 women. How many committees are possible if there is to be a majority of women?",
+    "option": {
+      "a": " 60",
+      "b": "15",
+      "c": " 66",
+      "d": " 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "If the majority are women implies that:\n\n3 Women and 2 Men Or 4 Women and 1 Man\n\n= <sup>4</sup>C<sub>3</sub> × <sup>6</sup>C<sub>2</sub> + <sup>4</sup>C<sub>4</sub> × <sup>6</sup>C<sub>1</sub>\n= 4 × 15 +1 × 6\n= 60 + 6 = 66",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1155,
     "question": "If D = [241−11−3321]\nFind |D|",
     "option": {
@@ -15708,6 +15868,22 @@
     "image": "",
     "answer": "c",
     "solution": "His annual salary = N2000\n\nHis allowances = N600\n\nSo his taxable income = Annual salary − allowance\n\n= N2000 − N600\n\n= N1400\n\nHe pay at 5%\n\nThen, his allowance income tax 5/100 × 1400 = N70",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1246,
+    "question": "Solve the equation 3x<sup>2</sup> − 4x − 5 = 0",
+    "option": {
+      "a": "x = 1.75 or − 0.15",
+      "b": "x = 2.12 or − 0.79",
+      "c": "x = 1.5 or − 0.34",
+      "d": "x = 2.35 or −1.23"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>x</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo>&#x2212;<!-- − --></mo>\n      <mi>b</mi>\n      <mo>&#x00B1;<!-- ± --></mo>\n      <msqrt>\n        <msup>\n          <mi>b</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>4</mn>\n        <mi>a</mi>\n        <mi>c</mi>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mi>a</mi>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "Using the quadratic formula, we have\n\nx=−b±√(b<sup>2</sup> −4ac)/2a\nFrom the equation 3x<sup>2</sup>−4x−5 = 0, a = 3, b = -4 and c = -5.\n\n∴x=−(−4)±√((−4)2−4(3)(−5))/2(3)\n= 4±√(16+60)/6\n= 4±√(76)/6\n= 4±8.72/6\n= 4+8.72/6 or 4−8.72/6\n= 12.72/6 or −4.72/6\nx = 2.12 or -0.79",
     "examtype": "utme",
     "examyear": "2015"
   },
