@@ -16,6 +16,22 @@
     "examyear": "2014"
   },
   {
+    "id": 6,
+    "question": "Which  of  the  following  risks  is  covered  by  insurance policy?",
+    "option": {
+      "a": "An investment loss on the stock market",
+      "b": "Dishonesty of an employee leading to fraud",
+      "c": "Failure of a business venture",
+      "d": "Rise and fall of prices of goods in the market"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 14,
     "question": "Abandonment is mostly applicable to",
     "option": {
@@ -32,6 +48,22 @@
     "examyear": "2014"
   },
   {
+    "id": 19,
+    "question": "A policy that combines cover for many perils as a single policy  to  suit  the  insurance  needs of  an insured is",
+    "option": {
+      "a": "accident policy",
+      "b": "protection policy",
+      "c": "paternal policy",
+      "d": "packaged policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 20,
     "question": "A residential building built beside a petrol filling station is described as a",
     "option": {
@@ -43,6 +75,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 22,
+    "question": "One of the information contained in a motor insurance cover note is the",
+    "option": {
+      "a": "behaviour of the insured",
+      "b": "occupation of the insured",
+      "c": "commencement date",
+      "d": "previous and present insurance history"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 25,
+    "question": "A method of providing indemnity in the event of loss is",
+    "option": {
+      "a": "cash payment",
+      "b": "professional advice",
+      "c": "resolution of dispute",
+      "d": "resolution of policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -128,6 +192,22 @@
     "examyear": "2014"
   },
   {
+    "id": 39,
+    "question": "The payment made when the insured is  not  entitled to claim under a policy is",
+    "option": {
+      "a": "voluntary excess",
+      "b": "ex-gratia",
+      "c": "return premium",
+      "d": "premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 40,
     "question": "The owner of a life assurance policy who enters into an agreement to sell the ownership of the policy and beneficiary rights upon the death of the insured is called",
     "option": {
@@ -139,6 +219,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 44,
+    "question": "Insurers A and B cover a risk at the ratio of 2:5 for the sum insured of N= 1,800. How much would insurer  A get from the risk?",
+    "option": {
+      "a": "N= 1,285.00",
+      "b": "N= 771.00",
+      "c": "N= 514.00",
+      "d": "N= 180.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -272,6 +368,22 @@
     "examyear": "1"
   },
   {
+    "id": 84,
+    "question": "A person who has lawful possession of goods belonging to another is known as",
+    "option": {
+      "a": "Owner",
+      "b": "Bailee",
+      "c": "Agent",
+      "d": "Trustee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 85,
     "question": "Transfer of rights and liabilities under a contract with the consent of the other party is known as",
     "option": {
@@ -366,6 +478,22 @@
     "solution": "",
     "examtype": "model",
     "examyear": "1"
+  },
+  {
+    "id": 105,
+    "question": "Which of the following is not a principle of insurance?",
+    "option": {
+      "a": "Indemnity",
+      "b": "Compensation",
+      "c": "Proximate cause",
+      "d": "Insurable interest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
   },
   {
     "id": 106,
@@ -528,6 +656,22 @@
     "examyear": "2"
   },
   {
+    "id": 131,
+    "question": "The prices set by the insurer for the insurance cover is known as",
+    "option": {
+      "a": "Due",
+      "b": "Levy",
+      "c": "Premium",
+      "d": "Charge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 137,
     "question": "The sum paid for transporting the goods or for the hire of a ship is called",
     "option": {
@@ -672,6 +816,22 @@
     "examyear": "3"
   },
   {
+    "id": 160,
+    "question": "The monetary consideration paid by the insured to the insurers for the insurance granted by the policy is called",
+    "option": {
+      "a": "Premium",
+      "b": "Money",
+      "c": "Price",
+      "d": "Benefit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 161,
     "question": "------------- is a policy designed to place the insured in the same financial position as he was immediately before the happening of the event insured against",
     "option": {
@@ -704,6 +864,38 @@
     "examyear": "3"
   },
   {
+    "id": 166,
+    "question": "Another name for consequential loss is",
+    "option": {
+      "a": "Stop loss",
+      "b": "Credit insurance",
+      "c": "Business interruption insurance",
+      "d": "Excess loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 171,
+    "question": "The shifting of responsibility of one’s own losses to another is known as ---------- transfer",
+    "option": {
+      "a": "Fund",
+      "b": "Risk",
+      "c": "Business",
+      "d": "Policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 173,
     "question": "The following are types of life assurances,  except",
     "option": {
@@ -731,6 +923,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 180,
+    "question": "A person who makes an insurance claim is called",
+    "option": {
+      "a": "Actuary",
+      "b": "Adjustor",
+      "c": "Claimant",
+      "d": "Client"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -880,6 +1088,54 @@
     "examyear": "4"
   },
   {
+    "id": 203,
+    "question": "The premium paid by the insured to the insurance company is",
+    "option": {
+      "a": "capital",
+      "b": "commission",
+      "c": "common fund",
+      "d": "consideration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 206,
+    "question": "Uberrimae fidei is equally known as",
+    "option": {
+      "a": "contract",
+      "b": "agreement",
+      "c": "consensus",
+      "d": "utmost good faith"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 210,
+    "question": "Occurrence of an unplanned event is called",
+    "option": {
+      "a": "hazard",
+      "b": "loss",
+      "c": "risk",
+      "d": "speculation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 212,
     "question": "An insurance contract which does not involve mutuality of agreement in which only one of the parties involved in the contract makes promises that are legally binding is called",
     "option": {
@@ -992,6 +1248,22 @@
     "examyear": "4"
   },
   {
+    "id": 233,
+    "question": "Proposal form is used in the following classes of insurance except",
+    "option": {
+      "a": "Accident",
+      "b": "theft",
+      "c": "life",
+      "d": "large risk of fire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 235,
     "question": "Proposal form is not applicable to the following except",
     "option": {
@@ -1040,6 +1312,22 @@
     "examyear": "4"
   },
   {
+    "id": 246,
+    "question": "One of these is a form of motor vehicle insurance policy",
+    "option": {
+      "a": "comprehensive",
+      "b": "1st party only",
+      "c": "2nd party only",
+      "d": "accident"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 252,
     "question": "Subrogation in insurance means that",
     "option": {
@@ -1047,6 +1335,22 @@
       "b": "the insured must be fully indemnified",
       "c": "the insurer must take the place of the insured",
       "d": "the insured should pool their risks"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 257,
+    "question": "One of the following is legally used by the insured while the policy is being processed",
+    "option": {
+      "a": "indemnity form",
+      "b": "claim form",
+      "c": "cover note",
+      "d": "proposal form"
     },
     "section": "",
     "image": "",
@@ -1152,6 +1456,38 @@
     "examyear": "5"
   },
   {
+    "id": 280,
+    "question": "An  attempt  to  deprive  someone of his  property is",
+    "option": {
+      "a": "theft",
+      "b": "burglary",
+      "c": "robbery",
+      "d": "larceny"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 281,
+    "question": "The process of examining, accepting or rejecting risks and classifying the ones accepted is",
+    "option": {
+      "a": "underwriting",
+      "b": "policy",
+      "c": "procedures",
+      "d": "warranty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 285,
     "question": "The principle of maritime law which makes owners of ship and cargo share in a lost incurred voluntarily is",
     "option": {
@@ -1163,6 +1499,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 290,
+    "question": "Marine insurance policy which covers all the ship or vessels belonging to one owner is",
+    "option": {
+      "a": "flect policy",
+      "b": "mixed policy",
+      "c": "value policy",
+      "d": "fixed policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 293,
+    "question": "The form of risk that can easily be calculated and estimated is known as",
+    "option": {
+      "a": "non insurable risk",
+      "b": "non-financial risk",
+      "c": "speculative risk",
+      "d": "insurable risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
@@ -1243,6 +1611,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 309,
+    "question": "A new Nissan car valued at N= 350,000 was used to replace a Peugeot car with a sum insured N= 250.000 in private policy. The Peugeot car enjoys a 25% no claim discount. If the rate of premium is 11% and the no claim discount is transferred to the  new vehicle, what  would be the premium for the new Nissan car?",
+    "option": {
+      "a": "N= 20,625",
+      "b": "N= 27,500",
+      "c": "N= 28,875",
+      "d": "N= 38,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 310,
+    "question": "One of the features of term assurance is",
+    "option": {
+      "a": "investment",
+      "b": "profit",
+      "c": "protection",
+      "d": "surrender"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -1376,6 +1776,22 @@
     "examyear": "2015"
   },
   {
+    "id": 337,
+    "question": "The  document issued by  the  insurer when there is a change in the particulars of a risk insured is",
+    "option": {
+      "a": "endorsement",
+      "b": "certificate",
+      "c": "voucher",
+      "d": "policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 338,
     "question": "The amount charged when a ship overstays at the port under a marine contract is",
     "option": {
@@ -1399,6 +1815,22 @@
       "b": "Proposal form",
       "c": "Claim form",
       "d": "Discharge form"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 342,
+    "question": "Cover note  in  motor  insurance is issued for a period not exceeding",
+    "option": {
+      "a": "30 days",
+      "b": "60 days",
+      "c": "90 days",
+      "d": "120 days"
     },
     "section": "",
     "image": "",
