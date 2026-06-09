@@ -5852,6 +5852,25 @@
     "category": "others"
   },
   {
+    "id": 446,
+    "question": "photography ",
+    "option": {
+      "a": "phoTOgraphy   ",
+      "b": "PHOtograhy",
+      "c": " photoGRAphy   ",
+      "d": "photograPHY"
+    },
+    "section": "choose the appropriate  stress pattern from the options. The syllables are written in capital letters.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 447,
     "question": "melodramatic ",
     "option": {
@@ -8508,6 +8527,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 61,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 660,
+    "question": "Had I known about their plan much earlier I would have <u>nipped it in the bud</u>?",
+    "option": {
+      "a": " stopped it",
+      "b": "intiated it",
+      "c": "squashed it",
+      "d": "promoted it"
+    },
+    "section": "<b>In each of questions 63 to 77,choose the option opposite in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 64,
     "hasPassage": 0,
     "category": "others"
   },
@@ -11191,6 +11229,25 @@
     "category": "others"
   },
   {
+    "id": 942,
+    "question": "The circular <u>supersedes</u> all previous correspondence on the matter?",
+    "option": {
+      "a": "supports",
+      "b": "displaces",
+      "c": "eliminates",
+      "d": "circumvents"
+    },
+    "section": "<b>In each of the questions 34 to 48, Choose the option nearest in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "For something to ''supersede'' it means to take the place of (a person or thing previously in authority or use); supplant.\n\nsynonymes; replace · supplant · take the place of · take over from · substitute for · displace · oust · overthrow · remove · unseat · override · succeed · come after · step into the shoes of · crowd out · fill someone's boots. \n\nthe closest in meaning in the above options is ''displace'' which means take over the place, position, or role of.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 47,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 943,
     "question": "Her problem was <u>exacerbated</u> by the loss of her father?",
     "option": {
@@ -13091,6 +13148,25 @@
     "category": "others"
   },
   {
+    "id": 1082,
+    "question": "P<u>a</u>tch",
+    "option": {
+      "a": "starch",
+      "b": "fare",
+      "c": "mad",
+      "d": "came"
+    },
+    "section": "<b>In each of questions 86 to 88, choose the \noption that has the same vowel sound as \nthe one represented by the letter(s) \nunderlined.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "patch; /patʃ/\n\nmad; /mad/",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 88,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1083,
     "question": "Tan<u>g</u>erine",
     "option": {
@@ -13847,6 +13923,25 @@
     "examtype": "utme",
     "examyear": "2013",
     "questionNub": 67,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1161,
+    "question": "Tinu likes apples......she does not like oranges",
+    "option": {
+      "a": "so",
+      "b": "but",
+      "c": "or",
+      "d": "do"
+    },
+    "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "But; is used to introduce a phrase or clause contrasting with what has already been mentioned.\n\nTinu likes apples but she does not like oranges.\n\nThe second phrase contradicts what was already said.",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 69,
     "hasPassage": 0,
     "category": "others"
   },
@@ -18559,6 +18654,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 30,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1594,
+    "question": "Select the option that best explain the information conveyed in the sentence\n\nThe letter was being written by the principal",
+    "option": {
+      "a": " The letter had been written by the principal",
+      "b": "The principal was writing the letter",
+      "c": "The principal wanted to write the letter",
+      "d": "The principal wrote the letter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When the word 'being' is used in past continuous tense, as it is in the above question, it means the action is happening or was happening before, in a continuous manner, just like in the answer, the principal was writing the letter",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 31,
     "hasPassage": 0,
     "category": "others"
   },
