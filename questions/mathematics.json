@@ -32,6 +32,22 @@
     "examyear": "2006"
   },
   {
+    "id": 11,
+    "question": "Z is partly constant and partly varies inversely as the square of d. when d = 1, z = 11 and when d = 2, z = 5. Find the value of z when d = 4.  ",
+    "option": {
+      "a": "2",
+      "b": "3.5",
+      "c": "5",
+      "d": "5.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 12,
     "question": "Expand the expression (x2-2x-3)(x2+x+1).  ",
     "option": {
@@ -62,6 +78,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 34,
+    "question": "A. cylinder has height 4cm and base radius 5cm.its volume to 3 significant figure is  ",
+    "option": {
+      "a": "314.2cm2 ",
+      "b": "31.42 cm2 ",
+      "c": "251 4cm2 ",
+      "d": "251cm2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
   },
   {
     "id": 35,
@@ -206,6 +238,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 73,
+    "question": "Given f(x) =3+x and g(x) =3-x, find g (f(x))",
+    "option": {
+      "a": "6",
+      "b": "x",
+      "c": "-x",
+      "d": "0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
   },
   {
     "id": 76,
@@ -384,6 +432,22 @@
     "examyear": "2001"
   },
   {
+    "id": 134,
+    "question": "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to",
+    "option": {
+      "a": "Zero",
+      "b": "half of the common difference",
+      "c": " double the common difference",
+      "d": "the common difference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "1st statement: U<sub>6</sub> = 1/2(U<sub>12</sub>)\na + (n -1)d = 1/2[a + (n-1)d]\na + 5d = a + 11d\n2(a + 5d) = a + 11d\n2a + 10d = a + 11d\n\nSolving, => a = d\nHence the first term is equal to the common difference",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 135,
     "question": "Factorize 4x<sup>2</sup>  - 9y<sup>2</sup>  + 20x + 25",
     "option": {
@@ -460,6 +524,22 @@
     "image": "",
     "answer": "d",
     "solution": "Hint:\ny = 4 - x<sup>2</sup> and y = 2x + 1\n=> 4 - x<sup>2</sup> = 2x + 1\n=> x<sup>2</sup> + 2x - 3 = 0\n(x+3)(x-1) = 0\nthus x = -3 or x = 1.\n\nIntegrating x<sup>2</sup> + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 157,
+    "question": "If <sup>6</sup>P<sub>r</sub> = 6, find the value of If <sup>6</sup>P<sub>r+1</sub> ",
+    "option": {
+      "a": "30",
+      "b": "33",
+      "c": "35",
+      "d": "15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "6Pr = 6 Thus r = 1\n\nN.B 6P<sup>1</sup> = 6!/(6-1)!\n=6!/5!\n= 6x 5!/5! = 6\n= 6P<subr+1</sub> = 6P<sub>2</sub> =  6!/(6-2)! =6!/4!\n \n = (6x5x4!)/4!\n= 30",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -640,6 +720,22 @@
     "examyear": "2002"
   },
   {
+    "id": 228,
+    "question": "Simplify (√98 -√50)/√32",
+    "option": {
+      "a": "3",
+      "b": "1",
+      "c": "1/2",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(√98 - √50)/√32 = √(49x2) - √(25x2) √(16x2)\n=> (7√2 - 5√2)/4√2 = 1/2",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 241,
     "question": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
     "option": {
@@ -702,6 +798,38 @@
     "solution": "Black balls = 5\nRed balls = 3/8\nP(B) = 5/8, P(R) = 3/8\nP( a Black and a Red) = BR + RB\n= (5/8) * (3/7) * (3/8) * (5/7)\n= (15/56) + (15/56)\n= 30/56\n= 15/28",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 281,
+    "question": "If y = 3 cos(x/3), find dy/dx when x = (3π/2)",
+    "option": {
+      "a": "1",
+      "b": "-3",
+      "c": "2",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = 3cos(x/3)\ndy/dx = 3x(1/3)x - sin (x/3)\n= - sin x/3\nBut x = 3π/2 ∴ -sin(x/3) = -sin(3π/6)\n= -sin (3 * 180)/6\n= - sin 90\n= -1",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 291,
+    "question": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group",
+    "option": {
+      "a": "0",
+      "b": "7",
+      "c": "42",
+      "d": "15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Let the number of students = x\nTotal age of the students = 15x\nTotal age including age of the teacher = 15x + 45\nMean of their ages; (15x + 45)/(x + 1) = 18\n= 15x + 45 = 18(x + 1)\n= 15x + 45 = 18x + 18\n= 18x - 15x = 45 - 18\n= 3x = 27\nx = 9",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 299,
@@ -924,6 +1052,22 @@
     "image": "",
     "answer": "c",
     "solution": "((a+a+1+a+2+a+3+a+4))/5 30=(5a+10)/5 30×5=5a+105a=150-105a=140a=28∴a+4=28+4=32",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 382,
+    "question": "Find the value of x for which the function 3x<sup>3</sup> - 9x is minimum",
+    "option": {
+      "a": "zero",
+      "b": "2",
+      "c": "3",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "y = 3x<sup>3</sup> - 9x<sup>2</sup>\ndy/dx = 9x2 - 18x\nAs dy/dx = 0\n9x<sup>2</sup> - 18x = 0\n9x(x-2) = 0\n9x = 0 which implies x = 0\nx-2 = 0 implies x = 2\nd<sup>2</sup>y/dx<sup>2</sup> = 18x - 18\nwhen x = 0\nd<sup>2</sup>y/dx<sup>2</sup> < 0 ∴ x is is minimum\nwhen x = 2d<sup>2</sup>y/dx<sup>2</sup> = 18\n∴ > 0 x is minimum",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -1232,6 +1376,22 @@
     "examyear": "2009"
   },
   {
+    "id": 539,
+    "question": "If m * n = n - (m+2) for any real number m and n find the value of 3*(-5)?",
+    "option": {
+      "a": "-6",
+      "b": "-8",
+      "c": "-10",
+      "d": "-12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "m * n = n - (m+2)\n= -5 - (3+2)\n= -5-5\n= -10",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 542,
     "question": "If P = []  evaluate x if |P| = -10",
     "option": {
@@ -1280,6 +1440,22 @@
     "examyear": "2009"
   },
   {
+    "id": 566,
+    "question": "The table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5?",
+    "option": {
+      "a": "\n3/5",
+      "b": "2/5",
+      "c": "7/20",
+      "d": "1/5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547388/ALOC-Questions/Mathematics/2009/MATH_2009_Q45_SOLUTION_a2kkcx.jpg",
+    "answer": "a",
+    "solution": "Total number of students = 20                       \nP(passing) =12/20\n=3/5",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 569,
     "question": "The cumulative frequency curve above shows the distribution of the scores of 50 students in an examination. Find the 36th percentile scores?",
     "option": {
@@ -1308,6 +1484,22 @@
     "image": "",
     "answer": "a",
     "solution": "(2√3 + √5)/(√5 - √3)  = ((2√3+√5)/(√5-√3))((√5+√3)/(√5+√3)) = (2√15+6+5+√15)/(5-3) = (3√15+11)/2",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 583,
+    "question": "If two smaller sides of a right angled triangle are 4cm and 5cm, find its area",
+    "option": {
+      "a": "10 cm<sup>2</sup>",
+      "b": "6 cm<sup>2</sup>",
+      "c": " 24 cm<sup>2</sup>",
+      "d": "8 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128286/ALOC-Questions/Mathematics/2010/MATH_2010_Q12_SOLUTION_sixqeq.jpg",
+    "answer": "a",
+    "solution": "Area of a triangle = 1/2 base x height\n= 1/2 x 4 x 5\n= 10 cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -1472,6 +1664,22 @@
     "examyear": "2011"
   },
   {
+    "id": 668,
+    "question": "In how many ways can the letters of the word ELATION be arranged?",
+    "option": {
+      "a": " \n5!",
+      "b": " \n7!",
+      "c": "8!",
+      "d": " \n6!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "<sup>7</sup>P<sub>7</sub = 7!",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 721,
     "question": "Convert 112<sub>6</sub>  to a number in base three",
     "option": {
@@ -1566,6 +1774,22 @@
     "solution": "Area of sector = θ/360° × πr<sup2</sup>\n= 150/360 × π × 12<sup>2</sup>\n= 60π cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 770,
+    "question": "Convert 27<sub>10</sub>  to another number in base three",
+    "option": {
+      "a": "1001<sub>3</sub> ",
+      "b": "1010<sub>3</sub> ",
+      "c": "1100<sub>3</sub> ",
+      "d": "1000<sub>3</sub> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
   },
   {
     "id": 789,
@@ -1692,6 +1916,22 @@
     "image": "",
     "answer": "c",
     "solution": "(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2)\n\n\n(〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗<sup>(2/4)</sup>×2)\n = 3√(27) −3√8<sup>2</sup>/√16 × 2\n\n\n(3−4)/(4×2)\n\n= −1/8",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 845,
+    "question": "Evaluate (0.8×0.43×0.031)/(0.05×0.72×0.021)\n. Correct to four significant figures.",
+    "option": {
+      "a": "14.09",
+      "b": "14.1",
+      "c": "14.12",
+      "d": "14.11"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "(0.8 × 0.43 × 0.031)/(0.05 × 0.72 × 0.021)  x 10/10\n= 14.11",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1856,6 +2096,22 @@
     "examyear": "2017"
   },
   {
+    "id": 909,
+    "question": "If (2√3−√2)/(√3+2√2) = m + n √ 6, find the values of m and n respectively",
+    "option": {
+      "a": "1, − 2",
+      "b": "− 2, n = 1",
+      "c": "−2/5 , 1",
+      "d": "2/3"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n      <mo>+</mo>\n      <mn>2</mn>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(2√3−√2)/(√3+2√2) = m + n √ 6\n\n(2√3 − √2)/(√3 + 2√2)\n x (√3 − 2√2)/(√3 − √2)\n\n\n\n[2√3(√3 − 2√2) − √2(√3 − 2√2)]/[√3(√3 − 2√2) + 2√2(√3 − 2√2)]\n\n\n(2 × 3 − 4√6 − 6 + 2 × 2)/(3−2√6 + 2√6 − 4 × )2\n\n\n= (6 − 4√6 − √6 + 4)/(3−8)\n\n\n=( 0−4√6 − 6)/5\n\n\n= (10−5√6)/5\n\n\n= − 2 + √6\n\n∴ m + n√6= − 2 + √6\n\nm = − 2, n = 1",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 911,
     "question": "Find the range of the following set of numbers 0.4, −0.4, 0.3, 0.47, −0.53, 0.2 and −0.2",
     "option": {
@@ -1968,6 +2224,22 @@
     "examyear": "2018"
   },
   {
+    "id": 950,
+    "question": "Integrate the expression 6x<sup>2</sup> - 2x + 1",
+    "option": {
+      "a": " 3x<sup>3</sup> - 2x<sup>2</sup>\n + x + c",
+      "b": "2x<sup>3</sup> - x<sup>2</sup>\n + x + c",
+      "c": "2x<sup>3</sup>\n – 3x<sup>2</sup>\n + c",
+      "d": "x<sup>2</sup> + x<sup>2</sup>\n – x + c"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "6x<sup>2</sup> - 2x + 1\n\n(6x<sup>(2+1)</sup>)/(2+1)-(2x<sup>(1+1)</sup>)/(1+1)+1x=(6x<sup>3</sup>)/3-(2x<sup>2</sup>)/2+x\n2x<sup>3</sup>−x<sup>2</sup>+x+c",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 952,
     "question": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/",
     "option": {
@@ -2016,6 +2288,22 @@
     "examyear": "2018"
   },
   {
+    "id": 973,
+    "question": "In a class of 50 students, 40 students offered Physics and 30 offered Biology. How many offered both Physics and Biology?",
+    "option": {
+      "a": "42",
+      "b": "20",
+      "c": "70",
+      "d": "54"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "n(Total) = 50\n\nn(Physics) = 40\n\nn(Biology) = 30\n\nLet n(Physics and Biology) = x\n\nn(Physics only) = 40 -x\n\nn(Biology only) = 30 - x\n\n40 - x + 30 - x + x = 50\n\n70 - x = 50\n\nx = 20",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 975,
     "question": "Find the length of the chord |AB| in the diagram shown above.",
     "option": {
@@ -2044,6 +2332,22 @@
     "image": "",
     "answer": "d",
     "solution": "(2/3÷4/5)/(1/4+3/5-1/3).  2/3÷4/5=2/3×5/4 = 5/6                         1/4+3/5-1/3=(15+36-20)/60 = 31/60  ∴ ∴(2/3÷4/5)/(1/4+3/5-1/3)=5/6÷31/60 = 5/6 x 60/31 = 50/31",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 982,
+    "question": "Find the variance",
+    "option": {
+      "a": "3.42",
+      "b": "4.69",
+      "c": " 4.85",
+      "d": " 3.72"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006808/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q15_cfctff.jpg",
+    "answer": "d",
+    "solution": "Variance = ∑f(x−x¯)/∑f\n= 170.888/46\n= 3.72",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -2092,6 +2396,22 @@
     "image": "",
     "answer": "b",
     "solution": "= 0.16063/0.017 × 0.219\n= 43.1 (to 3 s.f)",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1004,
+    "question": "The angles of a polygon are given by 2x, 5x, x and 4x respectively. The value of x is",
+    "option": {
+      "a": " 31°",
+      "b": "30°",
+      "c": "26°",
+      "d": "48°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Since there are 4 angles given, the polygon is a quadrilateral.\n\nSum of angle in a quadrilateral = 360°\n\n∴\n 2x + 5x + x + 4x = 360°\n\n12x = 360°\n\nx = 30°",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -2220,6 +2540,22 @@
     "image": "",
     "answer": "b",
     "solution": "y = 2x<sup>2</sup>(2x - 1)\ny = 4x<sup>3</sup> - 2x<sup>2</sup>\n\ndy/dx = 12x<sup>2</sup>\n - 4x\nat x = -1\ndy/dx = 12(-1)<sup>2</sup>\n - 4(-1)\n= 12 + 4\n= 16",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1069,
+    "question": "Three children shared a basket of mangoes in such a way that the first child took 1/4 of the mangoes and the second 3/4 of the remainder. What fraction of the mangoes did the third child take?",
+    "option": {
+      "a": "3/16",
+      "b": "7/16",
+      "c": "9/16",
+      "d": "13/16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "You can use any whole numbers (eg. 1. 2. 3) to represent all the mangoes in the basket.\n\nIf the first child takes 1/4\n it will remain 1 - 1/4 = 3/4\n\n\nNext, the second child takes 3/4 of the remainder\n\nwhich is 3/4 i.e. find 3/4 of 3/4\n\n\n= 3/4 x 3/4\n\n= 9/16\n\nthe fraction remaining now = 3/4 - 9/16\n\n\n= (12−9)/16\n\n\n= 3/16",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2512,6 +2848,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1189,
+    "question": "Express the product of 0.00043 and 2000 in standard form.",
+    "option": {
+      "a": " 8.6 x 10<sup>-3</sup>",
+      "b": "8.3 x 10<sup>-2</sup>",
+      "c": "8.6 x 10<sup>-1</sup>",
+      "d": "8.6 x 10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "0.00043 x 2000\n\n= 43 x 10<sup>-5</sup> x 2 x 103\n\n= 43 x 2 x 10-5+3\n\n= 86 x 10<sup>-2</sup>\n\n= 8.6 x 10<sup>1</sup> x 10<sup>-2</sup>\n\n= 8.6 x 10<sup>-1</sup>",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1202,
     "question": "Evaluate the inequality x/2+3/4≤ 5x/6 − 7/12",
     "option": {
@@ -2540,6 +2892,22 @@
     "image": "",
     "answer": "b",
     "solution": "x * y = xy\nx * 2 = 12 - x\n\nThus by comparison,\n\nx = x, y = 2\n\nBut x * y = x * 2\n\nxy = 12 - x\n\nx2 = 12 - x\n\nx2 + x - 12 = 0\n\nx2 + 4x - 3x - 12 = 0\n\nx(x + 4) - 3(x + 4) = 0\n\n(x - 3)(x + 4) = 0\n\nx - 3 = 0 or x + 4 = 0\n\nSo x = 3 or x = -4",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1219,
+    "question": "Evaluate ∫(2x+3)<sup>(1/2)</sup> δx",
+    "option": {
+      "a": "1/12(2x+3)<sup>6</sup> +k",
+      "b": "1/3(2x+3)<sup>(1/2)</sup> +k",
+      "c": "1/3(2x+3)<sup>3/2</sup> +k",
+      "d": "1/12(2x+3)<sup>3/4</sup> +k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫(2x + 3)<sup>(1/2)</sup>δx\n\n\nlet u = 2x + 3, δy/δx=2\n\n\nδx=δu/2\n\n\nNow ∫(2x+3)<sup>(1/2)</sup>δx=∫u<sup>(1/2)</sup>.δx/2\n\n\n=1/2∫u<sup>(1/2)</sup>δu\n\n\n=1/2u<sup>(3/2)</sup>×23 + k\n\n\n=1/3u<sup>(3/2)</sup> + k\n\n\n=1/3(2x+3)3/2 + k",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -2588,6 +2956,22 @@
     "image": "",
     "answer": "d",
     "solution": "n(X ∪ Y) = n(X) + n(Y) − n(X ∩ Y)\n\n= 15 + 12 − 7\n\n∴ n(X ∪ Y) = 20",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1244,
+    "question": "If x + y = 90 simplify (sinx+siny)<sup>2</sup> −2sinxsiny",
+    "option": {
+      "a": "1",
+      "b": "0",
+      "c": "2",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given: x + y=90°...(1)\n(sinx + siny)<sup>2</sup> −2sinxsiny = sin<sup>2</sup> x  + sin<sup>2</sup> y + 2sinxsiny − 2sinxsiny\n= sin<sup>2</sup> x + sin<sup>2</sup> y...(2)\nRecall: sinx = cos(90−x)...(a)\nFrom (1), y = 90−x...(b)\nPutting (a) and (b) in (2), we have\n\nsin<sup>2</sup> x + sin<sup>2</sup> y ≡ cos<sup>2</sup> (90−x) + sin<sup>2</sup> (90−x)\n= 1",
     "examtype": "utme",
     "examyear": "2015"
   },
