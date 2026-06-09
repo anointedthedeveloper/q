@@ -8240,6 +8240,22 @@
     "examyear": "2018"
   },
   {
+    "id": 711,
+    "question": "To account for expenses paid by head office on behalf of the branch, the branch should___________",
+    "option": {
+      "a": "Debit profit and loss account and credit head office account",
+      "b": "Debit head office account and credit cash",
+      "c": "Credit cash and debit profit and loss account",
+      "d": " Credit profit and loss account and debit head office account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The head office maintains a book, (branch account) more or less like other personal accounts, so that any expenses incurred on behalf of the branch will also be debited to the branch account. Similarly, in the branch books, there will be head office accounts",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 714,
     "question": "The major source of document which enables employer to calculate  the employee wages  is the?",
     "option": {
@@ -14396,6 +14412,22 @@
     "image": "",
     "answer": "c",
     "solution": "To calculate net profit, Adjust the operating expenses by removing the prepaid portion (since prepaid expenses are not actual expenses for the current period):\nAdjusted Operating Expenses = ₦2,500 - ₦500 = ₦2,000\nNet Profit = Sales - Cost of Sales - Adjusted Operating Expenses\nNet Profit = ₦20,000 - ₦10,000 - ₦2,000 = ₦8,000",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1269,
+    "question": "<b>Use the information below to answer question 4 and 5.</b>\n\nSales ₦20,000\nCost sales ₦10,000\nOperating expenses ₦2,500\nExpenses prepaid included\nin operating expenses ₦500\n\nwhat is the gross profit margin?",
+    "option": {
+      "a": "100%",
+      "b": "50%",
+      "c": "40%",
+      "d": "30%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Gross Profit Margin is calculated as:\nGross Profit Margin = (Gross Profit ÷ Sales) × 100\nFirst, calculate Gross Profit:\nGross Profit = Sales - Cost of Sales = ₦20,000 - ₦10,000 = ₦10,000\nThen calculate the margin:\nGross Profit Margin = (₦10,000 ÷ ₦20,000) × 100 = 50%",
     "examtype": "utme",
     "examyear": "2000"
   },
