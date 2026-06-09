@@ -416,6 +416,22 @@
     "examyear": "2012"
   },
   {
+    "id": 47,
+    "question": "The balance unearned rent account for Jones Co. as at 31st Dec. is 1,200. If Jones Co tailed to record the adjusting entry for 600 of rent earned during December, the effect on the balance sheet and income statement",
+    "option": {
+      "a": "for December is:",
+      "b": " Liabilities   overstated—N60Q:   c:et income overstate d 44600",
+      "c": " Liabilities   understated   £4500:   net income  understated N600",
+      "d": "Asset    understated—N600:     net    income  overstated N600"
+    },
+    "section": " Liabilities   overstated   N600:    net income understated N600",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 48,
     "question": "If goods purchased on account is returned, the buyer may inform the seller of the details by issuing:",
     "option": {
@@ -2400,6 +2416,22 @@
     "examyear": "2006"
   },
   {
+    "id": 255,
+    "question": "Which of the following is not a purpose for preparing departmental accounts? To",
+    "option": {
+      "a": "compare the results of different departments",
+      "b": "employ staff into different departments",
+      "c": "reward departmental managers",
+      "d": "obtain information for formulating policies."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 256,
     "question": "Rent expenses for the year 2005 is",
     "option": {
@@ -3184,6 +3216,22 @@
     "examyear": "2015"
   },
   {
+    "id": 347,
+    "question": "In the operation of an imprest system of petty cash, the",
+    "option": {
+      "a": "petty cashier pays all expenses",
+      "b": "petty cashier pays money to the accountant",
+      "c": "petty cashier regularly begins each period with the same amount of money",
+      "d": "main cashier accounts to the petty cashier for some expenses made by him"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 351,
     "question": "Net turnover is referred to as",
     "option": {
@@ -3223,6 +3271,22 @@
       "b": "Petty  Cash  Book",
       "c": "Sales Day Book",
       "d": "Purchases Day Book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 359,
+    "question": "The cost of carriage outward is classified as",
+    "option": {
+      "a": "a selling and distribution expense",
+      "b": "an administrative expense",
+      "c": "a trading expense",
+      "d": "a finance expense"
     },
     "section": "",
     "image": "",
@@ -3579,6 +3643,22 @@
     "section": "Opening balance [N 10,640 ]; Purchases [N 26,912 ]; Returns inwards [N 492 ]; Returns outwards [N 810 ]; Cash discount received [N 1,348 ]; Cash discount allowed [N 1,560 ]; Cash paid to suppliers [N 20,808 ] ",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 406,
+    "question": "In a sales ledger, contra entry is found on the",
+    "option": {
+      "a": "debit side of the debtors’ control account",
+      "b": "debit side of the creditors’ control account",
+      "c": "credit side of the debtors’ control account",
+      "d": "credit side of the creditors’ control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -4640,6 +4720,22 @@
     "examyear": "2009"
   },
   {
+    "id": 512,
+    "question": "Replacement and renewal of fixed assets are",
+    "option": {
+      "a": "revenue receipt",
+      "b": "capital receipt",
+      "c": "capital expenditure",
+      "d": "revenue expenditure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 514,
     "question": "One of the reasons for the existence of the public sector is to",
     "option": {
@@ -4860,6 +4956,22 @@
     "image": "",
     "answer": "b",
     "solution": "The standard “recovery of a previously written-off debt” entry is:\n\nReinstate the debtor: Debit Debtors Control Account\n\nRecognize the income: Credit Bad Debts Recovered Account\n\nSo the debit entry is against the Debtors Control Account.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 538,
+    "question": "One of the items listed below will not be found in a company’s memorandum and article of association. Which is it?",
+    "option": {
+      "a": " objects and their alteration",
+      "b": " location of business",
+      "c": "bank signatories",
+      "d": "powers of directors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The memorandum of association is the document that sets up the company and the articles of association set out how the company is run, governed and owned. The articles of association includes the responsibilities and powers of the directors and the means by which the members exert control over the board of directors. \n\nThe MOA of a company contains the object for which the company is formed. It identifies the scope of its operations and determines the boundaries it cannot cross.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -5468,6 +5580,22 @@
     "image": "",
     "answer": "d",
     "solution": "Assuming the provision for bad and doubtful debts is set at 7% of sundry debtors (a common rate):\n\nGross debtors = ₦800,000\n\nProvision = 7% of ₦800,000 = ₦56,000\n\nNet debtors = ₦800,000 – ₦56,000 = ₦744,000",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 600,
+    "question": "Which of the following is accounted for in receipts and payments account?",
+    "option": {
+      "a": " Accrued expenses on annual dances",
+      "b": "Subscriptions due but not yet received",
+      "c": "interest on bank deposit",
+      "d": "Depreciation of the club house"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\"A receipt and payment account is a summarized cash book (cash and bank) for a given period\"\nThe bank column would reflect interest on bank deposits",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -6940,6 +7068,22 @@
     "image": "",
     "answer": "c",
     "solution": "One of the core purposes of bookkeeping is to systematically record and maintain an ongoing, permanent record of every financial transaction of the business. This ensures accuracy, auditability, and continuity in the accounting process.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 781,
+    "question": "Using the information provided: total current assets ₦2,000, total fixed assets ₦4,000, current liabilities ₦1,200, drawings ₦200, and long term loan ₦2,000, calculate the capital of the business.",
+    "option": {
+      "a": "₦2,800.",
+      "b": "₦9,400",
+      "c": " ₦3,400",
+      "d": "₦6,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To calculate capital, use the accounting equation:\nAssets = Liabilities + Capital\nFirst, calculate total assets and total liabilities:\nTotal Assets = Current Assets + Fixed Assets\nTotal Assets = ₦2,000 + ₦4,000 = ₦6,000\nTotal Liabilities = Current Liabilities + Long Term Loan\nTotal Liabilities = ₦1,200 + ₦2,000 = ₦3,200\nUsing the accounting equation:\nCapital = Total Assets - Total Liabilities\nCapital = ₦6,000 - ₦3,200 = ₦2,800\nNote: Drawings represent owner's withdrawals and don't affect the capital calculation using the accounting equation method.\nTherefore, the capital of the business is ₦2,800.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -11872,6 +12016,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1335,
+    "question": "<b>Use the information below to answer questions 21 and 22</b>\nAminu and Sons credit purchases(Extract) as at February, 1996\n\n\t\t\t\t\t  ₦\nFeb 1 Credit balances \t\t\t40,000\nDebit balances \t\t\t\t1,000\nFeb 28 Purchases journal totals \t500,000\nReturns outwards journal total \t\t50,000\nCheques paid to suppliers \t\t400,000\nPromissory notes sent to suppliers \t30,000\nDiscount received from suppliers \t8,000\nCredit balances in the purchases\nledger set off against debit balances\nin the sales ledger \t\t\t2,000\n\n\nWhat is the balance c/d in the purchases ledger control account?",
+    "option": {
+      "a": "₦ 2,000",
+      "b": " ₦ 8, 000",
+      "c": "₦ 40, 000",
+      "d": "₦49,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To find the balance c/d (carried down) in the purchases ledger control account, Calculate the closing balance after all transactions.\nPurchases Ledger Control Account:\nOpening Position:\n\nCredit balances: ₦40,000\nDebit balances: ₦1,000\nNet opening credit balance: ₦40,000 - ₦1,000 = ₦39,000\n\nTransactions during February:\nItems that increase creditors (Credit side):\n\nPurchases: ₦500,000\n\nItems that decrease creditors (Debit side):\n\nReturns outwards: ₦50,000\nCheques paid: ₦400,000\nPromissory notes: ₦30,000\nDiscount received: ₦8,000\nSet off against sales ledger: ₦2,000\nTotal decreases: ₦490,000\n\nCalculation:\nOpening net balance: ₦39,000\nAdd: Purchases: ₦500,000\nLess: Total payments/adjustments: ₦490,000\nClosing balance c/d = ₦39,000 + ₦500,000 - ₦490,000 = ₦49,000",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1336,
     "question": "<b>Use the information below to answer questions 21 and 22</b>\nAminu and Sons credit purchases(Extract) as at February, 1996\n\n\t\t\t\t\t  ₦\nFeb 1 Credit balances \t\t\t40,000\nDebit balances \t\t\t\t1,000\nFeb 28 Purchases journal totals \t500,000\nReturns outwards journal total \t\t50,000\nCheques paid to suppliers \t\t400,000\nPromissory notes sent to suppliers \t30,000\nDiscount received from suppliers \t8,000\nCredit balances in the purchases\nledger set off against debit balances\nin the sales ledger \t\t\t2,000\n\n\nThe Total for the purchases ledger control account is",
     "option": {
@@ -11964,6 +12124,22 @@
     "image": "",
     "answer": "b",
     "solution": "When a partnership is converted into a limited liability company (LLC), it is considered a new legal entity. Therefore:\n\nThe partnership must be legally dissolved.\n\nA new set of books of account must be opened for the new company.\n\nThe assets and liabilities of the former partnership are usually transferred to the new company.\n\nThe partners may become shareholders or directors in the new company.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1349,
+    "question": "The market price per ordinary share of a corporation listed on the stock exchange is most closely related to its?",
+    "option": {
+      "a": "earning per share",
+      "b": "redemption price per share",
+      "c": "book value per share",
+      "d": "call price per share"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The market price per ordinary share of a corporation is most closely tied to its Earnings Per Share (EPS) because:\n\nEPS indicates the company’s profitability on a per-share basis.\n\nInvestors and analysts use EPS as a key metric to assess how much profit a company is generating for each share owned.\n\nThe Price/Earnings (P/E) ratio, which is calculated using market price divided by EPS, is a fundamental tool used in stock valuation.",
     "examtype": "utme",
     "examyear": "1999"
   },
@@ -12460,6 +12636,22 @@
     "image": "",
     "answer": "a",
     "solution": "The primary limitation of a receipts and payments account is its reliance on actual cash movements as the sole evidence of transactions. Because it’s prepared on a cash basis and ignores accruals, it:\n\nOmits non-cash items (e.g., depreciation, accrued expenses)\n\nDoes not match income and related expenses to the same period\n\nFails to show true surplus or deficit",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1395,
+    "question": "The trading account is to a sole trader what income and expenditure account is to a?",
+    "option": {
+      "a": "partnership",
+      "b": "public limited organization",
+      "c": "manufacturing organization",
+      "d": "non-profit making organization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The trading account is to a sole trader what the income and expenditure account is to a non-profit making organization.",
     "examtype": "utme",
     "examyear": "199"
   },
