@@ -2784,6 +2784,22 @@
     "examyear": "2003"
   },
   {
+    "id": 240,
+    "question": "Factorize completely 4abx - 2axy -12b<sup>2</sup>x + 6bxy",
+    "option": {
+      "a": "2x(a - 3b)(2b - y)",
+      "b": " 2x(3b - a)(2b - y)",
+      "c": "2x(a - 3b)(y - 2b)",
+      "d": "2x(2b - a)(3b - y)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "4abx - 2axy - 12b2x + 6bxy = (4abx - 2axy) - (12b2x - 6bxy)\n= 2ax(2b - y) -6bx(2b - y)\n= (2ax - 6bx)(2b - y)\n= 2x(a - 3b)(2b - y)",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 241,
     "question": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
     "option": {
@@ -9264,6 +9280,22 @@
     "examyear": "2016"
   },
   {
+    "id": 834,
+    "question": "The bar chart above shows the number of visitors received in a week. How many visitors were received on Friday, Tuesday and Sunday?",
+    "option": {
+      "a": "17",
+      "b": "22",
+      "c": "20",
+      "d": "16"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003050/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q16_ndljua.jpg",
+    "answer": "d",
+    "solution": "No of visitors = 10 + 5 + 1 = 16",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 836,
     "question": "Calculate the perimeter of a sector of a circle of raduis 12cm and angle 60°.",
     "option": {
@@ -14188,6 +14220,22 @@
     "image": "",
     "answer": "d",
     "solution": " [1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>]               64<sup>-(x+2)</sup>=[4<sup>(x−3)</sup>] ÷ [16<sup>x</sup>]\n\n\nbreakdown 4,16,64 into a small index no\n\n2<sup>−6(x+2)</sup> = 2<sup>2</sup>(x−3)÷2<sup>4(x)</sup>\n\n\n2<sup>−6x−12</sup> =2<sup>2x−4x−6</sup>\n\n\n2<sup>−6x−12</sup> = 2<sup>−2x−6</sup>\n\n\n− 6x − 12 = − 2x − 6\n\nCollect the like term\n\n−6x + 2x = −6 + 12\n\n−4x =6\n\nx = 6/4\n\n\nx = −3/2",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1265,
+    "question": "Solve x<sup>2</sup> − 2x − 3 = 0",
+    "option": {
+      "a": "x = 2 or 1",
+      "b": "x = 3 or -1",
+      "c": "x = 1 or 0",
+      "d": "x = 1 or 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x<sup>2</sup> − 2x − 3 = 0\n\n−3x + x = − 2x\n\n− 3x × x = − 3x<sup>2</sup>\n\n(x<sup>2</sup> − 3x)(x − 3) = 0\n\n(x − 3)(x + 1) = 0\n\nEither (x − 3) = 0 or (x + 1) = 0\n\nx = 3 or − 1",
     "examtype": "utme",
     "examyear": "2015"
   },
