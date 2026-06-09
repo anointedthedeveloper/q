@@ -624,6 +624,22 @@
     "examyear": "2007"
   },
   {
+    "id": 40,
+    "question": "Under constant tension and constant mass per unit length, the note produced by a plucked string is 500Hz when the length of the string is 0.90m, at what length is the frequency 150Hz?",
+    "option": {
+      "a": "6m ",
+      "b": "3m ",
+      "c": "5m ",
+      "d": "4m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 41,
     "question": "Two bodies P and Q are projected on the same horizontal plane, with the same initial speed but at different angles of 30o and 60o respectively to the horizontal. Neglecting air resistance, what is the ratio of range of P to that of Q? ",
     "option": {
@@ -14480,6 +14496,22 @@
     "examyear": "2010"
   },
   {
+    "id": 932,
+    "question": "Transistors are used for the?",
+    "option": {
+      "a": "rectification of signals",
+      "b": " conversion of a.c to d.c",
+      "c": "amplification of signals",
+      "d": "conversion of d.c to a.c"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "transistor serve the same purpose as triode valve, which is amplification of signals.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 933,
     "question": "Which of the following is a pure semiconductor?",
     "option": {
@@ -15740,6 +15772,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nRatio of linear expansivities, α₁ / α₂ = 2 / 3\nRatio of original lengths, L₁ / L₂ = 3 / 4\nTemperature change Δθ is the same for both.\n\nSolution:\n\nStep 1: Formula for increase in length\nΔL = α L Δθ\n\nStep 2: Ratio of increases\nΔL₁ / ΔL₂ = (α₁ L₁ Δθ) / (α₂ L₂ Δθ) = (α₁ / α₂) × (L₁ / L₂)\n\nStep 3: Substitute the given ratios\nΔL₁ / ΔL₂ = (2 / 3) × (3 / 4) = 6 / 12 = 1 / 2",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1015,
+    "question": "2000 cm³ of a gas is collected at 27°C and 700 mmHg. What is the volume of the gas at standard temperature and pressure?",
+    "option": {
+      "a": "1896.5 cm³",
+      "b": "1767.3 cm³",
+      "c": "1676.3 cm³",
+      "d": "1456.5 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nInitial volume, V₁ = 2000 cm³\nInitial temperature, T₁ = 27°C = 27 + 273 = 300 K\nInitial pressure, P₁ = 700 mmHg\nStandard temperature, T₂ = 0°C = 273 K\nStandard pressure, P₂ = 760 mmHg\n\nSolution:\n\nStep 1: Combined gas law\nFor a fixed mass of gas: (P₁V₁)/T₁ = (P₂V₂)/T₂\n\nStep 2: Rearrange for V₂\nV₂ = (P₁V₁/T₁) × (T₂/P₂)\n\nStep 3: Substitute values\nV₂ = (700 × 2000 / 300) × (273 / 760)\n\nStep 4: Simplify\n700 × 2000 = 1 400 000\n1 400 000 / 300 = 4 666.6667\n273 / 760 = 0.35921\n\nV₂ = 4 666.6667 × 0.35921 = 1 676.3 cm³",
     "examtype": "utme",
     "examyear": "2012"
   },
