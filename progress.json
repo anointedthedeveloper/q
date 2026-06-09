@@ -9,7 +9,7 @@
   },
   "geography": {
     "done": false,
-    "total": 238
+    "total": 247
   },
   "accounting": {
     "done": false,
@@ -25,11 +25,11 @@
   },
   "civiledu": {
     "done": false,
-    "total": 193
+    "total": 203
   },
   "mathematics": {
     "done": false,
-    "total": 209
+    "total": 213
   },
   "currentaffairs": {
     "done": false,
@@ -57,7 +57,7 @@
   },
   "insurance": {
     "done": false,
-    "total": 231
+    "total": 236
   },
   "commerce": {
     "done": false,
@@ -76,6 +76,22 @@
     "total": 0
   },
   "computer-studies": {
+    "done": true,
+    "total": 0
+  },
+  "further-mathematics": {
+    "done": true,
+    "total": 0
+  },
+  "agricultural-science": {
+    "done": true,
+    "total": 0
+  },
+  "home-economics": {
+    "done": true,
+    "total": 0
+  },
+  "hausa": {
     "done": true,
     "total": 0
   }
