@@ -2176,6 +2176,22 @@
     "examyear": "2001"
   },
   {
+    "id": 154,
+    "question": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. Find the square of the mode.",
+    "option": {
+      "a": "49",
+      "b": "121",
+      "c": "25",
+      "d": "64"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Mode = score with highest frequency = 11.\nSquare of 11 = 121",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 155,
     "question": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. The mean score is",
     "option": {
@@ -2684,6 +2700,22 @@
     "image": "",
     "answer": "c",
     "solution": "T<sub>n</sub> = a + (n−1)d\n  (nth term of an AP).\n\nT<sub>9</sub>=5T<sub>5</sub>\na + 8d = 5(a+4d) ⟹a + 8d = 5a + 20d\n5a − a + 20d − 8d = 0 ⟹ 4a + 12d = 0\na + 3d = 0",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 189,
+    "question": "ake r subject of the formula given that x/r+a = a/r",
+    "option": {
+      "a": "a<sub>2</sub>/(x−a)",
+      "b": "a<sub>2</sub>/(x+a)",
+      "c": "a/(x - a)",
+      "d": "a/(x + a)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mi>x</mi>\n    <mrow>\n      <mi>r</mi>\n      <mo>+</mo>\n      <mi>a</mi>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mi>a</mi>\n    <mi>r</mi>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "x/r+a = a/r\n \n⟹ rx = ar + a<sub>2</sub>\nrx − ra = a<sub>2</sub> ⟹ r = a<sub>2</sub>/ (x−a)",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -9388,6 +9420,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129601/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q22_v62583.jpg",
     "answer": "a",
     "solution": "4[(3 x 3) - (-1 x 1)] -2 [(2x 3) - (-1 x -1)] -1 [(2 x 1) - (-1 x 3)]\n\n= 4[9 + 1] -2 [6 - 1] -1 [2 + 3]\n\n= 4(10) - 2(5) - 1(5)\n\n= 40 - 10 - 5\n\n= 25",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 646,
+    "question": "A chord of circle of radius 7cm is 5cm from the centre of the circle.What is the length of the chord?",
+    "option": {
+      "a": "4√6 cm",
+      "b": " 3√6 cm",
+      "c": ". 6√6 cm",
+      "d": " 2√6 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "From Pythagoras theorem\n\n|OA|2 = |AN|2 + |ON|2\n\n72 = |AN|2 + (5)2\n\n49 = |AN|2 + 25\n\n|AN|2 = 49 - 25 = 24\n\n|AN| = √24\n\n\n= √4 x 6\n\n\n= 2√6 cm\n\n|AN| = |NB| (A line drawn from the centre of a circle to a chord, divides the chord into two equal parts)\n\n|AN| + |NB| = |AB|\n\n2√6 + 2√6 = |AB|\n\n|AB| = 4√6 cm",
     "examtype": "utme",
     "examyear": "2011"
   },
