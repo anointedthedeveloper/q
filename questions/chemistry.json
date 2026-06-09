@@ -1008,6 +1008,22 @@
     "examyear": "2003"
   },
   {
+    "id": 77,
+    "question": "What is the percentage by mass of oxygen in Al2(SO4)3.2H2O",
+    "option": {
+      "a": "14.29%",
+      "b": "25.39%",
+      "c": "50.79%",
+      "d": "59.25%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 78,
     "question": "The filter in a cigarette reduces the nicotine content by",
     "option": {
@@ -1808,6 +1824,22 @@
     "examyear": "2004"
   },
   {
+    "id": 136,
+    "question": "Pollution of underground water by metal ions is very likely in a soil that has high",
+    "option": {
+      "a": "Acidity",
+      "b": "Alkalinity",
+      "c": "Chloride content",
+      "d": "Nitrate content"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 137,
     "question": "A carcinogenic substance is",
     "option": {
@@ -2203,6 +2235,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 167,
+    "question": " Alkanol + Alkanoic acid ⇌  Ester + water.\nThe reverse reaction of the equation above is known as\n",
+    "option": {
+      "a": "Hydrolysis",
+      "b": "Saponification",
+      "c": "Hydration",
+      "d": "Fermentation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -3088,6 +3136,22 @@
     "examyear": "2006"
   },
   {
+    "id": 234,
+    "question": "A degree in atomic size and an increase in knuckler charge across a period lead to",
+    "option": {
+      "a": "A decrease in covalency in bond formation",
+      "b": "An increase in chemical reactivity",
+      "c": "An increase in the tendency to loss electrons",
+      "d": "A decrease in electro positivity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 235,
     "question": "The idea of planetary electrons was that of",
     "option": {
@@ -3147,6 +3211,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 239,
+    "question": "One mole of a hydrocarbon contains 36g of carbon and its vapour density is 20. The structure of the hydrocarbon is",
+    "option": {
+      "a": "CH3CH2CH3",
+      "b": "CH3CH = CH2",
+      "c": "CH3CH2C = CH",
+      "d": "CH3C = CH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -4492,6 +4572,22 @@
     "image": "",
     "answer": "d",
     "solution": "The third period (Period 3) contains elements with atomic numbers 11–18: Na, Mg, Al, Si, P, S, Cl, and Ar. Option D (Na, Mg, S, Ar) are all correctly in Period 3. The other options contain Period 2 elements (Li, Be, B, C, N, O).",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 343,
+    "question": "When sugar is dissolved in tea, the reaction is accomplished by?",
+    "option": {
+      "a": "positive change",
+      "b": "negative entropy change",
+      "c": "no entropy change",
+      "d": "a minimum entropy change"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Dissolving sugar in tea is a spontaneous mixing process. The sugar molecules disperse throughout the liquid, increasing the disorder of the system. This represents a positive entropy change (ΔS > 0), as entropy increases when a solute dissolves in a solvent.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -6432,6 +6528,22 @@
     "examyear": "2018"
   },
   {
+    "id": 493,
+    "question": "Which of the following are mixtures?\nI. Petroleum\nII. Rubber latex\nIII. Vulcanizer's solution\nIV. Carbon sulphide",
+    "option": {
+      "a": "I, II and III",
+      "b": "I, II and IV",
+      "c": "I and II only",
+      "d": "I and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Petroleum is a mixture of hydrocarbons; rubber latex is a colloidal mixture of rubber particles in water; vulcanizer's solution is a mixture of rubber dissolved in a solvent. Carbon disulphide (CS₂) is a pure chemical compound, not a mixture. Therefore I, II and III are mixtures.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 494,
     "question": "A balanced chemical equation obeys the law of",
     "option": {
@@ -6576,6 +6688,22 @@
     "examyear": "2019"
   },
   {
+    "id": 506,
+    "question": "Which of the following will give a precipitate with an aqueous solution of copper (I) chloride?",
+    "option": {
+      "a": "But-2-ene",
+      "b": "But-1-ene",
+      "c": "But-2-yne",
+      "d": "But-1-yne"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Copper (I) chloride (CuCl) in ammoniacal solution reacts with terminal alkynes (those with a C≡C-H at the end of the chain) to give a red/brown precipitate of a copper acetylide. But-1-yne (HC≡C-CH₂-CH₃) has a terminal triple bond and reacts to give a precipitate. But-2-yne has an internal triple bond and does not react.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 507,
     "question": "The IUPAC name for CH₃CH₂COOCH₂CH₃ is",
     "option": {
@@ -6636,6 +6764,22 @@
     "image": "",
     "answer": "c",
     "solution": "In CF₃CHBrCl: C1 carries the three F atoms, C2 carries Br, Cl, and H. Numbering to give lowest locants: C1 = CF₃ (F gets positions 1,1,1), C2 = CHBrCl (Br and Cl at position 2). Substituents listed alphabetically: bromo before chloro before fluoro. IUPAC name: 1-bromo-1-chloro-2,2,2-trifluoroethane.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 512,
+    "question": "A synthetic rubber is NOT obtained from the polymerization of?",
+    "option": {
+      "a": "neoprene",
+      "b": "isoprene",
+      "c": "butadiene",
+      "d": "hexane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Synthetic rubbers are polymers of dienes and related unsaturated compounds. Neoprene (polychloroprene) comes from chloroprene polymerization; isoprene polymerizes to give polyisoprene (synthetic natural rubber); butadiene gives polybutadiene (Buna rubber). Hexane (C₆H₁₄) is a saturated alkane with no double bonds and cannot undergo addition polymerization to form rubber.",
     "examtype": "utme",
     "examyear": "2019"
   },
