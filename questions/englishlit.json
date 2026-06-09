@@ -256,6 +256,22 @@
     "examyear": "2008"
   },
   {
+    "id": 51,
+    "question": "When the speaker in a poem cannot be identified with poet, that speaker is called: ",
+    "option": {
+      "a": "a persona ",
+      "b": "a dramatic persona ",
+      "c": "a soliloquist",
+      "d": "a ventriloquist."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 56,
     "question": "Action in a novel is best defined as:  ",
     "option": {
@@ -976,6 +992,22 @@
     "examyear": "2013"
   },
   {
+    "id": 172,
+    "question": "The tone of the excerpt above is  ",
+    "option": {
+      "a": "jubilant  ",
+      "b": "condemnatory ",
+      "c": "adulatory  ",
+      "d": "defiant "
+    },
+    "section": "“We own this land \n And the swamps\n The palms\n And the mangroves;\n We ‘ll die defending them”\n Tony Afejuku “Land Song”  \n",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 173,
     "question": "The figurative devices in the excerpt above are  ",
     "option": {
@@ -1184,6 +1216,22 @@
     "examyear": "2015"
   },
   {
+    "id": 208,
+    "question": "The speaker’s utterance betrays his",
+    "option": {
+      "a": "anger",
+      "b": "pretense",
+      "c": "hatred",
+      "d": "sorrow"
+    },
+    "section": "\tWILLIAM SHAKESPEARE: The Tempest<br><br> \t\tSilence! One word more<br> \t\tShall make me chide thee, if not hate thee. What!<br> \t\tAn advocate for an impostor! Hush!<br> \t\t(Act I, Scene Two, lines 478 - 480)",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 211,
     "question": "Where did the wedding take place?",
     "option": {
@@ -1195,6 +1243,22 @@
     "section": "WILLIAM SHAKESPEARE: The Tempest<br><br> \t\tYou cram these words into mine ears against<br> \t\tThe stomach of my sense. Would l had never<br> \t\tMarried my daughter there! For, coming thence,<br> \t\tMy son is lost, and, in my rate, she too,<br> \t\t\t\t(Act II, Scene One, lines 99 - 102)<br>",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 214,
+    "question": "Ariel has ‘come’ because",
+    "option": {
+      "a": "he has been invited by Prospero",
+      "b": "he wants to make a request",
+      "c": "he desires a meeting",
+      "d": "flying is no problem to him"
+    },
+    "section": "WILLIAM SHAKESPEARE: The Tempest<br><br>  \t\tAriel:\tAll hail, great master! Grave sir, hail! I come<br> \t\t\tTo answer thy best pleasure; be’t to fly, <br> \t\t\tTo swim, to dive into the fire, to ride<br> \t\t\tOn the curled clouds, to thy strong bidding task<br> \t\t\tAriel and all his quality. <br> \t\t\t(Act I, Scene  Two, lines 189 - 193)\t",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -1264,6 +1328,22 @@
     "examyear": "2010"
   },
   {
+    "id": 230,
+    "question": "‘O” serpent heart, hid with a flowering face!’ The statement refers to",
+    "option": {
+      "a": "Juliet",
+      "b": "Romeo",
+      "c": "Tybalt",
+      "d": "Benvolio"
+    },
+    "section": "Based on William Shakespeare’s  \tRomeo and Juliet.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 233,
     "question": "In the novel, the society puts high value on",
     "option": {
@@ -1296,6 +1376,22 @@
     "examyear": "2010"
   },
   {
+    "id": 238,
+    "question": "The Ministry of Peace is concerned with making",
+    "option": {
+      "a": "instruments",
+      "b": "weapons",
+      "c": "wars",
+      "d": "reconciliation"
+    },
+    "section": "Based on George Orwell’s  \tNineteen Eighty-Four.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 240,
     "question": "How did Winston start his rebellion against the state?",
     "option": {
@@ -1305,6 +1401,22 @@
       "d": "When he spied on the party"
     },
     "section": "Based on George Orwell’s  \tNineteen Eighty-Four.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 241,
+    "question": "The party seeks power for",
+    "option": {
+      "a": "the nation",
+      "b": "its own sake",
+      "c": "its members",
+      "d": "peoples’ sake"
+    },
+    "section": "",
     "image": "",
     "answer": "b",
     "solution": "",
@@ -1403,6 +1515,22 @@
     "section": "‘Basha: You dumb skull of a bone head.... you will face court martial for this. You look everywhere? You search inside toilet bowl? ( Wole Soyinka: King Baabu)",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 260,
+    "question": "The theme of the poem is",
+    "option": {
+      "a": "futility of  life",
+      "b": "distortion of  life",
+      "c": "creation of  life",
+      "d": "vanity of  life"
+    },
+    "section": "Move him into the sun,<br> \tGently its touch awoke him once, ,<br> \tAt home, whispering of  fields unsown,<br> \tAlways it woke him even in France,<br> \tUntil this morning and this snow,<br> \tIf anything might rouse him now ,<br> \tThis kind old sun will know,<br> \tThink how it wakes the seeds,<br> \tWoke, once, the clays of a cold star,<br> \tAre limbs, so dear achieved, are,<br> \tsides Full nerved still warm too hard ,<br> \tto stir Was it, for this the clay grew,<br> \ttall? O what made fatuous sunbeams ,<br> \ttoil To break earth’s sleep at all. ,<br>",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1552,6 +1680,22 @@
     "examyear": "2008"
   },
   {
+    "id": 285,
+    "question": "In Kunene’s ‘A Heritage of Liberation,’ freedom is to be achieved through the efforts of",
+    "option": {
+      "a": "the old generation",
+      "b": "new generation",
+      "c": "present generation",
+      "d": "successive generations."
+    },
+    "section": "Based on selected poems from Johnson, \tR. et al (eds.): New Poetry from Africa; Soyirvka, W. (ed.): Poems of Black Africa; Senanu, K.E. and Vincent, T. (eds.): A Selection of African Poetry; Maduka, C.T. et al: Exam Focus: Literature in English; Eruvbetine, A. E. et al (eds.): Longman Examination Guides; Nwoga, D. I. (ed.): West African Verse and Adeoti G.: Naked Soles.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 286,
     "question": "Launko’s ‘End of the’ War suggests that war brings about",
     "option": {
@@ -1559,6 +1703,22 @@
       "b": "partial solution to problems",
       "c": "multifaceted problems",
       "d": "only temporary relief."
+    },
+    "section": "Based on selected poems from Johnson, \tR. et al (eds.): New Poetry from Africa; Soyirvka, W. (ed.): Poems of Black Africa; Senanu, K.E. and Vincent, T. (eds.): A Selection of African Poetry; Maduka, C.T. et al: Exam Focus: Literature in English; Eruvbetine, A. E. et al (eds.): Longman Examination Guides; Nwoga, D. I. (ed.): West African Verse and Adeoti G.: Naked Soles.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 288,
+    "question": "Marvel’s To ‘His Coy Mistress’ is written mainly in",
+    "option": {
+      "a": "alternate rhymes",
+      "b": "blank verse",
+      "c": "heroic couplets",
+      "d": "middle rhymes."
     },
     "section": "Based on selected poems from Johnson, \tR. et al (eds.): New Poetry from Africa; Soyirvka, W. (ed.): Poems of Black Africa; Senanu, K.E. and Vincent, T. (eds.): A Selection of African Poetry; Maduka, C.T. et al: Exam Focus: Literature in English; Eruvbetine, A. E. et al (eds.): Longman Examination Guides; Nwoga, D. I. (ed.): West African Verse and Adeoti G.: Naked Soles.",
     "image": "",
@@ -2224,6 +2384,22 @@
     "examyear": "2016"
   },
   {
+    "id": 409,
+    "question": "Dina and Kabria hold a confidential talk with",
+    "option": {
+      "a": "Maa Tsuru",
+      "b": "Mute",
+      "c": "Fofo",
+      "d": "Naaa Yomo"
+    },
+    "section": "Questions 8 and 9 are based on Bayo Adebowale's \"Lonely Days\"",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 415,
     "question": "The mission of the white man is revealed and Soko is enlisted into the",
     "option": {
@@ -2416,6 +2592,22 @@
     "examyear": "2018"
   },
   {
+    "id": 445,
+    "question": "Notably, one of the themes enhances the development of A Raisin in the Sun ",
+    "option": {
+      "a": "Dreams, hopes, and plans",
+      "b": "Anxiety associated with ageing",
+      "c": "Mortality",
+      "d": "Death is inevitable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 449,
     "question": "Whiteman gets the Villagers ____________ to subdue their consciousness",
     "option": {
@@ -2542,6 +2734,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 484,
+    "question": "Kofi Awoonors. The Anvil and the Hammer. The dominant imagery used in the poem is",
+    "option": {
+      "a": "Dress-making",
+      "b": "New life",
+      "c": "Tradition and modernity",
+      "d": "Flags"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 485,
@@ -2955,6 +3163,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 554,
+    "question": "From the tone of Onu Kingsley Chibuike's \"A government Driver on his Retirement\", words such as \"booze\". \"boomed\" make it",
+    "option": {
+      "a": "Happy",
+      "b": "Sorrowful",
+      "c": "Indifferent",
+      "d": "Joyful"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
