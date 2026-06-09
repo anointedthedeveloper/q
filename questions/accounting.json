@@ -1536,6 +1536,22 @@
     "examyear": "2013"
   },
   {
+    "id": 111,
+    "question": "Which of the following is not an item on the credit side of the purchases ledger control account?",
+    "option": {
+      "a": "Cash received",
+      "b": "Cash payment",
+      "c": "Contra settlement",
+      "d": "Cheque payment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 112,
     "question": "When a business is purchased from a sole trader, the excess of the purchase price over the net assets is",
     "option": {
@@ -5031,6 +5047,22 @@
       "b": "N8,500",
       "c": "N8,000",
       "d": "N6,500"
+    },
+    "section": "Use the following information to answer question:\tCost of motor vehicle-1/1/12 [ 85,000 ];  Residual value [ 5,000 ]; Estimated useful lifespan 10 years . The business makes use of the straight line method for \tproviding depreciation.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 356,
+    "question": "The accumulated depreciation as at 31/12/2013 is",
+    "option": {
+      "a": "N18,500",
+      "b": "N17,000",
+      "c": "N16,000",
+      "d": "N8,000"
     },
     "section": "Use the following information to answer question:\tCost of motor vehicle-1/1/12 [ 85,000 ];  Residual value [ 5,000 ]; Estimated useful lifespan 10 years . The business makes use of the straight line method for \tproviding depreciation.",
     "image": "",
@@ -10176,6 +10208,22 @@
     "examyear": "2019"
   },
   {
+    "id": 721,
+    "question": "If only wages is shown on the trial balance, it should be charged to the",
+    "option": {
+      "a": "profit and loss account",
+      "b": "trading account",
+      "c": "balance sheet",
+      "d": "wages account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Wages should be charged in the trading account only if shown separately on the trial balance from salaries. In such circumstances, the assumption, unless you are otherwise told, is that the wage is a direct trading expense to be included in the trading account while salary is an Indirect (i.e overhead) expense to be included in the P & L account.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 723,
     "question": "Based on the final accounts of Wazobi Ventures for the year ended 30th June, 1998, where sales were ₦233,000 and cost of goods sold was ₦170,000, with overhead expenses including admin expenses of ₦16,800, selling expenses of ₦15,000, and other overhead expenses of ₦6,200, resulting in a net profit of ₦25,000, Calculate the net profit on percentage of expenses.",
     "option": {
@@ -11420,6 +11468,22 @@
     "image": "",
     "answer": "a",
     "solution": "In government accounting, capital and revenue expenditures are typically accounted for under various funds including:\n\nTechnical funds - for specific technical projects and operations\nSpecial trust funds - for funds held in trust for specific purposes\nCommercial funds - for government commercial activities and enterprises\n\nThese funds help segregate and track different types of government expenditures based on their nature and purpose, ensuring proper accountability and financial management in the public sector.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 810,
+    "question": "The excess of income over expenditure is usually transferred to the",
+    "option": {
+      "a": "current assets in the balance sheet",
+      "b": "profit and loss account",
+      "c": "accumulated fund",
+      "d": " current liabilities in the balance sheet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In not‑for‑profit accounting, any surplus (the excess of income over expenditure) is not shown in a profit and loss account but is transferred to the Accumulated Fund (also called the General Fund or Capital Fund). This fund represents the retained surpluses of the organization.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -14208,6 +14272,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1012,
+    "question": "<b>Use the information below to answer question 47 to 48.</b>\n\nWhich of the following is true of Uju Nig.Ltd?",
+    "option": {
+      "a": "It is a highly geared company",
+      "b": "It has no liquidity problem in the short term",
+      "c": " It is adequately secured in fixed assets",
+      "d": " It's working capital is zero"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756660709/ALOC-Questions/Accounting/UTME/2008/Accounting_JAMB_2008_Q47-48_IMAGES_ns5goz.jpg",
+    "answer": "b",
+    "solution": "Current assets = Stock + Debtors + Bank = 20,000 + 50,000 + 50,000 = ₦120,000\nCurrent liabilities = Creditors = ₦80,000\n\nCurrent ratio = 120,000 : 80,000 = 1.5 : 1\nWorking capital = 120,000 − 80,000 = ₦40,000 (positive)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1013,
     "question": "<b>Use the information below to answer question 49 to 50.</b>\n\nGoods worth ₦300 was transferred from department Q to P Similarly, P's total expenses for the period was ₦200\n\nWhat was department Q's gross profit?",
     "option": {
@@ -14924,6 +15004,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661739/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q49-50_zwwc7b.jpg",
     "answer": "b",
     "solution": "Current Assets:\n\nStock = ₦10,000\nDebtors = ₦15,000\nCash = ₦5,000\nTotal Current Assets = ₦30,000\n\nCurrent Liabilities:\n\nCreditors = ₦8,000\nWages owed = ₦4,000\nRent owed = ₦3,000\nTotal Current Liabilities = ₦15,000\n\nCurrent Ratio:\nCurrent Ratio = Current Assets ÷ Current Liabilities\nCurrent Ratio = ₦30,000 ÷ ₦15,000 = 2:1\nTherefore, the current ratio is 2:1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1064,
+    "question": "The quick ratio is",
+    "option": {
+      "a": "1:2",
+      "b": "1:3:1",
+      "c": "1.7:1",
+      "d": "3:1"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661739/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q49-50_zwwc7b.jpg",
+    "answer": "b",
+    "solution": "Formula:\nQuick Ratio = (Current Assets - Stock) ÷ Current Liabilities\nQuick Assets (Current Assets excluding Stock):\n\nDebtors = ₦15,000\nCash = ₦5,000\nTotal Quick Assets = ₦20,000\n\nCurrent Liabilities:\n\nCreditors = ₦8,000\nWages owed = ₦4,000\nRent owed = ₦3,000\nTotal Current Liabilities = ₦15,000\n\nQuick Ratio:\nQuick Ratio = ₦20,000 ÷ ₦15,000 = 1.33:1\nTherefore, the quick ratio is 1.33:1 (or approximately 1.3:1)",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -18972,6 +19068,22 @@
     "image": "",
     "answer": "b",
     "solution": "By assigning directly controllable expenses to the department responsible for incurring them, you:\n\nEnhance accountability (each manager owns the costs they can influence)\n\nAvoid arbitrary allocations that can distort performance measurement\n\nSimplify cost tracking and variance analysis\n\nOther bases (sales, purchases, headcount) can be used for truly common overheads, but as a general rule direct controllables should be charged where they belong.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1359,
+    "question": "To record the transfer of stock from one department to another, the correct entry would be to debit?",
+    "option": {
+      "a": "goods outwards and credit goods inwards",
+      "b": "merchandise account and credit department stock account",
+      "c": "department transfering and credit department receivving",
+      "d": "department receiving and credit department transfering"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "You would debit the department receiving the stock and credit the department transferring the stock.",
     "examtype": "utme",
     "examyear": "1999"
   },
