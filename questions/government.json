@@ -96,6 +96,22 @@
     "examyear": "2007"
   },
   {
+    "id": 38,
+    "question": "In politics, power is all of the following except ",
+    "option": {
+      "a": "capacity to affect the actions of others ",
+      "b": "ability to make people do things they otherwise not do ",
+      "c": "an object ",
+      "d": "it is part of a relationship "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 47,
     "question": "The French colonial policy of Assimilation  was intended to ",
     "option": {
@@ -107,6 +123,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 61,
+    "question": "The Oldest written constitution is ",
+    "option": {
+      "a": "American constitution ",
+      "b": "British Constitution ",
+      "c": "German constitution ",
+      "d": "Roman Constitution "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -224,6 +256,22 @@
     "examyear": "2012"
   },
   {
+    "id": 157,
+    "question": "The ultimate authority in a State is referred to as  ",
+    "option": {
+      "a": "president  ",
+      "b": "sovereignty ",
+      "c": "legislature  ",
+      "d": "legitimacy "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 160,
     "question": "The judicial organ of the United Nations is the  ",
     "option": {
@@ -283,6 +331,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 198,
+    "question": "The subject matter of politics is best described  as   ",
+    "option": {
+      "a": "political parties",
+      "b": "political power  ",
+      "c": "elections",
+      "d": "people"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -400,6 +464,22 @@
     "examyear": "2013"
   },
   {
+    "id": 294,
+    "question": "Agents of political socialization include the following EXCEPT",
+    "option": {
+      "a": "educational institutions",
+      "b": "political godfathers",
+      "c": "political parties",
+      "d": "religious institutions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 297,
     "question": "How many members of the security council of the United Nations (UN) exercise veto power?",
     "option": {
@@ -446,6 +526,22 @@
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
+  },
+  {
+    "id": 317,
+    "question": "Bicameral legislature are a common feature of",
+    "option": {
+      "a": "monarchical systems",
+      "b": "confederal systems",
+      "c": "federal systems",
+      "d": "unitary systems"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
   },
   {
     "id": 322,
@@ -523,6 +619,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 371,
+    "question": "A typical form of delegated legislation is",
+    "option": {
+      "a": "an act",
+      "b": "a bill",
+      "c": "a decree",
+      "d": "a bye-law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -640,6 +752,22 @@
     "examyear": "2010"
   },
   {
+    "id": 431,
+    "question": "France introduced the policy of assimilation in her colonies primarily to",
+    "option": {
+      "a": "change their way of life",
+      "b": "give them a sound education",
+      "c": "discourage them from ritual killings",
+      "d": "teach them the art of leadership"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 447,
     "question": "Nigeria broke diplomatic relations with France in 1961 because of:",
     "option": {
@@ -688,6 +816,22 @@
     "examyear": "2010"
   },
   {
+    "id": 459,
+    "question": "Political values are acquired in any given society through",
+    "option": {
+      "a": "political re-orientation",
+      "b": "political campaign",
+      "c": "political socialization",
+      "d": "political indoctrination."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 462,
     "question": "A governmental system in which constitutional supremacy resides in the centre is",
     "option": {
@@ -731,6 +875,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 490,
+    "question": "The three registered political parties at the inception of Nigeria’s Fourth Republic were",
+    "option": {
+      "a": "PDP, DPP and PPA",
+      "b": "PDP, AD and APP",
+      "c": "PDP,  AD and PPA",
+      "d": "PDP, APP and AC."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -848,6 +1008,22 @@
     "examyear": "2013"
   },
   {
+    "id": 518,
+    "question": "A constitution that is difficult to amend is",
+    "option": {
+      "a": "flexible",
+      "b": "rigid",
+      "c": "written",
+      "d": "unwritten."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 529,
     "question": "The indirect rule system of administration was more successful in Northern Nigeria because",
     "option": {
@@ -891,6 +1067,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 560,
+    "question": "One main advantage of bicameral legislature is that it",
+    "option": {
+      "a": "makes for quick deliberation during emergencies",
+      "b": "makes passage of bills easy",
+      "c": "is less cumbersome to pass bills",
+      "d": "is not easy to manipulate bills"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -1003,6 +1195,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 602,
+    "question": "The Secretary General of the OAU holds office for a renewable period of",
+    "option": {
+      "a": "six years",
+      "b": "three years",
+      "c": "four years",
+      "d": "five years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
@@ -1136,6 +1344,22 @@
     "examyear": "1988"
   },
   {
+    "id": 659,
+    "question": "In the federation, the purpose of enumerating the powers of the central government is to",
+    "option": {
+      "a": "ensure efficient administration",
+      "b": "ensure greater unity",
+      "c": "reduce the financial burden of the units",
+      "d": "limit its powers against those of the units"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 672,
     "question": "Which of the following is not civic obligation of a citizen?",
     "option": {
@@ -1175,6 +1399,22 @@
       "b": "Emirs of Kano and Katsina",
       "c": "Emirs of Gwandu and Sokoto",
       "d": "Emir of llorin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 690,
+    "question": "Which of the following title among the Igbos in the pre-colonial era required substantial wealth before one could acquire it",
+    "option": {
+      "a": "Ofo",
+      "b": "Okpara",
+      "c": "Ozo",
+      "d": "Eze"
     },
     "section": "",
     "image": "",
@@ -1504,6 +1744,38 @@
     "examyear": "2018"
   },
   {
+    "id": 819,
+    "question": "An important aspect of an unwritten constitution is that it",
+    "option": {
+      "a": " is easy to understand to everybody",
+      "b": "safeguards the monarchy",
+      "c": "contains customary laws and conventions",
+      "d": "is not easily amended"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An unwritten constitution refers to when the whole body of fundamental laws, customs, conventions, principles, rules and regulations according to which a particular government of a country operates are not written down or codified in a single document.\n\nAn important aspect of an unwritten constitution is that it contains customary laws and conventions",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 828,
+    "question": "A form of government which has its slogan to be 'ruling of the best' is__________",
+    "option": {
+      "a": "democracy",
+      "b": "aristocracy",
+      "c": "timocracy",
+      "d": "plutocracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Aristocracy being a rule by the Noble is believed to be a ruling of the best class of persons. Timocracy on the other hand, is believed by Aristotle to be a government strictly by property-owners with emphasis on honour and proprietary interest holdings.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 832,
     "question": "A party can be said to have national outlook if________",
     "option": {
@@ -1564,6 +1836,22 @@
     "image": "",
     "answer": "d",
     "solution": "A collegiate system refers to a system where leadership is shared or rotated among members rather than being permanently held by one entity.\n\nIn ECOWAS (Economic Community of West African States), the Chairmanship is rotational among member states, meaning no single country or leader permanently dominates the organization.\nThis makes ECOWAS a collegiate body, where power is collectively exercised and shared.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 871,
+    "question": "Class stratification is a peculiar feature of___________",
+    "option": {
+      "a": "capitalism",
+      "b": "communism",
+      "c": "socialism",
+      "d": "feudalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In a capitalist system, there is a clear differentiation gap between the ruling class and the ruled or the proletarates.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1772,6 +2060,22 @@
     "image": "",
     "answer": "d",
     "solution": "The Judicial Service Commission is vested with the power to recommend suitable persons for the appointment of the Chief justice of Nigeria.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 982,
+    "question": "The operations of a pressure group can be hindered by",
+    "option": {
+      "a": "poor leadership",
+      "b": "general observation",
+      "c": "membership drive",
+      "d": "spiritual forces"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Poor leadership can lead to ineffective decision-making, lack of clear direction, and internal conflicts, all of which can hinder the operations of a pressure group.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -2096,6 +2400,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1175,
+    "question": "The two military coups that toppled civilian regimes in Nigeria were those of",
+    "option": {
+      "a": " January 1966 and December 1983",
+      "b": " July 1966 and August 1985",
+      "c": "January 1966 and July 1975",
+      "d": "February 1976 and December 1983"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Civilian government of Alhaji Abubakar Tafawa Balewa was ousted in a bloody coup led by major Chukwuma Nzeogwu in January 15, 1966. This first Military Coup in Nigeria then brought in Major General J.T.U Aguiyi Ironsi as the first Military Head of State of Nigeria.\n\nOn 29th day of January 1966, the Military Government was overthrown in a bloody coup staged by Northern Regional Army Officers led by Lt Col. Yakubo Gowon.\n\nOn July 29, 1975, the Miliatry government of General Yakubo Gowon was overthrown by General Murtala Muhammed in a bloodless coup. The coup took place while he, General Gowon was attending the O.A.U. summit at Kampala Uganda.\n\nAn aborted military coup was staged by Lt. Col. D.S.Dimka\nDinka on February 13, 1976. General Murtala Muhammed was killed in the exercise. General Olusegun Obasnjo then became the military head of state. On the 1st day of October, 1979, General Obasanjo handed over the mantle of leadership to Alhaji Shehu Shagari, the first Executive President of Nigeria.\n\nOn December, 31,1983, the civilian government of Shehu Shagari was overthrown by General Muhammed Buhari and Tunde Idiagbon when they were at Mecca.\n\nSo the two military coups that toppled civilian regimes in Nigeria were those of January 1966 and December 1983.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1187,
     "question": "Which of the following is a founding member of OPEC?",
     "option": {
@@ -2256,6 +2576,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1264,
+    "question": "Under the 1999 Constitution, the power to declare war is vested in the",
+    "option": {
+      "a": "National Security Council",
+      "b": "legislature",
+      "c": "executive",
+      "d": "National Council of States"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Under the 1999 Constitution, the power to declare war is vested in the Executive. This is with the approval of the National Assembly.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1267,
     "question": "The first franchise in the history of the democratic process is",
     "option": {
@@ -2336,6 +2672,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1289,
+    "question": "The body responsible for running the personal affairs of senior local government staff in Nigeria is the",
+    "option": {
+      "a": "Local Government Service Commission",
+      "b": "Local Government Council",
+      "c": "State Civil Service Commission",
+      "d": "Senior Staff Committee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The body responsible for running the personal affairs of senior local government staff in Nigeria is the Local Government Service Commission",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1292,
     "question": "The immediate cause of the January 15 1966 military coup in Nigeria was the",
     "option": {
@@ -2350,6 +2702,22 @@
     "solution": "The immediate cause of the January 15 1966 military coup in Nigeria was the election crisis in the Western Region",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1302,
+    "question": "A Security Council resolution requires the concurrence of",
+    "option": {
+      "a": "1 of the 5 permanent members",
+      "b": "all of the 5 permanent members",
+      "c": "9 of the 15 council members",
+      "d": " 3 of the 5 permanent members"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In the United Nations Security Council (UNSC), a resolution requires the approval of at least 9 out of the 15 council members including the concurring votes of all 5 permanent members (United States, United Kingdom, China, Russia, and France). This means that while 9 votes are necessary, a single veto from any of the 5 permanent members can block the resolution.",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 1311,
