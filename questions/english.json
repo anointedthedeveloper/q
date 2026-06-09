@@ -1,5 +1,62 @@
 [
   {
+    "id": 14,
+    "question": "  It is bad to take………… property without permission. ",
+    "option": {
+      "a": "someone else's ",
+      "b": "someone’s else",
+      "c": " someone's ",
+      "d": "someone's else's' "
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 17,
+    "question": "Ali plays ……….violin with remarkable skill",
+    "option": {
+      "a": "a    ",
+      "b": "the",
+      "c": "their ",
+      "d": "some "
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 72,
+    "question": "The nurse was in favour of <i>voluntary eutheanasia</i>",
+    "option": {
+      "a": "a sleeping pill",
+      "b": "a major operation",
+      "c": "a painless death",
+      "d": "a simple operation"
+    },
+    "section": "choose the option nearest in meaning to the word(s) or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 87,
     "question": "Ali goes to the stadium regularly, but he …………… to the church for months.",
     "option": {
@@ -19,6 +76,25 @@
     "category": "others"
   },
   {
+    "id": 94,
+    "question": "The police claim that a number of stolen cars…………. recovered.",
+    "option": {
+      "a": "has being",
+      "b": "is being",
+      "c": "has been",
+      "d": "have been"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 106,
     "question": "The government warns that drink-driving is punishable under the law.",
     "option": {
@@ -30,6 +106,44 @@
     "section": "that best explains the information conveyed in the sentence.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 115,
+    "question": "The ship was <i>imperiled</i> by high winds",
+    "option": {
+      "a": "piloted",
+      "b": "destroyed",
+      "c": "deceived",
+      "d": "saved"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 123,
+    "question": "The noise of the fan <i>unnerved</i>  the star player.",
+    "option": {
+      "a": "refreshed",
+      "b": "confused",
+      "c": "helped",
+      "d": "calmed"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004",
@@ -133,6 +247,25 @@
     "category": "others"
   },
   {
+    "id": 293,
+    "question": "In our last play, Segun acted the <i>hero</i>",
+    "option": {
+      "a": "villain  ",
+      "b": " devil ",
+      "c": "criminal ",
+      "d": " assassin"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 298,
     "question": " He <i>deprecated</i> the attempts made to unseat him.",
     "option": {
@@ -163,6 +296,82 @@
     "section": "choose the option nearest in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 303,
+    "question": "We were warned not to indulge in <i>recriminations.</i>",
+    "option": {
+      "a": "counter-charges      ",
+      "b": "indiscretions  ",
+      "c": "accusation",
+      "d": "frivolous allegations."
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 319,
+    "question": "The refugees were received at the <i>transit</i> camp.",
+    "option": {
+      "a": "passage ",
+      "b": " permanent ",
+      "c": "temporary ",
+      "d": "nearby."
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 329,
+    "question": "For anything to do with academic work, he has a great  a <i>version</i>",
+    "option": {
+      "a": "conversion ",
+      "b": "attention",
+      "c": "contempt  ",
+      "d": "predilection."
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 348,
+    "question": "When they examined his body, they found that he ...",
+    "option": {
+      "a": " had been dead  ",
+      "b": " had been dying  ",
+      "c": "died  ",
+      "d": "was dead"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007",
@@ -304,6 +513,44 @@
     "category": "others"
   },
   {
+    "id": 516,
+    "question": "ceremoniously ",
+    "option": {
+      "a": "CEremoniously   ",
+      "b": "ceREmoniously",
+      "c": "cereMOniously      ",
+      "d": "ceremoNlously."
+    },
+    "section": "choose the appropriate stress pattern from the options. The syllables are written in capital letters.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 524,
+    "question": "It is always good to steer a middle course in whatever one does. ",
+    "option": {
+      "a": "It is always good to get midway in anything one does. ",
+      "b": "It is always good to act with moderation. ",
+      "c": "It is always good to move away from the forefront",
+      "d": "It is always good to work very hard."
+    },
+    "section": " select the option that best explains the Information conveyed In the sentence. ",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 551,
     "question": "Isa and llu  <i>ate sumptuous</i>  meals on their brother's wedding day",
     "option": {
@@ -361,6 +608,44 @@
     "category": "others"
   },
   {
+    "id": 856,
+    "question": "He is a <u>stringer</u> for a newspaper?",
+    "option": {
+      "a": "a financier of",
+      "b": "an editor of",
+      "c": "a freelancer for",
+      "d": " a reporter for"
+    },
+    "section": "<b>In each of questions 59 to 73, choose the option nearest in meaning to the underlined word(s).</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 60,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 873,
+    "question": "His meteoric rise to fame surprise everyone?",
+    "option": {
+      "a": "His rise to fame was only temporary",
+      "b": "People were amazed at his rapid success",
+      "c": "He became successful very suddenly",
+      "d": "He rose to the top quite unexpectedly"
+    },
+    "section": "<b>In each of questions 76 to 80, select the option that best explains the information conveyed in the sentence.</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 77,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 927,
     "question": "The plan to upgrade the dispensary to a general hospital did not materialized?",
     "option": {
@@ -376,6 +661,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 32,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 947,
+    "question": "The teacher who beat the student was treated with <u>mercy</u>?",
+    "option": {
+      "a": "disrespect",
+      "b": "contempt",
+      "c": "vengeance",
+      "d": "kindness"
+    },
+    "section": "In each of the questions 49 to 63 choose the word that is <b>opposite</b> in meaning to the underlined word.",
+    "image": "",
+    "answer": "c",
+    "solution": "Mercy; to have compassion or forgiveness shown towards someone whom it is within one's power to punish or harm.\n\nvengeance; punishment inflicted or retribution exacted for an injury or wrong.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 52,
     "hasPassage": 0,
     "category": "others"
   },
@@ -418,6 +722,25 @@
     "category": "others"
   },
   {
+    "id": 1067,
+    "question": "We visited his house...........three times",
+    "option": {
+      "a": "about",
+      "b": " for about",
+      "c": "like",
+      "d": "for like"
+    },
+    "section": "<b>In each of the question 66 to 85 choose the option that best completes the gap(s)</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "About is used to indicate movement within a particular area.\n\nWe visited his house about three times",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 73,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1144,
     "question": "Everyone's condition was <u>appalling</u>",
     "option": {
@@ -433,6 +756,25 @@
     "examtype": "utme",
     "examyear": "2013",
     "questionNub": 52,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1157,
+    "question": "As a journalist, Bala has always had a <u>nose</u> for stories",
+    "option": {
+      "a": "an instinct",
+      "b": "a command",
+      "c": "soft comment",
+      "d": "cynical statement"
+    },
+    "section": "In each of questions 56 to 65, choose the option <b>nearest</b> in meaning to the word or phrase underlined.\n",
+    "image": "",
+    "answer": "a",
+    "solution": "In this context, to have a nose is to have the ability to sense or find something, such as news, trouble, gossip, etc.\n\nExample; She really has a nose for news. She's a good reporter.",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 65,
     "hasPassage": 0,
     "category": "others"
   },
@@ -513,6 +855,25 @@
     "category": "others"
   },
   {
+    "id": 1535,
+    "question": "Choose the word(s) or phrase(s) which best fill(s) the gap. If it had rained, we would have had to postpone the concert. It didn't rain, so ____________",
+    "option": {
+      "a": "we won't have to",
+      "b": "we would have had to",
+      "c": " we wouldn't have to",
+      "d": " we didn't have to"
+    },
+    "section": "Choose the word(s) or phrase(s) which best fill(s) the gap. ",
+    "image": "",
+    "answer": "d",
+    "solution": "The conditional statement ended with the first sentence. The following statement should therefore end with a past tense",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 52,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1581,
     "question": "Choose the most appropriate stress pattern from the options. The stressed are written in capital letters\n\nJudiciary",
     "option": {
@@ -528,6 +889,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 18,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1589,
+    "question": "choose the option opposite in meaning to the word or phrase in italics\n\nThey come here on bootless <i>errand</i>",
+    "option": {
+      "a": "worthwhile",
+      "b": "vain",
+      "c": "delusive",
+      "d": "intended"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The word bootless means ineffectual, useless of a task or undertaking, while the answer worthwhile means worth the time, effort spent\nBootless explains that the errand was useless while worthwhile explains it was the effort, which is also synonymous to the word useful",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 26,
     "hasPassage": 0,
     "category": "others"
   },
@@ -551,6 +931,82 @@
     "category": "others"
   },
   {
+    "id": 1665,
+    "question": "Risen",
+    "option": {
+      "a": "prison",
+      "b": "motion",
+      "c": "portion",
+      "d": "rising"
+    },
+    "section": "For these questions, choose the option that rhyme with the given words.\n",
+    "image": "",
+    "answer": "a",
+    "solution": "risen: rɪzən\nprison: /ˈprɪz(ə)n/\n\n ",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 53,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1667,
+    "question": "crowd",
+    "option": {
+      "a": "crow",
+      "b": "bard",
+      "c": "aloud",
+      "d": "crawl"
+    },
+    "section": "For these questions, choose the option that rhyme with the given words.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "crowd: /kraʊd/\naloud: /əˈlaʊd/",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 55,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1668,
+    "question": "inoffensive",
+    "option": {
+      "a": "inOFfensive",
+      "b": "inoffenSIVE",
+      "c": "inofFENsive",
+      "d": "INoffensive"
+    },
+    "section": "For these questions, choose the most appropriate stress pattern from the options. The Stressed syllable are written in capital letter (s)",
+    "image": "",
+    "answer": "c",
+    "solution": "Pronounced as in/of/FEN/sive.\nThe third syllable is more pronounced.",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 56,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1693,
+    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho was the teacher to whom the students called “cane”?",
+    "option": {
+      "a": "Mr Bade",
+      "b": "Mr Okoro",
+      "c": "Mama Silifat",
+      "d": "Mr Solade"
+    },
+    "section": " ",
+    "image": "",
+    "answer": "a",
+    "solution": "The novel described Teacher Bade as “cane” because he was always waiting for the next helpless kid who will fail into his trap",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 6,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1737,
     "question": "Choose the option that best fills the gap.\n\nWhilst the thief was -------------- the passengers kept apologizing for the inconveniences he was causing them.",
     "option": {
@@ -570,6 +1026,25 @@
     "category": "others"
   },
   {
+    "id": 1738,
+    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘I could hear his voice from a distance, rowdy and full of fun as usual,’to whom were these words said to and who said it?",
+    "option": {
+      "a": "Ansa to Nene Ekpo",
+      "b": "Nene ekpo to Ansa",
+      "c": "Efua to seyi lawal",
+      "d": " Jimi to Nene ekpo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "See page 7",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1775,
     "question": "My niece has an <u>unquenchable</u> thirst for adventure stories.",
     "option": {
@@ -585,6 +1060,63 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 16,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1786,
+    "question": "They accused him of <u>fomenting</u>  political unrest.",
+    "option": {
+      "a": "Guiding.",
+      "b": "Inciting.",
+      "c": "Discouraging.",
+      "d": "Preventing."
+    },
+    "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "b",
+    "solution": "foment; instigate or stir up (an undesirable or violent sentiment or course of action).",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 27,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1815,
+    "question": "Epita<u>ph</u>.",
+    "option": {
+      "a": "Pneumonia.",
+      "b": "Pseudo.",
+      "c": "Fan.",
+      "d": "Paper."
+    },
+    "section": "Choose the option that has the same consonant sound as the one represented by the letter underlined. ",
+    "image": "",
+    "answer": "c",
+    "solution": "epitaph; /ˈɛpɪtɑːf,ˈɛpɪtaf/\nfan; /fan/",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 56,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1820,
+    "question": "Congratulation.",
+    "option": {
+      "a": "conGRAtulation.",
+      "b": "congraTUlation.",
+      "c": "congratuLAtion.",
+      "d": "CONgratulation."
+    },
+    "section": "choose the most appropriate stress pattern from the options.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "congratulation; /kənɡratjʊˈleɪʃ(ə)n/\n\nwords with the /ʃ/ or /tʃ/ sounds made by “-tion” are usually stressed on the syllable before the ''tion'' ",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 61,
     "hasPassage": 0,
     "category": "others"
   }
