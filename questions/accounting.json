@@ -11648,6 +11648,22 @@
     "examyear": "2019"
   },
   {
+    "id": 729,
+    "question": "Ojo, Sam and Ade are in partnership sharing profit in the ratio 4:3:1 respectively. From their books for the year ended, interest on drawings and capital is allowed at 5% respectively, and profit for the year amounted to ₦4,950. What is Ojo's share of profit?",
+    "option": {
+      "a": "₦7,000",
+      "b": "₦2,475",
+      "c": "₦3,000",
+      "d": "₦991.8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find Ojo's share of profit:\nThe profit sharing ratio is 4:3:1 (Ojo : Sam : Ade)\nTotal ratio = 4 + 3 + 1 = 8 parts\nOjo's share = (4/8) × Total Profit\nOjo's share = (4/8) × ₦4,950\nOjo's share = (1/2) × ₦4,950\nOjo's share = ₦2,475\nTherefore, Ojo's share of profit is ₦2,475.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 730,
     "question": "Ojo, Sam and Ade are in partnership sharing profit in the ratio 4:3:1 respectively. From their books for the year ended, interest on drawings and capital is allowed at 5% respectively, and profit for the year amounted to ₦4,950. Given that Ojo has capital of ₦5,000, Sam has capital of ₦4,000, and Ade has capital of ₦6,000, what is the interest on capital for Ade?",
     "option": {
