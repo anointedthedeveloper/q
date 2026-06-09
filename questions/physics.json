@@ -3488,6 +3488,22 @@
     "examyear": "2017"
   },
   {
+    "id": 248,
+    "question": "Which of the following operations can be used to convert an alternative current dynamo into a direct current dynamo",
+    "option": {
+      "a": "number of turns in the coil is increased",
+      "b": "strength of the field magnet is increased",
+      "c": "slip rings are replaced with split ring commutator",
+      "d": "coil is wound on a soft iron armature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The essential operation to convert an AC dynamo to a DC dynamo is replacing the slip rings with a split ring commutator, which rectifies the alternating current into direct current.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 249,
     "question": "The net capacitance in the circuit above is",
     "option": {
@@ -7520,6 +7536,22 @@
     "examyear": "2023"
   },
   {
+    "id": 540,
+    "question": "The diagram above illustrates the penetrating power of some types of radiation. X, Y and Z are likely\n",
+    "option": {
+      "a": "X = α-particle; Y = γ-ray; Z = β-particle",
+      "b": "X = α-particle; Y = β-particle; Z = γ-ray",
+      "c": " X = γ-ray; Y = α-particle; Z = β-particle",
+      "d": "X = β-particle; Y = γ-ray; Z = α-particle"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614989/ALOC-Questions/Physics/2023/physics_2023-Q41_rawrld.png",
+    "answer": "c",
+    "solution": "The penetrating power of alpha rays, beta rays, and gamma rays varies greatly. Alpha particles can be blocked by a few pieces of paper. Beta particles pass through paper but are stopped by aluminum foil. Gamma rays are the most difficult to stop and require concrete, lead, or other heavy shielding to block them.\n\nTherefore, X = γ-ray; Y = α-particle; Z = β-particle",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 541,
     "question": "An explosion occurs at an altitude of 312 m above the ground. If the air temperature is -10.00°C, how long does it take the sound to reach the ground? [velocity of sound at 0°C = 331 ms⁻¹]",
     "option": {
@@ -10204,6 +10236,22 @@
     "image": "",
     "answer": "d",
     "solution": "\nBand Theory: This theory describes the energy levels of electrons in solids as bands. It explains how the bands (valence and conduction bands) determine the electrical properties of materials.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 730,
+    "question": "I. The number of neutrons released exceeds the number that caused the fission.\nII. There is loss of mass.\nIII. Energy is produced.\nIV. Smaller nuclei merge to form larger nuclei.\nWhich of the statements above are correct about nuclear fission?",
+    "option": {
+      "a": "II, III and IV only",
+      "b": "I, II and IV only",
+      "c": "I, II and III only",
+      "d": "I, III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nuclear fission involves the splitting of a heavy nucleus into two or more lighter nuclei, accompanied by the release of neutrons and energy.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -13628,6 +13676,22 @@
     "image": "",
     "answer": "b",
     "solution": "presbyopia is loss of accommodation",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 974,
+    "question": "When a red rose flower is observed in blue light, what colour does the observer see?",
+    "option": {
+      "a": "Red",
+      "b": "Blue",
+      "c": "Black (or very dark)",
+      "d": "Purple"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a red rose is observed in blue light, it appears black or very dark because:\n\nThe rose only reflects red light\nBlue light (the only light present) is absorbed by the red pigment\nWith no light being reflected, the rose appears black\n\nGeneral principle: An object appears the color(s) it reflects. In monochromatic light, if an object doesn't reflect that specific color, it appears black.",
     "examtype": "utme",
     "examyear": "2011"
   },
