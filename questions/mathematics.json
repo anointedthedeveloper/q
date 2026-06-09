@@ -544,6 +544,22 @@
     "examyear": "2008"
   },
   {
+    "id": 43,
+    "question": "The trigonometric expression cos2A + sin 2A can be written as:  ",
+    "option": {
+      "a": "cosA(cosA + sinA)  ",
+      "b": "B.cos2A + sin2A – 2sinAcosA,  ",
+      "c": "2sinAcosA + cos2A + sin2A,  ",
+      "d": "D.cos2A +sinA  – 2sinAcosA"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 45,
     "question": "Without replacement ",
     "option": {
@@ -1904,6 +1920,22 @@
     "examyear": "2001"
   },
   {
+    "id": 146,
+    "question": "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST.",
+    "option": {
+      "a": "πr/6",
+      "b": "πr/2",
+      "c": "πr/12",
+      "d": " πr/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Since ST = the radius r, => SOT is equilateral.\nEach angle = 60°\nLength of arc ST = θ/360 x 2πr\n= 60/360 x 2 x π x r = πr/3",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 147,
     "question": "If the gradient of the curve y = 2kx<sup>2</sup> + x + 1 at x = 1 is 9, find k.",
     "option": {
@@ -2892,6 +2924,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698298/ALOC-Questions/Mathematics/2002/math_2000_Q47_pfgllk.jpg",
     "answer": "d",
     "solution": "20 + X + 50 + 40 + 2X + 60 = 260\n3X + 170 = 260\n3X = 260 - 170\n3x = 90\nx = 30\nAbsent for at least 4 days\n\n4,\t5,\t6\n40,\t2x,\t60,\n\ni.e 40 + 2x + 60 = 40 + (2 x 30) + 60\n= 40 + 60 + 60\n= 160",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 219,
+    "question": "The venn diagram shows the number of students offering Music and History in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
+    "option": {
+      "a": "0.25",
+      "b": "0.38",
+      "c": "0.50",
+      "d": "0.13"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698340/ALOC-Questions/Mathematics/2002/math_2000_q48_escfln.jpg",
+    "answer": "a",
+    "solution": "80 = (30 - x) + x + 40 - x + 20\n\n80 = 90 - x, x = 90 - 80 = 10\n\nN (music only) = 30 - x = 30 - 10 = 20\n\nP (music only) = 20/80 = 1/4 = 0.25\n \n \n",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -12464,6 +12512,22 @@
     "examyear": "2019"
   },
   {
+    "id": 990,
+    "question": "If ∣∣∣2x−49∣∣∣=58\n, find the value of x.",
+    "option": {
+      "a": "10",
+      "b": "30",
+      "c": "14",
+      "d": "28"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>|</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>4</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mi>x</mi>\n        </mtd>\n        <mtd>\n          <mn>9</mn>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>|</mo>\n  </mrow>\n  <mo>=</mo>\n  <mn>58</mn>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006887/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q23_baoa2n.jpg",
+    "answer": "a",
+    "solution": "⟹(2×9)−(−4×x)=58\n18+4x=58⟹4x=58−18=40\nx=10",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 991,
     "question": "If y=6x<sup>3</sup> +2x<sup>(-2)</sup> - x<sup>(-3</sup>), find dy/dx\n.",
     "option": {
@@ -12508,6 +12572,22 @@
     "image": "",
     "answer": "b",
     "solution": "(4x-6)/3≤(3+2x)/2.   2(4x - 6) ≤ 3(3 + 2x)\n\n8x - 12 ≤ 9 + 6x\n\n8x - 6x ≤ 9 + 12\n\n2x ≤ 21\n\nx≤21/2",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 995,
+    "question": "Solve the inequality: -7 ≤\n 9 - 8x < 16 - x",
+    "option": {
+      "a": "-1 ≤ x ≤ 2",
+      "b": " -1 ≤ x < 2",
+      "c": "-1 < x < 2",
+      "d": "-1 < x ≤ 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "-7 ≤\n 9 - 8x < 16 - x\n\n-7 ≤\n 9 - 8x and 9 - 8x < 16 - x\n\n-7 - 9 ≤ -8x and -8x + x < 16 - 9\n\n-16 ≤ -8x and -7x < 7\n\n∴ x ≤ 2 and -1 < x\n\n-1 < x ≤ 2.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -12764,6 +12844,22 @@
     "image": "",
     "answer": "b",
     "solution": "Since each interior angle = 140°;\n\nEach exterior angle = 180° - 140° = 40°\n\nNumber of sides of the polygon = 360°/40°\n= 9 \n\nSum of angles in the polygon = 140° x 9\n\n= 1260°",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1014,
+    "question": "A man bought a car newly for ₦1,250,000. He had a crash with the car and later sold it at the rate of ₦1,085,000. What is the percentage gain or loss of the man?",
+    "option": {
+      "a": " 43.7% loss",
+      "b": "13.2% gain",
+      "c": "13.2% loss",
+      "d": "43.7% gain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Cost price of the car = N 1,250.00\n\nSelling price = N 1,085.00\n\nLoss = N (1250 - 1085)\n\n= N 165.00\n\n% loss = 165/1250×100\n= 13.2% loss",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -16124,6 +16220,22 @@
     "image": "",
     "answer": "b",
     "solution": "x<sup>2</sup> − 2x − 3 = 0\n\n−3x + x = − 2x\n\n− 3x × x = − 3x<sup>2</sup>\n\n(x<sup>2</sup> − 3x)(x − 3) = 0\n\n(x − 3)(x + 1) = 0\n\nEither (x − 3) = 0 or (x + 1) = 0\n\nx = 3 or − 1",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1266,
+    "question": "The volume of a cylinder whose height is 4cm and whose radius 5cm is equal to (π = 3.14)",
+    "option": {
+      "a": "3.13 cm<sup>2</sup>",
+      "b": "145 cm<sup>2</sup>",
+      "c": "314 cm<sup>2</sup>",
+      "d": "214 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "V = πr<sup>2</sup>h\n\nV = ?, h = 4cm, r = 5cm\n\nV = 3.14(5)2 (4)\n\nV = 3.14(25)(4)\n\nV = 3.14 × 1200\n\n= 314 cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2015"
   },
