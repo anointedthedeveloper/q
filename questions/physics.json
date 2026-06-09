@@ -7520,6 +7520,22 @@
     "examyear": "2022"
   },
   {
+    "id": 492,
+    "question": "The graph of pressure (P) against the reciprocal of the volume (I/V) in Boyles's law is a?",
+    "option": {
+      "a": "hyperbola",
+      "b": "parabola",
+      "c": "curve",
+      "d": "straight line"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When pressure is plotted against 1/V, the relationship becomes P = k(1/V), which is a direct proportionality. This produces a straight line graph passing through the origin with slope equal to the constant k.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 493,
     "question": "What quantity of heat is required to convert 20 g of ice at 0 ºC to water at the same temperature? (Specific latent heat of ice = 336 Jg⁻¹)",
     "option": {
@@ -17404,6 +17420,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nTotal heat lost, Q_total = 5400 kJ = 5.4 × 10⁶ J\nSteam condenses to water at 100 °C, then the water cools to 15 °C.\nLatent heat of vaporization, L = 2.26 × 10⁶ J kg⁻¹\nSpecific heat capacity of water, c_w = 4200 J kg⁻¹ K⁻¹\nInitial temperature of condensed water = 100 °C\nFinal temperature of water collected = 15 °C\nTemperature change during cooling, Δθ = 100 – 15 = 85 °C = 85 K\n\nSolution:\n\nStep 1: Heat lost in two stages\nFor mass m of steam:\nHeat lost during condensation = m × L\nHeat lost during cooling of condensed water from 100 °C to 15 °C = m × c_w × Δθ\nTotal heat lost = m × L + m × c_w × Δθ = m (L + c_w Δθ)\n\nStep 2: Substitute values\nL + c_w Δθ = 2.26 × 10⁶ + (4200 × 85)\n4200 × 85 = 357 000 = 3.57 × 10⁵\nTotal = 2.26 × 10⁶ + 0.357 × 10⁶ = 2.617 × 10⁶ J kg⁻¹\n\nStep 3: Solve for m\nQ_total = m × 2.617 × 10⁶\n5.4 × 10⁶ = m × 2.617 × 10⁶\nm = 5.4 / 2.617 ≈ 2.063 kg",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1143,
+    "question": "Charge carriers in doped semiconductors are",
+    "option": {
+      "a": "electrons and protons",
+      "b": "electrons and neutrons",
+      "c": "anions and cations",
+      "d": "electrons and holes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Electrical conduction in semiconductors occurs via electrons and holes.",
     "examtype": "utme",
     "examyear": "2025"
   },
