@@ -2048,6 +2048,22 @@
     "examyear": "2004"
   },
   {
+    "id": 142,
+    "question": "The oxidation state of chlorine in HClO4 is",
+    "option": {
+      "a": "-5",
+      "b": "-1",
+      "c": "1",
+      "d": "7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 143,
     "question": "ZnO(s) + CO (g) → Zn(s) + CO2 (g). ",
     "option": {
@@ -10236,6 +10252,22 @@
     "image": "",
     "answer": "a",
     "solution": "An alkene contains exactly one carbon-carbon double bond (C=C), regardless of the total number of carbon atoms in the chain. A C=C double bond consists of one sigma (σ) bond and one pi (π) bond. A six-carbon alkene (hex-1-ene, for example) has one C=C double bond and therefore one pi bond.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 705,
+    "question": "What is the principal ore of iron, from which iron is extracted?",
+    "option": {
+      "a": "Calcite",
+      "b": "Bauxite",
+      "c": "Magnetite",
+      "d": "Hematite"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The principal ore of iron used for large-scale extraction is hematite (Fe₂O₃), also spelled haematite. It contains a high percentage of iron and is widely available. Iron is extracted from hematite in a blast furnace using coke and limestone. Bauxite is the ore of aluminium, calcite is a form of calcium carbonate, and magnetite (Fe₃O₄) is another iron ore but less commonly used as the principal source.",
     "examtype": "utme",
     "examyear": "2023"
   },
