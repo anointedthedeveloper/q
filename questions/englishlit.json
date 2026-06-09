@@ -848,6 +848,22 @@
     "examyear": "2008"
   },
   {
+    "id": 60,
+    "question": "What kind of repetition is used in the extract?  ",
+    "option": {
+      "a": "anaphora ",
+      "b": "single word repetition  ",
+      "c": "line repetition  ",
+      "d": "phrase repetition."
+    },
+    "section": "Read the following extract from a poem to answer questions \nAmong rocks, I am the loose one,\nAmong arrows, I am the heart\nAmong daughters, I am the recluse,\nAmong sons, the one who dies young\n",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 61,
     "question": "A part from emphasis, what other effect does the repetition have?  ",
     "option": {
@@ -2363,6 +2379,22 @@
     "section": "Question is based on George Orwell’s Nineteen Eighty Four",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 168,
+    "question": "In the Newspeak language, “duckspeak” is a word that simultaneously  refers to ",
+    "option": {
+      "a": "love and admiration  ",
+      "b": "knowledge and ignorance  ",
+      "c": "now and then ",
+      "d": "abuse and praise "
+    },
+    "section": "Question is based on George Orwell’s Nineteen Eighty Four",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -7072,6 +7104,22 @@
     "examyear": "2019"
   },
   {
+    "id": 503,
+    "question": "Who responded to the speech?",
+    "option": {
+      "a": "Lago",
+      "b": "Cassio",
+      "c": "Othello",
+      "d": "Lodovico"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 505,
     "question": "The handkerchief the speaker mentioned belongs to",
     "option": {
@@ -7755,6 +7803,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 551,
+    "question": "The theme of beauty and strength in \"Black Woman\" by Leopold Sedar Senghor's is a",
+    "option": {
+      "a": "Dramatic poem",
+      "b": "Narrative poem",
+      "c": "Short poem",
+      "d": "Negritude poem"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
