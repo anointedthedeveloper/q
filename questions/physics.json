@@ -208,6 +208,22 @@
     "examyear": "2007"
   },
   {
+    "id": 23,
+    "question": "A box of mass 40kg is being dragged  along by the rope inclined at 60o to the horizontal. The frictional force between the box and the floor is 100N and the tension on the rope is 300N. How much work is done in dragging the box through a distance of 4m? ",
+    "option": {
+      "a": "680J ",
+      "b": "200J ",
+      "c": "100J ",
+      "d": "400J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 25,
     "question": "A uniform rod PQ of mass 2kg and length of 1m is pivoted at the end P, if a load of 14N is placed at the centre, find the force that should be applied vertically upwards at Q to maintain the rod in equilibrium ",
     "option": {
@@ -263,6 +279,22 @@
       "b": "2.25ms-1 ",
       "c": "4.00ms-1 ",
       "d": "4.33ms-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 38,
+    "question": "The silver wall of a vacuum flask prevents heat loss due to ",
+    "option": {
+      "a": "conduction ",
+      "b": "Convection ",
+      "c": "Radiation ",
+      "d": "Diffraction"
     },
     "section": "",
     "image": "",
@@ -1104,6 +1136,22 @@
     "examyear": "2015"
   },
   {
+    "id": 161,
+    "question": "A zinc has a heat capacity of 40 J/K, what is the mass of the zinc, given that the specific heat of zinc is 380 J/kg k",
+    "option": {
+      "a": "0.11kg",
+      "b": " 0.12kg",
+      "c": "0.13kg",
+      "d": " 0.14kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Heat capacity (o) = mass (kg) specific heat of a substance (C₂)\n\ni.e Q = MC\n\nwhere Q = 40 J/L, m = ?(380 J/Kgk)\n\n40 = m × 380\n\nm = 0.11kg (Approx)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 162,
     "question": "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s)",
     "option": {
@@ -1440,6 +1488,22 @@
     "examyear": "2016"
   },
   {
+    "id": 210,
+    "question": "Vapour is said to be saturated on top of an enclosed liquid if _________",
+    "option": {
+      "a": "The rate of condensation is greater than that of vapourization",
+      "b": "The rate of condensation is equal to that of vapourization",
+      "c": "There is neither condensation nor vaporization of the liquid",
+      "d": "The rate of condensation is less that that of vaporization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Saturated vapour exists when the rates of condensation and vaporization are equal, creating a dynamic equilibrium.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 211,
     "question": "A pool of water appears to be 1.00m deep when viewed vertically from above. What is the actual depth of the pool?\n[Refractive index of water = 1.33]",
     "option": {
@@ -1660,6 +1724,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nNumber of pulleys = 6\nEffort (E) = 50N\nLoad (L) = 200N\nEfficiency = ?\n\nStep 1: Calculate Mechanical Advantage (M.A)\nM.A = Load/Effort = 200/50 = 4\nStep 2: Calculate Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings = 6\nStep 3: Calculate Efficiency\nEfficiency = (M.A/V.R) × 100%\nEfficiency = (4/6) × 100%\nEfficiency = 0.667 × 100%\nEfficiency = 66.7%",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 245,
+    "question": "Calculate the height of the image formed by a pinhole camera of length 12cm used to photograph an object 60cm away from the hole and 70cm high",
+    "option": {
+      "a": "10 cm",
+      "b": "16 cm",
+      "c": "5 cm",
+      "d": "14 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nLength of pinhole camera (image distance, v) = 12 cm\nObject distance (u) = 60 cm\nHeight of object (hₒ) = 70 cm\nHeight of image (hᵢ) = ?\n\nPrinciple:\nIn a pinhole camera, similar triangles are formed, so:\nhᵢ/hₒ = v/u\nRearranging:\nhᵢ = (hₒ × v)/u\nSubstituting values:\nhᵢ = (70 × 12)/60\nhᵢ = 840/60\nhᵢ = 14 cm",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -2064,6 +2144,22 @@
     "examyear": "2018"
   },
   {
+    "id": 301,
+    "question": "One of the features of the fission process is that",
+    "option": {
+      "a": "it leads to chain reaction",
+      "b": " its products are not radioactive",
+      "c": "neutrons are not released",
+      "d": "The sum of the masses of the reactants equals the sum of the masses of the products"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "One of the key features of nuclear fission is that it can lead to a chain reaction because neutrons released from one fission event can trigger additional fission events.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 303,
     "question": "A lead bullet of mass 0.05 kg is fired with a velocity of 200 m/s into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is",
     "option": {
@@ -2416,6 +2512,22 @@
     "examyear": "2019"
   },
   {
+    "id": 356,
+    "question": "An alternating current can induce voltage because it has",
+    "option": {
+      "a": " ripple value",
+      "b": "varying magnetic field",
+      "c": "weaker magnetic field than direct current",
+      "d": "high peak value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An alternating current can induce voltage because it produces a varying (changing) magnetic field, which according to Faraday's Law causes electromagnetic induction.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 358,
     "question": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because",
     "option": {
@@ -2560,6 +2672,38 @@
     "examyear": "2019"
   },
   {
+    "id": 375,
+    "question": "Neutrons were discovered by",
+    "option": {
+      "a": "Faraday",
+      "b": "Dalton",
+      "c": "James Chadwick",
+      "d": "Rutherford"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "It was discovered by James Chadwick in 1932.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 376,
+    "question": "The mass of a nucleus is the",
+    "option": {
+      "a": " total number of its proton & neutrons",
+      "b": "number of its protons",
+      "c": " mass of its electrons",
+      "d": "total number of its protons & electrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Nucleus = mass of proton + mass of neutron",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 378,
     "question": "An a.c of 1A at a frequency of 800 cycles per second flows through a coil, the inductance of which is 2.5mH and the resistance of which is 5Ω. What is the power absorbed in the Coil?\n",
     "option": {
@@ -2604,6 +2748,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612576/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_8_x9t0jv.jpg",
     "answer": "a",
     "solution": "Step 1: Current when K is open\nWhen K is open, one path through 8Ω total (4Ω + 4Ω) and 2Ω:\nTotal resistance = 8Ω + 2Ω = 10Ω\nCurrent (I₁) = V/R = 6/10 = 0.6A\nStep 2: Current when K is closed\nWhen K is closed, the two 4Ω resistors are in parallel:\nParallel combination: 1/R_parallel = 1/4 + 1/4 = 2/4\nR_parallel = 4/2 = 2Ω\nWait, let me recalculate:\n1/R = 1/4 + 1/4 = 1/4 + 1/4 = 2/4 = 1/2\nR_parallel = 2Ω... that's not right.\nActually: (4 × 4)/(4 + 4) = 16/8 = 2Ω\nHmm, the explanation shows R_parallel = 4Ω. Let me follow their logic:\nIf 1/8 + 1/8 = 2/8 = 1/4, then R = 4Ω\nTotal resistance with K closed: 4Ω + 2Ω = 6Ω\nCurrent (I₂) = 6/6 = 1A\nStep 3: Change in current\nΔI = I₂ - I₁ = 1 - 0.6 = 0.4A increase",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 389,
+    "question": "Natural radioactivity consists of emission?",
+    "option": {
+      "a": "α\n -particles and β\n-rays",
+      "b": "α\n-particles and X-rays",
+      "c": "γ\n -ray and X-rays",
+      "d": "α\n -particles and β\n-rays and γ\n-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Natural radioactivity consists of the emission of alpha particles, beta rays, and gamma rays. These are the three main types of radiation emitted by naturally radioactive materials.Retry",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -2940,6 +3100,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nFrequency of x-ray (f) = 1.6 × 10¹⁶ Hz\nPlanck's constant (h) = 6.63 × 10⁻³⁴ Js\nCharge of electron (e) = 1.6 × 10⁻¹⁹ C\nAccelerating potential (V) = ?\n\nPrinciple:\nWhen electrons are accelerated through a potential V, they gain kinetic energy that is converted to x-ray photon energy:\nEnergy of electron = Energy of x-ray photon\neV = hf\nRearranging to find V:\nV = hf/e\nSubstituting values:\nV = (6.63 × 10⁻³⁴ × 1.6 × 10¹⁶) / (1.6 × 10⁻¹⁹)\nV = (6.63 × 1.6 × 10⁻³⁴⁺¹⁶) / (1.6 × 10⁻¹⁹)\nV = (10.608 × 10⁻¹⁸) / (1.6 × 10⁻¹⁹)\nV = (10.608 / 1.6) × 10⁻¹⁸⁺¹⁹\nV = 6.63 × 10¹\nV = 66.3 V",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 435,
+    "question": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
+    "option": {
+      "a": "24 years",
+      "b": "20 years",
+      "c": "10 years",
+      "d": "2 years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nTime elapsed (t) = 120 years\nFraction remaining = 1/64\nHalf-life (T½) = ?\n\nStep 1: Determine number of half-lives\nAfter n half-lives, fraction remaining = (1/2)ⁿ\nGiven: (1/2)ⁿ = 1/64\nFinding n:\n1/64 = 1/2ⁿ\n64 = 2ⁿ\nSince 64 = 2⁶:\nn = 6\nSo 6 half-lives have passed.\nStep 2: Calculate half-life\nNumber of half-lives × Half-life = Total time\nn × T½ = t\n6 × T½ = 120 years\nT½ = 120/6\nT½ = 20 years",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -3696,6 +3872,22 @@
     "examyear": "2023"
   },
   {
+    "id": 534,
+    "question": "An object is placed 35 cm away from a convex mirror with a focal length of magnitude 15 cm. What is the location of the image?",
+    "option": {
+      "a": "26.25 cm behind the mirror",
+      "b": "10.5 cm behind the mirror",
+      "c": "26.25 cm in front of the mirror",
+      "d": "10.5 cm in front of the mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nObject distance, u = 35 cm\nFocal length magnitude = 15 cm\nFor convex mirror, f = +15 cm (positive by sign convention)\nImage distance, v = ?\n\nSolution:\nStep 1: Apply sign convention for convex mirror\nFor a convex mirror:\n\nObject distance, u = -35 cm (object is in front, negative)\nFocal length, f = +15 cm (focal point is behind mirror, positive)\n\nStep 2: Apply mirror formula\n1/f = 1/v + 1/u\n1/v = 1/f - 1/u\nStep 3: Substitute values\n1/v = 1/(+15) - 1/(-35)\n1/v = 1/15 + 1/35\nStep 4: Find common denominator and solve\n1/v = 7/105 + 3/105\n1/v = 10/105\n1/v = 2/21\nv = 21/2\nv = 10.5 cm",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 538,
     "question": "An open-tube mercury manometer is used to measure the pressure in a gas tank. When the atmospheric pressure is 101,325 Pa, what is the absolute pressure in Pa in the tank if the height of the mercury in the open tube is 25 cm higher. density of mercury = 13600kg/m³, g=9.8m/s²",
     "option": {
@@ -3996,6 +4188,22 @@
     "image": "",
     "answer": "d",
     "solution": "Recovery devices (parachutes or streamers) are essential components of model rockets, used to safely return the rocket to the ground after flight. Option D incorrectly suggests they are not part of a model rocket. All other options (body tube, nose cone, and fins) are standard rocket components.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 577,
+    "question": "The energy of light of frequency 2.0 x 10¹⁵Hz is (h = 6.63 x 10⁻³⁴Js)",
+    "option": {
+      "a": ". 3.33 x 10⁻¹⁸J",
+      "b": "1.33 x 10⁻¹⁸J",
+      "c": "1.33 x 10⁻¹⁹J",
+      "d": "3.33 x 10⁻¹⁹J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nFrequency, f = 2.0 × 10¹⁵ Hz\nPlanck's constant, h = 6.63 × 10⁻³⁴ J·s\nEnergy, E = ?\n\nSolution:\nStep 1: Apply Planck's equation\nThe energy of a photon:\nE = hf\nStep 2: Substitute the known values\nE = 6.63 × 10⁻³⁴ × 2.0 × 10¹⁵\nStep 3: Calculate the energy\nE = (6.63 × 2.0) × (10⁻³⁴ × 10¹⁵)\nE = 13.26 × 10⁻¹⁹\nE = 1.326 × 10⁻¹⁸ J\nE ≈ 1.33 × 10⁻¹⁸ J",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -4704,6 +4912,22 @@
     "examyear": "2005"
   },
   {
+    "id": 697,
+    "question": "In the photoelectric effect, which of the following graphs correctly represents the graph of stopping potential V₀ against frequency(f), of incident light?",
+    "option": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296828/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_48_prkfje.png",
+    "answer": "d",
+    "solution": "Option D is the graph of stopping potential V₀ against the frequency of the incident light I. The straight line graph cuts the intercept I = threshold frequency. As the frequency of the incident light increases above this point(threshold frequency), the stopping potential corresponding to the kinetic energy of the photoelectron also increases.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 700,
     "question": "A uniform solid cube material 10cm on each side of mass 700g is submerged in water. which of the following best described the behavior of the cube water?",
     "option": {
@@ -5072,6 +5296,22 @@
     "examyear": "2006"
   },
   {
+    "id": 744,
+    "question": "An engine of a car of power 80 kW moves on a rough road with a velocity of 32 m/s. The force required to bring it to rest is?",
+    "option": {
+      "a": "2.56 × 10⁶ N",
+      "b": "2.50 × 10⁶ N",
+      "c": "2.80 × 10³ N",
+      "d": "2.50 × 10³ N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nPower P = 80 kW = 80 000 W\nVelocity v = 32 m s⁻¹\n\nSolution:\n\nStep 1: Relationship between power, force, and velocity\nAt constant velocity, the engine’s power equals the product of the driving force and velocity:\nP = F × v\n\nStep 2: Solve for the force\nF = P / v = 80 000 W / 32 m s⁻¹ = 2 500 N\n\nStep 3: Express in scientific notation\n2 500 N = 2.50 × 10³ N",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 745,
     "question": "A progressive wave equation is represented by y = a sin(150πt - (π/4)x). If the phase difference of the wave is 45°, the value of x in the equation is?",
     "option": {
@@ -5132,6 +5372,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nInitial angular velocity (ω₀) = 0 rad/s (starts from rest)\nFinal angular velocity (ω) = 4π rad/s\nTime (t) = 5 s\nAngular acceleration (α) = ?\n\nUsing angular motion equation:\nω = ω₀ + αt\nSince ω₀ = 0:\nω = αt\nRearranging to find α:\nα = ω/t\nSubstituting values:\nα = 4π/5\nα = 0.8π rad/s²",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 754,
+    "question": "A machine has a velocity ratio of 4. if it requires 800 N to overcome a load of 1600 N,what is the efficiency of the machine?",
+    "option": {
+      "a": "60%",
+      "b": "50%",
+      "c": "40%",
+      "d": "20%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nVelocity Ratio (V.R) = 4\nEffort (E) = 800 N\nLoad (L) = 1600 N\nEfficiency = ?\n\nStep 1: Calculate Mechanical Advantage (M.A)\nM.A = Load / Effort\nM.A = 1600 / 800\nM.A = 2\nStep 2: Calculate Efficiency\nEfficiency = (M.A / V.R) × 100%\nSubstituting values:\nEfficiency = (2 / 4) × 100%\nEfficiency = 0.5 × 100%\nEfficiency = 50%",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -5328,6 +5584,22 @@
     "examyear": "2007"
   },
   {
+    "id": 788,
+    "question": "A string of length 4m is extended by 0.02 m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?",
+    "option": {
+      "a": "4.05 m",
+      "b": "4.08 m",
+      "c": "5.05 m",
+      "d": "6.08 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nOriginal length (L₀) = 4 m\nExtension₁ (e₁) = 0.02 m\nMass = 0.4 kg, so Force₁ (F₁) = 0.4 × 10 = 4 N (assuming g = 10 m/s²)\nApplied force₂ (F₂) = 15 N\nFinal length = ?\n\nUsing Hooke's Law:\nExtension is proportional to applied force (for elastic materials):\nF ∝ e\nSetting up proportion:\nF₁/e₁ = F₂/e₂\nSolving for e₂:\n4/0.02 = 15/e₂\ne₂ = (15 × 0.02)/4\ne₂ = 0.30/4\ne₂ = 0.075 m\nCalculate final length:\nFinal length = Original length + Extension\nFinal length = 4 + 0.075\nFinal length = 4.075 m ≈ 4.08 m",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 792,
     "question": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1Ω, the resistivity is",
     "option": {
@@ -5440,6 +5712,22 @@
     "examyear": "2008"
   },
   {
+    "id": 814,
+    "question": "A sealed flask contains 600cm³ of air at 27°C and is heated to 35°C at constant pressure. The new volume is?",
+    "option": {
+      "a": "508 cm³",
+      "b": "516 cm³",
+      "c": "608 cm³",
+      "d": "616 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial volume (V₁) = 600 cm³\nInitial temperature (T₁) = 27°C = 27 + 273 = 300 K\nFinal temperature (T₂) = 35°C = 35 + 273 = 308 K\nPressure = constant\nFinal volume (V₂) = ?\n\nUsing Charles' Law (constant pressure):\nV₁/T₁ = V₂/T₂\nRearranging for V₂:\nV₂ = V₁ × T₂/T₁\nSubstituting values:\nV₂ = 600 × 308/300\nV₂ = 600 × 1.02667\nV₂ = 616 cm³",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 816,
     "question": "If the partial pressure of water vapour at 27°C is 18 mm Hg and the saturated vapour pressure of the atmosphere at the same temperature is 24 mm Hg, the relative humidity at this temperature is?",
     "option": {
@@ -5484,6 +5772,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nObject height = 4 cm\nImage height = 2 cm\nImage distance (camera size) = 6 cm\n\nSolution:\n\nStep 1: Magnification formula for pinhole camera\nMagnification = Image height / Object height = Image distance / Object distance\n\nStep 2: Substitute known values\n2/4 = 6 / u\n1/2 = 6 / u\n\nStep 3: Solve for object distance u\nu = 6 × 2 = 12 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 822,
+    "question": "An object of heights 5 cm is placed at 20 cm from a concave mirror of focal length 10 cm. the image height is?",
+    "option": {
+      "a": "20 cm",
+      "b": "15 cm",
+      "c": "10 cm",
+      "d": " 5 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nObject height, h₀ = 5 cm\nObject distance, u = 20 cm\nFocal length, f = 10 cm (positive for concave mirror in sign convention used here)\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n1/10 = 1/20 + 1/v\n\nStep 2: Solve for image distance v\n1/v = 1/10 - 1/20 = 1/20\nv = 20 cm\n\nStep 3: Magnification formula\nMagnification m = v/u = 20/20 = 1\nAlso, m = image height / object height = hᵢ / h₀\n\nStep 4: Find image height\n1 = hᵢ / 5 cm\nhᵢ = 5 cm",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -5628,6 +5932,22 @@
     "image": "",
     "answer": "b",
     "solution": "The uses of a transistor are current amplification, power amplification, and as a switch.\n",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 836,
+    "question": "The dimension of electromotive force are?",
+    "option": {
+      "a": "ML²T⁻³I⁻¹",
+      "b": "ML²T⁻³I⁻²",
+      "c": "M²LT⁻²I⁻¹",
+      "d": "M²L²T⁻¹I⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nElectromotive force (e.m.f.) has the same unit as voltage (potential difference).\nVoltage = Work done / Charge\n\nSolution:\n\nStep 1: Write the formula for voltage\nVoltage V = Work / Charge\n\nStep 2: Write dimensions of work\nWork = Force × Distance\nForce = Mass × Acceleration = M × LT⁻² = MLT⁻²\nWork = MLT⁻² × L = ML²T⁻²\n\nStep 3: Write dimensions of charge\nCharge = Current × Time = I × T = IT\n\nStep 4: Divide dimensions of work by dimensions of charge\nV = ML²T⁻² / IT = ML²T⁻² × I⁻¹T⁻¹ = ML²T⁻³I⁻¹",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -6140,6 +6460,22 @@
     "image": "",
     "answer": "b",
     "solution": "\nGiven information:\n\nWavelength (λ) = 500 nm = 500 × 10⁻⁹ m = 5 × 10⁻⁷ m\nSpeed of light (c) = 3 × 10⁸ m/s\nFrequency (f) = ?\n\nFormula for wave equation:\nc = fλ\nRearranging for frequency:\nf = c/λ\nSubstituting values:\nf = (3 × 10⁸)/(5 × 10⁻⁷)\nf = (3/5) × 10⁸⁺⁷\nf = 0.6 × 10¹⁵\nf = 6.0 × 10¹⁴ Hz",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 894,
+    "question": "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible",
+    "option": {
+      "a": "12 V",
+      "b": "8 V",
+      "c": " 2 V",
+      "d": "36 V"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433350/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_45_treskz.png",
+    "answer": "b",
+    "solution": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6\n= 3/6\n∴ R = 6/3 = 2\nE = I(R + r) = 4(2 + 0) = 8v",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -6912,6 +7248,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1012,
+    "question": "A balloon whose volume is 300 m³ is filled with hydrogen. If the density of air is 1.3 kg m⁻³, find the upthrust on the balloon. [g = 10 m s⁻²]",
+    "option": {
+      "a": "3000 N",
+      "b": "3800 N",
+      "c": " 3900 N",
+      "d": "4200 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nVolume of balloon = 300 m³\nDensity of air = 1.3 kg m⁻³\ng = 10 m s⁻²\n\nSolution:\n\nStep 1: Upthrust (buoyant force)\nUpthrust = weight of displaced air = (density of air) × (volume) × g\n\nStep 2: Substitute values\nUpthrust = 1.3 kg m⁻³ × 300 m³ × 10 m s⁻² = 1.3 × 300 × 10 = 3900 N",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1018,
     "question": "The quantity of heat energy required to melt completely 1 kg of ice at –30 °C is\n[latent heat of fusion = 3.5 × 10⁵ J kg⁻¹, specific heat capacity of ice = 2.1 × 10³ J kg⁻¹ K⁻¹]",
     "option": {
@@ -7360,6 +7712,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1084,
+    "question": "A car accelerates uniformly from rest at 3 m s⁻². Its velocity after traveling a distance of 24 m is",
+    "option": {
+      "a": "12 m s⁻¹",
+      "b": "144 m s⁻¹",
+      "c": "72 m s⁻¹",
+      "d": "36 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial velocity, u = 0 m s⁻¹\nAcceleration, a = 3 m s⁻²\nDistance, s = 24 m\n\nSolution:\n\nStep 1: Choose the appropriate kinematic equation\nv² = u² + 2as\n\nStep 2: Substitute the values\nv² = 0² + 2 × 3 × 24 = 144\n\nStep 3: Solve for v\nv = √144 = 12 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1086,
     "question": "An object of weight 8kg on earth is taken to a planet where acceleration due to gravity is one-third of its value on earth. The weight of the object on the planet is",
     "option": {
@@ -7756,6 +8124,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nHalf‑life, T₁/₂ = 138.5 s\n\nSolution:\n\nStep 1: Relationship between decay constant and half‑life\nλ = ln 2 / T₁/₂\n\nStep 2: Substitute ln 2 ≈ 0.693\nλ = 0.693 / 138.5\n\nStep 3: Calculate\n0.693 ÷ 138.5 = 0.0050036 ≈ 5.00 × 10⁻³ s⁻¹",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1150,
+    "question": "What form of energy is present in the food we eat?",
+    "option": {
+      "a": "Kinetic",
+      "b": "Mechanical",
+      "c": "Potential",
+      "d": "Chemical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Food stores energy in chemical bonds, released during metabolism.",
     "examtype": "utme",
     "examyear": "2025"
   },
