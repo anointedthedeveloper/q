@@ -5312,6 +5312,22 @@
     "examyear": "2014"
   },
   {
+    "id": 372,
+    "question": "Which of the following items is not contained in the Receipts and Payments Account?",
+    "option": {
+      "a": "Subscription paid in advance",
+      "b": "tock paid for in advance",
+      "c": "Outstanding wages and salaries",
+      "d": "Donations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 374,
     "question": "When shares are issued above their nominal value, the \texcess above the nominal value is",
     "option": {
@@ -5881,6 +5897,22 @@
       "d": "profitability"
     },
     "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 413,
+    "question": "The gross profit on manufacture is",
+    "option": {
+      "a": "N 6,120",
+      "b": "N 6,100",
+      "c": "N 5,100",
+      "d": "N 5,000"
+    },
+    "section": "Materials consumed \t[N 16,600 ]; Direct cost  [N 5,400 ]; Factory rent  [N 2,300 ]; Factory lighting \t[N 1,200]. Cost of production to be transferred at cost plus 20% mark-up.",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -11584,6 +11616,22 @@
     "examyear": "2021"
   },
   {
+    "id": 814,
+    "question": "Using the same departmental information where the organization apportions expenses in the proportion 60:40 for departments A and B respectively, and given that the total depreciation is ₦1,000 with Department A already allocated ₦600 for depreciation, what is the depreciation to be charged to Department B?",
+    "option": {
+      "a": " ₦500",
+      "b": "₦300",
+      "c": "₦400",
+      "d": " ₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The depreciation to be charged to Department B can be calculated in two ways:\nMethod 1 - By difference:\nTotal depreciation - Department A's depreciation = ₦1,000 - ₦600 = ₦400\nMethod 2 - By proportion:\nDepartment B's share = 40% of ₦1,000 = ₦400",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 815,
     "question": "The accounting method that reports incomes when earned and expenses when incurred is called",
     "option": {
@@ -13644,6 +13692,22 @@
     "image": "",
     "answer": "b",
     "solution": "Ordinary shares represent an ownership stake in the company and are classified as part of shareholders’ equity on the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 962,
+    "question": "A person who prepares, analyses and interprets financial statements is known as a/an",
+    "option": {
+      "a": "cashier",
+      "b": "book keeper",
+      "c": "accountant",
+      "d": "analyst"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An accountant reviews and analyses financial records, keeping track of a company's or individual's income, expenditures, and tax liabilities. An accountant may also be involved in project planning, cost analysis, auditing, and financial decision-making.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -16048,6 +16112,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1135,
+    "question": "<b>Use the information below to answer questions 20 and 21.</b>\n\nCredit purchases are always put at 150% of the total cash paid to suppliers\n\nDetermine the credit purchases",
+    "option": {
+      "a": "₦13 500",
+      "b": "₦15 500",
+      "c": "₦13 400",
+      "d": "₦12 000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663260/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q20-21_gg4bum.png",
+    "answer": "d",
+    "solution": "Calculation:\nCredit purchases = 150% × Cash paid to suppliers\nCredit purchases = 150% × ₦8,000\nCredit purchases = 1.5 × ₦8,000\nCredit purchases = ₦12,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1137,
     "question": "The stock valuation data is important because it enables management to?",
     "option": {
@@ -17100,6 +17180,22 @@
     "image": "",
     "answer": "d",
     "solution": "Reason: control accounts summarise totals from subsidiary books (like sales/purchases ledgers) and are used to check that the individual postings into the ledger agree with those subsidiary totals.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1208,
+    "question": "keeping records under the single entry system has the advantage of?",
+    "option": {
+      "a": "quality in terms of records",
+      "b": "completeness in terms of records",
+      "c": "accuracy in terms of operation",
+      "d": " simplicity in terms of operation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: single-entry is easy and simple to operate (less paperwork), though it sacrifices completeness and accuracy.",
     "examtype": "utme",
     "examyear": "2002"
   },
