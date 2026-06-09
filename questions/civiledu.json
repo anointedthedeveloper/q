@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "Who among the following could be described as the founding father of Nigerian nationalism?",
+    "option": {
+      "a": "Nnamdi Azikiwe",
+      "b": "Herbert Macauley",
+      "c": "Ahmadu Bello",
+      "d": "Obafemi Awolowo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 7,
     "question": "Cultism can be described to be",
     "option": {
@@ -715,6 +731,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 93,
+    "question": "The public Service is a branch of the ____ arm of government",
+    "option": {
+      "a": "civilian",
+      "b": "executive",
+      "c": "judiciary",
+      "d": "legislative"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2014"
@@ -1632,6 +1664,22 @@
     "examyear": "2012"
   },
   {
+    "id": 196,
+    "question": "Before crossing the road you are expected to ...........",
+    "option": {
+      "a": "Look left and then right",
+      "b": "Look left, right and left again",
+      "c": "Look back and left",
+      "d": "Look forward for oncoming okada"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 197,
     "question": ".............. was the capital of Nigeria before .................",
     "option": {
@@ -1803,6 +1851,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 216,
+    "question": "The use of drugs through self - medication or without due medical prescription is referred to as",
+    "option": {
+      "a": "Personal drug administration",
+      "b": "Drug abuse",
+      "c": "Human right abuse",
+      "d": "Drug trafficking"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -2139,6 +2203,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 266,
+    "question": "If you were to be in the Governor’s shoes which of the following would you have chosen?",
+    "option": {
+      "a": "Miranda and seven up",
+      "b": "coca cola and Fanta",
+      "c": "petroleum",
+      "d": "stock, bonds and cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -3088,6 +3168,22 @@
     "examyear": "2016"
   },
   {
+    "id": 384,
+    "question": "Dr. Fajir cannot exercise some basic rights because he",
+    "option": {
+      "a": "was a suspect in a criminal case",
+      "b": "was found guilty of a criminal offence",
+      "c": "failed to comply with court order",
+      "d": "embezzled public fund"
+    },
+    "section": "Dr. Fajir was the Minister of Works and Urban Development in the Gambia Republic. As such, he was entrusted with the public fund so that his ministry could construct new roads and rehabilitate the existing ones. Unfortunately. Dr Fajir embezzled the money entrusted in his care and siphoned same to his foreign accounts. This led to the deplorable conditions of roads in the Republic. The Crime Commission arrested and prosecuted him accordingly. Subsequently, he was given the opportunity to be defended by lawyers of his choice in a Court of Law. However, he was found guilty and sentenced to 15 years imprisonment with hard labour without the option of a fine. In addition, he forfeited all his ill-gotten wealth to the Republic.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
     "id": 385,
     "question": "According to the above story, the open trial of Dr. Fajir and his representation by lawyers of his choice in a court of competent jurisdiction is an indication of",
     "option": {
@@ -3463,6 +3559,22 @@
       "b": "bilateral relations",
       "c": "inter-communal relations",
       "d": "interpersonal relations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 422,
+    "question": "A bill passed by the National Assembly requires the assent of the president before it becomes law. The law can be declared null and void by the court of law. The process above emphasizes the",
+    "option": {
+      "a": "supremacy of judiciary over other arms of government",
+      "b": "relationship among the arms of government",
+      "c": "importance of law makers in a democracy",
+      "d": "fundamentals of the rule of law."
     },
     "section": "",
     "image": "",
