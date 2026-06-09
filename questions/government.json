@@ -384,6 +384,22 @@
     "examyear": "2007"
   },
   {
+    "id": 29,
+    "question": "All but one of these is not an agency of political socialization ",
+    "option": {
+      "a": "the constitution ",
+      "b": "the family ",
+      "c": "peer group ",
+      "d": "schools "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 30,
     "question": "All but one of these is not a tactic adopted by pressure groups in the pursuit of their objectives ",
     "option": {
@@ -2352,6 +2368,22 @@
     "examyear": "2013"
   },
   {
+    "id": 201,
+    "question": "The rule of law refers to the principle of",
+    "option": {
+      "a": "legality and impartiality",
+      "b": "the supreme power of rulers.",
+      "c": "the immunity of judges from legal actions.",
+      "d": "the orderly execution of government policies."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 202,
     "question": "Freedom of speech is a fundamental human right enjoyed by citizens but it may be limited if",
     "option": {
@@ -3655,6 +3687,38 @@
       "b": "presidential pardon",
       "c": "legislative intervention",
       "d": "writ of habeas corpus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 323,
+    "question": "Legislative control over delegated legislation can be performed through",
+    "option": {
+      "a": "withdrawal of delegated powers by the judiciary",
+      "b": "nullification of unconstitutional legislation",
+      "c": "investigation into the exercise of delegated powers",
+      "d": "approval of legislation by the Chief Justice."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 324,
+    "question": "The feature which best differentiates pressure group from political parties is that they do not",
+    "option": {
+      "a": "have interest in politics",
+      "b": "seek to influences public opinion",
+      "c": "have permanent organization",
+      "d": "nominate ministers"
     },
     "section": "",
     "image": "",
@@ -6592,6 +6656,22 @@
     "examyear": "2014"
   },
   {
+    "id": 577,
+    "question": "Before 1945, the component units of Nigeria were",
+    "option": {
+      "a": "districts",
+      "b": "provinces",
+      "c": "states",
+      "d": "regions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 578,
     "question": "Nationalists agitation began in Nigeria with the",
     "option": {
@@ -8155,6 +8235,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 722,
+    "question": "Which of the following countries is not a member of the Economic Community of West African States (ECOWAS)?",
+    "option": {
+      "a": "Nigeria",
+      "b": "Cameroun",
+      "c": "Ghana",
+      "d": "Togo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
@@ -9760,6 +9856,22 @@
     "examyear": "2019"
   },
   {
+    "id": 860,
+    "question": "The most representative organ of the united nations is the_______",
+    "option": {
+      "a": " General Assembly",
+      "b": "Security Council",
+      "c": "Economic and Social Council",
+      "d": " International Court of Justice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "General Assembly. The UN General Assembly comprises the Heads of State and Government of all the State Parties in the UN body.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 861,
     "question": "Executive Council of the African Union makes decision by_______",
     "option": {
@@ -9932,6 +10044,22 @@
     "image": "",
     "answer": "a",
     "solution": "In a capitalist system, there is a clear differentiation gap between the ruling class and the ruled or the proletarates.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 872,
+    "question": "One of the following reasons is unlikely to necessitate the emergence of a federal system?",
+    "option": {
+      "a": "social factors",
+      "b": "geographical factors",
+      "c": "cultural diversity",
+      "d": "political sovereignty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Other options are necessary reasons for the adoption of a federal system except for sake of defining or strengthening the political sovereignty which invariably belongs to the citizens.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -10124,6 +10252,22 @@
     "image": "",
     "answer": "d",
     "solution": "In 1923, Nigerians were first elected to the legislative council in British West Africa. ",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 891,
+    "question": "While pressure groups aim at influencing government decisions, the primary aim of political parties is to ______",
+    "option": {
+      "a": " promote the welfare of their members",
+      "b": "execute particular programmes",
+      "c": "influence legislation in order to benefit their members",
+      "d": "control political power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A political party is defined as an organized group of citizens, who act together as a political unit, who act together as a political unit, having distinctive aims and objectives involving political questions in the state and acting together and seeking to obtain control of government",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -13088,6 +13232,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1160,
+    "question": "A law passed by the legislature and assented by the executive is",
+    "option": {
+      "a": "an act",
+      "b": "a presidential proclamation",
+      "c": "a decree",
+      "d": "a legislative order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A law passed by the legislature and assented by the executive is an act.\n\nDecree is a law made by the Federal Military Government.\n\nState And People by J.O. Murray (1961) defined Act as the name given to a Bill after it has passed through Parliament and become law. For instance Parliament. Act, 1911 (in British Constitution) which restricted the powers of the House of Lords.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1161,
     "question": "One of the features of a sovereign state is that it",
     "option": {
@@ -13456,6 +13616,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1188,
+    "question": "Professor Ibrahim Gambari is the Special Assistant to the United Nations Secretary General on",
+    "option": {
+      "a": "African affairs",
+      "b": "political and social matters",
+      "c": "the Economic Commission of Africa",
+      "d": "security matters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Professor Ibrahim Gambari served as the Under-Secretary-General and Special Adviser on Africa to the United Nations Secretary-General.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1189,
     "question": "Who among the following served as Secretary General of OPEC?",
     "option": {
@@ -13804,6 +13980,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Eastern and Western regions of Nigeria achieved the status of self-government in 1957.\n\nWestern Region: Attained self-government on August 8, 1957, under the leadership of Chief Obafemi Awolowo.\n\nEastern Region: Followed shortly after, gaining self-government on October 1, 1957, led by Dr. Nnamdi Azikiwe.\n\nThis milestone was part of Nigeria's gradual decolonization process under British rule, culminating in the country's full independence on October 1, 1960. The Northern Region achieved self-government later, in 1959, due to its more cautious approach to political reforms.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1219,
+    "question": "One of the legacies of pre-colonial Nigeria destroyed by the British was the",
+    "option": {
+      "a": "peace and harmony in the land",
+      "b": "indigenous cultures of the people",
+      "c": "education of the local people",
+      "d": "nation's farmlands"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "One of the legacies of pre-colonial Nigeria destroyed by the British was the indigenous cultures of the people.\n\nWhen British people first came to Nigeria, they saw and regarded many aspects of the peoples' way of life as crude and ungodly. They then destroyed and replaced them with their own. Such were religion, mode of dressing, etc.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -16620,6 +16812,22 @@
     "image": "",
     "answer": "d",
     "solution": "In a presidential system of government, the executive and legislative branches are distinct and independent from each other. Both the president (executive) and the members of the legislature are elected separately by the populace. Additionally, they serve fixed terms in office, meaning their tenure is predetermined and not subject to arbitrary dismissal by the other branch. This structure ensures a clear separation of powers and a system of checks and balances between the branches.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1479,
+    "question": "Which of these constitutions recognised local government as a third tier of government in Nigeria?",
+    "option": {
+      "a": "1960 Constitution",
+      "b": "1963 Constitution",
+      "c": "1979 Constitution",
+      "d": "1946 Constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The 1979 Constitution of Nigeria recognised local government as the third tier of government. This was a significant development in Nigeria's constitutional history, as it formalised the structure and functions of local governments, granting them autonomy and recognition alongside the federal and state governments. The earlier constitutions, such as the 1960 and 1963 constitutions, did not provide for local governments as a distinct tier, and the 1946 Constitution primarily focused on colonial administration without recognizing local governments in this way.",
     "examtype": "utme",
     "examyear": "2015"
   },
