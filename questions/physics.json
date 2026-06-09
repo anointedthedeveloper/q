@@ -560,6 +560,22 @@
     "examyear": "2010"
   },
   {
+    "id": 92,
+    "question": " A body of mass m slides down an inclined plane with a constant velocity. If the angle of the incline is Ø, the coefficient of kinetic friction between the body and the plane is  ",
+    "option": {
+      "a": "cot Ø ",
+      "b": "cos Ø  ",
+      "c": "tan Ø  ",
+      "d": "sine Ø"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 96,
     "question": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)  ",
     "option": {
@@ -1008,6 +1024,22 @@
     "examyear": "2016"
   },
   {
+    "id": 190,
+    "question": "A wire of length 10m is cooled from 50oC to 10oC. Calculate the decrease in the length of the wire. [c = 3 x 10-5K-1]",
+    "option": {
+      "a": "1.8 x  10⁻⁴ m",
+      "b": "1.5 x  10⁻⁴ m",
+      "c": "1.2 x 10⁻² m",
+      "d": "1.8 x 10⁻³m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nOriginal length (L₀) = 10 m\nInitial temperature (T₁) = 50°C\nFinal temperature (T₂) = 10°C\nLinear expansivity (α) = 3 × 10⁻⁵ K⁻¹\nDecrease in length (ΔL) = ?\n\nStep 1: Calculate temperature change\nΔT = T₁ - T₂ = 50°C - 10°C = 40°C = 40 K\nStep 2: Use linear expansion formula\nΔL = αL₀ΔT\nStep 3: Substitute values\nΔL = 3 × 10⁻⁵ × 10 × 40\nΔL = 3 × 10⁻⁵ × 400\nΔL = 1200 × 10⁻⁵\nΔL = 1.2 × 10⁻² m\nAnswer: C. 1.2 × 10⁻² m",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 192,
     "question": "The rate of cooling of a heated quantity of liquid in an enclosure depends on the",
     "option": {
@@ -1344,6 +1376,22 @@
     "examyear": "2017"
   },
   {
+    "id": 262,
+    "question": "Which of the following surfaces will absorb radiant heat energy?",
+    "option": {
+      "a": "white",
+      "b": "red",
+      "c": "black",
+      "d": "blue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A black solution is a better radiator of heat and allow a better absorber of heat.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 263,
     "question": "It is known that a neutron exists in a light atomic nucleus\nWhich of the following also exists in the nucleus?",
     "option": {
@@ -1564,6 +1612,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nMass of bullet (m₁) = 0.05 kg\nInitial velocity of bullet (u₁) = 200 m/s\nMass of block (m₂) = 0.95 kg\nInitial velocity of block (u₂) = 0 m/s (at rest)\nFinal kinetic energy = ?\n\nThis is an inelastic collision (bullet embeds in block)\nStep 1: Find final velocity using conservation of momentum\nm₁u₁ + m₂u₂ = (m₁ + m₂)v\n0.05 × 200 + 0.95 × 0 = (0.05 + 0.95)v\n10 + 0 = 1.0v\nv = 10 m/s\nStep 2: Calculate final kinetic energy\nKE_final = ½(m₁ + m₂)v²\nKE_final = ½ × 1.0 × (10)²\nKE_final = ½ × 1.0 × 100\nKE_final = 50 J",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 304,
+    "question": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 30V and 40V respectively. What is the voltage across the capacitor?",
+    "option": {
+      "a": "30V",
+      "b": "70V",
+      "c": "50V",
+      "d": "40V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "At resonance in a series R-L-C circuit, the voltage across the capacitor equals that across the inductor. Given VL\n = 40V, the voltage across the capacitor (VC\n​) is also 40V.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2320,6 +2384,22 @@
     "examyear": "2021"
   },
   {
+    "id": 459,
+    "question": "A 2H inductor has negligible resistance and is connected to a 50/π Hz A.C supply. The reactance of the inductor is?",
+    "option": {
+      "a": "200Ω",
+      "b": "50Ω",
+      "c": "100πΩ",
+      "d": "25πΩ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInductance (L) = 2 H\nFrequency (f) = 50/π Hz\nInductive reactance (X_L) = ?\n\nFormula for inductive reactance:\nX_L = 2πfL\nSubstituting values:\nX_L = 2π × (50/π) × 2\nX_L = 2 × 50 × 2\nX_L = 200 Ω\nSimplification:\nThe π in the numerator (from 2π) cancels with the π in the denominator (from 50/π):\nX_L = 2 × 50 × 2 = 200 Ω",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 462,
     "question": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is?",
     "option": {
@@ -2380,6 +2460,22 @@
     "image": "",
     "answer": "c",
     "solution": "nitial velocity, u = 0 m/s (starts from rest)\nDistance, s = 40 m\nTime, t = 10 s\nAcceleration, a = ?\n\nSolution:\nUsing the equation of motion:\ns = ut + ½at²\nStep 1: Substitute the known values\n40 = (0)(10) + ½a(10)²\n40 = 0 + ½a(100)\n40 = 50a\nStep 2: Solve for acceleration\na = 40/50\na = 0.80 m/s²",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 467,
+    "question": "The relationship between the coefficient of linear expansion α and volumetric expansion (γ) is-----------------",
+    "option": {
+      "a": "γ = α⁻³",
+      "b": "γ = α",
+      "c": "γ = 3α",
+      "d": "γ = α³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Consider expansion in three dimensions\nFor a solid with initial dimensions L₀ × L₀ × L₀:\n\nInitial volume, V₀ = L₀³\n\nStep 2: Apply linear expansion to each dimension\nAfter temperature change ΔT:\n\nNew length in each dimension = L₀(1 + αΔT)\n\nStep 3: Calculate new volume\nV = [L₀(1 + αΔT)]³\nV = L₀³(1 + αΔT)³\nStep 4: Expand binomially (neglecting higher order terms)\nV = L₀³(1 + 3αΔT + 3α²ΔT² + α³ΔT³)\nSince α is very small (typically 10⁻⁵ to 10⁻⁶), higher powers can be ignored:\nV ≈ L₀³(1 + 3αΔT)\nV = V₀(1 + 3αΔT)\nStep 5: Compare with volumetric expansion formula\nStandard volumetric expansion: V = V₀(1 + γΔT)\nComparing both equations:\nγ = 3α",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -2572,6 +2668,22 @@
     "image": "",
     "answer": "c",
     "solution": "An intrinsic semiconductor, also called an undoped semiconductor, is a pure semiconductor. In intrinsic semiconductors the number of excited electrons and the number of holes are equal: n = p",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 512,
+    "question": "\nThe surface temperature of a swimming pool on a warm day is 25ºC and the temperature at the bottom is 15ºC. If the swimming pool has a surface area of 620 m² and a depth of 1.5m. Find the rate at which energy is transferred by conduction from the surface to the bottom of the swimming pool. [Thermal conductivity of water (k) = 0.6071 Wm⁻¹K⁻¹]",
+    "option": {
+      "a": "2.5 kW",
+      "b": "250 kW",
+      "c": "300 kW",
+      "d": "3.0 kW"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nSurface temperature, T₁ = 25°C\nBottom temperature, T₂ = 15°C\nTemperature difference, ΔT = 25 - 15 = 10°C = 10 K\nSurface area, A = 620 m²\nDepth (thickness), d = 1.5 m\nThermal conductivity, k = 0.6071 W m⁻¹ K⁻¹\nRate of heat transfer, Q/t = ?\n\nSolution:\nUsing the thermal conduction formula:\nQ/t = kA(ΔT)/d\nStep 1: Substitute the known values\nQ/t = (0.6071 × 620 × 10)/1.5\nStep 2: Calculate the numerator\nQ/t = (0.6071 × 620 × 10)/1.5\nQ/t = (376.402 × 10)/1.5\nQ/t = 3764.02/1.5\nStep 3: Calculate the rate of heat transfer\nQ/t = 2509.35 W\nQ/t ≈ 2509 W\nStep 4: Convert to kilowatts\nQ/t = 2509/1000\nQ/t ≈ 2.5 kW",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3120,6 +3232,22 @@
     "examyear": "2004"
   },
   {
+    "id": 638,
+    "question": "When left in a freezer, a bottle full of water cracks on freezing into ice because of the",
+    "option": {
+      "a": "increase in the volume of water",
+      "b": " contraction of the bottle",
+      "c": " expansion of the bottle",
+      "d": " decrease in the volume of water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nThe bottle cracks due to increase in the volume of water when it freezes.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 641,
     "question": "Tea pots are often silver-coated to prevent heat loss by",
     "option": {
@@ -3312,6 +3440,22 @@
     "examyear": "2005"
   },
   {
+    "id": 668,
+    "question": "A 3 m³ volume of liquid W of density 200 kg m⁻³ is mixed with another liquid L of volume 7 m³ and density 150 kg m⁻³. The density of the mixture is?",
+    "option": {
+      "a": "165 kg m⁻³",
+      "b": "100 kg m⁻³",
+      "c": "265 kg m⁻³",
+      "d": "350 kg m⁻³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nVolume of liquid W, V_W = 3 m³\nDensity of liquid W, ρ_W = 200 kg m⁻³\nVolume of liquid L, V_L = 7 m³\nDensity of liquid L, ρ_L = 150 kg m⁻³\n\nStep 1: Compute total mass\nMass of W: m_W = ρ_W × V_W = 200 × 3 = 600 kg\nMass of L: m_L = ρ_L × V_L = 150 × 7 = 1050 kg\nTotal mass: m_total = 600 + 1050 = 1650 kg\n\nStep 2: Compute total volume\nTotal volume: V_total = V_W + V_L = 3 + 7 = 10 m³\n\nStep 3: Compute density of mixture\nDensity ρ_mix = m_total / V_total = 1650 / 10 = 165 kg m⁻³",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 670,
     "question": "The process whereby the molecules of different substances move randomly is called?",
     "option": {
@@ -3340,6 +3484,22 @@
     "image": "",
     "answer": "d",
     "solution": "Evaporation is a process by which molecules undergo a spontaneous transition from the liquid phase to the gaseous phase",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 673,
+    "question": "Which combination of the above is evident of the molecular nature of matter?\nI. Melting\nII. Boiling\nIII. Refraction\nIV. Conduction",
+    "option": {
+      "a": "II, III and IV only",
+      "b": "I, II and IV only",
+      "c": "I, III and IV only",
+      "d": "I, II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "I. Melting: Solid to liquid transition; molecules gain energy to overcome fixed positions, showing molecular motion and interactions.\n\nII. Boiling: Liquid to gas transition; molecules gain enough energy to break intermolecular forces, demonstrating molecular kinetic energy and forces.\n\nIV. Conduction: Heat transfer via molecular collisions (or electron movement), directly showing molecular motion and energy transfer.                           Melting, boiling, and conduction are direct evidence of the molecular nature of matter.",
     "examtype": "utme",
     "examyear": "2005"
   },
