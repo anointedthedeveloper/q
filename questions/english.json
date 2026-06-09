@@ -247,6 +247,25 @@
     "category": "others"
   },
   {
+    "id": 15,
+    "question": "Classmate……………………….  I haven't seen for years, wrote to me last week.",
+    "option": {
+      "a": "whose ",
+      "b": "which ",
+      "c": "that",
+      "d": " whom"
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 17,
     "question": "Ali plays ……….violin with remarkable skill",
     "option": {
@@ -3089,6 +3108,25 @@
     "section": "choose the option that best completes the gap(s)",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 205,
+    "question": "By the end of the football match today, we ……. the best player",
+    "option": {
+      "a": "could have known  ",
+      "b": "might have known",
+      "c": "will have known ",
+      "d": "would have known "
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005",
@@ -11780,6 +11818,25 @@
     "category": "others"
   },
   {
+    "id": 879,
+    "question": "The man BOUGHT the newspaper.",
+    "option": {
+      "a": "Is this the newspaper which the man bought?",
+      "b": "Did the man read the newspaper?",
+      "c": "Who bought the newspaper?",
+      "d": "What did the man buy?"
+    },
+    "section": "<b>In each of questions 81 to 85, the word in capital letters has the emphatic stress. Choose the option that best fits the expression in the sentence.</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "In answering questions on emphatic stress, the correct answer is usually the one that contradicts the statement.\n\noption A clearly state the newspaper was bought by the man\n\noption B has emphasis on the word read\n\noption C has its emphasis on the person who bought the paper\n\noption D has its emphatic stress on what was bought (newspaper).  All the options except B has the emphasis of buying the newspaper. Therefore option B best explains the above statement.",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 83,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 880,
     "question": "The university has been TEMPORARILY closed.",
     "option": {
@@ -12194,6 +12251,25 @@
     "examtype": "utme",
     "examyear": "2011",
     "questionNub": 32,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 928,
+    "question": "Okon's company took a hit last year?",
+    "option": {
+      "a": "His company improved last year",
+      "b": "His company made a huge success last year",
+      "c": "His company was badly damaged last year",
+      "d": "His company was established last year"
+    },
+    "section": "<b>LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of the questions 26 to 33, select the option \nthat best explains the information conveyed in \nthe sentence.",
+    "image": "",
+    "answer": "c",
+    "solution": "To suffer heavy losses or be badly affected (by something). ",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 33,
     "hasPassage": 0,
     "category": "others"
   },
@@ -14208,6 +14284,25 @@
     "examtype": "utme",
     "examyear": "2012",
     "questionNub": 78,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1073,
+    "question": "This professor of...........medicine has......... the mystery of bird flu.",
+    "option": {
+      "a": "vetinary/unraveled",
+      "b": "vertrinary/unravelled",
+      "c": "veterinaty/unravelved",
+      "d": "veterinary/unravelled"
+    },
+    "section": "<b>In each of the question 66 to 85 choose the option that best completes the gap(s)</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "veterinary; relating to the diseases, injuries, and treatment of farm and domestic animals.\n\nunraveled; investigate and solve or explain something.\n\nThis professor of  veterinary medicine has unraveled the mystery of bird flu.",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 79,
     "hasPassage": 0,
     "category": "others"
   },
@@ -17590,6 +17685,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 36,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1350,
+    "question": "Mr Cham will never tell you everything, he is very ________",
+    "option": {
+      "a": "secretive",
+      "b": "quiet",
+      "c": "reserved",
+      "d": "realistic"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "a",
+    "solution": "For one who never tells you everything, 'Secrecy' best completes the sentence above.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 37,
     "hasPassage": 0,
     "category": "others"
   },
@@ -23959,6 +24073,25 @@
     "category": "others"
   },
   {
+    "id": 1810,
+    "question": "C<u>oo</u>l.",
+    "option": {
+      "a": "Should.",
+      "b": "Full.",
+      "c": "Luke.",
+      "d": "Look."
+    },
+    "section": "Choose the option that has the same vowel sound as the one represented by the letter underlined.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "cool; /kuːl/\n\nLuke; /lu:k/",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1811,
     "question": "Od<u>our</u>.",
     "option": {
@@ -24012,6 +24145,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 54,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1814,
+    "question": "<u>Gn</u>ash.",
+    "option": {
+      "a": "Ring.",
+      "b": "Forge.",
+      "c": "New.",
+      "d": "King."
+    },
+    "section": "Choose the option that has the same consonant sound as the one represented by the letter underlined. ",
+    "image": "",
+    "answer": "c",
+    "solution": "The word ''gnash'' is pronouced as [naʃ], meaning the ''g'' is silent which gives it the ''N'' sound. NEW therefore has the same consonant sound as GNASH from the above options. ",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 55,
     "hasPassage": 0,
     "category": "others"
   },
