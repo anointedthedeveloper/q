@@ -9776,6 +9776,22 @@
     "examyear": "2017"
   },
   {
+    "id": 635,
+    "question": "Which of these is the main source document for recording cash paid into bank?",
+    "option": {
+      "a": "invoice",
+      "b": "cheque book",
+      "c": "credit note",
+      "d": "pay-in-slip"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Pay-in-slip:this is in form of a slip designed with the name of the bank on top that has dates amounts in figure and word, column for the denomination of money paid in signature bank teller, stamp to prove the money is deposited into the bank",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 636,
     "question": "Given:\nI. It records subscription in arrears\nII. Payments of liabilities is effected\nIII. The account does not show if cash payment is revenue or capital expenditure\nIV. It performs the same function as cashbook\nThe features of receipts and payment account includes",
     "option": {
@@ -17868,6 +17884,22 @@
     "image": "",
     "answer": "b",
     "solution": "Reason: a bank reconciliation compares the cash book with the bank statement, identifying and explaining differences (unpresented cheques, uncredited lodgements, bank charges, etc.) to ensure the cash book balance is accurate.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1171,
+    "question": "(i) Fixtures account \n(ii) Machinery account\n(iii) Wages accounts \n(iv) Rent account.\n\nWhich of the above are nominal account?",
+    "option": {
+      "a": " iii and iv",
+      "b": " i and ii",
+      "c": " i and iii",
+      "d": "ii and iii"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Wages and rent are nominal (expense) accounts. Fixtures and machinery are real (asset) accounts.",
     "examtype": "utme",
     "examyear": "2002"
   },
