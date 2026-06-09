@@ -1856,6 +1856,22 @@
     "examyear": "2004"
   },
   {
+    "id": 126,
+    "question": "What volume of gas is evolved at s.t.p. if 2g of calcium trioxocarbonate(IV) is added to a solution of hydrochloric acid    [Ca = 40, C = 12, O = 16, CI = 35.5, H = 1, Molar volume of a gas at s.t.p = 22.4dm3]",
+    "option": {
+      "a": "112cm3",
+      "b": "224cm3",
+      "c": "448cm3",
+      "d": "224cm3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 127,
     "question": "According to Charles  law, the volume of a gas becomes zero at",
     "option": {
@@ -4924,6 +4940,22 @@
     "image": "",
     "answer": "b",
     "solution": "A photon is a quantum (particle) of electromagnetic energy, not a type of electromagnetic wave. White light, X-rays, and infrared radiation are all types of electromagnetic waves within the electromagnetic spectrum.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 335,
+    "question": "Cu₂S(s) + O₂(g) = 2Cu(s) + SO₂(g). \n\nIn the above reaction, the oxidation number of Cu changes from ___ to ___?",
+    "option": {
+      "a": "+1 to 0",
+      "b": "0 to +2",
+      "c": "+2 to +1",
+      "d": "0 to +1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In Cu₂S, copper has oxidation number +1 (since S is -2 and there are 2 Cu atoms: 2x + (-2) = 0, x = +1). In the product Cu(s), copper is in its elemental state with oxidation number 0. Therefore Cu changes from +1 to 0 (reduction).",
     "examtype": "utme",
     "examyear": "2015"
   },
