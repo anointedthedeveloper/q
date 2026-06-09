@@ -864,6 +864,22 @@
     "examyear": "2009"
   },
   {
+    "id": 65,
+    "question": "A man of mass 50kg ascends a flight of stair 5m high in 5 seconds. If acceleration due to gravity is 10ms-2 the power expanded is ",
+    "option": {
+      "a": "100W ",
+      "b": "300W ",
+      "c": "250W ",
+      "d": "500W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 66,
     "question": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of ",
     "option": {
@@ -1964,6 +1980,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nMass of first planet (m₁) = 10²⁴ kg\nMass of second planet (m₂) = 10²⁷ kg\nDistance between planets (r) = 10²⁰ meters\nGravitational constant (G) = 6.67 × 10⁻¹¹ Nm²/kg²\n\nFormula for Gravitational Force:\nF = G(m₁m₂)/r²\nSubstituting values:\nF = (6.67 × 10⁻¹¹ × 10²⁴ × 10²⁷)/(10²⁰)²\nF = (6.67 × 10⁻¹¹ × 10⁵¹)/(10⁴⁰)\nF = (6.67 × 10⁴⁰)/(10⁴⁰)\nF = 6.67 N\nAnswer: A. 6.67N",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 145,
+    "question": "Mr. F. Abioye observed his image through a plane mirror, kept at a distance 4.7m away from him in his room. At what distance is the image found from Abioye's eye?",
+    "option": {
+      "a": "9.4m",
+      "b": "7.5m",
+      "c": "5.7m",
+      "d": "6.9m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDistance between Mr. Abioye and the plane mirror = 4.7 m\n\nProperty of plane mirror:\nIn a plane mirror, the image is formed at the same distance behind the mirror as the object is in front of the mirror.\nStep 1: Find the distance of image from the mirror\nDistance of image from mirror = Distance of object from mirror = 4.7 m\nStep 2: Calculate total distance from Abioye's eye to the image\nTotal distance = Distance from Abioye to mirror + Distance from mirror to image\nTotal distance = 4.7 m + 4.7 m = 9.4 m\nDiagram:\nAbioye ← 4.7m → Mirror ← 4.7m → Image\n|←———— 9.4m ————→|",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3292,6 +3324,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nSolution:\nGiven information:\n\nThree resistors: R₁ = R₂ = R₃ = 3Ω\nConnected in parallel\nEquivalent resistance (Rₑq) = ?\n\nFormula for resistors in parallel:\n1/Rₑq = 1/R₁ + 1/R₂ + 1/R₃\nSubstituting values:\n1/Rₑq = 1/3 + 1/3 + 1/3\n1/Rₑq = 3/3\n1/Rₑq = 1\nTherefore:\nRₑq = 1Ω",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 242,
+    "question": "Which of the following instruments helps to maintain the correct humidity and temperature of a building?",
+    "option": {
+      "a": "A compressor",
+      "b": "A refrigerator",
+      "c": " Air blower",
+      "d": "Air conditioner"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An air conditioner maintains the correct humidity and temperature of a building by cooling/heating the air and controlling moisture levels.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -7904,6 +7952,22 @@
     "examyear": "2024"
   },
   {
+    "id": 579,
+    "question": "The distance between two successive crests of a water wave is 0.25m. If a particle on the surface of the water makes four complete vertical oscillations in one second. Calculate the speed of the wave.",
+    "option": {
+      "a": "4ms⁻¹",
+      "b": "3ms⁻¹",
+      "c": " 2ms⁻¹",
+      "d": " 1ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nDistance between successive crests (wavelength), λ = 0.25 m\nNumber of oscillations per second (frequency), f = 4 Hz\nWave speed, v = ?\n\nSolution:\nStep 1: Identify wave parameters\n\nWavelength: λ = 0.25 m (distance between crests)\nFrequency: f = 4 Hz (4 oscillations per second)\n\nStep 2: Apply wave equation\nv = fλ\nStep 3: Substitute the known values\nv = 4 × 0.25\nStep 4: Calculate wave speed\nv = 1 m/s",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 580,
     "question": "The thermometer whose thermometric property is change in volume with temperature is ",
     "option": {
@@ -8124,6 +8188,22 @@
     "image": "",
     "answer": "b",
     "solution": "Faraday's second law states that the masses of different substances deposited or liberated by the same quantity of electricity are directly proportional to the chemical equivalents of the substances.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 595,
+    "question": "If the rate of evaporation is y, and the rate of condensation is x, then, a vapour is saturated when",
+    "option": {
+      "a": " x > y",
+      "b": "x < y",
+      "c": "x = y",
+      "d": "x ≤ y"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A vapour is saturated when the rate of condensation (x) equals the rate of evaporation (y), establishing a dynamic equilibrium where there is no net change in the amount of vapour present.",
     "examtype": "utme",
     "examyear": "2024"
   },
