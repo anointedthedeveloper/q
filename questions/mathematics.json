@@ -9200,6 +9200,22 @@
     "examyear": "2010"
   },
   {
+    "id": 598,
+    "question": "At what value of X does the function y = -3 - 2x + X2 attain a minimum value?",
+    "option": {
+      "a": "-1",
+      "b": "14",
+      "c": "4",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given that y = -3 - 2x + X<sup>2</sup>\n\nthen, dy/dx = -2 + 2x\n\nAt maximum value, dydx = O\n\ntherefore, -2 + 2x\n\n2x = 2\n\nx = 2/2 = 1",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 599,
     "question": "Find the equation of a line parallel to y = -4x + 2 passing through (2,3)",
     "option": {
