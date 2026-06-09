@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 4,
+    "question": "If M and R are the mass and radius of the earth respectively and G is the universal gravitational constant, the earth’s gravitational potential at an altitude H above the ground level is: ",
+    "option": {
+      "a": "A.-GM/H ",
+      "b": "–GM/(R+H) ",
+      "c": "C. -GM/2H ",
+      "d": "D. –GM/(R-H)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 5,
     "question": "Which of the following statements is not true? ",
     "option": {
@@ -1248,6 +1264,22 @@
     "examyear": "2011"
   },
   {
+    "id": 104,
+    "question": " A particle is in equilibrium under the action of three forces. One force is 40N towards the west and another is 30N towards the south. What is the third force acting on the body?   ",
+    "option": {
+      "a": "40N, N530E  ",
+      "b": "50N, N370E   ",
+      "c": "50N, N530E     ",
+      "d": "40N, N370E"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 106,
     "question": "Which of the following is not a thermometer?  ",
     "option": {
@@ -1435,6 +1467,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 120,
+    "question": "A car accelerates at 5.0m/s2 for 6s, the travels at the speed attained for 20s, and comes to rest after another 4.0s. Calculate the average velocity of the car during the motion.",
+    "option": {
+      "a": "25.0m/s",
+      "b": "20.0m/s ",
+      "c": "1.25m/s ",
+      "d": "0.16m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -2028,6 +2076,22 @@
     "image": "",
     "answer": "a",
     "solution": "More coil turns produce a stronger electromagnetic field.Retry",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 173,
+    "question": "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through which of these process?\n\nI. Using a soft iron ore\nII. Laminating the iron core to reduce energy loses due to eddy current\nIII. Designing an efficient iron core",
+    "option": {
+      "a": " I & II only",
+      "b": "II only",
+      "c": "I, II, & III only",
+      "d": "III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "All three processes (using soft iron, laminating the core, and designing an efficient core) help reduce energy losses in transformers.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -5856,6 +5920,22 @@
     "examyear": "2022"
   },
   {
+    "id": 488,
+    "question": "The eclipse of the moon occurs when?",
+    "option": {
+      "a": "the moon reflects the rays from the sun to the earth",
+      "b": "the moon comes exactly between the earth and the sun",
+      "c": " the earth comes exactly between the moon and the sun",
+      "d": "the sun comes exactly between the earth and the moon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A lunar eclipse (eclipse of the moon) occurs when Earth passes directly between the sun and moon, casting Earth's shadow onto the moon's surface. This can only happen during a full moon when the three celestial bodies are aligned.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 489,
     "question": "The gravitational pull on the moon is 1/6 that of the earth. If a body weighs 6.0 N on the moon, what will be the weight on the earth?",
     "option": {
@@ -7152,6 +7232,22 @@
     "examyear": "2024"
   },
   {
+    "id": 593,
+    "question": "If a charge ion goes through a combined electric field E and magnetic field B, the resultant emergent velocity of the ion is ",
+    "option": {
+      "a": "E/B",
+      "b": "EB",
+      "c": "B/E",
+      "d": "E-B"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The resultant emergent velocity of ions that pass through undeflected in combined perpendicular electric field E and magnetic field B is v = E/B. This is the principle used in velocity selectors.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 594,
     "question": "In electrolysis, when same quantity of electricity is passed through different electrolytes, mass of substances deposited is proportional to ",
     "option": {
@@ -7744,6 +7840,22 @@
     "examyear": "2004"
   },
   {
+    "id": 649,
+    "question": "If a force of 50N stretches a wire from 20m to 20.01m, what is the amount of force required to stretch the same material from 20m to 20.05m?",
+    "option": {
+      "a": " 250N",
+      "b": "200N",
+      "c": "100N",
+      "d": ". 50N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nForce₁, F₁ = 50 N\nOriginal length, L₀ = 20 m\nExtension₁, e₁ = 20.01 - 20 = 0.01 m\nExtension₂, e₂ = 20.05 - 20 = 0.05 m\nForce₂, F₂ = ?\n\nSolution:\nStep 1: Apply Hooke's Law\nHooke's Law states: F = ke\nWhere:\n\nF = applied force\nk = spring constant (stiffness)\ne = extension\n\nThis can also be written as: F ∝ e (force is proportional to extension)\nStep 2: Set up proportion\nFor the same material (same spring constant):\nF₁/e₁ = F₂/e₂\nStep 3: Substitute values\n50/0.01 = F₂/0.05\nStep 4: Solve for F₂\nF₂ = (50 × 0.05)/0.01\nF₂ = 2.5/0.01\nF₂ = 250 N\nStep 5: Alternative approach\nSince e₂ = 5 × e₁ (0.05 = 5 × 0.01)\nAnd F ∝ e\nTherefore: F₂ = 5 × F₁ = 5 × 50 = 250 N",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 650,
     "question": "Marching soldiers crossing a suspension bridge are usually advised to break their steps to avoid damaging the bridge owing to",
     "option": {
@@ -7996,6 +8108,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nVolume of liquid W, V_W = 3 m³\nDensity of liquid W, ρ_W = 200 kg m⁻³\nVolume of liquid L, V_L = 7 m³\nDensity of liquid L, ρ_L = 150 kg m⁻³\n\nStep 1: Compute total mass\nMass of W: m_W = ρ_W × V_W = 200 × 3 = 600 kg\nMass of L: m_L = ρ_L × V_L = 150 × 7 = 1050 kg\nTotal mass: m_total = 600 + 1050 = 1650 kg\n\nStep 2: Compute total volume\nTotal volume: V_total = V_W + V_L = 3 + 7 = 10 m³\n\nStep 3: Compute density of mixture\nDensity ρ_mix = m_total / V_total = 1650 / 10 = 165 kg m⁻³",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 669,
+    "question": "A body of mass 36 kg falls through a viscous liquid which offers a drag force of 260 N on the body. The upthrust on the body at terminal velocity is?\n[g = 10 m s⁻²]",
+    "option": {
+      "a": "100 N",
+      "b": "620 N",
+      "c": "50 N",
+      "d": "310 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Mass of body, m = 36 kg\nDrag force at terminal velocity, F_d = 260 N\nAcceleration due to gravity, g = 10 m s⁻²\n\nStep 1: Compute weight of the body\nW = m × g = 36 kg × 10 m s⁻² = 360 N\n\nStep 2: Apply equilibrium condition at terminal velocity\nAt terminal velocity, the net force is zero:\nWeight = Upthrust + Drag force\nW = U + F_d\n\nStep 3: Solve for upthrust\nU = W − F_d = 360 N − 260 N = 100 N",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -10592,6 +10720,22 @@
     "examyear": "2009"
   },
   {
+    "id": 883,
+    "question": "Which of the following can conduct electricity owing to the presence of free mobile electrons?",
+    "option": {
+      "a": "germanium",
+      "b": "silicon",
+      "c": "grapefruit",
+      "d": "copper"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Metals are good conductors due to the presence of free electrons.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 884,
     "question": "When a pentavalent impurity is added to a pure semiconductor, it becomes?",
     "option": {
@@ -10828,6 +10972,22 @@
     "image": "",
     "answer": "b",
     "solution": "The acceleration of free fall due to gravity is independent of mass of the body. Therefore, ignoring air resistance, which affects feather more than the stone, the stone and the feather will both reach the ground at the same time",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 902,
+    "question": "A car moves with an initial velocity of 25 ms⁻¹ and reaches a velocity of 45 ms⁻¹ in 10s. What is the acceleration of the car?",
+    "option": {
+      "a": "2 ms⁻²",
+      "b": "5 ms⁻²",
+      "c": "20 ms⁻²",
+      "d": "25 ms⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInitial velocity (u) = 25 m/s\nFinal velocity (v) = 45 m/s\nTime (t) = 10 s\nAcceleration (a) = ?\n\nFormula for acceleration:\na = (v - u)/t\nSubstituting values:\na = (45 - 25)/10\na = 20/10\na = 2 m/s²",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -11296,6 +11456,22 @@
     "examyear": "2011"
   },
   {
+    "id": 952,
+    "question": "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object?",
+    "option": {
+      "a": " 90 m",
+      "b": "30 m",
+      "c": "45 m",
+      "d": "60 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nTime of fall (t) = 3 s\nInitial velocity (u) = 0 m/s (falls from rest)\nAcceleration due to gravity (g) = 10 m/s²\nDistance covered (h) = ?\n\nUsing equation of motion for free fall:\ns = ut + ½gt²\nSince u = 0 (starts from rest):\nh = ½gt²\nSubstituting values:\nh = ½ × 10 × (3)²\nh = ½ × 10 × 9\nh = 5 × 9\nh = 45 m",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 953,
     "question": "An object of mass 2 kg moves with a velocity of 10 ms⁻¹ round a circle of radius 4 m. Calculate the centripetal force on the object",
     "option": {
@@ -11308,6 +11484,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nMass (m) = 2 kg\nVelocity (v) = 10 m/s\nRadius (r) = 4 m\nCentripetal force (F) = ?\n\nFormula for centripetal force:\nF = mv²/r\nSubstituting values:\nF = (2 × 10²)/4\nF = (2 × 100)/4\nF = 200/4\nF = 50 N.  This centripetal force of 50 N is directed towards the center of the circular path and is necessary to keep the 2 kg object moving in a circle at 10 m/s. This force must be provided by friction, tension, gravity, or some other physical force depending on the situation (e.g., tension in a string, friction on a road, etc.).",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 954,
+    "question": "A carpenter on top of a roof of 20.0m high dropped a hammer of mass 1.5 kg and it fell directly to the ground. The kinetic energy of the hammer just before hitting the ground is? [g = 10 ms⁻²]",
+    "option": {
+      "a": "600 J",
+      "b": "150 J",
+      "c": "300 J",
+      "d": "450 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nHeight (h) = 20.0 m\nMass (m) = 1.5 kg\ng = 10 m/s²\nInitial velocity (u) = 0 (dropped from rest)\nKinetic energy just before hitting ground = ?\n\nMethod 1: Using conservation of energy\nInitial state (at top):\n\nPE = mgh = 1.5 × 10 × 20 = 300 J\nKE = 0 (at rest)\nTotal energy = 300 J\n\nFinal state (just before hitting ground):\n\nPE = 0 (at ground level)\nKE = ?\nTotal energy = 300 J\n\nBy conservation of energy:\nInitial PE = Final KE\nKE = 300 J\n\nThe kinetic energy of the hammer just before hitting the ground is 300 J.\nExplanation: All the potential energy at the top (300 J) is converted to kinetic energy at the bottom, demonstrating the conservation of mechanical energy. The hammer reaches a velocity of 20 m/s just before impact.",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -11452,6 +11644,22 @@
     "image": "",
     "answer": "a",
     "solution": "Sound is the only mechanical wave among the rest which are electromagnetic waves.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 965,
+    "question": "A perfect emitter or absorber of radiant energy is a?",
+    "option": {
+      "a": "conductor",
+      "b": "black body",
+      "c": "white body",
+      "d": " red body"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dull, black surface are good emitters or absorbers of energy",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -12304,6 +12512,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1032,
+    "question": "The fuse in an electric device is always connected to the",
+    "option": {
+      "a": "neutral side of an electric supply",
+      "b": "earth side of an electric supply",
+      "c": "live side of an electric supply",
+      "d": "terminal side of an electric supply"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The fuse in an electric device is always connected to the live side of an electric supply to ensure that when the fuse blows due to overcurrent, the dangerous high-voltage supply is completely disconnected from the appliance, making it safe.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1034,
     "question": "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is",
     "option": {
@@ -12732,6 +12956,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nLinear magnification of objective = 4\nLinear magnification of eyepiece = 7\n\nSolution:\n\nStep 1: Total magnification of a compound microscope\nThe overall angular magnification (or total magnification) is the product of the magnification of the objective and the magnification of the eyepiece.\n\nStep 2: Multiply the magnifications\nTotal magnification = 4 × 7 = 28",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1067,
+    "question": "The angle of deviation of light of various colours passing through a triangular prism increases in the order",
+    "option": {
+      "a": "red → green → blue",
+      "b": "green → violet → blue",
+      "c": "blue → red → green",
+      "d": " blue → green → red"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In a triangular prism, light of different colors is refracted at different angles, with red light deviating the least and blue light deviating the most.",
     "examtype": "utme",
     "examyear": "2013"
   },
