@@ -16,6 +16,22 @@
     "examyear": "2010"
   },
   {
+    "id": 3,
+    "question": "Where a proprietor withdraws cash from the business for his private use, the entries would be ",
+    "option": {
+      "a": "credit cash account, debit proprietor's account ",
+      "b": "credit proprietor's account, debit cash account ",
+      "c": "credit proprietor's account, debit   drawings   account    ",
+      "d": "credit   cash account,  debit drawings account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 5,
     "question": "Which of the following is a function of the sales journal ",
     "option": {
@@ -267,6 +283,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 34,
+    "question": "Where a correct amount is entered, but in the wrong person's account, is an error of  ",
+    "option": {
+      "a": "Principle  ",
+      "b": " Omission",
+      "c": "Commission",
+      "d": "Compensation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -951,6 +983,22 @@
       "b": "N1,962",
       "c": "N1,522",
       "d": "N2,522"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 129,
+    "question": "The records of Superstores shows a loan of  N14,000 from Bala, creditor N8, 000 and assets N190, 500. What is the firm’s capital?",
+    "option": {
+      "a": "184, 000",
+      "b": "1 96, 500",
+      "c": "212 000",
+      "d": "168, 500"
     },
     "section": "",
     "image": "",
@@ -1744,6 +1792,22 @@
     "examyear": "1997"
   },
   {
+    "id": 206,
+    "question": "Rent receivable is a",
+    "option": {
+      "a": "current asset",
+      "b": "current liability",
+      "c": "contingent liability",
+      "d": "fictitious asset"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 207,
     "question": "Which of the following is a factory overhead?",
     "option": {
@@ -1771,6 +1835,22 @@
     "section": "A business whose assets consisted of stock  N 15,000 and debtors   N  8,000 was bought by issuing 20,000 ordinary shares of   N  1 each at a premium of  20 percent.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 209,
+    "question": "The amount of goodwill was",
+    "option": {
+      "a": "N  4,000",
+      "b": "N  3,000",
+      "c": "N  2,000",
+      "d": "N  1,000."
+    },
+    "section": "A business whose assets consisted of stock  N 15,000 and debtors   N  8,000 was bought by issuing 20,000 ordinary shares of   N  1 each at a premium of  20 percent.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -1863,6 +1943,22 @@
       "b": "Purchases",
       "c": "Discount received",
       "d": "Interest received"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 226,
+    "question": "A customer who returns goods to the supplier because they are defective is issued a",
+    "option": {
+      "a": "debit note",
+      "b": "credit note",
+      "c": "delivery note",
+      "d": "bank note."
     },
     "section": "",
     "image": "",
@@ -2025,6 +2121,22 @@
       "d": "D114,300."
     },
     "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 241,
+    "question": "A set of instructions fed into a computer for accomplishing a given task is a/an",
+    "option": {
+      "a": "input",
+      "b": "programme",
+      "c": "output",
+      "d": "data."
+    },
+    "section": "",
     "image": "",
     "answer": "b",
     "solution": "",
@@ -2992,6 +3104,22 @@
     "examyear": "2014"
   },
   {
+    "id": 374,
+    "question": "When shares are issued above their nominal value, the \texcess above the nominal value is",
+    "option": {
+      "a": "credited to Profit and Loss Account",
+      "b": "debited to Share Premium Account",
+      "c": "credited to Share Capital Account",
+      "d": "credited to share Premium Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 378,
     "question": "The primary classification of government expenditure is based on",
     "option": {
@@ -3019,6 +3147,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 387,
+    "question": "The document prepared by a local/district government to present its annual estimates for a planning period is",
+    "option": {
+      "a": "a balance sheet",
+      "b": "budget",
+      "c": "an income and expenditure account",
+      "d": "a cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -3712,6 +3856,22 @@
     "examyear": "2007"
   },
   {
+    "id": 461,
+    "question": "I.    Facilitating the preparation of final accounts II.   Making the existence of error easy to detect III. Checking the accuracy of postings periodically. From the above, which of the following are among the uses of control accounts?",
+    "option": {
+      "a": "I, II and III",
+      "b": "I and III",
+      "c": "II and III",
+      "d": "I and II."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 462,
     "question": "Determine the amount provided for discount allowed on debtors.",
     "option": {
@@ -3835,6 +3995,22 @@
     "section": "Given: Capital [N 2, 375, 000 ]; Debtors [N 495, 000 ]; Motor vehicles [N 870, 000 ]; Creditors [N 245,000 ]; Prepayments [N 500, 000 ]; Bills receivable [N 505, 000 ]; Furniture [N 150, 000 ]",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 481,
+    "question": "If Odukoya takes money out of the business bank account for his own private use, the effect of the transaction is",
+    "option": {
+      "a": "increase in assets and increase in capital",
+      "b": "increase in assets and decrease in capital",
+      "c": "decrease in capital and increase in assets",
+      "d": "decrease in capital and decrease in assets."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -4332,6 +4508,22 @@
     "image": "",
     "answer": "a",
     "solution": "profit or loss are expected to be share equally in the absence of any agreement",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 544,
+    "question": "Use the information below to answer this question.\n\nA business has three departments x, y and z\n\nYou are given the following information\n\nSelling and distribution expenses ₦5200\nRent for the year₦6000\nDepartment turnover floor space in square metres\n\nX ₦60,000 80\n\nY ₦80,000 60\n\nZ ₦100,000 60\n\nHow much rent is apportioned to department Z?",
+    "option": {
+      "a": " ₦1, 500",
+      "b": "₦3, 000",
+      "c": "₦1, 800",
+      "d": "₦2, 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Rent is apportioned on floor‐space. Total space = 80 + 60 + 60 = 200 m², so rent per m² = 6 000 ÷ 200 = ₦30/m².\nDepartment Z has 60 m², so its share = 60 × 30 = ₦1 800.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -5180,6 +5372,22 @@
     "image": "",
     "answer": "d",
     "solution": "Using the debtors account to find sales:\nDebtors Account Movement:\nOpening Balance + Sales - Cash Received - Bad Debts - Discount Allowed = Closing Balance\nSubstituting the values:\n₦4,000 + Sales - ₦8,500 - ₦350 - ₦500 = ₦1,500\nSolving for Sales:\n₦4,000 + Sales - ₦9,350 = ₦1,500\nSales = ₦1,500 + ₦9,350 - ₦4,000\nSales = ₦10,850 - ₦4,000\nSales = ₦6,850\nNote: Discount received (₦1,000) is not relevant to the debtors account as it relates to creditors/suppliers, not customers.\nThe sales for the year is ₦6,850.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 651,
+    "question": "The use of a three column cash book is determined by",
+    "option": {
+      "a": "cash discount",
+      "b": "trade discount",
+      "c": "cash transaction",
+      "d": "Bank transaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A cash discount is a deduction allowed by the seller of goods or by the provider of services in order to motivate the customer to pay within a specified time",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -7504,6 +7712,22 @@
     "examyear": "2024"
   },
   {
+    "id": 965,
+    "question": "One of the major features of bookkeeping is that it?",
+    "option": {
+      "a": " provides permanent records for all financial transactions",
+      "b": "is futuristic in nature",
+      "c": "accpets responsibility for all wrong postings",
+      "d": "does not give room for double entry procedures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Bookkeeping is the process of recording all financial transactions of a business in a systematic and chronological order.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 969,
     "question": "Given:\n\nSales.....................₦4,000\nLight expenses............₦900\nRent......................₦1,500\nPurchases.................₦7,500\nDebtors...................₦6,000\nCreditors.................₦9,000\nDrawings..................₦2,500\nBank......................₦400\nGeneral expenses..........₦1,500\nCapital...................₦10,300\n\nCalculate the total of trial balance?",
     "option": {
@@ -7564,6 +7788,22 @@
     "image": "",
     "answer": "d",
     "solution": "When cash is moved between the office and the bank (or vice versa), this creates a special type of entry in the cash book.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 976,
+    "question": "Commission-on-turnover is charged on?",
+    "option": {
+      "a": "current accounts only",
+      "b": "savings accounts only",
+      "c": "fixed deposit accounts only",
+      "d": "all bank accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Commission-on-turnover (COT) is a bank charge applied to customer transactions.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -8048,6 +8288,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1032,
+    "question": "The item that are contained in the bought ledger control account are?",
+    "option": {
+      "a": "discount allowed, bad debts and purchases",
+      "b": "dishonoured cheques, returns inwards and sales",
+      "c": "returns outwards, bad debts outewards and sales",
+      "d": "discount received, returns outwards and purchases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Explanation: the purchases (bought) ledger control account records purchases from suppliers (credit), and adjustments that reduce the liability — returns outwards (purchase returns) and discount received.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1033,
     "question": "Given:\npurchases ledger balance..............₦4000\npurchases for the period..............₦50000\nCash refunded by suppliers............₦290\nCheques paid to suppliers..............₦42300\nReturns outwards.......................₦2000\nDiscount received from suppliers.......₦400\n\nThe balance of the purchases ledger control account is?",
     "option": {
@@ -8172,6 +8428,22 @@
     "image": "",
     "answer": "b",
     "solution": "Compute the accumulated fund as all assets less liabilities. No liabilities were given, so add up cash and assets:\n\nCash (closing, from receipts & payments) = ₦140\n\nFurniture: opening ₦1,120 + purchase of new furniture ₦120 = ₦1,240\n\nPremises = ₦4,000\n\nTotal accumulated fund = 140 + 1,240 + 4,000 = ₦5,380",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1046,
+    "question": "Gamji Memorial Club carried out an activity which yield a profit of ₦10000. This amount is to be transferred to the?",
+    "option": {
+      "a": "debit side of its profit and loss account",
+      "b": "credit side of its profit and loss account",
+      "c": " debit side of its income and expenditure account",
+      "d": "credit side of its income and expenditure account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a not-for-profit organization, profits from activities are treated as surpluses and recorded on the credit side of the Income and Expenditure Account, since they increase the organization's funds.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -9792,6 +10064,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1262,
+    "question": "The officer responsible for ascertaining whether all public expenditure and appropriation are in line with approved guidelines is the?",
+    "option": {
+      "a": "Acountant General",
+      "b": " Auditor General",
+      "c": " Finance Minister",
+      "d": "Permanent Secretary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The officer responsible for ascertaining whether all public expenditure and appropriation are in line with approved guidelines is the Auditor General.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1263,
     "question": "<b>Use the information below to answer questions 49 and 50</b>\n\nGiven PTF Trial balance (Extract) as at 31 December 1999 showing: Cash ₦2,000 (Dr), Investments ₦3,000 (Dr), Accounts receivable ₦6,000 (Dr), and Fund balance ₦11,000 (Cr). Assuming all the investments realized ₦4m, what will be the ending fund balance?",
     "option": {
@@ -9806,6 +10094,22 @@
     "solution": "Step 1: Calculate gain/loss on investments\n\nCost of investments (from trial balance): ₦3,000\nRealization value: ₦4,000\nGain on disposal = ₦4,000 - ₦3,000 = ₦1,000\n\nStep 2: Calculate ending fund balance\n\nOpening fund balance: ₦11,000\nAdd: Gain on disposal of investments: ₦1,000\nEnding fund balance = ₦11,000 + ₦1,000 = ₦12,000",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 1265,
+    "question": "On ₦ovember 1, 1998, Zaria Holdings owed ₦13,600 in respect of a creditor. On ₦ovember 15, it purchases goods worth ₦69,000 and paid a cheque of ₦51,600. On ₦ovember 29, one of the Holdings' cheques worth ₦3,000 was returned while the creditor granted a ₦1,500 discount. The amount owed by Zaria Holdings as at ₦ovember 29 is?",
+    "option": {
+      "a": "₦32,500",
+      "b": "₦32,000",
+      "c": " ₦31,000",
+      "d": "₦29,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Opening balance (Nov 1)\nLiability to creditor = ₦13 600\n\nAdd purchases (Nov 15)\n\n₦69 000\n→ ₦13 600 + ₦69 000 = ₦82 600\n\nSubtract cheque paid (Nov 15)\n– ₦51 600\n→ ₦82 600 − ₦51 600 = ₦31 000\n\nCheque returned (Nov 29)\n\n₦3 000\n→ ₦31 000 + ₦3 000 = ₦34 000\n\nDiscount granted (Nov 29)\n– ₦1 500\n→ ₦34 000 − ₦1 500 = ₦32 500",
+    "examtype": "utme",
+    "examyear": "2000"
   },
   {
     "id": 1268,
@@ -10300,6 +10604,38 @@
     "image": "",
     "answer": "c",
     "solution": "They should not be netted off in the cash book; both Discount Allowed (₦230) and Discount Received (₦255) are carried separately into the trial balance.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1324,
+    "question": "Which of the following bank reconciliation items should not be added or subtracted from the bank statement balance to determine the adjusted cash balance?",
+    "option": {
+      "a": "Outstanding cheques",
+      "b": "Bank service charges",
+      "c": "Deposit in the mail not yet received by the bank",
+      "d": "Bank error, charging a company for another company's cheque"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Bank service charges should not be added to or subtracted from the bank statement balance; they are already reflected on the statement and instead are used to adjust the book balance.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1325,
+    "question": "The fixed amount of money given to a petty cashier at the beginning of a period is called?",
+    "option": {
+      "a": "imprest",
+      "b": "petty cash",
+      "c": "float",
+      "d": " cash advance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fixed amount advanced to a petty cashier at the start of a period under the imprest system is known as the imprest (sometimes called the petty cash float).",
     "examtype": "utme",
     "examyear": "1999"
   },
@@ -11136,6 +11472,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1427,
+    "question": "An examination of the cash book on 3rd August 1993 showed a different balance from the bank statement of 31st July, 1993 which read ₦722. Uncredited cheques were Bimpe ₦40; Wale ₦60 while unpresented cheques were; Usman ₦20, Kalu ₦32 and Musa ₦70. What is the cash book balance after the reconciliation?",
+    "option": {
+      "a": "₦700",
+      "b": "₦770",
+      "c": "₦800",
+      "d": "₦822"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Bank statement balance (31st July 1993): ₦722\nUncredited cheques (deposits made but not yet credited by bank):\n\nBimpe: ₦40\nWale: ₦60\nTotal uncredited: ₦100\n\n\nUnpresented cheques (cheques written but not yet cleared by bank):\n\nUsman: ₦20\nKalu: ₦32\nMusa: ₦70\nTotal unpresented: ₦122\n\n\n\nReconciliation calculation:\nStarting with bank statement balance: ₦722\nAdd: Uncredited cheques (money we deposited but bank hasn't credited yet): +₦100\nLess: Unpresented cheques (money we paid out but bank hasn't deducted yet): -₦122\nCash book balance = ₦722 + ₦100 - ₦122 = ₦700",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1428,
     "question": "On the 30/5/93 Tolu & Co. paid 2 years rent of ₦50,000 which was debited to the rent account.\nAt 31/12/93, what portion of that amount was prepaid?",
     "option": {
@@ -11164,6 +11516,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nRecorded profit: ₦120,000\nError 1: Revenue of ₦12,000 was recorded as expenses\nError 2: Expenses of ₦4,000 were recorded as revenue\n\nAnalysis of errors:\nError 1: Revenue ₦12,000 recorded as expenses\n\nThis reduced profit by ₦24,000 (₦12,000 revenue not added + ₦12,000 wrongly deducted as expenses)\nCorrection: Add back ₦24,000\n\nError 2: Expenses ₦4,000 recorded as revenue\n\nThis increased profit by ₦8,000 (₦4,000 wrongly added as revenue + ₦4,000 expenses not deducted)\nCorrection: Deduct ₦8,000\n\nCorrect profit calculation:\n₦120,000 + ₦24,000 - ₦8,000 = ₦136,000",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1432,
+    "question": "Given:\nNet profit-----------------------₦25,000\nCost of sale---------------------₦25,000\nSales----------------------------₦85,000\nDetermine the total expenses.",
+    "option": {
+      "a": " ₦45,000",
+      "b": "₦35,000",
+      "c": "₦25,000",
+      "d": "₦15,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Find Gross Profit\n\nGross Profit = Sales − Cost of Sales = ₦85,000 − ₦25,000 = ₦60,000\nStep 2: Relate Net Profit and Expenses\n\nNet Profit = Gross Profit − Total Expenses\nTotal Expenses = Gross Profit − Net Profit = ₦60,000 − ₦25,000 = ₦35,000",
     "examtype": "utme",
     "examyear": "1997"
   },
