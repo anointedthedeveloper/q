@@ -3456,6 +3456,22 @@
     "examyear": "4"
   },
   {
+    "id": 222,
+    "question": "A contract that is contrary to public policy is",
+    "option": {
+      "a": "valid contract",
+      "b": "legal contract",
+      "c": "illegal contract",
+      "d": "voidable contract"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 223,
     "question": "Which of the following cannot enter into an insurance contract?",
     "option": {
