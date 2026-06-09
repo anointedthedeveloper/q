@@ -4769,6 +4769,25 @@
     "category": "others"
   },
   {
+    "id": 374,
+    "question": "Thanks to that phone call, I was able to obtain the visa,",
+    "option": {
+      "a": "in spite of that phone call, I obtained the vist ",
+      "b": " It was because of that phone call that the visa",
+      "c": "I am grateful to whoever phoned me and I obtained the visa",
+      "d": "If I had not recieved that phone call, I would not have obtained the visa."
+    },
+    "section": "select the option that bost explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 375,
     "question": "It is likely that the governor will exact his pound of flesh ",
     "option": {
@@ -10165,6 +10184,25 @@
     "category": "others"
   },
   {
+    "id": 871,
+    "question": "Identify the word that has the stress on the first syllable.",
+    "option": {
+      "a": "dismiss",
+      "b": "comment",
+      "c": "intact",
+      "d": "confuse"
+    },
+    "section": "<b>In each of questions 74 and 75, identify the word that has the\nstress on the first syllable.</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "dismiss\n\ncomment is both a compound noun and verb. as a noun, the stress would be on the first syllable and for a verb, the stress would be on the second syllable. since it wasnt specified in the question as a verb, that means it is a noun. it would be stressed thus: COMment\n\nwords with prefix always have their stress on the second syllable. Dismiss, intact and confuse all have prefixes and would be stressed on the second sylle as:\n\ndisMISS\n\ninTACT\n\nconFUSE",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 75,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 872,
     "question": "The organization is constantly in a state of flux?",
     "option": {
@@ -14440,6 +14478,25 @@
     "category": "others"
   },
   {
+    "id": 1258,
+    "question": "The full meaning of IPO is ______",
+    "option": {
+      "a": " Independent Police Officer",
+      "b": " International Police Officer",
+      "c": "Investigating Police Officer",
+      "d": " Investigative Police Officer"
+    },
+    "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+    "image": "",
+    "answer": "c",
+    "solution": "See page 25",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 5,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1259,
     "question": "What is Ummi's Occupation?",
     "option": {
@@ -15443,6 +15500,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 32,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1347,
+    "question": "What a ________! the more you look, the less you see",
+    "option": {
+      "a": "wonder",
+      "b": "miracle",
+      "c": "challenge",
+      "d": "paradox"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "d",
+    "solution": "The more you look, the less you see is contradictory and that is a paradox.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 34,
     "hasPassage": 0,
     "category": "others"
   },
@@ -18616,6 +18692,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 21,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1636,
+    "question": "Her death was a bolt from the blue to us ",
+    "option": {
+      "a": "Her death bolted us together",
+      "b": " Her death caused confusion",
+      "c": "Her death sealed our hopes",
+      "d": "Her death was unexpected"
+    },
+    "section": "For this question, select the option that best explains the information conveyed in the question.",
+    "image": "",
+    "answer": "d",
+    "solution": "a bolt from the blue; a sudden and unexpected event.",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 24,
     "hasPassage": 0,
     "category": "others"
   },
