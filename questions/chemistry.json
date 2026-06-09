@@ -2848,6 +2848,22 @@
     "examyear": "2005"
   },
   {
+    "id": 202,
+    "question": "25cm3 of a mixture of noble gases was obtained from air after the removal of other constituents. What was the original volume of air",
+    "option": {
+      "a": "125cm3",
+      "b": "1250cm3",
+      "c": "2500cm3",
+      "d": "80cm3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 203,
     "question": "The solubility curve shows the variation of solute concentration with",
     "option": {
@@ -4588,6 +4604,22 @@
     "image": "",
     "answer": "b",
     "solution": "P₁V₁ = P₂V₂ is the mathematical expression of Boyle's Law, which states that at constant temperature, the pressure of a fixed mass of gas is inversely proportional to its volume.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 327,
+    "question": "A fixed mass of gas occupies 92 cm³ at 3°C. What will be its volume at 18°C if the pressure remains constant?",
+    "option": {
+      "a": "15.3 cm³",
+      "b": "87.3 cm³",
+      "c": "2.0 cm³",
+      "d": "97.0 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using Charles's Law: V₁/T₁ = V₂/T₂. Convert temperatures to Kelvin: T₁ = 3 + 273 = 276 K, T₂ = 18 + 273 = 291 K. Therefore V₂ = (92 × 291)/276 = 97.0 cm³.",
     "examtype": "utme",
     "examyear": "2015"
   },
