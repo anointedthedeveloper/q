@@ -1552,6 +1552,22 @@
     "examyear": "2016"
   },
   {
+    "id": 172,
+    "question": "The market value of goods produced is",
+    "option": {
+      "a": "N30,500",
+      "b": "N3, 600",
+      "c": "N31,600",
+      "d": "N31,620"
+    },
+    "section": "Materials consumed  16,600;\tDirect cost 5,400; Factory rent 2,300; Factory  lighting 1,200 \tCost of production to be transferred at cost plus 20% mark-up. ",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 173,
     "question": "A suspense account is used to",
     "option": {
@@ -3534,6 +3550,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
+  },
+  {
+    "id": 394,
+    "question": "A source document is used for verifying the",
+    "option": {
+      "a": "amount due to creditors",
+      "b": "actual cost of an asset",
+      "c": "selling price of goods",
+      "d": "amount due from debtors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 395,
@@ -6112,6 +6144,22 @@
     "examyear": "2017"
   },
   {
+    "id": 664,
+    "question": "Which type of cashbook entry involves recording the same amount on both the debit and credit sides to offset each other?",
+    "option": {
+      "a": "Contra entry",
+      "b": "Compound entry",
+      "c": "Transfer entry",
+      "d": "Journal entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A contra entry in the cashbook is used when the business moves money between its own cash and bank accounts—such as depositing cash into the bank or withdrawing cash from the bank",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 665,
     "question": "Statement of Financial Position as at 31st Dec 2010 showing:\n\nNoncurrent assets: Plant and equipment ₦10,000\nCurrent assets: Stock ₦7,000, Receivables ₦5,000 (Total current assets ₦12,000)\nTotal assets ₦22,000\nCapital ₦15,000\nCurrent liabilities: Payables ₦7,000\nTotal ₦22,000\n\nWhat is the amount of capital employed?",
     "option": {
@@ -8016,6 +8064,22 @@
     "examyear": "2023"
   },
   {
+    "id": 887,
+    "question": "The authority warrant issued prior to the approval of the appropriate bill at the begining of the year",
+    "option": {
+      "a": "contigencies",
+      "b": "reserved expenditure warrant",
+      "c": " annual general warrant",
+      "d": "provisional general warrant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Provisional general warrant is used to release fund for the payment of emolument and other services before the budget is approved. It will be in operation for four months.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 888,
     "question": "The following appears in the trading account except",
     "option": {
@@ -8320,6 +8384,22 @@
     "examyear": "2023"
   },
   {
+    "id": 922,
+    "question": "Goodwill can be introduced when",
+    "option": {
+      "a": "the business suffers high loss",
+      "b": "the business is being expanded",
+      "c": " the partnership experience super profit",
+      "d": "a new member is admitted"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The circumstances giving rise to the ascertainment of goodwill are:\n- admission of a new partner\n- change in profit sharing ratio\n- death or retirement of a partner\n- the business has been purchased\n- dissolution of a business",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 923,
     "question": "Which fund is used to meet unforeseen or urgent expenditure",
     "option": {
@@ -8492,6 +8572,22 @@
     "image": "",
     "answer": "c",
     "solution": "Rent accrued at the end of an accounting period represents rent expense that has been incurred but not yet paid. This creates an obligation for the business to pay this amount in the near future.\nSince it's an amount owed by the business that will typically be settled within one year (or the normal operating cycle), it is classified as a current liability.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 939,
+    "question": "Suppliers accounts are found in the",
+    "option": {
+      "a": "private",
+      "b": "purchase",
+      "c": "nominal",
+      "d": "general"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The purchase ledger is a subsidiary ledger that records all transactions related to purchases made from supplier on credit. Each supplier has a dedicated account in the purchase ledger.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -9664,6 +9760,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1068,
+    "question": "The rule of accounting equation requires that account payable should be placed under?",
+    "option": {
+      "a": "liabilities",
+      "b": "equities",
+      "c": "assets",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Accounts payable represent amounts the business owes to suppliers — obligations or debts, so they’re recorded under liabilities (usually current liabilities) on the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1072,
     "question": "The receipt whose name appears on a cheque is called a?",
     "option": {
@@ -10268,6 +10380,22 @@
     "image": "",
     "answer": "a",
     "solution": "Step 1 – Identify assets:\n\nCash = ₦100,000\n\nSubscription in arrears = ₦5,000 (this is money owed to the club, so it’s an asset)\n\nTotal Assets = ₦100,000 + ₦5,000 = ₦105,000\n\nStep 2 – Identify liabilities:\n\nLoan = ₦30,000\n\nSubscription in advance = ₦15,000 (this is money the club owes in service, so liability)\n\nTotal Liabilities = ₦30,000 + ₦15,000 = ₦45,000\n\nStep 3 – Calculate Accumulated Fund:\nAccumulated Fund = Assets − Liabilities\nAccumulated Fund = ₦105,000 − ₦45,000 = ₦60,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1147,
+    "question": "A company has departments M and ₦. The expenses incurred wholly in M is ₦5000. General expenses incurred amount to ₦25000. Expenses are apportioned in the ratio 2:3 for departments M and ₦ respectively.\nWhat is ₦'s share of the expense?",
+    "option": {
+      "a": "₦10 000",
+      "b": "₦15 000",
+      "c": "₦18 000",
+      "d": "₦20 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Workings: General expenses ₦25,000 apportioned 2:3 (M:N).\n\nN’s share = 3/(2+3) × 25,000 = 3/5 × 25,000 = ₦15,000.\n\n\n(The ₦5,000 spent wholly in M does not affect N’s share.)",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -12528,6 +12656,22 @@
     "examyear": ""
   },
   {
+    "id": 1383,
+    "question": "On Ist January, 1993, lobo Company purchased equipment for ₦18,000. it uses straight-line depreciation with an estimates eight-year useful life and a ₦2,000 salvage value. On 31st December, 1996, it sells the equipment for ₦8000. In recording this sales, it should reflect?",
+    "option": {
+      "a": "₦10,000 loss",
+      "b": "₦2,000 loss",
+      "c": "₦4,000 loss",
+      "d": "₦8,000 gain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find the gain or loss on sale of equipment, calculate the book value at the time of sale and compare it to the selling price.\nGiven information:\n\nPurchase date: January 1, 1993\nCost: ₦18,000\nUseful life: 8 years\nSalvage value: ₦2,000\nSale date: December 31, 1996\nSelling price: ₦8,000\n\nStep 1: Calculate annual depreciation\nAnnual depreciation = (Cost - Salvage value) ÷ Useful life\nAnnual depreciation = (₦18,000 - ₦2,000) ÷ 8 years = ₦2,000 per year\nStep 2: Calculate accumulated depreciation by December 31, 1996\nPeriod of use: January 1, 1993 to December 31, 1996 = 4 years\nAccumulated depreciation = ₦2,000 × 4 years = ₦8,000\nStep 3: Calculate book value at time of sale\nBook value = Cost - Accumulated depreciation\nBook value = ₦18,000 - ₦8,000 = ₦10,000\nStep 4: Calculate gain/loss on sale\nLoss on sale = Book value - Selling price\nLoss on sale = ₦10,000 - ₦8,000 = ₦2,000 loss",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1386,
     "question": "Mini Enterprises Sales Ledger as at 31/12/94\nread:\n₦\nBalance b/f 12750\nTotal credit sales 28185\nPayments by debtors 12112\nDiscount allowed 638\nSales returns 1500\n\nPrepare the sales ledger control account and determine the balance due from debtors.",
     "option": {
@@ -13168,6 +13312,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1450,
+    "question": "Adamu Babaji and Chukwu are in partnership and\nthey share profit and losses on ratio 3:2:1. Their\nrespective capitals are ₦20,000, ₦15,000 and ₦5,000\non which they are entitled to interest at 5% per\nannum. The profit for the year before charging interest\non capital amounted to ₦5,500. Calculate the profit\nfor Adamu.",
+    "option": {
+      "a": "₦583",
+      "b": "₦1,000",
+      "c": "₦1,167",
+      "d": "₦1,750"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate interest on capita\n\nAdamu: ₦20,000 × 5% = ₦1,000\nBabaji: ₦15,000 × 5% = ₦750\nChukwu: ₦5,000 × 5% = ₦250\n\nTotal interest = ₦1,000 + ₦750 + ₦250 = ₦2,000\n\nStep 2: Remaining profit after interest on capital\n\nProfit before interest = ₦5,500\n\n{Remaining profit} = ₦5,500 - ₦2,000 = ₦3,500\n\n\nStep 3: Share remaining profit in ratio 3:2:1\n\nTotal ratio = 3 + 2 + 1 = 6\n\nAdamu: {3/6} × ₦3,500 = ₦1,750\nBabaji:{2/6} × ₦3,500 = ₦1,167\nChukwu: {1/6} × ₦3,500 = ₦583\n\nStep 4: Adamu’s total profit\n\nAdamu's total profit = Interest on capital + Share of remaining profit\n\n\n₦1,000 + ₦1,750 = ₦2,750\n\n\nonly for Adamu’s share of the remaining profit (Step 3) after interest on capital is charged.\n\nAdamu’s share of remaining profit = ₦1,750\n",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1451,
     "question": "The correct closing balance for Musa’s current account\nis",
     "option": {
@@ -13212,6 +13372,22 @@
     "image": "",
     "answer": "d",
     "solution": "The debenture interest is calculated on the value of the debentures:\n\nDebenture interest = 5% × ₦500,000 = ₦25,000",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1456,
+    "question": "A dividend of 10% in a company on 500 000 ordinary shares of ₦ 1 nominal value has been declared, How much will a shareholder receive if he has 200 shares?",
+    "option": {
+      "a": "₦ 500 000",
+      "b": "₦ 50 000",
+      "c": "₦200",
+      "d": "₦ 20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let's calculate the dividend for a shareholder with 200 shares:\n\nDividend rate: 10% of the nominal value (₦1 per share)\n\nDividend per share:\n\n10% × ₦1 = ₦0.10 per share\nTotal dividend for 200 shares:\n\n200 × ₦0.10 =₦20",
     "examtype": "utme",
     "examyear": "1997"
   },
