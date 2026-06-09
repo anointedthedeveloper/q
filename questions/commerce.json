@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "Ships that sail across the ocean and operate on scheduled time are ",
+    "option": {
+      "a": "ferries ",
+      "b": "ocean liners ",
+      "c": "tramp steamers  ",
+      "d": "coastal liner"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 3,
     "question": "The program that makes up the operating system in a computer is         ",
     "option": {
@@ -91,6 +107,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 14,
+    "question": "One important requirement for the membership of the ECOWAS is ",
+    "option": {
+      "a": "integrity ",
+      "b": "independence ",
+      "c": "landmass   ",
+      "d": "population"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -1392,6 +1424,22 @@
     "examyear": "2007"
   },
   {
+    "id": 164,
+    "question": "The making of doors from timber planks is a type of ",
+    "option": {
+      "a": "manufacturing ",
+      "b": "tertiary production",
+      "c": "secondary production   ",
+      "d": "primary production."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 165,
     "question": "Law-making is an example of ",
     "option": {
@@ -2368,6 +2416,22 @@
     "examyear": "2009"
   },
   {
+    "id": 271,
+    "question": "One of the major problems of a sole proprietor is sourcing for ",
+    "option": {
+      "a": "raw materials ",
+      "b": "labour ",
+      "c": "machineries ",
+      "d": "funds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 272,
     "question": "In a public limited liability company, planning is carried out by ",
     "option": {
@@ -2608,6 +2672,22 @@
     "examyear": "2010"
   },
   {
+    "id": 305,
+    "question": "The activity which entails buying of goods in bulk and selling in small quantities to retailers is ",
+    "option": {
+      "a": "assembling ",
+      "b": "wholesaling ",
+      "c": "retailing ",
+      "d": "merchandising "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 306,
     "question": "The comparison of a country’s visible and invisible exports and imports expressed in monetary term is ",
     "option": {
@@ -2711,6 +2791,22 @@
       "b": "lack of tourism master plan ",
       "c": "inadequate tourist centres",
       "d": "non-compliance to immigration laws."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 319,
+    "question": "One of the main features of a partnership is ",
+    "option": {
+      "a": "limited liability ",
+      "b": "lack of corporate existence ",
+      "c": "unlimited membership ",
+      "d": "lack of mutual confidence"
     },
     "section": "",
     "image": "",
@@ -3344,6 +3440,22 @@
     "examyear": "2011"
   },
   {
+    "id": 391,
+    "question": "A business organization is said to be socially responsible when it ",
+    "option": {
+      "a": "gets involve in issues relating to the society ",
+      "b": "rewards its staff for long-term service",
+      "c": "offers discounts to customers",
+      "d": "invites the public to its annual general  meetings."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 392,
     "question": "One of the major benefits of commerce to government is to ",
     "option": {
@@ -3355,6 +3467,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 394,
+    "question": "One of the inputs in production that can be motivated by remuneration is ",
+    "option": {
+      "a": "capital ",
+      "b": "entrepreneur ",
+      "c": "labour ",
+      "d": "land "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -4224,6 +4352,22 @@
     "examyear": "2013"
   },
   {
+    "id": 489,
+    "question": "Which of the following can be defined as trade and aids to trade?",
+    "option": {
+      "a": "Advertising",
+      "b": "Commerce",
+      "c": "Wholesaling",
+      "d": "Retailing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 492,
     "question": "A private company is one which",
     "option": {
@@ -4267,6 +4411,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 510,
+    "question": "Which of the following is not a means of payment in foreign trade?",
+    "option": {
+      "a": "Telegraphic money order",
+      "b": "Specially crossed cheque",
+      "c": "Letters of credit",
+      "d": "Debit transfer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -4583,6 +4743,22 @@
       "b": "consumer",
       "c": "manufacturer",
       "d": "retailer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 544,
+    "question": "Platinum Habib Bank Plc. is an example of __ bank.",
+    "option": {
+      "a": "central",
+      "b": "commercial",
+      "c": "development",
+      "d": "merchant"
     },
     "section": "",
     "image": "",
@@ -4923,6 +5099,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 580,
+    "question": "Social responsibilities of a business to the consumers \tinclude the following, EXCEPT",
+    "option": {
+      "a": "educating the customers",
+      "b": "ensuring truth in advertisement",
+      "c": "granting credit facilities",
+      "d": "providing of quality product"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -5536,6 +5728,22 @@
     "examyear": "1990"
   },
   {
+    "id": 646,
+    "question": "An author’s exclusive right to published and unpublished works is known as",
+    "option": {
+      "a": "patent right",
+      "b": "fundamental human right",
+      "c": "copyright",
+      "d": "authorship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
     "id": 647,
     "question": "The cost which is incurred as a result of failure to load or unload a ship at the ports within a specified period is referred to as",
     "option": {
@@ -5856,6 +6064,22 @@
     "examyear": "2016"
   },
   {
+    "id": 676,
+    "question": "One of the factors of determining the volume of production is",
+    "option": {
+      "a": "availability of forex",
+      "b": "availability of storage facilities.",
+      "c": "the location of the business.",
+      "d": "the number of skilled manpower."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 677,
     "question": "Which of the following is the best method for computing working capital?",
     "option": {
@@ -5879,6 +6103,22 @@
       "b": "syndicate",
       "c": "Chamber of Commerce",
       "d": "Nigeria Bar Association."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 682,
+    "question": "Labour as an input in production can be motivated by",
+    "option": {
+      "a": "training",
+      "b": "profit.",
+      "c": "remuneration.",
+      "d": "promotion"
     },
     "section": "",
     "image": "",
@@ -5952,6 +6192,38 @@
     "examyear": "2000"
   },
   {
+    "id": 696,
+    "question": "Production involves",
+    "option": {
+      "a": "making goods available where and when needed",
+      "b": "changing the form of goods, moving and making them available as needed",
+      "c": "the manufacturing of goods and provision of services",
+      "d": "the assembling of all necessary parts to produce a finished product."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 697,
+    "question": "The application of division of labour should generally bring about",
+    "option": {
+      "a": "increase in the quantity of goods and services",
+      "b": "increase in the variety of goods and services",
+      "c": "cheapness of goods and services",
+      "d": "cost efficiency in the production of goods and services."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 698,
     "question": "The term Plc implies that the shares are available",
     "option": {
@@ -5979,6 +6251,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 701,
+    "question": "Government policies relating to the establishment and operations of businesses are targeted at",
+    "option": {
+      "a": "increasing the profits of business owners",
+      "b": "the general improvement of the economy",
+      "c": "even spread of facilities and employment",
+      "d": "diversification and expansion of businesses."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2000"
@@ -7168,6 +7456,22 @@
     "examyear": "2002"
   },
   {
+    "id": 826,
+    "question": "Which of the following involves foreign trade?",
+    "option": {
+      "a": "Supermarkets",
+      "b": "Chain stores",
+      "c": "Departmental stores",
+      "d": "Commodity markets."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 828,
     "question": "Which of the following industries is normally located near the \tsource of its raw materials?",
     "option": {
@@ -7392,6 +7696,22 @@
     "examyear": "2003"
   },
   {
+    "id": 852,
+    "question": "The payment made periodically in respect of an insurance policy entered into is known as",
+    "option": {
+      "a": "bond",
+      "b": "commission",
+      "c": "premium",
+      "d": "surrender value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 853,
     "question": "An example of service rendered by NIPOST is",
     "option": {
@@ -7579,6 +7899,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 878,
+    "question": "The market structure, business conditions and financial systems in Nigeria constitute the",
+    "option": {
+      "a": "economic environment",
+      "b": "political environment",
+      "c": "cultural environment",
+      "d": "technological environment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
