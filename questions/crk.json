@@ -144,6 +144,22 @@
     "examyear": "2006"
   },
   {
+    "id": 21,
+    "question": "The names of the two kings of Jericho destroyed by the Israelites during the conquest were ",
+    "option": {
+      "a": "Adonija and Haggith ",
+      "b": "Shion and Og ",
+      "c": "Zadok and Benaiah ",
+      "d": "Hiram and Jeroboam."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 22,
     "question": "Who is an atheist? ",
     "option": {
@@ -587,6 +603,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 86,
+    "question": "The conversion of Paul was made possible by",
+    "option": {
+      "a": "Simeon ",
+      "b": "Zacchaccus ",
+      "c": "the risen Lord ",
+      "d": "Mathew "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -1728,6 +1760,22 @@
     "examyear": "2005"
   },
   {
+    "id": 234,
+    "question": "According to Romans, when civil authorities punish evil doers, they do so as the",
+    "option": {
+      "a": "agents of God’s wrath",
+      "b": "supervisory authority",
+      "c": "agents of the darkness of this world",
+      "d": "representatives of angelic powers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 240,
     "question": "Paul taught the Colossians that the relationship between wives and their husbands should be as",
     "option": {
@@ -2080,6 +2128,22 @@
     "examyear": "2009"
   },
   {
+    "id": 289,
+    "question": "“Behold, I am the LORD, the God of all flesh; is anything too hard for me...” The statement above suggests that God is",
+    "option": {
+      "a": "merciful",
+      "b": "awesome",
+      "c": "most powerful",
+      "d": "not changeable."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 291,
     "question": "Prophet Amos told Israel to hate evil, love good and establish justice in the gate so that God would",
     "option": {
@@ -2203,6 +2267,38 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 302,
+    "question": "God guided Abraham’s steward in choosing a wife for Isaac by",
+    "option": {
+      "a": "teaching him how to select a good woman",
+      "b": "leading a lady to fulfil his prayer request",
+      "c": "taking him to Abraham’s fatherland",
+      "d": "giving him an exemplary woman."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 304,
+    "question": "Laxity in disciplining children is dangerous to both the family and society as exemplified by",
+    "option": {
+      "a": "Jonathan",
+      "b": "Tamar",
+      "c": "Absalom",
+      "d": "Ahikam."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -2528,6 +2624,22 @@
     "examyear": "2011"
   },
   {
+    "id": 345,
+    "question": "According to James, treatment of brethren at fellowship should not be based on",
+    "option": {
+      "a": "appearance",
+      "b": "sentiments",
+      "c": "gender",
+      "d": "age."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 347,
     "question": "The land, the sea and vegetation were created on the",
     "option": {
@@ -2535,6 +2647,22 @@
       "b": "second day",
       "c": "third day",
       "d": "fifth day."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
+    "id": 350,
+    "question": "What was Moses’ reaction when God called him to liberate his people from Egypt?",
+    "option": {
+      "a": "He was afraid of being punished for his previous offence",
+      "b": "His people would think he was too young to lead them",
+      "c": "His people would not listen to him",
+      "d": "His father in-law would not allow him to go."
     },
     "section": "",
     "image": "",
@@ -2795,6 +2923,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
+    "id": 395,
+    "question": "Peter enjoined humility because the humble shall",
+    "option": {
+      "a": "not be tempted",
+      "b": "be blessed",
+      "c": "receive God’s grace",
+      "d": "have long life."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2008"
@@ -3088,6 +3232,22 @@
     "examyear": "2013"
   },
   {
+    "id": 426,
+    "question": "The promise to those who are persecuted for righteousness sake is that they will",
+    "option": {
+      "a": "inherit the earth",
+      "b": "inherit the kingdom of heaven",
+      "c": "see God",
+      "d": "be called sons of God."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 429,
     "question": "After His arrest, Jesus was taken to",
     "option": {
@@ -3323,6 +3483,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 465,
+    "question": "The king planned to set Daniel over the whole kingdom because,",
+    "option": {
+      "a": "he was the most educated of all.",
+      "b": "an excellent spirit was in him.",
+      "c": "he wanted to favour a foreigner.",
+      "d": "Daniel brought information to the king."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2009"
@@ -4299,6 +4475,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 605,
+    "question": "When Saul disobeyed God’s command, Samuel rebuked him by saying that",
+    "option": {
+      "a": "the sword would never depart from his house",
+      "b": "to obey was better than sacrifice",
+      "c": "he should fear the LORD and obey the people’s voice.",
+      "d": "though he was little, yet he was the head."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -5408,6 +5600,22 @@
     "examyear": "2019"
   },
   {
+    "id": 770,
+    "question": "\"What you sow does not come to life unless it dies\". This was______",
+    "option": {
+      "a": "the message of St. Paul's teaching on the second coming of Christ",
+      "b": "made by St. Paul to Elymas, the magician",
+      "c": "the statement of Jesus to Martha",
+      "d": "the response St. Paul instructed Christians to give to those who doubt the resurrection of Christ"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 771,
     "question": "In the Gospel according to St. Matthew, Jesus sent His disciples to_______",
     "option": {
@@ -5419,6 +5627,22 @@
     "section": "",
     "image": "",
     "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 774,
+    "question": "Since fervent prayers of the righteous has great power in its effects, Christians according to St. James must________",
+    "option": {
+      "a": "confess and forsake their sins",
+      "b": "not ask wrongly",
+      "c": "be steadfast in prayer",
+      "d": "have faith while praying"
+    },
+    "section": "",
+    "image": "",
+    "answer": " a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -5595,6 +5819,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 799,
+    "question": "When Abner wanted to transfer his allegiance to David, the latter gave him the condition ",
+    "option": {
+      "a": "openly submit to Joab",
+      "b": "convince all Israel to come over to Davi  ",
+      "c": "restore his wife Michal to him.    ",
+      "d": "slay Ishbosheth. Saul’s successor."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -6368,6 +6608,22 @@
     "examyear": "2013"
   },
   {
+    "id": 898,
+    "question": "Who among the following was to ensure the safety of King Saul in the wilderness of Ziph? ",
+    "option": {
+      "a": "Joab           ",
+      "b": "Jonathan          ",
+      "c": "Abner           ",
+      "d": "  Abimelech"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 905,
     "question": "Your love is like the morning cloud, like the dew that goes early”. What did Hosea mean by this statement? ",
     "option": {
@@ -6480,6 +6736,22 @@
     "examyear": "2013"
   },
   {
+    "id": 922,
+    "question": "In his teaching as the True Vine, Jesus maintained that prayers could be answered if the disciples ",
+    "option": {
+      "a": "confess their sins. ",
+      "b": "abide in him.",
+      "c": "pray constantly. ",
+      "d": "ask for edifying things"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 923,
     "question": "On the day of Pentecost, the Apostles were filled with the Holy Spirit and they all",
     "option": {
@@ -6555,6 +6827,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 936,
+    "question": "Peter described Christians as a chosen race of God  because they are to",
+    "option": {
+      "a": "declare God’s wonderful deeds.",
+      "b": "become ordained-pastors.",
+      "c": "lead a new life.",
+      "d": "displace the Jews in God’s rating"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -7195,6 +7483,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1023,
+    "question": "Saul was converted on his journey to  ",
+    "option": {
+      "a": "Samaria                  ",
+      "b": " Jerusalem.",
+      "c": "  Salamis.",
+      "d": " Damascus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
