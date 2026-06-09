@@ -114,6 +114,25 @@
     "category": "others"
   },
   {
+    "id": 9,
+    "question": "The armed robbers went into the house and robbed the three",
+    "option": {
+      "a": "woman occupants",
+      "b": "women's occupants ",
+      "c": "woman's occupants",
+      "d": "   women occupants."
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 10,
     "question": " It was a free-for-all and the students were blamed for taking the law",
     "option": {
@@ -539,6 +558,25 @@
       "b": "a tolerable",
       "c": "a fretful ",
       "d": "an edgy"
+    },
+    "section": "opposite in meaning to the word(s) or phrase in italics ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 47,
+    "question": "The agency has sworn to deal  with all the <i>apostles</i>  of confederation ",
+    "option": {
+      "a": "opponents ",
+      "b": "apostates ",
+      "c": "Proponents ",
+      "d": "Protagonists "
     },
     "section": "opposite in meaning to the word(s) or phrase in italics ",
     "image": "",
@@ -2063,6 +2101,25 @@
     "section": "choose the option opposite in meaning to the word or phrase in italics.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 172,
+    "question": "Many Nigerians are <i>wary</i> of night journeys",
+    "option": {
+      "a": "worried about",
+      "b": "unscarred of",
+      "c": "satisfied with",
+      "d": "troubled about"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005",
@@ -5624,6 +5681,25 @@
     "category": "others"
   },
   {
+    "id": 497,
+    "question": "They are taught to value honour….. their lives.  ",
+    "option": {
+      "a": "from",
+      "b": "in",
+      "c": " than ",
+      "d": "above"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 499,
     "question": "1 missed the match though it was shown on television on  two…….. nights. ",
     "option": {
@@ -5654,6 +5730,25 @@
     "section": "choose the option that best completes the gap(s).",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 501,
+    "question": "You are just-putting the hat on. ……?",
+    "option": {
+      "a": "don't you  ",
+      "b": "isn't it ",
+      "c": " aren't you  ",
+      "d": "not so"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009",
@@ -6973,6 +7068,25 @@
     "category": "others"
   },
   {
+    "id": 642,
+    "question": "Ade tried to ...... all memory of his dead father?",
+    "option": {
+      "a": "recall",
+      "b": "obstruct",
+      "c": "obiterate",
+      "d": "eulogize"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 46,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 644,
     "question": "The meeting was called to ...... divergent views on the subject of a national conference?",
     "option": {
@@ -7881,6 +7995,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 66,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 763,
+    "question": "The politician's inflammatory remarks were heavily criticized?",
+    "option": {
+      "a": "The politican's rude remarks were heavily criticized",
+      "b": "The politican's provocative remarks were heavily criticized",
+      "c": " The politician's bombastic remarks were heavily criticized",
+      "d": "The politician's tribalistic remarks were heavily criticized"
+    },
+    "section": "<b>In each of questions 63 to 67, select the option that best explain the information conveyed in the sentence?</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 67,
     "hasPassage": 0,
     "category": "others"
   },
@@ -15789,6 +15922,25 @@
     "category": "others"
   },
   {
+    "id": 1603,
+    "question": "The government has decided to freeze student's grants. This means that government intends to",
+    "option": {
+      "a": "reduce grants meant for students",
+      "b": "resume paying grants to students",
+      "c": "make students repay the grants",
+      "d": "stop paying grants to students"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Freeze student's grants mean to stop giving grants to students",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 40,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1604,
     "question": "Choose the option nearest in meaning to the word or phrase in italics\n\nThis case is within the <i>jurisdiction</i> of the council",
     "option": {
@@ -17005,6 +17157,25 @@
     "category": "others"
   },
   {
+    "id": 1706,
+    "question": "In three words, describe the principal ( Mr. Mallum) as described in the novel.",
+    "option": {
+      "a": "small, wiry and spoke through his nose",
+      "b": "fat, smooth-cheeked and loved his job",
+      "c": "tall, good- looking and funny",
+      "d": " wicked, ugly and tall."
+    },
+    "section": "This question is from the novel 'The Last Days at Forcados High school'.\n",
+    "image": "",
+    "answer": "a",
+    "solution": "In chapter two, we were meant to understand that Mr.Mallum was a small, wiry man with an odd accent, as if he spoke through his nose.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 19,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1707,
     "question": "Choose the option that best fills the gap.\n\nIt has been confirmed that the election ------------- held in July next year",
     "option": {
@@ -17442,6 +17613,25 @@
     "category": "others"
   },
   {
+    "id": 1740,
+    "question": "<u>Ch</u>alet",
+    "option": {
+      "a": "champion",
+      "b": "chair",
+      "c": "champagne",
+      "d": "cheapen"
+    },
+    "section": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.",
+    "image": "",
+    "answer": "c",
+    "solution": "The answer is ‘C’ because only’ champagne’ /ʃæmpeIn/ has the same constant sound as ‘chalet’ ʃæl.eI/.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 53,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1741,
     "question": "This question is from the novel The Last Days at Forcados High school.\n\nWhat was the name of Jimi’s elder brother who stays abroad?",
     "option": {
@@ -17533,6 +17723,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 64,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1753,
+    "question": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\ngran<u>i</u>te",
+    "option": {
+      "a": "lean",
+      "b": "sit",
+      "c": "contrite",
+      "d": "light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The answer is B because the word ‘sit’ has the same vowel sound as the one underlined in ‘granite. The letter ‘I’in granite represent the short vowel. Sound /i/ and not the diphthong /ai/. Granite /graenit/ not /grænait/ /sit/ for sit.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 66,
     "hasPassage": 0,
     "category": "others"
   },
@@ -18350,6 +18559,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 61,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1821,
+    "question": "Conspiracy.",
+    "option": {
+      "a": "CONspiracy.",
+      "b": "conspiRAcy.",
+      "c": "conspiraCY",
+      "d": "conSPIracy."
+    },
+    "section": "choose the most appropriate stress pattern from the options.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "conspiracy; /kənˈspɪrəsi/",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 62,
     "hasPassage": 0,
     "category": "others"
   },
