@@ -192,6 +192,22 @@
     "examyear": "2006"
   },
   {
+    "id": 16,
+    "question": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is without replacement ",
+    "option": {
+      "a": "0.1",
+      "b": "0.47",
+      "c": "0.42",
+      "d": "0.21"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 18,
     "question": "All the vertices of an isosceles triangle lie on a circle and each of the base angles  of the triangle is 65o. The angle subtended at the centre of the circle by the base of the triangle is: ",
     "option": {
@@ -1472,6 +1488,22 @@
     "examyear": "2002"
   },
   {
+    "id": 175,
+    "question": "Simplify (√0.7+√70)<sup>2</sup>",
+    "option": {
+      "a": "84.7",
+      "b": "70.7",
+      "c": "217.7",
+      "d": "168.7"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <msqrt>\n    <mn>0.7</mn>\n  </msqrt>\n  <mo>+</mo>\n  <msqrt>\n    <mn>70</mn>\n  </msqrt>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(√0.7 + √70)<sup>2</sup>\n \n= (√0.7 + √70)(√0.7 + √70)\n= 0.7+2√(0.7×70) + 70\n= 0.7 + 14 + 70\n= 84.7",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 177,
     "question": "A trader bought goats for N4000 each. He sold them for N180,000 at a loss of 25%. How many goats did he buy?",
     "option": {
@@ -1612,6 +1644,22 @@
     "image": "",
     "answer": "c",
     "solution": "tan θ = opposite/adjacent = 4/3\n \nHyp<sup>2</sup> = 4<sup>2</sup>\n + 3<sup>2</sup>\nHyp = 5.\n\nsin θ = 4/5; cos θ = 3/5\nsin<sup>2</sup>θ − cos<sup>2</sup>θ = 16/25 −9/25\n= 7/25",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 199,
+    "question": "The sum of the interior angles of a polygon is 20 right angles. How many sides does the polygon have?",
+    "option": {
+      "a": "12",
+      "b": " 20",
+      "c": " 40",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The formula for the sum of the interior angles of a regular polygon = (2n - 4) x 90°\n\nGiven: Sum = 20 right angles\n\n(2n - 4) x 90° = 20 times 90°\n\n⇒ 2n - 4 = 20\n\n2n = 24; n = 12.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -2288,6 +2336,22 @@
     "examyear": "2004"
   },
   {
+    "id": 273,
+    "question": "Find the value of α<sup>2</sup> + β<sup>2</sup> if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units",
+    "option": {
+      "a": "14",
+      "b": "3",
+      "c": "5",
+      "d": "11"
+    },
+    "section": "Solution: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>P</mi>\n  <mi>Q</mi>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>1</mn>\n    <msup>\n      <mo stretchy=\"false\">)</mo>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <mo stretchy=\"false\">(</mo>\n    <mn>1</mn>\n    <mo>&#x2212;<!-- − --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <msup>\n      <mo stretchy=\"false\">)</mo>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>3</mn>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <mn>1</mn>\n    <mo>+</mo>\n    <mn>1</mn>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mo>+</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B1;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo stretchy=\"false\">)</mo>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>3</mn>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B1;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mo>+</mo>\n    <mn>2</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mo>+</mo>\n    <mn>2</mn>\n    <mo stretchy=\"false\">)</mo>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>3</mn>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B1;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <mo stretchy=\"false\">(</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mo>+</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mo stretchy=\"false\">)</mo>\n    <mo>+</mo>\n    <mn>2</mn>\n    <mo stretchy=\"false\">)</mo>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>3</mn>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B1;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <mo>&#x2217;<!-- ∗ --></mo>\n    <mn>2</mn>\n    <mo>+</mo>\n    <mn>2</mn>\n    <mo stretchy=\"false\">)</mo>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>3</mn>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B1;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <mo stretchy=\"false\">)</mo>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>9</mn>\n  <mo>=</mo>\n  <mo stretchy=\"false\">(</mo>\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>2</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mspace linebreak=\"newline\" />\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>=</mo>\n  <mn>9</mn>\n  <mo>+</mo>\n  <mn>2</mn>\n  <mspace linebreak=\"newline\" />\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>=</mo>\n  <mn>11</mn>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "PQ = √((β−1)<sup>2</sup>+(1−α)<sup>2</sup>).  3=√((β<sup>2</sup>−2β<sup>2</sup>+1+1−2α+α<sup>2</sup>)).   3=√((α<sup>2</sup>+β<sup>2</sup>−2α+2β+2)).       3=√((α<sup>2</sup>+β<sup>2</sup>−2(α+β)+2)).     3=√((α<sup>2</sup>+β<sup>2</sup>−2∗2+2)). 3=√((α<sup>2</sup>+β<sup>2</sup>−2)).  9=(α<sup>2</sup>+β<sup>2</sup>−2).       α<sup>2</sup>+β<sup>2</sup>=9+2. α<sup>2</sup>+β<sup>2</sup>=11.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 276,
     "question": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3).",
     "option": {
@@ -2460,6 +2524,22 @@
     "image": "",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 297,
+    "question": "What is the integral value of x which satisfy the inequality -1 < 3 -2x \n  ≤ 5?",
+    "option": {
+      "a": "-1. 0, 1, 2",
+      "b": "-2, 1, 0 , -1",
+      "c": "0, 1, 2",
+      "d": "-1, 0, 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "-1 < 3 -2x and 3 - 2x ≤\n 5\n2x < 3 + 1 and -2x ≤\n 5 - 3\n2x < 4 and -2x ≤\n 2\nx < 2 and x ≥\n 2/-2 = x ≥\n -1\nIf -1 ≤\n x < 2\nit implies that x = -1, 0, 1",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3372,6 +3452,22 @@
     "image": "",
     "answer": "d",
     "solution": "Each ∠of a regular polygon=((n-2)180)/n=((6-2)180)/6=((4)180)/6     = 120°\nΔQSR is isosceles\n∴ Q = S = 30°\nAlso ΔTSR is isosceles\n∴ T = R = 30°\n∠TSV + ∠VSR = 120\n∠TSV + 30 = 120\n∠TSV = 120 - 30\n∠TSV = 90°\n∴∴VTS + ∴VST + ∴TVS = 180 (sum of ∠s of a Δ)\n30 + 90 + ∠TVS = 180\n120 + ∠TVS = 180\n∠TVS = 180 - 120\n∠TVS = 60°\n",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 404,
+    "question": "If the locus of the points which are equidistant from point P and Q meets line PQ at point N, then PN equals",
+    "option": {
+      "a": "NQ",
+      "b": "1/4NQ",
+      "c": " 2NQ",
+      "d": "1/2NQ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Locus of point equidistant from points P and q is a perpendicular bisector of the straight joining P and Q\n∴PN = NQ",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -4448,6 +4544,22 @@
     "examyear": "2009"
   },
   {
+    "id": 544,
+    "question": "A regular polygon has 150º as the size of each interior angle. How many sides does it have?",
+    "option": {
+      "a": "12",
+      "b": "10",
+      "c": "9",
+      "d": "8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sum of interior angles of a polygon = each interior ∠ x n\n(n-2)180 = 150 x n\n180n - 360 = 150n\n180n-150n = 360\n30n = 360\nn = 360/30\nn = 12 sides\n",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 545,
     "question": "In the figure above , TS//XY and XY = TY, ∠STZ = 34°, ∠TXY = 47°, find the angle marked n?",
     "option": {
@@ -5120,6 +5232,22 @@
     "examyear": "2010"
   },
   {
+    "id": 618,
+    "question": "Find the standard deviation of 2, 3, 5 and 6",
+    "option": {
+      "a": "√6",
+      "b": "√10",
+      "c": "√2/5",
+      "d": "√5/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 620,
     "question": "Determine the value of x for which (x2 - 1)>0",
     "option": {
@@ -5488,6 +5616,22 @@
     "examyear": "2011"
   },
   {
+    "id": 666,
+    "question": "The pie chart shows the distribution of courses offered by students. What percentage of the students offer English?",
+    "option": {
+      "a": "30%",
+      "b": "25%",
+      "c": "35%",
+      "d": "20%"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129889/ALOC-Questions/Mathematics/2011/JAMB_MATH_2011_Q45_mvphhp.png",
+    "answer": "b",
+    "solution": "90/360 × 100 = 100/4\n \n\n= 25",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 668,
     "question": "In how many ways can the letters of the word ELATION be arranged?",
     "option": {
@@ -5680,6 +5824,22 @@
     "examyear": "2012"
   },
   {
+    "id": 740,
+    "question": "The binary operation on the set of real numbers is defined by m*n = mn/2\n for all m, n ∈ R. If the identity element is 2, find the inverse of -5",
+    "option": {
+      "a": "−4/5",
+      "b": "−2/5",
+      "c": "4",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "m * n = mn/2\n\n\nIdentify, e = 2\n\nLet a ∈ R, then\n\na * a<sub>-1</sub> = e\n\na * a<sub>-1</sub> = 2\n\n-5 * a<sub>-1</sub> = 2\n−5×a<sub>-1</sub> /2 = 2\n\n\na<sub>-1</sub> = 2 × 2/−5\n\n\na<sub>-1</sub> = −4/5",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 742,
     "question": "Given that I<sub>3</sub>  is a unit matrix of order 3, find |I<sub>3</sub> |",
     "option": {
@@ -5708,6 +5868,22 @@
     "image": "",
     "answer": "d",
     "solution": "Since there are 5 angles given, the polygon is a pentagon.\n\nSum of interior angles of a pentagon = (2(5) - 4) x 90° = 540°\n\n∴\n x + 2x + 3x + 4x + 5x = 15x\n\n15x = 540°\n\nx=540/15=36°",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 744,
+    "question": "Calculate the volume of a cuboid of length 0.76cm, breadth 2.6cm and height 0.82cm.",
+    "option": {
+      "a": "3.92cm<sup>3</sup>",
+      "b": " 2.13cm<sup>3</sup>",
+      "c": "1.97cm<sup>3</sup>",
+      "d": "1.62cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Volume of cuboid = L x b x h\n\n= 0.76cm x 2.6cm x 0.82cm\n\n= 1.62cm<sup>3</sup>",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -6000,6 +6176,22 @@
     "examyear": "2013"
   },
   {
+    "id": 776,
+    "question": "Simplify (√5(√147-√12)/√15",
+    "option": {
+      "a": "5",
+      "b": "1/5",
+      "c": "1/9",
+      "d": "9"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msqrt>\n        <mn>5</mn>\n      </msqrt>\n      <mo stretchy=\"false\">(</mo>\n      <msqrt>\n        <mn>147</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>12</mn>\n      </msqrt>\n    </mrow>\n    <msqrt>\n      <mn>15</mn>\n    </msqrt>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(√5(√147-√12)/√15           = (√5(√(49×3)-√(4×3))/√(5×3) = (√5(7√3-2√3)/(√5×√3) = (√3(7-2)/√3 = 5",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 782,
     "question": "If r varies inversely as the square root of s and t, how does s vary with r and t?",
     "option": {
@@ -6220,6 +6412,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131414/ALOC-Questions/Mathematics/2013/2013_MATH_JAMB_Q34_sbzuwd.jpg",
     "answer": "d",
     "solution": "Sum of the angles in a triangle = 180°\n\n180° - x + 60 + 70 = 180\n\n130° - x = 180° - 180° = 0°\n\nx = 130°",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 805,
+    "question": "The pie chart above shows the statistical distribution of 80 students in five subjects in an examination. Calculate how many student offer Mathematics.",
+    "option": {
+      "a": "30",
+      "b": "11",
+      "c": "50",
+      "d": "20"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131494/ALOC-Questions/Mathematics/2013/2013_MATH_JAMB_Q36_cdzvxs.jpg",
+    "answer": "b",
+    "solution": "5x° + (16x - 24)° + 5x° + (4x + 12)° + (6x + 12)° = 360°\n\n36x° - 24 + 12 + 12 = 360°\n\n36x° = 360°\n\nx° = 360°/36\n\n\n= 10°\n\nThus, the angle of sector representing Mathematics is 5 x 10° = 50°. Hence the number of students who offer mathematics is\n\n50/(360) × 80 ≈ 11",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -8336,6 +8544,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1050,
+    "question": "A cylindrical tank has a capacity of 3080m<sup>3</sup>\n. What is the depth of the tank if the diameter of its base is 14m?",
+    "option": {
+      "a": "25 cm",
+      "b": "23 cm",
+      "c": "22 cm",
+      "d": "20 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "V = 2080 cm<sup>3</sup>, h = ? \n\nr = 7 cm\n\nV = V/πr<sup>2</sup>h\nh = Vπr<sup>2</sup> = 3080/(22/7) × 49\n \n\n3080/54\n = 20cm",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1051,
     "question": "The acres for rice, pineapple, cassava, cocoa and palm oil in a certain district are given respectively as 2, 5, 3, 11 and 9. What is the angle of the sector of cassava in a pie chart? ",
     "option": {
@@ -8592,6 +8816,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1080,
+    "question": "The mean of ten positive numbers is 16. When another number is added, the mean becomes 18. Find the eleventh number",
+    "option": {
+      "a": "3",
+      "b": "16",
+      "c": "38",
+      "d": "30"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mean of 10 numbers = 16\n\nThe total sum of numbers = 16 x 10 = 160\n\nMean of 11 numbers = 18\n\nTotal sum of numbers = 11 x 18\n\n= 198\n\nThe 11th no. = 198 - 160\n\n= 38",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1081,
     "question": "Two numbers are removed at random from the numbers 1, 2, 3 and 4. What is the probability that the sum of the numbers removed is even?",
     "option": {
@@ -8652,6 +8892,22 @@
     "image": "",
     "answer": "d",
     "solution": "(m<sup>2</sup> + 2) (m -1)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1091,
+    "question": "If the binary operation ∗\n is defined by m ∗\n n = mn + m + n for any real number m and n, find the identity of the elements under this operation",
+    "option": {
+      "a": " e = 1",
+      "b": "e = -1",
+      "c": "e = -2",
+      "d": " e = 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Identity(e) : a ∗ e = a\n\nm ∗ e = m...(i)\n\nm ∗ e = me + m + e\n\nBecause m ∗ e = m \n\n: m = me + m + e\n\nm - m = e(m + 1)\n\ne = 0/(m + 1)\ne = 0",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -9184,6 +9440,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1144,
+    "question": "Make x the subject of the formula: y = (3x−9c)/(4x+5d)",
+    "option": {
+      "a": " x = −(9c−5dy)/4y−3",
+      "b": " x = 9c + 5dy/4y − 3",
+      "c": "x = 9c−5dy/4y−3",
+      "d": " x = −(9c+5dy)/4y−3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = (3x − 9c)/(4x+5d)\ny/1 = (3x − 9c)/(4x + 5d)\n=  y(4x + 5d) = 3x - 9c\n\n= 4xy + 5dy = 3x - 9c\n\n= 4xy - 3x = -9c - 5dy\n\n= (4y - 3)x = -9c - 5dy\n\n= x = (−9c−5dy)/(4y − 3)\nx = −(9c+5dy)/(4y − 3)",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1146,
     "question": "The diagram above is a circle with centre C. P, Q and S are points on the circumference. PS and SR are tangents to the circle. ∠PSR = 36<sup>o</sup>\n. Find ∠PQR",
     "option": {
@@ -9324,6 +9596,22 @@
     "image": "",
     "answer": "c",
     "solution": "402<sub>y</sub> =102<sub>ten</sub> \n \n⇒ 4 x y<sup>2</sup> + 0 x y<sup>1</sup> + 2 x y<sup>0</sup>\n = 102\n\n⇒ 4y<sup>2</sup> + 0 + 2 x 1 = 102\n\n⇒ 4y<sup>2</sup> + 2 = 102\n\n⇒ 4y<sup>2</sup> = 102 - 2\n\n⇒ 4y<sup>2</sup> = 100\n\n⇒ y<sup>2</sup>=100/4\n⇒ y<sup>2</sup> = 25\n\n∴ y = √25 = 5",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1163,
+    "question": "Find the value of y, if log (y + 8) + log (y - 8) = 2log 3 + 2log 5",
+    "option": {
+      "a": " y = ±5",
+      "b": " y = ±10",
+      "c": " y = ±17",
+      "d": " y = ±13"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "log (y + 8) + log (y - 8) = 2log 3 + 2log 5\n\n⇒ log (y + 8)(y - 8) = 2log 3 + 2log 5 (log ab = log a + log b)\n\n⇒ log (y<sup>2</sup> -8y + 8y - 64) = log 3<sup>2</sup> + log 5<sup>2</sup>\n\n\n⇒ log (y<sup>2</sup> - 64) = log 3<sup>2</sup> + log 5<sup>2</sup>\n\n\n⇒ log (y<sup>2</sup> - 64) = log 9 + log 25\n\n⇒ log (y<sup>2</sup> - 64) = log (9 × 25)\n\n⇒ log(y<sup>2</sup> - 64) = log 225\n\n⇒ y<sup>2</sup> - 64 = 225\n\n⇒ y<sup>2</sup> = 225 + 64\n\n⇒ y<sup>2</sup> = 289\n\n⇒ y = ±√289\n\n∴ y = ±17",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -10300,6 +10588,22 @@
     "image": "",
     "answer": "b",
     "solution": "Cost Price:\n\nSelling price = 100 : (100 + 15)\n\n= 100 : 115\n\nCost Price\n\n= 100 ÷ 115 of selling price (i.e N420,000)\n\n= 100 ÷ 115 × N420,000\n\n= N365,217.4\n\n∴ Cost Price = N365, 217",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1264,
+    "question": "Find the value of x if [1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>]",
+    "option": {
+      "a": "3/2",
+      "b": "2/3",
+      "c": "1/3",
+      "d": "-3/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": " [1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>]               64<sup>-(x+2)</sup>=[4<sup>(x−3)</sup>] ÷ [16<sup>x</sup>]\n\n\nbreakdown 4,16,64 into a small index no\n\n2<sup>−6(x+2)</sup> = 2<sup>2</sup>(x−3)÷2<sup>4(x)</sup>\n\n\n2<sup>−6x−12</sup> =2<sup>2x−4x−6</sup>\n\n\n2<sup>−6x−12</sup> = 2<sup>−2x−6</sup>\n\n\n− 6x − 12 = − 2x − 6\n\nCollect the like term\n\n−6x + 2x = −6 + 12\n\n−4x =6\n\nx = 6/4\n\n\nx = −3/2",
     "examtype": "utme",
     "examyear": "2015"
   },
