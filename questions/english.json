@@ -2128,6 +2128,25 @@
     "category": "others"
   },
   {
+    "id": 121,
+    "question": "The injured man is determined to <i>get back</i> at his assailant.",
+    "option": {
+      "a": "attack",
+      "b": "identify",
+      "c": "visit",
+      "d": "forgive"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 122,
     "question": "The player <i>writhed in pain</i> after the fall.",
     "option": {
