@@ -480,6 +480,22 @@
     "examyear": "2003"
   },
   {
+    "id": 31,
+    "question": "If a DNA strand has a base sequence TCA, its complementary strand must be",
+    "option": {
+      "a": "ATG  ",
+      "b": "TAG",
+      "c": "GAT  ",
+      "d": "AGT"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 32,
     "question": "A man and his wife are both heterozygous for the sickle cell trait. The likely percentage of their offspring that will be either carriers of sicklers is",
     "option": {
@@ -1563,6 +1579,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 102,
+    "question": "Hydrostatic skeleton is the type of supporting system found in",
+    "option": {
+      "a": "Mammals  ",
+      "b": "reptiles  ",
+      "c": "oligochaetes   ",
+      "d": "arthropods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
