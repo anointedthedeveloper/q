@@ -976,6 +976,22 @@
     "examyear": "2005"
   },
   {
+    "id": 93,
+    "question": "The excess of the assets over the liabilities of a business is called ",
+    "option": {
+      "a": "working capital",
+      "b": "net worth ",
+      "c": "capital employed ",
+      "d": " initial capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 94,
     "question": "Initial public offering is undertaken through the",
     "option": {
@@ -1872,6 +1888,22 @@
     "examyear": "2007"
   },
   {
+    "id": 179,
+    "question": "The Internet is a system of telecommunications used for   ",
+    "option": {
+      "a": "communicating long-distance messages ",
+      "b": "sending and receiving text messages",
+      "c": "sending electronic messages .",
+      "d": "communicating messages through telegrams."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 180,
     "question": "A written  agreement for  hiring  a  ship for transporting goods is a ",
     "option": {
@@ -2368,6 +2400,22 @@
     "examyear": "2008"
   },
   {
+    "id": 225,
+    "question": "An association to which all chambers of commerce in Nigeria are affiliated is the ",
+    "option": {
+      "a": "Nigeria Labour Congress ",
+      "b": "National Association of Chambers of Commerce, Industry, Mines and Agriculture",
+      "c": "Nigeria Association of Chambers of Commerce, Industry, Mines and Agriculture ",
+      "d": "Nigeria Stock Exchange "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 226,
     "question": "The resources which are necessary for business development include ",
     "option": {
@@ -2475,6 +2523,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 238,
+    "question": "An agreement between two parties which is enforceable by law is a ",
+    "option": {
+      "a": "promise ",
+      "b": "warranty ",
+      "c": "contract ",
+      "d": "condition "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -2800,6 +2864,22 @@
     "examyear": "2009"
   },
   {
+    "id": 264,
+    "question": "In which of the following will be number of words used determine the cost of the message sent?",
+    "option": {
+      "a": "telephone",
+      "b": "telegram ",
+      "c": "e-mail",
+      "d": "telex"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 265,
     "question": "The transmission of telephone services from one country to another is facilitated by ",
     "option": {
@@ -2811,6 +2891,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 267,
+    "question": "A risk that can be estimated and calculated to be compensated is ",
+    "option": {
+      "a": "a delivery risk ",
+      "b": "an insurable risk",
+      "c": "a credit risk ",
+      "d": "a systematic risk "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -6368,6 +6464,22 @@
     "examyear": "2013"
   },
   {
+    "id": 588,
+    "question": "Management function which arranges people, time, money and equipment, to achieve the objectives of an organization is referred to as",
+    "option": {
+      "a": "directing",
+      "b": "motivating",
+      "c": "organizing",
+      "d": "planning"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 589,
     "question": "Bridging the gap between producers and consumers is the sole purpose of",
     "option": {
@@ -6571,6 +6683,22 @@
     "section": "Use the information given  to answer question: Opening stock  [ N=1,000], Closing stock  [ N=9,000 ], Purchases  [N=14,000]",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 605,
+    "question": "The cost of goods sold is",
+    "option": {
+      "a": "N=6000",
+      "b": "N=10000",
+      "c": "N=42000",
+      "d": "N=16000"
+    },
+    "section": "Use the information given  to answer question: Opening stock  [ N=1,000], Closing stock  [ N=9,000 ], Purchases  [N=14,000]",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1990"
@@ -7856,6 +7984,22 @@
     "examyear": "2000"
   },
   {
+    "id": 718,
+    "question": "A form of money that has gone out of use is",
+    "option": {
+      "a": "paper money",
+      "b": "bank money",
+      "c": "commodity money",
+      "d": "foreign money."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 720,
     "question": "The Stock Exchange helps to provide capital for industrial projects because it",
     "option": {
@@ -7959,6 +8103,22 @@
       "b": "agency by necessity",
       "c": "agency by ratification",
       "d": "agency by estoppel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 730,
+    "question": "After registration, a certificate of trading is usually issued to a",
+    "option": {
+      "a": "partnership",
+      "b": "public company",
+      "c": "private company",
+      "d": "sole proprietorship."
     },
     "section": "",
     "image": "",
@@ -8256,6 +8416,22 @@
     "examyear": "2001"
   },
   {
+    "id": 753,
+    "question": "The difference between total current assets and total current liabilities of a business is known as",
+    "option": {
+      "a": "quick ratio",
+      "b": "liquidity ratio",
+      "c": "working capital",
+      "d": "circulating capital."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 754,
     "question": "One of the reasons why wholesaling must continue is that",
     "option": {
@@ -8464,6 +8640,22 @@
     "examyear": "2001"
   },
   {
+    "id": 773,
+    "question": "The main factors that determine the value stock on the Stock Exchange are dividend an",
+    "option": {
+      "a": "the psychology of the market",
+      "b": "capital gain",
+      "c": "capital appreciation",
+      "d": "warrant payment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 774,
     "question": "One of the main objectives of the Second- tier Securities Market in Nigeria is to",
     "option": {
@@ -8507,6 +8699,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 777,
+    "question": "Which of these companies are more engaged in public relations activities?",
+    "option": {
+      "a": "I and II",
+      "b": "I and III",
+      "c": "II and IV",
+      "d": "Ill and IV."
+    },
+    "section": "Companies I, II, III and IV produce and sell electronic videos. Company I sells its videos for N= 14 000 each and offers advice on how to fix and operate them. Company II sells at N14 000 and its representatives go to install at no additional cost. Company III sells at N15 500 and offers credit sales at N15 500 per video while company IV sells at N= 15 000 each.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
@@ -9264,6 +9472,22 @@
     "examyear": "2002"
   },
   {
+    "id": 839,
+    "question": "The founders’ shares are usually referred to as deferred shares because the holders",
+    "option": {
+      "a": "are entitled to cumulative dividends",
+      "b": "receive their dividends after other shareholders",
+      "c": "receive   their   dividends   before   other shareholders",
+      "d": "are not entitled to any dividends."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 841,
     "question": "An obstacle to international trade is",
     "option": {
@@ -9387,6 +9611,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 851,
+    "question": "A firm that adapts itself to delivering the desired satisfaction more effectively and efficiently than its competitors is said to be practicing",
+    "option": {
+      "a": "price concept",
+      "b": "distribution concept",
+      "c": "product concept",
+      "d": "marketing concept"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
