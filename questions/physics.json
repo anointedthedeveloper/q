@@ -3200,6 +3200,22 @@
     "examyear": "2016"
   },
   {
+    "id": 212,
+    "question": "Shadows and eclipse result from the",
+    "option": {
+      "a": "Reflection of light",
+      "b": "Rectilinear propagation of light",
+      "c": "Diffraction of light",
+      "d": "Refraction of light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Shadows and eclipses result from light traveling in straight lines and being blocked by opaque objects.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 213,
     "question": "Which of the following is obtained when a magenta is mixed with green colour?",
     "option": {
@@ -15900,6 +15916,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nPower, P = 2000 W\nVoltage, V = 250 V\n\nSolution:\n\nStep 1: Relationship between power, voltage, and current\nThe electrical power is given by P = I × V, where I is the current.\n\nStep 2: Rearrange to find current\nI = P / V\n\nStep 3: Substitute the given values\nI = 2000 W / 250 V = 8 A",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1074,
+    "question": "When a charge moves through an electric circuit in the direction of an electric force, it",
+    "option": {
+      "a": " gains both potential and kinetic energy",
+      "b": " gains potential energy and lose kinetic energy",
+      "c": "loses potential energy and gains kinetic energy",
+      "d": "loses both potential and kinetic energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a charge moves in the direction of electric force, it loses potential energy and gains kinetic energy.",
     "examtype": "utme",
     "examyear": "2013"
   },
