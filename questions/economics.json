@@ -992,6 +992,22 @@
     "examyear": "2011"
   },
   {
+    "id": 105,
+    "question": "Which of the following is NOT a limitation to division of labour and specialization ",
+    "option": {
+      "a": "the size of the market",
+      "b": "availability of capital ",
+      "c": "interdependence among the workers ",
+      "d": "the nature of the product "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 106,
     "question": "The following are the advantages of internal economics of large scale production except ",
     "option": {
@@ -1179,6 +1195,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 126,
+    "question": "Inflation as a result of increase in the payment for factors of production is called  ",
+    "option": {
+      "a": "Cost-pull inflation  ",
+      "b": "Demand-push inflation  ",
+      "c": "Cost-push inflation  ",
+      "d": "Demand pull inflation "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -2112,6 +2144,22 @@
     "examyear": "2001"
   },
   {
+    "id": 212,
+    "question": "The monopolist power can be controlled by the government through",
+    "option": {
+      "a": "Labour union",
+      "b": "Price legislation",
+      "c": "import restrictions",
+      "d": "export promotion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 213,
     "question": "Which of the following is not a condition for a perfect market?",
     "option": {
@@ -2411,6 +2459,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 239,
+    "question": "Equilibrium price is the price at which quantity",
+    "option": {
+      "a": "demanded is greater than quantity supplied",
+      "b": "supplied is greater than quantity demanded",
+      "c": "demanded is equal to quantity supplied",
+      "d": "supplied equals quantity produced"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 240,
+    "question": "A decrease in supply with demand remaining unchanged will cause the equilibrium price for a good to",
+    "option": {
+      "a": "be unchanged",
+      "b": "remain elastic",
+      "c": "remain inelastic",
+      "d": "rise"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -3088,6 +3168,22 @@
     "examyear": "2012"
   },
   {
+    "id": 309,
+    "question": "The demand for money to take advantage of changes in bond \tprices is the",
+    "option": {
+      "a": "unforeseen motive",
+      "b": "transaction motive",
+      "c": "speculative motive",
+      "d": "precautionary motive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 311,
     "question": "Deposits held in a commercial bank are part of",
     "option": {
@@ -3371,6 +3467,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 339,
+    "question": "In the long run, one of the characteristics of monopolistic competitive firms is that the",
+    "option": {
+      "a": "make  abnormal profits",
+      "b": "suffer losses",
+      "c": "make normal profits",
+      "d": "collude with each other"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -3767,6 +3879,22 @@
       "b": "infinitely inelastic",
       "c": "fairly inelastic",
       "d": "fairly elastic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 384,
+    "question": "In order to reduce hardship faced by consumers due to high prices, government can introduce",
+    "option": {
+      "a": "maximum prices",
+      "b": "minimum prices",
+      "c": "commodity boards",
+      "d": "price control boards"
     },
     "section": "",
     "image": "",
@@ -4384,6 +4512,22 @@
     "examyear": "2003"
   },
   {
+    "id": 441,
+    "question": "The economic goal of public corporations is to",
+    "option": {
+      "a": "maximize profit",
+      "b": "expand assets",
+      "c": "minimize costs",
+      "d": "provide essential services."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
     "id": 443,
     "question": "Efficient distribution of goods in West Africa will be \n\tfacilitated by",
     "option": {
@@ -4395,6 +4539,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2003"
+  },
+  {
+    "id": 446,
+    "question": "A continuous fall in the general price level is called",
+    "option": {
+      "a": "recession",
+      "b": "depression",
+      "c": "deflation",
+      "d": "stagflation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2003"
@@ -4768,6 +4928,22 @@
     "examyear": "2004"
   },
   {
+    "id": 480,
+    "question": "Demand for inferior good is an example of",
+    "option": {
+      "a": "expansion of demand",
+      "b": "contraction of demand",
+      "c": "individual demand",
+      "d": "abnormal demand"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2004"
+  },
+  {
     "id": 482,
     "question": "For both the monopolist and the perfectly competitive firm, profit maximizing output occurs at the point where the",
     "option": {
@@ -5035,6 +5211,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 515,
+    "question": "The production factor, whose entire world supply is fixed is",
+    "option": {
+      "a": "land",
+      "b": "skilled labour",
+      "c": "capital goods",
+      "d": "entrepreneurship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -5440,6 +5632,22 @@
     "examyear": "2005"
   },
   {
+    "id": 556,
+    "question": "ln calculating the national income of a country x, the cost of both raw materials and the finished products \t\twere included. This is a case of",
+    "option": {
+      "a": "double counting",
+      "b": "price fluctuations",
+      "c": "price differentiation",
+      "d": "price discrimination"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 557,
     "question": "Economic development is defined as",
     "option": {
@@ -5639,6 +5847,22 @@
       "b": "demand for the commodity will fall",
       "c": "supply of the commodity will be constant",
       "d": "Supply of the commodity will fall."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 578,
+    "question": "A debenture holder is entitled to payments in the form of",
+    "option": {
+      "a": "allowance",
+      "b": "interest",
+      "c": "salary",
+      "d": "donation"
     },
     "section": "",
     "image": "",
@@ -6119,6 +6343,22 @@
       "b": "A producer",
       "c": "A banker",
       "d": "A retailer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 630,
+    "question": "A negative effect of the presence of a large number of middlemen in the distributive network is",
+    "option": {
+      "a": "greater variety of goods",
+      "b": "greater quality of goods",
+      "c": "lower price of goods",
+      "d": "higher price of goods"
     },
     "section": "",
     "image": "",
