@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 6,
+    "question": "A business invested a total of N200,000 in two companies which paid dividends of 5% and 7% respectively. If the received a total of N11, 600 as dividend, how much did he invest at 5% ",
+    "option": {
+      "a": "N160,000 ",
+      "b": "N140,000 ",
+      "c": "N120,000 ",
+      "d": "N80,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 12,
     "question": "Expand the expression (x2-2x-3)(x2+x+1).  ",
     "option": {
@@ -496,6 +512,22 @@
     "examyear": "2002"
   },
   {
+    "id": 217,
+    "question": "The triangle PQR above is",
+    "option": {
+      "a": "an obtuse-angled triangle",
+      "b": "a scalene triangle",
+      "c": "an isosceles triangle",
+      "d": "an equilateral triangle"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698158/ALOC-Questions/Mathematics/2002/math_2000_q46_z9epjm.jpg",
+    "answer": "c",
+    "solution": "∠PQR = 180 - 128 (∠s on a straight line)\n= 52°\n∠QPR + 76 + 52 = 180(extr ∠ = sum of intr. opp ∠s)\n∠QPR + 128 = 180\n∠QPR = 180 - 128\n= 52°\n∴ΔPQR is an isosceles triangle",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 250,
     "question": "Triangle OPQ is the solution of the inequalities",
     "option": {
@@ -800,6 +832,22 @@
     "examyear": "2006"
   },
   {
+    "id": 388,
+    "question": "Calculate the logarithm to base 9 of 3<sup>-4</sup> * 9<sup>2</sup> * (81)<sup>-1</sup>",
+    "option": {
+      "a": "2",
+      "b": "0",
+      "c": " -2",
+      "d": "-4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 399,
     "question": "In triangle XYZ, ∠XYZ = 15o, ∠XZY = 45o and lXYl = 7 cm. Find lYZl.",
     "option": {
@@ -976,6 +1024,22 @@
     "examyear": "2009"
   },
   {
+    "id": 528,
+    "question": "Simplify (5+√7)/(3+√7)",
+    "option": {
+      "a": "17-√7",
+      "b": "4-√7",
+      "c": "15+√7",
+      "d": "7-√7"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>5</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo stretchy=\"false\">)</mo>\n      <mo stretchy=\"false\">(</mo>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <msup>\n        <mn>3</mn>\n        <mn>2</mn>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <msup>\n        <msqrt>\n          <mn>7</mn>\n        </msqrt>\n        <mn>2</mn>\n      </msup>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>15</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>5</mn>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo>+</mo>\n      <mn>3</mn>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>7</mn>\n    </mrow>\n    <mrow>\n      <mn>9</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>7</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>8</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>2</mn>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n</math>\n\n\n\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <mo stretchy=\"false\">(</mo>\n      <mn>4</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>4</mn>\n  <mo>&#x2212;<!-- − --></mo>\n  <msqrt>\n    <mn>7</mn>\n  </msqrt>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(5+√7)/(3+√7) = (5+√7)/(3+√7) × (3-√7)/(3-√7) = ((5+√7)(3-√7))/(3<sup>2</sup>-√7<sup>2</sup> ) = (15-5√7+3√7-7)/(9-7) = (8-2√7)/2.                  Factorize then divide by 2.            =(2(4-√7)/2  = 4-√7",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 535,
     "question": "Determine the value of x for which (x<sup>2</sup> - 1) > 0?",
     "option": {
@@ -1020,6 +1084,38 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547077/ALOC-Questions/Mathematics/2009/MATH_2009_Q21_ozlhdt.jpg",
     "answer": "d",
     "solution": "(x+3)(x-1) - {(x+1)(x+2)} = -10\nx<sup>2</sup>  - x + 3x - 3 - {x2 + 2x + x + 2} = -10\nx<sup>2</sup>  + 2x - 3 - {x<sup>2</sup>  + 3x + 2} = -10\n-x - 5 = -10\n-5 + 10 = x\n5 = x\n∴x = 5",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 545,
+    "question": "In the figure above , TS//XY and XY = TY, ∠STZ = 34°, ∠TXY = 47°, find the angle marked n?",
+    "option": {
+      "a": "47°",
+      "b": " 52°",
+      "c": "56°",
+      "d": "99°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547111/ALOC-Questions/Mathematics/2009/MATH_2009_Q24_ilgdry.jpg",
+    "answer": "b",
+    "solution": "In Δ TYX\nXY = TY ∴y =47° base ∠s of ISCΔ\nBut y+x+34+47 = 180 interior\nopposite ∠s are supplementary\n47 + x + 34 + 47 = 180\nx + 128= 180\nx = 180- 128\nx = 52°",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 559,
+    "question": "The distribution above shows the number of days a group of 260 students were absent from school in a particular term. How many students were absent for at least four days in the term?",
+    "option": {
+      "a": "180",
+      "b": "120",
+      "c": "110",
+      "d": "40"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547266/ALOC-Questions/Mathematics/2009/MATH_2009_Q38_ehu03j.jpg",
+    "answer": "b",
+    "solution": "20 + 2x + 60 + 40 + x + 50 = 260\n170 + 3x = 260\n3x = 260 - 170\n3x = 90\nx = 90/3 = 30\nAt least 4 days\n4 days = 40\n5 days = 30\n6 days = 50\nTotal = 120",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -1168,6 +1264,22 @@
     "examyear": "2011"
   },
   {
+    "id": 654,
+    "question": "ClassIntervalsFrequency0−233−526−859−113\n \nFind the mode of the above distribution.",
+    "option": {
+      "a": "9",
+      "b": "8",
+      "c": "10",
+      "d": "7"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>C</mi>\n        <mi>l</mi>\n        <mi>a</mi>\n        <mi>s</mi>\n        <mi>s</mi>\n        <mi>I</mi>\n        <mi>n</mi>\n        <mi>t</mi>\n        <mi>e</mi>\n        <mi>r</mi>\n        <mi>v</mi>\n        <mi>a</mi>\n        <mi>l</mi>\n        <mi>s</mi>\n      </mtd>\n      <mtd>\n        <mn>0</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>6</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>8</mn>\n      </mtd>\n      <mtd>\n        <mn>9</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>11</mn>\n      </mtd>\n      <mtd />\n    </mtr>\n    <mtr>\n      <mtd>\n        <mi>F</mi>\n        <mi>r</mi>\n        <mi>e</mi>\n        <mi>q</mi>\n        <mi>u</mi>\n        <mi>e</mi>\n        <mi>n</mi>\n        <mi>c</mi>\n        <mi>y</mi>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd />\n    </mtr>\n  </mtable>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129744/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q33_qgwykn.jpg",
+    "answer": "d",
+    "solution": "Mode = L<sub>1</sub> + (D<sub>1</sub/D<sub>1</sub>+D<sub>2</sub>)C\n\nD<sub>1</sub> = frequency of modal class - frequency of the class before it\n\nD<sub>1</sub> = 5 - 2 = 3\n\nD<sub>2</sub> = frequency of modal class - frequency of the class that offers it\n\nD<sub>2</sub> = 5 - 3 = 2\n\nL<sub>1</sub> = lower class boundary of the modal class\n\nL<sub>1</sub> = 5 - 5\n\nC is the class width = 8 - 5.5 = 3\n\nMode = L<sub>1</sub> + (D<sub>1</sub>/D<sub>1</sub>+D<sub>2</sub>)C\n\n= 5.5 + 3/(2+3)C\n\n= 5.5 + 3/5 x 3\n\n= 5.5 + 9/5\n\n= 5.5 + 1.8\n\n= 7.3 ≈ = 7",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 659,
     "question": " From the table above, find the median and range of the data respectively.",
     "option": {
@@ -1196,6 +1308,22 @@
     "image": "",
     "answer": "d",
     "solution": "First, convert to base 10\n\n112<sub>6</sub>  = (1 x 6<sup>2</sup>) + (1 x 6<sup>1</sup>) + (2 x 6<sup>0</sup>)\n\n= 36 + 6 + 2\n\n= 44<sup>10</sup>) \n \n\nAns = 1122 = D",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 722,
+    "question": "Simply {2(2/3)×1(1/2)}/4(4/5)",
+    "option": {
+      "a": "1(1/4)",
+      "b": "1(1/6)",
+      "c": "5/6",
+      "d": "4/5"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <mfrac>\n        <mn>2</mn>\n        <mn>3</mn>\n      </mfrac>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1</mn>\n      <mfrac>\n        <mn>1</mn>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mfrac>\n        <mn>4</mn>\n        <mn>5</mn>\n      </mfrac>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "(2 2/3×1 1/2)/(4 4/5)     8/3 ×3/2 ÷ 24/5\n \n\n8/3 × 3/2 × 5/24\n\n\n5/6",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -1264,6 +1392,22 @@
     "examyear": "2012"
   },
   {
+    "id": 789,
+    "question": "If y = x sin x, find δy/δx",
+    "option": {
+      "a": "sin x - cos x",
+      "b": ". cos x - x sin x",
+      "c": "cos x + x sin x",
+      "d": "sin x + x cos x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = x sin x\n\nWhere u = x and v = sin x\n\nThen δu/δx = 1 and δv/δx = cos x\n\nBy the chain rule, δy/δx = v(δu/δx) + u(δv/δx)\n\n\n= (sin x)1 + x cos x\n\n= sin x + x cos x",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 794,
     "question": "Calculate the median age of the frequency distribution in the table above",
     "option": {
@@ -1276,6 +1420,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131268/ALOC-Questions/Mathematics/2013/JAMB_MATH_2013_Q25_lpvli2.jpg",
     "answer": "a",
     "solution": "N = ∑f = 15\n\nHence the median age is the (N+1/2)th age,i.e.\n\n(15+1)/2)th = 8th\n\nFrom the table, the age that falls on the 8th position when arranged in ascending order is 25years",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 795,
+    "question": "If the variance of 3+x, 6, 4, x and 7-x is 4 and the mean is 5, find the standard deviation",
+    "option": {
+      "a": "√3",
+      "b": "2",
+      "c": "3",
+      "d": "√2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let δ<sup>2</sup> and δ denote the variance and standard deviation of the distribution respectively.\n\nBut δ<sup>2</sup> = 4 (given)\n\nHence δ = √4 = 2",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -1420,6 +1580,22 @@
     "image": "",
     "answer": "d",
     "solution": "The locus of points at a fixed distance from the point P is a circle with the given P at its centre.\n\nThe locus of points at a fixed distance from the point Q is a circle with the given point Q at its centre\n\nThe locus of points equidistant from two points P and Q i.e line PQ is the perpendicular bisector of the segment determined by the points\n\nHence, The locus of a point which is equidistant from the line PQ forms a perpendicular line to PQ",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 882,
+    "question": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 7, 10, 6, 5",
+    "option": {
+      "a": "16",
+      "b": "14",
+      "c": "12",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Range = Highest Number - Lowest Number\n\nMode is the number with highest occurrence\n10, 9, 10, 9, 8, 7, 7, 10, 8, 4, 6,, 9, 10, 9, 7, 10, 6, 5\n\nRange = 10 − 4 = 6\n\nMode = 10\n\nSum of range and mode = range + mode = 6 + 10\n\n= 16",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -1888,6 +2064,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1130,
+    "question": "If 8, p, q and 26 is an A.P. Find the values of p and q",
+    "option": {
+      "a": "p = 14 and q = 14",
+      "b": " p = 20 and q = 14",
+      "c": " p = 20 and q = 20",
+      "d": " p = 14 and q = 20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The common difference is 6.\n\nJust add 6 to get the next term\n\n8, 14, 20 and 26",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1134,
     "question": "Three times a certain number (x), minus 2 is less than the number minus 6.Find the possible values of x.",
     "option": {
@@ -2014,6 +2206,22 @@
     "solution": "x/2 + 3/4 ≤ 5x/6 −7/12\n\n\n12(x/2) + 12(3/4) ≤ 12(5x/6) −12(7/12)\n\n\n6x + 9 ≤ 10x - 7\n\n6x - 10x ≤ - 7 - 9\n\n-4x ≤ -16\n\n-4x/-4 ≥ -16/-4\n\nx ≥ 4",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 1238,
+    "question": "Factorize x<sup>2</sup> + 9x + 20",
+    "option": {
+      "a": "(x − 5)<sup>2</sup>",
+      "b": "(x + 5)(x + 4)",
+      "c": " (x – 5)(x + 3)",
+      "d": " (x + 3)<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x<sup>2</sup>+9x+20\n \n\nFind the two numbers whose product is 20 and its sum is 9}\n\n5x × 4x = 20x<sup>2</sup>\n\n\n\n5x + 4x = 9x\n\n\n(x<sup>2</sup>+5x) + (4x+20)\n\nx(x+5)+4(x+5)=(x+5)(x+4)",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 1240,
