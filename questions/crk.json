@@ -912,6 +912,22 @@
     "examyear": "2008"
   },
   {
+    "id": 69,
+    "question": "One of the following said: “the lion has roared who will not fear? ",
+    "option": {
+      "a": "Nathan ",
+      "b": "Jeremiah ",
+      "c": "Amos ",
+      "d": "Hosea"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 70,
     "question": "Josiah’s reign was popular because of his ",
     "option": {
@@ -2779,6 +2795,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 216,
+    "question": "Jesus said “Not everyone who says to me ‘Lord, Lord,’ shall enter into the kingdom of heaven, but he who",
+    "option": {
+      "a": "hears the word of God”.",
+      "b": "prays and fasts’",
+      "c": "prophesies in my name”",
+      "d": "does the will of my father”"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -5680,6 +5712,22 @@
     "examyear": "2013"
   },
   {
+    "id": 440,
+    "question": "In Corinthians, Paul said that one can only say Jesus is Lord by",
+    "option": {
+      "a": "denouncing the law",
+      "b": "faith",
+      "c": "grace",
+      "d": "the Holy Spirit."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 441,
     "question": "When Christians give freely, God will supply",
     "option": {
@@ -5963,6 +6011,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 464,
+    "question": "Jeremiah said the people of Judah were in a state of mourning because,",
+    "option": {
+      "a": "they sinned against God.",
+      "b": "their vessels were empty",
+      "c": "their farms were destroyed.",
+      "d": "there was drought in the land."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2009"
@@ -7296,6 +7360,22 @@
     "examyear": "2010"
   },
   {
+    "id": 564,
+    "question": "According to Amos’ prophecy, the “Day of the Lord” to the Israelites would be a day of",
+    "option": {
+      "a": "victory over enemies",
+      "b": "happiness.",
+      "c": "doom.",
+      "d": "national triumph."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 565,
     "question": "Isaiah said that when Israel spread forth their hands, God would hide his face because they were",
     "option": {
@@ -8619,6 +8699,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 674,
+    "question": "When Jesus said “apart from me you can do nothing”, he \tmeant that Christians",
+    "option": {
+      "a": "pray without ceasing",
+      "b": ". \nmust faithfully trust in Him always.",
+      "c": "cannot pass examinations if they did not pray.",
+      "d": "should expect God to do everything for them."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -10160,6 +10256,22 @@
     "examyear": "2010"
   },
   {
+    "id": 800,
+    "question": "slay Ishbosheth. Saul’s successor.",
+    "option": {
+      "a": "Power and authority ",
+      "b": "Great wealth and riches ",
+      "c": "Stable and long term in office ",
+      "d": "An understanding mind"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 802,
     "question": "Solomon told Hiram, King of Tyre, that he had decided to ",
     "option": {
@@ -11552,6 +11664,22 @@
     "examyear": "2013"
   },
   {
+    "id": 902,
+    "question": "Joshua gathered all the tribes of Israel for his farewell address at ",
+    "option": {
+      "a": "Shechem",
+      "b": "Gibeon",
+      "c": "Bethel",
+      "d": "Jordan"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 905,
     "question": "Your love is like the morning cloud, like the dew that goes early”. What did Hosea mean by this statement? ",
     "option": {
@@ -12859,6 +12987,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1009,
+    "question": "King Jehoshaphat was commended for adopting his father’s policies which included ",
+    "option": {
+      "a": "removing Maacah, his grandmother from being queen. ",
+      "b": "waging wars with the king of Israel. ",
+      "c": "allowing the cult prostitutes to operate. ",
+      "d": "burning of incense at the high places"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
