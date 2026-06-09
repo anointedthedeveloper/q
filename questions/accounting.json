@@ -1296,6 +1296,22 @@
     "examyear": "2006"
   },
   {
+    "id": 233,
+    "question": "Which of the following is not a debit item in a partnership \tappropriation account?",
+    "option": {
+      "a": "Interest on drawings",
+      "b": "Partner’s salary",
+      "c": "Interest on partner’s capital",
+      "d": "Share of profit."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 236,
     "question": "Which of the following is not used in solving problems of incomplete records?",
     "option": {
@@ -1499,6 +1515,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 275,
+    "question": "Which of the following is component of prime cost?",
+    "option": {
+      "a": "Depreciation",
+      "b": "Royalty",
+      "c": "Factory rent",
+      "d": "Factory electricity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -2091,6 +2123,22 @@
     "section": "Opening balance [N 10,640 ]; Purchases [N 26,912 ]; Returns inwards [N 492 ]; Returns outwards [N 810 ]; Cash discount received [N 1,348 ]; Cash discount allowed [N 1,560 ]; Cash paid to suppliers [N 20,808 ] ",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 410,
+    "question": "Determine the amount for the beginning inventory",
+    "option": {
+      "a": "N 20,140",
+      "b": "N10,240",
+      "c": "N 8,140",
+      "d": "N 7,240"
+    },
+    "section": "Beginning inventory [ ? ]; Purchases [? ]; Ending inventory [ N4,800 ]; Sales [ N12,800 ]; Wages [ N1,040 ]; Gross profit [N 5,900]. The beginning inventory was estimated at 80% of sales.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -2848,6 +2896,22 @@
     "examyear": "2016"
   },
   {
+    "id": 574,
+    "question": "Which of the following is the capital reserve of a company?",
+    "option": {
+      "a": "Accumulated depreciation",
+      "b": "Retained profit",
+      "c": " Share premium",
+      "d": "Loss on forfeited shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Capital reserve is made out of capital profits earned due to the sale of fixed assets at a price greater than its cost or profit on the reissue of forfeited shares. So Capital reserve iscreated when there is capital profit i.e. profit on sale of assets or upward revaluation of assets. Retained capital is a capital reserve.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 576,
     "question": "Which of the following condition would attract credit and debit notes to be used?",
     "option": {
@@ -3456,6 +3520,22 @@
     "examyear": "2018"
   },
   {
+    "id": 690,
+    "question": "Using the following:\n\nBalance as par overdraft of the cashbook is ₦4000 ,uncredited cheque is ₦2300, bank charges ₦300, unpresented cheque ₦5000.\n\n  what is the adjusted cashbook balance?",
+    "option": {
+      "a": "₦4000",
+      "b": "3₦00",
+      "c": "₦4300",
+      "d": "₦5000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Adjusted cashbook balance=–₦4000–₦300=–₦4300",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 695,
     "question": "In dealing with incomplete record, fixed assets are posted to___________-\n",
     "option": {
@@ -3564,6 +3644,22 @@
     "image": "",
     "answer": "d",
     "solution": "Starting with Tea’s opening credit balance of ₦50 000, we subtract his total drawings (₦3 000 + 2 000 + 4 000 + 1 500 + 2 500 = ₦13 000) and the interest on those drawings (₦3 000×10%×11/12 + ₦2 000×10%×9/12 + ₦4 000×10%×6/12 + ₦1 500×10%×3/12 + ₦2 500×10%×2/12 ≈ ₦705), giving:\n\nClosing current balance = ₦50000 − ₦13000 − ₦705 = ₦36295",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 714,
+    "question": "The major source of document which enables employer to calculate  the employee wages  is the?",
+    "option": {
+      "a": "norminal roll of employees",
+      "b": "records of number of hours worked",
+      "c": " effort of the employee",
+      "d": "Record of independence per employee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The numbers of hours worked is the period of time that a person spends at paid labour. This means that, an employee pay roll is prepared by calculating the number of hours that employee spend working for his or her employer. The wages / salaries of that employee is subject to hourly rate. ( the more time you spend at work, the more the pay).\n\nIt is however worthy to note that, not all employees / employers practice this payment method.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3916,6 +4012,22 @@
     "image": "",
     "answer": "b",
     "solution": "Since the vans were purchased for cash, the corresponding credit entry is made in the cash book (which records all cash payments), not in any of the sales or purchase day books (which are used for credit transactions).",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 789,
+    "question": "The term \"accounting period\" is used to refer to the",
+    "option": {
+      "a": "time span, usually one year covered by the financial statement",
+      "b": "period within which debtors are expected to settle accounts",
+      "c": " time, span during which taxes are paid to the inland revenue board",
+      "d": " budget period, usually one year relied on by the accountant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The accounting period concept divides a business’s life into regular, comparable intervals—most commonly one year—for which financial statements are prepared. This allows stakeholders to assess performance and financial position over consistent time spans",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -4768,6 +4880,22 @@
     "examyear": "2024"
   },
   {
+    "id": 961,
+    "question": "Ordinary shares are also known as",
+    "option": {
+      "a": "net worth",
+      "b": "equity",
+      "c": "loan",
+      "d": "reserve"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Ordinary shares represent an ownership stake in the company and are classified as part of shareholders’ equity on the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 963,
     "question": "Peripherals are used in computer to describe",
     "option": {
@@ -5136,6 +5264,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1027,
+    "question": "In a three-column cash book, the discount allowed is shown on the?",
+    "option": {
+      "a": "debit side",
+      "b": "credit side",
+      "c": "folio column",
+      "d": "memorandum column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Discount allowed is an expense (a reduction in cash received), so it’s recorded on the debit side of the three-column cash book. (By contrast, discount received is shown on the credit side.)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1028,
     "question": "Given:\n...............................Jan.2003.........Dec. 2003\nProvision for bad debt........₦1000\nDebtors..........................................₦20000\nBad debt to be written off.......................₦2000\n\nThe provision for bad debt stands at 10% of debtors. How much is to be charged to profit and loss account as provision for bad debt?",
     "option": {
@@ -5308,6 +5452,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Start with Net Profit\nGiven:\nNet profit for the year = ₦10,000\n\nStep 2: Deduct salary to partner\nJide’s salary = ₦2,000\n\n₦10,000 − ₦2,000 = ₦8,000 (this is now the balance before drawings)\n\nStep 3: Ignore drawings\nDrawings by partners (₦1,500 × 2 = ₦3,000 for Jide, ₦1,700 × 2 = ₦3,400 for Haruna)\nThese are not expenses — they are taken from profit after appropriation.\nSo they do not reduce the profit available for appropriation.\n\nProfit available for appropriation = ₦8,000",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1055,
+    "question": "When assets are realized during a partnership dissolution, the entries for the proceeds are to debit?",
+    "option": {
+      "a": " cash account and credit realization account",
+      "b": "rassets account and credit realization account",
+      "c": " realization account and credit realization account",
+      "d": "assets account and credit cash account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "During a partnership dissolution, when assets are sold (realized), the money received increases cash, so you debit the cash account.\nAt the same time, you remove the asset from the realization process, so you credit the realization account with the proceeds.",
     "examtype": "utme",
     "examyear": "2005"
   },
