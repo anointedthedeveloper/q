@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 27,
+    "question": "The journey from Lagos to Ibadan usually takes a motorist 1 hour 30 minutes. By increasing his average speed by 20km/hr, the motorist saves 15 minutes. His usual speed, in Km/hr is ",
+    "option": {
+      "a": "100",
+      "b": "90",
+      "c": "85",
+      "d": "80"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 28,
     "question": "The smallest section of a rod which can be cut 36cm in length is",
     "option": {
@@ -832,6 +848,22 @@
     "examyear": "2003"
   },
   {
+    "id": 229,
+    "question": "A cinema hall contains a certain number of people. If 22(1/2)% are children, 47{1/2)% are men and 84 are women, find the number of men in the hall.",
+    "option": {
+      "a": "63",
+      "b": "84",
+      "c": "113",
+      "d": "133"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "45/2% + 95/2% = 70%\n100% - 70% = 30% (i.e women)\n=> 30% = 84\n1% = 84/30\n95/2% = (84/30 x 95/2) = 133.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 241,
     "question": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
     "option": {
@@ -928,6 +960,22 @@
     "examyear": "2003"
   },
   {
+    "id": 272,
+    "question": "An arc of a circle of length 22 cm subtends an angle of 3x° at the center of the circle. Find the value of x if the diameter of the circle is 14 cm",
+    "option": {
+      "a": "60°",
+      "b": "120°",
+      "c": "180°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "ARClength=(θ/360) ×2πr.    22 = 3x/360 × (2× (22/7) × (7/1)).                            3x=180.                             x=180/3 x=60∘",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 281,
     "question": "If y = 3 cos(x/3), find dy/dx when x = (3π/2)",
     "option": {
@@ -972,6 +1020,22 @@
     "image": "",
     "answer": "c",
     "solution": "Gold medals = 30\nsilver medals = 22\nBronze medals = 18/70\nP(Gold medals) = 30/70 = 3/7\n∴ P(not Gold medal) = 1 - 3/7\n= 4/7",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 295,
+    "question": "I. Rectangular bars of equal width\nII. The height of each rectangular bar is proportional to the frequency of the corresponding class interval.\nIII. Rectangular bars have common sides with no gaps in between\nA histogram is described completely by",
+    "option": {
+      "a": "I, II and III",
+      "b": "I and II",
+      "c": "II and III",
+      "d": "I and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -1344,6 +1408,22 @@
     "examyear": "2006"
   },
   {
+    "id": 403,
+    "question": "PQRSTW is a regular hexagon and QS intersects RT at V. Calculate ∠TVS",
+    "option": {
+      "a": "120°",
+      "b": "90°",
+      "c": "30°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Each ∠of a regular polygon=((n-2)180)/n=((6-2)180)/6=((4)180)/6     = 120°\nΔQSR is isosceles\n∴ Q = S = 30°\nAlso ΔTSR is isosceles\n∴ T = R = 30°\n∠TSV + ∠VSR = 120\n∠TSV + 30 = 120\n∠TSV = 120 - 30\n∠TSV = 90°\n∴∴VTS + ∴VST + ∴TVS = 180 (sum of ∠s of a Δ)\n30 + 90 + ∠TVS = 180\n120 + ∠TVS = 180\n∠TVS = 180 - 120\n∠TVS = 60°\n",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 412,
     "question": "THe cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room?",
     "option": {
@@ -1564,6 +1644,22 @@
     "image": "",
     "answer": "b",
     "solution": "(x – 3) ∝ y<sup>2</sup>\nX-3 = Ky<sup>2</sup>\nK = X-3 / y<sup>2</sup>\n= 5-2/2<sup>2</sup>\n= 2/4\n= 1/2\n∴X-3 = 1/2y<sup>2</sup>\nX-3 = 1/2 (6)<sup>2</sup>\nX-3 = 1/2 x 36/1\nX-3 = 18\nX = 21",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 489,
+    "question": "Solve the quadratic inequalities x<sup>2</sup> - 5x + 6 ≥ 0",
+    "option": {
+      "a": "x ≤ 2, x ≥ 3",
+      "b": "x ≤ 3, x ≥ 2",
+      "c": "x ≤ -2, x ≥ -3",
+      "d": "x ≤-3, x ≥ 2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545860/ALOC-Questions/Mathematics/2008/MATH_2008_Q18_SOLUTION_qtwz0u.jpg",
+    "answer": "a",
+    "solution": "x<sup>2</sup> - 5x + 6 = 0\n(X-2)(X-3) = 0\nX-2 = 0 implies X = 2\nX-3 = 0 implies X = 3\n− x ≤ 2, x ≥ 3",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -1792,6 +1888,22 @@
     "examyear": "2009"
   },
   {
+    "id": 549,
+    "question": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)?",
+    "option": {
+      "a": " x + y = 0",
+      "b": "x - y = 0",
+      "c": "x + y + k = 0",
+      "d": "x - y - k = 0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547196/ALOC-Questions/Mathematics/2009/MATH_2009_Q28_SOLUTION_bqdqr5.jpg",
+    "answer": "b",
+    "solution": "Locus of a particle which moves in the first quadrant so that it is equidistant from the lines\nX = 0 and Y = 0 are the x and y axes as the lines bisecting the angle between x and y axes.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 558,
     "question": "Evaluate ∫sec<sup>2</sup>θ dθ?",
     "option": {
@@ -1984,6 +2096,22 @@
     "examyear": "2010"
   },
   {
+    "id": 600,
+    "question": "Make Q the subject of formula if p = M/5(X + Q) + 1",
+    "option": {
+      "a": "5P−MX+5/M",
+      "b": "5P−MX−5/M",
+      "c": "5P+MX+5/M",
+      "d": "÷(5P+MX-5)/M"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "p = M/5(X + Q) + 1\n\nP - 1 = M/5(X + Q)\n\n5/M(p - 1) = X + Q\n\n5/M(p - 1)- x = Q\n\nQ = 5(p−1)−Mx/M\n\n= 5p−5−Mx/M\n\n= 5p−Mx−5/M",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 612,
     "question": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5).",
     "option": {
@@ -2172,6 +2300,22 @@
     "image": "",
     "answer": "c",
     "solution": "(2 2/3×1 1/2)/(4 4/5)     8/3 ×3/2 ÷ 24/5\n \n\n8/3 × 3/2 × 5/24\n\n\n5/6",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 728,
+    "question": "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P ∩ Q",
+    "option": {
+      "a": "{3}",
+      "b": "{2,3}",
+      "c": "{2,3,5}",
+      "d": " {1,2}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "P = {2,3,5}\n\nQ = {2,3,6,9}\n\nP ∩ Q = {2,3}",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -2508,6 +2652,22 @@
     "image": "",
     "answer": "d",
     "solution": "(n−2)180/180\n = 1080/180\n\n\n(n - 2) = 6\nn = 6 + 2 = 8",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 826,
+    "question": "In the diagram above, l<sub>1</sub> is parallel to l<sub>2</sub>, Find the value of < PMT",
+    "option": {
+      "a": "82°",
+      "b": "36°",
+      "c": "72°",
+      "d": "118°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724002943/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q8_r1aiyw.jpg",
+    "answer": "a",
+    "solution": "< MPT = 180° - 118° = 62°\n\n< PML = 62° ( Alternative angle)\n\ny + 2y + 10° + 62° = 180° (Angles on a straight line)\n\n3y = 180 - 72\n3y/3 = 108/3\n\ny = 36°\n\n< PMT = 2y + 10 = 2(36) + 10 = 82°",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3104,6 +3264,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1003,
+    "question": "If S = (4t + 3)(t - 2), find ds/dt when t = 5 secs.",
+    "option": {
+      "a": "50 units per sec",
+      "b": "35 units per sec",
+      "c": "22 units per sec",
+      "d": "13 units per sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "s=(4t+3)(t−2)\n \nds/dt=(4t+3)(1)+(t−2)(4)\n= 4t+3+4t−8\n= 8t - 5\n\nds/dt(t=5secs)=8(5)−5\n= 40 - 5 \n\n= 35 units per sec",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 1004,
     "question": "The angles of a polygon are given by 2x, 5x, x and 4x respectively. The value of x is",
     "option": {
@@ -3424,6 +3600,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1100,
+    "question": "The shaded portion in the venn diagram above represents?",
+    "option": {
+      "a": " F - (E n F) - (G n F)",
+      "b": " E' n F n G'",
+      "c": " E u F u G",
+      "d": " F"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007416/ALOC-Questions/Mathematics/2022/JAMB_MATH_2022_Q3_opy8kq.jpg",
+    "answer": "b",
+    "solution": "-The shaded/stripped portion in the diagram is set F only.\n-This implies that sets E and G though present in the Universal set, are not included in the expression.\n\n-Mathematically; we have E' n F n G'",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1103,
     "question": "If sin θ = -  3/5\n and θ lies in the third quadrant, find cos θ",
     "option": {
@@ -3488,6 +3680,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1119,
+    "question": "find the limit of y = x<sup>3</sup>+6x−7/x−1\n as x tends to 1",
+    "option": {
+      "a": "9",
+      "b": " 8",
+      "c": "0",
+      "d": " 7"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msup>\n        <mi>x</mi>\n        <mn>3</mn>\n      </msup>\n      <mo>+</mo>\n      <mn>6</mn>\n      <mi>x</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>7</mn>\n    </mrow>\n    <mrow>\n      <mi>x</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "x<sup>3</sup>+6x−7/(x−1):\n\nWhen numerator is differentiated → 3x<sup>2</sup> + 6  \n\nWhen denominator is differentiated → 1\n\n: 3x<sup>2</sup>+6/1\nsubstitute x for 1\n\n 3∗1<sup>2</sup>+6/1 =  (3+6)/1\n \n\n=  9/1\n= 9",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1124,
     "question": "The coordinates of the mid-point of the line joining the points (-3,5) and (2,10) is given by? ",
     "option": {
@@ -3516,6 +3724,22 @@
     "image": "",
     "answer": "d",
     "solution": "The common difference is 6.\n\nJust add 6 to get the next term\n\n8, 14, 20 and 26",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1132,
+    "question": "Factorize 4a<sub>2</sub> - 9b<sub>2</sub>",
+    "option": {
+      "a": " (2a-3b) (2a+3b)",
+      "b": "(2a-b) (2a+3b)",
+      "c": " (2a-3b) (a+3b)",
+      "d": " (a-3b) (a+3b)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Check:\n(2a-3b) (2a+3b)\n\n4a<sub>2</sub> + 6ab - 6ab - 9b<sub>2</sub>\n                                                                                                                     4a<sub>2</sub> - 9b<sub>2</sub>",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -3628,6 +3852,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008084/ALOC-Questions/Mathematics/2023/MATH_2023_Q44_cdwigh.jpg",
     "answer": "b",
     "solution": "Consider ∆XOB and using Pythagoras theorem\n\n13<sup>2</sup> = 12<sup>2</sup> + h<sup>2</sup>\n⇒ 169 = 144 + h<sup>2</sup>\n⇒ 169 - 144  =h<sup>2</sup>\n⇒ 25 = h<sup>2</sup>\n⇒ h = √25 = 5cm\n\ntan θ = opp/adj\n⇒ tan θ = 12/5 = 2.4\n\n⇒ θ = tan<sup>-1</sup>(2.4)\n\n⇒ θ = 67.38<sup>o</sup>\n∠AOB = 2θ = 2 x 67.38<sup>o</sup> = 134.76<sup>o</sup>\nL = θ/360<sup>o</sup>×2πr\n⇒ L = 134.76/360 × 2 × (22/7) × 13 =77082.72/2520\n∴ L = 30.6cm (to 3 s.f)",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1184,
+    "question": "Find the compound interest (CI) on ₦15,700 for 2 years at 8% per annum compounded annually.",
+    "option": {
+      "a": " ₦6,212.48",
+      "b": "₦2,834.48",
+      "c": " ₦18,312.48",
+      "d": " ₦2,612.48"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Principal (P) = ₦15,700\n\nRate (R) = 8\n\nNumber of years (t) = 2\n\nA = P (1 + R/100)<sup>t</sup>\n⇒ A = 15700 (1 + 8/100)<sup>2</sup>\n⇒ A = 15700 (1 + 0.08)<sup>2</sup>\n⇒ A = 15700 (1.08)<sup>2</sup>\n⇒ A = 15700  x 1.1664\n\n⇒ A = ₦18,312.48\n\nTotal amount, A = ₦18,312.48\n\nA = P + CI\n\n⇒ CI = A - P\n\n⇒ CI = 18,312.48 - 15,700\n\n∴ CI = ₦2,612.48",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3760,6 +4000,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1224,
+    "question": "Find the standard deviation of 5, 4, 3, 2, 1",
+    "option": {
+      "a": "√2",
+      "b": "√3",
+      "c": "√6",
+      "d": "√10"
+    },
+    "section": "SOLUTION:                                                             <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid none none none none solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>x</mi>\n      </mtd>\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <mi>x</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <msup>\n          <mi>d</mi>\n          <mn>2</mn>\n        </msup>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>0</mn>\n      </mtd>\n      <mtd>\n        <mn>0</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd />\n      <mtd>\n        <mo>&#x2211;<!-- ∑ --></mo>\n        <msup>\n          <mi>d</mi>\n          <mn>2</mn>\n        </msup>\n        <mo>+</mo>\n        <mn>10</mn>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "Mean x = ∑x/n\n\n\n= (5+4+3+2+1)/5\n\n\n=15/5\n\n\n= 3\n\n",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1227,
     "question": "A number is chosen at random from 10 to 30 both inclusive. What is the probability that the number is divisible by 3?",
     "option": {
@@ -3820,6 +4076,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given: x + y=90°...(1)\n(sinx + siny)<sup>2</sup> −2sinxsiny = sin<sup>2</sup> x  + sin<sup>2</sup> y + 2sinxsiny − 2sinxsiny\n= sin<sup>2</sup> x + sin<sup>2</sup> y...(2)\nRecall: sinx = cos(90−x)...(a)\nFrom (1), y = 90−x...(b)\nPutting (a) and (b) in (2), we have\n\nsin<sup>2</sup> x + sin<sup>2</sup> y ≡ cos<sup>2</sup> (90−x) + sin<sup>2</sup> (90−x)\n= 1",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1247,
+    "question": "The first and last term of a linear sequence (AP) are 6 and 10 respectively. If the sum of the sequence is 40. Find the number of terms",
+    "option": {
+      "a": " nth = 3",
+      "b": "nth = 4",
+      "c": " nth = 5",
+      "d": "nth = 6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "nth term of a linear sequence (AP) = a+(n − 1)d\n\nfirst term = 6, last term = 10 sum − 40\n\ni.e. a = 6, l = 10, S = 40\n\nS<sub>n</sub> \n= n/2(2a + (n − 1)d or Sn = ÷2 (a + l)\n\nS<sub>n</sub> \n = n/2(a + l)\n\n40 = n/2(6 + 10)\n\n40 = 8n\n\n8n = 40\n\n8n = 40\n\nn = 40/8\n\n= 5\n\nThe number of terms = 5",
     "examtype": "utme",
     "examyear": "2015"
   },
