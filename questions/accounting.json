@@ -1072,6 +1072,22 @@
     "examyear": "2013"
   },
   {
+    "id": 100,
+    "question": "Cash receipts and payments involving discounts are entered in",
+    "option": {
+      "a": "three-column cash book.",
+      "b": "two-column cash book.",
+      "c": "analytical cash book.",
+      "d": "petty cash book."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 102,
     "question": "Which of the following accounts has a credit balance?",
     "option": {
@@ -1691,6 +1707,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 151,
+    "question": "The impersonal account is subdivided into",
+    "option": {
+      "a": "realand nominal accounts",
+      "b": "nominal and personal accounts",
+      "c": "real and current accounts",
+      "d": "personal and real accounts."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -3024,6 +3056,22 @@
     "examyear": "2006"
   },
   {
+    "id": 250,
+    "question": "Which of the following is a Journal as well as an account?",
+    "option": {
+      "a": "Sales day book",
+      "b": "Cash book",
+      "c": "General journal",
+      "d": "Purchases journal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 252,
     "question": "The adjusted cash book balance is",
     "option": {
@@ -4295,6 +4343,22 @@
       "b": "a graph plotter",
       "c": "a visual display unit",
       "d": "printer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 381,
+    "question": "A company made a net profit of N2,000,000 for the year and its net profit percentage is 25%. What is the total sales   for the year?",
+    "option": {
+      "a": "N8,000,000",
+      "b": "N6,000,000",
+      "c": "N800,000",
+      "d": "N500,000"
     },
     "section": "",
     "image": "",
@@ -6236,6 +6300,22 @@
     "image": "",
     "answer": "c",
     "solution": "An error of original entry occurs when an incorrect amount is posted to the correct account. A particular example of an error of original entry is a transposition error where the numbers are not entered in the correct order.  This type of error deals directly with the wrong use of figures",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 546,
+    "question": "Use the information below to answer this question\n\nSegun Ojo, didn’t keep her books on double principle. On 1st Jan, 2014, cash in hand was 850, bank overdraft 3500, debtor 15,500,stock 18,000, fittings 9,000 and creditors 12,700. As at Dec, 2014, cash in hand was 1200, cash at bank 2,500, debtors 10,000, stock 20,500, furnishing 4,000 and creditors 17,000\n\nCompute the capital as at 1st Jan, 2014.",
+    "option": {
+      "a": "27,150",
+      "b": "43,350",
+      "c": "16,200",
+      "d": "34,350"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find Segun Ojo’s capital at 1 Jan 2014, take all assets less all liabilities at that date:\n\nOpening assets\n\nCash in hand: ₦ ⁠850\n\nDebtors: ₦ 15 500\n\nStock: ₦ 18 000\n\nFittings: ₦ ⁠9 000\nTotal assets = 850 + 15 500 + 18 000 + 9 000 = ₦ 43 350\n\nOpening liabilities\n\nBank overdraft: ₦ ⁠3 500\n\nCreditors: ₦ 12 700\nTotal liabilities = 3 500 + 12 700 = ₦ 16 200\n\nOpening capital = Total assets – Total liabilities\n= 43 350 – 16 200\n= ₦ 27 150",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -8256,6 +8336,22 @@
     "examyear": "2019"
   },
   {
+    "id": 738,
+    "question": "The cost of a machine is ₦10,000. The residual value is ₦4,000. It is expected to last for 4 years. Using the straight line method, what is the amount of depreciation charged per annum?",
+    "option": {
+      "a": "6000",
+      "b": "1000",
+      "c": "1500",
+      "d": "2500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The formula to be adopted is :\n(cost - estimated value)/(years of useful life)\n\n(10,000 - 4000)/4 = 1500",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 740,
     "question": "Using the same information extracted from the books of Miliki state where sinking of bore holes cost ₦2,900,000, purchase of motor car ₦920,000, stationery ₦300,000, electricity ₦45,000, purchase of drugs ₦76,000, and purchase of beds ₦425,000, what is the capital expenditure?",
     "option": {
@@ -9488,6 +9584,22 @@
     "examyear": "2021"
   },
   {
+    "id": 845,
+    "question": "The correct posting in a double entry system of account when there is an increase in double assets, expenses, capital or liabilities is to debit",
+    "option": {
+      "a": "\ncapital and debit liabilities",
+      "b": "liabilities and credit assets",
+      "c": "\nassets and credit capital",
+      "d": "capital and credit assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In double entry bookkeeping, when there is an increase in assets and capital simultaneously:\n\nDebit assets (because asset increases are debited)\nCredit capital (because capital increases are credited)\n\nThis follows the fundamental accounting equation: Assets = Capital + Liabilities",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 847,
     "question": "The excess of income over expenditure is usually transferred to the?",
     "option": {
@@ -9644,6 +9756,22 @@
     "image": "",
     "answer": "d",
     "solution": "By departmentalizing accounts, a business can track revenues, expenses, and profits separately for each division or department. This allows management to assess the performance of each division individually, rather than just seeing the firm’s overall results.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 860,
+    "question": "The instrument that are generated when firms enter into business transactions with others are called",
+    "option": {
+      "a": "purchase document",
+      "b": "journals",
+      "c": "source documents",
+      "d": "invoices"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Whenever a transaction occurs—such as a sale, purchase, payment, or receipt—a source document (e.g., invoice, receipt, purchase order) is generated as the primary evidence of that transaction. These documents then serve as the basis for recording in the accounting system.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -11728,6 +11856,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1050,
+    "question": "The head office of Emeka Stores maintains the financial accounts of all its branches. The branch store account in the head office serves as the branch?",
+    "option": {
+      "a": "debtors' account",
+      "b": "trading account",
+      "c": "expenses account",
+      "d": "cash account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation: the branch store account in the head office records goods sent to the branch, returns, and stock movements — effectively showing the branch’s trading activity. It therefore serves as the branch’s trading account in the head office books.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1051,
     "question": "In reconciling the branch and head office accounts, remittance in transit in the branch books is treated as a?",
     "option": {
@@ -12780,6 +12924,22 @@
     "image": "",
     "answer": "b",
     "solution": "A Development Fund Warrant authorizes expenditure from the development (capital) fund and is used to finance capital projects. The provisional general warrant and supplementary warrant relate to recurrent or additional votes, while reserved expenditure warrants are for specific reserved charges—not the normal capital development fund.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1156,
+    "question": "Given:\n\nI. The consolidated revenue fund balance b/d = ₦650,000\nII. Issues from contingency fund amounted to = ₦240,000\nIII. Amount transferred to contingency fund is = ₦210,000\n\nWhat is the consolidated revenue fund balance?",
+    "option": {
+      "a": "₦1,100,000",
+      "b": "₦680,000",
+      "c": "₦440,000",
+      "d": "₦410,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find: Consolidated revenue fund balance\nStep 1: Start with opening balance\nOpening balance = ₦650,000\nStep 2: Account for contingency fund transactions\n\nIssues from contingency fund (₦240,000) - This increases the consolidated revenue fund\nAmount transferred to contingency fund (₦210,000) - This decreases the consolidated revenue fund\n\nStep 3: Calculate the consolidated revenue fund balance\nConsolidated revenue fund balance = Opening balance + Issues from contingency fund - Transfers to contingency fund\nConsolidated revenue fund balance = ₦650,000 + ₦240,000 - ₦210,000\nConsolidated revenue fund balance = ₦890,000 - ₦210,000\nConsolidated revenue fund balance = ₦680,000",
     "examtype": "utme",
     "examyear": "2003"
   },
