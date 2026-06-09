@@ -6416,6 +6416,22 @@
     "examyear": "2008"
   },
   {
+    "id": 475,
+    "question": "Express 123456 to 3 significant figures",
+    "option": {
+      "a": " 123000",
+      "b": "124000",
+      "c": "125000",
+      "d": "126000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "NB: This is a correction to the solution in the video lesson.\n123456 ≊\n 123000.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 476,
     "question": "calculate the simple interest on N7,500 for 8 years at 5% per annum.",
     "option": {
@@ -10432,6 +10448,22 @@
     "examyear": "2016"
   },
   {
+    "id": 820,
+    "question": "If the mean of 4, y, 8 and 10 is 7. Find Y?",
+    "option": {
+      "a": "6",
+      "b": "10",
+      "c": "7",
+      "d": "9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(4+y+8+10)/4 = 7\n\n22 + y = 4 x 7\n22 + y = 28\ny = 28 - 22 = 6",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 821,
     "question": "Find the derivative of y = (1/3X + 6)<sup>2</sup>",
     "option": {
@@ -12700,6 +12732,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006858/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q20_r3zmlm.jpg",
     "answer": "d",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 988,
+    "question": "If given two points A(3, 12) and B(5, 22) on a x-y plane. Find the equation of the straight line with intercept at 2.",
+    "option": {
+      "a": " y = 5x + 2",
+      "b": "y = 5x + 3",
+      "c": "y = 12x + 2",
+      "d": " y = 22x + 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The equation of a straight line is given as y=mx+b\n \n\nwhere m = the slope of the line\n\nb = intercept\n\nGiven points A(3, 12) and B(5, 22), the slope = (22−12)/(5−3)= 10/2 = 5\n\nHence, the equation of the line is y = 5x + 2\n.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -16336,6 +16384,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1249,
+    "question": "The amount A to which a principal P amounts at r% compound interest for n years is given by the formula A = P(1 + (r ÷ 100)<sup>n</sup>\n. Find A, if P = 126, r = 4 and n = 2.",
+    "option": {
+      "a": "N132.50K",
+      "b": " N136.30K",
+      "c": "N125.40K",
+      "d": "N257.42K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A=P(1+r/100)<sup>n</sup>\n \n\nWhere P = 126, r = 4, n = 2\n\nA=126 (1+4/100)<sup>2</sup> Using LCM\n\n\n=126 ((100+4/)100)<sup>2</sup> = 126(104/100)<sup>2</sup>\n\n\n\n=126 (1.04<sup>2</sup>)\n\n\n= 126 * 1.04 * 1.04\n\n=136.28\n\nA = 136.30 (approx.)\n\nThe Amount A, = N136.30k",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1250,
     "question": "Make x the subject of the equation\ns = 2 + t/5(x + ⅗y)",
     "option": {
@@ -16460,6 +16524,22 @@
     "image": "",
     "answer": "d",
     "solution": "[1÷(x<sup>2</sup> + 3x +2)] + [1 ÷ (x<sup>2</sup> + 5x + 6)]\n \n\n= 1 ÷ (x<sup>2</sup> + 3x + 2) + [1 ÷ (x<sup>2</sup> + 5x + 6)]\n\n\n= [1 ÷ ((x<sup>2</sup> + x) + (2x + 2))] + [1 ÷ ((x<sup>2</sup> + 3x) + (2x + 6))]\n\n\n= [1 ÷ (x(x + 2) + 2(x +1))] + [1 ÷ (x(x + 3) +2(x + 3) )]\n\n= [1 ÷ (x + 1)(x + 2)] + [1 ÷ ((x + 3) + (x + 2))]\n\n=((x + 3) + (x + 1)) ÷ (x + 1)(x + 2)(x + 3)\n\nUsing the L.C.M\n\n=((x + x + 3 + 1)) ÷ (x + 1)(x + 2)(x + 3)\n\n=(2x+4)/(x+1)(x+2)(x+3) =2(x+2)/(x+1)(x+2)(x+3)\n\n= 2/(x+1)(x+3)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1260,
+    "question": "One bag contain 3 blue and 5 red balls, another bag contain 2 blue and 4 red balls respectively. One ball is drawn for each bag. What is the probability both balls are blue",
+    "option": {
+      "a": "2/15",
+      "b": "3/24",
+      "c": "3/21",
+      "d": "3/28"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2015"
   },
