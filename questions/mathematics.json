@@ -672,6 +672,22 @@
     "examyear": "2009"
   },
   {
+    "id": 61,
+    "question": "The value of (0.303)3 – (0.02)3 is ",
+    "option": {
+      "a": "0.019",
+      "b": "0.0019",
+      "c": "0.0268",
+      "d": "0.000019"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 62,
     "question": "What is the product of 27/5 ¸(3)3 and (1/5) ",
     "option": {
@@ -940,6 +956,22 @@
     "image": "",
     "answer": "d",
     "solution": "∫π0(cos<sup>2</sup>θ−1)/(sin<sup>2</sup>θ)dθ=∫π0(−sin<sup>2</sup>θ)/sinsin<sup>2</sup>θ)=∫π0dθ=−π",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 97,
+    "question": "If y = 2x - sin2x, find dy/dx when x = π/4\n",
+    "option": {
+      "a": "π",
+      "b": " -π",
+      "c": "π/2",
+      "d": " -π/2  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = 2x cos2x - sin2x\ndy/dx = 2 cos2x +(-2x sin2x) - 2 cos2x\n= 2 cos2x - 2x sin2x - cos2x\n= -2x sin2x\n= -2 x (π/4) sin2 x (π/4)\n= -(π/2) x 1 = -(π/2)\n",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -1260,6 +1292,22 @@
     "image": "",
     "answer": "c",
     "solution": "Total cost = N(250,000 + 70,000) = N320,000\nSelling price = N400,000 (given)\nGain = SP - CP = N(400,000 - 320,000) = N80,000\nGain % = gain/CP x 100 = (80,000/320,000) x 100\n\nGain % = 25%",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 126,
+    "question": "If x = y/2, evaluate (x<sup>2</sup> / y<sup>2</sup> + 1/2) / (1/2 - x<sup>2</sup> / y<sup>2</sup>)",
+    "option": {
+      "a": "5/8",
+      "b": " 5/2",
+      "c": "5/4",
+      "d": "5/16"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow data-mjx-texclass=\"INNER\">\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\n    <mfrac>\n      <msup>\n        <mi>x</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n      <msup>\n        <mi>y</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n    </mfrac>\n    <mo>+</mo>\n    <mfrac>\n      <mn>1</mn>\n      <mn>2</mn>\n    </mfrac>\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\n  </mrow>\n  <mo>&#xF7;</mo>\n  <mrow data-mjx-texclass=\"INNER\">\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\n    <mfrac>\n      <mn>1</mn>\n      <mn>2</mn>\n    </mfrac>\n    <mo>&#x2212;</mo>\n    <mfrac>\n      <msup>\n        <mi>x</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <msup>\n        <mi>y</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n    </mfrac>\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\n  </mrow>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -1904,6 +1952,22 @@
     "examyear": "2002"
   },
   {
+    "id": 179,
+    "question": "Find the derivative of y=sin<sup>2</sup>(5x)\n with respect to x.",
+    "option": {
+      "a": " 10 sin 5x cos 5x",
+      "b": "5 sin5x cos 5x",
+      "c": "2 sin 5x cos 5x",
+      "d": "15 sin 5x cos 5x"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>y</mi>\n  <mo>=</mo>\n  <msup>\n    <mi>sin</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2061;<!-- ⁡ --></mo>\n  <mo stretchy=\"false\">(</mo>\n  <mn>5</mn>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "y=sin<sup>2</sup>(5x)\n \nLet u = sin 5x\n\ndu/dx=5cos5x\n∴y=u<sup>2</sup>\nd/ydu=2u\ndy/dx=2u. 5 cos 5x\n= 10u cos 5x\n= 10 sin 5x cos 5x",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 180,
     "question": "The slope of the tangent to the curve y = 3x<sup>2</sup>\n - 2x + 5 at the point (1, 6) is",
     "option": {
@@ -2124,6 +2188,22 @@
     "image": "",
     "answer": "b",
     "solution": "Total surface area of hemisphere = half of TSA of sphere + circumference of circle\n\n= 2πr<sup>2</sup> + πr<sup>2</sup> = 3πr<sup>2</sup>\n= 3 × (22)/7 × 7<sup>2</sup> = 462cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 203,
+    "question": "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0",
+    "option": {
+      "a": " -4",
+      "b": "4",
+      "c": "8",
+      "d": "-8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "2y - ax + 4 = 0 ⟹\n 2y = ax - 4.\n\ny + (x/4) - 7 = 0 ⟹\n y = -x/4 + 7\n\n Slope of line 1 = a/2\n\nSlope of line 2 = -1/4\n\n-1/4 x a/2 = -1 (product of the slope of two perpendicular lines = -1)\n\na/8 = 1 ⟹\n a = 8.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -3568,6 +3648,22 @@
     "examyear": "2005"
   },
   {
+    "id": 334,
+    "question": "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 4(2/3) and L = 54, find d in terms of W and L.",
+    "option": {
+      "a": "√(42W/5L)",
+      "b": "√(6L/42W)",
+      "c": "42W/5L",
+      "d": "5L/42W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "W∞LD<sup>2</sup> W=KLd<sup>2</sup> K=W/(Ld^2 )=140/54×〖(4 2/3)〗<sup>2</sup>=140/54×〖(14/3)〗<sup>2</sup> = (140×9)/(54×14×14)=5/42∴W=5/(42Ld<sup>2</sup> ) 42W=5Ld<sup>2</sup>  42W/5L=d<sup>2</sup> d=√(42W/5L)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 336,
     "question": "The diagram above is the graph of the function f(x). Determined the range of values of x for which f(x) ≤ 0",
     "option": {
@@ -3692,6 +3788,22 @@
     "image": "",
     "answer": "b",
     "solution": "L<sup>2</sup>  = 12<sup>2</sup>  + 5<sup>2</sup> \n= 144 + 25\n= 169\nL = √169\n= 13\nCurved surface Area = πrL\n= 5/1 * 13/1 * π\n= 65πcm<sup>2</sup> ",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 346,
+    "question": "Two lines PQ and ST intersect at 75°. The locus of points equidistant from PQ and ST lies on the",
+    "option": {
+      "a": "perpendicular bisector of PQ",
+      "b": "perpendicular bisector of ST",
+      "c": " bisector of the angles between lines PQ and ST",
+      "d": " bisector of the angles between lines PT and QS"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -4604,6 +4716,22 @@
     "image": "",
     "answer": "b",
     "solution": "T = 2 π √1/g\nT/2π = √1/g\n(T/2π)2 = (√1/g)2\nT2/4π2 = 1/g\nT2 x g = 4π2 x l\nG = (4π2 x l) / T2",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 415,
+    "question": "If y = x2 - x - 12, find the range of values of x for which y ≥ \n 0",
+    "option": {
+      "a": " x < -3 0r x > 4",
+      "b": "x ≤ -3 or x ≥ 4",
+      "c": " -3 < x ≥ 4",
+      "d": "-3 ≤ x ≤ 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "y = x<sup>2</sup> - x - 12\n= (x - 4)(x + 3)\n∴ x = 4 or x = -3\nChecking the cases for y ≥\n 0\nWe check values on the range x - 4 ≥\n 0; x + 3 ≤\n 0; x - 4 ≤\n 0 and x + 3 ≥\n 0 for the range which satisfies the inequality x2\n - x - 12 ≥ 0.\n\nWe find that the inequality is satisfied on the range x ≤ -3 and x ≥\n 4.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -5580,6 +5708,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546423/ALOC-Questions/Mathematics/2008/MATH_2008_Q47_nqccri.jpg",
     "answer": "d",
     "solution": "-2p + r = 1.......(i)\n\n2p + 3r = 0.......(ii)\n\nr - 1 + 2p ........(iii)\n\n2p + 3(1 + 2p) = 0\n\n2p + 3(1 + 2p) = 0\n\n2p + 3 + 6p = 0\n\n3 - 8p = 0 → 8p = 3\n\np = 3/8\n\n6 = 1 - 2 (3/8)\n\n= 1 - 6/8\n\n8−6/8 = 2/8\n\n= 1/4",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 521,
+    "question": "A trader bought goats for ₦4,000 each. He sold them for ₦18,000 at a loss of . How many goats did he buy?",
+    "option": {
+      "a": "60",
+      "b": "50",
+      "c": "45",
+      "d": "36"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -7520,6 +7664,22 @@
     "examyear": "2012"
   },
   {
+    "id": 733,
+    "question": "If y varies directly as √n\n and y = 4 when n = 4, find y when n = 1(7/9)",
+    "option": {
+      "a": "√17",
+      "b": "4/3",
+      "c": "8/3",
+      "d": "2/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y ∝√n\n\n\ny = k√n\n\n\nwhen y = 4, n = 4\n4 = k√4\n\n\n4 = 2k\n\nk = 2\n\nTherefore,\n\ny = 2√n\n\ny = 2√(16/9)\n\n\ny = 2(4/3)\n\n\ny = 8/3",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 734,
     "question": "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3",
     "option": {
@@ -9376,6 +9536,22 @@
     "examyear": "2017"
   },
   {
+    "id": 900,
+    "question": "y is inversely proportional to x and y is 6 when x = 7. Find the constant of the variation",
+    "option": {
+      "a": "47",
+      "b": "42",
+      "c": "54",
+      "d": "46"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Y ∝ 1/2\n\n\nY = 6, X = 7\n\nY = k/x\n where k is constant\n\n6 = k/7\n\n\nk = 42",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 903,
     "question": "In the diagram above MN is a chord of a circle KMN centre O and radius 10cm. If < MON = 140°, find, to the nearest cm, the length of the chord MN.",
     "option": {
@@ -9484,6 +9660,22 @@
     "image": "",
     "answer": "d",
     "solution": "0.4, −0.4, 0.3, 0.47, −0.53, 0.2, −0.2\n\nRange is the difference between the highest and lowest value\n\ni.e Highest − Lowest\n\n− 0.53, −0.4, −0.2, 0.2, 0.3, 0.4, 0.47\n\n0.47 is the highest\n\n− 0.53 is the lowest\n\n∴ = 0.47 − (− 0.53)\n\n∴0.47 + 0.53\n\n= 1.0",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 912,
+    "question": "Evaluate 1 − (1/5 x 1(2/3)) + (5 + 1(2/3))",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "22/3",
+      "d": "3(2/3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "1 − (1/5 x 1(2/3)) + (5 + 1(2/3))\n\n1 − (1/5 x 5/3) + (5 + 5/3)\n\n1 − 1/3 + 20/3\n\n= 22/3",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -10496,6 +10688,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1008,
+    "question": "Simplify (0.0839 × 6.381)/5.44\n to 2 significant figures.",
+    "option": {
+      "a": "0.2809",
+      "b": "2.51",
+      "c": "3.5",
+      "d": "0.098"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>0.0839</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>6.381</mn>\n    </mrow>\n    <mn>5.44</mn>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 1009,
     "question": "Find the value of x and y in the simultaneous equation: 3x + y = 21; xy = 30",
     "option": {
@@ -11068,6 +11276,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007318/ALOC-Questions/Mathematics/2021/MATH_JAMB_2021_Q5_ienw34.png",
     "answer": "a",
     "solution": "Area of Trapezium = 1/2(sum of parallel sides) * h\n91 = 1/2 (5 + 9)h\n\ncross multiply\n91 = 7h\nh = 91/7\n\nh = 13 cm",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1063,
+    "question": "find the value of p if the line which passes through (-1, -p) and (-2,2) is parallel to the line 2y+8x-17=0?",
+    "option": {
+      "a": "-2/7",
+      "b": "7/6",
+      "c": "-6/7",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Line:  2y + 8x -17 = 0 \n\nrecall y = mx + c\n\n2y = -8x + 17\n\ny = -4x  + 17/2\nSlope m<sup>1</sup>\n = 4\n\nparallel lines: m<sup>1</sup>\n. m<sup>2</sup>\n = -4\n\nwhere Slope ( -4) = (y<sup>2</sup> − y<sup>1</sup>)/(x<sup>2</sup> − x<sup>1</sup>)\n at points (-1, -p) and (-2,2)\n\n-4( x<sup>2</sup> − x<sup>1</sup>\n ) = y<sup>2</sup> − y<sup>1</sup>\n \n\n-4 ( -2 - -1) = 2 - -p\n\np = 4 - 2 = 2",
     "examtype": "utme",
     "examyear": "2021"
   },
