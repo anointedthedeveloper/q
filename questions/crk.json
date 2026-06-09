@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 10,
+    "question": "Manahem, the son of Gadi reigned over Israel for ",
+    "option": {
+      "a": "eight years ",
+      "b": "twenty years ",
+      "c": "six month ",
+      "d": "ten years."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 11,
     "question": "The death of Adonibezek in Bezek was a typical proof of ",
     "option": {
@@ -295,6 +311,22 @@
       "b": "his kindness ",
       "c": "God’s love for him ",
       "d": "God’s mighty power."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 52,
+    "question": "Explain why Jesus was identified as the lamb by John (Jn:1:29 ) ",
+    "option": {
+      "a": "lamb of God is a figurative language which describes Christ sacrificial mission in the word ",
+      "b": "he is being compared to the Passover Lamb that would atone for the sins of all world ",
+      "c": "Because the lamb is attentive to his owner ",
+      "d": "it shows patience, meekness, gentleness and innocence"
     },
     "section": "",
     "image": "",
@@ -1440,6 +1472,54 @@
     "examyear": "2005"
   },
   {
+    "id": 245,
+    "question": "James recommends the anointing oil of the elders because such anointing",
+    "option": {
+      "a": "prepares the sick for his last journey",
+      "b": "makes the sick holy and righteous",
+      "c": "promotes physical recovery",
+      "d": "ensures forgiveness to the sick"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 246,
+    "question": "Peter advised his fellow elders to tend the flock of God that was in their charge",
+    "option": {
+      "a": "with care",
+      "b": "willingly",
+      "c": "by example",
+      "d": "domineeringly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 247,
+    "question": "In Timothy, Paul urges Christians to pray for kings and those in authority for the achievement of",
+    "option": {
+      "a": "a successful Christian life",
+      "b": "godly and acceptable life",
+      "c": "peace and exaltation in life",
+      "d": "quiet and peaceable life."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 248,
     "question": "According to Galatians, one of the benefits of being a joint heir with Christ is having His Spirit in",
     "option": {
@@ -1547,6 +1627,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 265,
+    "question": "In Luke, at the Last Supper, Jesus revealed His",
+    "option": {
+      "a": "resurrection",
+      "b": "imminent sufferings",
+      "c": "love for His disciples",
+      "d": "ascension."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -2240,6 +2336,22 @@
     "examyear": "2013"
   },
   {
+    "id": 405,
+    "question": "Because David sought God’s will to pursue the Amalekites \twho had invaded Ziklag, he was rewarded with victory and",
+    "option": {
+      "a": "many new territories",
+      "b": "spoils",
+      "c": "many prisoners of war",
+      "d": "favour"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 407,
     "question": "Solomon’s wisdom surpassed the wisdom of all the people of the East and all wisdom of Egypt because he",
     "option": {
@@ -2363,6 +2475,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 423,
+    "question": "“Lord, if you will, you can make me clean.” The statement above was made by the",
+    "option": {
+      "a": "leper",
+      "b": "paralytic",
+      "c": "centurion servant",
+      "d": "epileptic boy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -2752,6 +2880,22 @@
     "examyear": "2015"
   },
   {
+    "id": 501,
+    "question": "“I tell you, if these were silent, the very stones would cry out.” Jesus’ statement above was made when",
+    "option": {
+      "a": "He was rebuked by the Pharisees for eating with sinners",
+      "b": "the scribes and the chief priest came to arrest Him",
+      "c": "He consoled a woman on His way to the cross",
+      "d": "the Pharisees asked Him to rebuke His disciples"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 502,
     "question": "Before Moses brought the Israelites to meet God on Mount Sinai, he charged them to",
     "option": {
@@ -3008,6 +3152,22 @@
     "examyear": "2015"
   },
   {
+    "id": 545,
+    "question": "Amos is often referred to as a prophet of",
+    "option": {
+      "a": "doom",
+      "b": "love",
+      "c": "hope",
+      "d": "justice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 546,
     "question": "On the fourth day, God created the sun, moon and stars for the following purposes except",
     "option": {
@@ -3211,6 +3371,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 584,
+    "question": "In the Epistle to the Romans, justification is received through",
+    "option": {
+      "a": "faith in Jesus.",
+      "b": "moral uprightness",
+      "c": "observance of the law.",
+      "d": "giving of alms"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -3600,6 +3776,22 @@
     "examyear": "2011"
   },
   {
+    "id": 654,
+    "question": "Who was the first king of Israel?",
+    "option": {
+      "a": "Kish",
+      "b": "David",
+      "c": "Solomon",
+      "d": "Saul"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 661,
     "question": "“Your father made our yoke heavy. Now therefore, lighten the hard service of your father.” These were the words of",
     "option": {
@@ -3611,6 +3803,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 663,
+    "question": "The contest between Elijah and the prophets of Baal took place at mount",
+    "option": {
+      "a": "Olive.",
+      "b": "Tabor.",
+      "c": "Sinai",
+      "d": "Camel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -3963,6 +4171,22 @@
     "section": "",
     "image": "",
     "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 735,
+    "question": "St. James in the teaching on faith and work gave the analogy of ________",
+    "option": {
+      "a": "A man who looks himself in the mirror and appreciates God for that",
+      "b": "A hungry man who approached his fellow Christian for help",
+      "c": "A man of little faith encouraging others to work",
+      "d": "A poor man with wretched clothing approaching the rich for help"
+    },
+    "section": "",
+    "image": "",
+    "answer": " b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -4862,6 +5086,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
+  },
+  {
+    "id": 891,
+    "question": "On the fourth day of creation God created ",
+    "option": {
+      "a": "the great sea monsters. ",
+      "b": "the firmament",
+      "c": "the two great lights",
+      "d": "every flying bird"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
   },
   {
     "id": 892,
