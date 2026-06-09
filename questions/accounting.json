@@ -12576,6 +12576,22 @@
     "examyear": "2020"
   },
   {
+    "id": 796,
+    "question": "The standing order is a payment instruction given by a",
+    "option": {
+      "a": "customer to a fellow customer",
+      "b": "bank to an employee",
+      "c": "customer to the bank",
+      "d": "bank to the customers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A standing order is a payment instruction given by a customer to their bank to make regular fixed payments to a specified recipient on predetermined dates. The customer authorizes the bank to automatically transfer a fixed amount from their account at regular intervals (monthly, quarterly, etc.) without requiring further authorization for each payment.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 797,
     "question": "The value of the sales ledger control account is derived from the summation of the",
     "option": {
@@ -19388,6 +19404,22 @@
     "image": "",
     "answer": "b",
     "solution": "For a property developing company, selling a completed building would be treated as a revenue receipt.\n\n\n\nA property developing company is in the business of constructing and selling buildings\nThe completed building represents stock/inventory for this type of company\nWhen sold, it generates income from the company's normal business operations\nThis is similar to how a manufacturing company treats the sale of its manufactured goods",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1228,
+    "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\nPalaju Enterprises had fixed assets of ₦3,100,000 at the end of the year. \nFixed assets costing ₦900,000 with provision for depreciation of ₦150,000 were disposed of during the period. \nFixed assets of ₦100,000 were added during the year. Provision for depreciation was ₦350,000 at the beginning of the year and ₦300,000 at the end of the year.\n\nWhat was the value of fixed assets at the beginning of the year?",
+    "option": {
+      "a": "₦2,900,000",
+      "b": "₦3,800,000",
+      "c": "₦3,900,000",
+      "d": "₦4,000,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Opening Balance + Additions - Disposals = Closing Balance\nRearranging to find Opening Balance:\nOpening Balance = Closing Balance + Disposals - Additions\nSubstituting the values:\nOpening Balance = ₦3,100,000 + ₦900,000 - ₦100,000\nOpening Balance = ₦4,000,000 - ₦100,000 = ₦3,900,000",
     "examtype": "utme",
     "examyear": "2001"
   },
