@@ -1568,6 +1568,22 @@
     "examyear": "2005"
   },
   {
+    "id": 104,
+    "question": "The optimal temperature  for breeding cockroaches is",
+    "option": {
+      "a": "15oC",
+      "b": "19oC  ",
+      "c": "24oC  ",
+      "d": "33oC"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 105,
     "question": "At which temperature will cockroaches not survive after 10 days?   ",
     "option": {
@@ -4939,6 +4955,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 328,
+    "question": "the interaction of a community of organisms with its abiotic environment constitutes",
+    "option": {
+      "a": "a food chain",
+      "b": "an ecosystem  ",
+      "c": "a microhabitat",
+      "d": "a niche"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
