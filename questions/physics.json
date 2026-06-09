@@ -96,6 +96,22 @@
     "examyear": "2006"
   },
   {
+    "id": 13,
+    "question": "Light wave and ripples of water are similar because both",
+    "option": {
+      "a": "are longitudinal waves ",
+      "b": "have the same velocity ",
+      "c": "can be diffracted and refracted ",
+      "d": "have the same frequency "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 15,
     "question": "A coil of copper wire of N turns is kept rotating between the poles of a magnet  such that the magnetic flux linking the coil changes continuously. Which of the  following statements is TRUE? ",
     "option": {
@@ -320,6 +336,22 @@
     "examyear": "2009"
   },
   {
+    "id": 53,
+    "question": "The mode of heat transfer which does not require material medium is",
+    "option": {
+      "a": "conduction ",
+      "b": "radiation ",
+      "c": "convection ",
+      "d": "propagation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 55,
     "question": "A simple pendulum 0.6 long has a period of 1.55, what is the period of a similar pendulum 0.4 long in the same direction ",
     "option": {
@@ -432,6 +464,22 @@
     "examyear": "2010"
   },
   {
+    "id": 79,
+    "question": "A 0.040kg string 0.80m long is stretched and vibrated in a fundamental mode with a frequency of 40Hz. What is the speed (of propagation) of the wave and tension in the string? ",
+    "option": {
+      "a": "64m/s ",
+      "b": "340m/s ",
+      "c": "32m/s ",
+      "d": "128m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 81,
     "question": "The superposition of two or more waves to produce a maximum or zero effect at a point is known as: ",
     "option": {
@@ -443,6 +491,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following statements is not true? ",
+    "option": {
+      "a": "electric field intensity is force per unit charge. ",
+      "b": "electric potential is a vector ",
+      "c": "the S.I unit of electric field strength is N/C ",
+      "d": "electric field intensity is equal to the potential gradient"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -1056,6 +1120,22 @@
     "examyear": "2016"
   },
   {
+    "id": 228,
+    "question": "An electron in a hydrogen atom makes a transition from the ground level to the third level. If the energy at the ground level, calculate the energy at the third level. [h = 6.6 × 10⁻³⁴ Js; f = 10¹⁵ Hz]",
+    "option": {
+      "a": "1.41 eV",
+      "b": "1.71 eV",
+      "c": "1.61 eV",
+      "d": "1.51 eV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "For hydrogen atom energy levels:\nThe energy at level n is given by:\nE_n = -13.6/n² eV\nEnergy at ground level (n=1):\nE₁ = -13.6/1² = -13.6 eV\nEnergy at third level (n=3):\nE₃ = -13.6/3² = -13.6/9 = -1.51 eV\nSince energy levels are negative (bound states), the magnitude is:\n|E₃| = 1.51 eV",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 253,
     "question": "Which of the following is a scalar quantity?",
     "option": {
@@ -1184,6 +1264,22 @@
     "examyear": "2017"
   },
   {
+    "id": 276,
+    "question": "Which of the following representations is correct for an atom X with 28 electrons and 30 neutrons?",
+    "option": {
+      "a": "⁵⁸₂₈X",
+      "b": "³⁰₂₈X",
+      "c": "²⁸₃₀X",
+      "d": "⁵⁸₃₀X"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nNumber of electrons = 28\nNumber of neutrons = 30\n\nUnderstanding atomic notation:\nThe standard notation is: ᴬ_ZX\nwhere:\n\nA = mass number (top) = protons + neutrons\nZ = atomic number (bottom) = number of protons\nX = element symbol\n\nStep 1: Find number of protons\nFor a neutral atom: Number of protons = Number of electrons = 28\nTherefore: Z = 28\nStep 2: Calculate mass number\nMass number (A) = Protons + Neutrons\nA = 28 + 30 = 58\nStep 3: Write the notation\nᴬ_ZX = ⁵⁸₂₈X",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 278,
     "question": "Which of the following is not true of an electrical charge?",
     "option": {
@@ -1198,6 +1294,22 @@
     "solution": "This statement is NOT true. Negative charge means excess of electrons, not deficit. A deficit of electrons would result in a positive charge.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 280,
+    "question": "A man walks 1km due east and then 1 km due north His displacement?",
+    "option": {
+      "a": " √2 km N 45°E",
+      "b": "1 km N 30°E",
+      "c": "1 km N 15°E",
+      "d": "√2 km N 60°E"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDistance east = 1 km\nDistance north = 1 km\nDisplacement = ?\n\nStep 1: Calculate magnitude of displacement using Pythagoras theorem\nThe path forms a right-angled triangle.\nDisplacement² = (1)² + (1)²\nDisplacement² = 1 + 1 = 2\nDisplacement = √2 km\nStep 2: Calculate direction\ntan θ = opposite/adjacent = north/east\ntan θ = 1/1 = 1\nθ = tan⁻¹(1) = 45°\nStep 3: Express direction\nDirection: 45° from east toward north = N 45°E",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 287,
@@ -1404,6 +1516,22 @@
     "image": "",
     "answer": "a",
     "solution": "Ripple in a power supply is fundamentally caused by using an alternating current source, which produces a pulsating DC output after rectification that retains some AC variation.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 346,
+    "question": "A ray of light passes through the centre of curvature of a concave mirror and strikes the mirror. At what angle is the ray reflected?",
+    "option": {
+      "a": "180°",
+      "b": " 90°",
+      "c": " 0°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The ray is reflected at 0° because it retraces its path back through the centre of curvature along the same line with no angular deviation.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -2144,6 +2272,38 @@
     "examyear": "2023"
   },
   {
+    "id": 518,
+    "question": "An air bubble of radius 4.5 cm initially at a depth of 12 m below the water surface rises to the surface. If the atmospheric pressure is equal to 10.34 m of water, the radius of the bubble just before it reaches the water surface is",
+    "option": {
+      "a": "6.43 cm",
+      "b": "8.24 cm",
+      "c": "4.26 cm",
+      "d": "5.82 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial radius, r₁ = 4.5 cm\nInitial depth, h₁ = 12 m\nFinal depth, h₂ = 0 m (at surface)\nAtmospheric pressure = 10.34 m of water\nFinal radius, r₂ = ?\n\nSolution:\nStep 1: Calculate initial pressure\nAt depth h₁:\nP₁ = atmospheric pressure + pressure due to water depth\nP₁ = 10.34 + 12 = 22.34 m of water\nStep 2: Calculate final pressure\nAt the surface:\nP₂ = atmospheric pressure = 10.34 m of water\nStep 3: Calculate initial and final volumes\nV₁ = (4/3)πr₁³ = (4/3)π(4.5)³\nV₂ = (4/3)πr₂³\nStep 4: Apply Boyle's Law (assuming constant temperature)\nP₁V₁ = P₂V₂\n22.34 × (4/3)π(4.5)³ = 10.34 × (4/3)πr₂³\nStep 5: Simplify and solve for r₂\n22.34 × (4.5)³ = 10.34 × r₂³\n22.34 × 91.125 = 10.34 × r₂³\n2035.97 = 10.34 × r₂³\nr₂³ = 2035.97/10.34\nr₂³ = 196.90\nr₂ = ³√196.90\nr₂ = 5.82 cm",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 519,
+    "question": "A parallel plate capacitor separated by an air gap is made of 0.8m² tin plates and 20 mm apart. It is connected to 120 V battery. What is the charge on each plate? Take εo = 8.85×10⁻¹²Fm⁻¹",
+    "option": {
+      "a": "3.54nC",
+      "b": "42.5nC",
+      "c": "35.4nC",
+      "d": "4.25nC"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPlate area, A = 0.8 m²\nSeparation distance, d = 20 mm = 20 × 10⁻³ m = 0.02 m\nVoltage, V = 120 V\nPermittivity of free space, ε₀ = 8.85 × 10⁻¹² F/m\nCharge, Q = ?\n\nSolution:\nStep 1: Calculate capacitance\nUsing the capacitance formula for parallel plates:\nC = ε₀A/d\nC = (8.85 × 10⁻¹² × 0.8)/0.02\nC = (7.08 × 10⁻¹²)/0.02\nC = 3.54 × 10⁻¹⁰ F\nStep 2: Calculate charge\nUsing the charge formula:\nQ = CV\nQ = 3.54 × 10⁻¹⁰ × 120\nQ = 4.248 × 10⁻⁸ C\nQ = 42.48 × 10⁻⁹ C\nQ = 42.5 nC",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 521,
     "question": "Which of the following thermometers measures temperature from the thermal radiation emitted by objects?",
     "option": {
@@ -2336,6 +2496,22 @@
     "examyear": "2024"
   },
   {
+    "id": 559,
+    "question": "Pilots uses aneroid barometer to know the height above sea level because ",
+    "option": {
+      "a": "Very accurate",
+      "b": "Small and convenient",
+      "c": "Heavy and huge",
+      "d": "Costly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Pilots use aneroid barometers (altimeters) because they are small, lightweight, and convenient for use in aircraft. Unlike mercury barometers which are heavy, bulky, and contain liquid that would be affected by aircraft motion, aneroid barometers are compact and portable, making them ideal for aviation use.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 560,
     "question": "A light ray passing from air into water at an angle of 30º from the normal in air would ",
     "option": {
@@ -2384,6 +2560,22 @@
     "examyear": "2024"
   },
   {
+    "id": 569,
+    "question": "The dimension of young's modulus, E is given by",
+    "option": {
+      "a": "MLT⁻¹",
+      "b": "MT⁻²",
+      "c": "ML⁻¹T⁻²",
+      "d": "M⁻¹T"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Define Young's modulus\nYoung's modulus (E) is defined as:\nE = Stress/Strain\nStep 2: Determine dimensions of stress\nStress = Force/Area\nForce = Mass × Acceleration = MLT⁻²\nArea = L²\nStress = MLT⁻²/L² = ML⁻¹T⁻²\nStep 3: Determine dimensions of strain\nStrain = Change in length/Original length = L/L\nStrain is dimensionless (no units)\nStep 4: Calculate dimensions of Young's modulus\nE = Stress/Strain\nE = ML⁻¹T⁻²/1\nE = ML⁻¹T⁻²",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 572,
     "question": "288KJ is conducted across two opposite faces of a 3m cube of temperature gradient 90°Cm⁻¹ in 7200s. Calculate the thermal conductivity.",
     "option": {
@@ -2396,6 +2588,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nHeat conducted, Q = 288 kJ = 288,000 J\nSide of cube, L = 3 m\nTemperature gradient, dT/dx = 90°C/m = 90 K/m\nTime, t = 7200 s\nThermal conductivity, k = ?\n\nSolution:\nStep 1: Calculate cross-sectional area\nFor a cube with side L:\nA = L² = 3² = 9 m²\nStep 2: Apply heat conduction formula\nRate of heat transfer:\nQ/t = kA(dT/dx)\nStep 3: Rearrange to find thermal conductivity\nk = Q/(t × A × dT/dx)\nStep 4: Substitute the known values\nk = 288,000/(7200 × 9 × 90)\nk = 288,000/(5,832,000)\nk = 0.0494 W/(m·K)\nk ≈ 4.9 × 10⁻² Wm⁻¹K⁻¹",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 574,
+    "question": "Which of the following is not a part of model rocket?",
+    "option": {
+      "a": "The body tube",
+      "b": "The nose cones",
+      "c": "The fin",
+      "d": "Not recovery devices"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Recovery devices (parachutes or streamers) are essential components of model rockets, used to safely return the rocket to the ground after flight. Option D incorrectly suggests they are not part of a model rocket. All other options (body tube, nose cone, and fins) are standard rocket components.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -3520,6 +3728,38 @@
     "examyear": "2009"
   },
   {
+    "id": 851,
+    "question": "What is the acceleration between two points on a velocity-time graph which has coordinates (10 s, 15 m s⁻¹) and (20 s, 35 m s⁻¹)?",
+    "option": {
+      "a": " 1.7 m s⁻²",
+      "b": "3.50 m s⁻²",
+      "c": "1.00 m s⁻²",
+      "d": "2.00 m s⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nPoint 1: t₁ = 10 s, v₁ = 15 m s⁻¹\nPoint 2: t₂ = 20 s, v₂ = 35 m s⁻¹\n\nSolution:\n\nStep 1: Acceleration from velocity-time graph\nAcceleration a = (change in velocity) / (change in time) = (v₂ – v₁) / (t₂ – t₁)\n\nStep 2: Substitute values\na = (35 – 15) / (20 – 10) = 20 / 10 = 2 m s⁻²",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 852,
+    "question": "A bullet fired vertically upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0 s. Calculate its initial velocity. [g = 10 m s⁻²]",
+    "option": {
+      "a": "10 m s⁻¹",
+      "b": "8 m s⁻¹",
+      "c": "40 m s⁻¹",
+      "d": "20 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nTime to reach maximum height, t = 4.0 s\nAcceleration due to gravity, g = 10 m s⁻²\nInitial height above ground = 2.0 m (not needed for initial velocity calculation)\n\nSolution:\n\nStep 1: Relation at maximum height\nAt maximum height, final velocity v = 0. Using first equation of motion:\nv = u – gt\n0 = u – 10 × 4\n\nStep 2: Solve for initial velocity u\nu = 40 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 853,
     "question": "I. The motion of the tyres of a moving car.\nII. The motion of a loaded test tube oscillated\nvertically.\nIII. The beating of the heart.\nIV. A stone tied to a string and whirled round.\nV. The motion of the pistons in a gasoline engine.\n\n\nWhich of the motions above is simple harmonic?",
     "option": {
@@ -3664,6 +3904,22 @@
     "examyear": "2009"
   },
   {
+    "id": 870,
+    "question": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?",
+    "option": {
+      "a": "10 cm in front of the mirror.",
+      "b": "5 cm in front of the mirror",
+      "c": "10 cm behind the mirror",
+      "d": "5 cm behind the mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nObject distance u = 5 cm (positive, real object)\nFocal length f = 10 cm (positive for concave mirror in Cartesian sign convention)\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n\nStep 2: Substitute values\n1/10 = 1/5 + 1/v\n\nStep 3: Solve for 1/v\n1/v = 1/10 – 1/5 = 1/10 – 2/10 = –1/10\n\nStep 4: Find image distance v\nv = –10 cm\n\nThe negative sign indicates that the image is formed behind the mirror (virtual image).",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 873,
     "question": "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in",
     "option": {
@@ -3692,6 +3948,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nVoltage = 240 V (not needed directly for energy calculation)\nPower P = 60 W\nTime t = 1 hour = 3600 s\n\nSolution:\n\nStep 1: Relationship between energy, power, and time\nElectrical energy E = P × t\n\nStep 2: Substitute values\nE = 60 W × 3600 s = 216 000 J\n\nStep 3: Express in scientific notation\n216 000 J = 2.16 × 10⁵ J",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 878,
+    "question": "A band of 500 rectangular loops of wire of area 20 cm by 20 cm, encloses a region of magnetic field which charges from 1.0T to 0.4T within 5 seconds, calculate the induced e.m.f.",
+    "option": {
+      "a": "5.60 v",
+      "b": "24.00 v",
+      "c": "0.24 v",
+      "d": "2.40 v"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nNumber of turns, N = 500\nArea, A = 20 cm × 20 cm = 0.2 m × 0.2 m = 0.04 m²\nInitial magnetic field, B₁ = 1.0 T\nFinal magnetic field, B₂ = 0.4 T\nTime interval, Δt = 5 s\n\nSolution:\n\nStep 1: Change in magnetic flux\nΔΦ = N × A × (B₂ – B₁) = 500 × 0.04 × (0.4 – 1.0) = 500 × 0.04 × (–0.6) = –12 Wb\n\nStep 2: Induced e.m.f.\nMagnitude of induced e.m.f. = |ΔΦ| / Δt = 12 Wb / 5 s = 2.4 V",
     "examtype": "utme",
     "examyear": "2009"
   },
