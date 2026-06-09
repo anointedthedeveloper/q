@@ -4484,6 +4484,25 @@
     "category": "others"
   },
   {
+    "id": 263,
+    "question": "Because Jamiu is so <i>easily offended,</i> he was not considered for the post of headboy",
+    "option": {
+      "a": "Irritable    ",
+      "b": "stubborn   ",
+      "c": "troublesome ",
+      "d": "docile"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 264,
     "question": "The witness provided a <i>monstrous</i> account of the event",
     "option": {
@@ -25988,6 +26007,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 7,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1696,
+    "question": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nS<u>ea</u>t",
+    "option": {
+      "a": "hide",
+      "b": "peasant",
+      "c": "head",
+      "d": "people"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The answer is D because the word seat is transcribed /si:t/. The ‘ea’ in it represent the long vowel /i:/ (a) is transcribed hide /haid/, peasant /pezant/ head /hed/ word that has the same vowel sound as seat.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 9,
     "hasPassage": 0,
     "category": "others"
   },
