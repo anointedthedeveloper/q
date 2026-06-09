@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 9,
+    "question": "Which  of   these  soil  groups  is  considered   the  most  productive?   ",
+    "option": {
+      "a": "Chernozems   ",
+      "b": "Latosols  ",
+      "c": "Podozols   ",
+      "d": "Sierozems"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 19,
     "question": "Nigeria Sat I is designed by primarily to  ",
     "option": {
@@ -288,6 +304,22 @@
     "examyear": "2012"
   },
   {
+    "id": 149,
+    "question": "Which of the following is a not characteristic of the International Date Line? ",
+    "option": {
+      "a": "The Line is approximately along the 1800 meridian  ",
+      "b": "The line has a zigzag shape  ",
+      "c": "Local time is the same on either side of the line  ",
+      "d": "A traveler gains a day when crossing the line from the west to the east "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 150,
     "question": "Which of the following African cities is situated near the confluence of rivers? ",
     "option": {
@@ -400,6 +432,22 @@
     "examyear": "2014"
   },
   {
+    "id": 221,
+    "question": "A piece of land almost surrounded by water is called ",
+    "option": {
+      "a": "Headland ",
+      "b": "Peninsula ",
+      "c": "Island   ",
+      "d": "Plateau "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
+  },
+  {
     "id": 230,
     "question": "……...Refers to the nature of the surface of an area and the features that abound therein above the sea level",
     "option": {
@@ -455,6 +503,22 @@
       "b": "127°",
       "c": "319°",
       "d": "233°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2016_13_to_17_iprrih.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 253,
+    "question": "What is the approximate height of Manko above the sea level?",
+    "option": {
+      "a": "30.0 m",
+      "b": "12.0m ",
+      "c": "46.0m",
+      "d": "35.0m"
     },
     "section": "",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582573/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2016_13_to_17_iprrih.jpg",
@@ -539,6 +603,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 300,
+    "question": "Which of the following soil types favours the growth of cocoa in Nigeria?",
+    "option": {
+      "a": "Regosols",
+      "b": "Vertisols",
+      "c": "Ferruginous soils",
+      "d": "Ferrallitic soil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
