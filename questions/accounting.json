@@ -11744,6 +11744,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1104,
+    "question": "<b>Use the information below to answer questions 39 and 40</b>\n\nJumoke and Kunle have an original investment of ₦25,000 and ₦15,000 respectively in a partnership. The articles of partnership provides 3% interest on capital and salaries of ₦1,500 and ₦1,000 respectively for the partners. The profits and losses are to be shared in the ratio 3:2.\nMiscellaneous expenses of ₦2,500 were incurred with gross profit of ₦6,500 during the financial year.\n\nWhat is Kunle's share of the profit?",
+    "option": {
+      "a": "₦600",
+      "b": "₦300",
+      "c": "₦180",
+      "d": "₦120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given:\n\nBalance of Profit and Loss Account = ₦300\nProfit sharing ratio = Jumoke : Kunle = 3 : 2\n\nCalculate Kunle's share of the balance:\nTotal ratio = 3 + 2 = 5\nKunle's share = (2/5) × ₦300 = ₦120",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1106,
     "question": "The accounting entry to record the premium on goodwill is to debit?",
     "option": {
@@ -14140,6 +14156,22 @@
     "image": "",
     "answer": "d",
     "solution": "The correct entry is to debit Drawings (to increase the owner’s withdrawals) and credit Cash (to decrease the asset)",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1320,
+    "question": "A basic unifying concept in accounting implies that?",
+    "option": {
+      "a": "where creditors'account is zero, the assets are equal to the owners' equity",
+      "b": "there should be a balance in the creditors' account in order to measure total assets",
+      "c": "revenues should be supported by invested and owners'capital",
+      "d": "total assets can be less than liabilities and equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fundamental accounting equation is:\n\nAssets = Liabilities (Creditors’ claims) + Owners’ Equity\nA direct implication of this “unifying concept” is that if there are no creditors (liabilities = 0), then assets must equal owners’ equity.",
     "examtype": "utme",
     "examyear": "1999"
   },
