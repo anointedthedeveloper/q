@@ -6416,6 +6416,22 @@
     "examyear": "2017"
   },
   {
+    "id": 448,
+    "question": "If 100 cm³ of oxygen passes through a porous plug in 50 seconds, the time taken for the same volume of hydrogen to pass through the same porous plug is? [O = 16, H = 1]",
+    "option": {
+      "a": "10.0 s",
+      "b": "12.5 s",
+      "c": "17.7 s",
+      "d": "32.0 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "By Graham's Law, rate ∝ 1/√M and rate ∝ 1/time. Therefore: t(H₂)/t(O₂) = √(M(H₂)/M(O₂)) = √(2/32) = √(1/16) = 1/4. t(H₂) = 50/4 = 12.5 s. H₂ is lighter and diffuses faster, taking less time.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 449,
     "question": "Due to the high reactivity of sodium, it is usually stored under",
     "option": {
