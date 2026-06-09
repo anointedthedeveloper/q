@@ -94,7 +94,7 @@ HEADERS_LIST = [{"Accept": "application/json", "AccessToken": k} for k in API_KE
 # GitHub config — set these in .env
 GITHUB_TOKEN  = _env.get("GITHUB_TOKEN", "")
 GITHUB_REPO   = _env.get("GITHUB_REPO", "")    # e.g. "yourname/yourrepo"
-GITHUB_BRANCH = _env.get("GITHUB_BRANCH", "main")
+GITHUB_BRANCH = _env.get("GITHUB_BRANCH", "master")
 
 BASE_URL   = "https://questions.aloc.com.ng/api/v2/q/5"
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "questions")
