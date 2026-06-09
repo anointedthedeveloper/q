@@ -1792,6 +1792,22 @@
     "examyear": "2015"
   },
   {
+    "id": 165,
+    "question": "For a best result using temperature to achieve an accurate measurement, it is best to use",
+    "option": {
+      "a": "Mercury thermometer",
+      "b": "gas thermometer",
+      "c": "clinical thermometer",
+      "d": "alcohol thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A gas thermometers are more besting use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 168,
     "question": "The optical instrument which is suitable for viewing a nearby objects is ………..?",
     "option": {
@@ -3180,6 +3196,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611497/ALOC-Questions/Physics/2018/2018_Q_10_ppy08m.jpg",
     "answer": "d",
     "solution": "From the diagram:\n\nLoad = 120.0 N\nEffort = W N\nEfficiency = 40% = 0.40\nCounting the supporting strings in the diagram: V.R = 6 (6 rope segments supporting the load)\n\nStep 1: Calculate Mechanical Advantage (M.A)\nEfficiency = (M.A/V.R) × 100%\n40 = (M.A/6) × 100\n0.40 = M.A/6\nM.A = 0.40 × 6 = 2.4\nStep 2: Calculate effort using M.A\nM.A = Load/Effort\n2.4 = 120/W\nW = 120/2.4\nW = 50.0 N",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 292,
+    "question": "The electrochemical equivalent of silver is 0.0012g/C. If 36.0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5mins, the current must be?",
+    "option": {
+      "a": "6000A",
+      "b": "100A",
+      "c": "10A",
+      "d": "1A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nSolution:\nGiven information:\n\nElectrochemical equivalent (Z) = 0.0012 g/C\nMass of silver (m) = 36.0 g\nTime (t) = 5 minutes = 5 × 60 = 300 seconds\nCurrent (I) = ?\n\nUsing Faraday's Law of Electrolysis:\nm = ZIt\nRearranging to find current:\nI = m/(Zt)\nSubstituting values:\nI = 36.0/(0.0012 × 300)\nI = 36.0/0.36\nI = 100 A",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5116,6 +5148,22 @@
     "image": "",
     "answer": "b",
     "solution": "Lost voltage = I x R\n\n= 4 x 0.55\n\n= 2.2V",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 470,
+    "question": "Which of the following liquid is a poor conductor of electricity?",
+    "option": {
+      "a": "Distilled water",
+      "b": "Tap water",
+      "c": "Sea water",
+      "d": "Drinking water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Distilled water is free of salts and is a poor conductor of electricity.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -7472,6 +7520,22 @@
     "examyear": "2005"
   },
   {
+    "id": 696,
+    "question": "An elastic material has a length of 36 cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is",
+    "option": {
+      "a": " 12 cm",
+      "b": "20 cm",
+      "c": "18 cm",
+      "d": "15 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nWhen F₁ = 40 N, total length L₁ = 36 cm\nWhen F₂ = 60 N, total length L₂ = 45 cm\nOriginal length, L₀ = ?\n\nSolution:\nStep 1: Apply Hooke's Law\nForce F = ke\nWhere:\n\nk = spring constant\ne = extension from original length\n\nFor any load: Total length = Original length + Extension\nStep 2: Set up equations\nFor first load:\n36 = L₀ + e₁\n40 = ke₁\nFor second load:\n45 = L₀ + e₂\n60 = ke₂\nStep 3: Find change in extension\nChange in length: 45 - 36 = 9 cm\nChange in force: 60 - 40 = 20 N\nStep 4: Calculate spring constant\nk = ΔF/Δe = 20/9 N/cm\nStep 5: Find extension for first load\nFrom equation: 40 = ke₁\ne₁ = 40/k = 40/(20/9) = 40 × 9/20 = 18 cm\nStep 6: Calculate original length\nL₀ = L₁ - e₁\nL₀ = 36 - 18\nL₀ = 18 cm",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 697,
     "question": "In the photoelectric effect, which of the following graphs correctly represents the graph of stopping potential V₀ against frequency(f), of incident light?",
     "option": {
@@ -7888,6 +7952,22 @@
     "examyear": "2006"
   },
   {
+    "id": 732,
+    "question": "A p-n junction diode is used as?",
+    "option": {
+      "a": "a rectifier in a d.c circuit",
+      "b": "an amplifier in d.c circuit",
+      "c": "an anplifier in an a.c circuit",
+      "d": " a rectifier in an a.c circuit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A p-n junction diode is used as a rectifier in an a.c circuit",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 733,
     "question": "An object placed 10cm from a concave mirror of focal length 5cm would have its image",
     "option": {
@@ -8128,6 +8208,22 @@
     "examyear": "2007"
   },
   {
+    "id": 752,
+    "question": "A car of mass 1500 kg goes round a circular curve of radius 50m at a speed of 40 ms⁻¹. The magnitude of the centripetal force on the car is?",
+    "option": {
+      "a": "4.8 × 10⁴ N",
+      "b": "4.8 × 10³ N",
+      "c": "1.2 × 10³ N",
+      "d": "1.2 × 10² N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass (m) = 1500 kg\nRadius (r) = 50 m\nSpeed (v) = 40 m/s\nCentripetal force (F) = ?\n\nFormula for centripetal force:\nF = mv²/r\nSubstituting values:\nF = (1500 × 40²)/50\nF = (1500 × 1600)/50\nF = 2,400,000/50\nF = 48,000 N\nF = 4.8 × 10⁴ N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 754,
     "question": "A machine has a velocity ratio of 4. if it requires 800 N to overcome a load of 1600 N,what is the efficiency of the machine?",
     "option": {
@@ -8284,6 +8380,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nThickness of glass plate (d) = 0.9 cm = 0.009 m = 9 × 10⁻³ m\nRefractive index (n) = 1.50\nSpeed of light in vacuum (c) = 3.0 × 10⁸ m/s\nTime (t) = ?\n\nStep 1: Calculate speed of light in glass\nRefractive index = Speed of light in vacuum / Speed of light in medium\nn = c/v\nRearranging:\nv = c/n\nv = (3.0 × 10⁸)/1.50\nv = 2.0 × 10⁸ m/s\nStep 2: Calculate time taken\nTime = Distance / Speed\nt = d/v\nSubstituting values:\nt = (9 × 10⁻³)/(2.0 × 10⁸)\nt = 4.5 × 10⁻¹¹ s\nCalculation breakdown:\nt = 9 × 10⁻³ / 2.0 × 10⁸\nt = (9/2) × 10⁻³⁻⁸\nt = 4.5 × 10⁻¹¹ s",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 769,
+    "question": "The production of pure spectrum could easily be achieved using a?",
+    "option": {
+      "a": "glass prism with a pin",
+      "b": " triangular prism with two convex lens",
+      "c": " traingular prism only",
+      "d": "triangular prism with two concave lenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A pure spectrum can be produced using a triangular prism-two converging lenses and a narrow slit of white light",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -8558,6 +8670,22 @@
     "solution": "Given information:\n\nWavelength (λ) = 6.0 × 10⁻⁷ m\nPlanck's constant (h) = 6.63 × 10⁻³⁴ Js\nSpeed of light (c) = 3.0 × 10⁸ m/s\nEffective mass (m) = ?\n\nUnderstanding photon mass:\nAlthough photons have zero rest mass, they have an effective relativistic mass associated with their energy.\nStep 1: Calculate photon energy\nE = hf = hc/λ\nE = (6.63 × 10⁻³⁴ × 3.0 × 10⁸)/(6.0 × 10⁻⁷)\nE = (19.89 × 10⁻²⁶)/(6.0 × 10⁻⁷)\nE = 3.315 × 10⁻¹⁹ J\nStep 2: Calculate effective mass using E = mc²\nm = E/c²\nm = (3.315 × 10⁻¹⁹)/(3.0 × 10⁸)²\nm = (3.315 × 10⁻¹⁹)/(9.0 × 10¹⁶)\nm = 0.368 × 10⁻³⁵\nm = 3.68 × 10⁻³⁶ kg\nm ≈ 3.7 × 10⁻³⁶ kg",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 800,
+    "question": "I. Force (N)\nII. Torque (Nm)\nIII. Current (A)\nIV. Power (W)\nWhich of the above are the correct S.I. units of the quantities indicated?",
+    "option": {
+      "a": "I and II only",
+      "b": " I and III only",
+      "c": " I, II and III only",
+      "d": " I, II, III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All four statements correctly identify the SI units:\n\nForce → Newton (N) ✓\nTorque → Newton-meter (Nm) ✓\nCurrent → Ampere (A) ✓\nPower → Watt (W) ✓",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 801,
@@ -10032,6 +10160,22 @@
     "examyear": "2010"
   },
   {
+    "id": 935,
+    "question": "The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium?",
+    "option": {
+      "a": " III, IV and VIII",
+      "b": " II, V and VIII",
+      "c": "III, VI and IX",
+      "d": "I, IV and VII"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435552/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_36_ublq2w.png",
+    "answer": "c",
+    "solution": "A bod y is said to be in stable equilibrium if after a slight displacement, the body returns to its former position. Thus, position III, VI and XI represents position of stable equilibrium",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 937,
     "question": "Two metals P and Q of length l1 and l2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of lengths is 3:4. What is the ratio of increase in length of P to Q?",
     "option": {
@@ -10652,6 +10796,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774439368/ALOC-Questions/Physics/2011/PHYSICS_2011_Q_45_x3idg8.png",
     "answer": "b",
     "solution": "\nFrom the circuit diagram:\n\nThree resistors in parallel: 2Ω, 4Ω, and 12Ω\nVoltage across combination = 12V\nCurrent through 12Ω resistor = ?\n\nKey principle for parallel circuits:\nIn a parallel circuit, the voltage across each resistor is the same (equal to the source voltage).\nVoltage across 12Ω resistor:\nV = 12V (same as battery voltage)\nUsing Ohm's Law for the 12Ω resistor:\nI = V/R\nCalculating current:\nI₁₂Ω = 12/12\nI₁₂Ω = 1.0 A",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 995,
+    "question": "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys",
+    "option": {
+      "a": "Graham's Law",
+      "b": "Boyle's Law",
+      "c": "Pressure law",
+      "d": "No Correct Option"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nVolume increases while temperature decreases.\nPressure is held constant.\n\nSolution:\n\nStep 1: Recall the gas laws\n\nBoyle's Law: At constant temperature, pressure is inversely proportional to volume (P ∝ 1/V).\n\nCharles's Law: At constant pressure, volume is directly proportional to absolute temperature (V ∝ T).\n\nPressure Law (Gay-Lussac's Law): At constant volume, pressure is directly proportional to absolute temperature (P ∝ T).\n\nGraham's Law: Rate of effusion of a gas is inversely proportional to the square root of its molar mass.\n\nStep 2: Analyze the given behavior\nThe statement says: volume increases as temperature decreases at constant pressure.\nAccording to Charles's Law, at constant pressure, V ∝ T.\nIf T decreases, V should decrease. But here V increases while T decreases. This is the opposite of Charles's Law.\n\nStep 3: Conclusion\nNone of the listed laws (Graham's, Boyle's, Pressure law) describe this behavior.\n\nGraham's Law is unrelated to volume-temperature relationships.\n\nBoyle's Law involves pressure-volume at constant temperature.\n\nPressure law involves pressure-temperature at constant volume.",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -11820,6 +11980,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nCapacitance, C = 0.1 F\nVoltage, V = 10 V\n\nSolution:\n\nStep 1: Formula for charge stored in a capacitor\nThe charge Q stored in a capacitor is given by:\nQ = C × V\n\nStep 2: Substitute the values\nQ = 0.1 F × 10 V = 1 C",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1110,
+    "question": "A circuit has a resistance of 200Ω. The resistance of the circuit can be reduced to 120Ω when",
+    "option": {
+      "a": "A 300 Ω resistor is connected to it in parallel",
+      "b": "An 80 Ω resistor is connected to it in series",
+      "c": " A 150 Ω resistor is connected to it in parallel",
+      "d": "A 240 Ω resistor is connected to it in series"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial resistance, R₁ = 200 Ω\nDesired total resistance, Rₜ = 120 Ω\n\nSolution:\n\nStep 1: Effect of series and parallel connections\n\nConnecting a resistor in series increases the total resistance.\n\nConnecting a resistor in parallel decreases the total resistance.\n\nStep 2: Parallel resistance formula\nFor two resistors R₁ and R₂ in parallel:\n1/Rₜ = 1/R₁ + 1/R₂\n\nStep 3: Solve for R₂\n1/120 = 1/200 + 1/R₂\n1/R₂ = 1/120 – 1/200 = (5 – 3)/600 = 2/600 = 1/300\nR₂ = 300 Ω",
     "examtype": "utme",
     "examyear": "2014"
   },
