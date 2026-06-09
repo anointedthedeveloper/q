@@ -400,6 +400,22 @@
     "examyear": "2000"
   },
   {
+    "id": 98,
+    "question": "A bowl is designed by revolving completely the area enclosed by y = x<sup>2</sup> - 1, y = 3 and x ≥ 0 around the axis. What is the volume of this bowl?\n\n",
+    "option": {
+      "a": "7π cubic units",
+      "b": "15π/2 cubic units",
+      "c": "8π cubic units",
+      "d": "17π/2 cubic units"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "∫<sup>3</sup><sub>0</sub> π(y+1) dy = π[y<sup>2</sup> + y<sup>3</sup>0\n= π(9/2 + 3) = 15π/2\n",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 100,
     "question": "X and Y are two events. The probability of X or Y is 0.7 and that of X is 0.4. If X and Y are independent, find the probability of Y.",
     "option": {
@@ -507,6 +523,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 121,
+    "question": "An equilateral triangle of side √3 cm is inscribed in \na circle. Find the radius of the circle",
+    "option": {
+      "a": "2/3cm",
+      "b": "2cm",
+      "c": "1cm",
+      "d": "3cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2000"
@@ -784,6 +816,22 @@
     "examyear": "2001"
   },
   {
+    "id": 172,
+    "question": "Without using tables, evaluate (343)<sup>(1/3)</sup> × (0.14)<sup>−1</sup> × (25)<sup>(−1/2)</sup>",
+    "option": {
+      "a": "10",
+      "b": "12",
+      "c": "8",
+      "d": "7"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <mn>343</mn>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mn>1</mn>\n        <mn>3</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mo stretchy=\"false\">(</mo>\n  <mn>0.14</mn>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </msup>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mo stretchy=\"false\">(</mo>\n  <mn>25</mn>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(343)<sup>(1/3)</sup> × (0.14)<sup>-1</sup> × (25)<sup>-1/2</sup>\n \n= 3√343×(14/100)<sup>−1</sup>×(√25)<sup>−1</sup>\n= 7×100/14×1/5\n= 10.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 174,
     "question": "Simplify 52.4 - 5.7 - 3.45 - 1.75",
     "option": {
@@ -960,6 +1008,22 @@
     "examyear": "2002"
   },
   {
+    "id": 213,
+    "question": "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
+    "option": {
+      "a": " 0.38",
+      "b": "0.13",
+      "c": "0.50",
+      "d": " 0.25"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710697888/ALOC-Questions/Mathematics/2002/math_2000_q42_ikiy1n.jpg",
+    "answer": "d",
+    "solution": "30 - x + x + 40 - x = 80 - 20\n70 - x = 60\n- x = 60 - 70\n- x = - 10\n∴ x = 10\nMusic only = 30 - x\n= 30 - 10\n20\nP(music only) = 20/80\n= 1/4\n= 0.25",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 216,
     "question": "In the diagram above, a cylinder is summounted by a hemisphere bowl. Calculate the volume of the solid.",
     "option": {
@@ -988,6 +1052,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698158/ALOC-Questions/Mathematics/2002/math_2000_q46_z9epjm.jpg",
     "answer": "c",
     "solution": "∠PQR = 180 - 128 (∠s on a straight line)\n= 52°\n∠QPR + 76 + 52 = 180(extr ∠ = sum of intr. opp ∠s)\n∠QPR + 128 = 180\n∠QPR = 180 - 128\n= 52°\n∴ΔPQR is an isosceles triangle",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 221,
+    "question": "The triangle POR is",
+    "option": {
+      "a": " an isosceles triange",
+      "b": " an obtuse angle",
+      "c": "a scalene triangle",
+      "d": "an equilateral triangle"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698750/ALOC-Questions/Mathematics/2002/math_2000_q50_xu26lb.jpg",
+    "answer": "a",
+    "solution": "< PRQ = 180° - 128° = 52° = < R\n\n< P + < R + < Q = 180°\n\n76° + 52° + < Q = 180°\n\n128° + < Q = 180°\n\n< Q = 180° - 128°\n\n= 52°\n\nPQR is an isosceles",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1228,6 +1308,22 @@
     "image": "",
     "answer": "a",
     "solution": "ARClength=(θ/360) ×2πr.    22 = 3x/360 × (2× (22/7) × (7/1)).                            3x=180.                             x=180/3 x=60∘",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 276,
+    "question": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3).",
+    "option": {
+      "a": "(1, 1)",
+      "b": "(2, 2)",
+      "c": "(4, 4)",
+      "d": "(4, -4)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>M</mi>\n  <mi>i</mi>\n  <mi>d</mi>\n  <mi>p</mi>\n  <mi>o</mi>\n  <mi>i</mi>\n  <mi>n</mi>\n  <mi>t</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <msub>\n        <mi>x</mi>\n        <mn>1</mn>\n      </msub>\n      <mo>+</mo>\n      <msub>\n        <mi>x</mi>\n        <mn>2</mn>\n      </msub>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mo>;</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <msub>\n        <mi>y</mi>\n        <mn>1</mn>\n      </msub>\n      <mo>+</mo>\n      <msub>\n        <mi>y</mi>\n        <mn>2</mn>\n      </msub>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo>+</mo>\n      <mn>5</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mo>;</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>5</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mn>2</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mo>;</mo>\n  <mfrac>\n    <mn>2</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mo stretchy=\"false\">(</mo>\n  <mn>1</mn>\n  <mo>,</mo>\n  <mn>1</mn>\n  <mo stretchy=\"false\">)</mo>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "Midpoint = (x<sub>1</sub>+x<sub>2</sub>)/2; (y<sub>1</sub>+y<sub>2</sub>)/2 = (−3+5)/2; (5−3)/2 = 2/2; 2/2 = (1, 1)",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -1632,6 +1728,22 @@
     "examyear": "2005"
   },
   {
+    "id": 364,
+    "question": "What is the probability that an integer x,(1 ≤\n x ≤\n 20) chosen at random is divisible by both 2 and 3?",
+    "option": {
+      "a": "1/20",
+      "b": "1/3",
+      "c": "3/20",
+      "d": "7/10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "U = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}\nA = {x/x is divisible by 2}\nA = {2,4,6,8,10,12,14,16,18,20}\nB = {x/x is divisible by 3}\nA ∩ B = {6, 12, 18}\nP(Number divisible by both 2 and 3)\n= 3/20",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 367,
     "question": "From the diagram given, find the bearing of R from S",
     "option": {
@@ -1804,6 +1916,22 @@
     "image": "",
     "answer": "c",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 393,
+    "question": "Compute 110011<sub>2</sub> + 11111<sub>2</sub>",
+    "option": {
+      "a": "1001010<sub>2</sub>",
+      "b": "1010010<sub>2</sub>",
+      "c": "1000110<sub>2</sub>",
+      "d": "1000100<sub>2</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "110011<sub>2</sub> + 11111<sub>2</sub> = 1010010<sub>2</sub>",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -2012,6 +2140,22 @@
     "image": "",
     "answer": "a",
     "solution": "2(3<sup>2x-1</sup>) = 162\n3<sup>2x-1</sup> = 162/2\n3<sup>2x-1</sup> = 81\n3<sup>2x-1</sup> = 3<sup>2</sup>\n2x - 1 = 4 (equating the indices)\n2x = 5\nx = 5/2",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 449,
+    "question": "Simplify 3/5÷(2/7×4/3÷4/9)",
+    "option": {
+      "a": "4/5",
+      "b": "7/10",
+      "c": "6/6",
+      "d": "21/6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "3/5÷(2/7×4/3÷4/9)=3/5÷(2/7×4/3×9/4)=3/5÷6/7=3/5×7/6=7/10",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -2400,6 +2544,22 @@
     "examyear": "2009"
   },
   {
+    "id": 540,
+    "question": "A binary operation ⊗ defined on the set of integers is such that m⊗n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0?",
+    "option": {
+      "a": "-5/4",
+      "b": "-5/6",
+      "c": "0",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "m⊗n=m+n+mn\nLet the inverse of -5 be n.\n\n∴−5 ⊗ n = 0\n−5 + n + (−5n) = 0\nn − 5n = 5 ⟹ −4n = 5\nn= − 5/4",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 541,
     "question": "If Q is, []  then |Q| is?",
     "option": {
@@ -2752,6 +2912,22 @@
     "examyear": "2010"
   },
   {
+    "id": 603,
+    "question": "If x is inversely proportional to y and x = 2(1/2) when y = 2, find x if y = 4",
+    "option": {
+      "a": "4",
+      "b": "5",
+      "c": "1(1/4)",
+      "d": "2(1/4)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "x α 1/y .........(1)\n\nx = k x 1/y .........(2)\n\nWhen x = 2(1/2)\n\n= 5/2, y = 2\n\n(2) becomes 5/2 = k x 1/2\n\ngiving k = 5\n\nfrom (2), x = 5/y\n\nso when y =4, x = 5/y = 1(1/4)",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 612,
     "question": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5).",
     "option": {
@@ -2880,6 +3056,22 @@
     "examyear": "2011"
   },
   {
+    "id": 634,
+    "question": "Solve for x and y respectively in the simultaneous equations -2x - 5y = 3. x + 3y = 0",
+    "option": {
+      "a": "-3, -9",
+      "b": "9, -3",
+      "c": "-9,3",
+      "d": "3, -9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "-2x -5y = 3\n\nx + 3y = 0\n\nx = -3y\n\n-2 (-3y) - 5y = -3\n\n6y - 5y = 3\n\ny = 3\n\nbut, x = -3y\n\nx = -3(3)\n\nx = -9\n\ntherefore, x = -9, y = 3",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 642,
     "question": "If ∣∣∣2533x∣∣∣ = ∣∣∣4312x∣∣∣\n, find the value of x. ",
     "option": {
@@ -2892,6 +3084,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129575/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q21_mrjaiw.jpg",
     "answer": "a",
     "solution": "(2 x 3x) - (5 x 3) = (4 x 2x) - (3 x 1)\n\n6x - 15 = 8x - 3\n\n6x - 8x = 15 - 3\n\n-2x = 12\n\nx = 12/−2\n\n\n= -6\n",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 649,
+    "question": "The midpoint of P(x, y) and Q(8, 6) is (5, 8). Find x and y.",
+    "option": {
+      "a": " (2, 10)",
+      "b": " (2, 8)",
+      "c": "(2, 12)",
+      "d": " (2, 6)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "P(x, y) Q(8, 6)\n\nmidpoint = (5, 8)\n\nx + 8 = 5\n\ny+6/2 = 8\n\nx + 8 = 10\n\nx = 10 - 8 = 2\n\ny + 6 = 16\n\ny + 16 - 6 = 10\n\ntherefore, P(2, 10)",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -3084,6 +3292,22 @@
     "image": "",
     "answer": "c",
     "solution": "PQ = y<sub>1</sub> − y<sub>0</sub>/(x<sub>1</sub> − x<sub>0</sub>)\n = −3−(−7)/−2−5\n = −3 + 7/−2−5\n = 4/−7",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 748,
+    "question": "If angle θ is 135°, evaluate cosθ",
+    "option": {
+      "a": "1/2",
+      "b": "√2/2",
+      "c": "−√2/2",
+      "d": "−1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "θ  = 135°\n\nCos 135o = Cos(90 + 45)o\n\n= cos90ocos45° - sin90osin45°\n\n= 0cos45° - (1 x √2/2)\n\n= −√2/2",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -3292,6 +3516,22 @@
     "image": "",
     "answer": "b",
     "solution": "Let δ<sup>2</sup> and δ denote the variance and standard deviation of the distribution respectively.\n\nBut δ<sup>2</sup> = 4 (given)\n\nHence δ = √4 = 2",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 796,
+    "question": "The table above shows the scores of 20 students in further mathematics test. What is the range of the distribution?",
+    "option": {
+      "a": "7",
+      "b": "6",
+      "c": "3",
+      "d": "10"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131294/ALOC-Questions/Mathematics/2013/JAMB_MATH_2013_Q27_hctpg2.jpg",
+    "answer": "a",
+    "solution": "Range = Highest score - Lowest score\n\n= 10 - 3\n\n= 7",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -3520,6 +3760,22 @@
     "examyear": "2016"
   },
   {
+    "id": 854,
+    "question": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km?",
+    "option": {
+      "a": " 720 litres",
+      "b": "160 litres",
+      "c": "225 litres",
+      "d": "960 litres"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "120km → 45litres\n1km → 45/120litres\n600km → 45/120 x 600 =225litres",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 857,
     "question": "If N = p/2((T<sub>1</sub> −T<sub>2</sub> )/T<sub>1</sub> ). Find P when N = 12, T<sub>1</sub>  = 27 and T<sub>2</sub>  = 24.",
     "option": {
@@ -3580,6 +3836,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003168/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q42_fe8nug.jpg",
     "answer": "b",
     "solution": "< TVS = 180° - (80 + 20)\n= 180 - 100 = 80°",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 867,
+    "question": "From the diagram above. Find the fraction of the shaded position?",
+    "option": {
+      "a": "1/3",
+      "b": "1/5",
+      "c": "1/4",
+      "d": "1/6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003330/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q49_pfidan.jpg",
+    "answer": "d",
+    "solution": "θ = 180° -(90 + 60)\nθ = 180° - 150° = 30°\n\nFraction of shaded position = 30/360 + 30/360\n\n\n= 1/12 + 1/12 = 1/6",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3904,6 +4176,22 @@
     "examyear": "2018"
   },
   {
+    "id": 943,
+    "question": "(0.00256×0.0064)/(0.025 × 0.08)",
+    "option": {
+      "a": "8.8 x 10<sup>-1</sup>",
+      "b": "8.8 x 10<sup>-2</sup>",
+      "c": "8.2 x 10<sup>-3</sup>",
+      "d": " 8.8 x 10<sup>3</sup>"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>0.00256</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.0064</mn>\n    </mrow>\n    <mrow>\n      <mn>0.025</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.08</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 944,
     "question": "Two sisters, Taiwo and Kehinde, own a store. The ratio of Taiwo's share to Kehinde's is 11:9. Later Kehinde sells \\(\\frac{2}{3}\\) of her share to Taiwo for N720.00. Find the value of the store",
     "option": {
@@ -4046,6 +4334,22 @@
     "solution": "0.04945 to 2s.f is 0.049",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 972,
+    "question": "The table above shows the number of pupils in a class with respect to their ages. If a pie chart is constructed to represent the age, the angle corresponding to 8 years old is",
+    "option": {
+      "a": "48.6°",
+      "b": "56.3°",
+      "c": "46.8°",
+      "d": "13°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006675/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q4_fbmbcu.jpg",
+    "answer": "c",
+    "solution": "Total number of pupils : 4 + 13 + 30 + 44 + 9 = 100\n\nThe number of 8 - year olds = 13\n\nThe angle represented by the 8-year olds on the pie chart = 13/100 × 360°\n= 46.8°",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 973,
@@ -4380,6 +4684,22 @@
     "image": "",
     "answer": "b",
     "solution": "Equation through (5,7) parallel to the line \n\n7x + 5y = 12\n\n5y = 7x + 12 \n\ny = −7x/5 + 12/5\nGradient = −7/5\n \nRequired equation = (y−7)/(x − 5) = −7/5\ni.e. 5y - 35 = -7x + 35\n\n5y + 7x = 70",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1043,
+    "question": "Find the simple interest rate percent annum at which N1000 accumulates to N1240 in 3 years. ",
+    "option": {
+      "a": "6%",
+      "b": " 8%",
+      "c": "10%",
+      "d": "12%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "I = PRT/100 = 1 = 1240 - 1000 = 240\n\nR = (240 × 100)/(100 × 3) = 8% ",
     "examtype": "2020",
     "examyear": "utme"
   },
@@ -4848,6 +5168,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1146,
+    "question": "The diagram above is a circle with centre C. P, Q and S are points on the circumference. PS and SR are tangents to the circle. ∠PSR = 36<sup>o</sup>\n. Find ∠PQR",
+    "option": {
+      "a": "72<sup>o</sup>",
+      "b": "36<sup>o</sup>",
+      "c": " 144<sup>o</sup>",
+      "d": "54<sup>o</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007804/ALOC-Questions/Mathematics/2023/Screenshot_2024-08-18_at_8.03.15_PM_e3llyp.png",
+    "answer": "a",
+    "solution": "From ∆PSR\n\n|PS| = |SR| (If two tangents are drawn from an external point of the circle, then they are of equal lengths)\n\n∴ ∆PSR is isosceles\n\n∠PSR + ∠SRP + ∠SPR = 180\n <sup>o</sup> (sum of angles in a triangle)\n\nSince |PS| = |SR|; ∠SRP = ∠SPR\n\n⇒ ∠PSR + ∠SRP + ∠SRP = 180<sup>o</sup>\n\n\n∠PSR + 2∠SRP = 180<sup>o</sup>\n\n\n36<sup>o</sup>\n + 2∠SRP = 180<sup>o</sup>\n\n\n2∠SRP = 180<sup>o</sup>\n - 36<sup>o</sup>\n\n\n2∠SRP = 144<sup>o</sup>\n∠SRP = 144<sup>o</sup>/2=72<sup>o</sup>\n∠SRP = ∠PQR (angle formed by a tangent and chord is equal to the angle in the alternate segment)\n\n∴ ∠PQR = 72<sup>o</sup>",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1150,
     "question": "Find the value of t, if the distance between the points P(–3, –14) and Q(t, –5) is 9 units.",
     "option": {
@@ -4876,6 +5212,22 @@
     "image": "",
     "answer": "a",
     "solution": "lim <sub>(x→2)</sub> x<sup>2</sup> + 4x − 12)/(x<sup>2</sup> −2x) \n = lim <sub>(x→2)</sub> ((x−2)(x+6))/(x(x − 2))\nlim<sub>x→2 x+6/x</sub>\n2 + 6/2 = 8/2\n = 4",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1156,
+    "question": "A boat sails 8 km north from P to Q and then sails 6 km west from Q to R. Calculate the bearing of R from P. Give your answer to the nearest degree.",
+    "option": {
+      "a": " 217<sup>o</sup>",
+      "b": "323<sup>o</sup>",
+      "c": "037<sup>o</sup>",
+      "d": "053<sup>o</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "tan θ = opp/adj = RQ/QP = 6/8\ntan θ = 0.75\n\nθ = tan<sup>−1</sup>(0.75) = 36.87°\n\n\n∴ The bearing of R from P = 360° - 36.87° = 323°\n (to the nearest degree)",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -5024,6 +5376,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1190,
+    "question": "A man donates 10% of his monthly net earnings to his church. If it amounts to N4,500, what is his net monthly income?",
+    "option": {
+      "a": "N40,500",
+      "b": "N45,000",
+      "c": "N52,500",
+      "d": " N62,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let;\nM = Man monthly net earnings\n\nThen;\n\nN4500 = 10%/100%× M\n\n\nM = (N4500 × 100%)/10%\n\n\nM = N45,000",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1191,
     "question": "If log7.5 = 0.8751, evaluate 2 log75 + log750",
     "option": {
@@ -5084,6 +5452,38 @@
     "image": "",
     "answer": "b",
     "solution": "x * y = xy\nx * 2 = 12 - x\n\nThus by comparison,\n\nx = x, y = 2\n\nBut x * y = x * 2\n\nxy = 12 - x\n\nx2 = 12 - x\n\nx2 + x - 12 = 0\n\nx2 + 4x - 3x - 12 = 0\n\nx(x + 4) - 3(x + 4) = 0\n\n(x - 3)(x + 4) = 0\n\nx - 3 = 0 or x + 4 = 0\n\nSo x = 3 or x = -4",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1208,
+    "question": "Find the value of ∣∣∣∣010375284∣∣∣∣\n.",
+    "option": {
+      "a": "12",
+      "b": "10",
+      "c": "-1",
+      "d": "-2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206533/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q23_zwoj2v.jpg",
+    "answer": "d",
+    "solution": "= 0(28 - 40) - 3(4 - 0) + 2(5 - 0)\n\n= 0(-12) - 3(4) + 2(5)\n\n= 0 - 12 + 10\n\n= -2",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1212,
+    "question": "The gradient of a line joining (x,4) and (1,2) is 1/2\n. Find the value of x",
+    "option": {
+      "a": "5",
+      "b": "3",
+      "c": "-3",
+      "d": "-5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Gradient m=y<sub>2</sub> −y<sub>1</sub> /x<sub>2</sub> −x<sub>1</sub> \n \n\n1/2 = (2−4)/(1−x)\n\n\n1 - x = 2(2 - 4)\n\n1 - x = 4 - 8\n\n1 - x = -4\n\n-x = -4 - 1\n\nx = 5",
     "examtype": "utme",
     "examyear": "2014"
   },
@@ -5180,6 +5580,22 @@
     "image": "",
     "answer": "c",
     "solution": "Perimeter of the sector = 2r+θ/360° × 2πr\n= 2(10.5) + 120/360 × 2 ×(22/7) × 10.5\n= 21 + 22\n= 43 cm",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1235,
+    "question": "The locus of a dog tethered to a pole with a rope of 4m is a\n",
+    "option": {
+      "a": "semi-circle with diameter 4m",
+      "b": "semi-circle with radius 4m",
+      "c": "circle with diameter 4m",
+      "d": "circle with radius 4m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2014"
   },
