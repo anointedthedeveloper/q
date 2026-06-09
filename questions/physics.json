@@ -10320,6 +10320,22 @@
     "examyear": "2005"
   },
   {
+    "id": 685,
+    "question": "If the system above is in equilibrium, the tension in the string Q is",
+    "option": {
+      "a": "11N",
+      "b": " 9N",
+      "c": "4N",
+      "d": "6N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296718/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_36_c6g0fp.png",
+    "answer": "b",
+    "solution": "\nStep 1: Analyze forces on bottom block (5N)\nString R pulls upward on the 5N block.\nFor equilibrium:\nR = 5N\nStep 2: Analyze forces on middle block (4N)\nForces acting on middle block:\n\nWeight downward: 4N\nString Q pulling upward: Q\nString R pulling downward: R = 5N\n\nFor equilibrium:\nQ = 4N + R\nQ = 4 + 5\nQ = 9N",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 686,
     "question": "In the figure above, the work done by the force of 100N inclined at an angle of 60° to the object dragged horizontally to a distance of 8m is",
     "option": {
@@ -17292,6 +17308,22 @@
     "image": "",
     "answer": "a",
     "solution": "An object sinks when its density is greater than that of water.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1156,
+    "question": "A well-lagged thin metal rod of length 0.2 m has a temperature gradient of 416 K m⁻¹. If one end is at 233 °C, what is the temperature at the other end?",
+    "option": {
+      "a": "141.20 °C",
+      "b": "257.48 °C",
+      "c": " 408.60 °C",
+      "d": "316.28 °C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nLength of rod, L = 0.2 m\nTemperature gradient = 416 K m⁻¹\nTemperature at one end, T₁ = 233 °C\n\nSolution:\n\nStep 1: Interpret temperature gradient\nTemperature gradient = (T₂ – T₁) / L, where T₂ is the temperature at the other end.\n\nStep 2: Rearrange to find T₂\nT₂ – T₁ = temperature gradient × L\nT₂ = T₁ + (temperature gradient × L)\n\nStep 3: Substitute values\nT₂ = 233 °C + (416 K m⁻¹ × 0.2 m)\nNote: A change of 1 K is the same as a change of 1 °C, so we can work in °C directly.\nT₂ = 233 + 83.2 = 316.2 °C",
     "examtype": "utme",
     "examyear": "2025"
   },
