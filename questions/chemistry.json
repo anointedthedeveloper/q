@@ -64,6 +64,22 @@
     "examyear": "2001"
   },
   {
+    "id": 31,
+    "question": "The general formula for the alkanals is",
+    "option": {
+      "a": "ROH",
+      "b": "R2CO",
+      "c": "RCOOR1",
+      "d": "RCHO"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 34,
     "question": "Catalytic hydrogenation of benzene produces",
     "option": {
@@ -288,6 +304,22 @@
     "examyear": "2003"
   },
   {
+    "id": 111,
+    "question": "The modern process of manufacturing steel from iron is by",
+    "option": {
+      "a": "Treatment with acids",
+      "b": "Oxidation",
+      "c": "Blast reduction",
+      "d": "Treatment with alkalis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 114,
     "question": "How many isomers does pentane have",
     "option": {
@@ -464,6 +496,22 @@
     "examyear": "2004"
   },
   {
+    "id": 149,
+    "question": " N2O4(g)    ⇌  2NO2(g)",
+    "option": {
+      "a": "A constant volume",
+      "b": "An increase in pressure",
+      "c": "A decrease in pressure",
+      "d": " A decrease in volume"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 151,
     "question": "The allotrope of carbon used in the decolourization of sugar is",
     "option": {
@@ -619,6 +667,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 187,
+    "question": "An element will readily form an electrovalent compound if its electron configuration is",
+    "option": {
+      "a": "2,8,8",
+      "b": "2,,8,4",
+      "c": "2,8,5",
+      "d": "2,8,1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -864,6 +928,22 @@
     "examyear": "2006"
   },
   {
+    "id": 253,
+    "question": "The sulphide which is insoluble in dilute hydrochloric acid is",
+    "option": {
+      "a": "CuS",
+      "b": "Na2S",
+      "c": "FeS",
+      "d": "ZnS"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 254,
     "question": "The efficiency of a solid catalyst to increase reaction rates depends on its",
     "option": {
@@ -923,6 +1003,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 271,
+    "question": "Permanent hardness of water can be removed by",
+    "option": {
+      "a": "Adding slaked lime",
+      "b": "Adding caustic soda",
+      "c": "Boiling",
+      "d": "Filtration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1648,6 +1744,22 @@
     "examyear": "2018"
   },
   {
+    "id": 459,
+    "question": "What is the pH of 0.001 mol dm⁻³ solution of sodium hydroxide?",
+    "option": {
+      "a": "1400%",
+      "b": "1300%",
+      "c": "1200%",
+      "d": "1100%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "NaOH is a strong base: [OH⁻] = 0.001 = 10⁻³ mol dm⁻³. pOH = -log(10⁻³) = 3. pH = 14 - pOH = 14 - 3 = 11.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 463,
     "question": "According to the Kinetic Theory, an increase in temperature causes the kinetic energy of particles to",
     "option": {
@@ -2000,6 +2112,22 @@
     "examyear": "2020"
   },
   {
+    "id": 567,
+    "question": "If the quantity of oxygen occupying 2.76L container at a pressure of 0.825 atm and 300K is reduced by one-half, what is the pressure exerted by the remaining gas?",
+    "option": {
+      "a": "1.650atm",
+      "b": "0.825atm",
+      "c": "0.413atm",
+      "d": "0.275atm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The amount of gas is reduced by half at constant volume and temperature. By the ideal gas law (PV = nRT), pressure is directly proportional to the number of moles at constant V and T. Halving the moles halves the pressure. New pressure = 0.825 ÷ 2 = 0.4125 atm ≈ 0.413 atm.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 573,
     "question": "Which of the following gases will rekindle a brightly glowing splint?",
     "option": {
@@ -2048,6 +2176,22 @@
     "examyear": "2020"
   },
   {
+    "id": 578,
+    "question": "Helium is used in observation balloons because it is?",
+    "option": {
+      "a": "Light and combustible",
+      "b": "light and non-combustible",
+      "c": "heavy and combustible",
+      "d": "heavy and non-combustible"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Helium is the second lightest element, making it ideal for lifting balloons. It is also a noble gas and completely non-combustible, making it much safer than hydrogen (which is equally light but highly flammable). These two properties, lightness and non-combustibility, make helium the preferred gas for observation balloons.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 581,
     "question": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?",
     "option": {
@@ -2060,6 +2204,22 @@
     "image": "",
     "answer": "b",
     "solution": "At the anode: 2H₂O → O₂ + 4H⁺ + 4e⁻. One mole of O₂ requires 4 Faradays. For 0.125 mol O₂: charge = 0.125 × 4 × 96500 = 48,250 C.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 582,
+    "question": "Which of the following types of bonding does not involve the formation of new substances?",
+    "option": {
+      "a": "Metallic",
+      "b": "Covalent",
+      "c": "Co-ordinate",
+      "d": "Electrovalent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Metallic bonding occurs between metal atoms where electrons are delocalised in a \"sea\" of electrons. This type of bonding holds metal atoms together in a lattice but does not involve the formation of a new chemical substance. Covalent, co-ordinate, and electrovalent (ionic) bonding all involve the combination of different atoms or ions to form new compounds.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -2156,6 +2316,22 @@
     "image": "",
     "answer": "c",
     "solution": "Nitrogen (N) has an atomic number of 7 and a relative atomic mass (atomic weight) of 14. This value reflects that the most abundant isotope of nitrogen is ¹⁴N, which contains 7 protons and 7 neutrons. Atomic weight 12 belongs to carbon, and 16 belongs to oxygen.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 605,
+    "question": "The gas which causes global warming is?",
+    "option": {
+      "a": "O₂",
+      "b": "CO₂",
+      "c": "N₂",
+      "d": "He"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Carbon dioxide (CO₂) is the primary greenhouse gas responsible for global warming. It traps heat from the sun in the earth's atmosphere by absorbing infrared radiation, preventing it from escaping into space. Human activities such as burning fossil fuels and deforestation increase CO₂ levels, intensifying the greenhouse effect.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2286,6 +2462,22 @@
     "solution": "Salt hydrolysis is the reaction of a salt with water to produce an acidic or basic solution. When a salt of a weak acid and strong base dissolves in water, the anion reacts with water to produce a basic solution. When a salt of a strong acid and weak base dissolves, the cation reacts with water to produce an acidic solution. This process is called hydrolysis.",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 635,
+    "question": "The sub-atomic particles located in the nucleus of an atom are?",
+    "option": {
+      "a": "neutron and proton",
+      "b": "proton and electron",
+      "c": "proton and ions",
+      "d": "neutron and electron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The nucleus of an atom contains two types of subatomic particles: protons (positively charged) and neutrons (no charge). Electrons are negatively charged particles found outside the nucleus, orbiting in energy shells. Ions are not subatomic particles but atoms that have gained or lost electrons.",
+    "examtype": "utme",
+    "examyear": "2022"
   },
   {
     "id": 637,
@@ -2508,6 +2700,22 @@
     "image": "",
     "answer": "d",
     "solution": "According to the kinetic molecular theory, gas particles are in constant random motion and collide elastically with each other and with the walls of their container. The pressure exerted by a gas is the result of these continuous collisions of gas molecules with the container walls. Each collision exerts a small force, and the cumulative effect of billions of collisions per second creates the measurable gas pressure.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 681,
+    "question": "What is the name of the process by which ammonia is produced on an industrial scale?",
+    "option": {
+      "a": "Nitrogenation",
+      "b": "Ammoniation",
+      "c": "Nitrification",
+      "d": "Haber process"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Haber process is the industrial method for producing ammonia by reacting nitrogen gas with hydrogen gas: N₂ + 3H₂ ⇌ 2NH₃. The conditions used are approximately 450°C, 200 atmospheres pressure, and an iron catalyst. The ammonia produced is mainly used in the manufacture of fertilisers.",
     "examtype": "utme",
     "examyear": "2023"
   },
