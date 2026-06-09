@@ -112,6 +112,22 @@
     "examyear": "2014"
   },
   {
+    "id": 12,
+    "question": "A prospective insured in an engineering insurance may be advised to purchase one of the following classes of insurance",
+    "option": {
+      "a": "fire cover",
+      "b": "boiler cover",
+      "c": "tempest cover",
+      "d": "equipment cover"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 13,
     "question": "The class of non-life insurance policy where cover note is issued is",
     "option": {
@@ -992,6 +1008,22 @@
     "examyear": "1"
   },
   {
+    "id": 98,
+    "question": "Engineering insurance covers the following except",
+    "option": {
+      "a": "boiler explosion",
+      "b": "building and civil",
+      "c": "business interruption",
+      "d": "machinery breakdown"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 101,
     "question": "When someone is placed back in the same financial position that he was in just prior to a loss, that is ----",
     "option": {
@@ -1403,6 +1435,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 135,
+    "question": "The person who calculate the amount given to the insured if he does not want to continue with the contract of insurance is called",
+    "option": {
+      "a": "Actuary",
+      "b": "Insurance agent",
+      "c": "Insurance broker",
+      "d": "Assessor loss adjuster"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -1947,6 +1995,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 187,
+    "question": "The insurance principle which implies that a proof is required that the direct and immediate cause of the loss suffered was by the occurrence of the risk insured against is called",
+    "option": {
+      "a": "Indemnity",
+      "b": "Proximate cause",
+      "c": "Insurable interest",
+      "d": "Utmost good faith"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -3287,6 +3351,22 @@
       "b": "mortgagee clause",
       "c": "mortgage clause",
       "d": "joint liability clause"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 318,
+    "question": "The policy that covers  an  insured  employee  against injury  sustained  in  the  course  of  employment  is",
+    "option": {
+      "a": "professional indemnity",
+      "b": "product liability",
+      "c": "public liability",
+      "d": "employer’s liability"
     },
     "section": "",
     "image": "",
