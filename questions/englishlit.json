@@ -544,6 +544,22 @@
     "examyear": "2007"
   },
   {
+    "id": 44,
+    "question": "The name of the author of \"We Must Learn to Fly\" is: ",
+    "option": {
+      "a": "Dennis Brutus ",
+      "b": "Leopold Sedar Senghor ",
+      "c": "Odia Ofeimun ",
+      "d": "Wole Soyinka."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 45,
     "question": "One of the following is a characteristic of a novel: ",
     "option": {
@@ -2347,6 +2363,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 192,
+    "question": "<em>Let me not love thee if l love thee not</em> illustrates",
+    "option": {
+      "a": "metaphor",
+      "b": "proverb",
+      "c": "paradox",
+      "d": "meiosis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -5616,6 +5648,22 @@
     "examyear": "2018"
   },
   {
+    "id": 453,
+    "question": "A good number of Kufi women secretly envy Yaremi for new",
+    "option": {
+      "a": "Marriage",
+      "b": "Liberty and freedom",
+      "c": "Loneliness",
+      "d": "Wealth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 454,
     "question": "Dina and Kabria hold a confidential talk",
     "option": {
@@ -6121,6 +6169,22 @@
       "d": "King Santigi. Whitehead and Soko"
     },
     "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 500,
+    "question": "Mama comes home and announces that she has put a down payment on a house with some of the",
+    "option": {
+      "a": "Lawyers",
+      "b": "Insurance money",
+      "c": "Savings",
+      "d": "Agents"
+    },
+    "section": "Question 19 is based on Lorraine Hansberry's \"A Raisin in the Sun\"",
     "image": "",
     "answer": "b",
     "solution": "",
@@ -6827,6 +6891,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 559,
+    "question": "A farce refers to a drama that has elements of the ",
+    "option": {
+      "a": "Serious",
+      "b": "Satiric",
+      "c": "Comic",
+      "d": "Tragic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"
