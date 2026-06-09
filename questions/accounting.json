@@ -1088,6 +1088,22 @@
     "examyear": "2004"
   },
   {
+    "id": 426,
+    "question": "When a new partner is admitted to a partnership, there is a need to revalue the",
+    "option": {
+      "a": "capital of the business",
+      "b": "capital and liabilities of the business",
+      "c": "assets and capital of the business",
+      "d": "assets and liabilities of the business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 427,
     "question": "The accounting entry to record the premium on goodwill is to debit",
     "option": {
@@ -1211,6 +1227,22 @@
     "section": "Use the information to answer questions: I.Operating machine II. Furniture  III .Fixtures and fittings IV.  Loan from friends V. Creditors",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 486,
+    "question": "Which of the following should not be added or subtracted from the bank statement balance to determine the adjusted cash balance?",
+    "option": {
+      "a": "Error by the bank",
+      "b": "Under casting of the cash book",
+      "c": "Overcasting of the cash book",
+      "d": "Bank service charges"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -1502,6 +1534,22 @@
     "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 624,
+    "question": "Which of these is the subsidiary book for return inwards?",
+    "option": {
+      "a": "Sales day book",
+      "b": "Sales return journal",
+      "c": " Purchases day journal",
+      "d": "Cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Sales return journal otherwise called return inward book is meant for recording of all good returned by customer",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 630,
@@ -1904,6 +1952,22 @@
     "examyear": "2020"
   },
   {
+    "id": 777,
+    "question": "₦500 monthly is allowed on an imprest system. The following transactions took place in Period 1: cash advanced to petty cashier ₦500, petty cashier paid out for stamp ₦200 and newspaper ₦250. In Period 2: cash to petty cashier ₦450, cashier paid for writing materials ₦350. How much should the petty cashier receive after period 2?",
+    "option": {
+      "a": " ₦150",
+      "b": " ₦350",
+      "c": "₦250",
+      "d": " ₦500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "After Period 2:\n\nOpening balance: ₦50 + Cash received ₦450 = ₦500\nPayment made: Writing materials ₦350\nBalance remaining: ₦500 - ₦350 = ₦150\n\nTo restore the imprest to ₦500:\nAmount needed = ₦500 - ₦150 = ₦350\nTherefore, the petty cashier should receive ₦350 after period 2.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 783,
     "question": "A major cause of discrepancy between the bank statement and the cashbook that overstates the bank statement balance is the",
     "option": {
@@ -1996,6 +2060,38 @@
     "image": "",
     "answer": "d",
     "solution": "To find Department A's net profit, allocate the electricity expense using the 60:40 ratio:\nElectricity allocation:\n\nDepartment A: 60% of ₦2,000 = ₦1,200\nDepartment B: 40% of ₦2,000 = ₦800\n\nDepartment A's calculation:\n\nGross profit: ₦6,000\nLess: Salaries and wages: ₦1,800\nLess: Electricity: ₦1,200\nLess: Depreciation: ₦600\nNet profit for Department A = ₦6,000 - ₦1,800 - ₦1,200 - ₦600 = ₦2,400",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 817,
+    "question": "Given the following ledger balances, what is the total amount on the credit side of the trial balance?\n\nBank overdraft: ₦2,000\n\nCash: ₦2,000\n\nFurniture: ₦4,000",
+    "option": {
+      "a": "₦4000",
+      "b": "₦6000",
+      "c": "₦2000",
+      "d": "₦8000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Only the bank overdraft is a credit balance, so the total on the credit side of the trial balance is ₦2,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 823,
+    "question": "The major objectives of departmental account is to ascertain the",
+    "option": {
+      "a": "materials sold in each department",
+      "b": "insurance premium payable on employees",
+      "c": "number of employees in each department",
+      "d": "contribution of each department to profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Departmental accounting is designed to track the revenues, expenses, and therefore the profits generated by each department individually. This allows management to see which departments are most (or least) profitable and make informed decisions about resource allocation, performance evaluation, and strategic focus.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2140,6 +2236,22 @@
     "image": "",
     "answer": "b",
     "solution": "Net assets = ₦190,000 + ₦170,000 + ₦60,000 – ₦50,000 = ₦370,000\n\nGoodwill = ₦400,000 – ₦370,000 = ₦30,000",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 912,
+    "question": "The main purpose of transaction file is?",
+    "option": {
+      "a": "to record assets and liabilities",
+      "b": "to update income and expenses",
+      "c": "to make organization decision",
+      "d": " to update master files"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A transaction file is used to hold data during transaction processing. The file is later used to update the master file and audit daily, weekly or monthly transactions.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -2432,6 +2544,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1025,
+    "question": "In a three-column cash book,the discount allowed is shown on the?",
+    "option": {
+      "a": "debit side",
+      "b": "credit side",
+      "c": "folio column",
+      "d": "memorandum column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Explanation: In a three-column cash book, discount allowed is recorded on the debit side because it is an expense to the business and is given to customers who pay promptly.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1028,
     "question": "Given:\n...............................Jan.2003.........Dec. 2003\nProvision for bad debt........₦1000\nDebtors..........................................₦20000\nBad debt to be written off.......................₦2000\n\nThe provision for bad debt stands at 10% of debtors. How much is to be charged to profit and loss account as provision for bad debt?",
     "option": {
@@ -2476,6 +2604,22 @@
     "image": "",
     "answer": "b",
     "solution": "Assets\n\nCash in hand = ₦50\n\nCash at bank = ₦1,250 → running total = ₦1,300\n\nStock = ₦4,880 → running total = ₦6,180\n\nFurniture = ₦960 → running total = ₦7,140\n\nBuilding = ₦5,500 → running total = ₦12,640\n\nDebtors = ₦1,750 → Total assets = ₦14,390\n\nLess: Liabilities\n\nCreditors = ₦2,150\n\nSubtotal (Assets − Liabilities) = ₦14,390 − ₦2,150 = ₦12,240\n\nLess: Drawings by shareholders = ₦125\n\nCapital = ₦12,240 − ₦125 = ₦12,115",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1053,
+    "question": "<b>Use the information below to answer questions 39 to 40</b>\n\n\nJide and Haruna contribute ₦12000 each as capital and share profit equally. Jide draws ₦1500 and Haruna ₦1700 half-yearly. The profit for the year is ₦10000. Jide receives a salary of ₦2000.\n\nCalculate the profit available for appreciation?",
+    "option": {
+      "a": " ₦12 000",
+      "b": "₦10 000",
+      "c": " ₦8 000",
+      "d": "₦7 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Start with Net Profit\nGiven:\nNet profit for the year = ₦10,000\n\nStep 2: Deduct salary to partner\nJide’s salary = ₦2,000\n\n₦10,000 − ₦2,000 = ₦8,000 (this is now the balance before drawings)\n\nStep 3: Ignore drawings\nDrawings by partners (₦1,500 × 2 = ₦3,000 for Jide, ₦1,700 × 2 = ₦3,400 for Haruna)\nThese are not expenses — they are taken from profit after appropriation.\nSo they do not reduce the profit available for appropriation.\n\nProfit available for appropriation = ₦8,000",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -2540,6 +2684,22 @@
     "image": "",
     "answer": "c",
     "solution": "We can calculate total sales on account using the accounts receivable equation:\n\nBeginning A/R + Credit Sales − Collections = Ending A/R\n\nSubstitute values:\n\n20,000 + Credit Sales − 70,000 = 30,000\n\nCredit Sales − 50,000 = 30,000\n\nCredit Sales = 80,000",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1086,
+    "question": "In converting single entry to final account, the balancing figures on the income and expenses accounts are transferred to the?",
+    "option": {
+      "a": "revenue and expenditure account",
+      "b": "receipts and payments account",
+      "c": " profit and loss apporpriation account",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The balancing figures from the income and expenses account represent the surplus or deficit for the period, which is transferred to the profit and loss account in the conversion process.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -2912,6 +3072,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1263,
+    "question": "<b>Use the information below to answer questions 49 and 50</b>\n\nGiven PTF Trial balance (Extract) as at 31 December 1999 showing: Cash ₦2,000 (Dr), Investments ₦3,000 (Dr), Accounts receivable ₦6,000 (Dr), and Fund balance ₦11,000 (Cr). Assuming all the investments realized ₦4m, what will be the ending fund balance?",
+    "option": {
+      "a": "₦8m",
+      "b": "₦12,000",
+      "c": "₦13m",
+      "d": "₦16m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate gain/loss on investments\n\nCost of investments (from trial balance): ₦3,000\nRealization value: ₦4,000\nGain on disposal = ₦4,000 - ₦3,000 = ₦1,000\n\nStep 2: Calculate ending fund balance\n\nOpening fund balance: ₦11,000\nAdd: Gain on disposal of investments: ₦1,000\nEnding fund balance = ₦11,000 + ₦1,000 = ₦12,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1271,
     "question": "Which of the following is an example of intangible assets?",
     "option": {
@@ -2976,6 +3152,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1319,
+    "question": "When a proprietor withdraws cash from the business for private use, he?",
+    "option": {
+      "a": "debits cash account and credits drawings account",
+      "b": "credits cash account and debits bank account",
+      "c": "debits bank account and credits drawings account",
+      "d": "credits cash account and debits drawings account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The correct entry is to debit Drawings (to increase the owner’s withdrawals) and credit Cash (to decrease the asset)",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1328,
     "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\t\t\t\t  ₦\nCapital: Opening balance \t307,000\nClosing balance \t\t342,000\n₦et profit for the period \t121,600\nOpening stock \t\t\t98,800\nPurchases \t\t\t706,000\nCarriage inwards \t\t17,500\nCost of goods sold \t\t740,700\nTotal selling, general and\nAdministrative expenses  \t526,000\nDiscount received \t\t9,650\n\n\nWhat is the closing stock for the period?",
     "option": {
@@ -2988,6 +3180,22 @@
     "image": "",
     "answer": "c",
     "solution": "COGS = Opening Stock + Purchases + Carriage Inwards − Closing Stock\nRearrange to find Closing Stock:\n\nClosing Stock = Opening Stock + Purchases + Carriage Inwards − COGS\nSubstitute the numbers:\n\nClosing Stock = 98,800 + 706,000 +17,500 − 740,700 = 81,600",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1333,
+    "question": "The principal function of a sales ledger control account is to?",
+    "option": {
+      "a": "serve as internal check and provide quick information for the preparation of interim financial statements",
+      "b": "serve as external check and provide quick information for the preparation of interim financial statements",
+      "c": " provide quick information for the preparation of customers' statement",
+      "d": " provide information for the control of salesmen's activities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The primary purpose of the Sales Ledger Control Account is to act as an internal check on the postings to the individual debtor (customer) accounts and to provide a consolidated receivables figure that is readily available, especially useful when preparing interim or monthly financial statements without having to total each individual ledger.",
     "examtype": "utme",
     "examyear": "1999"
   },
