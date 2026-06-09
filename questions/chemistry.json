@@ -5056,6 +5056,22 @@
     "examyear": "2015"
   },
   {
+    "id": 344,
+    "question": "NH₃(g) + HCl(s) → NH₄Cl(s). The entropy change in the system above is",
+    "option": {
+      "a": "positive",
+      "b": "zero",
+      "c": "negative",
+      "d": "intermediate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In this reaction, a gas (NH₃) and a solid (HCl) combine to form a solid (NH₄Cl). The disappearance of the gaseous phase results in a large decrease in disorder. Since the number of gaseous moles decreases from 1 to 0, entropy decreases, giving a negative entropy change (ΔS < 0).",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 346,
     "question": "Which of the following results in the fall of acid rain?",
     "option": {
@@ -7296,6 +7312,22 @@
     "examyear": "2018"
   },
   {
+    "id": 492,
+    "question": "The refreshing and characteristic taste of soda water and other soft drinks is as a result of the presence of",
+    "option": {
+      "a": "carbon (IV) oxide",
+      "b": "carbon (II) oxide",
+      "c": "soda",
+      "d": "glucose"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The refreshing taste and fizz of soda water and carbonated soft drinks is due to dissolved carbon (IV) oxide (CO₂). CO₂ dissolves under pressure to form carbonic acid (H₂CO₃), giving the drink its characteristic slightly acidic, tangy taste. When the pressure is released, CO₂ escapes as bubbles.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 493,
     "question": "Which of the following are mixtures?\nI. Petroleum\nII. Rubber latex\nIII. Vulcanizer's solution\nIV. Carbon sulphide",
     "option": {
@@ -7404,6 +7436,22 @@
     "image": "",
     "answer": "b",
     "solution": "In diamond, each carbon atom forms four strong covalent bonds with four neighbouring carbon atoms in a giant tetrahedral lattice. All four valence electrons of each carbon are used in covalent bond formation, leaving no free (delocalized) electrons available to carry electric current. This is why diamond is a non-conductor of electricity.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 502,
+    "question": "The reaction between an organic acid and an alcohol in the presence of an acid catalyst is known as",
+    "option": {
+      "a": "saponification",
+      "b": "dehydration",
+      "c": "esterification",
+      "d": "hydrolysis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Esterification is the reaction between a carboxylic acid (organic acid) and an alcohol, catalyzed by a concentrated acid (usually H₂SO₄), to produce an ester and water: RCOOH + R'OH ⇌ RCOOR' + H₂O. Saponification is the reverse (alkaline hydrolysis of esters); dehydration removes water to form alkenes.",
     "examtype": "utme",
     "examyear": "2018"
   },
