@@ -6528,6 +6528,22 @@
     "examyear": "2007"
   },
   {
+    "id": 438,
+    "question": "I.Profits and losses will be shared unequally II.  Interest is not allowed on capital, III. Salaries are not allowed. IV. Interest is charged on drawings. Which of  the following would apply where there is no agreement during partnership formation?",
+    "option": {
+      "a": "I only",
+      "b": "I, II and III",
+      "c": "I, II and IV",
+      "d": "II and III."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 439,
     "question": "The value of goods sent to branch is",
     "option": {
@@ -11920,6 +11936,22 @@
     "examyear": "2020"
   },
   {
+    "id": 800,
+    "question": "In trial balance, income and liabilities are",
+    "option": {
+      "a": "credited",
+      "b": "credited and debited respectively",
+      "c": "debited and credited respectively",
+      "d": "debited"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In a trial balance, both income and liabilities appear on the credit side. This follows the fundamental accounting principle:\n\nIncome/Revenue accounts have credit balances because they increase owner's equity\nLiability accounts have credit balances because they represent amounts owed by the business",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 802,
     "question": "Kola and Sunday are in partnership sharing profits and losses equally. If Kemi is admitted as a new partner to take 1/5 as her share, what is the new profit or loss sharing ratio?",
     "option": {
@@ -12028,6 +12060,22 @@
     "image": "",
     "answer": "a",
     "solution": "In government accounting, capital and revenue expenditures are typically accounted for under various funds including:\n\nTechnical funds - for specific technical projects and operations\nSpecial trust funds - for funds held in trust for specific purposes\nCommercial funds - for government commercial activities and enterprises\n\nThese funds help segregate and track different types of government expenditures based on their nature and purpose, ensuring proper accountability and financial management in the public sector.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 809,
+    "question": "Using the data below, calculate the total factory overhead cost for the period.\n\nDepreciation of plant and machinery: ₦1,600\n\nFactory rent: ₦650\n\nIndirect wages: ₦695\n\nGeneral indirect expenses: ₦726\n\nLubricants: ₦1,235\n\nFactory power: ₦350",
+    "option": {
+      "a": "₦4,485",
+      "b": "₦6,085",
+      "c": " ₦6,556",
+      "d": " ₦5,256"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Total factory overhead = ₦1,600 + ₦650 + ₦695 + ₦726 + ₦1,235 + ₦350 = ₦5,256.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -12668,6 +12716,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Sales Ledger Control Account is a summary account that records transactions with debtors (customers).\n\nDishonoured cheques increase the amount owed by a debtor (because the payment failed), so it is a debit item.\n\nCheque receipts, discount allowed, and bills receivable all reduce what debtors owe, so they are credit items.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 855,
+    "question": "The authority warrant issued prior to the approval of the appropriate bill at the begining of the year",
+    "option": {
+      "a": "contigencies\n",
+      "b": "reserved expenditure warrant\n",
+      "c": "annual general warrant\n",
+      "d": "provisional general warrant\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The authority warrant issued prior to the approval of the appropriate bill at the beginning of the year is known as a provisional general warrant.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -18588,6 +18652,22 @@
     "image": "",
     "answer": "a",
     "solution": "Debit Cash: Increases the head office’s cash balance when it receives the remittance.\n\nCredit Branch Current Account: Reduces the receivable (or clears the liability) from the branch’s current account, since the branch has now funded that amount.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1261,
+    "question": "To account for expenses paid by head office on behalf of the branch, the branch should?",
+    "option": {
+      "a": "debit head office account and credit cash",
+      "b": "debit profit and loss account and credit headoffice account",
+      "c": " credit cash and debit profitand loss account",
+      "d": "credit profit and loss account and debit head office account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The branch should recognize the expense and record the head office as creditor:\n\nDebit Profit & Loss (Expense) Account\nCredit Head Office Account",
     "examtype": "utme",
     "examyear": "2001"
   },
