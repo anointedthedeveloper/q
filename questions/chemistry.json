@@ -5456,6 +5456,22 @@
     "examyear": "2015"
   },
   {
+    "id": 353,
+    "question": "Alloys are best prepared by",
+    "option": {
+      "a": "electroplating",
+      "b": "Arc-welding",
+      "c": "reducing and mixture of their metallic",
+      "d": "cooking a molten of the metals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Alloys are best prepared by melting (fusing) the component metals together in the molten state and allowing the mixture to cool and solidify. This ensures homogeneous mixing of the metals at the atomic level, producing a uniform alloy.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 354,
     "question": "In countries where the temperature fall below 273 K, salt is always spilled on the road in order to",
     "option": {
