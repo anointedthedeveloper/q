@@ -3936,6 +3936,22 @@
     "examyear": "2003"
   },
   {
+    "id": 257,
+    "question": "The result of tossing a fair die 120 times is summarized above. Find the value of x",
+    "option": {
+      "a": "19",
+      "b": " 20",
+      "c": "21",
+      "d": " 22"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699564/ALOC-Questions/Mathematics/2003/math_2003_q36_tebywz.jpg",
+    "answer": "b",
+    "solution": "12 + 20 + x + 21 + x-1 +28 = 120\n2x + 80 = 120\n2x = 120 - 80\n2x = 40\nx = 20\n",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 258,
     "question": "An aeroplane flies due north from airport P to Q and then flies due east R. If Q is equidistant from P and R, find the bearing of P and R",
     "option": {
