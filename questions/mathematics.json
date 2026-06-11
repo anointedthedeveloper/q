@@ -14816,6 +14816,22 @@
     "examyear": "2019"
   },
   {
+    "id": 993,
+    "question": "if f(x)=3x<sup>3</sup>+4x<sup>2</sup>+x - 8, what is the value of f(-2)?",
+    "option": {
+      "a": " -24",
+      "b": "30",
+      "c": "-18",
+      "d": "-50"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>f</mi>\n  <mo stretchy=\"false\">(</mo>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mn>3</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>3</mn>\n  </msup>\n  <mo>+</mo>\n  <mn>4</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>+</mo>\n  <mi>x</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>8</mn>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "f(x)=3x<sup>3</sup>+4x<sup>2</sup>+x - 8\nf(−2)=3(−2)<sup>3</sup> + 4(−2)<sup>2</sup>+(−2)−8\n= −24+16−2−8\n= -18",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 994,
     "question": "Solve for x in (4x-6)/3 ≤ (3 + 2x)/2",
     "option": {
