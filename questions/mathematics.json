@@ -8016,6 +8016,22 @@
     "examyear": "2008"
   },
   {
+    "id": 513,
+    "question": "In how many ways can the letters of the word ACCEPTANCE be arranged?",
+    "option": {
+      "a": "10! / (2!2!3!)",
+      "b": "10! / ( 2!3!)",
+      "c": "10! / (2!2!)",
+      "d": " 10!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "ACCEPTANCE = 10 Letters\nA = 2 letters\nC = 3 letters\nE = 2 letters\nCan be arranged in 10! / (2!3!2!) ways",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 514,
     "question": "Find the number of ways of selecting 6 out of 10 subjects for an examination",
     "option": {
@@ -15772,6 +15788,22 @@
     "image": "",
     "answer": "c",
     "solution": "h/500  = sin 30°\n \n\n= 500 sin 30°\n \n\n= 500 x 1/2\n \n\n= 250m ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1057,
+    "question": "Find the non-zero positive value of x which satisfies the equation \n\n⎡⎣⎢x101x101x⎤⎦⎥\n = 0",
+    "option": {
+      "a": "2",
+      "b": "√3",
+      "c": "√2",
+      "d": "1"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>[</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mi>x</mi>\n        </mtd>\n        <mtd>\n          <mn>1</mn>\n        </mtd>\n        <mtd>\n          <mn>0</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mn>1</mn>\n        </mtd>\n        <mtd>\n          <mi>x</mi>\n        </mtd>\n        <mtd>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mn>0</mn>\n        </mtd>\n        <mtd>\n          <mn>1</mn>\n        </mtd>\n        <mtd>\n          <mi>x</mi>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>]</mo>\n  </mrow>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007231/ALOC-Questions/Mathematics/2020/JAMB_MATH_2020_Q40_foxhqz.jpg",
+    "answer": "c",
+    "solution": "",
     "examtype": "2020",
     "examyear": "utme"
   },
