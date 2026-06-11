@@ -11616,6 +11616,22 @@
     "examyear": "2013"
   },
   {
+    "id": 793,
+    "question": "The mean of seven numbers is 10. If six of the numbers are 2, 4, 8, 14, 16 and 18, find the mode.",
+    "option": {
+      "a": "6",
+      "b": "8",
+      "c": "14",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Using x = ∑x/N in each case, we get;\n\n∑<sup>i=1</sup><sub>6</sub> x<sub>i</sub>\n = 10 x 7 = 70\n\n∑<sup>i=1</sup><sub>7</sub>x<sub>i</sub>\n = 2 + 4 + 8 + 14 + 16 + 18 = 62\n\nHence the missing number can be obtained from\n\n∑<sup>i=1</sup><sub>6</sub>x<sub>i</sub> − \n∑<sup>i=1</sup><sub>7</sub>x<sub>i</sub>\n = 70 - 62 = 8\n\nSo, all the seven numbers are 2, 4, 8, 8, 14, 16, 18\n\nMode = 8",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 794,
     "question": "Calculate the median age of the frequency distribution in the table above",
     "option": {
