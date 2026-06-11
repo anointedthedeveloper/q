@@ -5,6 +5,7 @@ accounts.json
 # runtime junk
 *.corrupt
 *.tmp
+errors.log
 
 # python
 *.pyc

@@ -379,7 +379,7 @@ def process_subject(subject, progress):
     try:
         _run_subject(subject, progress)
     except Exception as e:
-        print(f"[{subject}] FATAL: {e}")
+        log_error(f"[{subject}] FATAL error", e)
 
 
 def _run_subject(subject, progress):
@@ -424,23 +424,23 @@ def _run_subject(subject, progress):
                 progress[subject] = {"done": False, "total": total}
             save_progress(progress)
 
-            print(f"[{subject}] round {round_num}: +{len(new)} (total {total})")
+            log_info(f"[{subject}] round {round_num}: +{len(new)} (total {total})")
 
             # commit every round that has new questions
             git_commit_and_push(subject, len(new), total)
 
         else:
             no_new_streak += 1
-            print(f"[{subject}] round {round_num}: no new ({no_new_streak}/{NO_NEW_LIMIT})")
+            log_info(f"[{subject}] round {round_num}: no new ({no_new_streak}/{NO_NEW_LIMIT})")
             if no_new_streak >= NO_NEW_LIMIT:
                 break
 
         time.sleep(DELAY)
 
     # verification pass — keep going if API still has more
-    print(f"[{subject}] verifying...")
+    log_info(f"[{subject}] verifying...")
     if not verify_complete(subject, seen_ids, total):
-        print(f"[{subject}] more found — running another pass")
+        log_info(f"[{subject}] more found — running another pass")
         _run_subject(subject, progress)
         return
 
@@ -451,25 +451,28 @@ def _run_subject(subject, progress):
 
     # final commit for this subject
     git_commit_and_push(subject, 0, total)
-    print(f"[{subject}] COMPLETE: {total} questions")
+    log_info(f"[{subject}] COMPLETE: {total} questions")
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # configure git identity — use real user so commits count as contributions
-    git_user  = os.environ.get("GIT_USER_NAME",  _env.get("GIT_USER_NAME",  "github-actions[bot]"))
-    git_email = os.environ.get("GIT_USER_EMAIL", _env.get("GIT_USER_EMAIL", "github-actions[bot]@users.noreply.github.com"))
-    git_run(["config", "user.name",  git_user])
-    git_run(["config", "user.email", git_email])
+    log_info(f"\n{'='*55}")
+    log_info(f"Starting download — {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    log_info(f"Errors will be saved to: {LOG_FILE}")
+    log_info(f"{'='*55}\n")
+
+    # configure git identity — hardcoded so commits count as contributions
+    git_run(["config", "user.name",  "anointedthedeveloper"])
+    git_run(["config", "user.email", "anointedthedeveloper@gmail.com"])
 
     progress = load_progress()
 
     prevent_sleep()
     prevent_shutdown()
 
-    print(f"\nDownloading {len(SUBJECTS)} subjects — committing every round...\n")
+    log_info(f"\nDownloading {len(SUBJECTS)} subjects — committing every round...\n")
 
     threads = [
         threading.Thread(target=process_subject, args=(s, progress), daemon=True)
@@ -483,12 +486,12 @@ if __name__ == "__main__":
     allow_sleep()
     allow_shutdown()
 
-    print("\n" + "=" * 55)
-    print("FINAL RESULTS")
-    print("=" * 55)
+    log_info("\n" + "=" * 55)
+    log_info("FINAL RESULTS")
+    log_info("=" * 55)
     for s in SUBJECTS:
         info   = progress.get(s, {})
         status = "COMPLETE" if info.get("done") else "INCOMPLETE"
-        print(f"  {s:<25} {info.get('total', 0):>6} questions  [{status}]")
-    print("=" * 55)
-    print("\nAll done!")
+        log_info(f"  {s:<25} {info.get('total', 0):>6} questions  [{status}]")
+    log_info("=" * 55)
+    log_info(f"\nAll done! Check {LOG_FILE} for any errors.")
