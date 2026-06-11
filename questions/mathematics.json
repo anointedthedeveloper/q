@@ -19296,6 +19296,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1274,
+    "question": "If an investor invest N450,000 in a certain organization in order to yield X as a return of N25,000. Find the return on an investment of N700,000 by Y in the same organization.",
+    "option": {
+      "a": "N14,950.50K",
+      "b": "N25,150.30K",
+      "c": "N15,000.00K",
+      "d": "N38,888.90K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "[Return ÷ Investment] as a ratio ;\n\ni.e The Ratio is Return : Investmen\n\n[(Return1÷ Investment1 ) = (Return2÷Investment2)]\n\nR1 = N 25000\n\nR2 =?\n\nI1 = N450,000,\n\nI1 = N 700000\n\n(25000 ÷ 450000) = (R2 ÷ 700000)\n\nR2 = [(25000 × 700000 ) ÷ 450000]\n\n= N38,888.90K\n\n∴ The return on a investment of Y = N38888.90K",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1275,
     "question": "Evaluate log<sub>7</sub>17",
     "option": {
