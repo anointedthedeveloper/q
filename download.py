@@ -306,10 +306,29 @@ def git_commit_and_push(subject, new_count, total):
 
 # ── Verification pass ─────────────────────────────────────────────────────────
 
-def verify_complete(subject, seen_ids):
-    for _ in range(5):
+# Subjects we know have very few questions — don't require a minimum count
+KNOWN_SPARSE = {"irk", "currentaffairs", "history"}
+
+# Minimum plausible question count for a subject to be considered truly done.
+# Subjects below this threshold will NOT be marked done even if the API stops
+# returning new items — they need more rounds.
+MIN_QUESTIONS_TO_MARK_DONE = 200
+
+
+def verify_complete(subject, seen_ids, total):
+    """
+    Returns True only if:
+    1. The subject is in KNOWN_SPARSE  OR  has at least MIN_QUESTIONS_TO_MARK_DONE
+    2. Five consecutive parallel fetches return zero new IDs
+    """
+    if subject not in KNOWN_SPARSE and total < MIN_QUESTIONS_TO_MARK_DONE:
+        print(f"  [{subject}] only {total} questions — too few to mark done, continuing...")
+        return False
+
+    for attempt in range(5):
         data = parallel_fetch(subject)
         if any(q["id"] not in seen_ids for q in data):
+            print(f"  [{subject}] verify attempt {attempt+1}: found new questions — not done yet")
             return False
     return True
 
@@ -371,7 +390,7 @@ def _run_subject(subject, progress):
 
     # verification pass — keep going if API still has more
     print(f"[{subject}] verifying...")
-    if not verify_complete(subject, seen_ids):
+    if not verify_complete(subject, seen_ids, total):
         print(f"[{subject}] more found — running another pass")
         _run_subject(subject, progress)
         return
@@ -390,9 +409,11 @@ def _run_subject(subject, progress):
 if __name__ == "__main__":
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # configure git identity (needed inside GitHub Actions)
-    git_run(["config", "user.name",  "github-actions[bot]"])
-    git_run(["config", "user.email", "github-actions[bot]@users.noreply.github.com"])
+    # configure git identity — use real user so commits count as contributions
+    git_user  = os.environ.get("GIT_USER_NAME",  _env.get("GIT_USER_NAME",  "github-actions[bot]"))
+    git_email = os.environ.get("GIT_USER_EMAIL", _env.get("GIT_USER_EMAIL", "github-actions[bot]@users.noreply.github.com"))
+    git_run(["config", "user.name",  git_user])
+    git_run(["config", "user.email", git_email])
 
     progress = load_progress()
 
