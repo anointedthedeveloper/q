@@ -17904,6 +17904,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1120,
+    "question": "Which of these colours in the visible spectrum has the longest wavelength?",
+    "option": {
+      "a": "Red",
+      "b": " Blue",
+      "c": "Yellow",
+      "d": "Violet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Red has the longest wavelength.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 1121,
     "question": "The power of a lens in diopters is ",
     "option": {
