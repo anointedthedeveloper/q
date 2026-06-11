@@ -4640,6 +4640,22 @@
     "examyear": "2018"
   },
   {
+    "id": 291,
+    "question": "The amount of heat needed to raise the temperature of 10kg of Copper by 1K is its",
+    "option": {
+      "a": "specific heat capacity",
+      "b": "latent heat",
+      "c": "heat capacity",
+      "d": "internal energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The amount of heat needed to raise the temperature of 10kg of copper (a specific object) by 1K is its heat capacity.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 292,
     "question": "The electrochemical equivalent of silver is 0.0012g/C. If 36.0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5mins, the current must be?",
     "option": {
