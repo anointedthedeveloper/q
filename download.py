@@ -17,6 +17,8 @@ import threading
 import subprocess
 import base64
 import ctypes
+import logging
+from datetime import datetime
 from dotenv import dotenv_values
 
 # ── Windows sleep/shutdown prevention ────────────────────────────────────────
@@ -56,6 +58,44 @@ ENV_FILE      = os.path.join(SCRIPT_DIR, ".env")
 
 _env = dotenv_values(ENV_FILE)
 
+# ── Error logger ──────────────────────────────────────────────────────────────
+
+LOG_FILE = os.path.join(SCRIPT_DIR, "errors.log")
+
+def _setup_logger():
+    logger = logging.getLogger("downloader")
+    logger.setLevel(logging.DEBUG)
+
+    # File handler — all errors go here with timestamps
+    fh = logging.FileHandler(LOG_FILE, encoding="utf-8")
+    fh.setLevel(logging.WARNING)
+    fh.setFormatter(logging.Formatter(
+        "%(asctime)s  %(levelname)-8s  %(message)s",
+        datefmt="%Y-%m-%d %H:%M:%S",
+    ))
+
+    # Console handler — info and above to stdout
+    ch = logging.StreamHandler()
+    ch.setLevel(logging.INFO)
+    ch.setFormatter(logging.Formatter("%(message)s"))
+
+    logger.addHandler(fh)
+    logger.addHandler(ch)
+    return logger
+
+log = _setup_logger()
+
+def log_error(msg, exc=None):
+    """Log an error to both console and errors.log."""
+    full = f"{msg} — {exc}" if exc else msg
+    log.error(full)
+
+def log_info(msg):
+    log.info(msg)
+
+def log_warning(msg):
+    log.warning(msg)
+
 
 def load_api_keys():
     if os.path.exists(ACCOUNTS_FILE):
@@ -69,12 +109,12 @@ def load_api_keys():
                     keys.append(k)
                     seen.add(k)
             if keys:
-                print(f"[config] {len(keys)} API keys from accounts.json")
+                log_info(f"[config] {len(keys)} API keys from accounts.json")
                 return keys
         except Exception as e:
-            print(f"[config] accounts.json error: {e} — falling back to .env")
+            log_error("[config] accounts.json error — falling back to .env", e)
     keys = [v for k, v in sorted(_env.items()) if k.startswith("API_KEY_")]
-    print(f"[config] {len(keys)} API keys from .env")
+    log_info(f"[config] {len(keys)} API keys from .env")
     return keys
 
 
@@ -108,8 +148,8 @@ DELAY             = 0.05  # seconds between rounds
 
 REQUESTS_PER_ROUND = max(1, min(30, len(API_KEYS) // len(SUBJECTS)))
 
-print(f"[config] {REQUESTS_PER_ROUND} parallel req/round per subject "
-      f"| {len(API_KEYS)} keys | {len(API_KEYS) * RATE_LIMIT} req/min capacity")
+log_info(f"[config] {REQUESTS_PER_ROUND} parallel req/round per subject "
+         f"| {len(API_KEYS)} keys | {len(API_KEYS) * RATE_LIMIT} req/min capacity")
 
 # ── Rate-limit-aware key picker ───────────────────────────────────────────────
 
@@ -134,7 +174,7 @@ def pick_key():
                 current_key = (idx + 1) % len(API_KEYS)
                 return idx, HEADERS_LIST[idx]
         wait = 60 - (time.time() - min(key_reset))
-        print(f"  [rate limit] waiting {wait:.0f}s")
+        log_info(f"  [rate limit] waiting {wait:.0f}s")
         time.sleep(max(wait, 1))
         for i in range(len(API_KEYS)):
             key_counts[i] = 0
@@ -160,11 +200,12 @@ def single_request(subject):
                     data = [data]
                 return [q for q in data if q.get("id") and q.get("question")]
             if r.status_code >= 500:
+                log_error(f"[{subject}] HTTP {r.status_code} on attempt {attempt+1}/6")
                 time.sleep(min(2 ** attempt, 60))
                 continue
         except Exception as e:
             wait = min(2 ** attempt, 60)
-            print(f"  [{subject}] error attempt {attempt+1}/6: {e} — retry in {wait}s")
+            log_error(f"[{subject}] request error attempt {attempt+1}/6 — retry in {wait}s", e)
             time.sleep(wait)
     return []
 
@@ -209,15 +250,15 @@ def load_subject(subject):
         valid = [q for q in data if q.get("id") and q.get("question", "").strip()]
         removed = len(data) - len(valid)
         if removed:
-            print(f"  [{subject}] removed {removed} corrupt entries")
+            log_warning(f"[{subject}] removed {removed} corrupt entries on load")
         seen = {q["id"]: q for q in valid}
         return seen, set(seen.keys())
     except Exception as e:
-        print(f"  [{subject}] file corrupt: {e} — starting fresh")
+        log_error(f"[{subject}] file corrupt — starting fresh", e)
         try:
             os.replace(path, path + ".corrupt")
-        except Exception:
-            pass
+        except Exception as re:
+            log_error(f"[{subject}] could not rename corrupt file", re)
         return {}, set()
 
 
@@ -249,7 +290,7 @@ def save_progress(progress):
                 json.dump(progress, f, indent=2)
             os.replace(tmp, PROGRESS_FILE)
         except Exception as e:
-            print(f"  [progress] save failed: {e}")
+            log_error("[progress] save failed", e)
 
 # ── Git commit + push ─────────────────────────────────────────────────────────
 
@@ -289,20 +330,20 @@ def git_commit_and_push(subject, new_count, total):
         msg = f"[{subject}] +{new_count} questions (total {total})"
         _, err, rc = git_run(["commit", "-m", msg])
         if rc != 0:
-            print(f"  [git] commit failed: {err}")
+            log_error(f"[git] commit failed: {err}")
             return
 
         # push with retry
         for attempt in range(3):
             _, err, rc = git_run(["push", "origin", GITHUB_BRANCH])
             if rc == 0:
-                print(f"  [git] committed: {msg}")
+                log_info(f"  [git] committed: {msg}")
                 return
             # another thread may have pushed first — rebase and retry
             git_run(["pull", "--rebase", "--autostash", "origin", GITHUB_BRANCH])
             time.sleep(2 * (attempt + 1))
 
-        print(f"  [git] push failed after 3 attempts: {err}")
+        log_error(f"[git] push failed after 3 attempts: {err}")
 
 # ── Verification pass ─────────────────────────────────────────────────────────
 
@@ -322,13 +363,13 @@ def verify_complete(subject, seen_ids, total):
     2. Five consecutive parallel fetches return zero new IDs
     """
     if subject not in KNOWN_SPARSE and total < MIN_QUESTIONS_TO_MARK_DONE:
-        print(f"  [{subject}] only {total} questions — too few to mark done, continuing...")
+        log_warning(f"[{subject}] only {total} questions — too few to mark done, continuing...")
         return False
 
     for attempt in range(5):
         data = parallel_fetch(subject)
         if any(q["id"] not in seen_ids for q in data):
-            print(f"  [{subject}] verify attempt {attempt+1}: found new questions — not done yet")
+            log_info(f"  [{subject}] verify attempt {attempt+1}: found new questions — not done yet")
             return False
     return True
 
@@ -342,17 +383,25 @@ def process_subject(subject, progress):
 
 
 def _run_subject(subject, progress):
-    print(f"\n[{subject}] starting")
+    log_info(f"\n[{subject}] starting")
     seen_dict, seen_ids = load_subject(subject)
     total = len(seen_dict)
 
     subj_prog = progress.get(subject, {})
-    if subj_prog.get("done") and total > 0:
-        print(f"[{subject}] already complete ({total} questions) — skipping")
+    is_done   = subj_prog.get("done", False)
+    is_sparse = subject in KNOWN_SPARSE
+
+    # Skip only if marked done AND has enough questions (or is a known sparse subject)
+    if is_done and (is_sparse or total >= MIN_QUESTIONS_TO_MARK_DONE):
+        log_info(f"[{subject}] already complete ({total} questions) — skipping")
         return
 
+    # Was marked done but has suspiciously few questions — re-run
+    if is_done and total < MIN_QUESTIONS_TO_MARK_DONE and not is_sparse:
+        log_warning(f"[{subject}] was marked done but only has {total} questions — re-checking")
+
     if total > 0:
-        print(f"[{subject}] resuming from {total} questions")
+        log_info(f"[{subject}] resuming from {total} questions")
 
     no_new_streak = 0
 
