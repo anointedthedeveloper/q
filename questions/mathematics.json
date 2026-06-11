@@ -12864,6 +12864,22 @@
     "examyear": "2017"
   },
   {
+    "id": 874,
+    "question": "Evaluate (sin45° + sin30° ) in surd form",
+    "option": {
+      "a": "√3/2√2",
+      "b": "√3 − 1/2",
+      "c": "1/2 √2",
+      "d": "1+√2/2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005730/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q6_SOLUTION_xedzj5.jpg",
+    "answer": "d",
+    "solution": "hypotenuse\nsin = 1/2\n\n\nsin45=1/√2\n\n\n= 2/2\n\n\n∴ (sin45 + sin30)\n\n= 1/√2 + 1/2\n\n\n= √2/2 + 1/2\n\n\n= √2+1/2\n\n\n= 1+√2/2",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 875,
     "question": "If y = x Sin x, find dy/dx when x = π/2",
     "option": {
