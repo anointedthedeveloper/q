@@ -14480,6 +14480,22 @@
     "examyear": "2010"
   },
   {
+    "id": 908,
+    "question": "A hydrometer is an instrument used in measuring?",
+    "option": {
+      "a": "vapour pressure of a fluid",
+      "b": "density of liquid",
+      "c": "relative humidity of a liquid",
+      "d": "relative density of a liquid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The instrument used in measuring relative density is hydrometer",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 909,
     "question": "One special advantage of alcohol over mercury as a thermometric liquid is its?",
     "option": {
