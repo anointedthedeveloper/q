@@ -12320,6 +12320,22 @@
     "examyear": "2016"
   },
   {
+    "id": 835,
+    "question": "Factorize k<sup>2</sup> - 2kp + p<sup>2</sup>",
+    "option": {
+      "a": "(k +p)<sup>2</sup>",
+      "b": "(k - p)<sup>2</sup>",
+      "c": "k<sup>2</sup> + p<sup>2</sup>",
+      "d": "k<sup>2</sup> - p<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "k<sup>2</sup> - 2kp + p<sup>2</sup> = (k - p)<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 836,
     "question": "Calculate the perimeter of a sector of a circle of raduis 12cm and angle 60°.",
     "option": {
