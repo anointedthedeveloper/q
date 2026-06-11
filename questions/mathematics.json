@@ -18144,6 +18144,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1204,
+    "question": "What is the common ratio of the G.P. (√10 + √5) + (√10 +2√5) +...?",
+    "option": {
+      "a": "√2",
+      "b": "√5",
+      "c": "3",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Common ratio r of the G.P is\n\nr = T<sub>n</sub> + 1/T<sub>n</sub> = T<sub>n</sub>/T<sub>n</sub>\n\n\nr = √10 +2√5/√10 + √5\n\n\nr = (√10 + 2√5)/(√10 + √5) × (√10 − √5)/(√10 − √5)\n\n\n=(√10)(√10)+(√10)(−√5) + (2√5)(√10) + (2√5)(−√5)/(√10)<sup>2</sup>−(√5)<sup>2</sup>\n\n\n10−√50 + 2√50 −10/10−5\n\n\n√50/5\n\n\n√25 x 2/5\n\n\n5√2/5\n\n\n√2",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1205,
     "question": "A binary operation * is defined by x * y = xy. If x * 2 = 12 - x, find the possible values of x",
     "option": {
