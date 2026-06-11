@@ -4240,6 +4240,22 @@
     "examyear": "5"
   },
   {
+    "id": 266,
+    "question": "One of this is the evidence of insurance contract",
+    "option": {
+      "a": "schedule",
+      "b": "policy",
+      "c": "proposal form",
+      "d": "endorsement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 267,
     "question": "One of this is the consideration paid for insurance contract",
     "option": {
