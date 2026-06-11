@@ -7328,6 +7328,22 @@
     "examyear": "2021"
   },
   {
+    "id": 460,
+    "question": "Which of these is a derived unit?",
+    "option": {
+      "a": "Kilogram",
+      "b": "Metre",
+      "c": "Newton",
+      "d": "Second"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Newton is a derived unit because it is defined in terms of base units: 1 Newton = 1 kg·m/s² (combining kilogram, metre, and second).",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 461,
     "question": "A bar magnet is divided into two pieces, which of the following statement is correct?",
     "option": {
