@@ -15936,6 +15936,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1001,
+    "question": "A load is pulled at a uniform speed along a horizontal floor by a rope at 45° to the floor. If the force in the rope is 1500N, what is the frictional force on the load?",
+    "option": {
+      "a": "1524N",
+      "b": "1350N",
+      "c": "1260N",
+      "d": " 1061N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nForce in rope (F) = 1500 N\nAngle to floor (θ) = 45°\nLoad moves at uniform speed (constant velocity)\nFrictional force = ?\n\nKey principle:\nSince the load moves at uniform speed, the net force is zero (equilibrium).\nThis means: Horizontal component of applied force = Frictional force\nStep 1: Resolve the rope force into components\nHorizontal component:\nF_horizontal = F cos θ\nF_horizontal = 1500 × cos 45°\nF_horizontal = 1500 × (1/√2)\nF_horizontal = 1500 × 0.7071\nF_horizontal = 1060.7 N\nF_horizontal ≈ 1061 N\nVertical component:\nF_vertical = F sin θ\nF_vertical = 1500 × sin 45°\nF_vertical = 1500 × (1/√2)\nF_vertical = 1060.7 N\nStep 2: Apply equilibrium condition\nFor uniform speed (no acceleration):\nHorizontal forces must balance:\nFrictional force = Horizontal component of applied force\nf = F_horizontal = 1061 N",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1002,
     "question": "Calculate the total distance covered by a train before coming to rest if its initial speed is 30ms⁻¹ with a constant retardation of 0.1ms⁻²",
     "option": {
