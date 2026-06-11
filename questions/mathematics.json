@@ -5728,6 +5728,22 @@
     "examyear": "2005"
   },
   {
+    "id": 369,
+    "question": "The histogram above shows the distribution of the distribution of the monthly incomes of the workers in a company. How many workers earn more than N700.000?",
+    "option": {
+      "a": "16",
+      "b": "12",
+      "c": "8",
+      "d": "6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702571/ALOC-Questions/Mathematics/2005/math_2005_q48_xftxzo.jpg",
+    "answer": "b",
+    "solution": "Workers earning more than N700.00 = 4 + 6 + 2 = 12",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 370,
     "question": "From the diagram above, find the bearing of R and S",
     "option": {
