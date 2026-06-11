@@ -8096,6 +8096,22 @@
     "examyear": "2008"
   },
   {
+    "id": 520,
+    "question": "\nA student sitting on a tower 68 metres high observes his principal's car at the angle of depression of 20°. How far is the car from the bottom of the tower to the nearest metre?",
+    "option": {
+      "a": "184 m",
+      "b": "185 m",
+      "c": "186 m",
+      "d": "187 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Tan 20° = 68m/x\n\nx tan 20° = 68\n\nx = 68/tan20 = 68/0.364\n\nx = 186.8\n\n= 187m",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 521,
     "question": "A trader bought goats for ₦4,000 each. He sold them for ₦18,000 at a loss of . How many goats did he buy?",
     "option": {
