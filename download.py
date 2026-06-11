@@ -210,13 +210,15 @@ def single_request(subject):
     return []
 
 
-def parallel_fetch(subject):
-    results = [[] for _ in range(REQUESTS_PER_ROUND)]
+def parallel_fetch(subject, n_requests=None):
+    """Fetch `n_requests` parallel requests for subject (defaults to REQUESTS_PER_ROUND)."""
+    count   = n_requests if n_requests is not None else REQUESTS_PER_ROUND
+    results = [[] for _ in range(count)]
 
     def fetch(i):
         results[i] = single_request(subject)
 
-    threads = [threading.Thread(target=fetch, args=(i,)) for i in range(REQUESTS_PER_ROUND)]
+    threads = [threading.Thread(target=fetch, args=(i,)) for i in range(count)]
     for t in threads: t.start()
     for t in threads: t.join()
 
@@ -373,6 +375,75 @@ def verify_complete(subject, seen_ids, total):
             return False
     return True
 
+# ── Reconciliation pass ───────────────────────────────────────────────────────
+
+# How many parallel requests to fire per round during reconciliation.
+# More = better coverage of the API's random pool.
+RECONCILE_REQUESTS = max(REQUESTS_PER_ROUND * 3, 10)
+
+# How many consecutive empty rounds before we're confident nothing is missing.
+RECONCILE_NO_NEW_LIMIT = 60
+
+
+def reconcile_subject(subject, progress):
+    """
+    Cross-check local data against the API.
+    Fires RECONCILE_REQUESTS parallel requests per round.
+    Any question the API returns that isn't stored locally gets added + committed.
+    Stops only after RECONCILE_NO_NEW_LIMIT consecutive rounds with zero new IDs.
+    """
+    seen_dict, seen_ids = load_subject(subject)
+    total_before = len(seen_dict)
+
+    log_info(f"[reconcile:{subject}] starting — local total: {total_before}")
+
+    no_new_streak = 0
+    round_num     = 0
+    added_total   = 0
+
+    while no_new_streak < RECONCILE_NO_NEW_LIMIT:
+        round_num += 1
+        data = parallel_fetch(subject, n_requests=RECONCILE_REQUESTS)
+        new  = [q for q in data if q["id"] not in seen_ids]
+
+        if new:
+            for q in new:
+                seen_ids.add(q["id"])
+                seen_dict[q["id"]] = q
+            added_total   += len(new)
+            total          = len(seen_dict)
+            no_new_streak  = 0
+
+            save_subject(subject, seen_dict)
+
+            with progress_lock:
+                progress[subject] = {"done": False, "total": total}
+            save_progress(progress)
+
+            log_info(f"[reconcile:{subject}] round {round_num}: +{len(new)} gap(s) filled "
+                     f"(total now {total})")
+            git_commit_and_push(subject, len(new), total)
+        else:
+            no_new_streak += 1
+            if round_num % 10 == 0:
+                log_info(f"[reconcile:{subject}] round {round_num}: no new "
+                         f"({no_new_streak}/{RECONCILE_NO_NEW_LIMIT})")
+
+        time.sleep(DELAY)
+
+    total_after = len(seen_dict)
+    if added_total > 0:
+        log_info(f"[reconcile:{subject}] DONE — filled {added_total} missing questions "
+                 f"({total_before} → {total_after})")
+    else:
+        log_info(f"[reconcile:{subject}] DONE — local data matches API perfectly "
+                 f"({total_after} questions, nothing missing)")
+
+    with progress_lock:
+        progress[subject] = {"done": True, "total": total_after}
+    save_progress(progress)
+    git_commit_and_push(subject, 0, total_after)
+
 # ── Subject worker ────────────────────────────────────────────────────────────
 
 def process_subject(subject, progress):
@@ -453,6 +524,12 @@ def _run_subject(subject, progress):
     git_commit_and_push(subject, 0, total)
     log_info(f"[{subject}] COMPLETE: {total} questions")
 
+def _safe_reconcile(subject, progress):
+    try:
+        reconcile_subject(subject, progress)
+    except Exception as e:
+        log_error(f"[reconcile:{subject}] FATAL error", e)
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
@@ -481,6 +558,29 @@ if __name__ == "__main__":
     for t in threads:
         t.start()
     for t in threads:
+        t.join()
+
+    # ── Reconciliation pass ───────────────────────────────────────────────────
+    # Every subject gets cross-checked against the API regardless of its
+    # "done" status.  Any IDs the API returns that aren't stored locally
+    # are fetched and committed.  This catches questions that slipped
+    # through during the main download due to API randomness.
+    log_info(f"\n{'='*55}")
+    log_info("RECONCILIATION PASS — cross-checking all subjects against API")
+    log_info(f"  {RECONCILE_REQUESTS} parallel req/round | "
+             f"{RECONCILE_NO_NEW_LIMIT} consecutive empty rounds to confirm complete")
+    log_info(f"{'='*55}\n")
+
+    reconcile_threads = [
+        threading.Thread(
+            target=lambda s=s: _safe_reconcile(s, progress),
+            daemon=True,
+        )
+        for s in SUBJECTS
+    ]
+    for t in reconcile_threads:
+        t.start()
+    for t in reconcile_threads:
         t.join()
 
     allow_sleep()
