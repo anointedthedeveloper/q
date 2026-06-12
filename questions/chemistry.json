@@ -5120,6 +5120,22 @@
     "examyear": "2015"
   },
   {
+    "id": 321,
+    "question": "The above orbital diagram shown the electronic configuration of",
+    "option": {
+      "a": "chlorine",
+      "b": "nitrogen",
+      "c": "calcium",
+      "d": "neon"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777634690/ALOC-Questions/Chemistry/UTME/2015/Chemistry_2015_Q17_xcv9gt.jpg",
+    "answer": "b",
+    "solution": "The orbital diagram shows 7 electrons with configuration 1s² 2s² 2p³, which corresponds to nitrogen. The 2p orbital has three unpaired electrons (one in each 2p orbital), following Hund's rule of maximum spin multiplicity.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 322,
     "question": "Which of the following metals burns with brick red",
     "option": {
