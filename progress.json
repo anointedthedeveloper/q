@@ -2,5 +2,9 @@
   "chemistry": {
     "done": false,
     "total": 793
+  },
+  "physics": {
+    "done": true,
+    "total": 1159
   }
 }
